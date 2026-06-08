@@ -1,0 +1,17 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+.vite
+dev-dist
+*.log
+
+# dev-only scratch (safe to ignore)
+verify.mts
+ssr-smoke.mts
+npm-install.log
+prev.log
+vite.config.ts.timestamp-*
+*.tsbuildinfo
+_notes/

@@ -1,0 +1,144 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ─────────────────────────────────────────────────────────────────────────
+   Design tokens. Light is the default; dark is an opt-in reading mode applied
+   via [data-theme="dark"] on <html>. The SRS grade colours stay constant.
+   ───────────────────────────────────────────────────────────────────────── */
+:root {
+  --paper: #fbfaf6;
+  --paper-2: #f1eee6;
+  --card: #ffffff;
+  --ink: #16150f;
+  --ink-soft: #403d34;
+  --muted: #8c867a;
+  --line: #e6e1d6;
+  --accent: #9e2b25;
+  --accent-soft: #f3e2df;
+
+  --again: #c0492f;
+  --hard: #c28a2e;
+  --good: #3e7d5a;
+  --easy: #2e6f8e;
+
+  --shadow-card: 0 1px 2px rgba(22, 21, 15, 0.04), 0 8px 24px rgba(22, 21, 15, 0.05);
+  color-scheme: light;
+}
+
+[data-theme='dark'] {
+  --paper: #15140f;
+  --paper-2: #1c1b15;
+  --card: #201e18;
+  --ink: #edeae0;
+  --ink-soft: #bbb6a8;
+  --muted: #807a6c;
+  --line: #2c2a22;
+  --accent: #e0635a;
+  --accent-soft: #3a211f;
+
+  --again: #c0492f;
+  --hard: #c28a2e;
+  --good: #3e7d5a;
+  --easy: #2e6f8e;
+
+  --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.3), 0 10px 30px rgba(0, 0, 0, 0.32);
+  color-scheme: dark;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: 'Hanken Grotesk', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  overscroll-behavior-y: none;
+}
+
+/* Respect the platform safe areas (iOS notch / home indicator). */
+#root {
+  min-height: 100%;
+}
+
+/* ── Reusable typographic helpers ─────────────────────────────────────────── */
+.font-reading {
+  font-family: 'Newsreader', Georgia, Cambria, serif;
+}
+
+.kicker {
+  font-family: 'Hanken Grotesk', system-ui, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 0.6875rem;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+/* The reading column: generous measure, comfortable leading. */
+.reading {
+  font-family: 'Newsreader', Georgia, Cambria, serif;
+  font-size: 1.1875rem; /* ~19px */
+  line-height: 1.72;
+  color: var(--ink);
+}
+.reading p + p {
+  margin-top: 1.1em;
+}
+
+/* Hairline divider. */
+.hr {
+  height: 1px;
+  background: var(--line);
+  border: 0;
+}
+
+/* Focus states: visible, quiet, keyboard-only. */
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+button:focus:not(:focus-visible) {
+  outline: none;
+}
+
+/* Custom scrollbars stay out of the way. */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--line);
+  border-radius: 8px;
+}
+
+/* Number transitions and counters never jitter the layout. */
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+/* ── Motion ───────────────────────────────────────────────────────────────
+   All decorative motion is gentle and removed entirely when the user asks. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
