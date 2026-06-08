@@ -4,6 +4,7 @@ import { db, getEngagement } from '../lib/db'
 import { getDueCounts } from '../lib/queue'
 import { State } from '../lib/fsrs'
 import { deletePack } from '../lib/packs'
+import { pullFeed } from '../lib/feed'
 import { packMatchesFilters, packTopics, TOPICS } from '../lib/topics'
 import { prettyDate } from '../lib/format'
 import { rollingScore } from '../lib/engagement'
@@ -28,6 +29,7 @@ export function Library() {
   const [activeTopics, setActiveTopics] = useState<Set<string>>(new Set())
   const [activeTiers, setActiveTiers] = useState<Set<Tier>>(new Set())
   const [toDelete, setToDelete] = useState<StoredPack | null>(null)
+  const [pulling, setPulling] = useState(false)
 
   const cardsByPack = useMemo(() => {
     const map = new Map<string, StoredCard[]>()
@@ -74,6 +76,25 @@ export function Library() {
     toast.push(`Removed "${title}".`, 'default')
   }
 
+  async function handlePull() {
+    setPulling(true)
+    try {
+      const r = await pullFeed()
+      if (!r.reachedFeed) {
+        toast.push('No feed reachable yet — deploy the app first, or set a feed URL in Settings.', 'default')
+      } else if (r.added > 0) {
+        toast.push(
+          `Added ${r.added} new article${r.added === 1 ? '' : 's'}${r.cards ? ` · ${r.cards} new cards` : ''}.`,
+          'success',
+        )
+      } else {
+        toast.push('No new articles right now — you’re up to date.', 'default')
+      }
+    } finally {
+      setPulling(false)
+    }
+  }
+
   return (
     <Screen>
       <PageHeader
@@ -99,10 +120,14 @@ export function Library() {
       </section>
 
       {/* Primary action */}
-      <div className="mt-3">
+      <div className="mt-3 space-y-2">
         <Button variant={due > 0 ? 'primary' : 'secondary'} block onClick={() => go({ name: 'review' })} className="py-3 text-base">
           <Icon name="review" size={19} />
           {due > 0 ? `Review due (${due})` : 'Study (nothing due)'}
+        </Button>
+        <Button variant="ghost" block onClick={handlePull} disabled={pulling}>
+          <Icon name="sparkle" size={18} />
+          {pulling ? 'Checking for new articles…' : 'Get new articles'}
         </Button>
       </div>
 
@@ -148,7 +173,7 @@ export function Library() {
             <Spinner />
           </div>
         ) : packs.length === 0 ? (
-          <EmptyLibrary onImport={() => go({ name: 'import' })} />
+          <EmptyLibrary onImport={() => go({ name: 'import' })} onGetNew={handlePull} pulling={pulling} />
         ) : filteredPacks.length === 0 ? (
           <p className="py-10 text-center text-sm text-muted">No articles match these filters.</p>
         ) : (
@@ -240,7 +265,15 @@ function PackRow({
   )
 }
 
-function EmptyLibrary({ onImport }: { onImport: () => void }) {
+function EmptyLibrary({
+  onImport,
+  onGetNew,
+  pulling,
+}: {
+  onImport: () => void
+  onGetNew: () => void
+  pulling: boolean
+}) {
   return (
     <div className="rounded-2xl border border-dashed border-line bg-card px-6 py-12 text-center">
       <div className="mx-auto mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-accent-soft text-accent">
@@ -248,12 +281,15 @@ function EmptyLibrary({ onImport }: { onImport: () => void }) {
       </div>
       <h2 className="font-reading text-xl text-ink">Your library is empty</h2>
       <p className="mx-auto mt-2 max-w-[34ch] text-sm leading-relaxed text-ink-soft">
-        Tinta turns the Spanish articles you read into spaced-repetition study. Process an article into a
-        study pack, then import the JSON here to start reading and reviewing.
+        Tinta turns Spanish articles into spaced-repetition study. Pull in a fresh batch, or import a
+        study pack you already have.
       </p>
-      <div className="mt-5">
-        <Button variant="primary" icon="plus" onClick={onImport}>
-          Import a study pack
+      <div className="mt-5 flex flex-wrap items-center justify-center gap-2">
+        <Button variant="primary" icon="sparkle" onClick={onGetNew} disabled={pulling}>
+          {pulling ? 'Checking…' : 'Get new articles'}
+        </Button>
+        <Button variant="ghost" icon="plus" onClick={onImport}>
+          Import a pack
         </Button>
       </div>
     </div>

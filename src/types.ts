@@ -108,6 +108,10 @@ export interface ReviewLogEntry {
 export interface Settings {
   dailyNewCap: number
   theme: 'light' | 'dark'
+  /** Article feed (inbox). Empty string = use the built-in same-origin feed. */
+  feedUrl: string
+  /** Pull new articles from the feed automatically when the app opens. */
+  autoPull: boolean
 }
 
 export interface Engagement {

@@ -99,6 +99,46 @@ lossless — keep one if your data matters to you.
 
 ---
 
+## Article feed (the "inbox")
+
+Tinta can pull articles in for you instead of you importing them by hand.
+
+- **Get new articles** (button on the Library, and the empty state) fetches the feed and imports anything new. Everything you've pulled before stays put; you never get the same article twice (dedupe by `pack_id`).
+- **Auto-pull** (Settings → Articles, on by default) does the same automatically each time the app opens.
+- **Feed URL** (Settings) is blank by default, which uses the built-in feed published with the app at `<base>feed/index.json`. Point it anywhere (e.g. a Gist raw URL) to follow a feed that updates without redeploying the app.
+
+A feed is one small JSON file:
+
+```jsonc
+{
+  "generated_at": "2026-06-09T07:00:00Z",
+  "packs": [
+    {
+      "pack_id": "feed-2026-05-30-cafe-economia",
+      "title": "…", "source": "BBC Mundo", "date": "2026-05-30", "level": "B2",
+      "topics": ["politics", "society"],
+      "pack": { /* a full study pack, inline (preferred) */ }
+      // …or "file": "feed-2026-05-30-cafe-economia.json" to reference a separate pack file
+    }
+  ]
+}
+```
+
+The repo ships a real starter feed in [`public/feed/index.json`](./public/feed/index.json) (three current BBC Mundo pieces — economy, science, politics), so the button works the moment you deploy.
+
+### The daily generator (auto-pull source)
+
+A scheduled job keeps the feed fresh: each morning it reads free Spanish-language RSS
+(BBC Mundo, El País, RFI en Español, elDiario), picks ~5 articles across topics, builds a
+study pack for each, and appends them to the feed.
+
+Two practical notes:
+
+- **Source text.** News *article pages* aren't fetchable server-side, but the RSS feeds (title + summary) are, so packs are built from those and link to the original for full reading. For deep full-text analysis of a specific article, run the manual ArtículoFlash (browser-based) on it.
+- **Hosting the live feed.** So the feed updates without you redeploying, host it where the generator can write each day (a GitHub Gist or a tiny `tinta-feed` repo) and set **Settings → Feed URL** to that raw URL. The generator commits the new `feed.json` there daily.
+
+---
+
 ## The study-pack format (the contract)
 
 Tinta imports this shape. Only `meta` (with a `title`) and a non-empty `vocab`

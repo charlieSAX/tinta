@@ -15,3 +15,5 @@ prev.log
 vite.config.ts.timestamp-*
 *.tsbuildinfo
 _notes/
+verify-feed.mts
+*.mts

@@ -12,7 +12,12 @@ export interface MetaRow {
   value: unknown
 }
 
-export const DEFAULT_SETTINGS: Settings = { dailyNewCap: 10, theme: 'light' }
+export const DEFAULT_SETTINGS: Settings = {
+  dailyNewCap: 10,
+  theme: 'light',
+  feedUrl: '',
+  autoPull: true,
+}
 export const DEFAULT_ENGAGEMENT: Engagement = { sessionDays: [], lifetimeSessions: 0 }
 
 export class TintaDB extends Dexie {

@@ -1,9 +1,11 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { useLiveQuery } from 'dexie-react-hooks'
 import { seedIfEmpty } from './lib/seed'
 import { getDueCounts } from './lib/queue'
+import { getSettings } from './lib/db'
+import { pullFeed } from './lib/feed'
 import { NavProvider, useNav, type Route } from './nav'
-import { ToastProvider } from './components/Toast'
+import { ToastProvider, useToast } from './components/Toast'
 import { ThemeProvider } from './theme'
 import { BottomNav } from './components/BottomNav'
 import { Library } from './screens/Library'
@@ -27,11 +29,29 @@ export default function App() {
 
 function Shell() {
   const { route } = useNav()
+  const toast = useToast()
   const [ready, setReady] = useState(false)
+  const pulledRef = useRef(false)
 
   useEffect(() => {
     seedIfEmpty().finally(() => setReady(true))
   }, [])
+
+  // Auto-pull the article feed once per launch (if enabled). Quiet on failure.
+  useEffect(() => {
+    if (!ready || pulledRef.current) return
+    pulledRef.current = true
+    getSettings().then((s) => {
+      if (!s.autoPull) return
+      pullFeed()
+        .then((r) => {
+          if (r.added > 0) {
+            toast.push(`${r.added} new article${r.added === 1 ? '' : 's'} added to your library.`, 'success')
+          }
+        })
+        .catch(() => {})
+    })
+  }, [ready, toast])
 
   const counts = useLiveQuery(() => getDueCounts(), [])
   const due = counts?.actionable ?? 0

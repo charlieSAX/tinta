@@ -2,6 +2,7 @@ import { useRef, useState, type ReactNode } from 'react'
 import { useLiveQuery } from 'dexie-react-hooks'
 import { getSettings, setSettings } from '../lib/db'
 import { exportAll, importAll, resetDeck } from '../lib/backup'
+import { defaultFeedUrl, pullFeed } from '../lib/feed'
 import { isoDate } from '../lib/format'
 import { Screen, PageHeader } from '../components/layout'
 import { Button, ConfirmDialog, Divider } from '../components/ui'
@@ -23,10 +24,28 @@ export function Settings() {
   const [busy, setBusy] = useState(false)
 
   const cap = settings?.dailyNewCap ?? 10
+  const autoPull = settings?.autoPull ?? true
+  const feedUrl = settings?.feedUrl ?? ''
 
   function setCap(next: number) {
     const v = Math.max(CAP_MIN, Math.min(CAP_MAX, next))
     void setSettings({ dailyNewCap: v })
+  }
+
+  async function onPullNow() {
+    setBusy(true)
+    try {
+      const r = await pullFeed()
+      if (!r.reachedFeed) {
+        toast.push('No feed reachable — deploy the app first, or set a feed URL below.', 'default')
+      } else if (r.added > 0) {
+        toast.push(`Added ${r.added} new article${r.added === 1 ? '' : 's'}.`, 'success')
+      } else {
+        toast.push('No new articles — you’re up to date.', 'default')
+      }
+    } finally {
+      setBusy(false)
+    }
   }
 
   async function onExport() {
@@ -114,6 +133,38 @@ export function Settings() {
             >
               <Icon name="up" size={16} />
             </button>
+          </div>
+        </div>
+      </Group>
+
+      {/* Articles */}
+      <Group label="Articles">
+        <div className="flex items-center justify-between px-4 py-3">
+          <div className="pr-4">
+            <div className="text-sm text-ink">Pull new articles automatically</div>
+            <div className="mt-0.5 text-xs text-muted">When Tinta opens, fetch any new articles from your feed.</div>
+          </div>
+          <Switch checked={autoPull} onChange={() => setSettings({ autoPull: !autoPull })} label="Pull articles automatically" />
+        </div>
+        <Divider />
+        <div className="px-4 py-3.5">
+          <label htmlFor="feed-url" className="text-sm text-ink">
+            Feed URL
+          </label>
+          <div className="mt-0.5 text-xs text-muted">Leave blank to use the built-in feed published with the app.</div>
+          <div className="mt-2 flex gap-2">
+            <input
+              id="feed-url"
+              type="url"
+              inputMode="url"
+              value={feedUrl}
+              onChange={(e) => setSettings({ feedUrl: e.target.value })}
+              placeholder={defaultFeedUrl()}
+              className="min-w-0 flex-1 rounded-lg border border-line bg-paper px-3 py-2 text-sm text-ink outline-none placeholder:text-muted focus:border-ink-soft"
+            />
+            <Button variant="secondary" icon="sparkle" disabled={busy} onClick={onPullNow}>
+              Pull now
+            </Button>
           </div>
         </div>
       </Group>
@@ -214,6 +265,27 @@ function SegBtn({
     >
       <Icon name={icon} size={16} />
       {label}
+    </button>
+  )
+}
+
+function Switch({ checked, onChange, label }: { checked: boolean; onChange: () => void; label: string }) {
+  return (
+    <button
+      type="button"
+      role="switch"
+      aria-checked={checked}
+      aria-label={label}
+      onClick={onChange}
+      className={`relative inline-flex h-7 w-12 shrink-0 items-center rounded-full transition-colors ${
+        checked ? 'bg-accent' : 'bg-line'
+      }`}
+    >
+      <span
+        className={`inline-block h-5 w-5 transform rounded-full bg-white shadow transition-transform ${
+          checked ? 'translate-x-6' : 'translate-x-1'
+        }`}
+      />
     </button>
   )
 }

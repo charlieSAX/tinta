@@ -1,0 +1,157 @@
+{
+  "generated_at": "2026-06-09T07:00:00Z",
+  "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines — open the original via each article's link for the full text.",
+  "packs": [
+    {
+      "pack_id": "feed-2026-05-30-cafe-economia",
+      "title": "Lo que el precio de una taza de café revela sobre la economía",
+      "source": "BBC Mundo",
+      "date": "2026-05-30",
+      "level": "B2",
+      "topics": ["politics", "society"],
+      "pack": {
+        "pack_id": "feed-2026-05-30-cafe-economia",
+        "meta": {
+          "title": "Lo que el precio de una taza de café revela sobre la economía",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cg4pw44r4wlo",
+          "date_published": "2026-05-30",
+          "date_processed": "2026-06-09",
+          "tags": ["economia", "sociedad"],
+          "level": "B2"
+        },
+        "summary_en": "The price of a single cup of coffee reflects a tangle of global forces — tariffs, climate, shifting tastes and the strategies of growers. Rising costs ripple from coffee-growing regions all the way to the consumer's daily ritual. The article uses coffee to make sense of wider economic turbulence.",
+        "resumen_es": "El precio de una sola taza de café refleja una maraña de factores globales: los aranceles, el clima, los gustos cambiantes y las estrategias de los caficultores. El encarecimiento se traslada desde las regiones productoras hasta el ritual diario de los consumidores. A través del café, el artículo intenta explicar la agitación económica actual.",
+        "vocab": [
+          { "id": "marana", "front": "maraña", "pos": "noun", "back": "tangle, web (of factors, interests)", "example": "El conflicto es una maraña de intereses difíciles de separar.", "tier": "C1", "tags": ["economia"] },
+          { "id": "caficultor", "front": "caficultor", "pos": "noun", "back": "coffee grower", "example": "Los caficultores apenas cubren sus costes.", "tier": "C1", "tags": ["economia"] },
+          { "id": "cosecha", "front": "cosecha", "pos": "noun", "back": "harvest, crop", "example": "La cosecha fue escasa por la sequía.", "tier": "B2", "tags": ["economia"] },
+          { "id": "sequia", "front": "sequía", "pos": "noun", "back": "drought", "example": "La sequía redujo la producción de grano.", "tier": "B2", "tags": ["ciencia"] },
+          { "id": "trasladar", "front": "trasladar", "pos": "verb", "back": "to pass on (costs), to shift", "example": "Las empresas trasladan el coste al consumidor.", "tier": "B2", "tags": ["economia"] },
+          { "id": "minorista", "front": "minorista", "pos": "noun/adj", "back": "retailer; retail", "example": "Los minoristas han subido los precios.", "tier": "C1", "tags": ["economia"] },
+          { "id": "rentable", "front": "rentable", "pos": "adj", "back": "profitable, worthwhile", "example": "El cultivo ya no le resulta rentable.", "tier": "B2", "tags": ["economia"] },
+          { "id": "cadena-de-suministro", "front": "cadena de suministro", "pos": "phrase", "back": "supply chain", "example": "La cadena de suministro encarece el producto final.", "tier": "C1", "tags": ["economia"] },
+          { "id": "paladar", "front": "paladar", "pos": "noun", "back": "palate, taste", "example": "Los nuevos paladares prefieren cafés más suaves.", "tier": "C1", "tags": ["sociedad"] },
+          { "id": "a-su-vez", "front": "a su vez", "pos": "phrase", "back": "in turn, for its part", "example": "Esto, a su vez, eleva los precios.", "tier": "B2", "tags": ["conector"] },
+          { "id": "en-funcion-de", "front": "en función de", "pos": "phrase", "back": "depending on, according to", "example": "El precio varía en función de la cosecha.", "tier": "B2", "tags": ["conector"] }
+        ],
+        "grammar": [
+          { "sentence": "El precio depende de factores que escapan al control de los caficultores.", "point": "indicative in a relative clause with a real, known antecedent", "explanation": "When the thing described actually exists and is specific, the relative-clause verb stays in the indicative ('escapan'), not the subjunctive.", "why_tricky": "Learners over-apply the subjunctive after 'que'; here the antecedent is real, so indicative is correct." },
+          { "sentence": "Cuanto más sube el grano, más caro resulta el café.", "point": "correlative comparison 'cuanto más… más…'", "explanation": "Spanish links two rising quantities with 'cuanto más… más…' (or 'cuanto menos… menos…').", "why_tricky": "It maps to English 'the more… the more…', a structure with no obvious word-for-word equivalent." },
+          { "sentence": "Se trasladan los costes al consumidor.", "point": "passive / impersonal 'se'", "explanation": "'se' + verb expresses a passive without naming an agent: the costs get passed on.", "why_tricky": "English needs 'are passed on' and often an explicit agent." }
+        ],
+        "idioms": [
+          { "phrase": "estar por las nubes", "meaning": "to be sky-high (prices)", "example": "El café está por las nubes este año." },
+          { "phrase": "pagar el pato", "meaning": "to carry the can, to take the blame/cost", "example": "Al final, el consumidor paga el pato." }
+        ],
+        "comprehension": [
+          { "q": "¿Qué factores influyen en el precio del café, según el artículo?", "type": "factual" },
+          { "q": "¿Cómo llega el encarecimiento hasta el consumidor?", "type": "factual" },
+          { "q": "¿Por qué puede una taza de café servir para explicar la economía global?", "type": "inferential" }
+        ],
+        "opinion_prompt": "¿Crees que pequeños lujos cotidianos como el café seguirán encareciéndose? Escribe ~100 palabras."
+      }
+    },
+    {
+      "pack_id": "feed-2026-05-28-cortisol-bienestar",
+      "title": "Qué es el cortisol y por qué se habla tanto de bajar sus niveles",
+      "source": "BBC Mundo",
+      "date": "2026-05-28",
+      "level": "B2",
+      "topics": ["science", "society"],
+      "pack": {
+        "pack_id": "feed-2026-05-28-cortisol-bienestar",
+        "meta": {
+          "title": "Qué es el cortisol y por qué se habla tanto de bajar sus niveles",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/clyp01kddwko",
+          "date_published": "2026-05-28",
+          "date_processed": "2026-06-09",
+          "tags": ["ciencia", "sociedad", "salud"],
+          "level": "B2"
+        },
+        "summary_en": "Cortisol, the body's main stress hormone, has become a social-media obsession, with endless tips for lowering it. The article separates the science from the myths: cortisol is essential, and its rhythms are more complex than wellness trends suggest. Experts urge caution about quick fixes.",
+        "resumen_es": "El cortisol, la principal hormona del estrés, se ha convertido en una obsesión en las redes sociales, con innumerables consejos para reducirlo. El artículo distingue la ciencia de los mitos: el cortisol es esencial y sus ritmos son más complejos de lo que sugieren las modas del bienestar. Los expertos piden cautela ante las soluciones rápidas.",
+        "vocab": [
+          { "id": "hormona", "front": "hormona", "pos": "noun", "back": "hormone", "example": "El cortisol es una hormona que regula el estrés.", "tier": "B2", "tags": ["ciencia"] },
+          { "id": "segregar", "front": "segregar", "pos": "verb", "back": "to secrete (a substance)", "example": "El cuerpo segrega cortisol al despertar.", "tier": "C1", "tags": ["ciencia"] },
+          { "id": "torrente-sanguineo", "front": "torrente sanguíneo", "pos": "phrase", "back": "bloodstream", "example": "La hormona viaja por el torrente sanguíneo.", "tier": "C1", "tags": ["ciencia"] },
+          { "id": "bienestar", "front": "bienestar", "pos": "noun", "back": "wellbeing", "example": "La industria del bienestar mueve millones.", "tier": "B2", "tags": ["sociedad"] },
+          { "id": "moda-pasajera", "front": "moda pasajera", "pos": "phrase", "back": "passing fad", "example": "Para muchos, no es más que una moda pasajera.", "tier": "B2", "tags": ["sociedad"] },
+          { "id": "desmentir", "front": "desmentir", "pos": "verb", "back": "to debunk, to deny", "example": "Los científicos desmienten ese mito.", "tier": "C1", "tags": [] },
+          { "id": "respaldar", "front": "respaldar", "pos": "verb", "back": "to back up, to support (with evidence)", "example": "Pocos estudios respaldan esa afirmación.", "tier": "B2", "tags": ["ciencia"] },
+          { "id": "perjudicial", "front": "perjudicial", "pos": "adj", "back": "harmful, damaging", "example": "El estrés crónico es perjudicial para la salud.", "tier": "B2", "tags": ["salud"] },
+          { "id": "sobrevalorar", "front": "sobrevalorar", "pos": "verb", "back": "to overrate, to overvalue", "example": "Se sobrevalora el papel del cortisol.", "tier": "C1", "tags": [] },
+          { "id": "cautela", "front": "cautela", "pos": "noun", "back": "caution", "example": "Los expertos piden cautela.", "tier": "B2", "tags": [] },
+          { "id": "a-largo-plazo", "front": "a largo plazo", "pos": "phrase", "back": "in the long term", "example": "A largo plazo, el hábito sí importa.", "tier": "B2", "tags": ["conector"] },
+          { "id": "de-hecho", "front": "de hecho", "pos": "phrase", "back": "in fact, actually", "example": "De hecho, necesitamos cortisol para vivir.", "tier": "B2", "tags": ["conector"] }
+        ],
+        "grammar": [
+          { "sentence": "Es esencial que el cuerpo produzca cortisol.", "point": "subjunctive after an impersonal value judgement ('es esencial que')", "explanation": "Impersonal expressions of importance or necessity ('es esencial/importante que') trigger the subjunctive ('produzca').", "why_tricky": "English uses an infinitive ('it's essential for the body to produce…'), so the subjunctive feels unexpected." },
+          { "sentence": "El cortisol no es tan dañino como se cree.", "point": "comparison of equality 'tan… como' + impersonal 'se'", "explanation": "'tan + adjective + como' compares two things as equal; 'se cree' is the impersonal 'it is believed'.", "why_tricky": "Two structures combine at once, and English splits them differently ('as harmful as people think')." },
+          { "sentence": "Aunque reduzcas el estrés, el cortisol seguirá fluctuando.", "point": "'aunque' + subjunctive for a concession about the uncertain/future", "explanation": "When the concession is hypothetical or future, 'aunque' takes the subjunctive ('reduzcas'); for established facts it takes the indicative.", "why_tricky": "English uses 'even if' vs 'even though' to mark this, but Spanish signals it through the mood." }
+        ],
+        "idioms": [
+          { "phrase": "poner en tela de juicio", "meaning": "to call into question", "example": "Los expertos ponen en tela de juicio esos consejos." }
+        ],
+        "comprehension": [
+          { "q": "¿Qué función cumple el cortisol en el cuerpo?", "type": "factual" },
+          { "q": "¿Por qué piden cautela los expertos ante las modas del bienestar?", "type": "inferential" },
+          { "q": "¿Estás de acuerdo con intentar 'bajar el cortisol'? ¿Por qué?", "type": "opinion" }
+        ],
+        "opinion_prompt": "¿Hasta qué punto deberíamos fiarnos de los consejos de salud que circulan en redes sociales? Escribe ~100 palabras."
+      }
+    },
+    {
+      "pack_id": "feed-2026-05-29-colombia-elecciones",
+      "title": "Quiénes son los favoritos para suceder a Petro en Colombia",
+      "source": "BBC Mundo",
+      "date": "2026-05-29",
+      "level": "B2",
+      "topics": ["politics"],
+      "pack": {
+        "pack_id": "feed-2026-05-29-colombia-elecciones",
+        "meta": {
+          "title": "Quiénes son los favoritos para suceder a Petro en Colombia",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cp8pp7m515jo",
+          "date_published": "2026-05-29",
+          "date_processed": "2026-06-09",
+          "tags": ["politica"],
+          "level": "B2"
+        },
+        "summary_en": "A dozen candidates are competing in the first round of Colombia's presidential election, with polls pointing to three front-runners. The contest will decide who succeeds Gustavo Petro. The article profiles the leading contenders and what is at stake.",
+        "resumen_es": "Una docena de candidatos compite en la primera vuelta de las elecciones presidenciales de Colombia, y las encuestas señalan a tres favoritos. La contienda decidirá quién sucederá a Gustavo Petro. El artículo perfila a los aspirantes con más opciones y lo que está en juego.",
+        "vocab": [
+          { "id": "encuesta", "front": "encuesta", "pos": "noun", "back": "(opinion) poll, survey", "example": "Las encuestas señalan un empate.", "tier": "B2", "tags": ["politica"] },
+          { "id": "primera-vuelta", "front": "primera vuelta", "pos": "phrase", "back": "first round (of voting)", "example": "Nadie ganará en primera vuelta.", "tier": "B2", "tags": ["politica"] },
+          { "id": "contienda", "front": "contienda", "pos": "noun", "back": "contest, struggle", "example": "La contienda electoral se ha intensificado.", "tier": "C1", "tags": ["politica"] },
+          { "id": "comicios", "front": "comicios", "pos": "noun", "back": "elections (formal)", "example": "Los comicios se celebran el domingo.", "tier": "C1", "tags": ["politica"] },
+          { "id": "aspirante", "front": "aspirante", "pos": "noun", "back": "candidate, contender", "example": "Es la aspirante con más apoyo.", "tier": "B2", "tags": ["politica"] },
+          { "id": "suceder-a", "front": "suceder a", "pos": "verb", "back": "to succeed (someone in office)", "example": "¿Quién sucederá al presidente?", "tier": "B2", "tags": ["politica"] },
+          { "id": "mandato", "front": "mandato", "pos": "noun", "back": "term of office, mandate", "example": "Su mandato termina este año.", "tier": "B2", "tags": ["politica"] },
+          { "id": "oficialismo", "front": "oficialismo", "pos": "noun", "back": "the governing party / ruling bloc", "example": "El oficialismo pierde apoyo en las encuestas.", "tier": "C1", "tags": ["politica"] },
+          { "id": "desgaste", "front": "desgaste", "pos": "noun", "back": "erosion, wearing-down (of support)", "example": "El desgaste del gobierno favorece a la oposición.", "tier": "C1", "tags": ["politica"] },
+          { "id": "estar-en-juego", "front": "estar en juego", "pos": "phrase", "back": "to be at stake", "example": "Está en juego el rumbo del país.", "tier": "B2", "tags": ["conector"] },
+          { "id": "de-cara-a", "front": "de cara a", "pos": "phrase", "back": "ahead of, with a view to", "example": "De cara a las elecciones, moderó su discurso.", "tier": "B2", "tags": ["conector"] },
+          { "id": "respaldo", "front": "respaldo", "pos": "noun", "back": "backing, support", "example": "Busca el respaldo de los jóvenes.", "tier": "B2", "tags": ["politica"] }
+        ],
+        "grammar": [
+          { "sentence": "No está claro quién ganará la primera vuelta.", "point": "future tense inside an embedded question ('quién ganará')", "explanation": "Spanish keeps the future tense in indirect questions about what will happen, introduced by 'quién', 'si', 'qué', etc.", "why_tricky": "English often backshifts ('who would win'); Spanish keeps the plain future." },
+          { "sentence": "Es probable que haya una segunda vuelta.", "point": "subjunctive after expressions of probability ('es probable que')", "explanation": "'Es probable/posible que' introduces something uncertain, so the verb goes to the subjunctive ('haya').", "why_tricky": "English uses 'there will probably be…' with no mood change." },
+          { "sentence": "Los candidatos a los que apoyan los jóvenes lideran las encuestas.", "point": "relative clause with a preposition ('a los que')", "explanation": "When a relative clause needs a preposition, Spanish puts it before the relative: 'a los que', 'en los que', 'con la que'.", "why_tricky": "English can drop or strand the preposition ('the candidates the young back'); Spanish cannot." }
+        ],
+        "idioms": [
+          { "phrase": "ganar terreno", "meaning": "to gain ground", "example": "Ese candidato gana terreno en los sondeos." },
+          { "phrase": "barajar nombres", "meaning": "to float / consider names", "example": "Se barajan varios nombres para el gabinete." }
+        ],
+        "comprehension": [
+          { "q": "¿Cuántos candidatos compiten y cuántos son los favoritos?", "type": "factual" },
+          { "q": "¿Qué decidirá esta elección?", "type": "factual" },
+          { "q": "¿Por qué podría el desgaste del gobierno influir en el resultado?", "type": "inferential" }
+        ],
+        "opinion_prompt": "¿Qué cualidades crees que debería tener quien suceda a un presidente popular? Escribe ~100 palabras."
+      }
+    }
+  ]
+}
