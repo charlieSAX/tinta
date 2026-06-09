@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T07:00:00Z",
+  "generated_at": "2026-06-09T09:00:00Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines — open the original via each article's link for the full text.",
   "packs": [
     {
@@ -8,7 +8,10 @@
       "source": "BBC Mundo",
       "date": "2026-05-30",
       "level": "B2",
-      "topics": ["politics", "society"],
+      "topics": [
+        "politics",
+        "society"
+      ],
       "pack": {
         "pack_id": "feed-2026-05-30-cafe-economia",
         "meta": {
@@ -17,37 +20,182 @@
           "url": "https://www.bbc.com/mundo/articles/cg4pw44r4wlo",
           "date_published": "2026-05-30",
           "date_processed": "2026-06-09",
-          "tags": ["economia", "sociedad"],
+          "tags": [
+            "economia",
+            "sociedad"
+          ],
           "level": "B2"
         },
         "summary_en": "The price of a single cup of coffee reflects a tangle of global forces — tariffs, climate, shifting tastes and the strategies of growers. Rising costs ripple from coffee-growing regions all the way to the consumer's daily ritual. The article uses coffee to make sense of wider economic turbulence.",
         "resumen_es": "El precio de una sola taza de café refleja una maraña de factores globales: los aranceles, el clima, los gustos cambiantes y las estrategias de los caficultores. El encarecimiento se traslada desde las regiones productoras hasta el ritual diario de los consumidores. A través del café, el artículo intenta explicar la agitación económica actual.",
         "vocab": [
-          { "id": "marana", "front": "maraña", "pos": "noun", "back": "tangle, web (of factors, interests)", "example": "El conflicto es una maraña de intereses difíciles de separar.", "tier": "C1", "tags": ["economia"] },
-          { "id": "caficultor", "front": "caficultor", "pos": "noun", "back": "coffee grower", "example": "Los caficultores apenas cubren sus costes.", "tier": "C1", "tags": ["economia"] },
-          { "id": "cosecha", "front": "cosecha", "pos": "noun", "back": "harvest, crop", "example": "La cosecha fue escasa por la sequía.", "tier": "B2", "tags": ["economia"] },
-          { "id": "sequia", "front": "sequía", "pos": "noun", "back": "drought", "example": "La sequía redujo la producción de grano.", "tier": "B2", "tags": ["ciencia"] },
-          { "id": "trasladar", "front": "trasladar", "pos": "verb", "back": "to pass on (costs), to shift", "example": "Las empresas trasladan el coste al consumidor.", "tier": "B2", "tags": ["economia"] },
-          { "id": "minorista", "front": "minorista", "pos": "noun/adj", "back": "retailer; retail", "example": "Los minoristas han subido los precios.", "tier": "C1", "tags": ["economia"] },
-          { "id": "rentable", "front": "rentable", "pos": "adj", "back": "profitable, worthwhile", "example": "El cultivo ya no le resulta rentable.", "tier": "B2", "tags": ["economia"] },
-          { "id": "cadena-de-suministro", "front": "cadena de suministro", "pos": "phrase", "back": "supply chain", "example": "La cadena de suministro encarece el producto final.", "tier": "C1", "tags": ["economia"] },
-          { "id": "paladar", "front": "paladar", "pos": "noun", "back": "palate, taste", "example": "Los nuevos paladares prefieren cafés más suaves.", "tier": "C1", "tags": ["sociedad"] },
-          { "id": "a-su-vez", "front": "a su vez", "pos": "phrase", "back": "in turn, for its part", "example": "Esto, a su vez, eleva los precios.", "tier": "B2", "tags": ["conector"] },
-          { "id": "en-funcion-de", "front": "en función de", "pos": "phrase", "back": "depending on, according to", "example": "El precio varía en función de la cosecha.", "tier": "B2", "tags": ["conector"] }
+          {
+            "id": "marana",
+            "front": "maraña",
+            "pos": "noun",
+            "back": "tangle, web (of factors, interests)",
+            "example": "El conflicto es una maraña de intereses difíciles de separar.",
+            "tier": "C1",
+            "tags": [
+              "economia"
+            ]
+          },
+          {
+            "id": "caficultor",
+            "front": "caficultor",
+            "pos": "noun",
+            "back": "coffee grower",
+            "example": "Los caficultores apenas cubren sus costes.",
+            "tier": "C1",
+            "tags": [
+              "economia"
+            ]
+          },
+          {
+            "id": "cosecha",
+            "front": "cosecha",
+            "pos": "noun",
+            "back": "harvest, crop",
+            "example": "La cosecha fue escasa por la sequía.",
+            "tier": "B2",
+            "tags": [
+              "economia"
+            ]
+          },
+          {
+            "id": "sequia",
+            "front": "sequía",
+            "pos": "noun",
+            "back": "drought",
+            "example": "La sequía redujo la producción de grano.",
+            "tier": "B2",
+            "tags": [
+              "ciencia"
+            ]
+          },
+          {
+            "id": "trasladar",
+            "front": "trasladar",
+            "pos": "verb",
+            "back": "to pass on (costs), to shift",
+            "example": "Las empresas trasladan el coste al consumidor.",
+            "tier": "B2",
+            "tags": [
+              "economia"
+            ]
+          },
+          {
+            "id": "minorista",
+            "front": "minorista",
+            "pos": "noun/adj",
+            "back": "retailer; retail",
+            "example": "Los minoristas han subido los precios.",
+            "tier": "C1",
+            "tags": [
+              "economia"
+            ]
+          },
+          {
+            "id": "rentable",
+            "front": "rentable",
+            "pos": "adj",
+            "back": "profitable, worthwhile",
+            "example": "El cultivo ya no le resulta rentable.",
+            "tier": "B2",
+            "tags": [
+              "economia"
+            ]
+          },
+          {
+            "id": "cadena-de-suministro",
+            "front": "cadena de suministro",
+            "pos": "phrase",
+            "back": "supply chain",
+            "example": "La cadena de suministro encarece el producto final.",
+            "tier": "C1",
+            "tags": [
+              "economia"
+            ]
+          },
+          {
+            "id": "paladar",
+            "front": "paladar",
+            "pos": "noun",
+            "back": "palate, taste",
+            "example": "Los nuevos paladares prefieren cafés más suaves.",
+            "tier": "C1",
+            "tags": [
+              "sociedad"
+            ]
+          },
+          {
+            "id": "a-su-vez",
+            "front": "a su vez",
+            "pos": "phrase",
+            "back": "in turn, for its part",
+            "example": "Esto, a su vez, eleva los precios.",
+            "tier": "B2",
+            "tags": [
+              "conector"
+            ]
+          },
+          {
+            "id": "en-funcion-de",
+            "front": "en función de",
+            "pos": "phrase",
+            "back": "depending on, according to",
+            "example": "El precio varía en función de la cosecha.",
+            "tier": "B2",
+            "tags": [
+              "conector"
+            ]
+          }
         ],
         "grammar": [
-          { "sentence": "El precio depende de factores que escapan al control de los caficultores.", "point": "indicative in a relative clause with a real, known antecedent", "explanation": "When the thing described actually exists and is specific, the relative-clause verb stays in the indicative ('escapan'), not the subjunctive.", "why_tricky": "Learners over-apply the subjunctive after 'que'; here the antecedent is real, so indicative is correct." },
-          { "sentence": "Cuanto más sube el grano, más caro resulta el café.", "point": "correlative comparison 'cuanto más… más…'", "explanation": "Spanish links two rising quantities with 'cuanto más… más…' (or 'cuanto menos… menos…').", "why_tricky": "It maps to English 'the more… the more…', a structure with no obvious word-for-word equivalent." },
-          { "sentence": "Se trasladan los costes al consumidor.", "point": "passive / impersonal 'se'", "explanation": "'se' + verb expresses a passive without naming an agent: the costs get passed on.", "why_tricky": "English needs 'are passed on' and often an explicit agent." }
+          {
+            "sentence": "El precio depende de factores que escapan al control de los caficultores.",
+            "point": "indicative in a relative clause with a real, known antecedent",
+            "explanation": "When the thing described actually exists and is specific, the relative-clause verb stays in the indicative ('escapan'), not the subjunctive.",
+            "why_tricky": "Learners over-apply the subjunctive after 'que'; here the antecedent is real, so indicative is correct."
+          },
+          {
+            "sentence": "Cuanto más sube el grano, más caro resulta el café.",
+            "point": "correlative comparison 'cuanto más… más…'",
+            "explanation": "Spanish links two rising quantities with 'cuanto más… más…' (or 'cuanto menos… menos…').",
+            "why_tricky": "It maps to English 'the more… the more…', a structure with no obvious word-for-word equivalent."
+          },
+          {
+            "sentence": "Se trasladan los costes al consumidor.",
+            "point": "passive / impersonal 'se'",
+            "explanation": "'se' + verb expresses a passive without naming an agent: the costs get passed on.",
+            "why_tricky": "English needs 'are passed on' and often an explicit agent."
+          }
         ],
         "idioms": [
-          { "phrase": "estar por las nubes", "meaning": "to be sky-high (prices)", "example": "El café está por las nubes este año." },
-          { "phrase": "pagar el pato", "meaning": "to carry the can, to take the blame/cost", "example": "Al final, el consumidor paga el pato." }
+          {
+            "phrase": "estar por las nubes",
+            "meaning": "to be sky-high (prices)",
+            "example": "El café está por las nubes este año."
+          },
+          {
+            "phrase": "pagar el pato",
+            "meaning": "to carry the can, to take the blame/cost",
+            "example": "Al final, el consumidor paga el pato."
+          }
         ],
         "comprehension": [
-          { "q": "¿Qué factores influyen en el precio del café, según el artículo?", "type": "factual" },
-          { "q": "¿Cómo llega el encarecimiento hasta el consumidor?", "type": "factual" },
-          { "q": "¿Por qué puede una taza de café servir para explicar la economía global?", "type": "inferential" }
+          {
+            "q": "¿Qué factores influyen en el precio del café, según el artículo?",
+            "type": "factual"
+          },
+          {
+            "q": "¿Cómo llega el encarecimiento hasta el consumidor?",
+            "type": "factual"
+          },
+          {
+            "q": "¿Por qué puede una taza de café servir para explicar la economía global?",
+            "type": "inferential"
+          }
         ],
         "opinion_prompt": "¿Crees que pequeños lujos cotidianos como el café seguirán encareciéndose? Escribe ~100 palabras."
       }
@@ -58,7 +206,10 @@
       "source": "BBC Mundo",
       "date": "2026-05-28",
       "level": "B2",
-      "topics": ["science", "society"],
+      "topics": [
+        "science",
+        "society"
+      ],
       "pack": {
         "pack_id": "feed-2026-05-28-cortisol-bienestar",
         "meta": {
@@ -67,37 +218,183 @@
           "url": "https://www.bbc.com/mundo/articles/clyp01kddwko",
           "date_published": "2026-05-28",
           "date_processed": "2026-06-09",
-          "tags": ["ciencia", "sociedad", "salud"],
+          "tags": [
+            "ciencia",
+            "sociedad",
+            "salud"
+          ],
           "level": "B2"
         },
         "summary_en": "Cortisol, the body's main stress hormone, has become a social-media obsession, with endless tips for lowering it. The article separates the science from the myths: cortisol is essential, and its rhythms are more complex than wellness trends suggest. Experts urge caution about quick fixes.",
         "resumen_es": "El cortisol, la principal hormona del estrés, se ha convertido en una obsesión en las redes sociales, con innumerables consejos para reducirlo. El artículo distingue la ciencia de los mitos: el cortisol es esencial y sus ritmos son más complejos de lo que sugieren las modas del bienestar. Los expertos piden cautela ante las soluciones rápidas.",
         "vocab": [
-          { "id": "hormona", "front": "hormona", "pos": "noun", "back": "hormone", "example": "El cortisol es una hormona que regula el estrés.", "tier": "B2", "tags": ["ciencia"] },
-          { "id": "segregar", "front": "segregar", "pos": "verb", "back": "to secrete (a substance)", "example": "El cuerpo segrega cortisol al despertar.", "tier": "C1", "tags": ["ciencia"] },
-          { "id": "torrente-sanguineo", "front": "torrente sanguíneo", "pos": "phrase", "back": "bloodstream", "example": "La hormona viaja por el torrente sanguíneo.", "tier": "C1", "tags": ["ciencia"] },
-          { "id": "bienestar", "front": "bienestar", "pos": "noun", "back": "wellbeing", "example": "La industria del bienestar mueve millones.", "tier": "B2", "tags": ["sociedad"] },
-          { "id": "moda-pasajera", "front": "moda pasajera", "pos": "phrase", "back": "passing fad", "example": "Para muchos, no es más que una moda pasajera.", "tier": "B2", "tags": ["sociedad"] },
-          { "id": "desmentir", "front": "desmentir", "pos": "verb", "back": "to debunk, to deny", "example": "Los científicos desmienten ese mito.", "tier": "C1", "tags": [] },
-          { "id": "respaldar", "front": "respaldar", "pos": "verb", "back": "to back up, to support (with evidence)", "example": "Pocos estudios respaldan esa afirmación.", "tier": "B2", "tags": ["ciencia"] },
-          { "id": "perjudicial", "front": "perjudicial", "pos": "adj", "back": "harmful, damaging", "example": "El estrés crónico es perjudicial para la salud.", "tier": "B2", "tags": ["salud"] },
-          { "id": "sobrevalorar", "front": "sobrevalorar", "pos": "verb", "back": "to overrate, to overvalue", "example": "Se sobrevalora el papel del cortisol.", "tier": "C1", "tags": [] },
-          { "id": "cautela", "front": "cautela", "pos": "noun", "back": "caution", "example": "Los expertos piden cautela.", "tier": "B2", "tags": [] },
-          { "id": "a-largo-plazo", "front": "a largo plazo", "pos": "phrase", "back": "in the long term", "example": "A largo plazo, el hábito sí importa.", "tier": "B2", "tags": ["conector"] },
-          { "id": "de-hecho", "front": "de hecho", "pos": "phrase", "back": "in fact, actually", "example": "De hecho, necesitamos cortisol para vivir.", "tier": "B2", "tags": ["conector"] }
+          {
+            "id": "hormona",
+            "front": "hormona",
+            "pos": "noun",
+            "back": "hormone",
+            "example": "El cortisol es una hormona que regula el estrés.",
+            "tier": "B2",
+            "tags": [
+              "ciencia"
+            ]
+          },
+          {
+            "id": "segregar",
+            "front": "segregar",
+            "pos": "verb",
+            "back": "to secrete (a substance)",
+            "example": "El cuerpo segrega cortisol al despertar.",
+            "tier": "C1",
+            "tags": [
+              "ciencia"
+            ]
+          },
+          {
+            "id": "torrente-sanguineo",
+            "front": "torrente sanguíneo",
+            "pos": "phrase",
+            "back": "bloodstream",
+            "example": "La hormona viaja por el torrente sanguíneo.",
+            "tier": "C1",
+            "tags": [
+              "ciencia"
+            ]
+          },
+          {
+            "id": "bienestar",
+            "front": "bienestar",
+            "pos": "noun",
+            "back": "wellbeing",
+            "example": "La industria del bienestar mueve millones.",
+            "tier": "B2",
+            "tags": [
+              "sociedad"
+            ]
+          },
+          {
+            "id": "moda-pasajera",
+            "front": "moda pasajera",
+            "pos": "phrase",
+            "back": "passing fad",
+            "example": "Para muchos, no es más que una moda pasajera.",
+            "tier": "B2",
+            "tags": [
+              "sociedad"
+            ]
+          },
+          {
+            "id": "desmentir",
+            "front": "desmentir",
+            "pos": "verb",
+            "back": "to debunk, to deny",
+            "example": "Los científicos desmienten ese mito.",
+            "tier": "C1",
+            "tags": []
+          },
+          {
+            "id": "respaldar",
+            "front": "respaldar",
+            "pos": "verb",
+            "back": "to back up, to support (with evidence)",
+            "example": "Pocos estudios respaldan esa afirmación.",
+            "tier": "B2",
+            "tags": [
+              "ciencia"
+            ]
+          },
+          {
+            "id": "perjudicial",
+            "front": "perjudicial",
+            "pos": "adj",
+            "back": "harmful, damaging",
+            "example": "El estrés crónico es perjudicial para la salud.",
+            "tier": "B2",
+            "tags": [
+              "salud"
+            ]
+          },
+          {
+            "id": "sobrevalorar",
+            "front": "sobrevalorar",
+            "pos": "verb",
+            "back": "to overrate, to overvalue",
+            "example": "Se sobrevalora el papel del cortisol.",
+            "tier": "C1",
+            "tags": []
+          },
+          {
+            "id": "cautela",
+            "front": "cautela",
+            "pos": "noun",
+            "back": "caution",
+            "example": "Los expertos piden cautela.",
+            "tier": "B2",
+            "tags": []
+          },
+          {
+            "id": "a-largo-plazo",
+            "front": "a largo plazo",
+            "pos": "phrase",
+            "back": "in the long term",
+            "example": "A largo plazo, el hábito sí importa.",
+            "tier": "B2",
+            "tags": [
+              "conector"
+            ]
+          },
+          {
+            "id": "de-hecho",
+            "front": "de hecho",
+            "pos": "phrase",
+            "back": "in fact, actually",
+            "example": "De hecho, necesitamos cortisol para vivir.",
+            "tier": "B2",
+            "tags": [
+              "conector"
+            ]
+          }
         ],
         "grammar": [
-          { "sentence": "Es esencial que el cuerpo produzca cortisol.", "point": "subjunctive after an impersonal value judgement ('es esencial que')", "explanation": "Impersonal expressions of importance or necessity ('es esencial/importante que') trigger the subjunctive ('produzca').", "why_tricky": "English uses an infinitive ('it's essential for the body to produce…'), so the subjunctive feels unexpected." },
-          { "sentence": "El cortisol no es tan dañino como se cree.", "point": "comparison of equality 'tan… como' + impersonal 'se'", "explanation": "'tan + adjective + como' compares two things as equal; 'se cree' is the impersonal 'it is believed'.", "why_tricky": "Two structures combine at once, and English splits them differently ('as harmful as people think')." },
-          { "sentence": "Aunque reduzcas el estrés, el cortisol seguirá fluctuando.", "point": "'aunque' + subjunctive for a concession about the uncertain/future", "explanation": "When the concession is hypothetical or future, 'aunque' takes the subjunctive ('reduzcas'); for established facts it takes the indicative.", "why_tricky": "English uses 'even if' vs 'even though' to mark this, but Spanish signals it through the mood." }
+          {
+            "sentence": "Es esencial que el cuerpo produzca cortisol.",
+            "point": "subjunctive after an impersonal value judgement ('es esencial que')",
+            "explanation": "Impersonal expressions of importance or necessity ('es esencial/importante que') trigger the subjunctive ('produzca').",
+            "why_tricky": "English uses an infinitive ('it's essential for the body to produce…'), so the subjunctive feels unexpected."
+          },
+          {
+            "sentence": "El cortisol no es tan dañino como se cree.",
+            "point": "comparison of equality 'tan… como' + impersonal 'se'",
+            "explanation": "'tan + adjective + como' compares two things as equal; 'se cree' is the impersonal 'it is believed'.",
+            "why_tricky": "Two structures combine at once, and English splits them differently ('as harmful as people think')."
+          },
+          {
+            "sentence": "Aunque reduzcas el estrés, el cortisol seguirá fluctuando.",
+            "point": "'aunque' + subjunctive for a concession about the uncertain/future",
+            "explanation": "When the concession is hypothetical or future, 'aunque' takes the subjunctive ('reduzcas'); for established facts it takes the indicative.",
+            "why_tricky": "English uses 'even if' vs 'even though' to mark this, but Spanish signals it through the mood."
+          }
         ],
         "idioms": [
-          { "phrase": "poner en tela de juicio", "meaning": "to call into question", "example": "Los expertos ponen en tela de juicio esos consejos." }
+          {
+            "phrase": "poner en tela de juicio",
+            "meaning": "to call into question",
+            "example": "Los expertos ponen en tela de juicio esos consejos."
+          }
         ],
         "comprehension": [
-          { "q": "¿Qué función cumple el cortisol en el cuerpo?", "type": "factual" },
-          { "q": "¿Por qué piden cautela los expertos ante las modas del bienestar?", "type": "inferential" },
-          { "q": "¿Estás de acuerdo con intentar 'bajar el cortisol'? ¿Por qué?", "type": "opinion" }
+          {
+            "q": "¿Qué función cumple el cortisol en el cuerpo?",
+            "type": "factual"
+          },
+          {
+            "q": "¿Por qué piden cautela los expertos ante las modas del bienestar?",
+            "type": "inferential"
+          },
+          {
+            "q": "¿Estás de acuerdo con intentar 'bajar el cortisol'? ¿Por qué?",
+            "type": "opinion"
+          }
         ],
         "opinion_prompt": "¿Hasta qué punto deberíamos fiarnos de los consejos de salud que circulan en redes sociales? Escribe ~100 palabras."
       }
@@ -108,7 +405,9 @@
       "source": "BBC Mundo",
       "date": "2026-05-29",
       "level": "B2",
-      "topics": ["politics"],
+      "topics": [
+        "politics"
+      ],
       "pack": {
         "pack_id": "feed-2026-05-29-colombia-elecciones",
         "meta": {
@@ -117,40 +416,1383 @@
           "url": "https://www.bbc.com/mundo/articles/cp8pp7m515jo",
           "date_published": "2026-05-29",
           "date_processed": "2026-06-09",
-          "tags": ["politica"],
+          "tags": [
+            "politica"
+          ],
           "level": "B2"
         },
         "summary_en": "A dozen candidates are competing in the first round of Colombia's presidential election, with polls pointing to three front-runners. The contest will decide who succeeds Gustavo Petro. The article profiles the leading contenders and what is at stake.",
         "resumen_es": "Una docena de candidatos compite en la primera vuelta de las elecciones presidenciales de Colombia, y las encuestas señalan a tres favoritos. La contienda decidirá quién sucederá a Gustavo Petro. El artículo perfila a los aspirantes con más opciones y lo que está en juego.",
         "vocab": [
-          { "id": "encuesta", "front": "encuesta", "pos": "noun", "back": "(opinion) poll, survey", "example": "Las encuestas señalan un empate.", "tier": "B2", "tags": ["politica"] },
-          { "id": "primera-vuelta", "front": "primera vuelta", "pos": "phrase", "back": "first round (of voting)", "example": "Nadie ganará en primera vuelta.", "tier": "B2", "tags": ["politica"] },
-          { "id": "contienda", "front": "contienda", "pos": "noun", "back": "contest, struggle", "example": "La contienda electoral se ha intensificado.", "tier": "C1", "tags": ["politica"] },
-          { "id": "comicios", "front": "comicios", "pos": "noun", "back": "elections (formal)", "example": "Los comicios se celebran el domingo.", "tier": "C1", "tags": ["politica"] },
-          { "id": "aspirante", "front": "aspirante", "pos": "noun", "back": "candidate, contender", "example": "Es la aspirante con más apoyo.", "tier": "B2", "tags": ["politica"] },
-          { "id": "suceder-a", "front": "suceder a", "pos": "verb", "back": "to succeed (someone in office)", "example": "¿Quién sucederá al presidente?", "tier": "B2", "tags": ["politica"] },
-          { "id": "mandato", "front": "mandato", "pos": "noun", "back": "term of office, mandate", "example": "Su mandato termina este año.", "tier": "B2", "tags": ["politica"] },
-          { "id": "oficialismo", "front": "oficialismo", "pos": "noun", "back": "the governing party / ruling bloc", "example": "El oficialismo pierde apoyo en las encuestas.", "tier": "C1", "tags": ["politica"] },
-          { "id": "desgaste", "front": "desgaste", "pos": "noun", "back": "erosion, wearing-down (of support)", "example": "El desgaste del gobierno favorece a la oposición.", "tier": "C1", "tags": ["politica"] },
-          { "id": "estar-en-juego", "front": "estar en juego", "pos": "phrase", "back": "to be at stake", "example": "Está en juego el rumbo del país.", "tier": "B2", "tags": ["conector"] },
-          { "id": "de-cara-a", "front": "de cara a", "pos": "phrase", "back": "ahead of, with a view to", "example": "De cara a las elecciones, moderó su discurso.", "tier": "B2", "tags": ["conector"] },
-          { "id": "respaldo", "front": "respaldo", "pos": "noun", "back": "backing, support", "example": "Busca el respaldo de los jóvenes.", "tier": "B2", "tags": ["politica"] }
+          {
+            "id": "encuesta",
+            "front": "encuesta",
+            "pos": "noun",
+            "back": "(opinion) poll, survey",
+            "example": "Las encuestas señalan un empate.",
+            "tier": "B2",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "primera-vuelta",
+            "front": "primera vuelta",
+            "pos": "phrase",
+            "back": "first round (of voting)",
+            "example": "Nadie ganará en primera vuelta.",
+            "tier": "B2",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "contienda",
+            "front": "contienda",
+            "pos": "noun",
+            "back": "contest, struggle",
+            "example": "La contienda electoral se ha intensificado.",
+            "tier": "C1",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "comicios",
+            "front": "comicios",
+            "pos": "noun",
+            "back": "elections (formal)",
+            "example": "Los comicios se celebran el domingo.",
+            "tier": "C1",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "aspirante",
+            "front": "aspirante",
+            "pos": "noun",
+            "back": "candidate, contender",
+            "example": "Es la aspirante con más apoyo.",
+            "tier": "B2",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "suceder-a",
+            "front": "suceder a",
+            "pos": "verb",
+            "back": "to succeed (someone in office)",
+            "example": "¿Quién sucederá al presidente?",
+            "tier": "B2",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "mandato",
+            "front": "mandato",
+            "pos": "noun",
+            "back": "term of office, mandate",
+            "example": "Su mandato termina este año.",
+            "tier": "B2",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "oficialismo",
+            "front": "oficialismo",
+            "pos": "noun",
+            "back": "the governing party / ruling bloc",
+            "example": "El oficialismo pierde apoyo en las encuestas.",
+            "tier": "C1",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "desgaste",
+            "front": "desgaste",
+            "pos": "noun",
+            "back": "erosion, wearing-down (of support)",
+            "example": "El desgaste del gobierno favorece a la oposición.",
+            "tier": "C1",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "estar-en-juego",
+            "front": "estar en juego",
+            "pos": "phrase",
+            "back": "to be at stake",
+            "example": "Está en juego el rumbo del país.",
+            "tier": "B2",
+            "tags": [
+              "conector"
+            ]
+          },
+          {
+            "id": "de-cara-a",
+            "front": "de cara a",
+            "pos": "phrase",
+            "back": "ahead of, with a view to",
+            "example": "De cara a las elecciones, moderó su discurso.",
+            "tier": "B2",
+            "tags": [
+              "conector"
+            ]
+          },
+          {
+            "id": "respaldo",
+            "front": "respaldo",
+            "pos": "noun",
+            "back": "backing, support",
+            "example": "Busca el respaldo de los jóvenes.",
+            "tier": "B2",
+            "tags": [
+              "politica"
+            ]
+          }
         ],
         "grammar": [
-          { "sentence": "No está claro quién ganará la primera vuelta.", "point": "future tense inside an embedded question ('quién ganará')", "explanation": "Spanish keeps the future tense in indirect questions about what will happen, introduced by 'quién', 'si', 'qué', etc.", "why_tricky": "English often backshifts ('who would win'); Spanish keeps the plain future." },
-          { "sentence": "Es probable que haya una segunda vuelta.", "point": "subjunctive after expressions of probability ('es probable que')", "explanation": "'Es probable/posible que' introduces something uncertain, so the verb goes to the subjunctive ('haya').", "why_tricky": "English uses 'there will probably be…' with no mood change." },
-          { "sentence": "Los candidatos a los que apoyan los jóvenes lideran las encuestas.", "point": "relative clause with a preposition ('a los que')", "explanation": "When a relative clause needs a preposition, Spanish puts it before the relative: 'a los que', 'en los que', 'con la que'.", "why_tricky": "English can drop or strand the preposition ('the candidates the young back'); Spanish cannot." }
+          {
+            "sentence": "No está claro quién ganará la primera vuelta.",
+            "point": "future tense inside an embedded question ('quién ganará')",
+            "explanation": "Spanish keeps the future tense in indirect questions about what will happen, introduced by 'quién', 'si', 'qué', etc.",
+            "why_tricky": "English often backshifts ('who would win'); Spanish keeps the plain future."
+          },
+          {
+            "sentence": "Es probable que haya una segunda vuelta.",
+            "point": "subjunctive after expressions of probability ('es probable que')",
+            "explanation": "'Es probable/posible que' introduces something uncertain, so the verb goes to the subjunctive ('haya').",
+            "why_tricky": "English uses 'there will probably be…' with no mood change."
+          },
+          {
+            "sentence": "Los candidatos a los que apoyan los jóvenes lideran las encuestas.",
+            "point": "relative clause with a preposition ('a los que')",
+            "explanation": "When a relative clause needs a preposition, Spanish puts it before the relative: 'a los que', 'en los que', 'con la que'.",
+            "why_tricky": "English can drop or strand the preposition ('the candidates the young back'); Spanish cannot."
+          }
         ],
         "idioms": [
-          { "phrase": "ganar terreno", "meaning": "to gain ground", "example": "Ese candidato gana terreno en los sondeos." },
-          { "phrase": "barajar nombres", "meaning": "to float / consider names", "example": "Se barajan varios nombres para el gabinete." }
+          {
+            "phrase": "ganar terreno",
+            "meaning": "to gain ground",
+            "example": "Ese candidato gana terreno en los sondeos."
+          },
+          {
+            "phrase": "barajar nombres",
+            "meaning": "to float / consider names",
+            "example": "Se barajan varios nombres para el gabinete."
+          }
         ],
         "comprehension": [
-          { "q": "¿Cuántos candidatos compiten y cuántos son los favoritos?", "type": "factual" },
-          { "q": "¿Qué decidirá esta elección?", "type": "factual" },
-          { "q": "¿Por qué podría el desgaste del gobierno influir en el resultado?", "type": "inferential" }
+          {
+            "q": "¿Cuántos candidatos compiten y cuántos son los favoritos?",
+            "type": "factual"
+          },
+          {
+            "q": "¿Qué decidirá esta elección?",
+            "type": "factual"
+          },
+          {
+            "q": "¿Por qué podría el desgaste del gobierno influir en el resultado?",
+            "type": "inferential"
+          }
         ],
         "opinion_prompt": "¿Qué cualidades crees que debería tener quien suceda a un presidente popular? Escribe ~100 palabras."
+      }
+    },
+    {
+      "pack_id": "feed-2026-05-29-gps-aviacion",
+      "title": "La guerra invisible del GPS que altera el transporte aéreo",
+      "source": "BBC Mundo",
+      "date": "2026-05-29",
+      "level": "C1",
+      "topics": [
+        "tech",
+        "society"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-05-29-gps-aviacion",
+        "meta": {
+          "title": "La guerra invisible del GPS que altera el transporte aéreo",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cdjp03nmxxdo",
+          "date_published": "2026-05-29",
+          "date_processed": "2026-06-09",
+          "tags": [
+            "tecnologia",
+            "sociedad"
+          ],
+          "level": "C1"
+        },
+        "summary_en": "A rise in GPS 'spoofing' — faking satellite signals — is increasingly disrupting commercial aviation. Pilots are misled about their position, raising safety concerns. Experts warn the invisible interference is spreading along conflict zones.",
+        "resumen_es": "El aumento de la suplantación de señales de GPS está alterando cada vez más la aviación comercial. Los pilotos reciben datos falsos sobre su posición, lo que enciende las alarmas de seguridad. Los expertos advierten de que esta interferencia invisible se extiende por las zonas en conflicto.",
+        "vocab": [
+          {
+            "id": "suplantacion",
+            "front": "suplantación",
+            "pos": "noun",
+            "back": "spoofing, impersonation",
+            "example": "La suplantación de señales engaña a los aviones.",
+            "tier": "C1",
+            "tags": [
+              "tecnologia"
+            ]
+          },
+          {
+            "id": "interferencia",
+            "front": "interferencia",
+            "pos": "noun",
+            "back": "interference",
+            "example": "La interferencia confunde a los sistemas de navegación.",
+            "tier": "B2",
+            "tags": [
+              "tecnologia"
+            ]
+          },
+          {
+            "id": "aviacion",
+            "front": "aviación",
+            "pos": "noun",
+            "back": "aviation",
+            "example": "La aviación comercial depende del GPS.",
+            "tier": "B2",
+            "tags": [
+              "tecnologia"
+            ]
+          },
+          {
+            "id": "a-bordo",
+            "front": "a bordo",
+            "pos": "phrase",
+            "back": "on board",
+            "example": "Los sistemas a bordo dejan de ser fiables.",
+            "tier": "B2",
+            "tags": [
+              "conector"
+            ]
+          },
+          {
+            "id": "fiable",
+            "front": "fiable",
+            "pos": "adj",
+            "back": "reliable, trustworthy",
+            "example": "El GPS ya no es tan fiable cerca del frente.",
+            "tier": "B2",
+            "tags": []
+          },
+          {
+            "id": "desviar",
+            "front": "desviar",
+            "pos": "verb",
+            "back": "to divert, to reroute",
+            "example": "Tuvieron que desviar el vuelo.",
+            "tier": "B2",
+            "tags": [
+              "tecnologia"
+            ]
+          },
+          {
+            "id": "amenaza",
+            "front": "amenaza",
+            "pos": "noun",
+            "back": "threat",
+            "example": "Es una amenaza creciente para la seguridad.",
+            "tier": "B2",
+            "tags": []
+          },
+          {
+            "id": "propagarse",
+            "front": "propagarse",
+            "pos": "verb",
+            "back": "to spread",
+            "example": "El problema se propaga por toda la región.",
+            "tier": "C1",
+            "tags": [
+              "ciencia"
+            ]
+          },
+          {
+            "id": "en-aumento",
+            "front": "en aumento",
+            "pos": "phrase",
+            "back": "on the rise, increasing",
+            "example": "Los incidentes van en aumento.",
+            "tier": "B2",
+            "tags": [
+              "conector"
+            ]
+          },
+          {
+            "id": "cabina",
+            "front": "cabina",
+            "pos": "noun",
+            "back": "cockpit, cabin",
+            "example": "En la cabina saltan las alertas.",
+            "tier": "C1",
+            "tags": [
+              "tecnologia"
+            ]
+          },
+          {
+            "id": "a-causa-de",
+            "front": "a causa de",
+            "pos": "phrase",
+            "back": "because of, owing to",
+            "example": "A causa del conflicto, aumentan los ataques.",
+            "tier": "B2",
+            "tags": [
+              "conector"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Los pilotos reciben señales que parecen reales, pero no lo son.",
+            "point": "neuter pronoun 'lo' standing in for a predicate",
+            "explanation": "'lo' replaces a whole adjective or idea: 'no lo son' = 'they aren't (real)'.",
+            "why_tricky": "English just says 'they aren't', with no pronoun, so learners drop the 'lo'."
+          },
+          {
+            "sentence": "Es necesario que los sistemas detecten la interferencia.",
+            "point": "subjunctive after the impersonal 'es necesario que'",
+            "explanation": "Impersonal expressions of necessity trigger the subjunctive ('detecten').",
+            "why_tricky": "English uses an infinitive ('it's necessary for the systems to detect'), hiding the trigger."
+          },
+          {
+            "sentence": "Por mucho que mejoren los sistemas, la amenaza persiste.",
+            "point": "'por mucho que' + subjunctive (concession)",
+            "explanation": "'por mucho que' ('however much') introduces a concession and takes the subjunctive ('mejoren').",
+            "why_tricky": "English 'however much they improve' uses the indicative."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "encender las alarmas",
+            "meaning": "to set off alarm bells",
+            "example": "El incidente encendió todas las alarmas."
+          },
+          {
+            "phrase": "estar en el punto de mira",
+            "meaning": "to be in the spotlight / crosshairs",
+            "example": "La seguridad aérea está en el punto de mira."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué es la suplantación de GPS y a quién afecta?",
+            "type": "factual"
+          },
+          {
+            "q": "¿Por qué se extiende este problema según los expertos?",
+            "type": "factual"
+          },
+          {
+            "q": "¿Qué riesgos plantea depender tanto de una sola tecnología?",
+            "type": "inferential"
+          }
+        ],
+        "opinion_prompt": "¿Crees que dependemos demasiado de tecnologías como el GPS? Escribe ~100 palabras."
+      }
+    },
+    {
+      "pack_id": "feed-2026-05-25-arabia-vision2030",
+      "title": "Por qué se frenó el gasto faraónico de Arabia Saudita en megaproyectos",
+      "source": "BBC Mundo",
+      "date": "2026-05-25",
+      "level": "C1",
+      "topics": [
+        "politics"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-05-25-arabia-vision2030",
+        "meta": {
+          "title": "Por qué se frenó el gasto faraónico de Arabia Saudita en megaproyectos",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c78qqw3ze55o",
+          "date_published": "2026-05-25",
+          "date_processed": "2026-06-09",
+          "tags": [
+            "economia",
+            "politica"
+          ],
+          "level": "C1"
+        },
+        "summary_en": "Saudi Arabia's Vision 2030 promised futuristic megaprojects funded by vast spending. Now economic reality has forced the kingdom to rein in its most extravagant ambitions. The retreat reveals the limits of oil-fuelled transformation.",
+        "resumen_es": "El plan Visión 2030 de Arabia Saudita prometía megaproyectos futuristas financiados con un gasto enorme. Ahora la realidad económica ha obligado al reino a frenar sus ambiciones más extravagantes. El repliegue muestra los límites de una transformación impulsada por el petróleo.",
+        "vocab": [
+          {
+            "id": "gasto",
+            "front": "gasto",
+            "pos": "noun",
+            "back": "spending, expenditure",
+            "example": "El gasto público se ha disparado.",
+            "tier": "B2",
+            "tags": [
+              "economia"
+            ]
+          },
+          {
+            "id": "faraonico",
+            "front": "faraónico",
+            "pos": "adj",
+            "back": "pharaonic, colossal (in scale/cost)",
+            "example": "Un proyecto de coste faraónico.",
+            "tier": "C2",
+            "tags": [
+              "economia"
+            ]
+          },
+          {
+            "id": "financiar",
+            "front": "financiar",
+            "pos": "verb",
+            "back": "to fund, to finance",
+            "example": "El Estado financia las obras.",
+            "tier": "B2",
+            "tags": [
+              "economia"
+            ]
+          },
+          {
+            "id": "frenar",
+            "front": "frenar",
+            "pos": "verb",
+            "back": "to curb, to put the brakes on",
+            "example": "Tuvieron que frenar el gasto.",
+            "tier": "B2",
+            "tags": [
+              "economia"
+            ]
+          },
+          {
+            "id": "repliegue",
+            "front": "repliegue",
+            "pos": "noun",
+            "back": "retreat, pullback",
+            "example": "El repliegue sorprendió a los inversores.",
+            "tier": "C1",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "reino",
+            "front": "reino",
+            "pos": "noun",
+            "back": "kingdom",
+            "example": "El reino revisa sus prioridades.",
+            "tier": "B2",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "crudo",
+            "front": "crudo",
+            "pos": "noun",
+            "back": "crude oil",
+            "example": "Los ingresos del crudo cayeron.",
+            "tier": "C1",
+            "tags": [
+              "economia"
+            ]
+          },
+          {
+            "id": "ingresos",
+            "front": "ingresos",
+            "pos": "noun",
+            "back": "revenue, income",
+            "example": "Los ingresos petroleros se desplomaron.",
+            "tier": "B2",
+            "tags": [
+              "economia"
+            ]
+          },
+          {
+            "id": "dispararse",
+            "front": "dispararse",
+            "pos": "verb",
+            "back": "to shoot up, to soar",
+            "example": "Los costes se dispararon.",
+            "tier": "C1",
+            "tags": [
+              "economia"
+            ]
+          },
+          {
+            "id": "inversor",
+            "front": "inversor",
+            "pos": "noun",
+            "back": "investor",
+            "example": "Los inversores se muestran cautos.",
+            "tier": "B2",
+            "tags": [
+              "economia"
+            ]
+          },
+          {
+            "id": "a-costa-de",
+            "front": "a costa de",
+            "pos": "phrase",
+            "back": "at the expense of",
+            "example": "Creció a costa de un enorme endeudamiento.",
+            "tier": "C1",
+            "tags": [
+              "conector"
+            ]
+          },
+          {
+            "id": "desorbitado",
+            "front": "desorbitado",
+            "pos": "adj",
+            "back": "exorbitant, sky-high",
+            "example": "Manejaban cifras desorbitadas.",
+            "tier": "C1",
+            "tags": [
+              "economia"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La realidad económica obligó al reino a recortar el gasto.",
+            "point": "'obligar a' + infinitive",
+            "explanation": "Many Spanish verbs require 'a' before a following infinitive: 'obligar a', 'ayudar a', 'empezar a'.",
+            "why_tricky": "English 'forced to' has the 'to', but learners forget the Spanish 'a'."
+          },
+          {
+            "sentence": "No hay proyecto que resista sin ingresos.",
+            "point": "subjunctive in a relative clause after a negative antecedent",
+            "explanation": "When the antecedent doesn't exist ('no hay proyecto que…'), the relative verb is subjunctive ('resista').",
+            "why_tricky": "English keeps the indicative ('that survives'), so learners use 'resiste'."
+          },
+          {
+            "sentence": "Por muy ambicioso que sea el plan, necesita dinero.",
+            "point": "'por muy + adjective + que' + subjunctive (concession)",
+            "explanation": "'por muy… que' ('however…') concedes a point and takes the subjunctive ('sea').",
+            "why_tricky": "English 'however ambitious the plan is' uses the indicative."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "echar el freno",
+            "meaning": "to put on the brakes, to rein in",
+            "example": "El gobierno echó el freno al gasto."
+          },
+          {
+            "phrase": "hacer aguas",
+            "meaning": "to fall apart, to spring leaks",
+            "example": "El plan empezó a hacer aguas."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué prometía el plan Visión 2030?",
+            "type": "factual"
+          },
+          {
+            "q": "¿Qué obligó al reino a frenar sus proyectos?",
+            "type": "factual"
+          },
+          {
+            "q": "¿Qué revela este caso sobre las economías que dependen del petróleo?",
+            "type": "inferential"
+          }
+        ],
+        "opinion_prompt": "¿Crees que los grandes megaproyectos merecen la pena para un país? Escribe ~100 palabras."
+      }
+    },
+    {
+      "pack_id": "feed-2026-05-26-mujeres-longevidad",
+      "title": "Por qué las mujeres viven, de media, más que los hombres",
+      "source": "BBC Mundo",
+      "date": "2026-05-26",
+      "level": "B2",
+      "topics": [
+        "science",
+        "society"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-05-26-mujeres-longevidad",
+        "meta": {
+          "title": "Por qué las mujeres viven, de media, más que los hombres",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cwy221qgkzqo",
+          "date_published": "2026-05-26",
+          "date_processed": "2026-06-09",
+          "tags": [
+            "ciencia",
+            "sociedad",
+            "salud"
+          ],
+          "level": "B2"
+        },
+        "summary_en": "Across the world women outlive men by about five years on average. Scientists trace the gap to a mix of behaviour and biology. The article weighs how much is built into our bodies versus shaped by how we live.",
+        "resumen_es": "En todo el mundo, las mujeres viven de media unos cinco años más que los hombres. Los científicos atribuyen esa diferencia a una mezcla de comportamiento y biología. El artículo sopesa cuánto está inscrito en nuestro cuerpo y cuánto depende de cómo vivimos.",
+        "vocab": [
+          {
+            "id": "esperanza-de-vida",
+            "front": "esperanza de vida",
+            "pos": "phrase",
+            "back": "life expectancy",
+            "example": "La esperanza de vida sigue aumentando.",
+            "tier": "B2",
+            "tags": [
+              "ciencia"
+            ]
+          },
+          {
+            "id": "de-media",
+            "front": "de media",
+            "pos": "phrase",
+            "back": "on average",
+            "example": "De media, viven cinco años más.",
+            "tier": "B2",
+            "tags": [
+              "conector"
+            ]
+          },
+          {
+            "id": "comportamiento",
+            "front": "comportamiento",
+            "pos": "noun",
+            "back": "behaviour",
+            "example": "El comportamiento influye en la salud.",
+            "tier": "B2",
+            "tags": [
+              "sociedad"
+            ]
+          },
+          {
+            "id": "atribuir",
+            "front": "atribuir",
+            "pos": "verb",
+            "back": "to attribute, to put down to",
+            "example": "Atribuyen la diferencia a los genes.",
+            "tier": "B2",
+            "tags": [
+              "ciencia"
+            ]
+          },
+          {
+            "id": "propenso",
+            "front": "propenso",
+            "pos": "adj",
+            "back": "prone to, liable to",
+            "example": "Los hombres son más propensos a ciertos riesgos.",
+            "tier": "C1",
+            "tags": [
+              "salud"
+            ]
+          },
+          {
+            "id": "prevenir",
+            "front": "prevenir",
+            "pos": "verb",
+            "back": "to prevent",
+            "example": "Muchas muertes se podrían prevenir.",
+            "tier": "B2",
+            "tags": [
+              "salud"
+            ]
+          },
+          {
+            "id": "envejecer",
+            "front": "envejecer",
+            "pos": "verb",
+            "back": "to age, to grow old",
+            "example": "Envejecemos a ritmos distintos.",
+            "tier": "B2",
+            "tags": [
+              "ciencia"
+            ]
+          },
+          {
+            "id": "factor-de-riesgo",
+            "front": "factor de riesgo",
+            "pos": "phrase",
+            "back": "risk factor",
+            "example": "Fumar es un factor de riesgo claro.",
+            "tier": "B2",
+            "tags": [
+              "salud"
+            ]
+          },
+          {
+            "id": "en-gran-medida",
+            "front": "en gran medida",
+            "pos": "phrase",
+            "back": "to a large extent",
+            "example": "Se explica en gran medida por el estilo de vida.",
+            "tier": "B2",
+            "tags": [
+              "conector"
+            ]
+          },
+          {
+            "id": "desigualdad",
+            "front": "desigualdad",
+            "pos": "noun",
+            "back": "inequality",
+            "example": "Persiste la desigualdad en salud.",
+            "tier": "B2",
+            "tags": [
+              "sociedad"
+            ]
+          },
+          {
+            "id": "por-termino-medio",
+            "front": "por término medio",
+            "pos": "phrase",
+            "back": "on average (formal)",
+            "example": "Por término medio, ellas consultan más al médico.",
+            "tier": "C1",
+            "tags": [
+              "conector"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "No se sabe con certeza por qué ocurre.",
+            "point": "impersonal 'se' + an embedded question",
+            "explanation": "'se sabe' = 'it is known'; here it introduces an indirect question ('por qué ocurre').",
+            "why_tricky": "English needs a dummy subject ('one doesn't know / it isn't known'), which Spanish avoids with 'se'."
+          },
+          {
+            "sentence": "Es probable que influyan tanto los genes como los hábitos.",
+            "point": "'tanto… como…' + subjunctive after 'es probable que'",
+            "explanation": "'tanto A como B' means 'both A and B'; 'es probable que' forces the subjunctive ('influyan').",
+            "why_tricky": "Two structures stack at once, and English splits them ('both… and…' + 'probably')."
+          },
+          {
+            "sentence": "Aunque vivan más años, no siempre viven mejor.",
+            "point": "'aunque' + subjunctive for a general/hypothetical concession",
+            "explanation": "With an unproven or general claim, 'aunque' ('even if/though') takes the subjunctive ('vivan').",
+            "why_tricky": "English chooses 'even if' vs 'even though'; Spanish signals it through the mood."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "llevar una vida sana",
+            "meaning": "to lead a healthy life",
+            "example": "Quienes llevan una vida sana suelen envejecer mejor."
+          },
+          {
+            "phrase": "ganar años de vida",
+            "meaning": "to gain years of life",
+            "example": "Dejar de fumar hace ganar años de vida."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Cuánta diferencia hay, de media, entre la vida de mujeres y hombres?",
+            "type": "factual"
+          },
+          {
+            "q": "¿A qué atribuyen los científicos esa diferencia?",
+            "type": "factual"
+          },
+          {
+            "q": "¿Qué importa más para vivir más años: la biología o los hábitos?",
+            "type": "opinion"
+          }
+        ],
+        "opinion_prompt": "¿Qué cambios de hábitos crees que más alargan la vida? Escribe ~100 palabras."
+      }
+    },
+    {
+      "pack_id": "feed-2026-05-29-brasil-crimen-organizado",
+      "title": "Cómo operan los grupos criminales de Brasil designados 'terroristas' por EE.UU.",
+      "source": "BBC Mundo",
+      "date": "2026-05-29",
+      "level": "C1",
+      "topics": [
+        "crime",
+        "politics"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-05-29-brasil-crimen-organizado",
+        "meta": {
+          "title": "Cómo operan los grupos criminales de Brasil designados 'terroristas' por EE.UU.",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cvgzlj0qdr3o",
+          "date_published": "2026-05-29",
+          "date_processed": "2026-06-09",
+          "tags": [
+            "crimen",
+            "politica"
+          ],
+          "level": "C1"
+        },
+        "summary_en": "The US has labelled two powerful Brazilian criminal organisations as terrorist groups. The article explains how the PCC and Comando Vermelho operate and what the designation means. It places them alongside other gangs already on the list.",
+        "resumen_es": "Estados Unidos ha designado como organizaciones terroristas a dos poderosos grupos criminales de Brasil. El artículo explica cómo operan el PCC y el Comando Vermelho y qué implica esa calificación. Los sitúa junto a otras bandas que ya figuraban en la lista.",
+        "vocab": [
+          {
+            "id": "banda",
+            "front": "banda",
+            "pos": "noun",
+            "back": "gang, band",
+            "example": "La banda controla barrios enteros.",
+            "tier": "B2",
+            "tags": [
+              "crimen"
+            ]
+          },
+          {
+            "id": "delito",
+            "front": "delito",
+            "pos": "noun",
+            "back": "crime, offence",
+            "example": "Se les imputan numerosos delitos.",
+            "tier": "B2",
+            "tags": [
+              "crimen"
+            ]
+          },
+          {
+            "id": "designar",
+            "front": "designar",
+            "pos": "verb",
+            "back": "to designate, to name",
+            "example": "Los designaron como organización terrorista.",
+            "tier": "C1",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "calificacion",
+            "front": "calificación",
+            "pos": "noun",
+            "back": "label, classification",
+            "example": "Esa calificación acarrea sanciones.",
+            "tier": "B2",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "red",
+            "front": "red",
+            "pos": "noun",
+            "back": "network",
+            "example": "Dirigen una red criminal transnacional.",
+            "tier": "B2",
+            "tags": [
+              "crimen"
+            ]
+          },
+          {
+            "id": "blanqueo",
+            "front": "blanqueo de capitales",
+            "pos": "phrase",
+            "back": "money laundering",
+            "example": "Se les acusa de blanqueo de capitales.",
+            "tier": "C1",
+            "tags": [
+              "crimen"
+            ]
+          },
+          {
+            "id": "extorsion",
+            "front": "extorsión",
+            "pos": "noun",
+            "back": "extortion",
+            "example": "Financian su poder con la extorsión.",
+            "tier": "C1",
+            "tags": [
+              "crimen"
+            ]
+          },
+          {
+            "id": "penitenciario",
+            "front": "penitenciario",
+            "pos": "adj",
+            "back": "prison-, penitentiary",
+            "example": "El grupo nació en el sistema penitenciario.",
+            "tier": "C1",
+            "tags": [
+              "crimen"
+            ]
+          },
+          {
+            "id": "arraigar",
+            "front": "arraigar",
+            "pos": "verb",
+            "back": "to take root, to become entrenched",
+            "example": "El crimen organizado se ha arraigado.",
+            "tier": "C1",
+            "tags": [
+              "sociedad"
+            ]
+          },
+          {
+            "id": "impunidad",
+            "front": "impunidad",
+            "pos": "noun",
+            "back": "impunity",
+            "example": "Operan con casi total impunidad.",
+            "tier": "C1",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "al-margen-de",
+            "front": "al margen de",
+            "pos": "phrase",
+            "back": "outside of, regardless of",
+            "example": "Actúan al margen de la ley.",
+            "tier": "C1",
+            "tags": [
+              "conector"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Se les acusa de financiar la violencia.",
+            "point": "impersonal 'se' + 'acusar de' + the pronoun 'les'",
+            "explanation": "'se les acusa de' = 'they are accused of'; 'acusar de' is followed by an infinitive or noun.",
+            "why_tricky": "English uses a passive ('they are accused of'); the Spanish 'se… les' construction has no direct equivalent."
+          },
+          {
+            "sentence": "Las autoridades buscan a quienes dirigen la red.",
+            "point": "'quienes' as a relative meaning 'those who'",
+            "explanation": "'quienes' (or 'los que') refers to unnamed people: 'those who run the network'.",
+            "why_tricky": "English uses 'who(ever)' or 'the people who'; learners reach for 'que' alone."
+          },
+          {
+            "sentence": "Por más que los persigan, las bandas resurgen.",
+            "point": "'por más que' + subjunctive (concession)",
+            "explanation": "'por más que' ('no matter how much') concedes and takes the subjunctive ('persigan').",
+            "why_tricky": "English 'no matter how much they chase them' stays in the indicative."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "operar en la sombra",
+            "meaning": "to operate in the shadows",
+            "example": "La organización opera en la sombra durante años."
+          },
+          {
+            "phrase": "sembrar el terror",
+            "meaning": "to spread terror",
+            "example": "Las bandas siembran el terror en los barrios."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué decisión tomó Estados Unidos sobre estos grupos?",
+            "type": "factual"
+          },
+          {
+            "q": "¿Cómo financian su poder estas organizaciones?",
+            "type": "factual"
+          },
+          {
+            "q": "¿Crees que la etiqueta de 'terrorista' cambia algo en la práctica?",
+            "type": "inferential"
+          }
+        ],
+        "opinion_prompt": "¿Ayuda calificar a una banda de 'terrorista' a combatir el crimen organizado? Escribe ~100 palabras."
+      }
+    },
+    {
+      "pack_id": "feed-2026-05-23-jardin-venenos",
+      "title": "El Jardín de los Venenos: cien plantas tóxicas abiertas al público",
+      "source": "BBC Mundo",
+      "date": "2026-05-23",
+      "level": "B2",
+      "topics": [
+        "culture",
+        "science"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-05-23-jardin-venenos",
+        "meta": {
+          "title": "El Jardín de los Venenos: cien plantas tóxicas abiertas al público",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c98r3jle31no",
+          "date_published": "2026-05-23",
+          "date_processed": "2026-06-09",
+          "tags": [
+            "cultura",
+            "ciencia"
+          ],
+          "level": "B2"
+        },
+        "summary_en": "A garden in England grows more than a hundred toxic, intoxicating and narcotic plants — including some of the deadliest on Earth. Visitors are warned not to touch anything. The article explores why a garden of poisons fascinates the public.",
+        "resumen_es": "Un jardín en Inglaterra cultiva más de cien plantas tóxicas, embriagantes y narcóticas, incluidas algunas de las más letales del planeta. A los visitantes se les advierte que no toquen nada. El artículo explora por qué un jardín de venenos fascina al público.",
+        "vocab": [
+          {
+            "id": "veneno",
+            "front": "veneno",
+            "pos": "noun",
+            "back": "poison",
+            "example": "Algunas plantas contienen un veneno mortal.",
+            "tier": "B2",
+            "tags": [
+              "ciencia"
+            ]
+          },
+          {
+            "id": "toxico",
+            "front": "tóxico",
+            "pos": "adj",
+            "back": "toxic",
+            "example": "Cultivan plantas tóxicas con cuidado.",
+            "tier": "B2",
+            "tags": [
+              "ciencia"
+            ]
+          },
+          {
+            "id": "letal",
+            "front": "letal",
+            "pos": "adj",
+            "back": "lethal, deadly",
+            "example": "Basta una dosis letal.",
+            "tier": "C1",
+            "tags": [
+              "ciencia"
+            ]
+          },
+          {
+            "id": "advertir",
+            "front": "advertir",
+            "pos": "verb",
+            "back": "to warn",
+            "example": "Advierten del peligro a la entrada.",
+            "tier": "B2",
+            "tags": []
+          },
+          {
+            "id": "cultivar",
+            "front": "cultivar",
+            "pos": "verb",
+            "back": "to grow, to cultivate",
+            "example": "Cultivan cada ejemplar bajo control.",
+            "tier": "B2",
+            "tags": [
+              "ciencia"
+            ]
+          },
+          {
+            "id": "ejemplar",
+            "front": "ejemplar",
+            "pos": "noun",
+            "back": "specimen",
+            "example": "Cuidan cada ejemplar con guantes.",
+            "tier": "C1",
+            "tags": [
+              "ciencia"
+            ]
+          },
+          {
+            "id": "envenenamiento",
+            "front": "envenenamiento",
+            "pos": "noun",
+            "back": "poisoning",
+            "example": "Existe riesgo de envenenamiento.",
+            "tier": "C1",
+            "tags": [
+              "ciencia"
+            ]
+          },
+          {
+            "id": "cercado",
+            "front": "cercado",
+            "pos": "adj",
+            "back": "fenced off, enclosed",
+            "example": "Las plantas están cercadas.",
+            "tier": "C1",
+            "tags": []
+          },
+          {
+            "id": "a-pesar-de",
+            "front": "a pesar de",
+            "pos": "phrase",
+            "back": "despite, in spite of",
+            "example": "A pesar del peligro, atrae a miles.",
+            "tier": "B2",
+            "tags": [
+              "conector"
+            ]
+          },
+          {
+            "id": "asombro",
+            "front": "asombro",
+            "pos": "noun",
+            "back": "astonishment, wonder",
+            "example": "Los visitantes miran con asombro.",
+            "tier": "C1",
+            "tags": [
+              "cultura"
+            ]
+          },
+          {
+            "id": "bajo-ningun-concepto",
+            "front": "bajo ningún concepto",
+            "pos": "phrase",
+            "back": "under no circumstances",
+            "example": "No se debe tocar nada bajo ningún concepto.",
+            "tier": "C1",
+            "tags": [
+              "conector"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "A los visitantes se les advierte que no toquen nada.",
+            "point": "'advertir que' + subjunctive (a warning/command)",
+            "explanation": "When 'advertir que' conveys an instruction, the following verb is subjunctive ('toquen').",
+            "why_tricky": "English uses an infinitive ('warned not to touch'), hiding the mood change."
+          },
+          {
+            "sentence": "Es el jardín más peligroso que exista.",
+            "point": "subjunctive after a superlative antecedent",
+            "explanation": "After a superlative ('el más…'), the relative clause often takes the subjunctive ('exista') to mean 'that there may be'.",
+            "why_tricky": "English keeps the indicative ('that exists')."
+          },
+          {
+            "sentence": "No toques nada.",
+            "point": "negative command (tú) uses the subjunctive form",
+            "explanation": "Negative 'tú' commands use the present subjunctive ('no toques'), unlike the affirmative ('toca').",
+            "why_tricky": "The affirmative and negative forms differ, which surprises learners."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "jugar con fuego",
+            "meaning": "to play with fire",
+            "example": "Cultivar venenos es, literalmente, jugar con fuego."
+          },
+          {
+            "phrase": "dar escalofríos",
+            "meaning": "to give the chills",
+            "example": "El lugar da escalofríos a más de uno."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué tipo de plantas reúne este jardín?",
+            "type": "factual"
+          },
+          {
+            "q": "¿Qué se les advierte a los visitantes?",
+            "type": "factual"
+          },
+          {
+            "q": "¿Por qué crees que un jardín de venenos atrae al público?",
+            "type": "inferential"
+          }
+        ],
+        "opinion_prompt": "¿Por qué nos fascina lo peligroso? Escribe ~100 palabras."
+      }
+    },
+    {
+      "pack_id": "feed-2026-05-25-japon-custodia",
+      "title": "Por qué el divorcio en Japón separaba a padres e hijos, y la reforma que lo cambia",
+      "source": "BBC Mundo",
+      "date": "2026-05-25",
+      "level": "B2",
+      "topics": [
+        "society"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-05-25-japon-custodia",
+        "meta": {
+          "title": "Por qué el divorcio en Japón separaba a padres e hijos, y la reforma que lo cambia",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cgrpl424pvjo",
+          "date_published": "2026-05-25",
+          "date_processed": "2026-06-09",
+          "tags": [
+            "sociedad"
+          ],
+          "level": "B2"
+        },
+        "summary_en": "Japan was the only G7 country without shared custody after divorce, often cutting one parent off from their children. A new reform aims to change that. The article examines the consequences for families.",
+        "resumen_es": "Japón era el único país del G7 que no contemplaba la custodia compartida tras el divorcio, lo que a menudo dejaba a uno de los progenitores sin acceso a sus hijos. Una nueva reforma pretende cambiarlo. El artículo examina las consecuencias para las familias.",
+        "vocab": [
+          {
+            "id": "custodia-compartida",
+            "front": "custodia compartida",
+            "pos": "phrase",
+            "back": "shared custody",
+            "example": "La ley introduce la custodia compartida.",
+            "tier": "B2",
+            "tags": [
+              "sociedad"
+            ]
+          },
+          {
+            "id": "progenitor",
+            "front": "progenitor",
+            "pos": "noun",
+            "back": "parent (formal)",
+            "example": "Ambos progenitores tendrán derechos.",
+            "tier": "C1",
+            "tags": [
+              "sociedad"
+            ]
+          },
+          {
+            "id": "reforma",
+            "front": "reforma",
+            "pos": "noun",
+            "back": "reform",
+            "example": "La reforma llega tras años de debate.",
+            "tier": "B2",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "contemplar",
+            "front": "contemplar",
+            "pos": "verb",
+            "back": "to provide for, to envisage",
+            "example": "La ley no contemplaba esa opción.",
+            "tier": "C1",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "vinculo",
+            "front": "vínculo",
+            "pos": "noun",
+            "back": "bond, tie",
+            "example": "Se rompía el vínculo con los hijos.",
+            "tier": "B2",
+            "tags": [
+              "sociedad"
+            ]
+          },
+          {
+            "id": "manutencion",
+            "front": "manutención",
+            "pos": "noun",
+            "back": "child support, maintenance",
+            "example": "Debe pagar la manutención de los menores.",
+            "tier": "C1",
+            "tags": [
+              "sociedad"
+            ]
+          },
+          {
+            "id": "ruptura",
+            "front": "ruptura",
+            "pos": "noun",
+            "back": "breakup, rupture",
+            "example": "Tras la ruptura, perdió el contacto.",
+            "tier": "B2",
+            "tags": [
+              "sociedad"
+            ]
+          },
+          {
+            "id": "entrar-en-vigor",
+            "front": "entrar en vigor",
+            "pos": "phrase",
+            "back": "to come into force",
+            "example": "La reforma entrará en vigor el año que viene.",
+            "tier": "C1",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "amparar",
+            "front": "amparar",
+            "pos": "verb",
+            "back": "to protect, to safeguard (in law)",
+            "example": "La ley ampara el interés del menor.",
+            "tier": "C1",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "por-el-contrario",
+            "front": "por el contrario",
+            "pos": "phrase",
+            "back": "on the contrary, by contrast",
+            "example": "Por el contrario, algunos critican la reforma.",
+            "tier": "B2",
+            "tags": [
+              "conector"
+            ]
+          },
+          {
+            "id": "menor",
+            "front": "menor",
+            "pos": "noun",
+            "back": "minor, child",
+            "example": "El interés del menor es prioritario.",
+            "tier": "B2",
+            "tags": [
+              "sociedad"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Japón era el único país que no contemplaba esa opción.",
+            "point": "imperfect for a continuous past situation",
+            "explanation": "The imperfect ('era', 'contemplaba') describes an ongoing past state rather than a single event.",
+            "why_tricky": "English would use the simple past ('was', 'didn't provide'), so learners reach for the preterite."
+          },
+          {
+            "sentence": "La reforma pretende que ambos progenitores mantengan el vínculo.",
+            "point": "subjunctive after 'pretender que'",
+            "explanation": "Verbs of wanting/intending ('pretender que', 'querer que') take the subjunctive ('mantengan') when the subject changes.",
+            "why_tricky": "English uses an infinitive ('intends both parents to keep'), hiding the trigger."
+          },
+          {
+            "sentence": "No se trata solo de dinero, sino del bienestar del menor.",
+            "point": "'tratarse de' (to be a matter/question of) + 'no… sino…'",
+            "explanation": "'tratarse de' means 'to be about/a question of'; 'no… sino…' corrects ('not… but rather…').",
+            "why_tricky": "'sino' (not 'pero') is required after a negative, which English doesn't distinguish."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "pasar página",
+            "meaning": "to turn the page, to move on",
+            "example": "Tras el divorcio, intentan pasar página."
+          },
+          {
+            "phrase": "tener las manos atadas",
+            "meaning": "to have one's hands tied",
+            "example": "Sin la reforma, los jueces tenían las manos atadas."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué tenía de excepcional la ley japonesa sobre el divorcio?",
+            "type": "factual"
+          },
+          {
+            "q": "¿Qué pretende cambiar la reforma?",
+            "type": "factual"
+          },
+          {
+            "q": "¿Por qué importa que ambos progenitores mantengan el vínculo?",
+            "type": "inferential"
+          }
+        ],
+        "opinion_prompt": "¿Debería primar siempre la custodia compartida tras un divorcio? Escribe ~100 palabras."
       }
     }
   ]
