@@ -18,6 +18,12 @@ export function Reader({ packId }: { packId: string }) {
   // Leaving the article always silences it.
   useEffect(() => () => stopSpeech(), [packId])
 
+  // Remember when this article was read; new flashcards from recently read
+  // articles are introduced first.
+  useEffect(() => {
+    void db.packs.update(packId, { last_opened_at: Date.now() })
+  }, [packId])
+
   if (pack === undefined) {
     return (
       <Screen>

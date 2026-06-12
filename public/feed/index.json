@@ -1,7 +1,493 @@
 {
-  "generated_at": "2026-06-12T00:00:00Z",
+  "generated_at": "2026-06-12T09:35:00Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-12-el-nino-clima",
+      "title": "Los científicos dicen que el fenómeno de El Niño ya empezó y advierten de los efectos climáticos extremos que puede traer",
+      "source": "BBC Mundo",
+      "date": "2026-06-12",
+      "level": "B1-B2",
+      "topics": [
+        "ciencia",
+        "clima"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-12-el-nino-clima",
+        "revision": 1,
+        "meta": {
+          "title": "Los científicos dicen que el fenómeno de El Niño ya empezó y advierten de los efectos climáticos extremos que puede traer",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cgrkww90dgeo",
+          "date_published": "2026-06-12",
+          "date_processed": "2026-06-12",
+          "tags": [
+            "ciencia",
+            "clima"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "US scientists say an El Nino event has officially begun. The phenomenon warms the Pacific and tends to push global temperatures higher, raising fears of extreme weather around the world.",
+        "resumen_es": "Los científicos estadounidenses han confirmado que el fenómeno de El Niño ya ha comenzado oficialmente. Se trata de un patrón climático natural que aparece cada pocos años, cuando las aguas superficiales del océano Pacífico se calientan más de lo normal. Aunque nace en el mar, sus efectos se sienten en todo el planeta: suele traer temperaturas más elevadas, sequías en algunas regiones e inundaciones en otras. Los expertos advierten de que este episodio podría provocar condiciones meteorológicas extremas durante los próximos meses. La agricultura, la pesca y el suministro de agua son especialmente vulnerables, sobre todo en América Latina, donde el fenómeno recibió su nombre hace siglos. Además, El Niño se suma al calentamiento global causado por la actividad humana, lo que aumenta la probabilidad de batir récords de calor. Los gobiernos ya se preparan para responder, pero nadie sabe con certeza cuánto durará ni qué fuerza alcanzará esta vez.",
+        "vocab": [
+          {
+            "front": "el fenómeno",
+            "pos": "noun",
+            "back": "phenomenon",
+            "example": "El fenómeno de El Niño aparece cada pocos años.",
+            "tier": "B1"
+          },
+          {
+            "front": "calentarse",
+            "pos": "verb",
+            "back": "to warm up, to heat up",
+            "example": "Las aguas del Pacífico se calientan más de lo normal.",
+            "tier": "B1"
+          },
+          {
+            "front": "la sequía",
+            "pos": "noun",
+            "back": "drought",
+            "example": "La sequía afecta a la agricultura del sur.",
+            "tier": "B2"
+          },
+          {
+            "front": "la inundación",
+            "pos": "noun",
+            "back": "flood",
+            "example": "Las inundaciones obligaron a evacuar el pueblo.",
+            "tier": "B2"
+          },
+          {
+            "front": "advertir de",
+            "pos": "phrase",
+            "back": "to warn about",
+            "example": "Los expertos advierten de los riesgos del calor extremo.",
+            "tier": "B2"
+          },
+          {
+            "front": "el suministro de agua",
+            "pos": "phrase",
+            "back": "water supply",
+            "example": "El suministro de agua depende de las lluvias.",
+            "tier": "B2"
+          },
+          {
+            "front": "vulnerable",
+            "pos": "adj",
+            "back": "vulnerable",
+            "example": "La pesca es especialmente vulnerable este año.",
+            "tier": "B2"
+          },
+          {
+            "front": "sumarse a",
+            "pos": "phrase",
+            "back": "to add to, to join",
+            "example": "Este episodio se suma al calentamiento global.",
+            "tier": "B2"
+          },
+          {
+            "front": "batir récords",
+            "pos": "phrase",
+            "back": "to break records",
+            "example": "Este verano podríamos batir récords de calor.",
+            "tier": "B2"
+          },
+          {
+            "front": "con certeza",
+            "pos": "phrase",
+            "back": "with certainty",
+            "example": "Nadie sabe con certeza cuánto durará.",
+            "tier": "B2"
+          },
+          {
+            "front": "el patrón",
+            "pos": "noun",
+            "back": "pattern",
+            "example": "Es un patrón climático natural.",
+            "tier": "B2"
+          },
+          {
+            "front": "el calentamiento global",
+            "pos": "phrase",
+            "back": "global warming",
+            "example": "El calentamiento global intensifica estos fenómenos.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Los científicos estadounidenses han confirmado que el fenómeno de El Niño ya ha comenzado oficialmente.",
+            "point": "pretérito perfecto (haber + participio)",
+            "explanation": "Used for recent events with present relevance: 'han confirmado', 'ha comenzado'.",
+            "why_tricky": "English often uses the simple past here; Spanish prefers the perfect for news that just happened."
+          },
+          {
+            "sentence": "este episodio podría provocar condiciones meteorológicas extremas durante los próximos meses",
+            "point": "condicional de probabilidad (podría + infinitivo)",
+            "explanation": "'Podría provocar' softens the claim: it may or may not happen.",
+            "why_tricky": "Learners often overuse 'puede'; 'podría' signals a more cautious prediction."
+          },
+          {
+            "sentence": "nadie sabe con certeza cuánto durará ni qué fuerza alcanzará esta vez",
+            "point": "futuro en preguntas indirectas + ni",
+            "explanation": "Future tense inside indirect questions ('cuánto durará'), with 'ni' linking negatives.",
+            "why_tricky": "'Ni' replaces 'o' after a negative; English keeps 'or'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "nacer en el mar y sentirse en todo el planeta",
+            "meaning": "to start small/locally and have global effects",
+            "example": "El problema nace en el mar, pero se siente en todo el planeta."
+          },
+          {
+            "phrase": "prepararse para responder",
+            "meaning": "to get ready to act",
+            "example": "Los gobiernos se preparan para responder a la crisis."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué es exactamente el fenómeno de El Niño y dónde se origina?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué sectores económicos son los más vulnerables según el texto?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué este episodio podría batir récords de calor?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que tu país está preparado para fenómenos climáticos extremos? ¿Qué medidas tomarías tú?"
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-12-peru-elecciones",
+      "title": "Elecciones en Perú: Keiko Fujimori adelanta a Roberto Sánchez, pero poco más de 1.000 votos los separan",
+      "source": "BBC Mundo",
+      "date": "2026-06-12",
+      "level": "B1-B2",
+      "topics": [
+        "política",
+        "América Latina"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-12-peru-elecciones",
+        "revision": 1,
+        "meta": {
+          "title": "Elecciones en Perú: Keiko Fujimori adelanta a Roberto Sánchez, pero poco más de 1.000 votos los separan",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c1kye78j4nyo",
+          "date_published": "2026-06-12",
+          "date_processed": "2026-06-12",
+          "tags": [
+            "política",
+            "América Latina"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Peru's presidential election is on a knife edge: Keiko Fujimori leads the count over Roberto Sanchez by just over a thousand votes, and the country waits while the final ballots are tallied.",
+        "resumen_es": "Perú vive unas elecciones presidenciales de infarto. Según el recuento oficial, Keiko Fujimori adelanta a su rival Roberto Sánchez, pero la ventaja es mínima: poco más de mil votos separan a los dos candidatos. Con un resultado tan ajustado, cada papeleta cuenta, y los equipos de ambos aspirantes siguen el proceso con lupa. Las actas de las zonas rurales y el voto de los peruanos en el extranjero pueden inclinar la balanza en cualquier momento. No es la primera vez que el país andino contiene la respiración por unas elecciones: la historia reciente de Perú está llena de segundas vueltas reñidas, recursos legales y acusaciones cruzadas. Los observadores internacionales piden calma y confianza en las instituciones mientras avanza el escrutinio. Sea cual sea el resultado final, el próximo gobierno tendrá que gobernar un país dividido casi por la mitad, donde reconstruir los puentes políticos será tan urgente como difícil.",
+        "vocab": [
+          {
+            "front": "de infarto",
+            "pos": "phrase",
+            "back": "nail-biting, heart-stopping",
+            "example": "Fue un final de infarto.",
+            "tier": "B2"
+          },
+          {
+            "front": "el recuento",
+            "pos": "noun",
+            "back": "count, recount (of votes)",
+            "example": "El recuento oficial avanza lentamente.",
+            "tier": "B2"
+          },
+          {
+            "front": "adelantar a",
+            "pos": "verb",
+            "back": "to overtake, to pull ahead of",
+            "example": "Fujimori adelanta a Sánchez por mil votos.",
+            "tier": "B1"
+          },
+          {
+            "front": "ajustado",
+            "pos": "adj",
+            "back": "tight, close (result)",
+            "example": "Un resultado tan ajustado exige paciencia.",
+            "tier": "B2"
+          },
+          {
+            "front": "la papeleta",
+            "pos": "noun",
+            "back": "ballot paper",
+            "example": "Cada papeleta cuenta en estas elecciones.",
+            "tier": "B2"
+          },
+          {
+            "front": "con lupa",
+            "pos": "phrase",
+            "back": "very closely, under a magnifying glass",
+            "example": "Siguen el proceso con lupa.",
+            "tier": "B2"
+          },
+          {
+            "front": "inclinar la balanza",
+            "pos": "phrase",
+            "back": "to tip the scales",
+            "example": "El voto extranjero puede inclinar la balanza.",
+            "tier": "B2"
+          },
+          {
+            "front": "contener la respiración",
+            "pos": "phrase",
+            "back": "to hold one's breath",
+            "example": "El país contiene la respiración ante el resultado.",
+            "tier": "B2"
+          },
+          {
+            "front": "reñido",
+            "pos": "adj",
+            "back": "hard-fought, closely contested",
+            "example": "Fue una segunda vuelta muy reñida.",
+            "tier": "B2"
+          },
+          {
+            "front": "el escrutinio",
+            "pos": "noun",
+            "back": "vote counting, scrutiny",
+            "example": "El escrutinio terminará esta semana.",
+            "tier": "C1"
+          },
+          {
+            "front": "sea cual sea",
+            "pos": "phrase",
+            "back": "whatever it may be",
+            "example": "Sea cual sea el resultado, habrá protestas.",
+            "tier": "B2"
+          },
+          {
+            "front": "el aspirante",
+            "pos": "noun",
+            "back": "candidate, contender",
+            "example": "Los dos aspirantes esperan el resultado final.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "poco más de mil votos separan a los dos candidatos",
+            "point": "la 'a' personal con objetos directos de persona",
+            "explanation": "'Separan a los dos candidatos': the preposition 'a' marks a human direct object.",
+            "why_tricky": "English has no equivalent marker, so learners drop the 'a'."
+          },
+          {
+            "sentence": "Sea cual sea el resultado final, el próximo gobierno tendrá que gobernar un país dividido casi por la mitad",
+            "point": "subjuntivo en expresiones concesivas (sea cual sea)",
+            "explanation": "A fixed subjunctive structure meaning 'whatever the final result is'.",
+            "why_tricky": "The doubled verb form has no literal English parallel."
+          },
+          {
+            "sentence": "reconstruir los puentes políticos será tan urgente como difícil",
+            "point": "comparativo de igualdad (tan... como)",
+            "explanation": "'Tan urgente como difícil' equates two qualities.",
+            "why_tricky": "Word order: Spanish keeps both adjectives after the verb, unlike English 'as urgent as it is difficult'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "acusaciones cruzadas",
+            "meaning": "mutual accusations, finger-pointing",
+            "example": "La campaña terminó entre acusaciones cruzadas."
+          },
+          {
+            "phrase": "reconstruir puentes",
+            "meaning": "to rebuild bridges, repair relations",
+            "example": "Tendrá que reconstruir puentes con la oposición."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué ventaja tiene Keiko Fujimori sobre Roberto Sánchez según el recuento?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué factores pueden todavía cambiar el resultado?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué reto tendrá el próximo gobierno, gane quien gane?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Qué debería hacer un país cuando unas elecciones terminan prácticamente en empate? Escribe tu propuesta."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-12-canarias-migracion",
+      "title": "Migrar hacia Canarias: La vida en el limbo de un centro de acogida",
+      "source": "RFI en español",
+      "date": "2026-06-12",
+      "level": "B1-B2",
+      "topics": [
+        "sociedad",
+        "migración"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-12-canarias-migracion",
+        "revision": 1,
+        "meta": {
+          "title": "Migrar hacia Canarias: La vida en el limbo de un centro de acogida",
+          "source": "RFI en español",
+          "url": "https://www.rfi.fr/es/programas/enfoque-internacional/20260611-migrar-hacia-canarias-la-vida-en-el-limbo-de-un-centro-de-acogida",
+          "date_published": "2026-06-12",
+          "date_processed": "2026-06-12",
+          "tags": [
+            "sociedad",
+            "migración"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Nearly 6,000 people applied for asylum in the Canary Islands last year. Many arrive without resources and live in reception centres, waiting in limbo while their cases are processed.",
+        "resumen_es": "Las Islas Canarias se han convertido en una de las principales puertas de entrada a Europa para miles de personas migrantes. Solo el año pasado, casi seis mil personas solicitaron asilo en el archipiélago español, situado frente a la costa occidental de África. Muchas de ellas llegan tras una travesía peligrosa por el Atlántico y no cuentan con los recursos necesarios para valerse por sí mismas. Por eso son acogidas temporalmente en centros gestionados por organizaciones humanitarias. Allí, la vida transcurre en una especie de limbo: los residentes esperan durante meses la respuesta a su solicitud, sin poder trabajar legalmente ni hacer planes de futuro. Las organizaciones piden más medios y procesos más rápidos, mientras los gobiernos europeos discuten cómo repartir la responsabilidad. Detrás de cada expediente hay una historia personal: familias separadas, proyectos interrumpidos y la esperanza, a pesar de todo, de empezar una nueva vida.",
+        "vocab": [
+          {
+            "front": "la puerta de entrada",
+            "pos": "phrase",
+            "back": "gateway, point of entry",
+            "example": "Canarias es una puerta de entrada a Europa.",
+            "tier": "B2"
+          },
+          {
+            "front": "solicitar asilo",
+            "pos": "phrase",
+            "back": "to apply for asylum",
+            "example": "Casi seis mil personas solicitaron asilo el año pasado.",
+            "tier": "B2"
+          },
+          {
+            "front": "el archipiélago",
+            "pos": "noun",
+            "back": "archipelago",
+            "example": "El archipiélago está frente a la costa africana.",
+            "tier": "B2"
+          },
+          {
+            "front": "la travesía",
+            "pos": "noun",
+            "back": "crossing, voyage",
+            "example": "La travesía por el Atlántico es muy peligrosa.",
+            "tier": "B2"
+          },
+          {
+            "front": "valerse por sí mismo",
+            "pos": "phrase",
+            "back": "to fend for oneself",
+            "example": "No pueden valerse por sí mismos al llegar.",
+            "tier": "B2"
+          },
+          {
+            "front": "el centro de acogida",
+            "pos": "phrase",
+            "back": "reception centre",
+            "example": "Vive en un centro de acogida desde enero.",
+            "tier": "B2"
+          },
+          {
+            "front": "gestionar",
+            "pos": "verb",
+            "back": "to manage, to run",
+            "example": "ONG locales gestionan los centros.",
+            "tier": "B1"
+          },
+          {
+            "front": "transcurrir",
+            "pos": "verb",
+            "back": "to pass, to go by (time)",
+            "example": "La vida transcurre lentamente en el centro.",
+            "tier": "B2"
+          },
+          {
+            "front": "la solicitud",
+            "pos": "noun",
+            "back": "application, request",
+            "example": "Espera la respuesta a su solicitud de asilo.",
+            "tier": "B1"
+          },
+          {
+            "front": "repartir la responsabilidad",
+            "pos": "phrase",
+            "back": "to share out responsibility",
+            "example": "Los países discuten cómo repartir la responsabilidad.",
+            "tier": "B2"
+          },
+          {
+            "front": "el expediente",
+            "pos": "noun",
+            "back": "case file",
+            "example": "Cada expediente tarda meses en resolverse.",
+            "tier": "C1"
+          },
+          {
+            "front": "a pesar de todo",
+            "pos": "phrase",
+            "back": "in spite of everything",
+            "example": "A pesar de todo, mantiene la esperanza.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Las Islas Canarias se han convertido en una de las principales puertas de entrada a Europa",
+            "point": "convertirse en (cambio)",
+            "explanation": "'Convertirse en' expresses becoming something; here in the perfect tense.",
+            "why_tricky": "Spanish has several 'to become' verbs (hacerse, volverse, convertirse en) with different uses."
+          },
+          {
+            "sentence": "Muchas de ellas llegan tras una travesía peligrosa por el Atlántico y no cuentan con los recursos necesarios para valerse por sí mismas.",
+            "point": "contar con = tener / disponer de",
+            "explanation": "'No cuentan con los recursos' means they lack the resources.",
+            "why_tricky": "Literal translation 'count with' misleads English speakers."
+          },
+          {
+            "sentence": "los residentes esperan durante meses la respuesta a su solicitud, sin poder trabajar legalmente ni hacer planes de futuro",
+            "point": "sin + infinitivo",
+            "explanation": "'Sin poder trabajar' = 'without being able to work'; infinitive after 'sin'.",
+            "why_tricky": "English uses a gerund ('without working'); Spanish requires the infinitive."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "vivir en el limbo",
+            "meaning": "to live in limbo, in uncertainty",
+            "example": "Esperando los papeles, viven en el limbo."
+          },
+          {
+            "phrase": "empezar una nueva vida",
+            "meaning": "to start a new life",
+            "example": "Sueña con empezar una nueva vida en Europa."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué llegan tantas personas migrantes precisamente a Canarias?",
+            "type": "open"
+          },
+          {
+            "q": "¿Cómo es la vida diaria en un centro de acogida según el texto?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué piden las organizaciones humanitarias?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Cómo deberían repartirse los países europeos la responsabilidad de la acogida? Argumenta tu respuesta."
+      }
+    },
     {
       "pack_id": "feed-2026-05-30-cafe-economia",
       "title": "Lo que el precio de una taza de café revela sobre la economía",

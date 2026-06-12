@@ -67,6 +67,8 @@ export interface StudyPack {
 export interface StoredPack extends StudyPack {
   imported_at: number
   is_sample?: boolean
+  /** Last time the article was opened in the Reader; steers new-card priority. */
+  last_opened_at?: number
 }
 
 /** FSRS scheduler state we persist (mirrors ts-fsrs Card; dates kept as Date). */
