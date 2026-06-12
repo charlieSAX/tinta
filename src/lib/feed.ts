@@ -10,7 +10,7 @@ import type { StudyPack } from '../types'
 
 export interface FeedEntry {
   pack_id: string
-  /** Either embed the whole pack inline (preferred — single self-contained feed file)… */
+  /** Either embed the whole pack inline (preferred: single self-contained feed file)… */
   pack?: StudyPack
   /** …or reference a separate pack file, relative to the feed index URL. */
   file?: string
@@ -64,7 +64,7 @@ export async function pullFeed(): Promise<PullResult> {
     index = (await res.json()) as FeedIndex
     result.reachedFeed = true
   } catch (e) {
-    result.errors.push(`Couldn't reach the feed — ${(e as Error).message}`)
+    result.errors.push(`Couldn't reach the feed: ${(e as Error).message}`)
     return result
   }
 

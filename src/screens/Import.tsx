@@ -42,7 +42,7 @@ export function Import() {
       const skipped = res.skipped > 0 ? ` (${res.skipped} already known, skipped)` : ''
       toast.push(`Added ${res.added} new card${res.added === 1 ? '' : 's'} from “${res.title}”${skipped}.`, 'success')
     } catch (e) {
-      setErrors([`Couldn't save the pack — ${(e as Error).message}`])
+      setErrors([`Couldn't save the pack: ${(e as Error).message}`])
     } finally {
       setBusy(false)
     }
@@ -71,7 +71,7 @@ export function Import() {
       await runImport(content)
     } catch (e) {
       setErrors([
-        `Couldn't fetch that URL — ${(e as Error).message}.`,
+        `Couldn't fetch that URL: ${(e as Error).message}.`,
         'Tip: the file must allow cross-origin requests (a raw Gist or GitHub raw URL works). Otherwise paste the JSON above.',
       ])
       setBusy(false)

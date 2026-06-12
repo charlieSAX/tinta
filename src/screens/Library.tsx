@@ -81,14 +81,14 @@ export function Library() {
     try {
       const r = await pullFeed()
       if (!r.reachedFeed) {
-        toast.push('No feed reachable yet — deploy the app first, or set a feed URL in Settings.', 'default')
+        toast.push('No feed reachable yet. Deploy the app first, or set a feed URL in Settings.', 'default')
       } else if (r.added > 0) {
         toast.push(
           `Added ${r.added} new article${r.added === 1 ? '' : 's'}${r.cards ? ` · ${r.cards} new cards` : ''}.`,
           'success',
         )
       } else {
-        toast.push('No new articles right now — you’re up to date.', 'default')
+        toast.push('No new articles right now. You are up to date.', 'default')
       }
     } finally {
       setPulling(false)
@@ -104,7 +104,7 @@ export function Library() {
       />
 
       {/* Top strip: due · learned · engagement */}
-      <section className="grid grid-cols-[1fr_1fr_auto] items-center gap-3 rounded-2xl border border-line bg-card p-4">
+      <section className="grid grid-cols-[1fr_1fr_auto] items-center gap-3 rounded-2xl border border-line bg-card p-4 shadow-soft">
         <div>
           <div className="tabular font-reading text-3xl leading-none text-accent">{due}</div>
           <div className="mt-1 text-[0.75rem] font-medium text-ink-soft">Due today</div>
@@ -177,9 +177,10 @@ export function Library() {
         ) : filteredPacks.length === 0 ? (
           <p className="py-10 text-center text-sm text-muted">No articles match these filters.</p>
         ) : (
-          filteredPacks.map((p) => (
+          filteredPacks.map((p, i) => (
             <PackRow
               key={p.pack_id}
+              index={i}
               pack={p}
               cards={cardsByPack.get(p.pack_id) ?? []}
               now={now}
@@ -212,12 +213,14 @@ function PackRow({
   pack,
   cards,
   now,
+  index = 0,
   onOpen,
   onDelete,
 }: {
   pack: StoredPack
   cards: StoredCard[]
   now: Date
+  index?: number
   onOpen: () => void
   onDelete: () => void
 }) {
@@ -227,7 +230,10 @@ function PackRow({
   const kicker = [pack.meta.source, prettyDate(pack.meta.date_published)].filter(Boolean).join(' · ')
 
   return (
-    <div className="group relative rounded-2xl border border-line bg-card transition-colors hover:border-ink-soft">
+    <div
+      className="group pressable animate-fade-up relative rounded-2xl border border-line bg-card transition-colors hover:border-ink-soft hover:shadow-soft"
+      style={{ animationDelay: `${Math.min(index, 8) * 40}ms` }}
+    >
       <button type="button" onClick={onOpen} className="block w-full px-4 py-3.5 text-left">
         {kicker ? <div className="kicker mb-1">{kicker}</div> : null}
         <div className="flex items-start gap-3">
@@ -259,7 +265,7 @@ function PackRow({
         </div>
       </button>
       <div className="absolute bottom-2 right-2">
-        <IconButton icon="trash" label={`Remove ${pack.meta.title}`} size={16} onClick={onDelete} className="h-9 w-9 opacity-0 transition-opacity focus-visible:opacity-100 group-hover:opacity-100" />
+        <IconButton icon="trash" label={`Remove ${pack.meta.title}`} size={16} onClick={onDelete} className="h-9 w-9 opacity-50 transition-opacity focus-visible:opacity-100 group-hover:opacity-100 sm:opacity-0" />
       </div>
     </div>
   )

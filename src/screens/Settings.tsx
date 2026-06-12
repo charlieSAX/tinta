@@ -1,9 +1,17 @@
-import { useRef, useState, type ReactNode } from 'react'
+import { useEffect, useRef, useState, type ReactNode } from 'react'
 import { useLiveQuery } from 'dexie-react-hooks'
 import { getSettings, setSettings } from '../lib/db'
 import { exportAll, importAll, resetDeck } from '../lib/backup'
 import { defaultFeedUrl, pullFeed } from '../lib/feed'
 import { isoDate } from '../lib/format'
+import {
+  SAMPLE_SENTENCE,
+  isEnhanced,
+  loadVoices,
+  speak,
+  speechSupported,
+  targetVoices,
+} from '../lib/speech'
 import { Screen, PageHeader } from '../components/layout'
 import { Button, ConfirmDialog, Divider } from '../components/ui'
 import { Icon } from '../components/Icon'
@@ -37,11 +45,11 @@ export function Settings() {
     try {
       const r = await pullFeed()
       if (!r.reachedFeed) {
-        toast.push('No feed reachable — deploy the app first, or set a feed URL below.', 'default')
+        toast.push('No feed reachable. Deploy the app first, or set a feed URL below.', 'default')
       } else if (r.added > 0) {
         toast.push(`Added ${r.added} new article${r.added === 1 ? '' : 's'}.`, 'success')
       } else {
-        toast.push('No new articles — you’re up to date.', 'default')
+        toast.push('No new articles. You are up to date.', 'default')
       }
     } finally {
       setBusy(false)
@@ -62,7 +70,7 @@ export function Settings() {
       URL.revokeObjectURL(url)
       toast.push('Backup downloaded.', 'success')
     } catch (e) {
-      toast.push(`Export failed — ${(e as Error).message}`, 'error')
+      toast.push(`Export failed: ${(e as Error).message}`, 'error')
     }
   }
 
@@ -73,7 +81,7 @@ export function Settings() {
       const res = await importAll(pendingRestore)
       toast.push(`Restored ${res.cards} cards across ${res.packs} articles.`, 'success')
     } catch (e) {
-      toast.push(`Restore failed — ${(e as Error).message}`, 'error')
+      toast.push(`Restore failed: ${(e as Error).message}`, 'error')
     } finally {
       setBusy(false)
       setPendingRestore(null)
@@ -84,9 +92,9 @@ export function Settings() {
     setBusy(true)
     try {
       await resetDeck()
-      toast.push('Deck reset — scheduling starts fresh.', 'success')
+      toast.push('Deck reset. Scheduling starts fresh.', 'success')
     } catch (e) {
-      toast.push(`Reset failed — ${(e as Error).message}`, 'error')
+      toast.push(`Reset failed: ${(e as Error).message}`, 'error')
     } finally {
       setBusy(false)
       setConfirmReset(false)
@@ -137,6 +145,9 @@ export function Settings() {
         </div>
       </Group>
 
+      {/* Audio */}
+      {speechSupported() ? <AudioGroup voiceURI={settings?.voiceURI ?? ''} /> : null}
+
       {/* Articles */}
       <Group label="Articles">
         <div className="flex items-center justify-between px-4 py-3">
@@ -174,7 +185,7 @@ export function Settings() {
         <div className="px-4 py-3.5">
           <p className="text-sm leading-relaxed text-ink-soft">
             Everything lives on this device. Back up to a file so losing the phone never loses your
-            progress — the backup restores exactly.
+            progress; the backup restores exactly.
           </p>
           <div className="mt-3 flex flex-wrap gap-2">
             <Button variant="secondary" icon="download" onClick={onExport}>
@@ -215,7 +226,7 @@ export function Settings() {
       <ConfirmDialog
         open={pendingRestore !== null}
         title="Restore from backup?"
-        body="This replaces everything currently in Tinta — all articles, cards, review history and settings — with the contents of the backup file. This cannot be undone."
+        body="This replaces everything currently in Tinta (all articles, cards, review history and settings) with the contents of the backup file. This cannot be undone."
         confirmLabel={busy ? 'Restoring…' : 'Replace & restore'}
         danger
         onConfirm={onRestoreConfirmed}
@@ -231,6 +242,79 @@ export function Settings() {
         onCancel={() => setConfirmReset(false)}
       />
     </Screen>
+  )
+}
+
+function AudioGroup({ voiceURI }: { voiceURI: string }) {
+  const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([])
+  const [loaded, setLoaded] = useState(false)
+
+  useEffect(() => {
+    let on = true
+    void loadVoices().then(() => {
+      if (!on) return
+      setVoices(targetVoices())
+      setLoaded(true)
+    })
+    return () => {
+      on = false
+    }
+  }, [])
+
+  const best = voices[0]
+  const selected = voices.find((v) => v.voiceURI === voiceURI) ?? best
+
+  return (
+    <Group label="Audio">
+      <div className="px-4 py-3.5">
+        <div className="text-sm text-ink">Spanish voice</div>
+        <div className="mt-0.5 text-xs text-muted">
+          Used for listening to articles and glossary words. Voices marked
+          enhanced sound far more natural than the default computer voice.
+        </div>
+        {!loaded ? (
+          <div className="mt-2 text-xs text-muted">Looking for voices on this device&hellip;</div>
+        ) : voices.length === 0 ? (
+          <p className="mt-2 rounded-lg bg-paper-2 px-3 py-2 text-xs leading-relaxed text-ink-soft">
+            No Spanish voice is installed on this device. On iPhone: Settings, then Accessibility,
+            then Spoken Content, then Voices, then Spanish, and download an Enhanced voice (for
+            example Monica Enhanced). On Android: Settings, then search for Text-to-speech, open
+            Speech Recognition and Synthesis settings, then install Spanish voice data.
+          </p>
+        ) : (
+          <>
+            <div className="mt-2 flex gap-2">
+              <select
+                aria-label="Spanish voice"
+                value={selected?.voiceURI ?? ''}
+                onChange={(e) => void setSettings({ voiceURI: e.target.value })}
+                className="min-w-0 flex-1 rounded-lg border border-line bg-paper px-3 py-2 text-sm text-ink outline-none focus:border-ink-soft"
+              >
+                {voices.map((v) => (
+                  <option key={v.voiceURI} value={v.voiceURI}>
+                    {v.name} ({v.lang}){isEnhanced(v) ? ' · enhanced' : ''}
+                  </option>
+                ))}
+              </select>
+              <Button
+                variant="secondary"
+                icon="speaker"
+                onClick={() => void speak('voice-test', SAMPLE_SENTENCE, { voiceURI: selected?.voiceURI })}
+              >
+                Test
+              </Button>
+            </div>
+            {best && !isEnhanced(best) ? (
+              <p className="mt-2 text-xs leading-relaxed text-muted">
+                Tip: download an enhanced Spanish voice for much better audio. iPhone: Settings,
+                Accessibility, Spoken Content, Voices, Spanish, then download an Enhanced voice.
+                It appears here automatically.
+              </p>
+            ) : null}
+          </>
+        )}
+      </div>
+    </Group>
   )
 }
 

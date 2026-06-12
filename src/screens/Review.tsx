@@ -92,7 +92,7 @@ export function Review() {
         scheduled_days: out.scheduled_days,
         is_new: wasNew,
       })
-    })().catch((e) => toast.push(`Couldn't save that review — ${(e as Error).message}`, 'error'))
+    })().catch((e) => toast.push(`Couldn't save that review: ${(e as Error).message}`, 'error'))
 
     setReviewed((r) => r + 1)
     setRevealed(false)

@@ -4,7 +4,7 @@ import { daysAgo, isoDate } from './format'
 /**
  * Record that a session completed today. At most one engagement point per
  * calendar day (the day is a set member); lifetime sessions counts every
- * completed session. Missing days never subtract — there are no streaks.
+ * completed session. Missing days never subtract; there are no streaks.
  */
 export async function recordSessionComplete(now: Date = new Date()): Promise<void> {
   const eng = await getEngagement()

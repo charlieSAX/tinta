@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T09:00:00Z",
-  "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines — open the original via each article's link for the full text.",
+  "generated_at": "2026-06-12T00:00:00Z",
+  "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
     {
       "pack_id": "feed-2026-05-30-cafe-economia",
@@ -26,8 +26,8 @@
           ],
           "level": "B2"
         },
-        "summary_en": "The price of a single cup of coffee reflects a tangle of global forces — tariffs, climate, shifting tastes and the strategies of growers. Rising costs ripple from coffee-growing regions all the way to the consumer's daily ritual. The article uses coffee to make sense of wider economic turbulence.",
-        "resumen_es": "El precio de una sola taza de café refleja una maraña de factores globales: los aranceles, el clima, los gustos cambiantes y las estrategias de los caficultores. El encarecimiento se traslada desde las regiones productoras hasta el ritual diario de los consumidores. A través del café, el artículo intenta explicar la agitación económica actual.",
+        "summary_en": "The price of a single cup of coffee reflects a tangle of global forces, tariffs, climate, shifting tastes and the strategies of growers. Rising costs ripple from coffee-growing regions all the way to the consumer's daily ritual. The article uses coffee to make sense of wider economic turbulence.",
+        "resumen_es": "¿Qué puede contarnos una taza de café sobre la economía mundial? Mucho más de lo que parece. El precio que pagamos cada mañana refleja una maraña de factores globales: los aranceles comerciales, el clima cada vez más imprevisible, los gustos cambiantes de los consumidores y las estrategias de los caficultores. Cuando una helada golpea las plantaciones de Brasil o suben los costes del transporte marítimo, el efecto viaja desde las regiones productoras hasta la cafetería de la esquina. Los productores, por su parte, intentan adaptarse: cambian de cultivos, buscan nuevos mercados y negocian precios más justos. Para muchos países de América Latina, el café no es solo una bebida, sino una fuente esencial de ingresos y de empleo. A través de algo tan cotidiano como un café, el artículo explica la agitación económica actual y nos recuerda que ningún producto llega a nuestras manos sin una larga historia detrás.",
         "vocab": [
           {
             "id": "marana",
@@ -226,7 +226,7 @@
           "level": "B2"
         },
         "summary_en": "Cortisol, the body's main stress hormone, has become a social-media obsession, with endless tips for lowering it. The article separates the science from the myths: cortisol is essential, and its rhythms are more complex than wellness trends suggest. Experts urge caution about quick fixes.",
-        "resumen_es": "El cortisol, la principal hormona del estrés, se ha convertido en una obsesión en las redes sociales, con innumerables consejos para reducirlo. El artículo distingue la ciencia de los mitos: el cortisol es esencial y sus ritmos son más complejos de lo que sugieren las modas del bienestar. Los expertos piden cautela ante las soluciones rápidas.",
+        "resumen_es": "El cortisol, la principal hormona del estrés, se ha convertido en una verdadera obsesión en las redes sociales. Abundan los vídeos que prometen bajar el cortisol con dietas, suplementos o rutinas matinales, y millones de personas los consumen preocupadas por su salud. Pero ¿qué dice realmente la ciencia? El artículo separa los hechos de los mitos. El cortisol es esencial para la vida: nos ayuda a despertarnos por la mañana, regula el metabolismo y nos prepara para reaccionar ante el peligro. Sus niveles suben y bajan de forma natural a lo largo del día, y esos ritmos son más complejos de lo que sugieren las modas del bienestar. Los expertos piden cautela ante las soluciones rápidas: salvo en casos médicos concretos, no tiene sentido obsesionarse con esta hormona. Dormir bien, hacer ejercicio con regularidad y manejar el estrés del día a día siguen siendo los consejos más fiables.",
         "vocab": [
           {
             "id": "hormona",
@@ -422,7 +422,7 @@
           "level": "B2"
         },
         "summary_en": "A dozen candidates are competing in the first round of Colombia's presidential election, with polls pointing to three front-runners. The contest will decide who succeeds Gustavo Petro. The article profiles the leading contenders and what is at stake.",
-        "resumen_es": "Una docena de candidatos compite en la primera vuelta de las elecciones presidenciales de Colombia, y las encuestas señalan a tres favoritos. La contienda decidirá quién sucederá a Gustavo Petro. El artículo perfila a los aspirantes con más opciones y lo que está en juego.",
+        "resumen_es": "Colombia se prepara para elegir al sucesor de Gustavo Petro, el primer presidente de izquierda de su historia reciente. Una docena de candidatos compite en la primera vuelta de las elecciones presidenciales, pero las encuestas señalan a tres favoritos con posibilidades reales de pasar a la segunda vuelta. El artículo perfila a los principales aspirantes: sus trayectorias, sus propuestas y las alianzas que han construido durante la campaña. Lo que está en juego es considerable. El próximo gobierno tendrá que enfrentarse a la violencia de los grupos armados, a una economía con dificultades y a un electorado polarizado y cansado de promesas incumplidas. Además, el resultado dirá mucho sobre el rumbo político de América Latina, donde varios países oscilan entre proyectos de izquierda y de derecha. La primera vuelta medirá las fuerzas de cada bando; la segunda, casi segura, decidirá el futuro del país.",
         "vocab": [
           {
             "id": "encuesta",
@@ -630,8 +630,8 @@
           ],
           "level": "C1"
         },
-        "summary_en": "A rise in GPS 'spoofing' — faking satellite signals — is increasingly disrupting commercial aviation. Pilots are misled about their position, raising safety concerns. Experts warn the invisible interference is spreading along conflict zones.",
-        "resumen_es": "El aumento de la suplantación de señales de GPS está alterando cada vez más la aviación comercial. Los pilotos reciben datos falsos sobre su posición, lo que enciende las alarmas de seguridad. Los expertos advierten de que esta interferencia invisible se extiende por las zonas en conflicto.",
+        "summary_en": "A rise in GPS 'spoofing', faking satellite signals, is increasingly disrupting commercial aviation. Pilots are misled about their position, raising safety concerns. Experts warn the invisible interference is spreading along conflict zones.",
+        "resumen_es": "Existe una guerra invisible que afecta cada día a miles de pasajeros sin que lo sepan. El aumento de la suplantación de señales de GPS, conocida como spoofing, está alterando cada vez más la aviación comercial. La técnica consiste en emitir señales falsas de satélite: los sistemas del avión reciben datos incorrectos sobre su posición y los pilotos deben confiar en otros instrumentos para orientarse. Este fenómeno, que antes era raro, se ha multiplicado en los últimos años y enciende las alarmas de seguridad en todo el sector. Los expertos advierten de que la interferencia se concentra cerca de las zonas en conflicto, donde los ejércitos la utilizan para confundir drones y misiles, pero sus efectos alcanzan a los vuelos civiles que cruzan esas regiones. Las aerolíneas entrenan a sus tripulaciones para detectar el engaño, mientras la industria busca soluciones técnicas a un problema que no deja de crecer.",
         "vocab": [
           {
             "id": "suplantacion",
@@ -824,7 +824,7 @@
           "level": "C1"
         },
         "summary_en": "Saudi Arabia's Vision 2030 promised futuristic megaprojects funded by vast spending. Now economic reality has forced the kingdom to rein in its most extravagant ambitions. The retreat reveals the limits of oil-fuelled transformation.",
-        "resumen_es": "El plan Visión 2030 de Arabia Saudita prometía megaproyectos futuristas financiados con un gasto enorme. Ahora la realidad económica ha obligado al reino a frenar sus ambiciones más extravagantes. El repliegue muestra los límites de una transformación impulsada por el petróleo.",
+        "resumen_es": "Durante años, Arabia Saudita anunció proyectos que parecían sacados de la ciencia ficción: una ciudad lineal de cien kilómetros, complejos turísticos de lujo en el desierto y estaciones de esquí en plena península arábiga. Todo formaba parte de Visión 2030, el plan del príncipe heredero Mohamed bin Salmán para transformar la economía del reino y reducir su dependencia del petróleo. Ahora la realidad económica ha obligado al país a frenar sus ambiciones más extravagantes. Los ingresos petroleros han caído, los costes de construcción se han disparado y varios megaproyectos avanzan mucho más despacio de lo previsto, o se han reducido de forma drástica. El artículo analiza qué salió mal y qué significa este repliegue para el reino y para sus grandes promesas. La conclusión es clara: ni siquiera una de las mayores fortunas del mundo puede comprar una transformación nacional de la noche a la mañana.",
         "vocab": [
           {
             "id": "gasto",
@@ -1034,7 +1034,7 @@
           "level": "B2"
         },
         "summary_en": "Across the world women outlive men by about five years on average. Scientists trace the gap to a mix of behaviour and biology. The article weighs how much is built into our bodies versus shaped by how we live.",
-        "resumen_es": "En todo el mundo, las mujeres viven de media unos cinco años más que los hombres. Los científicos atribuyen esa diferencia a una mezcla de comportamiento y biología. El artículo sopesa cuánto está inscrito en nuestro cuerpo y cuánto depende de cómo vivimos.",
+        "resumen_es": "En todo el mundo, las mujeres viven de media unos cinco años más que los hombres. La diferencia aparece en casi todas las culturas y épocas, lo que sugiere que no es una simple casualidad. Los científicos atribuyen esa brecha a una mezcla de comportamiento y biología, y el artículo sopesa cuánto pesa cada factor. Por un lado, los hombres asumen más riesgos: fuman y beben más, sufren más accidentes y van menos al médico. Por otro, la biología femenina parece ofrecer cierta protección. Las mujeres tienen dos cromosomas X, lo que les da una especie de copia de seguridad genética, y hormonas como el estrógeno protegen el corazón durante buena parte de la vida. La conclusión es que ambos elementos se combinan: una parte de la longevidad está inscrita en nuestro cuerpo, pero otra depende de cómo vivimos. Y eso significa que los hombres también pueden ganar años de vida.",
         "vocab": [
           {
             "id": "esperanza-de-vida",
@@ -1232,7 +1232,7 @@
           "level": "C1"
         },
         "summary_en": "The US has labelled two powerful Brazilian criminal organisations as terrorist groups. The article explains how the PCC and Comando Vermelho operate and what the designation means. It places them alongside other gangs already on the list.",
-        "resumen_es": "Estados Unidos ha designado como organizaciones terroristas a dos poderosos grupos criminales de Brasil. El artículo explica cómo operan el PCC y el Comando Vermelho y qué implica esa calificación. Los sitúa junto a otras bandas que ya figuraban en la lista.",
+        "resumen_es": "Estados Unidos ha designado como organizaciones terroristas a dos poderosos grupos criminales de Brasil: el Primer Comando de la Capital (PCC) y el Comando Vermelho. La decisión coloca a estas bandas junto a otras organizaciones latinoamericanas que ya figuraban en la lista, como varios carteles mexicanos. El artículo explica cómo operan estos grupos y qué implica la nueva calificación. Nacidos en las cárceles brasileñas, el PCC y el Comando Vermelho controlan hoy buena parte del narcotráfico del país, con redes que llegan hasta Europa y África. Manejan también extorsiones, tráfico de armas y negocios aparentemente legales que les sirven para lavar dinero. Para Washington, la designación permite congelar bienes y perseguir a quienes colaboren con ellos; para Brasil, plantea preguntas delicadas sobre soberanía y cooperación. Los especialistas dudan de que la etiqueta de terroristas cambie la realidad en las favelas, pero confirma el alcance internacional de estas organizaciones.",
         "vocab": [
           {
             "id": "banda",
@@ -1429,8 +1429,8 @@
           ],
           "level": "B2"
         },
-        "summary_en": "A garden in England grows more than a hundred toxic, intoxicating and narcotic plants — including some of the deadliest on Earth. Visitors are warned not to touch anything. The article explores why a garden of poisons fascinates the public.",
-        "resumen_es": "Un jardín en Inglaterra cultiva más de cien plantas tóxicas, embriagantes y narcóticas, incluidas algunas de las más letales del planeta. A los visitantes se les advierte que no toquen nada. El artículo explora por qué un jardín de venenos fascina al público.",
+        "summary_en": "A garden in England grows more than a hundred toxic, intoxicating and narcotic plants, including some of the deadliest on Earth. Visitors are warned not to touch anything. The article explores why a garden of poisons fascinates the public.",
+        "resumen_es": "En el norte de Inglaterra existe un jardín único en el mundo: el Jardín de los Venenos de Alnwick. Allí se cultivan más de cien plantas tóxicas, embriagantes y narcóticas, incluidas algunas de las más letales del planeta. Los visitantes entran solo con guía, escuchan advertencias constantes y tienen prohibido tocar, oler o probar cualquier planta. Algunas especies crecen incluso dentro de jaulas metálicas. Lo curioso es que muchas de estas plantas mortales parecen inofensivas: crecen en jardines normales, en parques o al borde del camino, y muy pocas personas conocen su peligro real. Ese contraste es parte de la lección que ofrece el lugar. El artículo explora por qué un jardín de venenos fascina tanto al público. Quizá sea el atractivo de lo prohibido, o el placer de sentir un peligro controlado. Las guías lo resumen muy bien: la gente recuerda mucho mejor una historia cuando la planta puede matarte.",
         "vocab": [
           {
             "id": "veneno",
@@ -1622,7 +1622,7 @@
           "level": "B2"
         },
         "summary_en": "Japan was the only G7 country without shared custody after divorce, often cutting one parent off from their children. A new reform aims to change that. The article examines the consequences for families.",
-        "resumen_es": "Japón era el único país del G7 que no contemplaba la custodia compartida tras el divorcio, lo que a menudo dejaba a uno de los progenitores sin acceso a sus hijos. Una nueva reforma pretende cambiarlo. El artículo examina las consecuencias para las familias.",
+        "resumen_es": "Hasta hace poco, Japón era el único país del G7 que no contemplaba la custodia compartida tras el divorcio. La ley obligaba a elegir a un solo progenitor, casi siempre la madre, y en la práctica el otro podía perder todo contacto con sus hijos. Miles de padres, japoneses y extranjeros, han pasado años sin ver a sus hijos, sin que los tribunales pudieran ayudarles. Una nueva reforma pretende cambiar esta situación: por primera vez, los padres divorciados podrán compartir la custodia legal de sus hijos. El artículo examina las consecuencias para las familias y el intenso debate que ha provocado la medida. Los defensores celebran que Japón se acerque a la práctica internacional y que los niños mantengan el vínculo con ambos progenitores. Los críticos, en cambio, temen que la custodia compartida obligue a algunas víctimas de violencia doméstica a seguir en contacto con su agresor. La sociedad japonesa sigue dividida.",
         "vocab": [
           {
             "id": "custodia-compartida",

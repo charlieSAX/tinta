@@ -130,6 +130,39 @@ button:focus:not(:focus-visible) {
   font-variant-numeric: tabular-nums;
 }
 
+/* Soft card elevation, used sparingly on hero cards. */
+.shadow-soft {
+  box-shadow: var(--shadow-card);
+}
+
+/* Pressed feedback on tappable cards and buttons (touch-first). */
+.pressable {
+  transition: transform 0.12s ease;
+}
+.pressable:active {
+  transform: scale(0.985);
+}
+
+/* The three dancing bars shown while audio is playing. */
+.speak-bar {
+  display: inline-block;
+  width: 3px;
+  height: 10px;
+  border-radius: 2px;
+  background: currentColor;
+  animation: speak-bounce 0.9s ease-in-out infinite;
+  transform-origin: bottom;
+}
+@keyframes speak-bounce {
+  0%,
+  100% {
+    transform: scaleY(0.35);
+  }
+  50% {
+    transform: scaleY(1);
+  }
+}
+
 /* ── Motion ───────────────────────────────────────────────────────────────
    All decorative motion is gentle and removed entirely when the user asks. */
 @media (prefers-reduced-motion: reduce) {

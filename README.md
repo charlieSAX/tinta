@@ -77,7 +77,7 @@ in airplane mode (the app shell, fonts and your data are all cached locally).
 you already have are skipped (deduplicated by lemma). The article’s reading
 content is stored for the reader.
 
-**Read.** Tap an article to open the reader: English summary, Spanish *resumen*
+**Read.** Tap an article to open the reader: English summary, a 130-170 word Spanish *resumen* (with listen button)
 (your comprehension anchor), glossary, collapsible grammar highlights, idioms,
 comprehension questions and the writing prompt. Any section the pack omits is
 simply not shown.
@@ -159,7 +159,7 @@ absent.
     "level": "B2"
   },
   "summary_en": "Three neutral English sentences.",
-  "resumen_es": "Tres frases en español al nivel objetivo.",
+  "resumen_es": "Mini-articulo en español de 130-170 palabras al nivel objetivo.",
   "article_text": "(optional) full Spanish text",
   "vocab": [
     { "id": "encabezar", "front": "encabezar", "pos": "verb",

@@ -69,7 +69,7 @@ export function applyGrade(
   }
 }
 
-/** The projected due date for every grade — drives the next-interval hints. */
+/** The projected due date for every grade; drives the next-interval hints. */
 export function intervalPreview(
   card: StoredCard,
   now: Date = new Date(),

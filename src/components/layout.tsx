@@ -30,9 +30,12 @@ export function PageHeader({
     <header
       className={[
         '-mx-5 mb-4 border-b border-line bg-paper px-5 py-3',
-        sticky ? 'sticky top-0 z-30' : '',
+        sticky ? 'sticky top-0 z-30 backdrop-blur-md' : '',
       ].join(' ')}
-      style={{ paddingTop: 'calc(env(safe-area-inset-top) + 0.5rem)' }}
+      style={{
+        paddingTop: 'calc(env(safe-area-inset-top) + 0.5rem)',
+        ...(sticky ? { background: 'color-mix(in srgb, var(--paper) 86%, transparent)' } : {}),
+      }}
     >
       <div className="flex items-center gap-2">
         {onBack ? <IconButton icon="back" label="Go back" onClick={onBack} className="-ml-2.5 shrink-0" /> : null}

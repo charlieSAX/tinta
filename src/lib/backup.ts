@@ -57,7 +57,7 @@ export async function importAll(
   try {
     data = JSON.parse(json)
   } catch (e) {
-    throw new Error(`That file isn't valid JSON — ${(e as Error).message}.`)
+    throw new Error(`That file isn't valid JSON: ${(e as Error).message}.`)
   }
   const d = data as Partial<Backup>
   if (!d || typeof d !== 'object' || !Array.isArray(d.cards) || !Array.isArray(d.packs)) {

@@ -120,7 +120,7 @@ export function parseAndValidate(input: string): ValidationResult {
   try {
     raw = JSON.parse(input)
   } catch (e) {
-    return { ok: false, errors: [`That isn't valid JSON — ${(e as Error).message}.`] }
+    return { ok: false, errors: [`That isn't valid JSON: ${(e as Error).message}.`] }
   }
   return validatePack(raw)
 }
@@ -134,7 +134,7 @@ export function validatePack(raw: unknown): ValidationResult {
 
   const meta = obj.meta as Record<string, unknown> | undefined
   if (!meta || typeof meta !== 'object' || Array.isArray(meta)) {
-    errors.push("Missing 'meta' object — it needs at least a title.")
+    errors.push("Missing 'meta' object; it needs at least a title.")
   } else if (typeof meta.title !== 'string' || !meta.title.trim()) {
     errors.push("'meta.title' is required.")
   }
@@ -143,7 +143,7 @@ export function validatePack(raw: unknown): ValidationResult {
   if (!Array.isArray(vocab)) {
     errors.push("Missing 'vocab' array.")
   } else if (vocab.length === 0) {
-    errors.push("'vocab' is empty — there's nothing to study.")
+    errors.push("'vocab' is empty; there's nothing to study.")
   } else {
     vocab.forEach((v, i) => {
       if (typeof v !== 'object' || v === null) {

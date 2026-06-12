@@ -25,7 +25,7 @@ export function daysAgo(n: number, now: Date = new Date()): Date {
 }
 
 /**
- * A compact, human interval between two instants — used on the grade buttons
+ * A compact, human interval between two instants; used on the grade buttons
  * and the "next due" line. Sub-day intervals read in minutes / hours.
  */
 export function intervalLabel(from: Date, to: Date): string {
@@ -44,7 +44,7 @@ export function intervalLabel(from: Date, to: Date): string {
   return `${yr >= 10 ? Math.round(yr) : yr.toFixed(1)}y`
 }
 
-/** "in 3 days", "tomorrow", "in 2 weeks" — for the session-complete card. */
+/** "in 3 days", "tomorrow", "in 2 weeks"; for the session-complete card. */
 export function relativeDue(to: Date, from: Date = new Date()): string {
   const ms = to.getTime() - from.getTime()
   if (ms <= 0) return 'now'

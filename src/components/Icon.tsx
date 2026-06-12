@@ -27,8 +27,18 @@ export type IconName =
   | 'file'
   | 'link'
   | 'sparkle'
+  | 'speaker'
+  | 'stop'
 
 const P: Record<IconName, ReactNode> = {
+  speaker: (
+    <>
+      <path d="M4 9.5v5a1 1 0 0 0 1 1h2.6l4 3.4a.8.8 0 0 0 1.3-.6V5.7a.8.8 0 0 0-1.3-.6l-4 3.4H5a1 1 0 0 0-1 1z" />
+      <path d="M16 9.2a4 4 0 0 1 0 5.6" />
+      <path d="M18.4 6.8a7.4 7.4 0 0 1 0 10.4" />
+    </>
+  ),
+  stop: <rect x="7" y="7" width="10" height="10" rx="1.6" />,
   library: (
     <>
       <path d="M12 6.6v12.8" />

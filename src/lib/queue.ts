@@ -9,7 +9,7 @@ export interface DueCounts {
   newRemaining: number // new cards still allowed today (cap − introduced today)
   introducedToday: number
   reviewsToday: number
-  actionable: number // dueReviews + min(newRemaining, newAvailable) — today's queue size
+  actionable: number // dueReviews + min(newRemaining, newAvailable); today's queue size
   total: number
   learned: number // cards that have left the New state
 }

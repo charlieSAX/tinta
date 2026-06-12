@@ -17,6 +17,7 @@ export const DEFAULT_SETTINGS: Settings = {
   theme: 'light',
   feedUrl: '',
   autoPull: true,
+  voiceURI: '',
 }
 export const DEFAULT_ENGAGEMENT: Engagement = { sessionDays: [], lifetimeSessions: 0 }
 

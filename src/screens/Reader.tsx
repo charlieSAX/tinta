@@ -1,17 +1,22 @@
-import type { ReactNode } from 'react'
+import { useEffect, type ReactNode } from 'react'
 import { useLiveQuery } from 'dexie-react-hooks'
 import { db } from '../lib/db'
+import { stop as stopSpeech } from '../lib/speech'
 import { prettyDate } from '../lib/format'
 import { packTopics, TOPICS } from '../lib/topics'
 import { useNav } from '../nav'
 import { Screen } from '../components/layout'
 import { IconButton, Spinner } from '../components/ui'
 import { Icon } from '../components/Icon'
+import { SpeakButton } from '../components/SpeakButton'
 import type { StoredPack } from '../types'
 
 export function Reader({ packId }: { packId: string }) {
   const { back } = useNav()
   const pack = useLiveQuery(() => db.packs.get(packId), [packId])
+
+  // Leaving the article always silences it.
+  useEffect(() => () => stopSpeech(), [packId])
 
   if (pack === undefined) {
     return (
@@ -88,9 +93,14 @@ function ArticleBody({ pack }: { pack: StoredPack }) {
       ) : null}
 
       {pack.resumen_es ? (
-        <Section label="Resumen — read this to check yourself">
-          <div className="rounded-2xl border border-line bg-card p-4" style={{ borderLeft: '3px solid var(--accent)' }}>
-            <p className="reading">{pack.resumen_es}</p>
+        <Section
+          label="Resumen, read this to check yourself"
+          action={<SpeakButton id={`resumen:${pack.pack_id}`} text={pack.resumen_es} label="the resumen" variant="block" />}
+        >
+          <div className="rounded-2xl border border-line bg-card p-4 shadow-soft" style={{ borderLeft: '3px solid var(--accent)' }}>
+            {splitParagraphs(pack.resumen_es).map((p, i) => (
+              <p key={i} className="reading">{p}</p>
+            ))}
           </div>
         </Section>
       ) : null}
@@ -100,13 +110,21 @@ function ArticleBody({ pack }: { pack: StoredPack }) {
           <ul className="divide-y divide-line overflow-hidden rounded-2xl border border-line bg-card">
             {pack.vocab.map((v, i) => (
               <li key={`${v.front}-${i}`} className="px-4 py-3">
-                <div className="flex items-baseline gap-2">
+                <div className="flex items-center gap-2">
                   <span className="font-reading text-[1.0625rem] font-medium text-ink">{v.front}</span>
                   {v.pos ? <span className="text-[0.6875rem] uppercase tracking-wide text-muted">{v.pos}</span> : null}
-                  {v.tier ? <span className="ml-auto rounded border border-line px-1.5 py-0.5 text-[0.625rem] font-semibold text-muted">{v.tier}</span> : null}
+                  <span className="ml-auto flex items-center gap-1.5">
+                    {v.tier ? <span className="rounded border border-line px-1.5 py-0.5 text-[0.625rem] font-semibold text-muted">{v.tier}</span> : null}
+                    <SpeakButton id={`vocab:${pack.pack_id}:${i}`} text={v.front} label={v.front} />
+                  </span>
                 </div>
                 <div className="mt-0.5 text-[0.9375rem] text-ink-soft">{v.back}</div>
-                {v.example ? <p className="mt-1 font-reading text-[0.9375rem] italic text-muted">{v.example}</p> : null}
+                {v.example ? (
+                  <div className="mt-1 flex items-start gap-1.5">
+                    <p className="flex-1 font-reading text-[0.9375rem] italic text-muted">{v.example}</p>
+                    <SpeakButton id={`vocab-ex:${pack.pack_id}:${i}`} text={v.example} label={`example for ${v.front}`} />
+                  </div>
+                ) : null}
               </li>
             ))}
           </ul>
@@ -143,7 +161,12 @@ function ArticleBody({ pack }: { pack: StoredPack }) {
           <ul className="divide-y divide-line overflow-hidden rounded-2xl border border-line bg-card">
             {pack.idioms.map((it, i) => (
               <li key={i} className="px-4 py-3">
-                <div className="font-reading text-[1.0625rem] font-medium text-ink">{it.phrase}</div>
+                <div className="flex items-center gap-2">
+                  <span className="font-reading text-[1.0625rem] font-medium text-ink">{it.phrase}</span>
+                  <span className="ml-auto">
+                    <SpeakButton id={`idiom:${pack.pack_id}:${i}`} text={it.phrase} label={it.phrase} />
+                  </span>
+                </div>
                 {it.meaning ? <div className="mt-0.5 text-[0.9375rem] text-ink-soft">{it.meaning}</div> : null}
                 {it.example ? <p className="mt-1 font-reading text-[0.9375rem] italic text-muted">{it.example}</p> : null}
               </li>
@@ -182,6 +205,9 @@ function ArticleBody({ pack }: { pack: StoredPack }) {
           <summary className="flex cursor-pointer items-center gap-2 text-sm font-semibold text-ink-soft">
             <Icon name="book" size={17} /> Read the full article
           </summary>
+          <div className="mt-3">
+            <SpeakButton id={`article:${pack.pack_id}`} text={pack.article_text} label="the full article" variant="block" />
+          </div>
           <div className="reading mt-4">
             {splitParagraphs(pack.article_text).map((p, i) => (
               <p key={i}>{p}</p>
@@ -189,16 +215,59 @@ function ArticleBody({ pack }: { pack: StoredPack }) {
           </div>
         </details>
       ) : null}
+
+      {meta.url ? <SourceCard url={meta.url} source={meta.source} /> : null}
     </article>
   )
 }
 
-function Section({ label, count, children }: { label: string; count?: number; children: ReactNode }) {
+/** A prominent, labelled route to the original article. */
+function SourceCard({ url, source }: { url: string; source?: string }) {
+  let host = ''
+  try {
+    host = new URL(url).hostname.replace(/^www\./, '')
+  } catch {
+    host = url
+  }
+  return (
+    <a
+      href={url}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="group mt-8 flex items-center gap-3 rounded-2xl border border-line bg-card p-4 shadow-soft transition-colors hover:border-ink-soft"
+    >
+      <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-accent-soft text-accent">
+        <Icon name="external" size={18} />
+      </span>
+      <span className="min-w-0 flex-1">
+        <span className="block text-sm font-semibold text-ink">Leer en la fuente</span>
+        <span className="block truncate text-xs text-muted">
+          {source ? `${source} · ` : ''}
+          {host}
+        </span>
+      </span>
+      <Icon name="right" size={18} className="shrink-0 text-muted transition-transform group-hover:translate-x-0.5" />
+    </a>
+  )
+}
+
+function Section({
+  label,
+  count,
+  action,
+  children,
+}: {
+  label: string
+  count?: number
+  action?: ReactNode
+  children: ReactNode
+}) {
   return (
     <section className="mt-7">
       <div className="mb-2.5 flex items-center gap-2">
         <span className="kicker">{label}</span>
         {count ? <span className="text-[0.6875rem] text-muted">{count}</span> : null}
+        {action ? <span className="ml-auto">{action}</span> : null}
       </div>
       {children}
     </section>

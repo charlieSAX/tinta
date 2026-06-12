@@ -112,6 +112,8 @@ export interface Settings {
   feedUrl: string
   /** Pull new articles from the feed automatically when the app opens. */
   autoPull: boolean
+  /** Preferred speech voice (SpeechSynthesisVoice.voiceURI). Empty = best available. */
+  voiceURI: string
 }
 
 export interface Engagement {
