@@ -82,11 +82,11 @@ export function Library() {
       const r = await pullFeed()
       if (!r.reachedFeed) {
         toast.push('No feed reachable yet. Deploy the app first, or set a feed URL in Settings.', 'default')
-      } else if (r.added > 0) {
-        toast.push(
-          `Added ${r.added} new article${r.added === 1 ? '' : 's'}${r.cards ? ` · ${r.cards} new cards` : ''}.`,
-          'success',
-        )
+      } else if (r.added > 0 || r.updated > 0) {
+        const parts = []
+        if (r.added > 0) parts.push(`${r.added} new article${r.added === 1 ? '' : 's'}`)
+        if (r.updated > 0) parts.push(`${r.updated} updated`)
+        toast.push(`${parts.join(', ')}${r.cards ? ` · ${r.cards} new cards` : ''}.`, 'success')
       } else {
         toast.push('No new articles right now. You are up to date.', 'default')
       }

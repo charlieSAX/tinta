@@ -29,6 +29,7 @@ export interface FeedIndex {
 export interface PullResult {
   reachedFeed: boolean
   added: number // new articles imported
+  updated: number // articles re-imported because the feed has a newer revision
   cards: number // new cards created
   alreadyHad: number // entries already in the library (skipped)
   errors: string[]
@@ -54,7 +55,7 @@ function bust(url: string): string {
  * keep everything already imported. Network failures are reported, not thrown.
  */
 export async function pullFeed(): Promise<PullResult> {
-  const result: PullResult = { reachedFeed: false, added: 0, cards: 0, alreadyHad: 0, errors: [] }
+  const result: PullResult = { reachedFeed: false, added: 0, updated: 0, cards: 0, alreadyHad: 0, errors: [] }
   const indexUrl = await resolveFeedUrl()
 
   let index: FeedIndex
@@ -73,12 +74,16 @@ export async function pullFeed(): Promise<PullResult> {
     return result
   }
 
-  const existing = new Set((await db.packs.toCollection().primaryKeys()) as string[])
+  // pack_id -> stored revision (0 when absent), so improved packs re-import.
+  const existing = new Map<string, number>()
+  for (const p of await db.packs.toArray()) existing.set(p.pack_id, p.revision ?? 0)
   const base = new URL(indexUrl, window.location.href)
 
   for (const entry of index.packs) {
     if (!entry || !entry.pack_id || (!entry.pack && !entry.file)) continue
-    if (existing.has(entry.pack_id)) {
+    const storedRev = existing.get(entry.pack_id)
+    const isUpdate = storedRev !== undefined
+    if (isUpdate && (entry.pack?.revision ?? 0) <= storedRev) {
       result.alreadyHad += 1
       continue
     }
@@ -103,9 +108,10 @@ export async function pullFeed(): Promise<PullResult> {
         pack = parsed.pack
       }
       const imp = await importPack(pack)
-      result.added += 1
+      if (isUpdate) result.updated += 1
+      else result.added += 1
       result.cards += imp.added
-      existing.add(entry.pack_id)
+      existing.set(entry.pack_id, pack.revision ?? 0)
     } catch (e) {
       result.errors.push(`${entry.title ?? entry.pack_id}: ${(e as Error).message}`)
     }

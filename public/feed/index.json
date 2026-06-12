@@ -197,7 +197,8 @@
             "type": "inferential"
           }
         ],
-        "opinion_prompt": "¿Crees que pequeños lujos cotidianos como el café seguirán encareciéndose? Escribe ~100 palabras."
+        "opinion_prompt": "¿Crees que pequeños lujos cotidianos como el café seguirán encareciéndose? Escribe ~100 palabras.",
+        "revision": 1
       }
     },
     {
@@ -396,7 +397,8 @@
             "type": "opinion"
           }
         ],
-        "opinion_prompt": "¿Hasta qué punto deberíamos fiarnos de los consejos de salud que circulan en redes sociales? Escribe ~100 palabras."
+        "opinion_prompt": "¿Hasta qué punto deberíamos fiarnos de los consejos de salud que circulan en redes sociales? Escribe ~100 palabras.",
+        "revision": 1
       }
     },
     {
@@ -603,7 +605,8 @@
             "type": "inferential"
           }
         ],
-        "opinion_prompt": "¿Qué cualidades crees que debería tener quien suceda a un presidente popular? Escribe ~100 palabras."
+        "opinion_prompt": "¿Qué cualidades crees que debería tener quien suceda a un presidente popular? Escribe ~100 palabras.",
+        "revision": 1
       }
     },
     {
@@ -797,7 +800,8 @@
             "type": "inferential"
           }
         ],
-        "opinion_prompt": "¿Crees que dependemos demasiado de tecnologías como el GPS? Escribe ~100 palabras."
+        "opinion_prompt": "¿Crees que dependemos demasiado de tecnologías como el GPS? Escribe ~100 palabras.",
+        "revision": 1
       }
     },
     {
@@ -1005,7 +1009,8 @@
             "type": "inferential"
           }
         ],
-        "opinion_prompt": "¿Crees que los grandes megaproyectos merecen la pena para un país? Escribe ~100 palabras."
+        "opinion_prompt": "¿Crees que los grandes megaproyectos merecen la pena para un país? Escribe ~100 palabras.",
+        "revision": 1
       }
     },
     {
@@ -1204,7 +1209,8 @@
             "type": "opinion"
           }
         ],
-        "opinion_prompt": "¿Qué cambios de hábitos crees que más alargan la vida? Escribe ~100 palabras."
+        "opinion_prompt": "¿Qué cambios de hábitos crees que más alargan la vida? Escribe ~100 palabras.",
+        "revision": 1
       }
     },
     {
@@ -1402,7 +1408,8 @@
             "type": "inferential"
           }
         ],
-        "opinion_prompt": "¿Ayuda calificar a una banda de 'terrorista' a combatir el crimen organizado? Escribe ~100 palabras."
+        "opinion_prompt": "¿Ayuda calificar a una banda de 'terrorista' a combatir el crimen organizado? Escribe ~100 palabras.",
+        "revision": 1
       }
     },
     {
@@ -1596,7 +1603,8 @@
             "type": "inferential"
           }
         ],
-        "opinion_prompt": "¿Por qué nos fascina lo peligroso? Escribe ~100 palabras."
+        "opinion_prompt": "¿Por qué nos fascina lo peligroso? Escribe ~100 palabras.",
+        "revision": 1
       }
     },
     {
@@ -1792,7 +1800,8 @@
             "type": "inferential"
           }
         ],
-        "opinion_prompt": "¿Debería primar siempre la custodia compartida tras un divorcio? Escribe ~100 palabras."
+        "opinion_prompt": "¿Debería primar siempre la custodia compartida tras un divorcio? Escribe ~100 palabras.",
+        "revision": 1
       }
     }
   ]

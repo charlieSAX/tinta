@@ -48,6 +48,8 @@ export interface ComprehensionItem {
 
 export interface StudyPack {
   pack_id: string
+  /** Bump when a pack's content improves; the feed re-imports newer revisions. */
+  revision?: number
   meta: PackMeta
   summary_en?: string
   resumen_es?: string

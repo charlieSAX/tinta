@@ -46,8 +46,11 @@ export function Settings() {
       const r = await pullFeed()
       if (!r.reachedFeed) {
         toast.push('No feed reachable. Deploy the app first, or set a feed URL below.', 'default')
-      } else if (r.added > 0) {
-        toast.push(`Added ${r.added} new article${r.added === 1 ? '' : 's'}.`, 'success')
+      } else if (r.added > 0 || r.updated > 0) {
+        const parts = []
+        if (r.added > 0) parts.push(`${r.added} new article${r.added === 1 ? '' : 's'}`)
+        if (r.updated > 0) parts.push(`${r.updated} updated`)
+        toast.push(`${parts.join(', ')}.`, 'success')
       } else {
         toast.push('No new articles. You are up to date.', 'default')
       }

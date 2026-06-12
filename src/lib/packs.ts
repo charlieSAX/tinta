@@ -170,8 +170,14 @@ export function validatePack(raw: unknown): ValidationResult {
       ? obj.pack_id.trim()
       : `${str(m.date_processed) ?? isoDate()}-${slugify(title)}`
 
+  const revision =
+    typeof (obj as Record<string, unknown>).revision === 'number' && (obj.revision as number) > 0
+      ? Math.floor(obj.revision as number)
+      : undefined
+
   const pack: StudyPack = {
     pack_id,
+    revision,
     meta: {
       title,
       source: str(m.source),
