@@ -1,7 +1,535 @@
 {
-  "generated_at": "2026-06-12T09:35:00Z",
+  "generated_at": "2026-06-15T10:21:40Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-15-puma-adidas-rivalidad",
+      "title": "Puma vs Adidas: cómo la pelea entre dos hermanos partió en dos una ciudad alemana durante décadas",
+      "source": "BBC Mundo",
+      "date": "2026-06-15",
+      "level": "B1-B2",
+      "topics": [
+        "negocios",
+        "historia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-15-puma-adidas-rivalidad",
+        "revision": 1,
+        "meta": {
+          "title": "Puma vs Adidas: cómo la pelea entre dos hermanos partió en dos una ciudad alemana durante décadas",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/clypmyg8d74o",
+          "date_published": "2026-06-15",
+          "date_processed": "2026-06-15",
+          "tags": [
+            "negocios",
+            "historia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Puma and Adidas, two of the world's best-known sportswear brands, were born from the same German family and a bitter feud between two brothers. Adolf and Rudolf Dassler founded a shoe company together but personal differences split them apart after World War II, and each created his own brand. The rivalry divided their hometown into two camps for decades and became one of the most curious business stories of the 20th century.",
+        "resumen_es": "Puma y Adidas son dos de las marcas deportivas más conocidas del mundo, pero pocos saben que nacieron de una misma familia y de una amarga disputa entre hermanos. Adolf y Rudolf Dassler fundaron juntos una empresa de calzado en un pequeño pueblo de Alemania, donde fabricaban zapatillas que llegaron a usar atletas olímpicos. Sin embargo, con el paso del tiempo, las diferencias personales y los celos terminaron por romper la relación. Tras la Segunda Guerra Mundial, los hermanos se separaron de manera definitiva y cada uno creó su propia marca: Adolf fundó Adidas y Rudolf, Puma. La rivalidad no se quedó en los negocios. De hecho, dividió al pueblo entero en dos bandos, hasta el punto de que la gente evitaba casarse o hacer amistades con quienes trabajaban para la marca contraria. Hoy, aquella enemistad se ha convertido en una de las historias empresariales más curiosas del siglo XX.",
+        "vocab": [
+          {
+            "front": "la marca deportiva",
+            "pos": "noun",
+            "back": "sports brand",
+            "example": "Nike es una marca deportiva muy famosa.",
+            "tier": "B1"
+          },
+          {
+            "front": "una amarga disputa",
+            "pos": "phrase",
+            "back": "a bitter dispute",
+            "example": "Los socios tuvieron una amarga disputa por el dinero.",
+            "tier": "B2"
+          },
+          {
+            "front": "el calzado",
+            "pos": "noun",
+            "back": "footwear",
+            "example": "Esa tienda vende calzado de cuero.",
+            "tier": "B1"
+          },
+          {
+            "front": "las zapatillas",
+            "pos": "noun",
+            "back": "trainers, sneakers",
+            "example": "Me he comprado unas zapatillas para correr.",
+            "tier": "B1"
+          },
+          {
+            "front": "con el paso del tiempo",
+            "pos": "phrase",
+            "back": "as time goes by",
+            "example": "Con el paso del tiempo, se hicieron amigos.",
+            "tier": "B2"
+          },
+          {
+            "front": "los celos",
+            "pos": "noun",
+            "back": "jealousy",
+            "example": "Los celos arruinaron su amistad.",
+            "tier": "B2"
+          },
+          {
+            "front": "terminar por (+ infinitivo)",
+            "pos": "verb",
+            "back": "to end up doing something",
+            "example": "Terminaron por aceptar la oferta.",
+            "tier": "B2"
+          },
+          {
+            "front": "de manera definitiva",
+            "pos": "phrase",
+            "back": "definitively, for good",
+            "example": "Cerraron la fábrica de manera definitiva.",
+            "tier": "B2"
+          },
+          {
+            "front": "la rivalidad",
+            "pos": "noun",
+            "back": "rivalry",
+            "example": "Existe una gran rivalidad entre los dos equipos.",
+            "tier": "B1"
+          },
+          {
+            "front": "el bando",
+            "pos": "noun",
+            "back": "side, faction",
+            "example": "La ciudad se dividió en dos bandos.",
+            "tier": "B2"
+          },
+          {
+            "front": "hasta el punto de que",
+            "pos": "phrase",
+            "back": "to the point that",
+            "example": "Llovió hasta el punto de que se inundó la calle.",
+            "tier": "B2"
+          },
+          {
+            "front": "la enemistad",
+            "pos": "noun",
+            "back": "enmity, hostility",
+            "example": "La enemistad entre ellos duró años.",
+            "tier": "B2"
+          },
+          {
+            "front": "empresarial",
+            "pos": "adj",
+            "back": "business (related)",
+            "example": "Tomó una buena decisión empresarial.",
+            "tier": "B2"
+          },
+          {
+            "front": "fundar",
+            "pos": "verb",
+            "back": "to found, to set up",
+            "example": "Fundó la empresa con su hermano.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Tras la Segunda Guerra Mundial, los hermanos se separaron de manera definitiva y cada uno creó su propia marca: Adolf fundó Adidas y Rudolf, Puma.",
+            "point": "Preterito indefinido para acciones acabadas en el pasado",
+            "explanation": "Los verbos 'se separaron', 'creo' y 'fundo' estan en preterito indefinido porque describen hechos puntuales y terminados en un momento concreto del pasado.",
+            "why_tricky": "En ingles se usa el past simple en todos los casos, pero hay que recordar las formas irregulares y el cambio de acento entre 'creo' (presente) y 'creo' (pasado)."
+          },
+          {
+            "sentence": "Sin embargo, con el paso del tiempo, las diferencias personales y los celos terminaron por romper la relación.",
+            "point": "Perifrasis 'terminar por + infinitivo'",
+            "explanation": "'Terminar por + infinitivo' expresa el resultado final de un proceso: algo que ocurre despues de un tiempo o de varias etapas.",
+            "why_tricky": "Se confunde con 'terminar de + infinitivo', que significa acabar de hacer algo, un sentido totalmente distinto."
+          },
+          {
+            "sentence": "Hoy, aquella enemistad se ha convertido en una de las historias empresariales más curiosas del siglo XX.",
+            "point": "Preterito perfecto con 'convertirse en'",
+            "explanation": "'Se ha convertido' es preterito perfecto y conecta el pasado con el presente; 'convertirse en' indica transformacion.",
+            "why_tricky": "El verbo es reflexivo y necesita la preposicion 'en'; ademas el preterito perfecto se usa por la relevancia actual ('hoy')."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "partir en dos",
+            "meaning": "dividir algo claramente en dos partes opuestas",
+            "example": "La polemica partio en dos a la familia."
+          },
+          {
+            "phrase": "no quedarse en algo",
+            "meaning": "ir mas alla, no limitarse a una cosa",
+            "example": "El problema no se quedo en lo economico."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué se separaron los hermanos Dassler?",
+            "type": "open"
+          },
+          {
+            "q": "¿Cómo afectó la rivalidad a la vida del pueblo?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué relación hay hoy entre Puma y Adidas según el texto?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que las rivalidades entre empresas pueden ser buenas o malas para los consumidores? Escribe un párrafo con tu opinión y un ejemplo."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-15-sentadilla-asiatica-salud",
+      "title": "Por qué dominar la \"sentadilla asiática\" es clave para nuestra salud",
+      "source": "BBC Mundo",
+      "date": "2026-06-15",
+      "level": "B1-B2",
+      "topics": [
+        "salud",
+        "cuerpo"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-15-sentadilla-asiatica-salud",
+        "revision": 1,
+        "meta": {
+          "title": "Por qué dominar la \"sentadilla asiática\" es clave para nuestra salud",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cx2kln8gpwzo",
+          "date_published": "2026-06-15",
+          "date_processed": "2026-06-15",
+          "tags": [
+            "salud",
+            "cuerpo"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The so-called 'Asian squat' means crouching with feet flat on the ground and the back fairly straight. Common in much of Asia as a natural resting posture, it is uncomfortable for many people in Western countries. Specialists say practicing it regularly improves hip, ankle and knee mobility, strengthens the legs and aids digestion. Modern chair-bound life has eroded this ability, but experts say it can be regained gradually.",
+        "resumen_es": "La llamada sentadilla asiática consiste en ponerse en cuclillas con los pies completamente apoyados en el suelo y la espalda relativamente recta. Aunque en muchos países occidentales resulta incómoda, en buena parte de Asia es una postura natural que la gente adopta para descansar, comer o esperar el autobús. Según varios especialistas, mantener esta posición con regularidad aporta numerosos beneficios para la salud. Por un lado, mejora la movilidad de las caderas, los tobillos y las rodillas; por otro, fortalece los músculos de las piernas y favorece una buena digestión. Con el estilo de vida moderno, en el que pasamos muchas horas sentados en sillas, hemos perdido poco a poco esta capacidad. Los expertos recomiendan practicarla de forma gradual, sin forzar el cuerpo, para recuperar la flexibilidad. En definitiva, un gesto tan sencillo como agacharse bien podría ayudarnos a movernos mejor durante toda la vida.",
+        "vocab": [
+          {
+            "front": "ponerse en cuclillas",
+            "pos": "phrase",
+            "back": "to squat, to crouch down",
+            "example": "Se puso en cuclillas para mirar la flor.",
+            "tier": "B2"
+          },
+          {
+            "front": "apoyado",
+            "pos": "adj",
+            "back": "resting, supported",
+            "example": "Mantén los pies bien apoyados en el suelo.",
+            "tier": "B1"
+          },
+          {
+            "front": "la espalda",
+            "pos": "noun",
+            "back": "back (body)",
+            "example": "Me duele la espalda por estar sentado.",
+            "tier": "B1"
+          },
+          {
+            "front": "incómoda",
+            "pos": "adj",
+            "back": "uncomfortable",
+            "example": "La silla es muy incómoda.",
+            "tier": "B1"
+          },
+          {
+            "front": "la postura",
+            "pos": "noun",
+            "back": "posture, position",
+            "example": "Una buena postura evita dolores.",
+            "tier": "B1"
+          },
+          {
+            "front": "la movilidad",
+            "pos": "noun",
+            "back": "mobility",
+            "example": "El ejercicio mejora la movilidad.",
+            "tier": "B2"
+          },
+          {
+            "front": "las caderas",
+            "pos": "noun",
+            "back": "hips",
+            "example": "El baile mueve mucho las caderas.",
+            "tier": "B2"
+          },
+          {
+            "front": "los tobillos",
+            "pos": "noun",
+            "back": "ankles",
+            "example": "Se torció los tobillos corriendo.",
+            "tier": "B1"
+          },
+          {
+            "front": "fortalecer",
+            "pos": "verb",
+            "back": "to strengthen",
+            "example": "Nadar ayuda a fortalecer los músculos.",
+            "tier": "B2"
+          },
+          {
+            "front": "agacharse",
+            "pos": "verb",
+            "back": "to bend down, to crouch",
+            "example": "Se agachó para recoger las llaves.",
+            "tier": "B1"
+          },
+          {
+            "front": "de forma gradual",
+            "pos": "phrase",
+            "back": "gradually",
+            "example": "Hay que entrenar de forma gradual.",
+            "tier": "B2"
+          },
+          {
+            "front": "la flexibilidad",
+            "pos": "noun",
+            "back": "flexibility",
+            "example": "El yoga mejora la flexibilidad.",
+            "tier": "B1"
+          },
+          {
+            "front": "aportar beneficios",
+            "pos": "phrase",
+            "back": "to bring benefits",
+            "example": "Dormir bien aporta muchos beneficios.",
+            "tier": "B2"
+          },
+          {
+            "front": "en definitiva",
+            "pos": "phrase",
+            "back": "in short, ultimately",
+            "example": "En definitiva, debemos movernos más.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Aunque en muchos países occidentales resulta incómoda, en buena parte de Asia es una postura natural que la gente adopta para descansar, comer o esperar el autobús.",
+            "point": "'Aunque' concesivo con indicativo",
+            "explanation": "'Aunque' introduce un contraste; con indicativo ('resulta') presenta el hecho como real y conocido.",
+            "why_tricky": "'Aunque' tambien puede ir con subjuntivo para expresar algo hipotetico, asi que el modo cambia el matiz."
+          },
+          {
+            "sentence": "Con el estilo de vida moderno, en el que pasamos muchas horas sentados en sillas, hemos perdido poco a poco esta capacidad.",
+            "point": "Relativo con preposicion 'en el que'",
+            "explanation": "'En el que' une dos ideas y sustituye a 'en + el estilo de vida'; la preposicion va delante del relativo.",
+            "why_tricky": "En ingles la preposicion suele ir al final ('in which / that we...'), pero en espanol culto va antes del relativo."
+          },
+          {
+            "sentence": "Por un lado, mejora la movilidad de las caderas, los tobillos y las rodillas; por otro, fortalece los músculos de las piernas y favorece una buena digestión.",
+            "point": "Conectores de contraste 'por un lado... por otro'",
+            "explanation": "Esta pareja de conectores organiza dos ideas paralelas y da estructura al texto.",
+            "why_tricky": "Hay que mantener el paralelismo y no mezclarlos con otros conectores como 'sin embargo'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "poco a poco",
+            "meaning": "de forma lenta y progresiva",
+            "example": "Poco a poco fue mejorando su salud."
+          },
+          {
+            "phrase": "por un lado... por otro (lado)",
+            "meaning": "se usa para presentar dos aspectos de un tema",
+            "example": "Por un lado me gusta, por otro me da miedo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿En qué consiste exactamente la sentadilla asiática?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué beneficios para la salud menciona el texto?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué hemos perdido esta capacidad según los expertos?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Cuidas tu cuerpo en tu día a día? Escribe un párrafo sobre tus hábitos de salud y qué te gustaría mejorar."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-15-unesco-patrimonio",
+      "title": "Por qué algunos lugares quieren ser retirados de la Lista del Patrimonio Mundial de la Unesco",
+      "source": "BBC Mundo",
+      "date": "2026-06-15",
+      "level": "B1-B2",
+      "topics": [
+        "cultura",
+        "patrimonio"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-15-unesco-patrimonio",
+        "revision": 1,
+        "meta": {
+          "title": "Por qué algunos lugares quieren ser retirados de la Lista del Patrimonio Mundial de la Unesco",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cd95x3vl9jno",
+          "date_published": "2026-06-15",
+          "date_processed": "2026-06-15",
+          "tags": [
+            "cultura",
+            "patrimonio"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Being on UNESCO's World Heritage List is usually seen as an honor that recognizes a place's value and attracts tourists. Yet residents of some sites are now asking to be removed, arguing the status causes more problems than benefits. Mass tourism can push up housing prices, crowd the streets and endanger the environment, while strict protection rules complicate daily life. The debate raises a hard question: how to protect history without harming those who live in it.",
+        "resumen_es": "Formar parte de la Lista del Patrimonio Mundial de la Unesco suele considerarse un gran honor, ya que reconoce el valor histórico o natural de un lugar y atrae a turistas de todo el mundo. Sin embargo, en algunos sitios los habitantes han empezado a pedir que se les retire de esa lista. ¿La razón? Creen que la distinción les causa más problemas que ventajas. El turismo masivo, por ejemplo, puede disparar los precios de la vivienda, llenar las calles de gente y poner en peligro el medio ambiente. Además, la protección que exige la Unesco a veces impide construir o modificar edificios, lo que complica la vida cotidiana de los residentes. Aunque nadie niega la importancia de conservar el patrimonio, cada vez más comunidades se preguntan si vale la pena pagar ese precio. Al final, el debate plantea una cuestión difícil: cómo proteger la historia sin perjudicar a quienes viven en ella.",
+        "vocab": [
+          {
+            "front": "el patrimonio",
+            "pos": "noun",
+            "back": "heritage",
+            "example": "Hay que proteger el patrimonio cultural.",
+            "tier": "B1"
+          },
+          {
+            "front": "reconocer",
+            "pos": "verb",
+            "back": "to recognise",
+            "example": "La lista reconoce el valor del lugar.",
+            "tier": "B1"
+          },
+          {
+            "front": "retirar",
+            "pos": "verb",
+            "back": "to remove, to withdraw",
+            "example": "Pidieron retirar el monumento de la lista.",
+            "tier": "B1"
+          },
+          {
+            "front": "la distinción",
+            "pos": "noun",
+            "back": "distinction, honour",
+            "example": "Recibir esa distinción es un orgullo.",
+            "tier": "B2"
+          },
+          {
+            "front": "el turismo masivo",
+            "pos": "phrase",
+            "back": "mass tourism",
+            "example": "El turismo masivo afecta a la ciudad.",
+            "tier": "B2"
+          },
+          {
+            "front": "disparar los precios",
+            "pos": "phrase",
+            "back": "to send prices soaring",
+            "example": "La demanda disparó los precios.",
+            "tier": "B2"
+          },
+          {
+            "front": "la vivienda",
+            "pos": "noun",
+            "back": "housing, home",
+            "example": "El precio de la vivienda ha subido mucho.",
+            "tier": "B1"
+          },
+          {
+            "front": "poner en peligro",
+            "pos": "phrase",
+            "back": "to endanger",
+            "example": "La contaminación pone en peligro el río.",
+            "tier": "B2"
+          },
+          {
+            "front": "el medio ambiente",
+            "pos": "noun",
+            "back": "the environment",
+            "example": "Debemos cuidar el medio ambiente.",
+            "tier": "B1"
+          },
+          {
+            "front": "la vida cotidiana",
+            "pos": "phrase",
+            "back": "daily life",
+            "example": "El ruido afecta a la vida cotidiana.",
+            "tier": "B1"
+          },
+          {
+            "front": "valer la pena",
+            "pos": "phrase",
+            "back": "to be worth it",
+            "example": "No sé si vale la pena el esfuerzo.",
+            "tier": "B1"
+          },
+          {
+            "front": "perjudicar",
+            "pos": "verb",
+            "back": "to harm, to damage",
+            "example": "El plan perjudica a los vecinos.",
+            "tier": "B2"
+          },
+          {
+            "front": "los residentes",
+            "pos": "noun",
+            "back": "residents",
+            "example": "Los residentes protestaron por el ruido.",
+            "tier": "B1"
+          },
+          {
+            "front": "plantear una cuestión",
+            "pos": "phrase",
+            "back": "to raise an issue",
+            "example": "El informe plantea una cuestión importante.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Sin embargo, en algunos sitios los habitantes han empezado a pedir que se les retire de esa lista.",
+            "point": "Subjuntivo tras un verbo de influencia ('pedir que')",
+            "explanation": "Despues de 'pedir que' se usa el subjuntivo ('se retire') porque se expresa un deseo o una peticion, no un hecho.",
+            "why_tricky": "El cambio de sujeto obliga al subjuntivo; si fuera el mismo sujeto se usaria infinitivo ('pedir retirarse')."
+          },
+          {
+            "sentence": "Aunque nadie niega la importancia de conservar el patrimonio, cada vez más comunidades se preguntan si vale la pena pagar ese precio.",
+            "point": "'Aunque' + indicativo y la estructura 'cada vez mas'",
+            "explanation": "'Aunque' con indicativo admite un hecho real; 'cada vez mas' expresa una cantidad que aumenta de forma progresiva.",
+            "why_tricky": "'Cada vez mas' no lleva articulo y se confunde con 'mas y mas'; ademas hay doble negacion con 'nadie niega'."
+          },
+          {
+            "sentence": "El turismo masivo, por ejemplo, puede disparar los precios de la vivienda, llenar las calles de gente y poner en peligro el medio ambiente.",
+            "point": "Infinitivos tras el verbo modal 'poder'",
+            "explanation": "Tras 'puede' van varios infinitivos coordinados ('disparar', 'llenar', 'poner') que comparten el mismo verbo modal.",
+            "why_tricky": "Hay que mantener el infinitivo en todos los verbos de la lista y no conjugarlos."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "valer la pena",
+            "meaning": "merecer el esfuerzo o el coste",
+            "example": "Viajar tanto vale la pena por las vistas."
+          },
+          {
+            "phrase": "cada vez más",
+            "meaning": "de forma creciente, en aumento",
+            "example": "Cada vez más gente trabaja desde casa."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué se considera un honor estar en la lista de la Unesco?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué problemas puede causar el turismo masivo según el texto?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué dilema plantea el debate al final del artículo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que el turismo es bueno o malo para las ciudades históricas? Da tu opinión con dos argumentos."
+      }
+    },
     {
       "pack_id": "feed-2026-06-12-el-nino-clima",
       "title": "Los científicos dicen que el fenómeno de El Niño ya empezó y advierten de los efectos climáticos extremos que puede traer",
@@ -14,7 +542,7 @@
       ],
       "pack": {
         "pack_id": "feed-2026-06-12-el-nino-clima",
-        "revision": 1,
+        "revision": 2,
         "meta": {
           "title": "Los científicos dicen que el fenómeno de El Niño ya empezó y advierten de los efectos climáticos extremos que puede traer",
           "source": "BBC Mundo",
@@ -27,8 +555,8 @@
           ],
           "level": "B1-B2"
         },
-        "summary_en": "US scientists say an El Nino event has officially begun. The phenomenon warms the Pacific and tends to push global temperatures higher, raising fears of extreme weather around the world.",
-        "resumen_es": "Los científicos estadounidenses han confirmado que el fenómeno de El Niño ya ha comenzado oficialmente. Se trata de un patrón climático natural que aparece cada pocos años, cuando las aguas superficiales del océano Pacífico se calientan más de lo normal. Aunque nace en el mar, sus efectos se sienten en todo el planeta: suele traer temperaturas más elevadas, sequías en algunas regiones e inundaciones en otras. Los expertos advierten de que este episodio podría provocar condiciones meteorológicas extremas durante los próximos meses. La agricultura, la pesca y el suministro de agua son especialmente vulnerables, sobre todo en América Latina, donde el fenómeno recibió su nombre hace siglos. Además, El Niño se suma al calentamiento global causado por la actividad humana, lo que aumenta la probabilidad de batir récords de calor. Los gobiernos ya se preparan para responder, pero nadie sabe con certeza cuánto durará ni qué fuerza alcanzará esta vez.",
+        "summary_en": "American scientists have confirmed that the El Nino phenomenon has officially begun. It is a natural climate pattern that appears every few years, when the surface waters of the Pacific Ocean warm more than usual. Although it is born at sea, its effects are felt across the planet: it tends to bring higher temperatures, droughts in some regions and floods in others. Experts warn that this episode could cause extreme weather over the coming months.\n\nAgriculture, fishing and the water supply are especially vulnerable, above all in Latin America, where the phenomenon got its name centuries ago. El Nino also adds to the global warming caused by human activity, which increases the chances of breaking heat records. Governments are already preparing to respond, but nobody knows for certain how long it will last or how strong it will be this time.",
+        "resumen_es": "Los científicos estadounidenses han confirmado que el fenómeno de El Niño ya ha comenzado oficialmente. Se trata de un patrón climático natural que aparece cada pocos años, cuando las aguas superficiales del océano Pacífico se calientan más de lo normal. Aunque nace en el mar, sus efectos se sienten en todo el planeta: suele traer temperaturas más elevadas, sequías en algunas regiones e inundaciones en otras. Los expertos advierten de que este episodio podría provocar condiciones meteorológicas extremas durante los próximos meses.\n\nLa agricultura, la pesca y el suministro de agua son especialmente vulnerables, sobre todo en América Latina, donde el fenómeno recibió su nombre hace siglos. Además, El Niño se suma al calentamiento global causado por la actividad humana, lo que aumenta la probabilidad de batir récords de calor. Los gobiernos ya se preparan para responder, pero nadie sabe con certeza cuánto durará ni qué fuerza alcanzará esta vez.",
         "vocab": [
           {
             "front": "el fenómeno",
@@ -176,7 +704,7 @@
       ],
       "pack": {
         "pack_id": "feed-2026-06-12-peru-elecciones",
-        "revision": 1,
+        "revision": 2,
         "meta": {
           "title": "Elecciones en Perú: Keiko Fujimori adelanta a Roberto Sánchez, pero poco más de 1.000 votos los separan",
           "source": "BBC Mundo",
@@ -189,8 +717,8 @@
           ],
           "level": "B1-B2"
         },
-        "summary_en": "Peru's presidential election is on a knife edge: Keiko Fujimori leads the count over Roberto Sanchez by just over a thousand votes, and the country waits while the final ballots are tallied.",
-        "resumen_es": "Perú vive unas elecciones presidenciales de infarto. Según el recuento oficial, Keiko Fujimori adelanta a su rival Roberto Sánchez, pero la ventaja es mínima: poco más de mil votos separan a los dos candidatos. Con un resultado tan ajustado, cada papeleta cuenta, y los equipos de ambos aspirantes siguen el proceso con lupa. Las actas de las zonas rurales y el voto de los peruanos en el extranjero pueden inclinar la balanza en cualquier momento. No es la primera vez que el país andino contiene la respiración por unas elecciones: la historia reciente de Perú está llena de segundas vueltas reñidas, recursos legales y acusaciones cruzadas. Los observadores internacionales piden calma y confianza en las instituciones mientras avanza el escrutinio. Sea cual sea el resultado final, el próximo gobierno tendrá que gobernar un país dividido casi por la mitad, donde reconstruir los puentes políticos será tan urgente como difícil.",
+        "summary_en": "Peru is living through a nail-biting presidential election. According to the official count, Keiko Fujimori is ahead of her rival Roberto Sanchez, but the lead is tiny: little more than a thousand votes separate the two candidates. With such a close result every ballot counts, and both campaigns are watching the process under a magnifying glass. Returns from rural areas and the votes of Peruvians abroad could tip the scales at any moment.\n\nIt is not the first time the Andean country has held its breath over an election: Peru's recent history is full of hard-fought run-offs, legal challenges and mutual accusations. International observers are calling for calm and trust in the institutions while the count continues. Whatever the final result, the next government will have to govern a country split almost down the middle, where rebuilding political bridges will be as urgent as it is difficult.",
+        "resumen_es": "Perú vive unas elecciones presidenciales de infarto. Según el recuento oficial, Keiko Fujimori adelanta a su rival Roberto Sánchez, pero la ventaja es mínima: poco más de mil votos separan a los dos candidatos. Con un resultado tan ajustado, cada papeleta cuenta, y los equipos de ambos aspirantes siguen el proceso con lupa. Las actas de las zonas rurales y el voto de los peruanos en el extranjero pueden inclinar la balanza en cualquier momento.\n\nNo es la primera vez que el país andino contiene la respiración por unas elecciones: la historia reciente de Perú está llena de segundas vueltas reñidas, recursos legales y acusaciones cruzadas. Los observadores internacionales piden calma y confianza en las instituciones mientras avanza el escrutinio. Sea cual sea el resultado final, el próximo gobierno tendrá que gobernar un país dividido casi por la mitad, donde reconstruir los puentes políticos será tan urgente como difícil.",
         "vocab": [
           {
             "front": "de infarto",
@@ -338,7 +866,7 @@
       ],
       "pack": {
         "pack_id": "feed-2026-06-12-canarias-migracion",
-        "revision": 1,
+        "revision": 2,
         "meta": {
           "title": "Migrar hacia Canarias: La vida en el limbo de un centro de acogida",
           "source": "RFI en español",
@@ -351,8 +879,8 @@
           ],
           "level": "B1-B2"
         },
-        "summary_en": "Nearly 6,000 people applied for asylum in the Canary Islands last year. Many arrive without resources and live in reception centres, waiting in limbo while their cases are processed.",
-        "resumen_es": "Las Islas Canarias se han convertido en una de las principales puertas de entrada a Europa para miles de personas migrantes. Solo el año pasado, casi seis mil personas solicitaron asilo en el archipiélago español, situado frente a la costa occidental de África. Muchas de ellas llegan tras una travesía peligrosa por el Atlántico y no cuentan con los recursos necesarios para valerse por sí mismas. Por eso son acogidas temporalmente en centros gestionados por organizaciones humanitarias. Allí, la vida transcurre en una especie de limbo: los residentes esperan durante meses la respuesta a su solicitud, sin poder trabajar legalmente ni hacer planes de futuro. Las organizaciones piden más medios y procesos más rápidos, mientras los gobiernos europeos discuten cómo repartir la responsabilidad. Detrás de cada expediente hay una historia personal: familias separadas, proyectos interrumpidos y la esperanza, a pesar de todo, de empezar una nueva vida.",
+        "summary_en": "The Canary Islands have become one of the main gateways into Europe for thousands of migrants. Last year alone, almost six thousand people applied for asylum in the Spanish archipelago, which lies off the west coast of Africa. Many of them arrive after a dangerous Atlantic crossing and lack the resources to fend for themselves. For that reason they are housed temporarily in centres run by humanitarian organisations.\n\nThere, life passes in a kind of limbo: residents wait months for an answer to their application, unable to work legally or make plans for the future. The organisations are asking for more resources and faster procedures, while European governments argue over how to share responsibility. Behind every case file there is a personal story: separated families, interrupted plans and the hope, in spite of everything, of starting a new life.",
+        "resumen_es": "Las Islas Canarias se han convertido en una de las principales puertas de entrada a Europa para miles de personas migrantes. Solo el año pasado, casi seis mil personas solicitaron asilo en el archipiélago español, situado frente a la costa occidental de África. Muchas de ellas llegan tras una travesía peligrosa por el Atlántico y no cuentan con los recursos necesarios para valerse por sí mismas. Por eso son acogidas temporalmente en centros gestionados por organizaciones humanitarias.\n\nAllí, la vida transcurre en una especie de limbo: los residentes esperan durante meses la respuesta a su solicitud, sin poder trabajar legalmente ni hacer planes de futuro. Las organizaciones piden más medios y procesos más rápidos, mientras los gobiernos europeos discuten cómo repartir la responsabilidad. Detrás de cada expediente hay una historia personal: familias separadas, proyectos interrumpidos y la esperanza, a pesar de todo, de empezar una nueva vida.",
         "vocab": [
           {
             "front": "la puerta de entrada",
@@ -512,8 +1040,8 @@
           ],
           "level": "B2"
         },
-        "summary_en": "The price of a single cup of coffee reflects a tangle of global forces, tariffs, climate, shifting tastes and the strategies of growers. Rising costs ripple from coffee-growing regions all the way to the consumer's daily ritual. The article uses coffee to make sense of wider economic turbulence.",
-        "resumen_es": "¿Qué puede contarnos una taza de café sobre la economía mundial? Mucho más de lo que parece. El precio que pagamos cada mañana refleja una maraña de factores globales: los aranceles comerciales, el clima cada vez más imprevisible, los gustos cambiantes de los consumidores y las estrategias de los caficultores. Cuando una helada golpea las plantaciones de Brasil o suben los costes del transporte marítimo, el efecto viaja desde las regiones productoras hasta la cafetería de la esquina. Los productores, por su parte, intentan adaptarse: cambian de cultivos, buscan nuevos mercados y negocian precios más justos. Para muchos países de América Latina, el café no es solo una bebida, sino una fuente esencial de ingresos y de empleo. A través de algo tan cotidiano como un café, el artículo explica la agitación económica actual y nos recuerda que ningún producto llega a nuestras manos sin una larga historia detrás.",
+        "summary_en": "What can a cup of coffee tell us about the world economy? Much more than it seems. The price we pay every morning reflects a tangle of global factors: trade tariffs, an increasingly unpredictable climate, shifting consumer tastes and the strategies of coffee growers. When a frost hits Brazil's plantations or shipping costs rise, the effect travels from the producing regions all the way to the cafe on the corner.\n\nGrowers, for their part, try to adapt: they switch crops, look for new markets and negotiate fairer prices. For many Latin American countries coffee is not just a drink but an essential source of income and jobs. Through something as everyday as a coffee, the article explains the current economic turbulence and reminds us that no product reaches our hands without a long story behind it.",
+        "resumen_es": "¿Qué puede contarnos una taza de café sobre la economía mundial? Mucho más de lo que parece. El precio que pagamos cada mañana refleja una maraña de factores globales: los aranceles comerciales, el clima cada vez más imprevisible, los gustos cambiantes de los consumidores y las estrategias de los caficultores. Cuando una helada golpea las plantaciones de Brasil o suben los costes del transporte marítimo, el efecto viaja desde las regiones productoras hasta la cafetería de la esquina.\n\nLos productores, por su parte, intentan adaptarse: cambian de cultivos, buscan nuevos mercados y negocian precios más justos. Para muchos países de América Latina, el café no es solo una bebida, sino una fuente esencial de ingresos y de empleo. A través de algo tan cotidiano como un café, el artículo explica la agitación económica actual y nos recuerda que ningún producto llega a nuestras manos sin una larga historia detrás.",
         "vocab": [
           {
             "id": "marana",
@@ -684,7 +1212,7 @@
           }
         ],
         "opinion_prompt": "¿Crees que pequeños lujos cotidianos como el café seguirán encareciéndose? Escribe ~100 palabras.",
-        "revision": 1
+        "revision": 2
       }
     },
     {
@@ -712,8 +1240,8 @@
           ],
           "level": "B2"
         },
-        "summary_en": "Cortisol, the body's main stress hormone, has become a social-media obsession, with endless tips for lowering it. The article separates the science from the myths: cortisol is essential, and its rhythms are more complex than wellness trends suggest. Experts urge caution about quick fixes.",
-        "resumen_es": "El cortisol, la principal hormona del estrés, se ha convertido en una verdadera obsesión en las redes sociales. Abundan los vídeos que prometen bajar el cortisol con dietas, suplementos o rutinas matinales, y millones de personas los consumen preocupadas por su salud. Pero ¿qué dice realmente la ciencia? El artículo separa los hechos de los mitos. El cortisol es esencial para la vida: nos ayuda a despertarnos por la mañana, regula el metabolismo y nos prepara para reaccionar ante el peligro. Sus niveles suben y bajan de forma natural a lo largo del día, y esos ritmos son más complejos de lo que sugieren las modas del bienestar. Los expertos piden cautela ante las soluciones rápidas: salvo en casos médicos concretos, no tiene sentido obsesionarse con esta hormona. Dormir bien, hacer ejercicio con regularidad y manejar el estrés del día a día siguen siendo los consejos más fiables.",
+        "summary_en": "Cortisol, the body's main stress hormone, has become a real obsession on social media. Videos promising to lower your cortisol with diets, supplements or morning routines are everywhere, and millions of people watch them worried about their health.\n\nBut what does the science actually say? The article separates fact from myth. Cortisol is essential for life: it helps us wake up in the morning, regulates metabolism and prepares us to react to danger. Its levels rise and fall naturally through the day, and those rhythms are more complex than wellness trends suggest. Experts urge caution with quick fixes: outside specific medical conditions, there is no point obsessing over this hormone. Sleeping well, exercising regularly and managing day-to-day stress remain the most reliable advice.",
+        "resumen_es": "El cortisol, la principal hormona del estrés, se ha convertido en una verdadera obsesión en las redes sociales. Abundan los vídeos que prometen bajar el cortisol con dietas, suplementos o rutinas matinales, y millones de personas los consumen preocupadas por su salud.\n\nPero ¿qué dice realmente la ciencia? El artículo separa los hechos de los mitos. El cortisol es esencial para la vida: nos ayuda a despertarnos por la mañana, regula el metabolismo y nos prepara para reaccionar ante el peligro. Sus niveles suben y bajan de forma natural a lo largo del día, y esos ritmos son más complejos de lo que sugieren las modas del bienestar. Los expertos piden cautela ante las soluciones rápidas: salvo en casos médicos concretos, no tiene sentido obsesionarse con esta hormona. Dormir bien, hacer ejercicio con regularidad y manejar el estrés del día a día siguen siendo los consejos más fiables.",
         "vocab": [
           {
             "id": "hormona",
@@ -884,7 +1412,7 @@
           }
         ],
         "opinion_prompt": "¿Hasta qué punto deberíamos fiarnos de los consejos de salud que circulan en redes sociales? Escribe ~100 palabras.",
-        "revision": 1
+        "revision": 2
       }
     },
     {
@@ -909,8 +1437,8 @@
           ],
           "level": "B2"
         },
-        "summary_en": "A dozen candidates are competing in the first round of Colombia's presidential election, with polls pointing to three front-runners. The contest will decide who succeeds Gustavo Petro. The article profiles the leading contenders and what is at stake.",
-        "resumen_es": "Colombia se prepara para elegir al sucesor de Gustavo Petro, el primer presidente de izquierda de su historia reciente. Una docena de candidatos compite en la primera vuelta de las elecciones presidenciales, pero las encuestas señalan a tres favoritos con posibilidades reales de pasar a la segunda vuelta. El artículo perfila a los principales aspirantes: sus trayectorias, sus propuestas y las alianzas que han construido durante la campaña. Lo que está en juego es considerable. El próximo gobierno tendrá que enfrentarse a la violencia de los grupos armados, a una economía con dificultades y a un electorado polarizado y cansado de promesas incumplidas. Además, el resultado dirá mucho sobre el rumbo político de América Latina, donde varios países oscilan entre proyectos de izquierda y de derecha. La primera vuelta medirá las fuerzas de cada bando; la segunda, casi segura, decidirá el futuro del país.",
+        "summary_en": "Colombia is preparing to choose the successor to Gustavo Petro, the first left-wing president in its recent history. A dozen candidates are competing in the first round of the presidential election, but the polls point to three favourites with a real chance of reaching the run-off. The article profiles the main contenders: their careers, their proposals and the alliances they have built during the campaign.\n\nThe stakes are considerable. The next government will have to face the violence of armed groups, a struggling economy and an electorate that is polarised and tired of broken promises. The result will also say a lot about the political direction of Latin America, where several countries swing between left-wing and right-wing projects. The first round will measure each side's strength; the second, almost certain to happen, will decide the country's future.",
+        "resumen_es": "Colombia se prepara para elegir al sucesor de Gustavo Petro, el primer presidente de izquierda de su historia reciente. Una docena de candidatos compite en la primera vuelta de las elecciones presidenciales, pero las encuestas señalan a tres favoritos con posibilidades reales de pasar a la segunda vuelta. El artículo perfila a los principales aspirantes: sus trayectorias, sus propuestas y las alianzas que han construido durante la campaña.\n\nLo que está en juego es considerable. El próximo gobierno tendrá que enfrentarse a la violencia de los grupos armados, a una economía con dificultades y a un electorado polarizado y cansado de promesas incumplidas. Además, el resultado dirá mucho sobre el rumbo político de América Latina, donde varios países oscilan entre proyectos de izquierda y de derecha. La primera vuelta medirá las fuerzas de cada bando; la segunda, casi segura, decidirá el futuro del país.",
         "vocab": [
           {
             "id": "encuesta",
@@ -1092,7 +1620,7 @@
           }
         ],
         "opinion_prompt": "¿Qué cualidades crees que debería tener quien suceda a un presidente popular? Escribe ~100 palabras.",
-        "revision": 1
+        "revision": 2
       }
     },
     {
@@ -1119,8 +1647,8 @@
           ],
           "level": "C1"
         },
-        "summary_en": "A rise in GPS 'spoofing', faking satellite signals, is increasingly disrupting commercial aviation. Pilots are misled about their position, raising safety concerns. Experts warn the invisible interference is spreading along conflict zones.",
-        "resumen_es": "Existe una guerra invisible que afecta cada día a miles de pasajeros sin que lo sepan. El aumento de la suplantación de señales de GPS, conocida como spoofing, está alterando cada vez más la aviación comercial. La técnica consiste en emitir señales falsas de satélite: los sistemas del avión reciben datos incorrectos sobre su posición y los pilotos deben confiar en otros instrumentos para orientarse. Este fenómeno, que antes era raro, se ha multiplicado en los últimos años y enciende las alarmas de seguridad en todo el sector. Los expertos advierten de que la interferencia se concentra cerca de las zonas en conflicto, donde los ejércitos la utilizan para confundir drones y misiles, pero sus efectos alcanzan a los vuelos civiles que cruzan esas regiones. Las aerolíneas entrenan a sus tripulaciones para detectar el engaño, mientras la industria busca soluciones técnicas a un problema que no deja de crecer.",
+        "summary_en": "There is an invisible war that affects thousands of passengers every day without them knowing. The rise of GPS signal spoofing is increasingly disrupting commercial aviation. The technique consists of broadcasting fake satellite signals: the aircraft's systems receive incorrect data about their position and pilots have to rely on other instruments to find their way. This phenomenon, once rare, has multiplied in recent years and is setting off safety alarms across the industry.\n\nExperts warn that the interference is concentrated near conflict zones, where armies use it to confuse drones and missiles, but its effects reach the civilian flights that cross those regions. Airlines train their crews to detect the deception, while the industry looks for technical solutions to a problem that keeps growing.",
+        "resumen_es": "Existe una guerra invisible que afecta cada día a miles de pasajeros sin que lo sepan. El aumento de la suplantación de señales de GPS, conocida como spoofing, está alterando cada vez más la aviación comercial. La técnica consiste en emitir señales falsas de satélite: los sistemas del avión reciben datos incorrectos sobre su posición y los pilotos deben confiar en otros instrumentos para orientarse. Este fenómeno, que antes era raro, se ha multiplicado en los últimos años y enciende las alarmas de seguridad en todo el sector.\n\nLos expertos advierten de que la interferencia se concentra cerca de las zonas en conflicto, donde los ejércitos la utilizan para confundir drones y misiles, pero sus efectos alcanzan a los vuelos civiles que cruzan esas regiones. Las aerolíneas entrenan a sus tripulaciones para detectar el engaño, mientras la industria busca soluciones técnicas a un problema que no deja de crecer.",
         "vocab": [
           {
             "id": "suplantacion",
@@ -1287,7 +1815,7 @@
           }
         ],
         "opinion_prompt": "¿Crees que dependemos demasiado de tecnologías como el GPS? Escribe ~100 palabras.",
-        "revision": 1
+        "revision": 2
       }
     },
     {
@@ -1313,8 +1841,8 @@
           ],
           "level": "C1"
         },
-        "summary_en": "Saudi Arabia's Vision 2030 promised futuristic megaprojects funded by vast spending. Now economic reality has forced the kingdom to rein in its most extravagant ambitions. The retreat reveals the limits of oil-fuelled transformation.",
-        "resumen_es": "Durante años, Arabia Saudita anunció proyectos que parecían sacados de la ciencia ficción: una ciudad lineal de cien kilómetros, complejos turísticos de lujo en el desierto y estaciones de esquí en plena península arábiga. Todo formaba parte de Visión 2030, el plan del príncipe heredero Mohamed bin Salmán para transformar la economía del reino y reducir su dependencia del petróleo. Ahora la realidad económica ha obligado al país a frenar sus ambiciones más extravagantes. Los ingresos petroleros han caído, los costes de construcción se han disparado y varios megaproyectos avanzan mucho más despacio de lo previsto, o se han reducido de forma drástica. El artículo analiza qué salió mal y qué significa este repliegue para el reino y para sus grandes promesas. La conclusión es clara: ni siquiera una de las mayores fortunas del mundo puede comprar una transformación nacional de la noche a la mañana.",
+        "summary_en": "For years Saudi Arabia announced projects that seemed straight out of science fiction: a linear city a hundred kilometres long, luxury tourist resorts in the desert and ski stations in the middle of the Arabian peninsula. It was all part of Vision 2030, crown prince Mohammed bin Salman's plan to transform the kingdom's economy and reduce its dependence on oil.\n\nNow economic reality has forced the country to rein in its most extravagant ambitions. Oil revenues have fallen, construction costs have soared and several megaprojects are moving far more slowly than planned, or have been drastically scaled back. The article analyses what went wrong and what this retreat means for the kingdom and its grand promises. The conclusion is clear: not even one of the world's largest fortunes can buy a national transformation overnight.",
+        "resumen_es": "Durante años, Arabia Saudita anunció proyectos que parecían sacados de la ciencia ficción: una ciudad lineal de cien kilómetros, complejos turísticos de lujo en el desierto y estaciones de esquí en plena península arábiga. Todo formaba parte de Visión 2030, el plan del príncipe heredero Mohamed bin Salmán para transformar la economía del reino y reducir su dependencia del petróleo.\n\nAhora la realidad económica ha obligado al país a frenar sus ambiciones más extravagantes. Los ingresos petroleros han caído, los costes de construcción se han disparado y varios megaproyectos avanzan mucho más despacio de lo previsto, o se han reducido de forma drástica. El artículo analiza qué salió mal y qué significa este repliegue para el reino y para sus grandes promesas. La conclusión es clara: ni siquiera una de las mayores fortunas del mundo puede comprar una transformación nacional de la noche a la mañana.",
         "vocab": [
           {
             "id": "gasto",
@@ -1496,7 +2024,7 @@
           }
         ],
         "opinion_prompt": "¿Crees que los grandes megaproyectos merecen la pena para un país? Escribe ~100 palabras.",
-        "revision": 1
+        "revision": 2
       }
     },
     {
@@ -1524,8 +2052,8 @@
           ],
           "level": "B2"
         },
-        "summary_en": "Across the world women outlive men by about five years on average. Scientists trace the gap to a mix of behaviour and biology. The article weighs how much is built into our bodies versus shaped by how we live.",
-        "resumen_es": "En todo el mundo, las mujeres viven de media unos cinco años más que los hombres. La diferencia aparece en casi todas las culturas y épocas, lo que sugiere que no es una simple casualidad. Los científicos atribuyen esa brecha a una mezcla de comportamiento y biología, y el artículo sopesa cuánto pesa cada factor. Por un lado, los hombres asumen más riesgos: fuman y beben más, sufren más accidentes y van menos al médico. Por otro, la biología femenina parece ofrecer cierta protección. Las mujeres tienen dos cromosomas X, lo que les da una especie de copia de seguridad genética, y hormonas como el estrógeno protegen el corazón durante buena parte de la vida. La conclusión es que ambos elementos se combinan: una parte de la longevidad está inscrita en nuestro cuerpo, pero otra depende de cómo vivimos. Y eso significa que los hombres también pueden ganar años de vida.",
+        "summary_en": "All over the world, women live on average about five years longer than men. The gap appears in almost every culture and era, which suggests it is no coincidence. Scientists attribute the difference to a mix of behaviour and biology, and the article weighs how much each factor matters.\n\nOn one side, men take more risks: they smoke and drink more, have more accidents and go to the doctor less. On the other, female biology seems to offer some protection. Women have two X chromosomes, which gives them a kind of genetic backup copy, and hormones such as oestrogen protect the heart for much of life. The conclusion is that both elements combine: part of longevity is written into our bodies, but another part depends on how we live. And that means men can gain years of life too.",
+        "resumen_es": "En todo el mundo, las mujeres viven de media unos cinco años más que los hombres. La diferencia aparece en casi todas las culturas y épocas, lo que sugiere que no es una simple casualidad. Los científicos atribuyen esa brecha a una mezcla de comportamiento y biología, y el artículo sopesa cuánto pesa cada factor.\n\nPor un lado, los hombres asumen más riesgos: fuman y beben más, sufren más accidentes y van menos al médico. Por otro, la biología femenina parece ofrecer cierta protección. Las mujeres tienen dos cromosomas X, lo que les da una especie de copia de seguridad genética, y hormonas como el estrógeno protegen el corazón durante buena parte de la vida. La conclusión es que ambos elementos se combinan: una parte de la longevidad está inscrita en nuestro cuerpo, pero otra depende de cómo vivimos. Y eso significa que los hombres también pueden ganar años de vida.",
         "vocab": [
           {
             "id": "esperanza-de-vida",
@@ -1696,7 +2224,7 @@
           }
         ],
         "opinion_prompt": "¿Qué cambios de hábitos crees que más alargan la vida? Escribe ~100 palabras.",
-        "revision": 1
+        "revision": 2
       }
     },
     {
@@ -1723,8 +2251,8 @@
           ],
           "level": "C1"
         },
-        "summary_en": "The US has labelled two powerful Brazilian criminal organisations as terrorist groups. The article explains how the PCC and Comando Vermelho operate and what the designation means. It places them alongside other gangs already on the list.",
-        "resumen_es": "Estados Unidos ha designado como organizaciones terroristas a dos poderosos grupos criminales de Brasil: el Primer Comando de la Capital (PCC) y el Comando Vermelho. La decisión coloca a estas bandas junto a otras organizaciones latinoamericanas que ya figuraban en la lista, como varios carteles mexicanos. El artículo explica cómo operan estos grupos y qué implica la nueva calificación. Nacidos en las cárceles brasileñas, el PCC y el Comando Vermelho controlan hoy buena parte del narcotráfico del país, con redes que llegan hasta Europa y África. Manejan también extorsiones, tráfico de armas y negocios aparentemente legales que les sirven para lavar dinero. Para Washington, la designación permite congelar bienes y perseguir a quienes colaboren con ellos; para Brasil, plantea preguntas delicadas sobre soberanía y cooperación. Los especialistas dudan de que la etiqueta de terroristas cambie la realidad en las favelas, pero confirma el alcance internacional de estas organizaciones.",
+        "summary_en": "The United States has designated two powerful Brazilian criminal groups as terrorist organisations: the First Capital Command (PCC) and the Comando Vermelho. The decision places these gangs alongside other Latin American organisations already on the list, such as several Mexican cartels. The article explains how these groups operate and what the new label means.\n\nBorn in Brazil's prisons, the PCC and the Comando Vermelho today control much of the country's drug trade, with networks reaching Europe and Africa. They also run extortion, arms trafficking and apparently legal businesses used to launder money. For Washington, the designation makes it possible to freeze assets and prosecute anyone who collaborates with them; for Brazil, it raises delicate questions about sovereignty and cooperation. Specialists doubt that the terrorist label will change reality in the favelas, but it confirms these organisations' international reach.",
+        "resumen_es": "Estados Unidos ha designado como organizaciones terroristas a dos poderosos grupos criminales de Brasil: el Primer Comando de la Capital (PCC) y el Comando Vermelho. La decisión coloca a estas bandas junto a otras organizaciones latinoamericanas que ya figuraban en la lista, como varios carteles mexicanos. El artículo explica cómo operan estos grupos y qué implica la nueva calificación.\n\nNacidos en las cárceles brasileñas, el PCC y el Comando Vermelho controlan hoy buena parte del narcotráfico del país, con redes que llegan hasta Europa y África. Manejan también extorsiones, tráfico de armas y negocios aparentemente legales que les sirven para lavar dinero. Para Washington, la designación permite congelar bienes y perseguir a quienes colaboren con ellos; para Brasil, plantea preguntas delicadas sobre soberanía y cooperación. Los especialistas dudan de que la etiqueta de terroristas cambie la realidad en las favelas, pero confirma el alcance internacional de estas organizaciones.",
         "vocab": [
           {
             "id": "banda",
@@ -1895,7 +2423,7 @@
           }
         ],
         "opinion_prompt": "¿Ayuda calificar a una banda de 'terrorista' a combatir el crimen organizado? Escribe ~100 palabras.",
-        "revision": 1
+        "revision": 2
       }
     },
     {
@@ -1922,8 +2450,8 @@
           ],
           "level": "B2"
         },
-        "summary_en": "A garden in England grows more than a hundred toxic, intoxicating and narcotic plants, including some of the deadliest on Earth. Visitors are warned not to touch anything. The article explores why a garden of poisons fascinates the public.",
-        "resumen_es": "En el norte de Inglaterra existe un jardín único en el mundo: el Jardín de los Venenos de Alnwick. Allí se cultivan más de cien plantas tóxicas, embriagantes y narcóticas, incluidas algunas de las más letales del planeta. Los visitantes entran solo con guía, escuchan advertencias constantes y tienen prohibido tocar, oler o probar cualquier planta. Algunas especies crecen incluso dentro de jaulas metálicas. Lo curioso es que muchas de estas plantas mortales parecen inofensivas: crecen en jardines normales, en parques o al borde del camino, y muy pocas personas conocen su peligro real. Ese contraste es parte de la lección que ofrece el lugar. El artículo explora por qué un jardín de venenos fascina tanto al público. Quizá sea el atractivo de lo prohibido, o el placer de sentir un peligro controlado. Las guías lo resumen muy bien: la gente recuerda mucho mejor una historia cuando la planta puede matarte.",
+        "summary_en": "In the north of England there is a garden unlike any other in the world: the Poison Garden at Alnwick. More than a hundred toxic, intoxicating and narcotic plants grow there, including some of the deadliest on the planet. Visitors enter only with a guide, hear constant warnings and are forbidden to touch, smell or taste any plant. Some species even grow inside metal cages.\n\nThe curious thing is that many of these deadly plants look harmless: they grow in ordinary gardens, in parks or by the roadside, and very few people know how dangerous they really are. That contrast is part of the lesson the place offers. The article explores why a garden of poisons fascinates the public so much. Perhaps it is the pull of the forbidden, or the pleasure of feeling a controlled danger. The guides sum it up well: people remember a story much better when the plant can kill you.",
+        "resumen_es": "En el norte de Inglaterra existe un jardín único en el mundo: el Jardín de los Venenos de Alnwick. Allí se cultivan más de cien plantas tóxicas, embriagantes y narcóticas, incluidas algunas de las más letales del planeta. Los visitantes entran solo con guía, escuchan advertencias constantes y tienen prohibido tocar, oler o probar cualquier planta. Algunas especies crecen incluso dentro de jaulas metálicas.\n\nLo curioso es que muchas de estas plantas mortales parecen inofensivas: crecen en jardines normales, en parques o al borde del camino, y muy pocas personas conocen su peligro real. Ese contraste es parte de la lección que ofrece el lugar. El artículo explora por qué un jardín de venenos fascina tanto al público. Quizá sea el atractivo de lo prohibido, o el placer de sentir un peligro controlado. Las guías lo resumen muy bien: la gente recuerda mucho mejor una historia cuando la planta puede matarte.",
         "vocab": [
           {
             "id": "veneno",
@@ -2090,7 +2618,7 @@
           }
         ],
         "opinion_prompt": "¿Por qué nos fascina lo peligroso? Escribe ~100 palabras.",
-        "revision": 1
+        "revision": 2
       }
     },
     {
@@ -2115,8 +2643,8 @@
           ],
           "level": "B2"
         },
-        "summary_en": "Japan was the only G7 country without shared custody after divorce, often cutting one parent off from their children. A new reform aims to change that. The article examines the consequences for families.",
-        "resumen_es": "Hasta hace poco, Japón era el único país del G7 que no contemplaba la custodia compartida tras el divorcio. La ley obligaba a elegir a un solo progenitor, casi siempre la madre, y en la práctica el otro podía perder todo contacto con sus hijos. Miles de padres, japoneses y extranjeros, han pasado años sin ver a sus hijos, sin que los tribunales pudieran ayudarles. Una nueva reforma pretende cambiar esta situación: por primera vez, los padres divorciados podrán compartir la custodia legal de sus hijos. El artículo examina las consecuencias para las familias y el intenso debate que ha provocado la medida. Los defensores celebran que Japón se acerque a la práctica internacional y que los niños mantengan el vínculo con ambos progenitores. Los críticos, en cambio, temen que la custodia compartida obligue a algunas víctimas de violencia doméstica a seguir en contacto con su agresor. La sociedad japonesa sigue dividida.",
+        "summary_en": "Until recently, Japan was the only G7 country with no shared custody after divorce. The law forced a choice of just one parent, almost always the mother, and in practice the other could lose all contact with their children. Thousands of parents, Japanese and foreign, have spent years without seeing their children, with no way for the courts to help them.\n\nA new reform aims to change this situation: for the first time, divorced parents will be able to share legal custody of their children. The article examines the consequences for families and the intense debate the measure has caused. Supporters celebrate that Japan is moving closer to international practice and that children will keep their bond with both parents. Critics, however, fear that shared custody could force some victims of domestic violence to stay in contact with their abuser. Japanese society remains divided.",
+        "resumen_es": "Hasta hace poco, Japón era el único país del G7 que no contemplaba la custodia compartida tras el divorcio. La ley obligaba a elegir a un solo progenitor, casi siempre la madre, y en la práctica el otro podía perder todo contacto con sus hijos. Miles de padres, japoneses y extranjeros, han pasado años sin ver a sus hijos, sin que los tribunales pudieran ayudarles.\n\nUna nueva reforma pretende cambiar esta situación: por primera vez, los padres divorciados podrán compartir la custodia legal de sus hijos. El artículo examina las consecuencias para las familias y el intenso debate que ha provocado la medida. Los defensores celebran que Japón se acerque a la práctica internacional y que los niños mantengan el vínculo con ambos progenitores. Los críticos, en cambio, temen que la custodia compartida obligue a algunas víctimas de violencia doméstica a seguir en contacto con su agresor. La sociedad japonesa sigue dividida.",
         "vocab": [
           {
             "id": "custodia-compartida",
@@ -2287,7 +2815,7 @@
           }
         ],
         "opinion_prompt": "¿Debería primar siempre la custodia compartida tras un divorcio? Escribe ~100 palabras.",
-        "revision": 1
+        "revision": 2
       }
     }
   ]
