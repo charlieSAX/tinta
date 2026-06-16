@@ -1,7 +1,535 @@
 {
-  "generated_at": "2026-06-15T21:12:06Z",
+  "generated_at": "2026-06-16T09:24:27Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-16-petro-legado-colombia",
+      "title": "Qué tanto transformó Petro a Colombia, \"el presidente del cambio\" que se juega su legado aunque no pueda ser reelegido",
+      "source": "BBC Mundo",
+      "date": "2026-06-15",
+      "level": "B1-B2",
+      "topics": [
+        "política",
+        "Colombia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-16-petro-legado-colombia",
+        "revision": 1,
+        "meta": {
+          "title": "Qué tanto transformó Petro a Colombia, \"el presidente del cambio\" que se juega su legado aunque no pueda ser reelegido",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c0kyj38ek4lo",
+          "date_published": "2026-06-15",
+          "date_processed": "2026-06-16",
+          "tags": [
+            "política",
+            "Colombia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Four years after coming to the presidency, Gustavo Petro's government faces the moment to take stock. The international press, including BBC Mundo, is analysing what really changed in Colombia under the man who calls himself the 'president of change'. Petro came to power promising to transform the country and reduce inequality, but his legacy deeply divides public opinion.\n\nAs the first left-wing president in the country's recent history, Petro pushed reforms in areas such as health and pensions, although many of his initiatives clashed with Congress. Under the Colombian Constitution he cannot seek re-election, so he is staking much of his legacy on these final months. Meanwhile, the campaign to succeed him is already under way and promises a very tight run-off.",
+        "resumen_es": "A cuatro años de llegar a la presidencia, el gobierno de Gustavo Petro afronta el momento de hacer balance. La prensa internacional, entre ella BBC Mundo, analiza qué cambió realmente en Colombia bajo el mandato del autodenominado 'presidente del cambio'. Petro llegó al poder con la promesa de transformar el país y de reducir la desigualdad, pero su legado divide profundamente a la opinión pública.\n\nComo primer presidente de izquierda en la historia reciente del país, Petro impulsó reformas en áreas como la salud y las pensiones, aunque muchas de sus iniciativas chocaron con el Congreso. Por la Constitución colombiana, no puede aspirar a la reelección, de modo que se juega buena parte de su legado en estos últimos meses. Mientras tanto, la campaña por sucederlo ya está en marcha y promete una segunda vuelta muy reñida.",
+        "vocab": [
+          {
+            "front": "hacer balance",
+            "pos": "phrase",
+            "back": "to take stock, to assess",
+            "example": "Al final del año, la empresa hace balance de sus resultados.",
+            "tier": "B2"
+          },
+          {
+            "front": "el legado",
+            "pos": "noun",
+            "back": "legacy",
+            "example": "Cada gobierno deja un legado que la historia juzgará.",
+            "tier": "B1"
+          },
+          {
+            "front": "la desigualdad",
+            "pos": "noun",
+            "back": "inequality",
+            "example": "El plan busca reducir la desigualdad entre ricos y pobres.",
+            "tier": "B1"
+          },
+          {
+            "front": "el mandato",
+            "pos": "noun",
+            "back": "term of office, mandate",
+            "example": "Durante su mandato, aprobó varias leyes importantes.",
+            "tier": "B2"
+          },
+          {
+            "front": "impulsar",
+            "pos": "verb",
+            "back": "to drive forward, to push (a reform)",
+            "example": "El ministro quiere impulsar una nueva reforma educativa.",
+            "tier": "B2"
+          },
+          {
+            "front": "la reelección",
+            "pos": "noun",
+            "back": "re-election",
+            "example": "La ley no permite la reelección inmediata del presidente.",
+            "tier": "B1"
+          },
+          {
+            "front": "aspirar a",
+            "pos": "verb",
+            "back": "to aspire to, to aim for",
+            "example": "Varios políticos aspiran a llegar a la presidencia.",
+            "tier": "B2"
+          },
+          {
+            "front": "reñido",
+            "pos": "adj",
+            "back": "close, hard-fought (contest)",
+            "example": "La elección fue muy reñida y se decidió por pocos votos.",
+            "tier": "B2"
+          },
+          {
+            "front": "chocar con",
+            "pos": "verb",
+            "back": "to clash with",
+            "example": "Sus ideas chocaron con la oposición en el Congreso.",
+            "tier": "B2"
+          },
+          {
+            "front": "la opinión pública",
+            "pos": "phrase",
+            "back": "public opinion",
+            "example": "La opinión pública está dividida sobre el tema.",
+            "tier": "B1"
+          },
+          {
+            "front": "la segunda vuelta",
+            "pos": "noun",
+            "back": "run-off (election)",
+            "example": "Ningún candidato ganó en la primera ronda, así que habrá segunda vuelta.",
+            "tier": "B1"
+          },
+          {
+            "front": "autodenominado",
+            "pos": "adj",
+            "back": "self-styled, self-proclaimed",
+            "example": "El autodenominado experto no tenía ningún título.",
+            "tier": "C1"
+          },
+          {
+            "front": "estar en marcha",
+            "pos": "phrase",
+            "back": "to be under way",
+            "example": "El proyecto ya está en marcha y avanza bien.",
+            "tier": "B2"
+          },
+          {
+            "front": "la promesa",
+            "pos": "noun",
+            "back": "promise",
+            "example": "Cumplir las promesas electorales no siempre es fácil.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Petro llegó al poder con la promesa de transformar el país y de reducir la desigualdad, pero su legado divide profundamente a la opinión pública.",
+            "point": "de + infinitivo tras un sustantivo; contraste con 'pero'",
+            "explanation": "Tras sustantivos como 'la promesa' se usa 'de + infinitivo' (la promesa de transformar). El conector 'pero' introduce una idea que contrasta con lo anterior.",
+            "why_tricky": "En inglés se usaría un gerundio (the promise of transforming), pero en español el infinitivo es obligatorio después de 'de'."
+          },
+          {
+            "sentence": "Como primer presidente de izquierda en la historia reciente del país, Petro impulsó reformas en áreas como la salud y las pensiones, aunque muchas de sus iniciativas chocaron con el Congreso.",
+            "point": "pretérito indefinido para acciones acabadas",
+            "explanation": "'Impulsó' y 'chocaron' están en pretérito porque describen acciones concretas y terminadas durante su mandato.",
+            "why_tricky": "Hay que distinguir el pretérito (acciones puntuales) del imperfecto (descripciones o acciones habituales)."
+          },
+          {
+            "sentence": "Por la Constitución colombiana, no puede aspirar a la reelección, de modo que se juega buena parte de su legado en estos últimos meses.",
+            "point": "'de modo que' como conector de consecuencia",
+            "explanation": "'De modo que' introduce una consecuencia. Cuando expresa un resultado real, va seguido de indicativo ('se juega').",
+            "why_tricky": "'De modo que' con valor de consecuencia lleva indicativo, pero con valor de finalidad llevaría subjuntivo, lo que confunde a los estudiantes."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "jugarse algo",
+            "meaning": "to put something at stake, to risk it",
+            "example": "En estas elecciones, el presidente se juega su futuro político."
+          },
+          {
+            "phrase": "estar en juego",
+            "meaning": "to be at stake",
+            "example": "Está en juego la credibilidad de todo el gobierno."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué prometió Gustavo Petro cuando llegó al poder?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué Petro no puede presentarse de nuevo a la presidencia?",
+            "type": "open"
+          },
+          {
+            "q": "¿Cómo describe el texto la campaña para sucederlo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que se puede juzgar el legado de un presidente justo al final de su mandato, o hace falta esperar varios años? Escribe un párrafo con tu opinión."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-16-fifa-espanol-entrevistas",
+      "title": "La FIFA retrocede y permitirá el uso del español en todas las entrevistas",
+      "source": "RFI en español",
+      "date": "2026-06-15",
+      "level": "B1-B2",
+      "topics": [
+        "deporte",
+        "idioma"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-16-fifa-espanol-entrevistas",
+        "revision": 1,
+        "meta": {
+          "title": "La FIFA retrocede y permitirá el uso del español en todas las entrevistas",
+          "source": "RFI en español",
+          "url": "https://www.rfi.fr/es/deportes/20260615-la-fifa-retrocede-y-permitir%C3%A1-el-uso-del-espa%C3%B1ol-en-todas-las-entrevistas",
+          "date_published": "2026-06-15",
+          "date_processed": "2026-06-16",
+          "tags": [
+            "deporte",
+            "idioma"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "FIFA has backtracked and will allow the use of Spanish in all interviews at the 2026 World Cup. The decision comes after a strong controversy, since the organisation had prevented some footballers from answering in Spanish during press conferences. Many fans and journalists felt that this rule discriminated against one of the most widely spoken languages on the planet.\n\nLanguage had become a sensitive issue, because for many players and supporters speaking in their own tongue is a way of expressing their identity. By backtracking, FIFA is trying to calm the criticism and show that the tournament respects the cultural diversity of its protagonists. The case shows the growing weight of Spanish in sport and the pressure that social media can exert on big institutions.",
+        "resumen_es": "La FIFA ha dado marcha atrás y permitirá el uso del español en todas las entrevistas del Mundial 2026. La decisión llega después de una fuerte polémica, ya que la organización había impedido que algunos futbolistas respondieran en español durante las ruedas de prensa. Muchos aficionados y periodistas consideraron que esa norma discriminaba a una de las lenguas más habladas del planeta.\n\nEl idioma se había convertido en un tema sensible, porque para muchos jugadores y seguidores hablar en su propia lengua es una forma de expresar su identidad. Al rectificar, la FIFA busca calmar las críticas y mostrar que el torneo respeta la diversidad cultural de sus protagonistas. El caso demuestra el peso creciente del español en el deporte y la presión que las redes sociales pueden ejercer sobre las grandes instituciones.",
+        "vocab": [
+          {
+            "front": "dar marcha atrás",
+            "pos": "phrase",
+            "back": "to backtrack, to reverse a decision",
+            "example": "El gobierno dio marcha atrás tras las protestas.",
+            "tier": "B2"
+          },
+          {
+            "front": "la polémica",
+            "pos": "noun",
+            "back": "controversy",
+            "example": "Su comentario provocó una gran polémica.",
+            "tier": "B1"
+          },
+          {
+            "front": "impedir",
+            "pos": "verb",
+            "back": "to prevent",
+            "example": "La lluvia impidió que jugaran el partido.",
+            "tier": "B2"
+          },
+          {
+            "front": "la rueda de prensa",
+            "pos": "phrase",
+            "back": "press conference",
+            "example": "El entrenador habló en la rueda de prensa.",
+            "tier": "B1"
+          },
+          {
+            "front": "el aficionado",
+            "pos": "noun",
+            "back": "fan, supporter",
+            "example": "Los aficionados llenaron el estadio.",
+            "tier": "B1"
+          },
+          {
+            "front": "discriminar",
+            "pos": "verb",
+            "back": "to discriminate",
+            "example": "Ninguna norma debería discriminar a un grupo.",
+            "tier": "B2"
+          },
+          {
+            "front": "la lengua",
+            "pos": "noun",
+            "back": "language, tongue",
+            "example": "El español es su lengua materna.",
+            "tier": "B1"
+          },
+          {
+            "front": "sensible",
+            "pos": "adj",
+            "back": "sensitive (false friend: not 'sensible/wise')",
+            "example": "Es un tema muy sensible para mucha gente.",
+            "tier": "B2"
+          },
+          {
+            "front": "la identidad",
+            "pos": "noun",
+            "back": "identity",
+            "example": "La música forma parte de su identidad.",
+            "tier": "B1"
+          },
+          {
+            "front": "rectificar",
+            "pos": "verb",
+            "back": "to put right, to correct (a decision)",
+            "example": "Es de sabios rectificar a tiempo.",
+            "tier": "B2"
+          },
+          {
+            "front": "calmar",
+            "pos": "verb",
+            "back": "to calm, to soothe",
+            "example": "Intentó calmar a los manifestantes con un discurso.",
+            "tier": "B1"
+          },
+          {
+            "front": "el torneo",
+            "pos": "noun",
+            "back": "tournament",
+            "example": "El torneo reúne a equipos de todo el mundo.",
+            "tier": "B1"
+          },
+          {
+            "front": "ejercer presión",
+            "pos": "phrase",
+            "back": "to exert pressure",
+            "example": "Las redes sociales ejercen mucha presión sobre las marcas.",
+            "tier": "B2"
+          },
+          {
+            "front": "creciente",
+            "pos": "adj",
+            "back": "growing, rising",
+            "example": "Hay un interés creciente por aprender idiomas.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La decisión llega después de una fuerte polémica, ya que la organización había impedido que algunos futbolistas respondieran en español durante las ruedas de prensa.",
+            "point": "pluscuamperfecto + imperfecto de subjuntivo tras 'impedir que'",
+            "explanation": "'Había impedido' es pluscuamperfecto (una acción anterior a otra del pasado). 'Impedir que' exige subjuntivo, y aquí en pasado se usa el imperfecto de subjuntivo 'respondieran'.",
+            "why_tricky": "Los verbos de influencia como 'impedir que' siempre piden subjuntivo, y hay que ajustar el tiempo al pasado (respondieran, no responden)."
+          },
+          {
+            "sentence": "El idioma se había convertido en un tema sensible, porque para muchos jugadores y seguidores hablar en su propia lengua es una forma de expresar su identidad.",
+            "point": "infinitivo como sujeto de la oración",
+            "explanation": "'Hablar en su propia lengua' funciona como sujeto del verbo 'es'. En español el infinitivo puede actuar como un sustantivo.",
+            "why_tricky": "En inglés se usaría un gerundio (speaking), pero en español el sujeto es el infinitivo (hablar)."
+          },
+          {
+            "sentence": "Al rectificar, la FIFA busca calmar las críticas y mostrar que el torneo respeta la diversidad cultural de sus protagonistas.",
+            "point": "'al + infinitivo' para expresar el momento o la causa",
+            "explanation": "'Al rectificar' equivale a 'cuando rectifica' o 'al hacerlo'. La construcción 'al + infinitivo' indica el momento en que ocurre algo.",
+            "why_tricky": "Es una estructura muy frecuente que muchos estudiantes sustituyen por una frase con 'cuando' más larga."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "echar leña al fuego",
+            "meaning": "to add fuel to the fire",
+            "example": "Sus declaraciones solo echaron más leña al fuego."
+          },
+          {
+            "phrase": "estar en boca de todos",
+            "meaning": "to be the talk of the town, on everyone's lips",
+            "example": "La polémica está en boca de todos esta semana."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué decisión tomó la FIFA sobre el uso del español?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué se generó la polémica?",
+            "type": "open"
+          },
+          {
+            "q": "Según el texto, ¿qué representa para los jugadores hablar en su propia lengua?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que los deportistas deberían poder hablar en su idioma materno en las entrevistas? Justifica tu respuesta."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-16-reino-unido-redes-menores",
+      "title": "Reino Unido prohibirá el acceso a redes sociales a los menores de 16 años",
+      "source": "RFI en español",
+      "date": "2026-06-15",
+      "level": "B1-B2",
+      "topics": [
+        "sociedad",
+        "tecnología"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-16-reino-unido-redes-menores",
+        "revision": 1,
+        "meta": {
+          "title": "Reino Unido prohibirá el acceso a redes sociales a los menores de 16 años",
+          "source": "RFI en español",
+          "url": "https://www.rfi.fr/es/europa/20260615-reino-unido-prohibir%C3%A1-el-acceso-a-redes-sociales-a-los-menores-de-16-a%C3%B1os",
+          "date_published": "2026-06-15",
+          "date_processed": "2026-06-16",
+          "tags": [
+            "sociedad",
+            "tecnología"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The British Prime Minister, Keir Starmer, has announced that the United Kingdom will ban under-16s from accessing social media. With this measure, the country would join others, such as Australia, that have already chosen to restrict the use of these platforms among the youngest. The government justifies the decision by the growing concern about teenagers' mental health.\n\nSupporters of the proposal argue that social media exposes children to harmful content and encourages screen addiction. However, critics doubt that the ban can be applied effectively, since many young people know how to get around age checks. Meanwhile, the debate about how to protect children online without limiting their freedoms too much remains very much alive across Europe.",
+        "resumen_es": "El primer ministro británico, Keir Starmer, anunció que Reino Unido prohibirá el acceso a las redes sociales a los menores de 16 años. Con esta medida, el país se sumaría a otros, como Australia, que ya han optado por restringir el uso de estas plataformas entre los más jóvenes. El gobierno justifica la decisión por la preocupación creciente sobre la salud mental de los adolescentes.\n\nLos defensores de la propuesta sostienen que las redes exponen a los niños a contenidos nocivos y fomentan la adicción a la pantalla. Sin embargo, los críticos dudan de que la prohibición se pueda aplicar de forma eficaz, ya que muchos jóvenes saben cómo saltarse los controles de edad. Mientras tanto, el debate sobre cómo proteger a la infancia en internet sin limitar demasiado sus libertades sigue muy vivo en toda Europa.",
+        "vocab": [
+          {
+            "front": "la medida",
+            "pos": "noun",
+            "back": "measure",
+            "example": "El gobierno tomó una medida urgente contra la crisis.",
+            "tier": "B1"
+          },
+          {
+            "front": "sumarse a",
+            "pos": "verb",
+            "back": "to join, to add oneself to",
+            "example": "Más países se suman a la iniciativa cada año.",
+            "tier": "B2"
+          },
+          {
+            "front": "restringir",
+            "pos": "verb",
+            "back": "to restrict",
+            "example": "Quieren restringir el tráfico en el centro de la ciudad.",
+            "tier": "B2"
+          },
+          {
+            "front": "la preocupación",
+            "pos": "noun",
+            "back": "concern, worry",
+            "example": "Existe una gran preocupación por el cambio climático.",
+            "tier": "B1"
+          },
+          {
+            "front": "nocivo",
+            "pos": "adj",
+            "back": "harmful",
+            "example": "El tabaco es muy nocivo para la salud.",
+            "tier": "B2"
+          },
+          {
+            "front": "fomentar",
+            "pos": "verb",
+            "back": "to encourage, to foster",
+            "example": "La escuela quiere fomentar la lectura entre los niños.",
+            "tier": "B2"
+          },
+          {
+            "front": "la pantalla",
+            "pos": "noun",
+            "back": "screen",
+            "example": "Paso demasiadas horas delante de la pantalla.",
+            "tier": "B1"
+          },
+          {
+            "front": "la prohibición",
+            "pos": "noun",
+            "back": "ban",
+            "example": "La prohibición entrará en vigor el año que viene.",
+            "tier": "B1"
+          },
+          {
+            "front": "aplicar",
+            "pos": "verb",
+            "back": "to apply, to enforce",
+            "example": "Es difícil aplicar esta norma en la práctica.",
+            "tier": "B1"
+          },
+          {
+            "front": "saltarse",
+            "pos": "verb",
+            "back": "to skip, to get around (a rule)",
+            "example": "No deberías saltarte las normas de seguridad.",
+            "tier": "B2"
+          },
+          {
+            "front": "el control de edad",
+            "pos": "phrase",
+            "back": "age check, age verification",
+            "example": "La web pide un control de edad antes de entrar.",
+            "tier": "B2"
+          },
+          {
+            "front": "la infancia",
+            "pos": "noun",
+            "back": "childhood, children",
+            "example": "Proteger la infancia debe ser una prioridad.",
+            "tier": "B1"
+          },
+          {
+            "front": "el defensor",
+            "pos": "noun",
+            "back": "supporter, defender",
+            "example": "Los defensores de la ley celebraron la decisión.",
+            "tier": "B1"
+          },
+          {
+            "front": "dudar de",
+            "pos": "verb",
+            "back": "to doubt",
+            "example": "Muchos dudan de que la promesa se cumpla.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Los defensores de la propuesta sostienen que las redes exponen a los niños a contenidos nocivos y fomentan la adicción a la pantalla.",
+            "point": "indicativo tras verbos de afirmación ('sostener que')",
+            "explanation": "Cuando se afirma algo como un hecho, se usa indicativo: 'sostienen que las redes exponen / fomentan'.",
+            "why_tricky": "Contrasta con verbos de duda, que exigen subjuntivo; hay que fijarse en el verbo principal."
+          },
+          {
+            "sentence": "Sin embargo, los críticos dudan de que la prohibición se pueda aplicar de forma eficaz, ya que muchos jóvenes saben cómo saltarse los controles de edad.",
+            "point": "subjuntivo tras 'dudar de que'; conector causal 'ya que'",
+            "explanation": "'Dudar de que' expresa duda, por eso va con subjuntivo ('se pueda'). 'Ya que' introduce la causa.",
+            "why_tricky": "Es fácil decir 'se puede' (indicativo) por error; la duda obliga al subjuntivo 'se pueda'."
+          },
+          {
+            "sentence": "Con esta medida, el país se sumaría a otros, como Australia, que ya han optado por restringir el uso de estas plataformas entre los más jóvenes.",
+            "point": "condicional simple para una consecuencia probable",
+            "explanation": "'Se sumaría' usa el condicional porque la acción depende de que la medida se apruebe; expresa algo previsto pero aún no seguro.",
+            "why_tricky": "El condicional aquí no marca una condición con 'si', sino una consecuencia hipotética de un anuncio."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "seguir muy vivo",
+            "meaning": "(a debate) to be very much alive, ongoing",
+            "example": "La polémica sigue muy viva en las redes sociales."
+          },
+          {
+            "phrase": "saltarse algo a la torera",
+            "meaning": "to flout or completely ignore the rules",
+            "example": "Se saltó las normas a la torera y nadie lo castigó."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué medida anunció el primer ministro británico?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué algunos críticos dudan de la eficacia de la prohibición?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué argumentos dan los defensores de la propuesta?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Estás de acuerdo con prohibir las redes sociales a los menores de 16 años? Da al menos dos razones."
+      }
+    },
     {
       "pack_id": "feed-2026-06-15-bishkek-arquitectura",
       "title": "Bishkek, la moderna capital de Kirguistán que está demoliendo su imponente arquitectura soviética",
