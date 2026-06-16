@@ -1,7 +1,493 @@
 {
-  "generated_at": "2026-06-16T09:24:27Z",
+  "generated_at": "2026-06-16T21:13:53Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-16-picasso-senoritas-avinon",
+      "title": "\"Las señoritas de Avignon\", la obra más polémica de Picasso que sigue generando debate un siglo después",
+      "source": "BBC Mundo",
+      "date": "2026-06-07",
+      "level": "B1-B2",
+      "topics": [
+        "arte",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-16-picasso-senoritas-avinon",
+        "revision": 1,
+        "meta": {
+          "title": "\"Las señoritas de Avignon\", la obra más polémica de Picasso que sigue generando debate un siglo después",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cp9p0jdy9lko",
+          "date_published": "2026-06-07",
+          "date_processed": "2026-06-16",
+          "tags": [
+            "arte",
+            "cultura"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "More than a century ago, Pablo Picasso painted 'Les Demoiselles d'Avignon', one of the most controversial works in the history of art. The painting, which broke with traditional forms, still sparks debate among the public and experts. Now the American artist Henry Taylor has reinterpreted the painting from a contemporary perspective, and his version is on display at the National Picasso Museum in Paris.\n\nFrom the start, the work provoked as much rejection as admiration, and many consider it the starting point of Cubism. Looking at it again today, several critics question the way Picasso portrayed women and the origin of some of his influences. The dialogue between the original painting and the new version invites us to look at the past with different eyes. Deep down, the debate shows that art never stops speaking to us, no matter how much time goes by.",
+        "resumen_es": "Hace más de un siglo que Pablo Picasso pintó 'Las señoritas de Aviñón', una de las obras más polémicas de la historia del arte. El cuadro, que rompió con las formas tradicionales, sigue generando debate entre el público y los expertos. Ahora, el artista estadounidense Henry Taylor ha reinterpretado la pintura desde una mirada actual, y su versión se expone en el Museo Nacional Picasso de París.\n\nDesde el principio, la obra despertó tanto rechazo como admiración, y muchos la consideran el punto de partida del cubismo. Al revisarla hoy, varios críticos cuestionan la manera en que Picasso representó a las mujeres y el origen de algunas de sus influencias. El diálogo entre el cuadro original y la nueva versión invita a mirar el pasado con otros ojos. En el fondo, el debate demuestra que el arte nunca deja de hablarnos, por mucho tiempo que pase.",
+        "vocab": [
+          {
+            "front": "polémico/a",
+            "pos": "adj",
+            "back": "controversial",
+            "example": "Es una obra muy polémica que divide al público.",
+            "tier": "B1"
+          },
+          {
+            "front": "el cuadro",
+            "pos": "noun",
+            "back": "painting, picture",
+            "example": "Ese cuadro vale millones de euros.",
+            "tier": "B1"
+          },
+          {
+            "front": "romper con",
+            "pos": "phrase",
+            "back": "to break with",
+            "example": "El artista quiso romper con la tradición.",
+            "tier": "B2"
+          },
+          {
+            "front": "la mirada",
+            "pos": "noun",
+            "back": "gaze, perspective",
+            "example": "Analiza el tema desde una mirada actual.",
+            "tier": "B2"
+          },
+          {
+            "front": "el rechazo",
+            "pos": "noun",
+            "back": "rejection",
+            "example": "Su propuesta despertó rechazo entre los críticos.",
+            "tier": "B2"
+          },
+          {
+            "front": "la admiración",
+            "pos": "noun",
+            "back": "admiration",
+            "example": "Siente una gran admiración por los maestros clásicos.",
+            "tier": "B1"
+          },
+          {
+            "front": "el punto de partida",
+            "pos": "phrase",
+            "back": "starting point",
+            "example": "Aquel viaje fue el punto de partida de su carrera.",
+            "tier": "B2"
+          },
+          {
+            "front": "cuestionar",
+            "pos": "verb",
+            "back": "to question, to challenge",
+            "example": "Muchos cuestionan sus decisiones.",
+            "tier": "B2"
+          },
+          {
+            "front": "reinterpretar",
+            "pos": "verb",
+            "back": "to reinterpret",
+            "example": "Decidió reinterpretar una obra clásica.",
+            "tier": "C1"
+          },
+          {
+            "front": "exponer",
+            "pos": "verb",
+            "back": "to exhibit, to display",
+            "example": "La pieza se expone en el museo hasta septiembre.",
+            "tier": "B2"
+          },
+          {
+            "front": "dejar de + inf.",
+            "pos": "phrase",
+            "back": "to stop doing something",
+            "example": "El arte no deja de sorprendernos.",
+            "tier": "B1"
+          },
+          {
+            "front": "el debate",
+            "pos": "noun",
+            "back": "debate",
+            "example": "El debate sigue abierto entre los expertos.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Hace más de un siglo que Pablo Picasso pintó 'Las señoritas de Aviñón', una de las obras más polémicas de la historia del arte.",
+            "point": "Estructura temporal: 'hace + periodo + que + pretérito'",
+            "explanation": "'Hace ... que' situa cuando ocurrio una accion pasada. Aqui acompana a 'pinto' (preterito) para decir cuanto tiempo ha pasado desde ese momento.",
+            "why_tricky": "En ingles se usa 'ago' al final ('a century ago'), pero en espanol 'hace' va delante y exige 'que' antes del verbo."
+          },
+          {
+            "sentence": "Al revisarla hoy, varios críticos cuestionan la manera en que Picasso representó a las mujeres y el origen de algunas de sus influencias.",
+            "point": "'Al + infinitivo' y pronombre enclitico",
+            "explanation": "'Al revisarla' equivale a 'cuando la revisan' e indica simultaneidad. El pronombre 'la' se une al infinitivo formando una sola palabra.",
+            "why_tricky": "El estudiante suele separar el pronombre o usar 'cuando' + verbo conjugado; ademas hay que recordar la 'a' personal en 'representó a las mujeres'."
+          },
+          {
+            "sentence": "El diálogo entre el cuadro original y la nueva versión invita a mirar el pasado con otros ojos.",
+            "point": "Verbo + preposición: 'invitar a + infinitivo'",
+            "explanation": "'Invitar' rige la preposicion 'a' antes del infinitivo 'mirar'. Es un caso de regimen preposicional fijo.",
+            "why_tricky": "No hay equivalente directo en ingles ('invites us to look'), y es facil omitir la 'a' o cambiarla por otra preposicion."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "mirar (algo) con otros ojos",
+            "meaning": "ver algo de una forma nueva o distinta",
+            "example": "Después del viaje, empecé a mirar mi ciudad con otros ojos."
+          },
+          {
+            "phrase": "en el fondo",
+            "meaning": "en realidad, si se mira con profundidad",
+            "example": "En el fondo, todos queremos sentirnos comprendidos."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué se considera que 'Las señoritas de Aviñón' fue una obra revolucionaria?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué ha hecho el artista Henry Taylor con la obra de Picasso?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué aspectos de la pintura cuestionan hoy algunos críticos?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que una obra de arte polémica puede seguir siendo relevante un siglo después? Escribe un párrafo explicando tu opinión con ejemplos."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-16-vacuna-ia-pandemias",
+      "title": "Cómo es la primera vacuna creada con IA y por qué supone un \"cambio fundamental\" ante futuras pandemias",
+      "source": "BBC Mundo",
+      "date": "2026-06-05",
+      "level": "B1-B2",
+      "topics": [
+        "ciencia",
+        "salud"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-16-vacuna-ia-pandemias",
+        "revision": 1,
+        "meta": {
+          "title": "Cómo es la primera vacuna creada con IA y por qué supone un \"cambio fundamental\" ante futuras pandemias",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cy929gpl9l7o",
+          "date_published": "2026-06-05",
+          "date_processed": "2026-06-16",
+          "tags": [
+            "ciencia",
+            "salud"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "A group of scientists from Cambridge says it has tested in humans, for the first time, a vaccine designed with artificial intelligence. According to the researchers, this advance could represent a fundamental change in the way we prepare for future pandemics. The idea is that algorithms could help design vaccines much faster than with traditional methods, which would make it possible to react in time to new threats.\n\nAlthough the initial results are promising, experts call for caution and remind us that many tests still lie ahead. Before a vaccine reaches the population, it must prove that it is safe and effective in large trials. If the technology delivers what it promises, it could shorten the timeframes considerably. For now, what looked like science fiction is starting to make headway in laboratories across half the world.",
+        "resumen_es": "Un grupo de científicos de Cambridge afirma haber probado en humanos, por primera vez, una vacuna diseñada con inteligencia artificial. Según los investigadores, este avance podría suponer un cambio fundamental en la forma de prepararse ante futuras pandemias. La idea es que los algoritmos ayuden a diseñar vacunas mucho más rápido que con los métodos tradicionales, lo que permitiría reaccionar a tiempo frente a nuevas amenazas.\n\nAunque los resultados iniciales son prometedores, los expertos piden cautela y recuerdan que aún quedan muchas pruebas por delante. Antes de que una vacuna llegue a la población, debe demostrar que es segura y eficaz en ensayos amplios. Si la tecnología cumple lo que promete, podría acortar los plazos de manera considerable. Por ahora, lo que parecía ciencia ficción empieza a abrirse paso en los laboratorios de medio mundo.",
+        "vocab": [
+          {
+            "front": "la vacuna",
+            "pos": "noun",
+            "back": "vaccine",
+            "example": "La vacuna se administra en dos dosis.",
+            "tier": "B1"
+          },
+          {
+            "front": "el avance",
+            "pos": "noun",
+            "back": "advance, breakthrough",
+            "example": "Es un avance importante para la medicina.",
+            "tier": "B1"
+          },
+          {
+            "front": "probar",
+            "pos": "verb",
+            "back": "to test, to try",
+            "example": "Quieren probar el tratamiento en más pacientes.",
+            "tier": "B1"
+          },
+          {
+            "front": "el ensayo (clínico)",
+            "pos": "noun",
+            "back": "(clinical) trial",
+            "example": "El ensayo clínico duró más de un año.",
+            "tier": "B2"
+          },
+          {
+            "front": "prometedor/a",
+            "pos": "adj",
+            "back": "promising",
+            "example": "Los datos son muy prometedores.",
+            "tier": "B2"
+          },
+          {
+            "front": "la cautela",
+            "pos": "noun",
+            "back": "caution",
+            "example": "Los médicos piden cautela ante los resultados.",
+            "tier": "B2"
+          },
+          {
+            "front": "eficaz",
+            "pos": "adj",
+            "back": "effective",
+            "example": "El fármaco resultó ser muy eficaz.",
+            "tier": "B2"
+          },
+          {
+            "front": "la amenaza",
+            "pos": "noun",
+            "back": "threat",
+            "example": "El virus sigue siendo una amenaza global.",
+            "tier": "B1"
+          },
+          {
+            "front": "acortar los plazos",
+            "pos": "phrase",
+            "back": "to shorten the timeframes",
+            "example": "La nueva técnica permite acortar los plazos de producción.",
+            "tier": "B2"
+          },
+          {
+            "front": "suponer",
+            "pos": "verb",
+            "back": "to mean, to represent",
+            "example": "El cambio supone un gran reto para todos.",
+            "tier": "B2"
+          },
+          {
+            "front": "diseñar",
+            "pos": "verb",
+            "back": "to design",
+            "example": "Los algoritmos ayudan a diseñar nuevos fármacos.",
+            "tier": "B1"
+          },
+          {
+            "front": "seguro/a",
+            "pos": "adj",
+            "back": "safe",
+            "example": "Quieren asegurarse de que el producto es seguro.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Un grupo de científicos de Cambridge afirma haber probado en humanos, por primera vez, una vacuna diseñada con inteligencia artificial.",
+            "point": "Infinitivo compuesto: 'haber + participio'",
+            "explanation": "'Haber probado' es un infinitivo compuesto que expresa una accion anterior a la del verbo principal 'afirma'. Se usa cuando el sujeto de los dos verbos es el mismo.",
+            "why_tricky": "El estudiante tiende a decir 'afirma que ha probado'; el infinitivo compuesto es mas conciso pero exige reconocer que el sujeto coincide."
+          },
+          {
+            "sentence": "Antes de que una vacuna llegue a la población, debe demostrar que es segura y eficaz en ensayos amplios.",
+            "point": "'Antes de que' + subjuntivo",
+            "explanation": "La locucion 'antes de que' siempre exige subjuntivo: por eso aparece 'llegue' y no 'llega'. Indica una accion futura aun no realizada.",
+            "why_tricky": "Como en ingles se usa indicativo ('before a vaccine reaches'), es facil olvidar el subjuntivo en espanol."
+          },
+          {
+            "sentence": "Si la tecnología cumple lo que promete, podría acortar los plazos de manera considerable.",
+            "point": "Condicional real: 'si + presente, condicional'",
+            "explanation": "Aqui la condicion es posible, por eso la oracion con 'si' lleva presente ('cumple') y la consecuencia usa el condicional 'podria' para suavizar la afirmacion.",
+            "why_tricky": "Hay que evitar el subjuntivo tras 'si' en condiciones reales y elegir bien entre futuro y condicional en la consecuencia."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "abrirse paso",
+            "meaning": "avanzar o lograr aceptación poco a poco, a pesar de los obstáculos",
+            "example": "La idea era extraña, pero poco a poco se abrió paso."
+          },
+          {
+            "phrase": "tener (algo) por delante",
+            "meaning": "quedar todavía por hacer o por vivir",
+            "example": "Es joven y tiene toda una carrera por delante."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué tiene de novedoso la vacuna desarrollada por los científicos de Cambridge?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué los expertos piden cautela a pesar de los buenos resultados?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué ventajas podría tener usar inteligencia artificial para crear vacunas?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Confiarías en una vacuna diseñada por inteligencia artificial? Explica por qué sí o por qué no en un breve texto."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-16-gap-historia-marca",
+      "title": "Donald y Doris Fisher, la pareja que no pudo encontrar un talle de jeans y terminó creando el gigante de la moda Gap",
+      "source": "BBC Mundo",
+      "date": "2026-05-30",
+      "level": "B1-B2",
+      "topics": [
+        "negocios",
+        "moda"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-16-gap-historia-marca",
+        "revision": 1,
+        "meta": {
+          "title": "Donald y Doris Fisher, la pareja que no pudo encontrar un talle de jeans y terminó creando el gigante de la moda Gap",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c78qj9zy4j6o",
+          "date_published": "2026-05-30",
+          "date_processed": "2026-06-16",
+          "tags": [
+            "negocios",
+            "moda"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Donald and Doris Fisher could not find jeans in their size, so they decided to open their own store. That is how Gap was born, a brand that over time became a giant of the fashion world. What began as a small business in the United States ended up winning over several generations and turned into one of the most influential brands of the 20th century.\n\nLike many companies, Gap has lived through times of great success and also difficult moments, in which it was about to lose its place in the market. However, the brand has known how to reinvent itself and connect again with younger people. Its story shows that a good idea, born from an everyday problem, can go a long way. In the end, what matters is not only succeeding, but learning to get back up after each fall.",
+        "resumen_es": "Donald y Doris Fisher no encontraban unos vaqueros de su talla, así que decidieron abrir su propia tienda. Así nació Gap, una marca que con el tiempo se convirtió en un gigante de la moda. Lo que empezó como un pequeño negocio en Estados Unidos terminó conquistando a varias generaciones y se transformó en una de las marcas más influyentes del siglo XX.\n\nComo muchas empresas, Gap ha vivido épocas de gran éxito y también momentos difíciles, en los que estuvo a punto de perder su lugar en el mercado. Sin embargo, la marca ha sabido reinventarse y volver a conectar con los más jóvenes. Su historia demuestra que una buena idea, nacida de un problema cotidiano, puede llegar muy lejos. Al final, lo importante no es solo triunfar, sino aprender a levantarse después de cada caída.",
+        "vocab": [
+          {
+            "front": "los vaqueros",
+            "pos": "noun",
+            "back": "jeans",
+            "example": "Me compré unos vaqueros nuevos.",
+            "tier": "B1"
+          },
+          {
+            "front": "la talla",
+            "pos": "noun",
+            "back": "(clothing) size",
+            "example": "No encuentro mi talla en esta tienda.",
+            "tier": "B1"
+          },
+          {
+            "front": "la marca",
+            "pos": "noun",
+            "back": "brand",
+            "example": "Es una marca conocida en todo el mundo.",
+            "tier": "B1"
+          },
+          {
+            "front": "el gigante",
+            "pos": "noun",
+            "back": "giant",
+            "example": "Se convirtió en un gigante del comercio.",
+            "tier": "B2"
+          },
+          {
+            "front": "conquistar",
+            "pos": "verb",
+            "back": "to win over, to conquer",
+            "example": "La marca conquistó al público joven.",
+            "tier": "B2"
+          },
+          {
+            "front": "influyente",
+            "pos": "adj",
+            "back": "influential",
+            "example": "Es una de las personas más influyentes del sector.",
+            "tier": "B2"
+          },
+          {
+            "front": "estar a punto de",
+            "pos": "phrase",
+            "back": "to be about to, to be on the verge of",
+            "example": "Estuvo a punto de cerrar el negocio.",
+            "tier": "B1"
+          },
+          {
+            "front": "reinventarse",
+            "pos": "verb",
+            "back": "to reinvent oneself",
+            "example": "La empresa supo reinventarse tras la crisis.",
+            "tier": "B2"
+          },
+          {
+            "front": "el mercado",
+            "pos": "noun",
+            "back": "market",
+            "example": "El producto triunfó en el mercado europeo.",
+            "tier": "B1"
+          },
+          {
+            "front": "cotidiano/a",
+            "pos": "adj",
+            "back": "everyday, daily",
+            "example": "Es un problema de la vida cotidiana.",
+            "tier": "B2"
+          },
+          {
+            "front": "triunfar",
+            "pos": "verb",
+            "back": "to succeed, to triumph",
+            "example": "Soñaba con triunfar en el extranjero.",
+            "tier": "B1"
+          },
+          {
+            "front": "llegar lejos",
+            "pos": "phrase",
+            "back": "to go far, to be very successful",
+            "example": "Con ese talento, vas a llegar lejos.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Donald y Doris Fisher no encontraban unos vaqueros de su talla, así que decidieron abrir su propia tienda.",
+            "point": "Contraste imperfecto / pretérito y conector 'así que'",
+            "explanation": "'No encontraban' (imperfecto) describe una situacion que se repetia; 'decidieron' (preterito) marca la accion concreta que la resolvio. 'Asi que' introduce la consecuencia.",
+            "why_tricky": "Elegir entre imperfecto y preterito no depende del verbo sino de si describimos un contexto o un hecho puntual."
+          },
+          {
+            "sentence": "Sin embargo, la marca ha sabido reinventarse y volver a conectar con los más jóvenes.",
+            "point": "'Saber + infinitivo' y 'volver a + infinitivo'",
+            "explanation": "'Ha sabido reinventarse' significa que ha logrado o ha conseguido hacerlo. 'Volver a + infinitivo' expresa repeticion: hacer algo de nuevo.",
+            "why_tricky": "'Saber + infinitivo' no se traduce literalmente como 'to know'; aqui equivale a 'managed to'."
+          },
+          {
+            "sentence": "Al final, lo importante no es solo triunfar, sino aprender a levantarse después de cada caída.",
+            "point": "Artículo neutro 'lo' + adjetivo y estructura 'no... sino'",
+            "explanation": "'Lo importante' convierte el adjetivo en una idea abstracta ('the important thing'). 'No... sino' corrige o contrasta dos opciones.",
+            "why_tricky": "El 'lo' neutro no existe en ingles y los estudiantes lo confunden con el articulo 'el'; ademas 'sino' no es lo mismo que 'pero'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "llegar (muy) lejos",
+            "meaning": "tener mucho éxito en la vida o en una actividad",
+            "example": "Es muy trabajadora; seguro que llega lejos."
+          },
+          {
+            "phrase": "estar a punto de",
+            "meaning": "faltar muy poco para que algo ocurra",
+            "example": "Estábamos a punto de salir cuando empezó a llover."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Cómo surgió la idea de crear la marca Gap?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué dificultades ha atravesado la empresa a lo largo de su historia?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué lección crees que transmite la historia de los Fisher?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que un problema cotidiano puede convertirse en una gran oportunidad de negocio? Argumenta tu respuesta con un ejemplo."
+      }
+    },
     {
       "pack_id": "feed-2026-06-16-petro-legado-colombia",
       "title": "Qué tanto transformó Petro a Colombia, \"el presidente del cambio\" que se juega su legado aunque no pueda ser reelegido",
