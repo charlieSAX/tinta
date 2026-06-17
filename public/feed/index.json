@@ -1,7 +1,535 @@
 {
-  "generated_at": "2026-06-16T21:13:53Z",
+  "generated_at": "2026-06-17T10:50:20Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-17-cosmeticorexia-ninas",
+      "title": "Cosmeticorexia: cómo las niñas están cayendo en la peligrosa obsesión de tener una piel perfecta",
+      "source": "BBC Mundo",
+      "date": "2026-06-09",
+      "level": "B1-B2",
+      "topics": [
+        "sociedad",
+        "salud"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-17-cosmeticorexia-ninas",
+        "revision": 1,
+        "meta": {
+          "title": "Cosmeticorexia: cómo las niñas están cayendo en la peligrosa obsesión de tener una piel perfecta",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cp8rle1311zo",
+          "date_published": "2026-06-09",
+          "date_processed": "2026-06-17",
+          "tags": [
+            "sociedad",
+            "salud"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "In recent years a worrying phenomenon has appeared, known as 'cosmeticorexia': the obsession of many girls with achieving perfect skin. More and more children buy facial care products that are actually designed for adults, encouraged by what they see on social media. There, countless videos show complex beauty routines and promise almost magical results, so the children's cosmetics market keeps on growing.\n\nHowever, experts warn that this trend can have serious consequences. On the one hand, some ingredients are too strong for young skin and can cause irritation. On the other, the pressure to look perfect affects girls' self-esteem from a very early age. For this reason, many specialists are calling for more control and recommend that families support their daughters and encourage a healthy relationship with their own body.",
+        "resumen_es": "En los últimos años ha surgido un fenómeno preocupante conocido como cosmeticorexia: la obsesión de muchas niñas por conseguir una piel perfecta. Cada vez más menores compran productos de cuidado facial pensados en realidad para adultos, animadas por lo que ven en las redes sociales. Allí, numerosos vídeos muestran rutinas de belleza complejas y prometen resultados casi mágicos, de modo que el mercado infantil de la cosmética no deja de crecer.\n\nSin embargo, los expertos advierten de que esta moda puede tener consecuencias serias. Por un lado, algunos ingredientes resultan demasiado fuertes para una piel joven y pueden provocar irritaciones. Por otro, la presión por verse perfecta afecta a la autoestima de las niñas desde una edad muy temprana. Por eso, muchos especialistas piden más control y recomiendan que las familias acompañen a sus hijas y fomenten una relación sana con su propio cuerpo.",
+        "vocab": [
+          {
+            "front": "estar en auge",
+            "pos": "phrase",
+            "back": "to be booming, on the rise",
+            "example": "El mercado de la cosmética infantil está en auge.",
+            "tier": "B2"
+          },
+          {
+            "front": "el cuidado de la piel",
+            "pos": "noun",
+            "back": "skincare",
+            "example": "Dedica mucho tiempo al cuidado de la piel.",
+            "tier": "B1"
+          },
+          {
+            "front": "la obsesión",
+            "pos": "noun",
+            "back": "obsession",
+            "example": "Tiene una obsesión por la limpieza.",
+            "tier": "B1"
+          },
+          {
+            "front": "animado/a",
+            "pos": "adj",
+            "back": "encouraged, spurred on",
+            "example": "Compró el producto animada por un vídeo.",
+            "tier": "B2"
+          },
+          {
+            "front": "la rutina",
+            "pos": "noun",
+            "back": "routine",
+            "example": "Sigue una rutina de belleza muy larga.",
+            "tier": "B1"
+          },
+          {
+            "front": "prometer",
+            "pos": "verb",
+            "back": "to promise",
+            "example": "El anuncio promete resultados rápidos.",
+            "tier": "B1"
+          },
+          {
+            "front": "la consecuencia",
+            "pos": "noun",
+            "back": "consequence",
+            "example": "Esta moda tiene consecuencias serias.",
+            "tier": "B1"
+          },
+          {
+            "front": "provocar",
+            "pos": "verb",
+            "back": "to cause, to trigger",
+            "example": "Algunos productos pueden provocar irritaciones.",
+            "tier": "B2"
+          },
+          {
+            "front": "la irritación",
+            "pos": "noun",
+            "back": "irritation (of the skin)",
+            "example": "La crema le provocó una irritación.",
+            "tier": "B2"
+          },
+          {
+            "front": "la autoestima",
+            "pos": "noun",
+            "back": "self-esteem",
+            "example": "La presión social afecta a su autoestima.",
+            "tier": "B2"
+          },
+          {
+            "front": "fomentar",
+            "pos": "verb",
+            "back": "to encourage, to foster",
+            "example": "Hay que fomentar hábitos saludables.",
+            "tier": "C1"
+          },
+          {
+            "front": "sano/a",
+            "pos": "adj",
+            "back": "healthy",
+            "example": "Quieren una relación sana con su cuerpo.",
+            "tier": "B1"
+          },
+          {
+            "front": "desde una edad temprana",
+            "pos": "phrase",
+            "back": "from an early age",
+            "example": "Aprenden estas costumbres desde una edad temprana.",
+            "tier": "B2"
+          },
+          {
+            "front": "a largo plazo",
+            "pos": "phrase",
+            "back": "in the long run",
+            "example": "Temen el impacto a largo plazo.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "de modo que el mercado infantil de la cosmética no deja de crecer",
+            "point": "Conector consecutivo 'de modo que' + 'dejar de + infinitivo'",
+            "explanation": "'De modo que' introduce una consecuencia. 'No dejar de + infinitivo' expresa una acción que continúa sin parar.",
+            "why_tricky": "Los estudiantes confunden 'dejar de' (parar) con 'no dejar de' (no parar), que tiene el sentido contrario."
+          },
+          {
+            "sentence": "los expertos advierten de que esta moda puede tener consecuencias serias",
+            "point": "Verbo + preposición: 'advertir de que'",
+            "explanation": "El verbo 'advertir' suele ir seguido de la preposición 'de' antes de 'que' cuando se avisa de un peligro.",
+            "why_tricky": "En inglés no hay preposición ('warn that'), por lo que es fácil omitir el 'de'."
+          },
+          {
+            "sentence": "recomiendan que las familias acompañen a sus hijas",
+            "point": "Subjuntivo tras 'recomendar que'",
+            "explanation": "Los verbos de influencia como 'recomendar' exigen el presente de subjuntivo en la oración subordinada.",
+            "why_tricky": "El cambio de sujeto obliga al subjuntivo ('acompañen'), no al indicativo ('acompañan')."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "no dejar de (hacer algo)",
+            "meaning": "seguir haciendo algo sin parar",
+            "example": "Las ventas no dejan de aumentar."
+          },
+          {
+            "phrase": "un duro golpe",
+            "meaning": "algo muy negativo que afecta con fuerza",
+            "example": "La noticia fue un duro golpe para la familia."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué es la cosmeticorexia y a quiénes afecta principalmente?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué crees que las redes sociales influyen tanto en esta moda?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué consecuencias mencionan los expertos sobre el uso de estos productos?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que debería existir más control sobre la venta de productos de belleza dirigidos a menores? Escribe un texto explicando tu opinión y proponiendo soluciones."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-17-banquetes-francia",
+      "title": "Por qué la creciente popularidad de los banquetes masivos en Francia despierta recelos en la izquierda del país",
+      "source": "BBC Mundo",
+      "date": "2026-06-09",
+      "level": "B1-B2",
+      "topics": [
+        "cultura",
+        "sociedad"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-17-banquetes-francia",
+        "revision": 1,
+        "meta": {
+          "title": "Por qué la creciente popularidad de los banquetes masivos en Francia despierta recelos en la izquierda del país",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c39yk7nwllno",
+          "date_published": "2026-06-09",
+          "date_processed": "2026-06-17",
+          "tags": [
+            "cultura",
+            "sociedad"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "In France a new kind of event has become fashionable: huge open-air banquets in which hundreds of people gather to eat together at long tables. These meals, organised by the group Le Canon Français, aim to revive the tradition of the shared table and to celebrate the country's cuisine. For many participants, it is a joyful way to strengthen social ties and to champion French culinary culture.\n\nHowever, this phenomenon has also aroused suspicion on the left. Some critics argue that behind the festive image lies a nostalgic and conservative vision of France. Others, by contrast, defend it as an open form of community life for everyone. Be that as it may, what began as a gastronomic celebration has become a hot political topic, and the debate does not look likely to die down soon.",
+        "resumen_es": "En Francia se ha puesto de moda un nuevo tipo de evento: los banquetes masivos al aire libre, en los que cientos de personas se reúnen para comer juntas en largas mesas. Estas comidas, organizadas por el colectivo Le Canon Français, buscan recuperar la tradición de la mesa compartida y celebrar la gastronomía del país. Para muchos participantes, se trata de una manera alegre de reforzar los lazos sociales y de reivindicar la cultura culinaria francesa.\n\nNo obstante, este fenómeno también ha despertado recelos en la izquierda. Algunos críticos sostienen que detrás de la imagen festiva se esconde una visión nostálgica y conservadora de Francia. Otros, en cambio, defienden que es una forma de convivencia abierta a todos. Sea como sea, lo que empezó como una celebración gastronómica se ha convertido en un tema político candente, y el debate no parece que vaya a apagarse pronto.",
+        "vocab": [
+          {
+            "front": "ponerse de moda",
+            "pos": "phrase",
+            "back": "to become fashionable",
+            "example": "Esos eventos se han puesto de moda este verano.",
+            "tier": "B1"
+          },
+          {
+            "front": "el banquete",
+            "pos": "noun",
+            "back": "banquet, feast",
+            "example": "Organizaron un banquete para mil personas.",
+            "tier": "B2"
+          },
+          {
+            "front": "al aire libre",
+            "pos": "phrase",
+            "back": "outdoors, in the open air",
+            "example": "La comida se celebra al aire libre.",
+            "tier": "B1"
+          },
+          {
+            "front": "reunirse",
+            "pos": "verb",
+            "back": "to gather, to meet up",
+            "example": "Cientos de personas se reúnen para comer.",
+            "tier": "B1"
+          },
+          {
+            "front": "la mesa compartida",
+            "pos": "noun",
+            "back": "the shared table",
+            "example": "Defienden la tradición de la mesa compartida.",
+            "tier": "B2"
+          },
+          {
+            "front": "reforzar los lazos",
+            "pos": "phrase",
+            "back": "to strengthen ties",
+            "example": "Estas fiestas refuerzan los lazos sociales.",
+            "tier": "B2"
+          },
+          {
+            "front": "reivindicar",
+            "pos": "verb",
+            "back": "to claim, to champion",
+            "example": "Quieren reivindicar la cultura local.",
+            "tier": "C1"
+          },
+          {
+            "front": "despertar recelos",
+            "pos": "phrase",
+            "back": "to arouse suspicion",
+            "example": "La iniciativa despierta recelos en algunos sectores.",
+            "tier": "C1"
+          },
+          {
+            "front": "nostálgico/a",
+            "pos": "adj",
+            "back": "nostalgic",
+            "example": "Tiene una visión nostálgica del pasado.",
+            "tier": "B2"
+          },
+          {
+            "front": "conservador/a",
+            "pos": "adj",
+            "back": "conservative",
+            "example": "Es una idea bastante conservadora.",
+            "tier": "B1"
+          },
+          {
+            "front": "la convivencia",
+            "pos": "noun",
+            "back": "coexistence, living together",
+            "example": "Promueven la convivencia entre vecinos.",
+            "tier": "B2"
+          },
+          {
+            "front": "candente",
+            "pos": "adj",
+            "back": "burning, hot (topic)",
+            "example": "Es un tema político candente.",
+            "tier": "C1"
+          },
+          {
+            "front": "esconderse",
+            "pos": "verb",
+            "back": "to hide, to lie behind",
+            "example": "Detrás de la imagen se esconde otra realidad.",
+            "tier": "B2"
+          },
+          {
+            "front": "apagarse",
+            "pos": "verb",
+            "back": "to die down, to fade",
+            "example": "El debate no parece apagarse.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "En Francia se ha puesto de moda un nuevo tipo de evento",
+            "point": "'Ponerse de moda' en pretérito perfecto",
+            "explanation": "'Ponerse de moda' significa volverse popular. En pretérito perfecto ('se ha puesto') se conecta el pasado reciente con el presente.",
+            "why_tricky": "'Ponerse' es pronominal y cambia de significado respecto a 'poner'; además concuerda con el sujeto que aparece después."
+          },
+          {
+            "sentence": "lo que empezó como una celebración gastronómica se ha convertido en un tema político candente",
+            "point": "Relativo neutro 'lo que' + 'convertirse en'",
+            "explanation": "'Lo que' introduce una idea sin nombrarla directamente. 'Convertirse en' indica una transformación.",
+            "why_tricky": "Se confunde 'lo que' con 'que' o 'el que'; y 'convertirse en' exige la preposición 'en'."
+          },
+          {
+            "sentence": "no parece que vaya a apagarse pronto",
+            "point": "Subjuntivo tras 'no parecer que' + 'ir a + infinitivo'",
+            "explanation": "La negación 'no parece que' introduce duda y exige subjuntivo ('vaya'). 'Ir a + infinitivo' expresa futuro próximo.",
+            "why_tricky": "En afirmativo ('parece que va') se usa indicativo, pero en negativo se cambia al subjuntivo."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "sea como sea",
+            "meaning": "de cualquier manera, pase lo que pase",
+            "example": "Sea como sea, el debate continuará."
+          },
+          {
+            "phrase": "un tema candente",
+            "meaning": "un asunto polémico y de mucha actualidad",
+            "example": "La inmigración es un tema candente en la campaña."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿En qué consisten los banquetes masivos que se celebran en Francia?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué algunos sectores de la izquierda desconfían de este fenómeno?",
+            "type": "open"
+          },
+          {
+            "q": "¿Cómo ha pasado una celebración gastronómica a ser un tema político?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Piensas que las tradiciones gastronómicas pueden tener un significado político? Escribe tu opinión con ejemplos de tu propio país."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-17-cuba-hoteles-retirada",
+      "title": "Qué supone para Cuba la retirada de las principales multinacionales hoteleras que operaban en el país",
+      "source": "BBC Mundo",
+      "date": "2026-06-04",
+      "level": "B1-B2",
+      "topics": [
+        "economía",
+        "turismo"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-17-cuba-hoteles-retirada",
+        "revision": 1,
+        "meta": {
+          "title": "Qué supone para Cuba la retirada de las principales multinacionales hoteleras que operaban en el país",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c1423m4m482o",
+          "date_published": "2026-06-04",
+          "date_processed": "2026-06-17",
+          "tags": [
+            "economía",
+            "turismo"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Cuban tourism is going through one of its most difficult moments. Several of the main international hotel chains, such as Meliá, Iberostar or Blue Diamond, have announced their withdrawal from the island. Behind this decision lie the new United States sanctions against Gaesa, the military conglomerate that controls much of the country's tourism sector. For many Cubans, the departure of these companies is a hard blow to an economy that was already weakened.\n\nThe consequences could be felt for a long time. Tourism is one of the main sources of foreign currency for Cuba, so the departure of the big chains threatens to reduce income and destroy jobs. Moreover, without foreign investment it is harder to maintain and renovate the hotels. Although the government hopes to attract new partners, the short-term outlook looks uncertain, and many fear that recovery will be slow to arrive.",
+        "resumen_es": "El turismo cubano atraviesa uno de sus momentos más difíciles. Varias de las principales cadenas hoteleras internacionales, como Meliá, Iberostar o Blue Diamond, han anunciado su retirada de la isla. Detrás de esta decisión están las nuevas sanciones de Estados Unidos contra Gaesa, el conglomerado militar que controla buena parte del sector turístico del país. Para muchos cubanos, la salida de estas empresas supone un duro golpe a una economía que ya estaba debilitada.\n\nLas consecuencias podrían sentirse durante mucho tiempo. El turismo es una de las principales fuentes de divisas para Cuba, de modo que la marcha de las grandes cadenas amenaza con reducir los ingresos y destruir empleos. Además, sin la inversión extranjera, resulta más complicado mantener y renovar los hoteles. Aunque el gobierno confía en atraer a nuevos socios, el panorama a corto plazo se presenta incierto y muchos temen que la recuperación tarde en llegar.",
+        "vocab": [
+          {
+            "front": "atravesar (una crisis)",
+            "pos": "verb",
+            "back": "to go through (a crisis)",
+            "example": "El país atraviesa una crisis económica.",
+            "tier": "B2"
+          },
+          {
+            "front": "la cadena hotelera",
+            "pos": "noun",
+            "back": "hotel chain",
+            "example": "Varias cadenas hoteleras abandonan la isla.",
+            "tier": "B2"
+          },
+          {
+            "front": "la retirada",
+            "pos": "noun",
+            "back": "withdrawal, pull-out",
+            "example": "Anunciaron la retirada de sus negocios.",
+            "tier": "B2"
+          },
+          {
+            "front": "las sanciones",
+            "pos": "noun",
+            "back": "sanctions",
+            "example": "Las sanciones afectan a la economía.",
+            "tier": "B2"
+          },
+          {
+            "front": "el conglomerado",
+            "pos": "noun",
+            "back": "conglomerate",
+            "example": "Un conglomerado controla el sector.",
+            "tier": "C1"
+          },
+          {
+            "front": "un duro golpe",
+            "pos": "phrase",
+            "back": "a hard blow",
+            "example": "Es un duro golpe para los trabajadores.",
+            "tier": "B2"
+          },
+          {
+            "front": "debilitado/a",
+            "pos": "adj",
+            "back": "weakened",
+            "example": "La economía ya estaba debilitada.",
+            "tier": "B2"
+          },
+          {
+            "front": "las divisas",
+            "pos": "noun",
+            "back": "foreign currency",
+            "example": "El turismo aporta muchas divisas.",
+            "tier": "C1"
+          },
+          {
+            "front": "los ingresos",
+            "pos": "noun",
+            "back": "income, revenue",
+            "example": "Los ingresos del país han bajado.",
+            "tier": "B1"
+          },
+          {
+            "front": "la inversión extranjera",
+            "pos": "noun",
+            "back": "foreign investment",
+            "example": "Necesitan inversión extranjera para crecer.",
+            "tier": "B2"
+          },
+          {
+            "front": "el socio",
+            "pos": "noun",
+            "back": "partner (business)",
+            "example": "Buscan nuevos socios para los hoteles.",
+            "tier": "B1"
+          },
+          {
+            "front": "incierto/a",
+            "pos": "adj",
+            "back": "uncertain",
+            "example": "El futuro se presenta incierto.",
+            "tier": "B2"
+          },
+          {
+            "front": "la recuperación",
+            "pos": "noun",
+            "back": "recovery",
+            "example": "La recuperación económica será lenta.",
+            "tier": "B1"
+          },
+          {
+            "front": "amenazar con",
+            "pos": "verb",
+            "back": "to threaten to",
+            "example": "La crisis amenaza con destruir empleos.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El turismo cubano atraviesa uno de sus momentos más difíciles",
+            "point": "Superlativo relativo: 'uno de los más...'",
+            "explanation": "La estructura 'uno de + los/sus + sustantivo + más + adjetivo' expresa que algo está entre los más destacados de un grupo.",
+            "why_tricky": "Hay que mantener la concordancia ('uno de sus momentos más difíciles') y no olvidar el artículo o posesivo."
+          },
+          {
+            "sentence": "de modo que la marcha de las grandes cadenas amenaza con reducir los ingresos",
+            "point": "'De modo que' + 'amenazar con + infinitivo'",
+            "explanation": "'De modo que' introduce una consecuencia. 'Amenazar con + infinitivo' indica un peligro probable.",
+            "why_tricky": "'Amenazar' lleva la preposición 'con' antes del infinitivo, algo que el inglés no necesita."
+          },
+          {
+            "sentence": "muchos temen que la recuperación tarde en llegar",
+            "point": "Subjuntivo tras 'temer que' + 'tardar en + infinitivo'",
+            "explanation": "El verbo 'temer' expresa emoción y exige subjuntivo ('tarde'). 'Tardar en + infinitivo' significa demorarse en hacer algo.",
+            "why_tricky": "Se olvida el subjuntivo y se confunde 'tardar en' con 'tardar' a secas."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "un duro golpe",
+            "meaning": "un acontecimiento muy perjudicial",
+            "example": "El cierre de la fábrica fue un duro golpe para el pueblo."
+          },
+          {
+            "phrase": "a corto plazo",
+            "meaning": "en un periodo de tiempo breve",
+            "example": "A corto plazo, la situación no mejorará."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué se retiran las grandes cadenas hoteleras de Cuba?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué papel tiene el turismo en la economía cubana?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué el panorama a corto plazo se presenta incierto?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Hasta qué punto crees que un país debería depender del turismo para su economía? Argumenta tu respuesta."
+      }
+    },
     {
       "pack_id": "feed-2026-06-16-picasso-senoritas-avinon",
       "title": "\"Las señoritas de Avignon\", la obra más polémica de Picasso que sigue generando debate un siglo después",
