@@ -1,7 +1,493 @@
 {
-  "generated_at": "2026-06-18T10:42:54Z",
+  "generated_at": "2026-06-18T21:31:12Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-18-robin-hood-origenes",
+      "title": "\"No era un héroe\": cómo se borraron los oscuros y violentos orígenes medievales de Robin Hood",
+      "source": "BBC Mundo",
+      "date": "2026-06-18",
+      "level": "B1-B2",
+      "topics": [
+        "cultura",
+        "historia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-18-robin-hood-origenes",
+        "revision": 1,
+        "meta": {
+          "title": "\"No era un héroe\": cómo se borraron los oscuros y violentos orígenes medievales de Robin Hood",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cx2w51yrrqyo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-18",
+          "date_processed": "2026-06-18",
+          "tags": [
+            "cultura",
+            "historia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The figure of Robin Hood is once again at the centre of debate. For centuries we have imagined him as a noble hero who robbed the rich to share with the poor, but that very clean image hides far darker origins. According to the oldest medieval tales, the character was in fact a violent outlaw, far from the kind defender we know today.\n\nOver time, his more uncomfortable edges were gradually softened until he became a symbol of justice. However, this complexity is valuable, because it challenges a polarised world in which heroes and villains tend to be either completely good or completely bad. Perhaps that is why the myth remains so alive: it reminds us that almost no one fits entirely into a single category.",
+        "resumen_es": "La figura de Robin Hood vuelve a estar en el centro del debate. Durante siglos lo hemos imaginado como un héroe noble que robaba a los ricos para repartir entre los pobres, pero esa imagen tan limpia esconde unos orígenes mucho más oscuros. Según los relatos medievales más antiguos, el personaje era en realidad un forajido violento, lejos del defensor amable que conocemos hoy.\n\nCon el paso del tiempo, sus aristas más incómodas se fueron suavizando hasta convertirlo en un símbolo de justicia. Sin embargo, esta complejidad resulta valiosa, porque desafía a un mundo polarizado en el que los héroes y los villanos suelen ser o totalmente buenos o totalmente malos. Quizá por eso el mito sigue tan vivo: nos recuerda que casi nadie cabe del todo en una sola categoría.",
+        "vocab": [
+          {
+            "front": "forajido",
+            "pos": "noun",
+            "back": "outlaw, bandit",
+            "example": "El forajido huyó al bosque para escapar de la justicia.",
+            "tier": "B2"
+          },
+          {
+            "front": "repartir",
+            "pos": "verb",
+            "back": "to share out, distribute",
+            "example": "Decidieron repartir la comida entre todos los vecinos.",
+            "tier": "B1"
+          },
+          {
+            "front": "esconder",
+            "pos": "verb",
+            "back": "to hide, conceal",
+            "example": "Esa sonrisa esconde mucha tristeza.",
+            "tier": "B1"
+          },
+          {
+            "front": "aristas",
+            "pos": "noun",
+            "back": "rough edges, awkward sides",
+            "example": "Su carácter tiene muchas aristas difíciles.",
+            "tier": "C1"
+          },
+          {
+            "front": "suavizar",
+            "pos": "verb",
+            "back": "to soften, tone down",
+            "example": "Intentó suavizar el tono de la crítica.",
+            "tier": "B2"
+          },
+          {
+            "front": "polarizado",
+            "pos": "adj",
+            "back": "polarised, divided",
+            "example": "Vivimos en un país muy polarizado.",
+            "tier": "B2"
+          },
+          {
+            "front": "desafiar",
+            "pos": "verb",
+            "back": "to challenge, defy",
+            "example": "Sus ideas desafían lo que creíamos saber.",
+            "tier": "B2"
+          },
+          {
+            "front": "villano",
+            "pos": "noun",
+            "back": "villain",
+            "example": "En cada cuento hay un héroe y un villano.",
+            "tier": "B1"
+          },
+          {
+            "front": "soler",
+            "pos": "verb",
+            "back": "to usually do something",
+            "example": "Suelo levantarme temprano los lunes.",
+            "tier": "B1"
+          },
+          {
+            "front": "relato",
+            "pos": "noun",
+            "back": "tale, account, story",
+            "example": "Nos contó un relato fascinante sobre su viaje.",
+            "tier": "B1"
+          },
+          {
+            "front": "caber",
+            "pos": "verb",
+            "back": "to fit (into)",
+            "example": "No cabe nadie más en el ascensor.",
+            "tier": "B2"
+          },
+          {
+            "front": "complejidad",
+            "pos": "noun",
+            "back": "complexity",
+            "example": "La complejidad del problema nos sorprendió.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Durante siglos lo hemos imaginado como un héroe noble que robaba a los ricos para repartir entre los pobres, pero esa imagen tan limpia esconde unos orígenes mucho más oscuros.",
+            "point": "Pretérito perfecto compuesto frente al imperfecto",
+            "explanation": "'Hemos imaginado' usa el perfecto compuesto para una creencia que sigue vigente hoy, mientras 'robaba' usa el imperfecto para describir una acción habitual en el pasado.",
+            "why_tricky": "Los aprendices suelen mezclar ambos tiempos; aquí conviven en la misma frase con funciones distintas."
+          },
+          {
+            "sentence": "Con el paso del tiempo, sus aristas más incómodas se fueron suavizando hasta convertirlo en un símbolo de justicia.",
+            "point": "Perífrasis 'ir + gerundio'",
+            "explanation": "'Se fueron suavizando' expresa un cambio gradual y progresivo a lo largo del tiempo, no un hecho puntual.",
+            "why_tricky": "Es fácil traducirlo por un simple pasado y perder el matiz de proceso lento."
+          },
+          {
+            "sentence": "Sin embargo, esta complejidad resulta valiosa, porque desafía a un mundo polarizado en el que los héroes y los villanos suelen ser o totalmente buenos o totalmente malos.",
+            "point": "Perífrasis 'soler + infinitivo'",
+            "explanation": "'Suelen ser' indica algo habitual o típico, equivalente a 'normalmente son'.",
+            "why_tricky": "'Soler' no tiene traducción directa en inglés y se omite con frecuencia por error."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "tener dos caras",
+            "meaning": "to be two-faced; to have a hidden, contradictory side",
+            "example": "Ese político tiene dos caras: una en público y otra en privado."
+          },
+          {
+            "phrase": "con el paso del tiempo",
+            "meaning": "as time goes by, eventually",
+            "example": "Con el paso del tiempo, aprendió a perdonar."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué la imagen tradicional de Robin Hood resulta engañosa según el texto?",
+            "type": "open"
+          },
+          {
+            "q": "¿Cómo cambió el personaje con el paso del tiempo?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué crítica hace el texto sobre la forma en que vemos a los héroes y a los villanos?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que las personas reales pueden dividirse en héroes y villanos, o la mayoría somos una mezcla de ambos? Escribe un párrafo defendiendo tu postura con ejemplos."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-18-calor-cuerpo",
+      "title": "¡Qué calor! Por qué no somos todos iguales ante las altas temperaturas",
+      "source": "RFI Español",
+      "date": "2026-06-18",
+      "level": "B1-B2",
+      "topics": [
+        "ciencia",
+        "salud"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-18-calor-cuerpo",
+        "revision": 1,
+        "meta": {
+          "title": "¡Qué calor! Por qué no somos todos iguales ante las altas temperaturas",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/programas/salud-y-bienestar/20260618-qu%C3%A9-calor-por-qu%C3%A9-no-somos-todos-iguales-ante-el-calor",
+          "date_published": "2026-06-18",
+          "date_processed": "2026-06-18",
+          "tags": [
+            "ciencia",
+            "salud"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "With the arrival of summer and the first heatwaves, a question many people ask comes back: why don't we all feel the temperature in the same way? While some sweat at the slightest heat, others seem to put up with the stifling weather without batting an eye. Science explains that many factors are involved, from sex and age to the way each body regulates its own heat.\n\nOur body has thermoregulation mechanisms that keep a stable temperature, and even the mitochondria in our cells play a key role in that process. That is why simple gestures like taking a cold shower do not always work the same for everyone. Understanding these differences is becoming more and more important, especially on a planet where extreme temperatures are increasingly frequent and long-lasting.",
+        "resumen_es": "Con la llegada del verano y de las primeras olas de calor, vuelve una pregunta que muchos se hacen: ¿por qué no todos sentimos la temperatura de la misma manera? Mientras unos sudan a la mínima, otros parecen aguantar el bochorno sin apenas inmutarse. La ciencia explica que intervienen muchos factores, desde el sexo y la edad hasta la forma en que cada cuerpo regula su propio calor.\n\nNuestro organismo cuenta con mecanismos de termorregulación que mantienen una temperatura estable, y en ese proceso juegan un papel clave hasta las mitocondrias de nuestras células. Por eso, gestos tan sencillos como darse una ducha fría no siempre funcionan igual para todos. Entender estas diferencias resulta cada vez más importante, sobre todo en un planeta donde las temperaturas extremas son cada vez más frecuentes y duraderas.",
+        "vocab": [
+          {
+            "front": "ola de calor",
+            "pos": "phrase",
+            "back": "heatwave",
+            "example": "Una fuerte ola de calor azotó el sur del país.",
+            "tier": "B1"
+          },
+          {
+            "front": "sudar",
+            "pos": "verb",
+            "back": "to sweat",
+            "example": "Empecé a sudar nada más salir a la calle.",
+            "tier": "B1"
+          },
+          {
+            "front": "bochorno",
+            "pos": "noun",
+            "back": "stifling, muggy heat",
+            "example": "El bochorno de agosto es insoportable en la ciudad.",
+            "tier": "B2"
+          },
+          {
+            "front": "inmutarse",
+            "pos": "verb",
+            "back": "to be fazed, to flinch",
+            "example": "Recibió la noticia sin inmutarse.",
+            "tier": "C1"
+          },
+          {
+            "front": "aguantar",
+            "pos": "verb",
+            "back": "to put up with, to endure",
+            "example": "No sé cómo aguantas tanto ruido.",
+            "tier": "B1"
+          },
+          {
+            "front": "termorregulación",
+            "pos": "noun",
+            "back": "thermoregulation",
+            "example": "La termorregulación permite mantener el cuerpo a treinta y siete grados.",
+            "tier": "C1"
+          },
+          {
+            "front": "mecanismo",
+            "pos": "noun",
+            "back": "mechanism",
+            "example": "El cuerpo tiene mecanismos de defensa muy eficaces.",
+            "tier": "B1"
+          },
+          {
+            "front": "célula",
+            "pos": "noun",
+            "back": "cell",
+            "example": "El cuerpo humano está formado por millones de células.",
+            "tier": "B1"
+          },
+          {
+            "front": "duradero",
+            "pos": "adj",
+            "back": "long-lasting",
+            "example": "Buscan una solución duradera al problema.",
+            "tier": "B2"
+          },
+          {
+            "front": "gesto",
+            "pos": "noun",
+            "back": "gesture, small act",
+            "example": "Un pequeño gesto de amabilidad cambió su día.",
+            "tier": "B1"
+          },
+          {
+            "front": "intervenir",
+            "pos": "verb",
+            "back": "to be involved, to intervene",
+            "example": "En este fenómeno intervienen varios factores.",
+            "tier": "B2"
+          },
+          {
+            "front": "regular",
+            "pos": "verb",
+            "back": "to regulate",
+            "example": "El sudor ayuda a regular la temperatura corporal.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Mientras unos sudan a la mínima, otros parecen aguantar el bochorno sin apenas inmutarse.",
+            "point": "Contraste con 'mientras' y 'parecer + infinitivo'",
+            "explanation": "'Mientras' contrapone dos grupos de personas; 'parecen aguantar' usa parecer más infinitivo para expresar una impresión.",
+            "why_tricky": "'Parecer + infinitivo' no lleva 'que' y los aprendices tienden a añadirlo."
+          },
+          {
+            "sentence": "La ciencia explica que intervienen muchos factores, desde el sexo y la edad hasta la forma en que cada cuerpo regula su propio calor.",
+            "point": "Estructura de rango 'desde... hasta'",
+            "explanation": "'Desde... hasta' enumera los extremos de una serie de factores, abarcando todo lo que hay entre ellos.",
+            "why_tricky": "Es fácil olvidar que ambos elementos deben ser del mismo tipo gramatical."
+          },
+          {
+            "sentence": "Entender estas diferencias resulta cada vez más importante, sobre todo en un planeta donde las temperaturas extremas son cada vez más frecuentes y duraderas.",
+            "point": "Intensidad creciente con 'cada vez más'",
+            "explanation": "'Cada vez más' indica que algo aumenta de forma progresiva y continua.",
+            "why_tricky": "Se confunde con 'más y más' y a veces se coloca mal respecto al adjetivo."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "sudar la gota gorda",
+            "meaning": "to sweat buckets; to struggle hard to do something",
+            "example": "Sudé la gota gorda para terminar el proyecto a tiempo."
+          },
+          {
+            "phrase": "cada vez más",
+            "meaning": "more and more, increasingly",
+            "example": "Cada vez más gente prefiere trabajar desde casa."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué no todas las personas sienten el calor de la misma forma, según el texto?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué papel cumplen las mitocondrias en la regulación de la temperatura?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué dice el texto que entender estas diferencias es cada vez más importante?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Cómo afrontas tú las olas de calor en verano? Describe tus trucos para combatir el bochorno y explica si crees que las ciudades están preparadas para temperaturas cada vez más extremas."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-18-colombia-salud",
+      "title": "Colombia: La crisis del sistema de salud, un desafío para el próximo mandatario",
+      "source": "RFI Español",
+      "date": "2026-06-18",
+      "level": "B1-B2",
+      "topics": [
+        "sociedad",
+        "política"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-18-colombia-salud",
+        "revision": 1,
+        "meta": {
+          "title": "Colombia: La crisis del sistema de salud, un desafío para el próximo mandatario",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/programas/noticias-de-am%C3%A9rica/20260618-colombia-la-crisis-del-sistema-de-salud-un-desaf%C3%ADo-para-el-pr%C3%B3ximo-mandatario",
+          "date_published": "2026-06-18",
+          "date_processed": "2026-06-18",
+          "tags": [
+            "sociedad",
+            "política"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "A few days before the second round of voting, the crisis in the health system has become one of the big topics of conversation in Colombia. The current model, which combines the public and the private, leaves many people without the coverage they need just when they need it most. Long waits and the lack of medicines create deep frustration among citizens.\n\nWhoever wins the elections will inherit an enormous challenge: guaranteeing decent care without the system finally collapsing. Reforming health is not a simple task, since it means balancing public resources, private interests and the needs of millions of patients. For now, the debate remains open and promises to shape much of the next leader's agenda.",
+        "resumen_es": "A pocos días de la segunda vuelta electoral, la crisis del sistema de salud se ha convertido en uno de los grandes temas de conversación en Colombia. El modelo actual, que combina lo público y lo privado, deja a muchas personas sin la cobertura que necesitan justo cuando más lo necesitan. Las largas esperas y la falta de medicamentos generan una profunda frustración entre los ciudadanos.\n\nQuien gane las elecciones heredará un desafío enorme: garantizar una atención digna sin que el sistema termine de colapsar. Reformar la salud no es una tarea sencilla, ya que implica equilibrar los recursos públicos, los intereses privados y las necesidades de millones de pacientes. Por ahora, el debate sigue abierto y promete marcar buena parte de la agenda del próximo mandatario.",
+        "vocab": [
+          {
+            "front": "segunda vuelta",
+            "pos": "phrase",
+            "back": "runoff, second round (of an election)",
+            "example": "El candidato pasó a la segunda vuelta con ventaja.",
+            "tier": "B1"
+          },
+          {
+            "front": "cobertura",
+            "pos": "noun",
+            "back": "coverage",
+            "example": "El seguro ofrece una cobertura médica completa.",
+            "tier": "B1"
+          },
+          {
+            "front": "heredar",
+            "pos": "verb",
+            "back": "to inherit",
+            "example": "El nuevo gobierno hereda una economía débil.",
+            "tier": "B2"
+          },
+          {
+            "front": "desafío",
+            "pos": "noun",
+            "back": "challenge",
+            "example": "Aprender otro idioma es todo un desafío.",
+            "tier": "B1"
+          },
+          {
+            "front": "digno",
+            "pos": "adj",
+            "back": "decent, dignified",
+            "example": "Todos merecen una vivienda digna.",
+            "tier": "B2"
+          },
+          {
+            "front": "colapsar",
+            "pos": "verb",
+            "back": "to collapse",
+            "example": "El tráfico colapsó el centro de la ciudad.",
+            "tier": "B2"
+          },
+          {
+            "front": "equilibrar",
+            "pos": "verb",
+            "back": "to balance",
+            "example": "Es difícil equilibrar el trabajo y la familia.",
+            "tier": "B2"
+          },
+          {
+            "front": "recursos",
+            "pos": "noun",
+            "back": "resources",
+            "example": "El hospital carece de recursos suficientes.",
+            "tier": "B1"
+          },
+          {
+            "front": "medicamento",
+            "pos": "noun",
+            "back": "medicine, drug",
+            "example": "Tomó el medicamento que le recetó el médico.",
+            "tier": "B1"
+          },
+          {
+            "front": "mandatario",
+            "pos": "noun",
+            "back": "head of state, leader",
+            "example": "El mandatario se reunió con sus ministros.",
+            "tier": "B2"
+          },
+          {
+            "front": "atención",
+            "pos": "noun",
+            "back": "care, attention (medical)",
+            "example": "La atención médica fue rápida y amable.",
+            "tier": "B1"
+          },
+          {
+            "front": "implicar",
+            "pos": "verb",
+            "back": "to involve, to imply",
+            "example": "Este cambio implica mucho esfuerzo.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Quien gane las elecciones heredará un desafío enorme: garantizar una atención digna sin que el sistema termine de colapsar.",
+            "point": "Subjuntivo con antecedente indefinido y 'sin que'",
+            "explanation": "'Quien gane' usa subjuntivo porque aún no se sabe quién ganará; 'sin que termine' exige subjuntivo tras 'sin que'.",
+            "why_tricky": "Aparecen dos subjuntivos seguidos con disparadores distintos en una sola frase."
+          },
+          {
+            "sentence": "El modelo actual, que combina lo público y lo privado, deja a muchas personas sin la cobertura que necesitan justo cuando más lo necesitan.",
+            "point": "Artículo neutro 'lo' + adjetivo",
+            "explanation": "'Lo público' y 'lo privado' convierten adjetivos en conceptos abstractos, equivalentes a 'lo que es público'.",
+            "why_tricky": "El 'lo' neutro no existe en inglés y se confunde con el artículo masculino 'el'."
+          },
+          {
+            "sentence": "Reformar la salud no es una tarea sencilla, ya que implica equilibrar los recursos públicos, los intereses privados y las necesidades de millones de pacientes.",
+            "point": "Infinitivo como sujeto y conector 'ya que'",
+            "explanation": "'Reformar' funciona como sujeto de la oración; 'ya que' introduce la causa.",
+            "why_tricky": "En inglés se usaría un gerundio, lo que lleva a errores al traducir."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "estar en boca de todos",
+            "meaning": "to be the talk of the town, on everyone's lips",
+            "example": "El escándalo está en boca de todos."
+          },
+          {
+            "phrase": "por ahora",
+            "meaning": "for now, for the time being",
+            "example": "Por ahora no hay novedades sobre el caso."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué se ha convertido la salud en un tema central antes de la segunda vuelta?",
+            "type": "open"
+          },
+          {
+            "q": "Según el texto, ¿qué problemas concretos enfrentan los ciudadanos con el sistema actual?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué resulta tan complicado reformar el sistema de salud?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Qué papel crees que debe tener el Estado en la sanidad: pública, privada o una mezcla de ambas? Escribe un párrafo explicando tu opinión y compáralo con el sistema de tu país."
+      }
+    },
     {
       "pack_id": "feed-2026-06-18-cuerpo-futbolistas",
       "title": "Los gráficos que muestran cómo el cuerpo de los futbolistas ha cambiado en los últimos 50 años",
