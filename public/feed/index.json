@@ -1,7 +1,507 @@
 {
-  "generated_at": "2026-06-17T10:50:20Z",
+  "generated_at": "2026-06-18T10:42:54Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-18-cuerpo-futbolistas",
+      "title": "Los gráficos que muestran cómo el cuerpo de los futbolistas ha cambiado en los últimos 50 años",
+      "source": "BBC Mundo",
+      "date": "2026-06-18",
+      "level": "B1-B2",
+      "topics": [
+        "deporte",
+        "ciencia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-18-cuerpo-futbolistas",
+        "revision": 1,
+        "meta": {
+          "title": "Los gráficos que muestran cómo el cuerpo de los futbolistas ha cambiado en los últimos 50 años",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c9d2jnj01l8o",
+          "date_published": "2026-06-18",
+          "date_processed": "2026-06-18",
+          "tags": [
+            "deporte",
+            "ciencia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "A new BBC analysis uses several graphics to show how the bodies of elite footballers have changed over the last fifty years. Today's players tend to be taller, stronger and, above all, much faster than their predecessors. According to experts, the greater intensity of matches has forced athletes to train in a very different way.\n\nBehind this transformation lie advances in medicine and sport science. Nowadays, clubs carefully look after each player's diet, rest and recovery. On the one hand, this allows them to perform at the highest level for more seasons; on the other hand, it also increases the physical pressure on their bodies. Looking ahead, many wonder how far human performance in football will be able to go.",
+        "resumen_es": "Un nuevo análisis de la BBC muestra, a través de varios gráficos, cómo ha cambiado el cuerpo de los futbolistas de élite en los últimos cincuenta años. Los jugadores actuales suelen ser más altos, más fuertes y, sobre todo, mucho más rápidos que sus predecesores. Según los expertos, la mayor intensidad de los partidos ha obligado a los deportistas a entrenar de una forma muy distinta.\n\nDetrás de esta transformación se encuentran los avances en la medicina y en la ciencia del deporte. Hoy en día, los clubes cuidan con esmero la alimentación, el descanso y la recuperación de cada jugador. Por un lado, esto permite rendir al máximo nivel durante más temporadas; por otro lado, también aumenta la presión física sobre los cuerpos. De cara al futuro, muchos se preguntan hasta dónde podrá llegar el rendimiento humano en el fútbol.",
+        "vocab": [
+          {
+            "front": "el análisis",
+            "pos": "noun",
+            "back": "analysis",
+            "example": "El análisis revela datos muy interesantes.",
+            "tier": "B1"
+          },
+          {
+            "front": "a través de",
+            "pos": "phrase",
+            "back": "through, by means of",
+            "example": "Lo explicó a través de varios gráficos.",
+            "tier": "B1"
+          },
+          {
+            "front": "de élite",
+            "pos": "phrase",
+            "back": "elite, top-level",
+            "example": "Es un deportista de élite.",
+            "tier": "B2"
+          },
+          {
+            "front": "el predecesor",
+            "pos": "noun",
+            "back": "predecessor",
+            "example": "Superó las marcas de todos sus predecesores.",
+            "tier": "B2"
+          },
+          {
+            "front": "obligar a",
+            "pos": "verb",
+            "back": "to force to",
+            "example": "La crisis nos obligó a cambiar de planes.",
+            "tier": "B2"
+          },
+          {
+            "front": "entrenar",
+            "pos": "verb",
+            "back": "to train",
+            "example": "Entrena cada día por la mañana.",
+            "tier": "B1"
+          },
+          {
+            "front": "el avance",
+            "pos": "noun",
+            "back": "advance, progress",
+            "example": "Los avances médicos salvan muchas vidas.",
+            "tier": "B1"
+          },
+          {
+            "front": "con esmero",
+            "pos": "phrase",
+            "back": "with great care",
+            "example": "Preparó la comida con esmero.",
+            "tier": "B2"
+          },
+          {
+            "front": "el descanso",
+            "pos": "noun",
+            "back": "rest",
+            "example": "El descanso es clave para el cuerpo.",
+            "tier": "B1"
+          },
+          {
+            "front": "la recuperación",
+            "pos": "noun",
+            "back": "recovery",
+            "example": "La recuperación tras la lesión fue lenta.",
+            "tier": "B1"
+          },
+          {
+            "front": "rendir",
+            "pos": "verb",
+            "back": "to perform, to yield",
+            "example": "El equipo rindió a un gran nivel.",
+            "tier": "B2"
+          },
+          {
+            "front": "de cara al futuro",
+            "pos": "phrase",
+            "back": "looking ahead",
+            "example": "De cara al futuro, hay que invertir más.",
+            "tier": "B2"
+          },
+          {
+            "front": "el rendimiento",
+            "pos": "noun",
+            "back": "performance, output",
+            "example": "Mejoró mucho su rendimiento físico.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Según los expertos, la mayor intensidad de los partidos ha obligado a los deportistas a entrenar de una forma muy distinta.",
+            "point": "Pretérito perfecto + construcción 'obligar a + infinitivo'",
+            "explanation": "'Ha obligado' es pretérito perfecto (haber + participio) para un cambio con efecto en el presente. 'Obligar a' rige la preposición 'a' antes del infinitivo 'entrenar'.",
+            "why_tricky": "Es fácil olvidar la preposición 'a' y decir 'obligado entrenar', que es incorrecto."
+          },
+          {
+            "sentence": "Por un lado, esto permite rendir al máximo nivel durante más temporadas; por otro lado, también aumenta la presión física sobre los cuerpos.",
+            "point": "Conectores de contraste 'por un lado... por otro lado'",
+            "explanation": "Estos conectores presentan dos caras de la misma idea: una ventaja y un inconveniente. Ordenan el discurso y muestran un razonamiento equilibrado.",
+            "why_tricky": "Hay que usar los dos miembros; usar solo 'por un lado' deja la frase incompleta."
+          },
+          {
+            "sentence": "De cara al futuro, muchos se preguntan hasta dónde podrá llegar el rendimiento humano en el fútbol.",
+            "point": "Futuro simple + pregunta indirecta",
+            "explanation": "'Podrá' es futuro de probabilidad o previsión. 'Hasta dónde' introduce una pregunta indirecta dentro de la oración, por eso no lleva signos de interrogación.",
+            "why_tricky": "Las preguntas indirectas mantienen el orden de la afirmación y no llevan '¿ ?'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "sobre todo",
+            "meaning": "above all, especially",
+            "example": "Me gusta el deporte, sobre todo el fútbol."
+          },
+          {
+            "phrase": "hoy en día",
+            "meaning": "nowadays, these days",
+            "example": "Hoy en día casi todo el mundo usa el móvil."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Cómo han cambiado físicamente los futbolistas en los últimos cincuenta años?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué factores explican esta transformación, según el texto?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué ventajas y qué riesgos tiene este cambio para los jugadores?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que el deporte profesional exige demasiado al cuerpo de los atletas? Escribe un párrafo con tu opinión y un ejemplo."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-18-travesia-pacifico-remo",
+      "title": "La increíble travesía del joven que cruzó el Pacífico a remo en solitario desde Perú durante 15 meses",
+      "source": "BBC Mundo",
+      "date": "2026-06-17",
+      "level": "B1-B2",
+      "topics": [
+        "aventura",
+        "viajes"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-18-travesia-pacifico-remo",
+        "revision": 1,
+        "meta": {
+          "title": "La increíble travesía del joven que cruzó el Pacífico a remo en solitario desde Perú durante 15 meses",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cd0me51kr5ko",
+          "date_published": "2026-06-17",
+          "date_processed": "2026-06-18",
+          "tags": [
+            "aventura",
+            "viajes"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Tom Robinson, a young adventurer, rowed across the Pacific Ocean alone after fifteen months of travel. He set off from the coast of Peru and faced, day after day, the waves, loneliness and exhaustion. Thanks to this feat, he became the youngest person to row the Pacific, an achievement that earned him a Guinness record.\n\nHowever, his crossing was much more than a sporting challenge. During those long months on the open sea, the young man had plenty of time to reflect on his life and rethink his priorities. He says the ocean taught him to value simple things and to know himself better. Now that he has returned to dry land, he claims the experience has changed him forever.",
+        "resumen_es": "Tom Robinson, un joven aventurero, cruzó el océano Pacífico a remo y en solitario tras quince meses de viaje. Partió desde la costa de Perú y se enfrentó, día tras día, a las olas, a la soledad y al cansancio. Gracias a esta hazaña, se convirtió en la persona más joven en remar el Pacífico, un logro que le valió un récord Guinness.\n\nSin embargo, su travesía fue mucho más que un desafío deportivo. Durante esos largos meses en alta mar, el joven tuvo tiempo de sobra para reflexionar sobre su vida y replantearse sus prioridades. Según cuenta, el océano le enseñó a valorar las cosas sencillas y a conocerse mejor a sí mismo. Ahora que ha vuelto a tierra firme, asegura que la experiencia lo ha cambiado para siempre.",
+        "vocab": [
+          {
+            "front": "la travesía",
+            "pos": "noun",
+            "back": "crossing, voyage",
+            "example": "La travesía en barco duró varias semanas.",
+            "tier": "B2"
+          },
+          {
+            "front": "a remo",
+            "pos": "phrase",
+            "back": "by rowing, with oars",
+            "example": "Cruzaron el lago a remo.",
+            "tier": "B2"
+          },
+          {
+            "front": "en solitario",
+            "pos": "phrase",
+            "back": "solo, on one's own",
+            "example": "Escaló la montaña en solitario.",
+            "tier": "B2"
+          },
+          {
+            "front": "la hazaña",
+            "pos": "noun",
+            "back": "feat, exploit",
+            "example": "Su hazaña asombró al mundo entero.",
+            "tier": "B2"
+          },
+          {
+            "front": "el logro",
+            "pos": "noun",
+            "back": "achievement",
+            "example": "Terminar la carrera fue un gran logro.",
+            "tier": "B1"
+          },
+          {
+            "front": "enfrentarse a",
+            "pos": "verb",
+            "back": "to face, to confront",
+            "example": "Se enfrentó a muchas dificultades.",
+            "tier": "B1"
+          },
+          {
+            "front": "el desafío",
+            "pos": "noun",
+            "back": "challenge",
+            "example": "Aceptó el desafío sin dudarlo.",
+            "tier": "B1"
+          },
+          {
+            "front": "replantearse",
+            "pos": "verb",
+            "back": "to rethink, to reconsider",
+            "example": "Decidió replantearse su futuro.",
+            "tier": "B2"
+          },
+          {
+            "front": "valorar",
+            "pos": "verb",
+            "back": "to value, to appreciate",
+            "example": "Aprendió a valorar a su familia.",
+            "tier": "B1"
+          },
+          {
+            "front": "tierra firme",
+            "pos": "phrase",
+            "back": "dry land",
+            "example": "Por fin llegaron a tierra firme.",
+            "tier": "B2"
+          },
+          {
+            "front": "en alta mar",
+            "pos": "phrase",
+            "back": "on the open sea",
+            "example": "La tormenta los sorprendió en alta mar.",
+            "tier": "B2"
+          },
+          {
+            "front": "la soledad",
+            "pos": "noun",
+            "back": "loneliness, solitude",
+            "example": "La soledad del viaje fue muy dura.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Gracias a esta hazaña, se convirtió en la persona más joven en remar el Pacífico, un logro que le valió un récord Guinness.",
+            "point": "Verbo pronominal 'convertirse en' + superlativo",
+            "explanation": "'Convertirse en' expresa un cambio de estado y siempre va con 'en'. 'La persona más joven en remar' combina superlativo con 'en + infinitivo'.",
+            "why_tricky": "Es habitual confundir 'convertirse en' con 'volverse', que se usa sin preposición y con adjetivos."
+          },
+          {
+            "sentence": "Durante esos largos meses en alta mar, el joven tuvo tiempo de sobra para reflexionar sobre su vida y replantearse sus prioridades.",
+            "point": "Pretérito indefinido + 'para + infinitivo' de finalidad",
+            "explanation": "'Tuvo' es pretérito indefinido para una acción acabada en el pasado. 'Para reflexionar' y 'replantearse' expresan la finalidad de ese tiempo.",
+            "why_tricky": "Los dos infinitivos dependen de un mismo 'para', algo fácil de pasar por alto."
+          },
+          {
+            "sentence": "Ahora que ha vuelto a tierra firme, asegura que la experiencia lo ha cambiado para siempre.",
+            "point": "'Ahora que' + pretérito perfecto y pronombre de objeto directo",
+            "explanation": "'Ahora que' introduce una causa actual. 'Ha vuelto' y 'ha cambiado' son pretérito perfecto; 'lo' es el objeto directo que se refiere al joven.",
+            "why_tricky": "El pronombre 'lo' va antes del verbo conjugado, no detrás."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "día tras día",
+            "meaning": "day after day, again and again",
+            "example": "Día tras día, fue ganando confianza."
+          },
+          {
+            "phrase": "para siempre",
+            "meaning": "forever, for good",
+            "example": "Aquel viaje lo marcó para siempre."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué logró Tom Robinson y por qué recibió un récord Guinness?",
+            "type": "open"
+          },
+          {
+            "q": "Según el texto, ¿cómo cambió la travesía la forma de pensar del joven?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué dificultades crees que son las más duras en un viaje así?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Te gustaría vivir una aventura larga en solitario? Explica por qué sí o por qué no en un breve párrafo."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-18-toy-story-pantallas",
+      "title": "Toy Story 5: por qué es la película más traumática del año para los padres",
+      "source": "BBC Mundo",
+      "date": "2026-06-18",
+      "level": "B1-B2",
+      "topics": [
+        "cine",
+        "tecnología"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-18-toy-story-pantallas",
+        "revision": 1,
+        "meta": {
+          "title": "Toy Story 5: por qué es la película más traumática del año para los padres",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cgjxlpqxp5po",
+          "date_published": "2026-06-18",
+          "date_processed": "2026-06-18",
+          "tags": [
+            "cine",
+            "tecnología"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Pixar's new film, Toy Story 5, is getting a lot of attention from adult audiences. According to several critics, it is the most unsettling installment in the saga, especially for parents. This time, the famous toys face an unexpected rival: the screens, social media and digital devices that today capture children's attention.\n\nBeyond entertainment, the film raises an uncomfortable reflection about childhood today. Through its characters, it portrays the loneliness that the youngest can feel when they spend too much time connected. For this reason, many viewers leave the cinema thinking about how their children use technology. Deep down, Toy Story 5 does not only entertain, but it also invites families to talk about a delicate subject.",
+        "resumen_es": "La nueva película de Pixar, Toy Story 5, está dando mucho que hablar entre el público adulto. Según varios críticos, se trata de la entrega más inquietante de la saga, sobre todo para los padres. Y es que, en esta ocasión, los famosos juguetes se enfrentan a un rival inesperado: las pantallas, las redes sociales y los dispositivos digitales que hoy acaparan la atención de los niños.\n\nMás allá del entretenimiento, la película plantea una reflexión incómoda sobre la infancia actual. A través de sus personajes, retrata la soledad que pueden sentir los más pequeños cuando pasan demasiado tiempo conectados. Por eso, muchos espectadores salen del cine pensando en el uso que sus hijos hacen de la tecnología. En el fondo, Toy Story 5 no solo entretiene, sino que invita a las familias a hablar de un tema delicado.",
+        "vocab": [
+          {
+            "front": "la entrega",
+            "pos": "noun",
+            "back": "installment (of a series)",
+            "example": "Esperamos la próxima entrega de la saga.",
+            "tier": "B2"
+          },
+          {
+            "front": "inquietante",
+            "pos": "adj",
+            "back": "unsettling, disturbing",
+            "example": "La casa tenía un silencio inquietante.",
+            "tier": "B2"
+          },
+          {
+            "front": "la saga",
+            "pos": "noun",
+            "back": "saga, franchise",
+            "example": "La saga ya tiene cinco películas.",
+            "tier": "B1"
+          },
+          {
+            "front": "inesperado",
+            "pos": "adj",
+            "back": "unexpected",
+            "example": "Recibió una visita inesperada.",
+            "tier": "B1"
+          },
+          {
+            "front": "la pantalla",
+            "pos": "noun",
+            "back": "screen",
+            "example": "Pasa muchas horas frente a la pantalla.",
+            "tier": "B1"
+          },
+          {
+            "front": "el dispositivo",
+            "pos": "noun",
+            "back": "device",
+            "example": "Apaga los dispositivos antes de dormir.",
+            "tier": "B2"
+          },
+          {
+            "front": "acaparar",
+            "pos": "verb",
+            "back": "to monopolize, to hog",
+            "example": "El tema acaparó toda la atención.",
+            "tier": "C1"
+          },
+          {
+            "front": "plantear",
+            "pos": "verb",
+            "back": "to raise, to pose (a question)",
+            "example": "El libro plantea muchas dudas.",
+            "tier": "B2"
+          },
+          {
+            "front": "la infancia",
+            "pos": "noun",
+            "back": "childhood",
+            "example": "Tuvo una infancia muy feliz.",
+            "tier": "B1"
+          },
+          {
+            "front": "el espectador",
+            "pos": "noun",
+            "back": "viewer, spectator",
+            "example": "Los espectadores aplaudieron de pie.",
+            "tier": "B1"
+          },
+          {
+            "front": "delicado",
+            "pos": "adj",
+            "back": "delicate, sensitive",
+            "example": "Es un asunto muy delicado.",
+            "tier": "B1"
+          },
+          {
+            "front": "el entretenimiento",
+            "pos": "noun",
+            "back": "entertainment",
+            "example": "Busca un entretenimiento sano para los niños.",
+            "tier": "B1"
+          },
+          {
+            "front": "estar conectado",
+            "pos": "phrase",
+            "back": "to be connected, to be online",
+            "example": "Los jóvenes están siempre conectados.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Y es que, en esta ocasión, los famosos juguetes se enfrentan a un rival inesperado: las pantallas, las redes sociales y los dispositivos digitales que hoy acaparan la atención de los niños.",
+            "point": "Conector explicativo 'y es que' + oración de relativo",
+            "explanation": "'Y es que' introduce una explicación o justificación de lo dicho antes. 'Que hoy acaparan' es una oración de relativo que describe a los dispositivos.",
+            "why_tricky": "'Y es que' suena muy natural en español hablado, pero los estudiantes rara vez lo usan."
+          },
+          {
+            "sentence": "A través de sus personajes, retrata la soledad que pueden sentir los más pequeños cuando pasan demasiado tiempo conectados.",
+            "point": "Oración de relativo + 'cuando' con presente habitual",
+            "explanation": "'Que pueden sentir' es relativo con 'que' como objeto. 'Cuando pasan' usa presente para una acción habitual o general.",
+            "why_tricky": "El orden 'la soledad que pueden sentir los más pequeños' cambia el sujeto al final de la frase."
+          },
+          {
+            "sentence": "En el fondo, Toy Story 5 no solo entretiene, sino que invita a las familias a hablar de un tema delicado.",
+            "point": "Correlación 'no solo... sino que'",
+            "explanation": "'No solo... sino que' une dos ideas y añade información: la segunda parte amplía la primera. Se usa 'sino que' porque sigue un verbo conjugado.",
+            "why_tricky": "Se confunde 'sino' con 'si no'; aquí, al haber verbo, se necesita 'sino que'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "dar que hablar",
+            "meaning": "to get people talking, to cause a stir",
+            "example": "La noticia dio mucho que hablar en el pueblo."
+          },
+          {
+            "phrase": "en el fondo",
+            "meaning": "deep down, when it comes down to it",
+            "example": "En el fondo, todos queremos lo mismo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué dicen los críticos que Toy Story 5 es inquietante para los padres?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué problema de la infancia actual retrata la película?",
+            "type": "open"
+          },
+          {
+            "q": "¿Crees que el cine debe tratar temas tan serios en películas para niños?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Cuánto tiempo deberían pasar los niños frente a las pantallas? Da tu opinión y propón una solución."
+      }
+    },
     {
       "pack_id": "feed-2026-06-17-cosmeticorexia-ninas",
       "title": "Cosmeticorexia: cómo las niñas están cayendo en la peligrosa obsesión de tener una piel perfecta",
