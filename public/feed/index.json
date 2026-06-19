@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-06-18T21:31:12Z",
+  "generated_at": "2026-06-19T09:14:16Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-19-expresiones-futbol",
+      "title": "\"Cortita y al pie\", \"pecho frío\" y otras expresiones cotidianas que vienen del fútbol",
+      "source": "BBC Mundo",
+      "date": "2026-06-16",
+      "level": "B1-B2",
+      "topics": [
+        "idioma",
+        "fútbol"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-19-expresiones-futbol",
+        "revision": 1,
+        "meta": {
+          "title": "\"Cortita y al pie\", \"pecho frío\" y otras expresiones cotidianas que vienen del fútbol",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/ce371e210v0o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-16",
+          "date_processed": "2026-06-19",
+          "tags": [
+            "idioma",
+            "fútbol"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Football is not only played on the pitch: it has also left its mark on the way people speak. According to a BBC Mundo report, many words and expressions born in this sport have settled into the everyday life of Latin Americans and Spaniards. Phrases like 'cortita y al pie' or calling someone 'pecho frío' are no longer limited to the stadium, but appear in conversations about work, politics or love.\n\nWhat is curious is that some expressions are said almost the same in every country, though with small variations, while others are adaptations specific to each region. Behind this phenomenon lies the enormous cultural weight of football, which works like a shared language. So, without realising it, we turn to football metaphors to describe emotions, criticise a colleague or sum up a complicated situation. Learning these phrases not only enriches your vocabulary, but it also helps you understand the popular culture of the Spanish-speaking world.",
+        "resumen_es": "El fútbol no solo se juega en la cancha: también ha dejado su huella en la manera de hablar. Según BBC Mundo, muchas palabras y expresiones nacidas en este deporte se han instalado en la vida cotidiana de latinoamericanos y españoles. Frases como 'cortita y al pie' o llamar a alguien 'pecho frío' ya no se limitan al estadio, sino que aparecen en conversaciones de trabajo, política o amor.\n\nLo curioso es que algunas expresiones se dicen casi igual en todos los países, aunque con pequeñas variaciones, mientras que otras son adaptaciones propias de cada región. Detrás de este fenómeno está el enorme peso cultural del fútbol, que funciona como un idioma compartido. Así, sin darnos cuenta, recurrimos a metáforas futbolísticas para describir emociones o resumir una situación complicada. Aprender estas frases no solo enriquece el vocabulario, sino que también ayuda a entender la cultura popular del mundo hispanohablante.",
+        "vocab": [
+          {
+            "front": "dejar huella",
+            "pos": "phrase",
+            "back": "to leave a mark",
+            "example": "Aquel viaje le dejó una huella imborrable.",
+            "tier": "B1"
+          },
+          {
+            "front": "instalarse en",
+            "pos": "verb",
+            "back": "to settle into, take hold",
+            "example": "La costumbre se instaló en toda la región.",
+            "tier": "B2"
+          },
+          {
+            "front": "cotidiano",
+            "pos": "adj",
+            "back": "everyday, daily",
+            "example": "Es parte de la vida cotidiana.",
+            "tier": "B1"
+          },
+          {
+            "front": "la cancha",
+            "pos": "noun",
+            "back": "the pitch, the court",
+            "example": "Los jugadores saltaron a la cancha.",
+            "tier": "B1"
+          },
+          {
+            "front": "recurrir a",
+            "pos": "verb",
+            "back": "to resort to, to turn to",
+            "example": "Recurrió a un amigo para pedir ayuda.",
+            "tier": "B2"
+          },
+          {
+            "front": "enriquecer",
+            "pos": "verb",
+            "back": "to enrich",
+            "example": "Leer enriquece el vocabulario.",
+            "tier": "B2"
+          },
+          {
+            "front": "el peso cultural",
+            "pos": "phrase",
+            "back": "cultural weight, importance",
+            "example": "Reconocen el peso cultural del cine local.",
+            "tier": "B2"
+          },
+          {
+            "front": "la metáfora",
+            "pos": "noun",
+            "back": "metaphor",
+            "example": "Usó una metáfora muy clara.",
+            "tier": "B1"
+          },
+          {
+            "front": "resumir",
+            "pos": "verb",
+            "back": "to summarise",
+            "example": "Resumió la reunión en dos frases.",
+            "tier": "B1"
+          },
+          {
+            "front": "pecho frío",
+            "pos": "phrase",
+            "back": "cold, unenthusiastic person",
+            "example": "Lo criticaron por jugar como un pecho frío.",
+            "tier": "C1"
+          },
+          {
+            "front": "darse cuenta",
+            "pos": "verb",
+            "back": "to realise",
+            "example": "No me di cuenta del error.",
+            "tier": "B1"
+          },
+          {
+            "front": "propio de",
+            "pos": "phrase",
+            "back": "typical of, characteristic of",
+            "example": "Es un gesto propio de la región.",
+            "tier": "B2"
+          },
+          {
+            "front": "el hablante",
+            "pos": "noun",
+            "back": "speaker",
+            "example": "Es un hablante nativo de español.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El fútbol no solo se juega en la cancha: también ha dejado su huella en la manera de hablar.",
+            "point": "La pasiva refleja con 'se' y el pretérito perfecto 'ha dejado'.",
+            "explanation": "'Se juega' usa el 'se' impersonal o de pasiva refleja: no decimos quién juega, solo que la acción ocurre. 'Ha dejado' es pretérito perfecto, que conecta el pasado con el presente.",
+            "why_tricky": "Los estudiantes suelen confundir el 'se' pasivo con el reflexivo, y dudan entre el pretérito perfecto y el indefinido."
+          },
+          {
+            "sentence": "algunas expresiones se dicen casi igual en todos los países, aunque con pequeñas variaciones, mientras que otras son adaptaciones propias de cada región.",
+            "point": "El contraste con 'mientras que' y la pasiva refleja 'se dicen'.",
+            "explanation": "'Mientras que' introduce un contraste entre dos grupos. 'Se dicen' es de nuevo pasiva refleja en plural, porque el sujeto ('expresiones') es plural.",
+            "why_tricky": "'Mientras que' (contraste) se confunde con 'mientras' (tiempo), y la concordancia del verbo en la pasiva refleja se olvida con facilidad."
+          },
+          {
+            "sentence": "Aprender estas frases no solo enriquece el vocabulario, sino que también ayuda a entender la cultura popular del mundo hispanohablante.",
+            "point": "El infinitivo como sujeto y la estructura correlativa 'no solo... sino que también'.",
+            "explanation": "'Aprender' funciona como sujeto de la frase, por eso el verbo va en singular ('enriquece'). 'No solo... sino que también' une dos ideas y refuerza la segunda.",
+            "why_tricky": "Se tiende a usar 'pero' en lugar de 'sino que', y se olvida que un infinitivo sujeto pide verbo en singular."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "pecho frío",
+            "meaning": "persona que muestra poca pasión o entusiasmo, sobre todo en el deporte",
+            "example": "El público lo criticó por jugar como un pecho frío."
+          },
+          {
+            "phrase": "cortita y al pie",
+            "meaning": "hacer las cosas de forma simple, segura y directa, sin complicarse",
+            "example": "Para el examen, mejor cortita y al pie: respuestas claras y breves."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué muchas expresiones del fútbol se usan fuera de la cancha?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué diferencia hay entre las expresiones que se dicen igual en todos los países y las que son propias de cada región?",
+            "type": "open"
+          },
+          {
+            "q": "Según el texto, ¿qué ventajas tiene aprender estas frases para alguien que estudia español?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Hay en tu idioma expresiones que vengan del deporte o de algún juego? Escribe un párrafo explicando una de ellas y en qué situaciones la usarías."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-19-kast-impuesto-chile",
+      "title": "Qué ventajas y riesgos tiene el polémico plan de Kast de reducir el impuesto a las empresas en Chile (y cómo se compara con el resto del mundo)",
+      "source": "BBC Mundo",
+      "date": "2026-06-18",
+      "level": "B1-B2",
+      "topics": [
+        "economía",
+        "política"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-19-kast-impuesto-chile",
+        "revision": 1,
+        "meta": {
+          "title": "Qué ventajas y riesgos tiene el polémico plan de Kast de reducir el impuesto a las empresas en Chile (y cómo se compara con el resto del mundo)",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cn0vd8ggekzo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-18",
+          "date_processed": "2026-06-19",
+          "tags": [
+            "economía",
+            "política"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The government of Chile, led by José Antonio Kast, has presented a plan to reduce the tax that companies pay. According to BBC Mundo, the proposal seeks to attract investment and stimulate the economy, but it comes at a delicate moment: the country faces a fiscal deficit and street protests against cuts to public spending. For that reason, the measure has become deeply controversial.\n\nThose who defend it argue that lower taxes encourage companies to invest, create jobs and compete better with other countries. Its critics, on the other hand, warn that cutting this revenue could weaken public services just when they are most needed. The debate also forces a comparison between Chile and the rest of the world, where rates vary greatly from one place to another. In the end, the challenge is to balance economic growth with social justice, a tension that shapes much of current Latin American politics.",
+        "resumen_es": "El gobierno de Chile, encabezado por José Antonio Kast, ha presentado un plan para reducir el impuesto que pagan las empresas. Según BBC Mundo, la propuesta busca atraer inversión y estimular la economía, pero llega en un momento delicado: el país enfrenta un déficit fiscal y protestas callejeras contra los recortes del gasto público. Por eso, la medida se ha vuelto profundamente polémica.\n\nQuienes la defienden sostienen que unos impuestos más bajos animan a las empresas a invertir, crear empleo y competir mejor con otros países. Sus críticos, en cambio, advierten que recortar estos ingresos podría debilitar los servicios públicos justo cuando más se necesitan. El debate también obliga a comparar a Chile con el resto del mundo, donde las tasas varían mucho. Al final, el desafío consiste en equilibrar el crecimiento económico con la justicia social, una tensión que marca buena parte de la política latinoamericana actual.",
+        "vocab": [
+          {
+            "front": "el impuesto",
+            "pos": "noun",
+            "back": "tax",
+            "example": "Las empresas pagan un impuesto sobre sus ganancias.",
+            "tier": "B1"
+          },
+          {
+            "front": "recortar",
+            "pos": "verb",
+            "back": "to cut, cut back",
+            "example": "El gobierno quiere recortar el gasto.",
+            "tier": "B1"
+          },
+          {
+            "front": "el déficit fiscal",
+            "pos": "phrase",
+            "back": "fiscal deficit",
+            "example": "El déficit fiscal preocupa a los economistas.",
+            "tier": "B2"
+          },
+          {
+            "front": "el gasto público",
+            "pos": "phrase",
+            "back": "public spending",
+            "example": "Recortaron el gasto público en salud.",
+            "tier": "B2"
+          },
+          {
+            "front": "atraer inversión",
+            "pos": "phrase",
+            "back": "to attract investment",
+            "example": "La reforma busca atraer inversión extranjera.",
+            "tier": "B2"
+          },
+          {
+            "front": "polémico",
+            "pos": "adj",
+            "back": "controversial",
+            "example": "Es una decisión muy polémica.",
+            "tier": "B1"
+          },
+          {
+            "front": "sostener",
+            "pos": "verb",
+            "back": "to maintain, to argue",
+            "example": "Los expertos sostienen lo contrario.",
+            "tier": "B2"
+          },
+          {
+            "front": "advertir",
+            "pos": "verb",
+            "back": "to warn",
+            "example": "Los críticos advierten del peligro.",
+            "tier": "B1"
+          },
+          {
+            "front": "debilitar",
+            "pos": "verb",
+            "back": "to weaken",
+            "example": "La crisis debilitó la economía.",
+            "tier": "B2"
+          },
+          {
+            "front": "la tasa",
+            "pos": "noun",
+            "back": "rate",
+            "example": "La tasa de impuestos subió este año.",
+            "tier": "B2"
+          },
+          {
+            "front": "equilibrar",
+            "pos": "verb",
+            "back": "to balance",
+            "example": "Hay que equilibrar ingresos y gastos.",
+            "tier": "B2"
+          },
+          {
+            "front": "el crecimiento",
+            "pos": "noun",
+            "back": "growth",
+            "example": "El crecimiento económico se frenó.",
+            "tier": "B1"
+          },
+          {
+            "front": "la protesta callejera",
+            "pos": "phrase",
+            "back": "street protest",
+            "example": "Hubo protestas callejeras en la capital.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El gobierno de Chile, encabezado por José Antonio Kast, ha presentado un plan para reducir el impuesto que pagan las empresas.",
+            "point": "El participio 'encabezado' como cláusula reducida y el pretérito perfecto 'ha presentado'.",
+            "explanation": "'Encabezado por...' equivale a 'que está encabezado por...': el participio sustituye a una oración de relativo. 'Ha presentado' une la acción reciente con el presente.",
+            "why_tricky": "El participio concuerda con el sustantivo ('gobierno', masculino singular), algo que se olvida cuando el sujeto es femenino o plural."
+          },
+          {
+            "sentence": "Quienes la defienden sostienen que unos impuestos más bajos animan a las empresas a invertir, crear empleo y competir mejor con otros países.",
+            "point": "'Quienes' como sujeto (equivale a 'las personas que') y 'animar a + infinitivo'.",
+            "explanation": "'Quienes' introduce a un grupo de personas sin nombrarlas. 'Animar a' rige la preposición 'a' antes del infinitivo: animan a invertir, a crear, a competir.",
+            "why_tricky": "Se confunde 'quienes' con 'quién' (interrogativo) y se omite la 'a' personal y la preposición del verbo."
+          },
+          {
+            "sentence": "el desafío consiste en equilibrar el crecimiento económico con la justicia social",
+            "point": "El verbo 'consistir en' seguido de infinitivo.",
+            "explanation": "'Consistir en' siempre lleva la preposición 'en'. Aquí va seguido del infinitivo 'equilibrar', que actúa como complemento.",
+            "why_tricky": "Muchos estudiantes dicen 'consiste de' o 'consiste a', por influencia de otras lenguas."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "en un momento delicado",
+            "meaning": "en una situación difícil o sensible que exige cautela",
+            "example": "La negociación llega en un momento delicado para la empresa."
+          },
+          {
+            "phrase": "justo cuando más se necesita",
+            "meaning": "precisamente en el momento de mayor necesidad",
+            "example": "El apoyo llegó justo cuando más se necesitaba."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué objetivo tiene el plan del gobierno de Kast según el texto?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué resulta polémica la medida en este momento concreto?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué argumentos dan los partidarios y los críticos de bajar los impuestos a las empresas?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que bajar los impuestos a las empresas ayuda más a la economía o perjudica a los servicios públicos? Escribe un párrafo defendiendo tu postura con al menos dos razones."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-19-india-tecnologia-soberania",
+      "title": "\"La India se destaca por unos marcos normativos y de soberanía que no se ven en ningún otro lugar\"",
+      "source": "RFI Español",
+      "date": "2026-06-18",
+      "level": "B1-B2",
+      "topics": [
+        "tecnología",
+        "India"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-19-india-tecnologia-soberania",
+        "revision": 1,
+        "meta": {
+          "title": "\"La India se destaca por unos marcos normativos y de soberanía que no se ven en ningún otro lugar\"",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/ciencia/20260618-la-india-destaca-por-unos-marcos-normativos-y-de-soberan%C3%ADa-que-no-se-ven-en-ning%C3%BAn-otro-lugar",
+          "date_published": "2026-06-18",
+          "date_processed": "2026-06-19",
+          "tags": [
+            "tecnología",
+            "India"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "India has become the official artificial intelligence partner of VivaTech 2026, the major technology fair in Paris. According to RFI, this is an unprecedented status for a country that carries more and more weight in this field. The way it regulates and deploys new technologies also fits with Europe's desire to strengthen its own digital sovereignty.\n\nHowever, an expert interviewed by RFI raises an uncomfortable question: do we really know Indian technology? It is often reduced to call centres or to the development of cheap software, but the reality is much more complex. India has built its own regulatory frameworks that protect its citizens' data and that are rarely seen elsewhere. For that reason, looking towards this country may help Europe to imagine a more autonomous technological model, less dependent on the great powers.",
+        "resumen_es": "La India se ha convertido en el socio oficial en inteligencia artificial de VivaTech 2026, el gran salón tecnológico de París. Según RFI, se trata de un estatus sin precedentes para un país que pesa cada vez más en este campo. Su forma de regular y desplegar las nuevas tecnologías encaja, además, con el deseo europeo de reforzar su propia soberanía digital.\n\nSin embargo, una experta entrevistada por RFI plantea una pregunta incómoda: ¿conocemos de verdad la tecnología india? A menudo se la reduce a los centros de atención telefónica o al desarrollo de software barato, pero la realidad es mucho más compleja. La India ha construido marcos normativos propios que protegen los datos de sus ciudadanos y que apenas se ven en otros lugares. Por eso, mirar hacia este país puede ayudar a Europa a imaginar un modelo tecnológico más autónomo, menos dependiente de las grandes potencias.",
+        "vocab": [
+          {
+            "front": "el socio",
+            "pos": "noun",
+            "back": "partner",
+            "example": "Buscan un socio estratégico para el proyecto.",
+            "tier": "B1"
+          },
+          {
+            "front": "la inteligencia artificial",
+            "pos": "phrase",
+            "back": "artificial intelligence",
+            "example": "La inteligencia artificial cambia la industria.",
+            "tier": "B1"
+          },
+          {
+            "front": "sin precedentes",
+            "pos": "phrase",
+            "back": "unprecedented",
+            "example": "Fue una crisis sin precedentes.",
+            "tier": "B2"
+          },
+          {
+            "front": "desplegar",
+            "pos": "verb",
+            "back": "to deploy, to roll out",
+            "example": "La empresa desplegó la nueva red en un mes.",
+            "tier": "B2"
+          },
+          {
+            "front": "la soberanía",
+            "pos": "noun",
+            "back": "sovereignty",
+            "example": "Defienden la soberanía digital del país.",
+            "tier": "B2"
+          },
+          {
+            "front": "el marco normativo",
+            "pos": "phrase",
+            "back": "regulatory framework",
+            "example": "Falta un marco normativo claro para el sector.",
+            "tier": "C1"
+          },
+          {
+            "front": "encajar con",
+            "pos": "verb",
+            "back": "to fit with",
+            "example": "La idea encaja con nuestros planes.",
+            "tier": "B2"
+          },
+          {
+            "front": "los datos",
+            "pos": "noun",
+            "back": "data",
+            "example": "Hay que proteger los datos personales.",
+            "tier": "B1"
+          },
+          {
+            "front": "reducir a",
+            "pos": "verb",
+            "back": "to reduce to",
+            "example": "No se puede reducir todo a dinero.",
+            "tier": "B2"
+          },
+          {
+            "front": "autónomo",
+            "pos": "adj",
+            "back": "autonomous, independent",
+            "example": "Quieren un sistema más autónomo.",
+            "tier": "B2"
+          },
+          {
+            "front": "la potencia",
+            "pos": "noun",
+            "back": "power (country)",
+            "example": "China es una gran potencia mundial.",
+            "tier": "B1"
+          },
+          {
+            "front": "dependiente de",
+            "pos": "phrase",
+            "back": "dependent on",
+            "example": "Es muy dependiente de las importaciones.",
+            "tier": "B2"
+          },
+          {
+            "front": "apenas",
+            "pos": "adv",
+            "back": "barely, hardly",
+            "example": "Apenas se nota la diferencia.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La India se ha convertido en el socio oficial en inteligencia artificial de VivaTech 2026, el gran salón tecnológico de París.",
+            "point": "El verbo de cambio 'convertirse en' en pretérito perfecto.",
+            "explanation": "'Convertirse en' expresa una transformación y siempre lleva 'en' antes del nuevo estado. En pretérito perfecto ('se ha convertido') indica un cambio reciente que sigue vigente.",
+            "why_tricky": "Se confunde con otros verbos de cambio (volverse, hacerse, ponerse), cada uno con su matiz, y a veces se omite la preposición 'en'."
+          },
+          {
+            "sentence": "A menudo se la reduce a los centros de atención telefónica o al desarrollo de software barato, pero la realidad es mucho más compleja.",
+            "point": "El 'se' impersonal con el pronombre 'la' y el contraste con 'pero'.",
+            "explanation": "'Se la reduce' usa el 'se' impersonal: no se dice quién reduce. 'La' sustituye a 'la tecnología india'. 'Pero' introduce una idea opuesta.",
+            "why_tricky": "Combinar el 'se' impersonal con un pronombre de objeto ('la') resulta difícil y suena raro a quien traduce literalmente."
+          },
+          {
+            "sentence": "mirar hacia este país puede ayudar a Europa a imaginar un modelo tecnológico más autónomo",
+            "point": "El infinitivo como sujeto y la perífrasis 'poder + infinitivo' con 'ayudar a + infinitivo'.",
+            "explanation": "'Mirar' es el sujeto, por eso el verbo va en singular ('puede'). 'Ayudar a' rige 'a' antes del infinitivo 'imaginar'.",
+            "why_tricky": "Es fácil olvidar la 'a' de 'ayudar a' y poner el verbo en plural por la presencia de 'Europa'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "plantear una pregunta incómoda",
+            "meaning": "hacer una pregunta difícil que muchos prefieren evitar",
+            "example": "El periodista planteó una pregunta incómoda al ministro."
+          },
+          {
+            "phrase": "cada vez más",
+            "meaning": "de forma creciente, progresivamente",
+            "example": "Este tema interesa cada vez más a la gente joven."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué papel tiene la India en VivaTech 2026 y por qué es importante?",
+            "type": "open"
+          },
+          {
+            "q": "¿Con qué se suele asociar la tecnología india, según el texto, y por qué esa idea es incompleta?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué podría interesarle a Europa el modelo tecnológico de la India?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Te parece importante que un país controle sus propios datos y tecnología? Escribe un párrafo explicando qué ventajas o riesgos ves en la 'soberanía digital'."
+      }
+    },
     {
       "pack_id": "feed-2026-06-18-robin-hood-origenes",
       "title": "\"No era un héroe\": cómo se borraron los oscuros y violentos orígenes medievales de Robin Hood",
