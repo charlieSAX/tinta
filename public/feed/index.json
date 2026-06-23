@@ -1,7 +1,500 @@
 {
-  "generated_at": "2026-06-22T09:14:23Z",
+  "generated_at": "2026-06-23T09:19:47Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-23-euro-digital",
+      "title": "El euro digital, el arma de Bruselas para combatir la hegemonía de Visa y Mastercard",
+      "source": "RFI Español",
+      "date": "2026-06-23",
+      "level": "B1-B2",
+      "topics": [
+        "economía",
+        "tecnología"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-23-euro-digital",
+        "revision": 1,
+        "meta": {
+          "title": "El euro digital, el arma de Bruselas para combatir la hegemonía de Visa y Mastercard",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/europa/20260623-el-euro-digital-el-arma-de-bruselas-para-combatir-la-hegemon%C3%ADa-de-visa-y-mastercard",
+          "date_published": "2026-06-23",
+          "date_processed": "2026-06-23",
+          "tags": [
+            "economía",
+            "tecnología"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The European Commission has once again pushed forward the digital euro, an electronic version of the common currency that the European Central Bank wants to launch in the coming years. According to Brussels, this tool would let people pay in any shop in the euro area without depending on the big American companies that dominate cards today, such as Visa and Mastercard. The idea is to offer a public, free and secure means of payment, able to work both online and offline.\n\nBehind this initiative there is a clear question of sovereignty. European officials fear relying too much on foreign technology for something as sensitive as money. However, the project also raises doubts: banks are wary of losing customers and many citizens wonder about their privacy. For now, the digital euro is still in a preparation phase and will have to get through several debates before reaching our pockets.",
+        "resumen_es": "La Comisión Europea ha vuelto a impulsar el euro digital, una versión electrónica de la moneda común que el Banco Central Europeo quiere poner en marcha en los próximos años. Según Bruselas, esta herramienta permitiría pagar en cualquier comercio de la zona euro sin depender de las grandes empresas estadounidenses que hoy dominan las tarjetas, como Visa y Mastercard. La idea es ofrecer un medio de pago público, gratuito y seguro, capaz de funcionar tanto en internet como fuera de línea.\n\nDetrás de esta iniciativa hay una clara cuestión de soberanía. Los responsables europeos temen depender demasiado de tecnologías ajenas para algo tan sensible como el dinero. Sin embargo, el proyecto también genera dudas: los bancos recelan de perder clientes y muchos ciudadanos se preguntan por su privacidad. De momento, el euro digital sigue en fase de preparación y deberá superar varios debates antes de llegar a nuestros bolsillos.",
+        "vocab": [
+          {
+            "front": "poner en marcha",
+            "pos": "phrase",
+            "back": "to launch, to set in motion",
+            "example": "El gobierno quiere poner en marcha el plan en otoño.",
+            "tier": "B1"
+          },
+          {
+            "front": "la moneda",
+            "pos": "noun",
+            "back": "currency, coin",
+            "example": "El euro es la moneda de gran parte de Europa.",
+            "tier": "B1"
+          },
+          {
+            "front": "el medio de pago",
+            "pos": "phrase",
+            "back": "means of payment",
+            "example": "La tarjeta es su medio de pago favorito.",
+            "tier": "B1"
+          },
+          {
+            "front": "gratuito",
+            "pos": "adj",
+            "back": "free (of charge)",
+            "example": "La aplicación ofrece un servicio gratuito.",
+            "tier": "B1"
+          },
+          {
+            "front": "fuera de línea",
+            "pos": "phrase",
+            "back": "offline",
+            "example": "El sistema también funciona fuera de línea.",
+            "tier": "B2"
+          },
+          {
+            "front": "la soberanía",
+            "pos": "noun",
+            "back": "sovereignty",
+            "example": "Defienden la soberanía económica del país.",
+            "tier": "B2"
+          },
+          {
+            "front": "depender de",
+            "pos": "verb",
+            "back": "to depend on, to rely on",
+            "example": "No quieren depender de empresas extranjeras.",
+            "tier": "B1"
+          },
+          {
+            "front": "ajeno",
+            "pos": "adj",
+            "back": "foreign, belonging to others",
+            "example": "Desconfía de las tecnologías ajenas.",
+            "tier": "B2"
+          },
+          {
+            "front": "recelar",
+            "pos": "verb",
+            "back": "to be wary, to distrust",
+            "example": "Los bancos recelan del nuevo sistema.",
+            "tier": "C1"
+          },
+          {
+            "front": "la duda",
+            "pos": "noun",
+            "back": "doubt",
+            "example": "El plan todavía genera muchas dudas.",
+            "tier": "B1"
+          },
+          {
+            "front": "superar",
+            "pos": "verb",
+            "back": "to overcome, to get past",
+            "example": "El proyecto debe superar varios obstáculos.",
+            "tier": "B1"
+          },
+          {
+            "front": "el bolsillo",
+            "pos": "noun",
+            "back": "pocket",
+            "example": "Ese gasto afecta directamente nuestro bolsillo.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Según Bruselas, esta herramienta permitiría pagar en cualquier comercio de la zona euro sin depender de las grandes empresas estadounidenses que hoy dominan las tarjetas, como Visa y Mastercard.",
+            "point": "Conditional 'permitiría' for a hypothetical outcome",
+            "explanation": "The condicional simple (infinitive plus -ía endings) describes something that would happen if the project went ahead. It projects a possible future result, not a past action.",
+            "why_tricky": "Learners read the -ía ending as an imperfect past, but here it expresses a hypothetical, future-looking capacity."
+          },
+          {
+            "sentence": "Sin embargo, el proyecto también genera dudas: los bancos recelan de perder clientes y muchos ciudadanos se preguntan por su privacidad.",
+            "point": "Prepositional verb 'recelar de' and reflexive 'preguntarse'",
+            "explanation": "'Recelar de' needs the preposition 'de' before its complement, and 'preguntarse' (here 'se preguntan') is reflexive, meaning to wonder to oneself.",
+            "why_tricky": "English uses no preposition with 'distrust' and a different structure for 'wonder', so the Spanish particles are easy to drop."
+          },
+          {
+            "sentence": "De momento, el euro digital sigue en fase de preparación y deberá superar varios debates antes de llegar a nuestros bolsillos.",
+            "point": "'seguir + en' for continuity and 'antes de + infinitivo'",
+            "explanation": "'Seguir en' marks an action still in progress, while 'antes de llegar' uses an infinitive after the preposition because the subject is the same.",
+            "why_tricky": "English would use a gerund ('before reaching'), but Spanish requires the plain infinitive after 'antes de'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "llegar a nuestros bolsillos",
+            "meaning": "to reach our wallets, to affect our money",
+            "example": "La subida de precios pronto llegará a nuestros bolsillos."
+          },
+          {
+            "phrase": "a la vuelta de la esquina",
+            "meaning": "just around the corner, very soon",
+            "example": "Una moneda totalmente digital podría estar a la vuelta de la esquina."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué ventajas ofrecería el euro digital frente a las tarjetas tradicionales?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué se relaciona este proyecto con la idea de soberanía?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué dudas o riesgos mencionan los bancos y los ciudadanos?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Usarías una moneda digital pública en lugar de tu tarjeta habitual? Explica en unas 80 palabras las ventajas y los inconvenientes que más te preocupan."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-23-brexit-diez-anos",
+      "title": "4 grandes cambios en Reino Unido 10 años después del referendo sobre su salida de la Unión Europea",
+      "source": "BBC Mundo",
+      "date": "2026-06-23",
+      "level": "B1-B2",
+      "topics": [
+        "política",
+        "Europa"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-23-brexit-diez-anos",
+        "revision": 1,
+        "meta": {
+          "title": "4 grandes cambios en Reino Unido 10 años después del referendo sobre su salida de la Unión Europea",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cgl3nd9dly2o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-23",
+          "date_processed": "2026-06-23",
+          "tags": [
+            "política",
+            "Europa"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Ten years after the referendum in which the United Kingdom decided to leave the European Union, the country is taking stock of that historic vote. The so called Brexit promised more control over borders and laws, but putting it into practice turned out to be far more complicated than expected. A decade later, analysts and citizens are still arguing about whether leaving has brought more benefits or more problems to the country.\n\nThe effects can be seen in several areas. Trade with Europe has become slower and more expensive, many companies complain about red tape, and some sectors suffer from a lack of workers. At the same time, the political debate has not closed: some defend the decision as an act of independence, while others see it as a costly mistake. What does seem clear is that Brexit has deeply changed the relationship between the United Kingdom and the continent.",
+        "resumen_es": "Diez años después del referéndum en el que el Reino Unido decidió abandonar la Unión Europea, el país hace balance de aquella histórica votación. El llamado Brexit prometía más control sobre las fronteras y las leyes, pero su aplicación resultó mucho más complicada de lo previsto. Una década después, analistas y ciudadanos siguen discutiendo si la salida ha traído más beneficios o más problemas al país.\n\nLos efectos se notan en varios terrenos. El comercio con Europa se ha vuelto más lento y costoso, muchas empresas se quejan de la burocracia y algunos sectores sufren falta de mano de obra. Al mismo tiempo, el debate político no se ha cerrado: unos defienden la decisión como un acto de independencia, mientras otros la consideran un error caro. Lo que parece claro es que el Brexit ha cambiado profundamente la relación entre el Reino Unido y el continente.",
+        "vocab": [
+          {
+            "front": "hacer balance",
+            "pos": "phrase",
+            "back": "to take stock, to assess",
+            "example": "Al final del año conviene hacer balance.",
+            "tier": "B2"
+          },
+          {
+            "front": "el referéndum",
+            "pos": "noun",
+            "back": "referendum",
+            "example": "El referéndum se celebró hace diez años.",
+            "tier": "B1"
+          },
+          {
+            "front": "abandonar",
+            "pos": "verb",
+            "back": "to leave, to abandon",
+            "example": "Decidieron abandonar la organización.",
+            "tier": "B1"
+          },
+          {
+            "front": "la frontera",
+            "pos": "noun",
+            "back": "border",
+            "example": "Los controles en la frontera aumentaron.",
+            "tier": "B1"
+          },
+          {
+            "front": "previsto",
+            "pos": "adj",
+            "back": "expected, planned",
+            "example": "Todo salió según lo previsto.",
+            "tier": "B2"
+          },
+          {
+            "front": "el comercio",
+            "pos": "noun",
+            "back": "trade, commerce",
+            "example": "El comercio entre los dos países creció.",
+            "tier": "B1"
+          },
+          {
+            "front": "la burocracia",
+            "pos": "noun",
+            "back": "bureaucracy, red tape",
+            "example": "La burocracia retrasa muchos trámites.",
+            "tier": "B2"
+          },
+          {
+            "front": "la mano de obra",
+            "pos": "phrase",
+            "back": "workforce, labour",
+            "example": "Falta mano de obra en el campo.",
+            "tier": "B2"
+          },
+          {
+            "front": "quejarse",
+            "pos": "verb",
+            "back": "to complain",
+            "example": "Los clientes se quejan del retraso.",
+            "tier": "B1"
+          },
+          {
+            "front": "el sector",
+            "pos": "noun",
+            "back": "sector, industry",
+            "example": "El sector turístico se recupera poco a poco.",
+            "tier": "B1"
+          },
+          {
+            "front": "caro",
+            "pos": "adj",
+            "back": "expensive, costly",
+            "example": "Fue un error muy caro.",
+            "tier": "B1"
+          },
+          {
+            "front": "profundamente",
+            "pos": "adv",
+            "back": "deeply",
+            "example": "La crisis afectó profundamente al país.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El llamado Brexit prometía más control sobre las fronteras y las leyes, pero su aplicación resultó mucho más complicada de lo previsto.",
+            "point": "Imperfect 'prometía' versus preterite 'resultó'",
+            "explanation": "'Prometía' (imperfect) gives ongoing background, what Brexit kept promising, while 'resultó' (preterite) marks a single completed outcome. 'De lo previsto' compares with an expectation.",
+            "why_tricky": "Both map to English past tense, so learners struggle to choose imperfect for background and preterite for the finished result."
+          },
+          {
+            "sentence": "Al mismo tiempo, el debate político no se ha cerrado: unos defienden la decisión como un acto de independencia, mientras otros la consideran un error caro.",
+            "point": "Correlative 'unos... otros...' and present perfect",
+            "explanation": "'Unos... otros...' contrasts two groups, the present perfect 'se ha cerrado' links the past to now, and the pronoun 'la' stands for 'la decisión'.",
+            "why_tricky": "English says 'some... others...' without articles, and learners forget the object pronoun 'la' that replaces the earlier noun."
+          },
+          {
+            "sentence": "Lo que parece claro es que el Brexit ha cambiado profundamente la relación entre el Reino Unido y el continente.",
+            "point": "Neuter relative 'lo que' as a noun phrase",
+            "explanation": "'Lo que' introduces an idea, not a specific noun, and works as the subject meaning 'what (the thing that) seems clear'.",
+            "why_tricky": "There is no single English word for the neuter 'lo que', so learners often replace it with 'que' or 'el que' by mistake."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "costar caro",
+            "meaning": "to come at a high price, to backfire",
+            "example": "Esa decisión le costó caro al gobierno."
+          },
+          {
+            "phrase": "estar en el aire",
+            "meaning": "to be up in the air, to be uncertain",
+            "example": "El futuro del acuerdo todavía está en el aire."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué prometía el Brexit y por qué su aplicación fue más difícil de lo esperado?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué consecuencias económicas se mencionan en el texto?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué sigue abierto el debate político sobre la salida de la UE?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Diez años después, ¿crees que separarse de un gran bloque económico puede compensar a un país? Razona tu respuesta en unas 80 palabras con ejemplos."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-23-pesticidas-cafe",
+      "title": "Veneno en tu café: un informe alerta sobre el uso masivo de pesticidas en la producción mundial",
+      "source": "RFI Español",
+      "date": "2026-06-22",
+      "level": "B1-B2",
+      "topics": [
+        "medioambiente",
+        "alimentación"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-23-pesticidas-cafe",
+        "revision": 1,
+        "meta": {
+          "title": "Veneno en tu café: un informe alerta sobre el uso masivo de pesticidas en la producción mundial",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/medioambiente/20260622-veneno-en-tu-caf%C3%A9-un-informe-alerta-sobre-el-uso-masivo-de-pesticidas-en-la-producci%C3%B3n-mundial",
+          "date_published": "2026-06-22",
+          "date_processed": "2026-06-23",
+          "tags": [
+            "medioambiente",
+            "alimentación"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "A report has raised the alarm about the massive use of pesticides in the world's coffee production. According to the document, many crops use chemicals to fight pests and increase harvests, which leaves residues in the environment and in the consumer's cup. The authors warn that this practice affects farmers above all, since they handle these substances every day without proper protection.\n\nBeyond health, the problem has an environmental and social dimension. The intensive use of pesticides depletes the soil, pollutes water and endangers many species. For this reason, more and more voices are calling to bet on more sustainable coffee and on fairer trade with producing countries. In the meantime, experts recommend finding out about the origin of what we drink and supporting, whenever possible, production that respects the planet.",
+        "resumen_es": "Un informe ha encendido las alarmas sobre el uso masivo de pesticidas en la producción mundial de café. Según el documento, muchos cultivos usan productos químicos para combatir las plagas y aumentar las cosechas, lo que deja residuos en el medio ambiente y en la taza del consumidor. Los autores advierten de que esta práctica afecta sobre todo a los agricultores, que manipulan estas sustancias a diario sin la protección adecuada.\n\nMás allá de la salud, el problema tiene una dimensión ambiental y social. El uso intensivo de pesticidas empobrece los suelos, contamina el agua y pone en peligro a numerosas especies. Por eso, cada vez más voces piden apostar por un café más sostenible y por un comercio más justo con los países productores. Mientras tanto, los expertos recomiendan informarse sobre el origen de lo que bebemos y apoyar, cuando sea posible, una producción respetuosa con el planeta.",
+        "vocab": [
+          {
+            "front": "el informe",
+            "pos": "noun",
+            "back": "report",
+            "example": "El informe revela datos preocupantes.",
+            "tier": "B1"
+          },
+          {
+            "front": "encender las alarmas",
+            "pos": "phrase",
+            "back": "to set off alarm bells",
+            "example": "Los resultados encendieron las alarmas.",
+            "tier": "B2"
+          },
+          {
+            "front": "el cultivo",
+            "pos": "noun",
+            "back": "crop, cultivation",
+            "example": "El cultivo del café necesita mucha agua.",
+            "tier": "B1"
+          },
+          {
+            "front": "la plaga",
+            "pos": "noun",
+            "back": "pest, plague",
+            "example": "Una plaga destruyó parte de la cosecha.",
+            "tier": "B2"
+          },
+          {
+            "front": "la cosecha",
+            "pos": "noun",
+            "back": "harvest",
+            "example": "Este año la cosecha fue abundante.",
+            "tier": "B1"
+          },
+          {
+            "front": "el residuo",
+            "pos": "noun",
+            "back": "residue, waste",
+            "example": "El análisis encontró residuos químicos.",
+            "tier": "B2"
+          },
+          {
+            "front": "el agricultor",
+            "pos": "noun",
+            "back": "farmer",
+            "example": "Los agricultores trabajan de sol a sol.",
+            "tier": "B1"
+          },
+          {
+            "front": "manipular",
+            "pos": "verb",
+            "back": "to handle, to manipulate",
+            "example": "Hay que manipular estos productos con cuidado.",
+            "tier": "B2"
+          },
+          {
+            "front": "el suelo",
+            "pos": "noun",
+            "back": "soil, ground",
+            "example": "El abuso de químicos empobrece el suelo.",
+            "tier": "B1"
+          },
+          {
+            "front": "apostar por",
+            "pos": "verb",
+            "back": "to bet on, to commit to",
+            "example": "La empresa apuesta por la energía limpia.",
+            "tier": "B2"
+          },
+          {
+            "front": "sostenible",
+            "pos": "adj",
+            "back": "sustainable",
+            "example": "Buscan un modelo de turismo sostenible.",
+            "tier": "B1"
+          },
+          {
+            "front": "el comercio justo",
+            "pos": "phrase",
+            "back": "fair trade",
+            "example": "Compra café de comercio justo.",
+            "tier": "B2"
+          },
+          {
+            "front": "respetuoso",
+            "pos": "adj",
+            "back": "respectful (of), considerate",
+            "example": "Quieren una industria respetuosa con el planeta.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Los autores advierten de que esta práctica afecta sobre todo a los agricultores, que manipulan estas sustancias a diario sin la protección adecuada.",
+            "point": "'advertir de que' plus the personal 'a'",
+            "explanation": "'Advertir de que' introduces a warning with the indicative, and the personal 'a' appears before 'los agricultores' because they are specific people who are the object.",
+            "why_tricky": "English drops both the preposition after 'warn' and any marker before a human object, so learners forget the 'de' and the personal 'a'."
+          },
+          {
+            "sentence": "Por eso, cada vez más voces piden apostar por un café más sostenible y por un comercio más justo con los países productores.",
+            "point": "'cada vez más' and 'apostar por'",
+            "explanation": "'Cada vez más' means 'more and more' and intensifies the noun, while 'apostar por' takes the preposition 'por' before what one commits to.",
+            "why_tricky": "The fixed expression 'cada vez más' has no word-for-word English match, and 'apostar' changes meaning depending on its preposition."
+          },
+          {
+            "sentence": "Mientras tanto, los expertos recomiendan informarse sobre el origen de lo que bebemos y apoyar, cuando sea posible, una producción respetuosa con el planeta.",
+            "point": "'cuando' plus present subjunctive for future time",
+            "explanation": "After 'cuando' pointing to an unfixed future moment, Spanish uses the present subjunctive 'sea'. 'Recomendar' here is followed by infinitives ('informarse', 'apoyar').",
+            "why_tricky": "English uses the present indicative ('whenever it is possible'), so learners wrongly write 'cuando es posible' instead of 'cuando sea posible'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "de sol a sol",
+            "meaning": "from dawn to dusk, all day long",
+            "example": "Los jornaleros trabajan de sol a sol."
+          },
+          {
+            "phrase": "poner en peligro",
+            "meaning": "to put at risk, to endanger",
+            "example": "La contaminación pone en peligro muchas especies."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué se utilizan tantos pesticidas en el cultivo del café?",
+            "type": "open"
+          },
+          {
+            "q": "¿A quién afecta más esta práctica, según el informe, y por qué?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué soluciones proponen los expertos para una producción más sostenible?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Estarías dispuesto a pagar más por un café sostenible y de comercio justo? Explica en unas 80 palabras qué factores influirían en tu decisión."
+      }
+    },
     {
       "pack_id": "feed-2026-06-22-colombia-segunda-vuelta",
       "title": "Qué tipo de país representan De la Espriella y Cepeda, los antagónicos aspirantes a presidir Colombia",
@@ -6246,529 +6739,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que tu país está preparado para fenómenos climáticos extremos? ¿Qué medidas tomarías tú?"
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-12-peru-elecciones",
-      "title": "Elecciones en Perú: Keiko Fujimori adelanta a Roberto Sánchez, pero poco más de 1.000 votos los separan",
-      "source": "BBC Mundo",
-      "date": "2026-06-12",
-      "level": "B1-B2",
-      "topics": [
-        "política",
-        "América Latina"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-12-peru-elecciones",
-        "revision": 2,
-        "meta": {
-          "title": "Elecciones en Perú: Keiko Fujimori adelanta a Roberto Sánchez, pero poco más de 1.000 votos los separan",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c1kye78j4nyo",
-          "date_published": "2026-06-12",
-          "date_processed": "2026-06-12",
-          "tags": [
-            "política",
-            "América Latina"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Peru is living through a nail-biting presidential election. According to the official count, Keiko Fujimori is ahead of her rival Roberto Sanchez, but the lead is tiny: little more than a thousand votes separate the two candidates. With such a close result every ballot counts, and both campaigns are watching the process under a magnifying glass. Returns from rural areas and the votes of Peruvians abroad could tip the scales at any moment.\n\nIt is not the first time the Andean country has held its breath over an election: Peru's recent history is full of hard-fought run-offs, legal challenges and mutual accusations. International observers are calling for calm and trust in the institutions while the count continues. Whatever the final result, the next government will have to govern a country split almost down the middle, where rebuilding political bridges will be as urgent as it is difficult.",
-        "resumen_es": "Perú vive unas elecciones presidenciales de infarto. Según el recuento oficial, Keiko Fujimori adelanta a su rival Roberto Sánchez, pero la ventaja es mínima: poco más de mil votos separan a los dos candidatos. Con un resultado tan ajustado, cada papeleta cuenta, y los equipos de ambos aspirantes siguen el proceso con lupa. Las actas de las zonas rurales y el voto de los peruanos en el extranjero pueden inclinar la balanza en cualquier momento.\n\nNo es la primera vez que el país andino contiene la respiración por unas elecciones: la historia reciente de Perú está llena de segundas vueltas reñidas, recursos legales y acusaciones cruzadas. Los observadores internacionales piden calma y confianza en las instituciones mientras avanza el escrutinio. Sea cual sea el resultado final, el próximo gobierno tendrá que gobernar un país dividido casi por la mitad, donde reconstruir los puentes políticos será tan urgente como difícil.",
-        "vocab": [
-          {
-            "front": "de infarto",
-            "pos": "phrase",
-            "back": "nail-biting, heart-stopping",
-            "example": "Fue un final de infarto.",
-            "tier": "B2"
-          },
-          {
-            "front": "el recuento",
-            "pos": "noun",
-            "back": "count, recount (of votes)",
-            "example": "El recuento oficial avanza lentamente.",
-            "tier": "B2"
-          },
-          {
-            "front": "adelantar a",
-            "pos": "verb",
-            "back": "to overtake, to pull ahead of",
-            "example": "Fujimori adelanta a Sánchez por mil votos.",
-            "tier": "B1"
-          },
-          {
-            "front": "ajustado",
-            "pos": "adj",
-            "back": "tight, close (result)",
-            "example": "Un resultado tan ajustado exige paciencia.",
-            "tier": "B2"
-          },
-          {
-            "front": "la papeleta",
-            "pos": "noun",
-            "back": "ballot paper",
-            "example": "Cada papeleta cuenta en estas elecciones.",
-            "tier": "B2"
-          },
-          {
-            "front": "con lupa",
-            "pos": "phrase",
-            "back": "very closely, under a magnifying glass",
-            "example": "Siguen el proceso con lupa.",
-            "tier": "B2"
-          },
-          {
-            "front": "inclinar la balanza",
-            "pos": "phrase",
-            "back": "to tip the scales",
-            "example": "El voto extranjero puede inclinar la balanza.",
-            "tier": "B2"
-          },
-          {
-            "front": "contener la respiración",
-            "pos": "phrase",
-            "back": "to hold one's breath",
-            "example": "El país contiene la respiración ante el resultado.",
-            "tier": "B2"
-          },
-          {
-            "front": "reñido",
-            "pos": "adj",
-            "back": "hard-fought, closely contested",
-            "example": "Fue una segunda vuelta muy reñida.",
-            "tier": "B2"
-          },
-          {
-            "front": "el escrutinio",
-            "pos": "noun",
-            "back": "vote counting, scrutiny",
-            "example": "El escrutinio terminará esta semana.",
-            "tier": "C1"
-          },
-          {
-            "front": "sea cual sea",
-            "pos": "phrase",
-            "back": "whatever it may be",
-            "example": "Sea cual sea el resultado, habrá protestas.",
-            "tier": "B2"
-          },
-          {
-            "front": "el aspirante",
-            "pos": "noun",
-            "back": "candidate, contender",
-            "example": "Los dos aspirantes esperan el resultado final.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "poco más de mil votos separan a los dos candidatos",
-            "point": "la 'a' personal con objetos directos de persona",
-            "explanation": "'Separan a los dos candidatos': the preposition 'a' marks a human direct object.",
-            "why_tricky": "English has no equivalent marker, so learners drop the 'a'."
-          },
-          {
-            "sentence": "Sea cual sea el resultado final, el próximo gobierno tendrá que gobernar un país dividido casi por la mitad",
-            "point": "subjuntivo en expresiones concesivas (sea cual sea)",
-            "explanation": "A fixed subjunctive structure meaning 'whatever the final result is'.",
-            "why_tricky": "The doubled verb form has no literal English parallel."
-          },
-          {
-            "sentence": "reconstruir los puentes políticos será tan urgente como difícil",
-            "point": "comparativo de igualdad (tan... como)",
-            "explanation": "'Tan urgente como difícil' equates two qualities.",
-            "why_tricky": "Word order: Spanish keeps both adjectives after the verb, unlike English 'as urgent as it is difficult'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "acusaciones cruzadas",
-            "meaning": "mutual accusations, finger-pointing",
-            "example": "La campaña terminó entre acusaciones cruzadas."
-          },
-          {
-            "phrase": "reconstruir puentes",
-            "meaning": "to rebuild bridges, repair relations",
-            "example": "Tendrá que reconstruir puentes con la oposición."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué ventaja tiene Keiko Fujimori sobre Roberto Sánchez según el recuento?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué factores pueden todavía cambiar el resultado?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué reto tendrá el próximo gobierno, gane quien gane?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Qué debería hacer un país cuando unas elecciones terminan prácticamente en empate? Escribe tu propuesta."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-12-canarias-migracion",
-      "title": "Migrar hacia Canarias: La vida en el limbo de un centro de acogida",
-      "source": "RFI en español",
-      "date": "2026-06-12",
-      "level": "B1-B2",
-      "topics": [
-        "sociedad",
-        "migración"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-12-canarias-migracion",
-        "revision": 2,
-        "meta": {
-          "title": "Migrar hacia Canarias: La vida en el limbo de un centro de acogida",
-          "source": "RFI en español",
-          "url": "https://www.rfi.fr/es/programas/enfoque-internacional/20260611-migrar-hacia-canarias-la-vida-en-el-limbo-de-un-centro-de-acogida",
-          "date_published": "2026-06-12",
-          "date_processed": "2026-06-12",
-          "tags": [
-            "sociedad",
-            "migración"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The Canary Islands have become one of the main gateways into Europe for thousands of migrants. Last year alone, almost six thousand people applied for asylum in the Spanish archipelago, which lies off the west coast of Africa. Many of them arrive after a dangerous Atlantic crossing and lack the resources to fend for themselves. For that reason they are housed temporarily in centres run by humanitarian organisations.\n\nThere, life passes in a kind of limbo: residents wait months for an answer to their application, unable to work legally or make plans for the future. The organisations are asking for more resources and faster procedures, while European governments argue over how to share responsibility. Behind every case file there is a personal story: separated families, interrupted plans and the hope, in spite of everything, of starting a new life.",
-        "resumen_es": "Las Islas Canarias se han convertido en una de las principales puertas de entrada a Europa para miles de personas migrantes. Solo el año pasado, casi seis mil personas solicitaron asilo en el archipiélago español, situado frente a la costa occidental de África. Muchas de ellas llegan tras una travesía peligrosa por el Atlántico y no cuentan con los recursos necesarios para valerse por sí mismas. Por eso son acogidas temporalmente en centros gestionados por organizaciones humanitarias.\n\nAllí, la vida transcurre en una especie de limbo: los residentes esperan durante meses la respuesta a su solicitud, sin poder trabajar legalmente ni hacer planes de futuro. Las organizaciones piden más medios y procesos más rápidos, mientras los gobiernos europeos discuten cómo repartir la responsabilidad. Detrás de cada expediente hay una historia personal: familias separadas, proyectos interrumpidos y la esperanza, a pesar de todo, de empezar una nueva vida.",
-        "vocab": [
-          {
-            "front": "la puerta de entrada",
-            "pos": "phrase",
-            "back": "gateway, point of entry",
-            "example": "Canarias es una puerta de entrada a Europa.",
-            "tier": "B2"
-          },
-          {
-            "front": "solicitar asilo",
-            "pos": "phrase",
-            "back": "to apply for asylum",
-            "example": "Casi seis mil personas solicitaron asilo el año pasado.",
-            "tier": "B2"
-          },
-          {
-            "front": "el archipiélago",
-            "pos": "noun",
-            "back": "archipelago",
-            "example": "El archipiélago está frente a la costa africana.",
-            "tier": "B2"
-          },
-          {
-            "front": "la travesía",
-            "pos": "noun",
-            "back": "crossing, voyage",
-            "example": "La travesía por el Atlántico es muy peligrosa.",
-            "tier": "B2"
-          },
-          {
-            "front": "valerse por sí mismo",
-            "pos": "phrase",
-            "back": "to fend for oneself",
-            "example": "No pueden valerse por sí mismos al llegar.",
-            "tier": "B2"
-          },
-          {
-            "front": "el centro de acogida",
-            "pos": "phrase",
-            "back": "reception centre",
-            "example": "Vive en un centro de acogida desde enero.",
-            "tier": "B2"
-          },
-          {
-            "front": "gestionar",
-            "pos": "verb",
-            "back": "to manage, to run",
-            "example": "ONG locales gestionan los centros.",
-            "tier": "B1"
-          },
-          {
-            "front": "transcurrir",
-            "pos": "verb",
-            "back": "to pass, to go by (time)",
-            "example": "La vida transcurre lentamente en el centro.",
-            "tier": "B2"
-          },
-          {
-            "front": "la solicitud",
-            "pos": "noun",
-            "back": "application, request",
-            "example": "Espera la respuesta a su solicitud de asilo.",
-            "tier": "B1"
-          },
-          {
-            "front": "repartir la responsabilidad",
-            "pos": "phrase",
-            "back": "to share out responsibility",
-            "example": "Los países discuten cómo repartir la responsabilidad.",
-            "tier": "B2"
-          },
-          {
-            "front": "el expediente",
-            "pos": "noun",
-            "back": "case file",
-            "example": "Cada expediente tarda meses en resolverse.",
-            "tier": "C1"
-          },
-          {
-            "front": "a pesar de todo",
-            "pos": "phrase",
-            "back": "in spite of everything",
-            "example": "A pesar de todo, mantiene la esperanza.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Las Islas Canarias se han convertido en una de las principales puertas de entrada a Europa",
-            "point": "convertirse en (cambio)",
-            "explanation": "'Convertirse en' expresses becoming something; here in the perfect tense.",
-            "why_tricky": "Spanish has several 'to become' verbs (hacerse, volverse, convertirse en) with different uses."
-          },
-          {
-            "sentence": "Muchas de ellas llegan tras una travesía peligrosa por el Atlántico y no cuentan con los recursos necesarios para valerse por sí mismas.",
-            "point": "contar con = tener / disponer de",
-            "explanation": "'No cuentan con los recursos' means they lack the resources.",
-            "why_tricky": "Literal translation 'count with' misleads English speakers."
-          },
-          {
-            "sentence": "los residentes esperan durante meses la respuesta a su solicitud, sin poder trabajar legalmente ni hacer planes de futuro",
-            "point": "sin + infinitivo",
-            "explanation": "'Sin poder trabajar' = 'without being able to work'; infinitive after 'sin'.",
-            "why_tricky": "English uses a gerund ('without working'); Spanish requires the infinitive."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "vivir en el limbo",
-            "meaning": "to live in limbo, in uncertainty",
-            "example": "Esperando los papeles, viven en el limbo."
-          },
-          {
-            "phrase": "empezar una nueva vida",
-            "meaning": "to start a new life",
-            "example": "Sueña con empezar una nueva vida en Europa."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué llegan tantas personas migrantes precisamente a Canarias?",
-            "type": "open"
-          },
-          {
-            "q": "¿Cómo es la vida diaria en un centro de acogida según el texto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué piden las organizaciones humanitarias?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Cómo deberían repartirse los países europeos la responsabilidad de la acogida? Argumenta tu respuesta."
-      }
-    },
-    {
-      "pack_id": "feed-2026-05-30-cafe-economia",
-      "title": "Lo que el precio de una taza de café revela sobre la economía",
-      "source": "BBC Mundo",
-      "date": "2026-05-30",
-      "level": "B2",
-      "topics": [
-        "politics",
-        "society"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-05-30-cafe-economia",
-        "meta": {
-          "title": "Lo que el precio de una taza de café revela sobre la economía",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cg4pw44r4wlo",
-          "date_published": "2026-05-30",
-          "date_processed": "2026-06-09",
-          "tags": [
-            "economia",
-            "sociedad"
-          ],
-          "level": "B2"
-        },
-        "summary_en": "What can a cup of coffee tell us about the world economy? Much more than it seems. The price we pay every morning reflects a tangle of global factors: trade tariffs, an increasingly unpredictable climate, shifting consumer tastes and the strategies of coffee growers. When a frost hits Brazil's plantations or shipping costs rise, the effect travels from the producing regions all the way to the cafe on the corner.\n\nGrowers, for their part, try to adapt: they switch crops, look for new markets and negotiate fairer prices. For many Latin American countries coffee is not just a drink but an essential source of income and jobs. Through something as everyday as a coffee, the article explains the current economic turbulence and reminds us that no product reaches our hands without a long story behind it.",
-        "resumen_es": "¿Qué puede contarnos una taza de café sobre la economía mundial? Mucho más de lo que parece. El precio que pagamos cada mañana refleja una maraña de factores globales: los aranceles comerciales, el clima cada vez más imprevisible, los gustos cambiantes de los consumidores y las estrategias de los caficultores. Cuando una helada golpea las plantaciones de Brasil o suben los costes del transporte marítimo, el efecto viaja desde las regiones productoras hasta la cafetería de la esquina.\n\nLos productores, por su parte, intentan adaptarse: cambian de cultivos, buscan nuevos mercados y negocian precios más justos. Para muchos países de América Latina, el café no es solo una bebida, sino una fuente esencial de ingresos y de empleo. A través de algo tan cotidiano como un café, el artículo explica la agitación económica actual y nos recuerda que ningún producto llega a nuestras manos sin una larga historia detrás.",
-        "vocab": [
-          {
-            "id": "marana",
-            "front": "maraña",
-            "pos": "noun",
-            "back": "tangle, web (of factors, interests)",
-            "example": "El conflicto es una maraña de intereses difíciles de separar.",
-            "tier": "C1",
-            "tags": [
-              "economia"
-            ]
-          },
-          {
-            "id": "caficultor",
-            "front": "caficultor",
-            "pos": "noun",
-            "back": "coffee grower",
-            "example": "Los caficultores apenas cubren sus costes.",
-            "tier": "C1",
-            "tags": [
-              "economia"
-            ]
-          },
-          {
-            "id": "cosecha",
-            "front": "cosecha",
-            "pos": "noun",
-            "back": "harvest, crop",
-            "example": "La cosecha fue escasa por la sequía.",
-            "tier": "B2",
-            "tags": [
-              "economia"
-            ]
-          },
-          {
-            "id": "sequia",
-            "front": "sequía",
-            "pos": "noun",
-            "back": "drought",
-            "example": "La sequía redujo la producción de grano.",
-            "tier": "B2",
-            "tags": [
-              "ciencia"
-            ]
-          },
-          {
-            "id": "trasladar",
-            "front": "trasladar",
-            "pos": "verb",
-            "back": "to pass on (costs), to shift",
-            "example": "Las empresas trasladan el coste al consumidor.",
-            "tier": "B2",
-            "tags": [
-              "economia"
-            ]
-          },
-          {
-            "id": "minorista",
-            "front": "minorista",
-            "pos": "noun/adj",
-            "back": "retailer; retail",
-            "example": "Los minoristas han subido los precios.",
-            "tier": "C1",
-            "tags": [
-              "economia"
-            ]
-          },
-          {
-            "id": "rentable",
-            "front": "rentable",
-            "pos": "adj",
-            "back": "profitable, worthwhile",
-            "example": "El cultivo ya no le resulta rentable.",
-            "tier": "B2",
-            "tags": [
-              "economia"
-            ]
-          },
-          {
-            "id": "cadena-de-suministro",
-            "front": "cadena de suministro",
-            "pos": "phrase",
-            "back": "supply chain",
-            "example": "La cadena de suministro encarece el producto final.",
-            "tier": "C1",
-            "tags": [
-              "economia"
-            ]
-          },
-          {
-            "id": "paladar",
-            "front": "paladar",
-            "pos": "noun",
-            "back": "palate, taste",
-            "example": "Los nuevos paladares prefieren cafés más suaves.",
-            "tier": "C1",
-            "tags": [
-              "sociedad"
-            ]
-          },
-          {
-            "id": "a-su-vez",
-            "front": "a su vez",
-            "pos": "phrase",
-            "back": "in turn, for its part",
-            "example": "Esto, a su vez, eleva los precios.",
-            "tier": "B2",
-            "tags": [
-              "conector"
-            ]
-          },
-          {
-            "id": "en-funcion-de",
-            "front": "en función de",
-            "pos": "phrase",
-            "back": "depending on, according to",
-            "example": "El precio varía en función de la cosecha.",
-            "tier": "B2",
-            "tags": [
-              "conector"
-            ]
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "El precio depende de factores que escapan al control de los caficultores.",
-            "point": "indicative in a relative clause with a real, known antecedent",
-            "explanation": "When the thing described actually exists and is specific, the relative-clause verb stays in the indicative ('escapan'), not the subjunctive.",
-            "why_tricky": "Learners over-apply the subjunctive after 'que'; here the antecedent is real, so indicative is correct."
-          },
-          {
-            "sentence": "Cuanto más sube el grano, más caro resulta el café.",
-            "point": "correlative comparison 'cuanto más… más…'",
-            "explanation": "Spanish links two rising quantities with 'cuanto más… más…' (or 'cuanto menos… menos…').",
-            "why_tricky": "It maps to English 'the more… the more…', a structure with no obvious word-for-word equivalent."
-          },
-          {
-            "sentence": "Se trasladan los costes al consumidor.",
-            "point": "passive / impersonal 'se'",
-            "explanation": "'se' + verb expresses a passive without naming an agent: the costs get passed on.",
-            "why_tricky": "English needs 'are passed on' and often an explicit agent."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "estar por las nubes",
-            "meaning": "to be sky-high (prices)",
-            "example": "El café está por las nubes este año."
-          },
-          {
-            "phrase": "pagar el pato",
-            "meaning": "to carry the can, to take the blame/cost",
-            "example": "Al final, el consumidor paga el pato."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué factores influyen en el precio del café, según el artículo?",
-            "type": "factual"
-          },
-          {
-            "q": "¿Cómo llega el encarecimiento hasta el consumidor?",
-            "type": "factual"
-          },
-          {
-            "q": "¿Por qué puede una taza de café servir para explicar la economía global?",
-            "type": "inferential"
-          }
-        ],
-        "opinion_prompt": "¿Crees que pequeños lujos cotidianos como el café seguirán encareciéndose? Escribe ~100 palabras.",
-        "revision": 2
       }
     }
   ]
