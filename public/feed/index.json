@@ -1,7 +1,528 @@
 {
-  "generated_at": "2026-06-23T09:19:47Z",
+  "generated_at": "2026-06-23T21:17:41Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-23-bukele-megacarceles",
+      "title": "Cómo las megacárceles de Bukele se convirtieron en un modelo para la derecha radical (y qué ha pasado donde se han replicado)",
+      "source": "BBC Mundo",
+      "date": "2026-06-23",
+      "level": "B1-B2",
+      "topics": [
+        "seguridad",
+        "política"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-23-bukele-megacarceles",
+        "revision": 1,
+        "meta": {
+          "title": "Cómo las megacárceles de Bukele se convirtieron en un modelo para la derecha radical (y qué ha pasado donde se han replicado)",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c24y9nzn3e1o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-23",
+          "date_processed": "2026-06-23",
+          "tags": [
+            "seguridad",
+            "política"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Nayib Bukele, the president of El Salvador, has turned his security model into a reference point for several leaders of the radical right. His tough-on-crime policy, based on mass detentions and the construction of mega-prisons, has gained popularity both inside and outside Latin America.\n\nHowever, experts warn that copying this strategy does not always work. In the countries where it has been tried, the results have been limited, and criticism over possible abuses keeps growing. While some celebrate the fall in violence, others fear that the model erodes judicial safeguards. What is at stake is to what extent security justifies sacrificing certain freedoms.",
+        "resumen_es": "El modelo de seguridad de Nayib Bukele, presidente de El Salvador, se ha convertido en una referencia para varios lideres de la derecha radical. Su politica de mano dura, basada en detenciones masivas y en la construccion de megacarceles, ha ganado popularidad dentro y fuera de America Latina.\n\nSin embargo, los expertos advierten de que copiar esta estrategia no siempre funciona. En los paises donde se ha intentado replicar, los resultados han sido limitados y las criticas por posibles abusos no han dejado de crecer. Mientras unos celebran la caida de la violencia, otros temen que el modelo erosione las garantias judiciales. Lo que esta en juego es hasta que punto la seguridad justifica sacrificar ciertas libertades.",
+        "vocab": [
+          {
+            "front": "mano dura",
+            "pos": "phrase",
+            "back": "tough, zero-tolerance approach",
+            "example": "El gobierno aplicó una política de mano dura contra el crimen.",
+            "tier": "B2"
+          },
+          {
+            "front": "detención masiva",
+            "pos": "noun",
+            "back": "mass arrest/detention",
+            "example": "Las detenciones masivas llenaron las cárceles del país.",
+            "tier": "B2"
+          },
+          {
+            "front": "megacárcel",
+            "pos": "noun",
+            "back": "mega-prison",
+            "example": "Construyeron una megacárcel para miles de presos.",
+            "tier": "B2"
+          },
+          {
+            "front": "derecha radical",
+            "pos": "noun",
+            "back": "radical right",
+            "example": "La derecha radical defiende estas medidas duras.",
+            "tier": "B2"
+          },
+          {
+            "front": "replicar",
+            "pos": "verb",
+            "back": "to replicate, to copy",
+            "example": "Otros países quieren replicar el mismo modelo.",
+            "tier": "B2"
+          },
+          {
+            "front": "advertir",
+            "pos": "verb",
+            "back": "to warn",
+            "example": "Los expertos advierten del peligro de la medida.",
+            "tier": "B1"
+          },
+          {
+            "front": "derechos humanos",
+            "pos": "noun",
+            "back": "human rights",
+            "example": "Las organizaciones vigilan los derechos humanos.",
+            "tier": "B1"
+          },
+          {
+            "front": "abuso",
+            "pos": "noun",
+            "back": "abuse",
+            "example": "Denunciaron varios abusos en las prisiones.",
+            "tier": "B1"
+          },
+          {
+            "front": "garantías judiciales",
+            "pos": "noun",
+            "back": "legal safeguards, due process",
+            "example": "Las garantías judiciales protegen al acusado.",
+            "tier": "C1"
+          },
+          {
+            "front": "estar en juego",
+            "pos": "phrase",
+            "back": "to be at stake",
+            "example": "En estas elecciones está en juego el futuro del país.",
+            "tier": "B2"
+          },
+          {
+            "front": "erosionar",
+            "pos": "verb",
+            "back": "to erode, to wear away",
+            "example": "La medida puede erosionar las libertades civiles.",
+            "tier": "C1"
+          },
+          {
+            "front": "caída",
+            "pos": "noun",
+            "back": "fall, drop",
+            "example": "Celebraron la caída de la violencia en la región.",
+            "tier": "B1"
+          },
+          {
+            "front": "justificar",
+            "pos": "verb",
+            "back": "to justify",
+            "example": "Nada justifica el uso de la tortura.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Su politica de mano dura, basada en detenciones masivas y en la construccion de megacarceles, ha ganado popularidad dentro y fuera de America Latina.",
+            "point": "Participio pasado usado como adjetivo y concordancia (basada).",
+            "explanation": "El participio 'basada' funciona como adjetivo y concuerda en género y número con 'política' (femenino singular). Por eso no es 'basado'.",
+            "why_tricky": "Los estudiantes suelen olvidar que el participio en función de adjetivo debe concordar con el sustantivo al que describe, no con el verbo más cercano."
+          },
+          {
+            "sentence": "En los paises donde se ha intentado replicar, los resultados han sido limitados y las criticas por posibles abusos no han dejado de crecer.",
+            "point": "'se' impersonal/pasiva refleja y la perífrasis 'dejar de + infinitivo'.",
+            "explanation": "'se ha intentado replicar' usa el 'se' para no nombrar al sujeto. 'No han dejado de crecer' significa que algo sigue creciendo sin parar.",
+            "why_tricky": "La construcción con 'se' confunde a quien busca un sujeto explícito, y 'dejar de + infinitivo' cambia totalmente de sentido en negativo."
+          },
+          {
+            "sentence": "Lo que esta en juego es hasta que punto la seguridad justifica sacrificar ciertas libertades.",
+            "point": "'Lo que' como relativo neutro que introduce una idea entera.",
+            "explanation": "'Lo que' equivale a 'aquello que' y convierte una oración en sujeto de la frase. Aquí resume el tema central del debate.",
+            "why_tricky": "Se confunde con 'el que' o 'la que'; 'lo que' es neutro y se refiere a conceptos o ideas, no a personas u objetos concretos."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "mano dura",
+            "meaning": "una actitud muy firme y severa, sobre todo contra el crimen",
+            "example": "El candidato prometió mano dura contra las bandas."
+          },
+          {
+            "phrase": "estar en juego",
+            "meaning": "estar en riesgo algo importante",
+            "example": "Con esta decisión está en juego la credibilidad del gobierno."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿En qué consiste la política de mano dura de Bukele?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué algunos líderes de la derecha radical quieren copiar este modelo?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué riesgos señalan los expertos sobre esta estrategia?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que la seguridad puede justificar la reducción de algunas libertades? Escribe un párrafo explicando tu opinión con ejemplos concretos."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-23-ballena-fotografa",
+      "title": "El emocionante momento en el que una ballena y yo nos miramos a los ojos",
+      "source": "BBC Mundo",
+      "date": "2026-06-23",
+      "level": "B1-B2",
+      "topics": [
+        "naturaleza",
+        "océanos"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-23-ballena-fotografa",
+        "revision": 1,
+        "meta": {
+          "title": "El emocionante momento en el que una ballena y yo nos miramos a los ojos",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cgqj3jyjgy7o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-23",
+          "date_processed": "2026-06-23",
+          "tags": [
+            "naturaleza",
+            "océanos"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The Brazilian photographer Marcia Riederer experienced an unforgettable encounter when a dwarf minke whale came closer and looked her straight in the eyes. In a series of striking images, the artist managed to capture the elegance and the curiosity of this marine animal.\n\nThese moments, although they seem magical, also remind us of the importance of protecting the oceans. Such close encounters with wild animals are very rare and leave a deep mark on those who are lucky enough to live them. Whales tend to show curiosity toward divers, but their survival depends on clean waters free of threats. Through her camera, Riederer seeks to raise public awareness and to show that, below the surface, there is a world full of life that deserves to be respected.",
+        "resumen_es": "La fotografa brasilena Marcia Riederer vivio un encuentro inolvidable cuando una ballena minke enana se acerco y la miro directamente a los ojos. En una serie de imagenes impactantes, la artista consiguio captar la elegancia y la curiosidad de este animal marino.\n\nEstos momentos, aunque parecen magicos, tambien nos recuerdan la importancia de proteger los oceanos. Encuentros tan cercanos con animales salvajes son muy poco frecuentes y dejan una huella profunda en quienes tienen la suerte de vivirlos. Las ballenas suelen mostrarse curiosas con los buceadores, pero su supervivencia depende de aguas limpias y libres de amenazas. A traves de su camara, Riederer busca despertar la conciencia del publico y demostrar que, bajo la superficie, existe un mundo lleno de vida que merece ser respetado.",
+        "vocab": [
+          {
+            "front": "encuentro",
+            "pos": "noun",
+            "back": "encounter, meeting",
+            "example": "Fue un encuentro inolvidable con la naturaleza.",
+            "tier": "B1"
+          },
+          {
+            "front": "inolvidable",
+            "pos": "adj",
+            "back": "unforgettable",
+            "example": "Vivieron una experiencia inolvidable en el mar.",
+            "tier": "B1"
+          },
+          {
+            "front": "acercarse",
+            "pos": "verb",
+            "back": "to approach, to come closer",
+            "example": "La ballena se acercó al pequeño barco.",
+            "tier": "B1"
+          },
+          {
+            "front": "mirar a los ojos",
+            "pos": "phrase",
+            "back": "to look in the eyes",
+            "example": "Se miraron a los ojos durante unos segundos.",
+            "tier": "B1"
+          },
+          {
+            "front": "impactante",
+            "pos": "adj",
+            "back": "striking, powerful",
+            "example": "Tomó una fotografía realmente impactante.",
+            "tier": "B2"
+          },
+          {
+            "front": "captar",
+            "pos": "verb",
+            "back": "to capture (an image or essence)",
+            "example": "La cámara captó el momento exacto.",
+            "tier": "B2"
+          },
+          {
+            "front": "elegancia",
+            "pos": "noun",
+            "back": "elegance",
+            "example": "El animal nadaba con gran elegancia.",
+            "tier": "B1"
+          },
+          {
+            "front": "curiosidad",
+            "pos": "noun",
+            "back": "curiosity",
+            "example": "La ballena mostró mucha curiosidad.",
+            "tier": "B1"
+          },
+          {
+            "front": "buceador",
+            "pos": "noun",
+            "back": "diver",
+            "example": "Los buceadores observaron la escena en silencio.",
+            "tier": "B2"
+          },
+          {
+            "front": "supervivencia",
+            "pos": "noun",
+            "back": "survival",
+            "example": "Su supervivencia está en peligro por la contaminación.",
+            "tier": "B2"
+          },
+          {
+            "front": "amenaza",
+            "pos": "noun",
+            "back": "threat",
+            "example": "La pesca ilegal es una amenaza para la especie.",
+            "tier": "B1"
+          },
+          {
+            "front": "despertar la conciencia",
+            "pos": "phrase",
+            "back": "to raise awareness",
+            "example": "Quiere despertar la conciencia sobre el mar.",
+            "tier": "B2"
+          },
+          {
+            "front": "superficie",
+            "pos": "noun",
+            "back": "surface",
+            "example": "Bajo la superficie hay un mundo desconocido.",
+            "tier": "B1"
+          },
+          {
+            "front": "merecer",
+            "pos": "verb",
+            "back": "to deserve",
+            "example": "La naturaleza merece nuestro respeto.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La fotografa brasilena Marcia Riederer vivio un encuentro inolvidable cuando una ballena minke enana se acerco y la miro directamente a los ojos.",
+            "point": "Pretérito indefinido para acciones puntuales del pasado y el pronombre de objeto directo 'la'.",
+            "explanation": "'Vivió', 'se acercó' y 'miró' son acciones acabadas y concretas, por eso van en indefinido. 'La' sustituye a la fotógrafa como objeto directo.",
+            "why_tricky": "Los estudiantes mezclan indefinido e imperfecto, y dudan al colocar el pronombre 'la' antes del verbo conjugado."
+          },
+          {
+            "sentence": "Las ballenas suelen mostrarse curiosas con los buceadores, pero su supervivencia depende de aguas limpias y libres de amenazas.",
+            "point": "La perífrasis 'soler + infinitivo' para expresar costumbre o tendencia.",
+            "explanation": "'Suelen mostrarse' indica algo habitual: las ballenas tienden a comportarse así con frecuencia.",
+            "why_tricky": "No existe un equivalente directo de 'soler' en inglés, así que se olvida y se usa solo el presente simple."
+          },
+          {
+            "sentence": "A traves de su camara, Riederer busca despertar la conciencia del publico y demostrar que, bajo la superficie, existe un mundo lleno de vida que merece ser respetado.",
+            "point": "La pasiva con 'ser' en infinitivo: 'merece ser respetado'.",
+            "explanation": "'Ser respetado' es una pasiva en infinitivo. Indica que el mundo recibe la acción de respetar, no la realiza.",
+            "why_tricky": "Combinar 'merecer' con una pasiva de infinitivo es poco intuitivo y se confunde con la forma activa 'merece respetar'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "quedarse sin palabras",
+            "meaning": "estar tan sorprendido o emocionado que no se puede hablar",
+            "example": "Al ver la ballena tan cerca, se quedó sin palabras."
+          },
+          {
+            "phrase": "cara a cara",
+            "meaning": "frente a frente, de forma directa",
+            "example": "Estar cara a cara con un animal salvaje es impresionante."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué vivió la fotógrafa Marcia Riederer durante su encuentro con la ballena?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué dice el texto que es importante proteger los océanos?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué quiere lograr la fotógrafa a través de sus imágenes?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Qué papel crees que tiene la fotografía en la protección de la naturaleza? Escribe un texto breve con tu punto de vista."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-23-hermanas-esperma",
+      "title": "\"Hermanas de esperma\": descubrimos que teníamos el mismo padre donante después de haber cumplido 20 años",
+      "source": "BBC Mundo",
+      "date": "2026-06-23",
+      "level": "B1-B2",
+      "topics": [
+        "familia",
+        "genética"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-23-hermanas-esperma",
+        "revision": 1,
+        "meta": {
+          "title": "\"Hermanas de esperma\": descubrimos que teníamos el mismo padre donante después de haber cumplido 20 años",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cg53v05ey1vo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-23",
+          "date_processed": "2026-06-23",
+          "tags": [
+            "familia",
+            "genética"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Three women, Natasha, Gemma and Helen, discovered that they shared the same father, a sperm donor, when they had already turned twenty. For them, meeting one another was like living a fairy tale, because they suddenly had sisters whose existence they had not known about.\n\nStories like this are increasingly common thanks to DNA tests and social media, which make it possible to locate biological relatives. However, they also raise complex questions about identity and the anonymity of donors. For many of them, that unexpected reunion completely changes the way they understand who they are and where they come from. Many people conceived in this way feel the need to know their origins and to build bonds with those who share the same blood.",
+        "resumen_es": "Tres mujeres, Natasha, Gemma y Helen, descubrieron que compartian el mismo padre, un donante de esperma, cuando ya habian cumplido veinte anos. Para ellas, encontrarse fue como vivir un cuento de hadas, porque de repente tenian hermanas cuya existencia desconocian.\n\nHistorias como esta son cada vez mas frecuentes gracias a las pruebas de ADN y a las redes sociales, que permiten localizar a familiares biologicos. Sin embargo, tambien plantean preguntas complejas sobre la identidad y el anonimato de los donantes. Para muchas de ellas, ese reencuentro inesperado cambia por completo la forma de entender quienes son y de donde vienen. Muchas personas concebidas de esta manera sienten la necesidad de conocer sus origenes y de crear vinculos con quienes comparten su misma sangre.",
+        "vocab": [
+          {
+            "front": "donante",
+            "pos": "noun",
+            "back": "donor",
+            "example": "El donante de esperma era anónimo.",
+            "tier": "B1"
+          },
+          {
+            "front": "esperma",
+            "pos": "noun",
+            "back": "sperm",
+            "example": "La clínica conservaba el esperma del donante.",
+            "tier": "B2"
+          },
+          {
+            "front": "compartir",
+            "pos": "verb",
+            "back": "to share",
+            "example": "Las tres mujeres comparten el mismo padre.",
+            "tier": "B1"
+          },
+          {
+            "front": "cumplir años",
+            "pos": "phrase",
+            "back": "to turn (an age)",
+            "example": "Acababa de cumplir veinte años cuando lo supo.",
+            "tier": "B1"
+          },
+          {
+            "front": "cuento de hadas",
+            "pos": "phrase",
+            "back": "fairy tale",
+            "example": "Su reencuentro parecía un cuento de hadas.",
+            "tier": "B2"
+          },
+          {
+            "front": "de repente",
+            "pos": "adv",
+            "back": "suddenly, all of a sudden",
+            "example": "De repente descubrió que tenía hermanas.",
+            "tier": "B1"
+          },
+          {
+            "front": "prueba de ADN",
+            "pos": "noun",
+            "back": "DNA test",
+            "example": "Una prueba de ADN confirmó el parentesco.",
+            "tier": "B2"
+          },
+          {
+            "front": "localizar",
+            "pos": "verb",
+            "back": "to locate, to track down",
+            "example": "Lograron localizar a sus familiares biológicos.",
+            "tier": "B2"
+          },
+          {
+            "front": "familiar biológico",
+            "pos": "noun",
+            "back": "biological relative",
+            "example": "Buscaba a sus familiares biológicos en internet.",
+            "tier": "B2"
+          },
+          {
+            "front": "plantear",
+            "pos": "verb",
+            "back": "to raise (a question or issue)",
+            "example": "El caso plantea muchas dudas éticas.",
+            "tier": "B2"
+          },
+          {
+            "front": "anonimato",
+            "pos": "noun",
+            "back": "anonymity",
+            "example": "El anonimato del donante genera debate.",
+            "tier": "C1"
+          },
+          {
+            "front": "concebido",
+            "pos": "adj",
+            "back": "conceived",
+            "example": "Hay miles de personas concebidas con donantes.",
+            "tier": "C1"
+          },
+          {
+            "front": "orígenes",
+            "pos": "noun",
+            "back": "origins, roots",
+            "example": "Quería conocer sus orígenes familiares.",
+            "tier": "B1"
+          },
+          {
+            "front": "vínculo",
+            "pos": "noun",
+            "back": "bond, tie",
+            "example": "Crearon un vínculo muy fuerte enseguida.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Tres mujeres, Natasha, Gemma y Helen, descubrieron que compartian el mismo padre, un donante de esperma, cuando ya habian cumplido veinte anos.",
+            "point": "Contraste entre indefinido, imperfecto y pluscuamperfecto.",
+            "explanation": "'Descubrieron' (indefinido) es la acción central; 'compartían' (imperfecto) describe una situación; 'habían cumplido' (pluscuamperfecto) es anterior a ese descubrimiento.",
+            "why_tricky": "Coordinar tres tiempos del pasado en una misma frase exige entender qué ocurrió antes y qué describe un estado."
+          },
+          {
+            "sentence": "Para ellas, encontrarse fue como vivir un cuento de hadas, porque de repente tenian hermanas cuya existencia desconocian.",
+            "point": "El relativo posesivo 'cuya' y su concordancia.",
+            "explanation": "'Cuya' indica posesión y concuerda con 'existencia' (femenino singular), no con 'hermanas'. Equivale a 'de las cuales'.",
+            "why_tricky": "'Cuyo/cuya' concuerda con lo poseído, no con el poseedor, algo que casi no existe en inglés."
+          },
+          {
+            "sentence": "Muchas personas concebidas de esta manera sienten la necesidad de conocer sus origenes y de crear vinculos con quienes comparten su misma sangre.",
+            "point": "El relativo 'quienes' referido a personas y el participio 'concebidas' como adjetivo.",
+            "explanation": "'Quienes' se refiere a personas y equivale a 'las personas que'. 'Concebidas' describe a 'personas' y concuerda en femenino plural.",
+            "why_tricky": "Se tiende a usar 'que' en vez de 'quienes', y a olvidar la concordancia del participio."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "un cuento de hadas",
+            "meaning": "una situación ideal o perfecta, casi mágica",
+            "example": "Su historia de amor fue como un cuento de hadas."
+          },
+          {
+            "phrase": "ser de la misma sangre",
+            "meaning": "ser parientes, tener un vínculo familiar",
+            "example": "Aunque no se conocían, son de la misma sangre."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Cómo descubrieron Natasha, Gemma y Helen que eran hermanas?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué son cada vez más frecuentes estas historias?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué preguntas plantea este tipo de situaciones?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que las personas tienen derecho a conocer su origen biológico? Argumenta tu respuesta en un párrafo."
+      }
+    },
     {
       "pack_id": "feed-2026-06-23-euro-digital",
       "title": "El euro digital, el arma de Bruselas para combatir la hegemonía de Visa y Mastercard",
@@ -6225,520 +6746,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que las rivalidades entre empresas pueden ser buenas o malas para los consumidores? Escribe un párrafo con tu opinión y un ejemplo."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-15-sentadilla-asiatica-salud",
-      "title": "Por qué dominar la \"sentadilla asiática\" es clave para nuestra salud",
-      "source": "BBC Mundo",
-      "date": "2026-06-15",
-      "level": "B1-B2",
-      "topics": [
-        "salud",
-        "cuerpo"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-15-sentadilla-asiatica-salud",
-        "revision": 1,
-        "meta": {
-          "title": "Por qué dominar la \"sentadilla asiática\" es clave para nuestra salud",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cx2kln8gpwzo",
-          "date_published": "2026-06-15",
-          "date_processed": "2026-06-15",
-          "tags": [
-            "salud",
-            "cuerpo"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The so-called 'Asian squat' means crouching with feet flat on the ground and the back fairly straight. Common in much of Asia as a natural resting posture, it is uncomfortable for many people in Western countries. Specialists say practicing it regularly improves hip, ankle and knee mobility, strengthens the legs and aids digestion. Modern chair-bound life has eroded this ability, but experts say it can be regained gradually.",
-        "resumen_es": "La llamada sentadilla asiática consiste en ponerse en cuclillas con los pies completamente apoyados en el suelo y la espalda relativamente recta. Aunque en muchos países occidentales resulta incómoda, en buena parte de Asia es una postura natural que la gente adopta para descansar, comer o esperar el autobús. Según varios especialistas, mantener esta posición con regularidad aporta numerosos beneficios para la salud. Por un lado, mejora la movilidad de las caderas, los tobillos y las rodillas; por otro, fortalece los músculos de las piernas y favorece una buena digestión. Con el estilo de vida moderno, en el que pasamos muchas horas sentados en sillas, hemos perdido poco a poco esta capacidad. Los expertos recomiendan practicarla de forma gradual, sin forzar el cuerpo, para recuperar la flexibilidad. En definitiva, un gesto tan sencillo como agacharse bien podría ayudarnos a movernos mejor durante toda la vida.",
-        "vocab": [
-          {
-            "front": "ponerse en cuclillas",
-            "pos": "phrase",
-            "back": "to squat, to crouch down",
-            "example": "Se puso en cuclillas para mirar la flor.",
-            "tier": "B2"
-          },
-          {
-            "front": "apoyado",
-            "pos": "adj",
-            "back": "resting, supported",
-            "example": "Mantén los pies bien apoyados en el suelo.",
-            "tier": "B1"
-          },
-          {
-            "front": "la espalda",
-            "pos": "noun",
-            "back": "back (body)",
-            "example": "Me duele la espalda por estar sentado.",
-            "tier": "B1"
-          },
-          {
-            "front": "incómoda",
-            "pos": "adj",
-            "back": "uncomfortable",
-            "example": "La silla es muy incómoda.",
-            "tier": "B1"
-          },
-          {
-            "front": "la postura",
-            "pos": "noun",
-            "back": "posture, position",
-            "example": "Una buena postura evita dolores.",
-            "tier": "B1"
-          },
-          {
-            "front": "la movilidad",
-            "pos": "noun",
-            "back": "mobility",
-            "example": "El ejercicio mejora la movilidad.",
-            "tier": "B2"
-          },
-          {
-            "front": "las caderas",
-            "pos": "noun",
-            "back": "hips",
-            "example": "El baile mueve mucho las caderas.",
-            "tier": "B2"
-          },
-          {
-            "front": "los tobillos",
-            "pos": "noun",
-            "back": "ankles",
-            "example": "Se torció los tobillos corriendo.",
-            "tier": "B1"
-          },
-          {
-            "front": "fortalecer",
-            "pos": "verb",
-            "back": "to strengthen",
-            "example": "Nadar ayuda a fortalecer los músculos.",
-            "tier": "B2"
-          },
-          {
-            "front": "agacharse",
-            "pos": "verb",
-            "back": "to bend down, to crouch",
-            "example": "Se agachó para recoger las llaves.",
-            "tier": "B1"
-          },
-          {
-            "front": "de forma gradual",
-            "pos": "phrase",
-            "back": "gradually",
-            "example": "Hay que entrenar de forma gradual.",
-            "tier": "B2"
-          },
-          {
-            "front": "la flexibilidad",
-            "pos": "noun",
-            "back": "flexibility",
-            "example": "El yoga mejora la flexibilidad.",
-            "tier": "B1"
-          },
-          {
-            "front": "aportar beneficios",
-            "pos": "phrase",
-            "back": "to bring benefits",
-            "example": "Dormir bien aporta muchos beneficios.",
-            "tier": "B2"
-          },
-          {
-            "front": "en definitiva",
-            "pos": "phrase",
-            "back": "in short, ultimately",
-            "example": "En definitiva, debemos movernos más.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Aunque en muchos países occidentales resulta incómoda, en buena parte de Asia es una postura natural que la gente adopta para descansar, comer o esperar el autobús.",
-            "point": "'Aunque' concesivo con indicativo",
-            "explanation": "'Aunque' introduce un contraste; con indicativo ('resulta') presenta el hecho como real y conocido.",
-            "why_tricky": "'Aunque' tambien puede ir con subjuntivo para expresar algo hipotetico, asi que el modo cambia el matiz."
-          },
-          {
-            "sentence": "Con el estilo de vida moderno, en el que pasamos muchas horas sentados en sillas, hemos perdido poco a poco esta capacidad.",
-            "point": "Relativo con preposicion 'en el que'",
-            "explanation": "'En el que' une dos ideas y sustituye a 'en + el estilo de vida'; la preposicion va delante del relativo.",
-            "why_tricky": "En ingles la preposicion suele ir al final ('in which / that we...'), pero en espanol culto va antes del relativo."
-          },
-          {
-            "sentence": "Por un lado, mejora la movilidad de las caderas, los tobillos y las rodillas; por otro, fortalece los músculos de las piernas y favorece una buena digestión.",
-            "point": "Conectores de contraste 'por un lado... por otro'",
-            "explanation": "Esta pareja de conectores organiza dos ideas paralelas y da estructura al texto.",
-            "why_tricky": "Hay que mantener el paralelismo y no mezclarlos con otros conectores como 'sin embargo'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "poco a poco",
-            "meaning": "de forma lenta y progresiva",
-            "example": "Poco a poco fue mejorando su salud."
-          },
-          {
-            "phrase": "por un lado... por otro (lado)",
-            "meaning": "se usa para presentar dos aspectos de un tema",
-            "example": "Por un lado me gusta, por otro me da miedo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿En qué consiste exactamente la sentadilla asiática?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué beneficios para la salud menciona el texto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué hemos perdido esta capacidad según los expertos?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Cuidas tu cuerpo en tu día a día? Escribe un párrafo sobre tus hábitos de salud y qué te gustaría mejorar."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-15-unesco-patrimonio",
-      "title": "Por qué algunos lugares quieren ser retirados de la Lista del Patrimonio Mundial de la Unesco",
-      "source": "BBC Mundo",
-      "date": "2026-06-15",
-      "level": "B1-B2",
-      "topics": [
-        "cultura",
-        "patrimonio"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-15-unesco-patrimonio",
-        "revision": 1,
-        "meta": {
-          "title": "Por qué algunos lugares quieren ser retirados de la Lista del Patrimonio Mundial de la Unesco",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cd95x3vl9jno",
-          "date_published": "2026-06-15",
-          "date_processed": "2026-06-15",
-          "tags": [
-            "cultura",
-            "patrimonio"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Being on UNESCO's World Heritage List is usually seen as an honor that recognizes a place's value and attracts tourists. Yet residents of some sites are now asking to be removed, arguing the status causes more problems than benefits. Mass tourism can push up housing prices, crowd the streets and endanger the environment, while strict protection rules complicate daily life. The debate raises a hard question: how to protect history without harming those who live in it.",
-        "resumen_es": "Formar parte de la Lista del Patrimonio Mundial de la Unesco suele considerarse un gran honor, ya que reconoce el valor histórico o natural de un lugar y atrae a turistas de todo el mundo. Sin embargo, en algunos sitios los habitantes han empezado a pedir que se les retire de esa lista. ¿La razón? Creen que la distinción les causa más problemas que ventajas. El turismo masivo, por ejemplo, puede disparar los precios de la vivienda, llenar las calles de gente y poner en peligro el medio ambiente. Además, la protección que exige la Unesco a veces impide construir o modificar edificios, lo que complica la vida cotidiana de los residentes. Aunque nadie niega la importancia de conservar el patrimonio, cada vez más comunidades se preguntan si vale la pena pagar ese precio. Al final, el debate plantea una cuestión difícil: cómo proteger la historia sin perjudicar a quienes viven en ella.",
-        "vocab": [
-          {
-            "front": "el patrimonio",
-            "pos": "noun",
-            "back": "heritage",
-            "example": "Hay que proteger el patrimonio cultural.",
-            "tier": "B1"
-          },
-          {
-            "front": "reconocer",
-            "pos": "verb",
-            "back": "to recognise",
-            "example": "La lista reconoce el valor del lugar.",
-            "tier": "B1"
-          },
-          {
-            "front": "retirar",
-            "pos": "verb",
-            "back": "to remove, to withdraw",
-            "example": "Pidieron retirar el monumento de la lista.",
-            "tier": "B1"
-          },
-          {
-            "front": "la distinción",
-            "pos": "noun",
-            "back": "distinction, honour",
-            "example": "Recibir esa distinción es un orgullo.",
-            "tier": "B2"
-          },
-          {
-            "front": "el turismo masivo",
-            "pos": "phrase",
-            "back": "mass tourism",
-            "example": "El turismo masivo afecta a la ciudad.",
-            "tier": "B2"
-          },
-          {
-            "front": "disparar los precios",
-            "pos": "phrase",
-            "back": "to send prices soaring",
-            "example": "La demanda disparó los precios.",
-            "tier": "B2"
-          },
-          {
-            "front": "la vivienda",
-            "pos": "noun",
-            "back": "housing, home",
-            "example": "El precio de la vivienda ha subido mucho.",
-            "tier": "B1"
-          },
-          {
-            "front": "poner en peligro",
-            "pos": "phrase",
-            "back": "to endanger",
-            "example": "La contaminación pone en peligro el río.",
-            "tier": "B2"
-          },
-          {
-            "front": "el medio ambiente",
-            "pos": "noun",
-            "back": "the environment",
-            "example": "Debemos cuidar el medio ambiente.",
-            "tier": "B1"
-          },
-          {
-            "front": "la vida cotidiana",
-            "pos": "phrase",
-            "back": "daily life",
-            "example": "El ruido afecta a la vida cotidiana.",
-            "tier": "B1"
-          },
-          {
-            "front": "valer la pena",
-            "pos": "phrase",
-            "back": "to be worth it",
-            "example": "No sé si vale la pena el esfuerzo.",
-            "tier": "B1"
-          },
-          {
-            "front": "perjudicar",
-            "pos": "verb",
-            "back": "to harm, to damage",
-            "example": "El plan perjudica a los vecinos.",
-            "tier": "B2"
-          },
-          {
-            "front": "los residentes",
-            "pos": "noun",
-            "back": "residents",
-            "example": "Los residentes protestaron por el ruido.",
-            "tier": "B1"
-          },
-          {
-            "front": "plantear una cuestión",
-            "pos": "phrase",
-            "back": "to raise an issue",
-            "example": "El informe plantea una cuestión importante.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Sin embargo, en algunos sitios los habitantes han empezado a pedir que se les retire de esa lista.",
-            "point": "Subjuntivo tras un verbo de influencia ('pedir que')",
-            "explanation": "Despues de 'pedir que' se usa el subjuntivo ('se retire') porque se expresa un deseo o una peticion, no un hecho.",
-            "why_tricky": "El cambio de sujeto obliga al subjuntivo; si fuera el mismo sujeto se usaria infinitivo ('pedir retirarse')."
-          },
-          {
-            "sentence": "Aunque nadie niega la importancia de conservar el patrimonio, cada vez más comunidades se preguntan si vale la pena pagar ese precio.",
-            "point": "'Aunque' + indicativo y la estructura 'cada vez mas'",
-            "explanation": "'Aunque' con indicativo admite un hecho real; 'cada vez mas' expresa una cantidad que aumenta de forma progresiva.",
-            "why_tricky": "'Cada vez mas' no lleva articulo y se confunde con 'mas y mas'; ademas hay doble negacion con 'nadie niega'."
-          },
-          {
-            "sentence": "El turismo masivo, por ejemplo, puede disparar los precios de la vivienda, llenar las calles de gente y poner en peligro el medio ambiente.",
-            "point": "Infinitivos tras el verbo modal 'poder'",
-            "explanation": "Tras 'puede' van varios infinitivos coordinados ('disparar', 'llenar', 'poner') que comparten el mismo verbo modal.",
-            "why_tricky": "Hay que mantener el infinitivo en todos los verbos de la lista y no conjugarlos."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "valer la pena",
-            "meaning": "merecer el esfuerzo o el coste",
-            "example": "Viajar tanto vale la pena por las vistas."
-          },
-          {
-            "phrase": "cada vez más",
-            "meaning": "de forma creciente, en aumento",
-            "example": "Cada vez más gente trabaja desde casa."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué se considera un honor estar en la lista de la Unesco?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué problemas puede causar el turismo masivo según el texto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué dilema plantea el debate al final del artículo?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que el turismo es bueno o malo para las ciudades históricas? Da tu opinión con dos argumentos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-12-el-nino-clima",
-      "title": "Los científicos dicen que el fenómeno de El Niño ya empezó y advierten de los efectos climáticos extremos que puede traer",
-      "source": "BBC Mundo",
-      "date": "2026-06-12",
-      "level": "B1-B2",
-      "topics": [
-        "ciencia",
-        "clima"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-12-el-nino-clima",
-        "revision": 2,
-        "meta": {
-          "title": "Los científicos dicen que el fenómeno de El Niño ya empezó y advierten de los efectos climáticos extremos que puede traer",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cgrkww90dgeo",
-          "date_published": "2026-06-12",
-          "date_processed": "2026-06-12",
-          "tags": [
-            "ciencia",
-            "clima"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "American scientists have confirmed that the El Nino phenomenon has officially begun. It is a natural climate pattern that appears every few years, when the surface waters of the Pacific Ocean warm more than usual. Although it is born at sea, its effects are felt across the planet: it tends to bring higher temperatures, droughts in some regions and floods in others. Experts warn that this episode could cause extreme weather over the coming months.\n\nAgriculture, fishing and the water supply are especially vulnerable, above all in Latin America, where the phenomenon got its name centuries ago. El Nino also adds to the global warming caused by human activity, which increases the chances of breaking heat records. Governments are already preparing to respond, but nobody knows for certain how long it will last or how strong it will be this time.",
-        "resumen_es": "Los científicos estadounidenses han confirmado que el fenómeno de El Niño ya ha comenzado oficialmente. Se trata de un patrón climático natural que aparece cada pocos años, cuando las aguas superficiales del océano Pacífico se calientan más de lo normal. Aunque nace en el mar, sus efectos se sienten en todo el planeta: suele traer temperaturas más elevadas, sequías en algunas regiones e inundaciones en otras. Los expertos advierten de que este episodio podría provocar condiciones meteorológicas extremas durante los próximos meses.\n\nLa agricultura, la pesca y el suministro de agua son especialmente vulnerables, sobre todo en América Latina, donde el fenómeno recibió su nombre hace siglos. Además, El Niño se suma al calentamiento global causado por la actividad humana, lo que aumenta la probabilidad de batir récords de calor. Los gobiernos ya se preparan para responder, pero nadie sabe con certeza cuánto durará ni qué fuerza alcanzará esta vez.",
-        "vocab": [
-          {
-            "front": "el fenómeno",
-            "pos": "noun",
-            "back": "phenomenon",
-            "example": "El fenómeno de El Niño aparece cada pocos años.",
-            "tier": "B1"
-          },
-          {
-            "front": "calentarse",
-            "pos": "verb",
-            "back": "to warm up, to heat up",
-            "example": "Las aguas del Pacífico se calientan más de lo normal.",
-            "tier": "B1"
-          },
-          {
-            "front": "la sequía",
-            "pos": "noun",
-            "back": "drought",
-            "example": "La sequía afecta a la agricultura del sur.",
-            "tier": "B2"
-          },
-          {
-            "front": "la inundación",
-            "pos": "noun",
-            "back": "flood",
-            "example": "Las inundaciones obligaron a evacuar el pueblo.",
-            "tier": "B2"
-          },
-          {
-            "front": "advertir de",
-            "pos": "phrase",
-            "back": "to warn about",
-            "example": "Los expertos advierten de los riesgos del calor extremo.",
-            "tier": "B2"
-          },
-          {
-            "front": "el suministro de agua",
-            "pos": "phrase",
-            "back": "water supply",
-            "example": "El suministro de agua depende de las lluvias.",
-            "tier": "B2"
-          },
-          {
-            "front": "vulnerable",
-            "pos": "adj",
-            "back": "vulnerable",
-            "example": "La pesca es especialmente vulnerable este año.",
-            "tier": "B2"
-          },
-          {
-            "front": "sumarse a",
-            "pos": "phrase",
-            "back": "to add to, to join",
-            "example": "Este episodio se suma al calentamiento global.",
-            "tier": "B2"
-          },
-          {
-            "front": "batir récords",
-            "pos": "phrase",
-            "back": "to break records",
-            "example": "Este verano podríamos batir récords de calor.",
-            "tier": "B2"
-          },
-          {
-            "front": "con certeza",
-            "pos": "phrase",
-            "back": "with certainty",
-            "example": "Nadie sabe con certeza cuánto durará.",
-            "tier": "B2"
-          },
-          {
-            "front": "el patrón",
-            "pos": "noun",
-            "back": "pattern",
-            "example": "Es un patrón climático natural.",
-            "tier": "B2"
-          },
-          {
-            "front": "el calentamiento global",
-            "pos": "phrase",
-            "back": "global warming",
-            "example": "El calentamiento global intensifica estos fenómenos.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Los científicos estadounidenses han confirmado que el fenómeno de El Niño ya ha comenzado oficialmente.",
-            "point": "pretérito perfecto (haber + participio)",
-            "explanation": "Used for recent events with present relevance: 'han confirmado', 'ha comenzado'.",
-            "why_tricky": "English often uses the simple past here; Spanish prefers the perfect for news that just happened."
-          },
-          {
-            "sentence": "este episodio podría provocar condiciones meteorológicas extremas durante los próximos meses",
-            "point": "condicional de probabilidad (podría + infinitivo)",
-            "explanation": "'Podría provocar' softens the claim: it may or may not happen.",
-            "why_tricky": "Learners often overuse 'puede'; 'podría' signals a more cautious prediction."
-          },
-          {
-            "sentence": "nadie sabe con certeza cuánto durará ni qué fuerza alcanzará esta vez",
-            "point": "futuro en preguntas indirectas + ni",
-            "explanation": "Future tense inside indirect questions ('cuánto durará'), with 'ni' linking negatives.",
-            "why_tricky": "'Ni' replaces 'o' after a negative; English keeps 'or'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "nacer en el mar y sentirse en todo el planeta",
-            "meaning": "to start small/locally and have global effects",
-            "example": "El problema nace en el mar, pero se siente en todo el planeta."
-          },
-          {
-            "phrase": "prepararse para responder",
-            "meaning": "to get ready to act",
-            "example": "Los gobiernos se preparan para responder a la crisis."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué es exactamente el fenómeno de El Niño y dónde se origina?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué sectores económicos son los más vulnerables según el texto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué este episodio podría batir récords de calor?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que tu país está preparado para fenómenos climáticos extremos? ¿Qué medidas tomarías tú?"
       }
     }
   ]
