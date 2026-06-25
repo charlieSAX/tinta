@@ -1,7 +1,500 @@
 {
-  "generated_at": "2026-06-24T20:13:47Z",
+  "generated_at": "2026-06-25T08:17:48Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-25-mano-de-dios",
+      "title": "La historia de Alejandro Ojeda Carbajal, el fotografo mexicano que inmortalizo la \"mano de Dios\" de Maradona hace 40 anos",
+      "source": "BBC Mundo",
+      "date": "2026-06-25",
+      "level": "B1-B2",
+      "topics": [
+        "futbol",
+        "historia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-25-mano-de-dios",
+        "revision": 1,
+        "meta": {
+          "title": "La historia de Alejandro Ojeda Carbajal, el fotografo mexicano que inmortalizo la \"mano de Dios\" de Maradona hace 40 anos",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cx24jrmkpjxo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-23",
+          "date_processed": "2026-06-25",
+          "tags": [
+            "futbol",
+            "historia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Forty years ago, during the World Cup in Mexico, the photographer Alejandro Ojeda Carbajal captured one of the most famous images in the history of football. He worked for the newspaper El Heraldo de Mexico and, from his position on the pitch, managed to photograph the exact moment when Diego Maradona scored the controversial goal known as the 'Hand of God'. That play, in the match against England, is still remembered and debated all over the world.\n\nThe photograph turned Ojeda Carbajal into a privileged witness of a historic moment. Over the years, his image has appeared in newspapers, books and exhibitions, and has become a symbol of Maradona's talent and cunning. The Argentine star died in 2020, but episodes like this keep his legend alive. For the photographer, having been in the right place at the right time is still the greatest pride of his career.",
+        "resumen_es": "Hace cuarenta anos, durante el Mundial de Mexico, el fotografo Alejandro Ojeda Carbajal capto una de las imagenes mas famosas de la historia del futbol. Trabajaba para el diario El Heraldo de Mexico y, desde su posicion en la cancha, logro fotografiar el instante exacto en que Diego Maradona marco el polemico gol conocido como la 'mano de Dios'. Aquella jugada, en el partido contra Inglaterra, se recuerda y se discute en todo el mundo.\n\nLa fotografia convirtio a Ojeda Carbajal en testigo privilegiado de un momento historico. Con el paso de los anos, su imagen ha aparecido en periodicos, libros y exposiciones, y se ha vuelto un simbolo del talento y la picardia de Maradona. El astro argentino fallecio en 2020, pero episodios como este mantienen viva su leyenda. Para el fotografo, haber estado en el lugar y el momento adecuados sigue siendo el mayor orgullo de su carrera.",
+        "vocab": [
+          {
+            "front": "captar",
+            "pos": "verb",
+            "back": "to capture (an image, a moment)",
+            "example": "El fotografo logro captar la escena perfecta.",
+            "tier": "B2"
+          },
+          {
+            "front": "la cancha",
+            "pos": "noun",
+            "back": "the pitch, the field",
+            "example": "Los jugadores entraron a la cancha entre aplausos.",
+            "tier": "B1"
+          },
+          {
+            "front": "la jugada",
+            "pos": "noun",
+            "back": "the play, the move",
+            "example": "Esa jugada cambio el resultado del partido.",
+            "tier": "B1"
+          },
+          {
+            "front": "polemico",
+            "pos": "adj",
+            "back": "controversial",
+            "example": "Fue una decision muy polemica del arbitro.",
+            "tier": "B2"
+          },
+          {
+            "front": "el testigo",
+            "pos": "noun",
+            "back": "the witness",
+            "example": "Ella fue testigo de un momento historico.",
+            "tier": "B1"
+          },
+          {
+            "front": "la picardia",
+            "pos": "noun",
+            "back": "cunning, cheekiness",
+            "example": "Marco el gol con picardia y rapidez.",
+            "tier": "C1"
+          },
+          {
+            "front": "el astro",
+            "pos": "noun",
+            "back": "the star (celebrity, sports icon)",
+            "example": "El astro del cine recibio un premio.",
+            "tier": "B2"
+          },
+          {
+            "front": "fallecer",
+            "pos": "verb",
+            "back": "to pass away",
+            "example": "El escritor fallecio a los noventa anos.",
+            "tier": "B2"
+          },
+          {
+            "front": "mantener viva (la leyenda)",
+            "pos": "phrase",
+            "back": "to keep (the legend) alive",
+            "example": "Sus libros mantienen viva su memoria.",
+            "tier": "B2"
+          },
+          {
+            "front": "el orgullo",
+            "pos": "noun",
+            "back": "the pride",
+            "example": "Ganar el premio fue su mayor orgullo.",
+            "tier": "B1"
+          },
+          {
+            "front": "inmortalizar",
+            "pos": "verb",
+            "back": "to immortalize",
+            "example": "La pintura inmortalizo aquel paisaje.",
+            "tier": "C1"
+          },
+          {
+            "front": "el diario",
+            "pos": "noun",
+            "back": "the (daily) newspaper",
+            "example": "Lee el diario todas las mananas.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "logro fotografiar el instante exacto en que Diego Maradona marco el polemico gol conocido como la 'mano de Dios'.",
+            "point": "Preterito indefinido + relativo 'en que'",
+            "explanation": "'Logro' y 'marco' son preteritos que narran acciones puntuales del pasado. 'En que' introduce una oracion de relativo que precisa el momento.",
+            "why_tricky": "Los estudiantes suelen usar 'en cual' o 'cuando'; con expresiones de tiempo, 'en que' es la opcion natural."
+          },
+          {
+            "sentence": "Con el paso de los anos, su imagen ha aparecido en periodicos, libros y exposiciones, y se ha vuelto un simbolo del talento y la picardia de Maradona.",
+            "point": "Preterito perfecto compuesto",
+            "explanation": "'Ha aparecido' y 'se ha vuelto' expresan acciones del pasado con relevancia o efecto en el presente.",
+            "why_tricky": "Se confunde con el indefinido; aqui interesa el resultado actual, no el momento exacto."
+          },
+          {
+            "sentence": "haber estado en el lugar y el momento adecuados sigue siendo el mayor orgullo de su carrera.",
+            "point": "Infinitivo compuesto como sujeto + 'seguir + gerundio'",
+            "explanation": "'Haber estado' funciona como sujeto de la frase. 'Sigue siendo' indica una situacion que continua en el tiempo.",
+            "why_tricky": "El infinitivo compuesto como sujeto es poco intuitivo para hablantes de ingles."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "estar en el lugar y el momento adecuados",
+            "meaning": "to be in the right place at the right time",
+            "example": "Consiguio la foto porque estuvo en el lugar y el momento adecuados."
+          },
+          {
+            "phrase": "con el paso de los anos",
+            "meaning": "as the years go by, over time",
+            "example": "Con el paso de los anos, la historia se volvio una leyenda."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Para que periodico trabajaba Alejandro Ojeda Carbajal cuando tomo la fotografia?",
+            "type": "open"
+          },
+          {
+            "q": "Por que crees que esa imagen se volvio tan importante?",
+            "type": "open"
+          },
+          {
+            "q": "Que representa la fotografia para la carrera del autor?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Escribe un parrafo sobre una fotografia o un momento deportivo que para ti sea inolvidable y explica por que."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-25-crash-1929",
+      "title": "Que nos puede ensenar el Crash de 1929 sobre los peligros que enfrenta la economia en la actualidad",
+      "source": "BBC Mundo",
+      "date": "2026-06-25",
+      "level": "B1-B2",
+      "topics": [
+        "economia",
+        "historia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-25-crash-1929",
+        "revision": 1,
+        "meta": {
+          "title": "Que nos puede ensenar el Crash de 1929 sobre los peligros que enfrenta la economia en la actualidad",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cr5j2lpzd4yo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-20",
+          "date_processed": "2026-06-25",
+          "tags": [
+            "economia",
+            "historia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The journalist Andrew Ross Sorkin has published a new book about the famous Crash of 1929, the stock market collapse that marked the start of the Great Depression. In his work, the author analyses the causes that triggered that crisis and asks whether similar signs exist today. According to him, understanding the past can help us recognise the dangers that threaten today's economy.\n\nAmong the factors he studies are excessive speculation, investors' unbounded optimism and the lack of control over the markets. The book invites us to reflect on how human emotions, such as greed or fear, influence financial decisions. Although today's situation is not identical to that of almost a century ago, Sorkin argues that it is wise to learn from the mistakes of the past in order not to repeat them.",
+        "resumen_es": "El periodista Andrew Ross Sorkin ha publicado un nuevo libro sobre el famoso Crash de 1929, el desplome de la bolsa que marco el inicio de la Gran Depresion. En su obra, el autor analiza las causas que provocaron aquella crisis y se pregunta si hoy existen senales parecidas. Segun el, entender el pasado puede ayudarnos a reconocer los peligros que amenazan la economia actual.\n\nEntre los factores que estudia destacan la especulacion excesiva, el optimismo desmedido de los inversores y la falta de control sobre los mercados. El libro invita a reflexionar sobre como las emociones humanas, como la codicia o el miedo, influyen en las decisiones financieras. Aunque la situacion de hoy no es identica a la de hace casi un siglo, Sorkin sostiene que conviene aprender de los errores del pasado para no repetirlos.",
+        "vocab": [
+          {
+            "front": "el desplome",
+            "pos": "noun",
+            "back": "the collapse, the crash",
+            "example": "El desplome de la bolsa asusto a los inversores.",
+            "tier": "B2"
+          },
+          {
+            "front": "la bolsa",
+            "pos": "noun",
+            "back": "the stock market",
+            "example": "Las acciones subieron en la bolsa de Nueva York.",
+            "tier": "B1"
+          },
+          {
+            "front": "la Gran Depresion",
+            "pos": "noun",
+            "back": "the Great Depression",
+            "example": "La Gran Depresion dejo a millones sin empleo.",
+            "tier": "B2"
+          },
+          {
+            "front": "la especulacion",
+            "pos": "noun",
+            "back": "speculation",
+            "example": "La especulacion infla el precio de la vivienda.",
+            "tier": "B2"
+          },
+          {
+            "front": "desmedido",
+            "pos": "adj",
+            "back": "excessive, unbounded",
+            "example": "Mostro un entusiasmo desmedido por el proyecto.",
+            "tier": "C1"
+          },
+          {
+            "front": "el inversor",
+            "pos": "noun",
+            "back": "the investor",
+            "example": "Los inversores buscan beneficios seguros.",
+            "tier": "B1"
+          },
+          {
+            "front": "la codicia",
+            "pos": "noun",
+            "back": "greed",
+            "example": "La codicia lo llevo a tomar malas decisiones.",
+            "tier": "B2"
+          },
+          {
+            "front": "amenazar",
+            "pos": "verb",
+            "back": "to threaten",
+            "example": "La inflacion amenaza el ahorro de las familias.",
+            "tier": "B1"
+          },
+          {
+            "front": "reflexionar",
+            "pos": "verb",
+            "back": "to reflect, to ponder",
+            "example": "Conviene reflexionar antes de invertir.",
+            "tier": "B1"
+          },
+          {
+            "front": "sostener (que)",
+            "pos": "verb",
+            "back": "to maintain, to argue (that)",
+            "example": "El experto sostiene que la crisis era evitable.",
+            "tier": "B2"
+          },
+          {
+            "front": "convenir",
+            "pos": "verb",
+            "back": "to be advisable",
+            "example": "Conviene leer el contrato con calma.",
+            "tier": "B2"
+          },
+          {
+            "front": "el parecido",
+            "pos": "noun",
+            "back": "the similarity, the resemblance",
+            "example": "Hay un parecido claro entre las dos crisis.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Segun el, entender el pasado puede ayudarnos a reconocer los peligros que amenazan la economia actual.",
+            "point": "Infinitivo como sujeto + 'ayudar a + infinitivo'",
+            "explanation": "'Entender el pasado' es el sujeto de 'puede'. 'Ayudar a' siempre va seguido de infinitivo: 'ayudarnos a reconocer'.",
+            "why_tricky": "En ingles se usa el gerundio ('understanding'); en espanol el sujeto es un infinitivo."
+          },
+          {
+            "sentence": "El libro invita a reflexionar sobre como las emociones humanas, como la codicia o el miedo, influyen en las decisiones financieras.",
+            "point": "'invitar a + infinitivo' y el verbo 'influir en'",
+            "explanation": "'Invitar a' rige infinitivo. 'Influir' se construye con la preposicion 'en', no 'a' ni 'sobre'.",
+            "why_tricky": "La preposicion de 'influir en' se olvida con frecuencia."
+          },
+          {
+            "sentence": "Sorkin sostiene que conviene aprender de los errores del pasado para no repetirlos.",
+            "point": "'convenir' impersonal + 'para + infinitivo' negativo",
+            "explanation": "'Conviene' es impersonal y va con infinitivo. 'Para no repetirlos' expresa finalidad con el infinitivo en negativo.",
+            "why_tricky": "El orden 'para no + infinitivo' difiere del ingles 'in order not to'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "aprender de los errores",
+            "meaning": "to learn from one's mistakes",
+            "example": "Una buena empresa aprende de los errores y mejora."
+          },
+          {
+            "phrase": "tropezar dos veces con la misma piedra",
+            "meaning": "to make the same mistake twice",
+            "example": "No quiero tropezar dos veces con la misma piedra."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Que acontecimiento historico estudia el libro de Andrew Ross Sorkin?",
+            "type": "open"
+          },
+          {
+            "q": "Segun el autor, que emociones influyen en las decisiones financieras?",
+            "type": "open"
+          },
+          {
+            "q": "Por que crees que es util estudiar las crisis del pasado?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Crees que la historia se repite en la economia? Escribe tu opinion con ejemplos."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-25-apps-citas",
+      "title": "El agotamiento que producen las apps de citas y 4 consejos para evitarlo",
+      "source": "BBC Mundo",
+      "date": "2026-06-25",
+      "level": "B1-B2",
+      "topics": [
+        "tecnologia",
+        "bienestar"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-25-apps-citas",
+        "revision": 1,
+        "meta": {
+          "title": "El agotamiento que producen las apps de citas y 4 consejos para evitarlo",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c042yrqv1y6o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-15",
+          "date_processed": "2026-06-25",
+          "tags": [
+            "tecnologia",
+            "bienestar"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Dating apps have become one of the most common ways to meet people, but they can also cause a lot of tiredness. According to several specialists, many users feel constant pressure to find a partner and spend hours swiping through profiles without getting results. That endless search, instead of being exciting, sometimes produces anxiety, frustration and even a deep feeling of loneliness.\n\nExperts recommend using these platforms more calmly and without becoming obsessed with results. They advise taking breaks, being honest in your profile and remembering that behind every screen there is a real person. They also suggest not measuring your own worth by the number of 'likes' received. In the end, taking care of your mental health is as important as looking for love, and sometimes it is worth turning off the phone and enjoying life off the network.",
+        "resumen_es": "Las aplicaciones de citas se han convertido en una de las formas mas comunes de conocer gente, pero tambien pueden generar mucho cansancio. Segun varios especialistas, muchos usuarios sienten una presion constante por encontrar pareja y pasan horas deslizando perfiles sin obtener resultados. Esa busqueda interminable, en lugar de ilusionar, a veces produce ansiedad, frustracion e incluso una profunda sensacion de soledad.\n\nLos expertos recomiendan usar estas plataformas con mas calma y sin obsesionarse con los resultados. Aconsejan tomar descansos, ser sincero en el perfil y recordar que detras de cada pantalla hay una persona real. Tambien sugieren no medir el propio valor por la cantidad de 'me gusta' recibidos. Al final, cuidar la salud mental resulta tan importante como buscar el amor, y a veces conviene apagar el telefono y disfrutar de la vida fuera de la red.",
+        "vocab": [
+          {
+            "front": "el agotamiento",
+            "pos": "noun",
+            "back": "exhaustion, burnout",
+            "example": "El agotamiento mental afecta a muchos trabajadores.",
+            "tier": "B2"
+          },
+          {
+            "front": "la cita",
+            "pos": "noun",
+            "back": "the date (romantic), appointment",
+            "example": "Tiene una cita el viernes por la noche.",
+            "tier": "B1"
+          },
+          {
+            "front": "deslizar",
+            "pos": "verb",
+            "back": "to swipe, to slide",
+            "example": "Desliza la pantalla para ver mas fotos.",
+            "tier": "B2"
+          },
+          {
+            "front": "el perfil",
+            "pos": "noun",
+            "back": "the profile",
+            "example": "Actualizo su perfil con una foto nueva.",
+            "tier": "B1"
+          },
+          {
+            "front": "la presion",
+            "pos": "noun",
+            "back": "the pressure",
+            "example": "Siente mucha presion en el trabajo.",
+            "tier": "B1"
+          },
+          {
+            "front": "ilusionar",
+            "pos": "verb",
+            "back": "to excite, to give hope",
+            "example": "La idea del viaje los ilusiona mucho.",
+            "tier": "B2"
+          },
+          {
+            "front": "la soledad",
+            "pos": "noun",
+            "back": "loneliness",
+            "example": "La soledad puede afectar el animo.",
+            "tier": "B1"
+          },
+          {
+            "front": "obsesionarse (con)",
+            "pos": "verb",
+            "back": "to become obsessed (with)",
+            "example": "No te obsesiones con el resultado.",
+            "tier": "B2"
+          },
+          {
+            "front": "el descanso",
+            "pos": "noun",
+            "back": "the break, the rest",
+            "example": "Despues de estudiar, toma un descanso.",
+            "tier": "B1"
+          },
+          {
+            "front": "sincero",
+            "pos": "adj",
+            "back": "honest, sincere",
+            "example": "Prefiero una respuesta sincera.",
+            "tier": "B1"
+          },
+          {
+            "front": "la pantalla",
+            "pos": "noun",
+            "back": "the screen",
+            "example": "Pasa demasiadas horas frente a la pantalla.",
+            "tier": "B1"
+          },
+          {
+            "front": "la salud mental",
+            "pos": "phrase",
+            "back": "mental health",
+            "example": "Cuidar la salud mental es fundamental.",
+            "tier": "B1"
+          },
+          {
+            "front": "interminable",
+            "pos": "adj",
+            "back": "endless",
+            "example": "Fue una espera interminable.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "muchos usuarios sienten una presion constante por encontrar pareja y pasan horas deslizando perfiles sin obtener resultados.",
+            "point": "Gerundio de modo + 'sin + infinitivo'",
+            "explanation": "'Deslizando' indica la manera en que pasan el tiempo. 'Sin obtener' expresa una accion ausente, con infinitivo despues de 'sin'.",
+            "why_tricky": "En ingles 'without getting' usa gerundio; en espanol 'sin' va con infinitivo."
+          },
+          {
+            "sentence": "Los expertos recomiendan usar estas plataformas con mas calma y sin obsesionarse con los resultados.",
+            "point": "'recomendar + infinitivo' e infinitivo reflexivo",
+            "explanation": "'Recomendar' va aqui con infinitivo. 'Obsesionarse' mantiene el pronombre 'se' unido al infinitivo.",
+            "why_tricky": "El pronombre reflexivo se coloca al final del infinitivo, no antes."
+          },
+          {
+            "sentence": "cuidar la salud mental resulta tan importante como buscar el amor, y a veces conviene apagar el telefono y disfrutar de la vida fuera de la red.",
+            "point": "Comparativo de igualdad 'tan ... como'",
+            "explanation": "'Tan importante como' compara dos infinitivos: cuidar la salud y buscar el amor.",
+            "why_tricky": "Se confunde 'tan' (con adjetivos) y 'tanto' (con sustantivos o verbos)."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "la media naranja",
+            "meaning": "one's soulmate, perfect partner",
+            "example": "Muchos usan estas apps para encontrar a su media naranja."
+          },
+          {
+            "phrase": "tomarse las cosas con calma",
+            "meaning": "to take things easy",
+            "example": "Es mejor tomarse las cosas con calma y no desesperarse."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Por que pueden cansar las aplicaciones de citas a sus usuarios?",
+            "type": "open"
+          },
+          {
+            "q": "Que consejos dan los expertos para usarlas de forma mas sana?",
+            "type": "open"
+          },
+          {
+            "q": "Estas de acuerdo con la idea de apagar el telefono a veces? Por que?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Crees que la tecnologia ayuda o dificulta encontrar pareja hoy en dia? Justifica tu respuesta."
+      }
+    },
     {
       "pack_id": "feed-2026-06-24-paraguay-boom",
       "title": "5 claves que explican el \"boom\" económico de Paraguay (pese a que no toda la población percibe los beneficios)",
@@ -6260,520 +6753,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que se puede juzgar el legado de un presidente justo al final de su mandato, o hace falta esperar varios años? Escribe un párrafo con tu opinión."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-16-fifa-espanol-entrevistas",
-      "title": "La FIFA retrocede y permitirá el uso del español en todas las entrevistas",
-      "source": "RFI en español",
-      "date": "2026-06-15",
-      "level": "B1-B2",
-      "topics": [
-        "deporte",
-        "idioma"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-16-fifa-espanol-entrevistas",
-        "revision": 1,
-        "meta": {
-          "title": "La FIFA retrocede y permitirá el uso del español en todas las entrevistas",
-          "source": "RFI en español",
-          "url": "https://www.rfi.fr/es/deportes/20260615-la-fifa-retrocede-y-permitir%C3%A1-el-uso-del-espa%C3%B1ol-en-todas-las-entrevistas",
-          "date_published": "2026-06-15",
-          "date_processed": "2026-06-16",
-          "tags": [
-            "deporte",
-            "idioma"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "FIFA has backtracked and will allow the use of Spanish in all interviews at the 2026 World Cup. The decision comes after a strong controversy, since the organisation had prevented some footballers from answering in Spanish during press conferences. Many fans and journalists felt that this rule discriminated against one of the most widely spoken languages on the planet.\n\nLanguage had become a sensitive issue, because for many players and supporters speaking in their own tongue is a way of expressing their identity. By backtracking, FIFA is trying to calm the criticism and show that the tournament respects the cultural diversity of its protagonists. The case shows the growing weight of Spanish in sport and the pressure that social media can exert on big institutions.",
-        "resumen_es": "La FIFA ha dado marcha atrás y permitirá el uso del español en todas las entrevistas del Mundial 2026. La decisión llega después de una fuerte polémica, ya que la organización había impedido que algunos futbolistas respondieran en español durante las ruedas de prensa. Muchos aficionados y periodistas consideraron que esa norma discriminaba a una de las lenguas más habladas del planeta.\n\nEl idioma se había convertido en un tema sensible, porque para muchos jugadores y seguidores hablar en su propia lengua es una forma de expresar su identidad. Al rectificar, la FIFA busca calmar las críticas y mostrar que el torneo respeta la diversidad cultural de sus protagonistas. El caso demuestra el peso creciente del español en el deporte y la presión que las redes sociales pueden ejercer sobre las grandes instituciones.",
-        "vocab": [
-          {
-            "front": "dar marcha atrás",
-            "pos": "phrase",
-            "back": "to backtrack, to reverse a decision",
-            "example": "El gobierno dio marcha atrás tras las protestas.",
-            "tier": "B2"
-          },
-          {
-            "front": "la polémica",
-            "pos": "noun",
-            "back": "controversy",
-            "example": "Su comentario provocó una gran polémica.",
-            "tier": "B1"
-          },
-          {
-            "front": "impedir",
-            "pos": "verb",
-            "back": "to prevent",
-            "example": "La lluvia impidió que jugaran el partido.",
-            "tier": "B2"
-          },
-          {
-            "front": "la rueda de prensa",
-            "pos": "phrase",
-            "back": "press conference",
-            "example": "El entrenador habló en la rueda de prensa.",
-            "tier": "B1"
-          },
-          {
-            "front": "el aficionado",
-            "pos": "noun",
-            "back": "fan, supporter",
-            "example": "Los aficionados llenaron el estadio.",
-            "tier": "B1"
-          },
-          {
-            "front": "discriminar",
-            "pos": "verb",
-            "back": "to discriminate",
-            "example": "Ninguna norma debería discriminar a un grupo.",
-            "tier": "B2"
-          },
-          {
-            "front": "la lengua",
-            "pos": "noun",
-            "back": "language, tongue",
-            "example": "El español es su lengua materna.",
-            "tier": "B1"
-          },
-          {
-            "front": "sensible",
-            "pos": "adj",
-            "back": "sensitive (false friend: not 'sensible/wise')",
-            "example": "Es un tema muy sensible para mucha gente.",
-            "tier": "B2"
-          },
-          {
-            "front": "la identidad",
-            "pos": "noun",
-            "back": "identity",
-            "example": "La música forma parte de su identidad.",
-            "tier": "B1"
-          },
-          {
-            "front": "rectificar",
-            "pos": "verb",
-            "back": "to put right, to correct (a decision)",
-            "example": "Es de sabios rectificar a tiempo.",
-            "tier": "B2"
-          },
-          {
-            "front": "calmar",
-            "pos": "verb",
-            "back": "to calm, to soothe",
-            "example": "Intentó calmar a los manifestantes con un discurso.",
-            "tier": "B1"
-          },
-          {
-            "front": "el torneo",
-            "pos": "noun",
-            "back": "tournament",
-            "example": "El torneo reúne a equipos de todo el mundo.",
-            "tier": "B1"
-          },
-          {
-            "front": "ejercer presión",
-            "pos": "phrase",
-            "back": "to exert pressure",
-            "example": "Las redes sociales ejercen mucha presión sobre las marcas.",
-            "tier": "B2"
-          },
-          {
-            "front": "creciente",
-            "pos": "adj",
-            "back": "growing, rising",
-            "example": "Hay un interés creciente por aprender idiomas.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La decisión llega después de una fuerte polémica, ya que la organización había impedido que algunos futbolistas respondieran en español durante las ruedas de prensa.",
-            "point": "pluscuamperfecto + imperfecto de subjuntivo tras 'impedir que'",
-            "explanation": "'Había impedido' es pluscuamperfecto (una acción anterior a otra del pasado). 'Impedir que' exige subjuntivo, y aquí en pasado se usa el imperfecto de subjuntivo 'respondieran'.",
-            "why_tricky": "Los verbos de influencia como 'impedir que' siempre piden subjuntivo, y hay que ajustar el tiempo al pasado (respondieran, no responden)."
-          },
-          {
-            "sentence": "El idioma se había convertido en un tema sensible, porque para muchos jugadores y seguidores hablar en su propia lengua es una forma de expresar su identidad.",
-            "point": "infinitivo como sujeto de la oración",
-            "explanation": "'Hablar en su propia lengua' funciona como sujeto del verbo 'es'. En español el infinitivo puede actuar como un sustantivo.",
-            "why_tricky": "En inglés se usaría un gerundio (speaking), pero en español el sujeto es el infinitivo (hablar)."
-          },
-          {
-            "sentence": "Al rectificar, la FIFA busca calmar las críticas y mostrar que el torneo respeta la diversidad cultural de sus protagonistas.",
-            "point": "'al + infinitivo' para expresar el momento o la causa",
-            "explanation": "'Al rectificar' equivale a 'cuando rectifica' o 'al hacerlo'. La construcción 'al + infinitivo' indica el momento en que ocurre algo.",
-            "why_tricky": "Es una estructura muy frecuente que muchos estudiantes sustituyen por una frase con 'cuando' más larga."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "echar leña al fuego",
-            "meaning": "to add fuel to the fire",
-            "example": "Sus declaraciones solo echaron más leña al fuego."
-          },
-          {
-            "phrase": "estar en boca de todos",
-            "meaning": "to be the talk of the town, on everyone's lips",
-            "example": "La polémica está en boca de todos esta semana."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué decisión tomó la FIFA sobre el uso del español?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué se generó la polémica?",
-            "type": "open"
-          },
-          {
-            "q": "Según el texto, ¿qué representa para los jugadores hablar en su propia lengua?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que los deportistas deberían poder hablar en su idioma materno en las entrevistas? Justifica tu respuesta."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-16-reino-unido-redes-menores",
-      "title": "Reino Unido prohibirá el acceso a redes sociales a los menores de 16 años",
-      "source": "RFI en español",
-      "date": "2026-06-15",
-      "level": "B1-B2",
-      "topics": [
-        "sociedad",
-        "tecnología"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-16-reino-unido-redes-menores",
-        "revision": 1,
-        "meta": {
-          "title": "Reino Unido prohibirá el acceso a redes sociales a los menores de 16 años",
-          "source": "RFI en español",
-          "url": "https://www.rfi.fr/es/europa/20260615-reino-unido-prohibir%C3%A1-el-acceso-a-redes-sociales-a-los-menores-de-16-a%C3%B1os",
-          "date_published": "2026-06-15",
-          "date_processed": "2026-06-16",
-          "tags": [
-            "sociedad",
-            "tecnología"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The British Prime Minister, Keir Starmer, has announced that the United Kingdom will ban under-16s from accessing social media. With this measure, the country would join others, such as Australia, that have already chosen to restrict the use of these platforms among the youngest. The government justifies the decision by the growing concern about teenagers' mental health.\n\nSupporters of the proposal argue that social media exposes children to harmful content and encourages screen addiction. However, critics doubt that the ban can be applied effectively, since many young people know how to get around age checks. Meanwhile, the debate about how to protect children online without limiting their freedoms too much remains very much alive across Europe.",
-        "resumen_es": "El primer ministro británico, Keir Starmer, anunció que Reino Unido prohibirá el acceso a las redes sociales a los menores de 16 años. Con esta medida, el país se sumaría a otros, como Australia, que ya han optado por restringir el uso de estas plataformas entre los más jóvenes. El gobierno justifica la decisión por la preocupación creciente sobre la salud mental de los adolescentes.\n\nLos defensores de la propuesta sostienen que las redes exponen a los niños a contenidos nocivos y fomentan la adicción a la pantalla. Sin embargo, los críticos dudan de que la prohibición se pueda aplicar de forma eficaz, ya que muchos jóvenes saben cómo saltarse los controles de edad. Mientras tanto, el debate sobre cómo proteger a la infancia en internet sin limitar demasiado sus libertades sigue muy vivo en toda Europa.",
-        "vocab": [
-          {
-            "front": "la medida",
-            "pos": "noun",
-            "back": "measure",
-            "example": "El gobierno tomó una medida urgente contra la crisis.",
-            "tier": "B1"
-          },
-          {
-            "front": "sumarse a",
-            "pos": "verb",
-            "back": "to join, to add oneself to",
-            "example": "Más países se suman a la iniciativa cada año.",
-            "tier": "B2"
-          },
-          {
-            "front": "restringir",
-            "pos": "verb",
-            "back": "to restrict",
-            "example": "Quieren restringir el tráfico en el centro de la ciudad.",
-            "tier": "B2"
-          },
-          {
-            "front": "la preocupación",
-            "pos": "noun",
-            "back": "concern, worry",
-            "example": "Existe una gran preocupación por el cambio climático.",
-            "tier": "B1"
-          },
-          {
-            "front": "nocivo",
-            "pos": "adj",
-            "back": "harmful",
-            "example": "El tabaco es muy nocivo para la salud.",
-            "tier": "B2"
-          },
-          {
-            "front": "fomentar",
-            "pos": "verb",
-            "back": "to encourage, to foster",
-            "example": "La escuela quiere fomentar la lectura entre los niños.",
-            "tier": "B2"
-          },
-          {
-            "front": "la pantalla",
-            "pos": "noun",
-            "back": "screen",
-            "example": "Paso demasiadas horas delante de la pantalla.",
-            "tier": "B1"
-          },
-          {
-            "front": "la prohibición",
-            "pos": "noun",
-            "back": "ban",
-            "example": "La prohibición entrará en vigor el año que viene.",
-            "tier": "B1"
-          },
-          {
-            "front": "aplicar",
-            "pos": "verb",
-            "back": "to apply, to enforce",
-            "example": "Es difícil aplicar esta norma en la práctica.",
-            "tier": "B1"
-          },
-          {
-            "front": "saltarse",
-            "pos": "verb",
-            "back": "to skip, to get around (a rule)",
-            "example": "No deberías saltarte las normas de seguridad.",
-            "tier": "B2"
-          },
-          {
-            "front": "el control de edad",
-            "pos": "phrase",
-            "back": "age check, age verification",
-            "example": "La web pide un control de edad antes de entrar.",
-            "tier": "B2"
-          },
-          {
-            "front": "la infancia",
-            "pos": "noun",
-            "back": "childhood, children",
-            "example": "Proteger la infancia debe ser una prioridad.",
-            "tier": "B1"
-          },
-          {
-            "front": "el defensor",
-            "pos": "noun",
-            "back": "supporter, defender",
-            "example": "Los defensores de la ley celebraron la decisión.",
-            "tier": "B1"
-          },
-          {
-            "front": "dudar de",
-            "pos": "verb",
-            "back": "to doubt",
-            "example": "Muchos dudan de que la promesa se cumpla.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Los defensores de la propuesta sostienen que las redes exponen a los niños a contenidos nocivos y fomentan la adicción a la pantalla.",
-            "point": "indicativo tras verbos de afirmación ('sostener que')",
-            "explanation": "Cuando se afirma algo como un hecho, se usa indicativo: 'sostienen que las redes exponen / fomentan'.",
-            "why_tricky": "Contrasta con verbos de duda, que exigen subjuntivo; hay que fijarse en el verbo principal."
-          },
-          {
-            "sentence": "Sin embargo, los críticos dudan de que la prohibición se pueda aplicar de forma eficaz, ya que muchos jóvenes saben cómo saltarse los controles de edad.",
-            "point": "subjuntivo tras 'dudar de que'; conector causal 'ya que'",
-            "explanation": "'Dudar de que' expresa duda, por eso va con subjuntivo ('se pueda'). 'Ya que' introduce la causa.",
-            "why_tricky": "Es fácil decir 'se puede' (indicativo) por error; la duda obliga al subjuntivo 'se pueda'."
-          },
-          {
-            "sentence": "Con esta medida, el país se sumaría a otros, como Australia, que ya han optado por restringir el uso de estas plataformas entre los más jóvenes.",
-            "point": "condicional simple para una consecuencia probable",
-            "explanation": "'Se sumaría' usa el condicional porque la acción depende de que la medida se apruebe; expresa algo previsto pero aún no seguro.",
-            "why_tricky": "El condicional aquí no marca una condición con 'si', sino una consecuencia hipotética de un anuncio."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "seguir muy vivo",
-            "meaning": "(a debate) to be very much alive, ongoing",
-            "example": "La polémica sigue muy viva en las redes sociales."
-          },
-          {
-            "phrase": "saltarse algo a la torera",
-            "meaning": "to flout or completely ignore the rules",
-            "example": "Se saltó las normas a la torera y nadie lo castigó."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué medida anunció el primer ministro británico?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué algunos críticos dudan de la eficacia de la prohibición?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué argumentos dan los defensores de la propuesta?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Estás de acuerdo con prohibir las redes sociales a los menores de 16 años? Da al menos dos razones."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-15-bishkek-arquitectura",
-      "title": "Bishkek, la moderna capital de Kirguistán que está demoliendo su imponente arquitectura soviética",
-      "source": "BBC Mundo",
-      "date": "2026-06-07",
-      "level": "B1-B2",
-      "topics": [
-        "arquitectura",
-        "patrimonio"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-15-bishkek-arquitectura",
-        "revision": 1,
-        "meta": {
-          "title": "Bishkek, la moderna capital de Kirguistán que está demoliendo su imponente arquitectura soviética",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c8r81xkj85po",
-          "date_published": "2026-06-07",
-          "date_processed": "2026-06-15",
-          "tags": [
-            "arquitectura",
-            "patrimonio"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Bishkek, the capital of Kyrgyzstan, is tearing down many of the buildings it inherited from the Soviet era. As the city grows and modernises, the authorities are using the empty plots to put up office towers and blocks of flats. For some residents this is a necessary step forward; for others it means the loss of a unique heritage.\n\nSeveral experts warn that these buildings are not just relics of the past, but witnesses to the country's history. According to one specialist, cities that respect themselves do not demolish their monuments. The debate reflects a tension affecting many former Soviet republics: how to reconcile economic development with preserving collective memory. For now, it is not clear how many landmark buildings will manage to be saved.",
-        "resumen_es": "Bishkek, la capital de Kirguistán, está derribando muchos de los edificios que heredó de la época soviética. Mientras la ciudad crece y se moderniza, las autoridades aprovechan los solares para levantar torres de oficinas y bloques de viviendas. Para algunos vecinos, se trata de un avance necesario; para otros, supone la pérdida de un patrimonio único.\n\nVarios expertos advierten de que esas construcciones no son simples reliquias del pasado, sino testimonios de la historia del país. Según una especialista, las ciudades que se respetan a sí mismas no derriban sus monumentos. El debate refleja una tensión que afecta a muchas antiguas repúblicas soviéticas: cómo conciliar el desarrollo económico con la conservación de la memoria colectiva. De momento, no está claro cuántos edificios emblemáticos lograrán salvarse.",
-        "vocab": [
-          {
-            "front": "derribar",
-            "pos": "verb",
-            "back": "to demolish, knock down",
-            "example": "El ayuntamiento decidió derribar el viejo teatro.",
-            "tier": "B2"
-          },
-          {
-            "front": "heredar",
-            "pos": "verb",
-            "back": "to inherit",
-            "example": "La ciudad heredó muchos edificios de otra época.",
-            "tier": "B1"
-          },
-          {
-            "front": "solar",
-            "pos": "noun",
-            "back": "plot of land, building site",
-            "example": "Construirán un hotel en ese solar vacío.",
-            "tier": "B2"
-          },
-          {
-            "front": "patrimonio",
-            "pos": "noun",
-            "back": "heritage",
-            "example": "La catedral forma parte del patrimonio de la ciudad.",
-            "tier": "B1"
-          },
-          {
-            "front": "reliquia",
-            "pos": "noun",
-            "back": "relic",
-            "example": "Ese coche es una reliquia de los años cincuenta.",
-            "tier": "B2"
-          },
-          {
-            "front": "testimonio",
-            "pos": "noun",
-            "back": "testimony, witness, record",
-            "example": "Las ruinas son un testimonio del pasado.",
-            "tier": "B2"
-          },
-          {
-            "front": "conciliar",
-            "pos": "verb",
-            "back": "to reconcile, balance",
-            "example": "Es difícil conciliar el trabajo y la familia.",
-            "tier": "B2"
-          },
-          {
-            "front": "desarrollo",
-            "pos": "noun",
-            "back": "development",
-            "example": "El desarrollo económico trajo muchos cambios.",
-            "tier": "B1"
-          },
-          {
-            "front": "conservación",
-            "pos": "noun",
-            "back": "preservation",
-            "example": "Trabajan en la conservación de los bosques.",
-            "tier": "B1"
-          },
-          {
-            "front": "emblemático",
-            "pos": "adj",
-            "back": "iconic, emblematic",
-            "example": "Es un edificio emblemático del centro.",
-            "tier": "B2"
-          },
-          {
-            "front": "aprovechar",
-            "pos": "verb",
-            "back": "to make the most of, take advantage of",
-            "example": "Aprovechamos el buen tiempo para pasear.",
-            "tier": "B1"
-          },
-          {
-            "front": "advertir de",
-            "pos": "phrase",
-            "back": "to warn of/about",
-            "example": "Los médicos advierten de los riesgos del tabaco.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Para algunos vecinos, se trata de un avance necesario; para otros, supone la pérdida de un patrimonio único.",
-            "point": "La construcción impersonal \"tratarse de\"",
-            "explanation": "\"Tratarse de\" significa \"ser\" o \"consistir en\" y no lleva un sujeto personal; siempre va en tercera persona.",
-            "why_tricky": "No se puede decir \"yo me trato de\"; el verbo es impersonal y muchos estudiantes intentan ponerle un sujeto."
-          },
-          {
-            "sentence": "Varios expertos advierten de que esas construcciones no son simples reliquias del pasado, sino testimonios de la historia del país.",
-            "point": "El contraste con \"sino\"",
-            "explanation": "Después de una negación, \"sino\" introduce la idea correcta que sustituye a la negada.",
-            "why_tricky": "Se confunde con \"pero\"; \"sino\" solo se usa tras una negación para corregirla."
-          },
-          {
-            "sentence": "Según una especialista, las ciudades que se respetan a sí mismas no derriban sus monumentos.",
-            "point": "El reflexivo enfático \"a sí mismas\"",
-            "explanation": "\"Se... a sí mismas\" refuerza que la acción recae sobre el propio sujeto.",
-            "why_tricky": "Hay que concordar el pronombre (sí) y elegir \"mismo/a/os/as\" según el género y el número del sujeto."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "tratarse de",
-            "meaning": "to be a matter of, to be about",
-            "example": "No te preocupes, se trata de un simple malentendido."
-          },
-          {
-            "phrase": "de momento",
-            "meaning": "for now, for the time being",
-            "example": "De momento no hay ninguna decisión definitiva."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué algunas personas se oponen a la demolición de los edificios soviéticos en Bishkek?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué argumento da la especialista citada en el texto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué tensión más amplia refleja este debate, según el artículo?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que una ciudad debe conservar su arquitectura histórica aunque eso frene el desarrollo? Escribe un párrafo justificando tu opinión."
       }
     }
   ]
