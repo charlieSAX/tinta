@@ -1,7 +1,483 @@
 {
-  "generated_at": "2026-06-25T08:17:48Z",
+  "generated_at": "2026-06-25T20:12:16Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-25-doblete-sismico",
+      "title": "Qué es el \"doblete sísmico\" y por qué los terremotos que sacudieron Venezuela provocaron tantos daños",
+      "source": "BBC Mundo",
+      "date": "2026-06-25",
+      "level": "B1-B2",
+      "topics": [
+        "ciencia",
+        "terremotos"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-25-doblete-sismico",
+        "revision": 1,
+        "meta": {
+          "title": "Qué es el \"doblete sísmico\" y por qué los terremotos que sacudieron Venezuela provocaron tantos daños",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/crr8ezq9ez8o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-25",
+          "date_processed": "2026-06-25",
+          "tags": [
+            "ciencia",
+            "terremotos"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Two strong earthquakes shook northern Venezuela almost at the same time, a phenomenon experts call a \"seismic doublet\". The second tremor happened just a few seconds after the first, in the area where the Caribbean and South American plates meet. The succession of two quakes so close together surprised the population and left significant damage in several towns.\n\nAlthough this kind of sequence is not common, scientists recall that it has been recorded before in the region and in other parts of the world. When two earthquakes occur one after another, the released energy adds up and tends to worsen the destruction of buildings and roads. For this reason, the authorities are watching for possible aftershocks and asking residents to stay calm. Understanding how these faults work is key to preventing future tragedies.",
+        "resumen_es": "Dos fuertes terremotos sacudieron el norte de Venezuela casi al mismo tiempo, un fenómeno que los expertos llaman \"doblete sísmico\". El segundo movimiento ocurrió pocos segundos después del primero, en la zona donde se encuentran las placas del Caribe y de Sudamérica. La sucesión de dos sismos tan seguidos sorprendió a la población y dejó importantes daños en varias localidades.\n\nAunque este tipo de secuencia no es habitual, los científicos recuerdan que ya se ha registrado antes en la región y en otras partes del mundo. Cuando dos terremotos se producen uno tras otro, la energía liberada se acumula y suele agravar los destrozos en edificios y carreteras. Por eso, las autoridades vigilan las posibles réplicas y piden a los habitantes mantener la calma. Entender cómo funcionan estas fallas resulta clave para prevenir futuras tragedias.",
+        "vocab": [
+          {
+            "front": "el terremoto",
+            "pos": "noun",
+            "back": "earthquake",
+            "example": "El terremoto destruyó varias casas.",
+            "tier": "B1"
+          },
+          {
+            "front": "sacudir",
+            "pos": "verb",
+            "back": "to shake",
+            "example": "El temblor sacudió toda la ciudad.",
+            "tier": "B1"
+          },
+          {
+            "front": "el sismo",
+            "pos": "noun",
+            "back": "seismic event, quake",
+            "example": "El sismo se sintió en toda la región.",
+            "tier": "B2"
+          },
+          {
+            "front": "la falla",
+            "pos": "noun",
+            "back": "geological fault",
+            "example": "La falla atraviesa el norte del país.",
+            "tier": "B2"
+          },
+          {
+            "front": "la réplica",
+            "pos": "noun",
+            "back": "aftershock",
+            "example": "Tras el terremoto llegaron varias réplicas.",
+            "tier": "B2"
+          },
+          {
+            "front": "la placa (tectónica)",
+            "pos": "noun",
+            "back": "tectonic plate",
+            "example": "Dos placas chocan bajo el océano.",
+            "tier": "B2"
+          },
+          {
+            "front": "agravar",
+            "pos": "verb",
+            "back": "to make worse, aggravate",
+            "example": "La lluvia agravó los daños.",
+            "tier": "B2"
+          },
+          {
+            "front": "los destrozos",
+            "pos": "noun",
+            "back": "damage, destruction",
+            "example": "Los destrozos fueron enormes.",
+            "tier": "B2"
+          },
+          {
+            "front": "liberar (energía)",
+            "pos": "verb",
+            "back": "to release (energy)",
+            "example": "El sismo liberó mucha energía.",
+            "tier": "B2"
+          },
+          {
+            "front": "uno tras otro",
+            "pos": "phrase",
+            "back": "one after another",
+            "example": "Llegaron los avisos uno tras otro.",
+            "tier": "B1"
+          },
+          {
+            "front": "mantener la calma",
+            "pos": "phrase",
+            "back": "to stay calm",
+            "example": "Pidieron a todos mantener la calma.",
+            "tier": "B1"
+          },
+          {
+            "front": "resultar clave",
+            "pos": "phrase",
+            "back": "to be key, prove crucial",
+            "example": "La prevención resulta clave en estos casos.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El segundo movimiento ocurrió pocos segundos después del primero, en la zona donde se encuentran las placas del Caribe y de Sudamérica.",
+            "point": "Pretérito indefinido for completed past events",
+            "explanation": "'Ocurrió' is the preterite of 'ocurrir', used for a single, finished action at a specific moment in the past.",
+            "why_tricky": "Learners often confuse this with the imperfect 'ocurría'; here the action is punctual and complete, so the preterite is required."
+          },
+          {
+            "sentence": "Aunque este tipo de secuencia no es habitual, los científicos recuerdan que ya se ha registrado antes en la región y en otras partes del mundo.",
+            "point": "Impersonal 'se' with present perfect",
+            "explanation": "'Se ha registrado' uses impersonal 'se' plus the present perfect to say something has happened without naming who did it.",
+            "why_tricky": "The 'se' makes the verb feel passive, and 'ha registrado' must agree with the singular subject 'secuencia'."
+          },
+          {
+            "sentence": "Entender cómo funcionan estas fallas resulta clave para prevenir futuras tragedias.",
+            "point": "Infinitive as subject of the sentence",
+            "explanation": "The infinitive 'entender' works as a noun and is the subject of 'resulta'; 'para + infinitivo' expresses purpose.",
+            "why_tricky": "English would use a gerund ('understanding'), but Spanish uses the infinitive for the subject."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "un antes y un después",
+            "meaning": "a turning point; before-and-after moment",
+            "example": "Aquel terremoto marcó un antes y un después en la ciudad."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué es un \"doblete sísmico\" y por qué llama la atención de los científicos?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué dos terremotos seguidos pueden causar más daños que uno solo?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué medidas toman las autoridades después de un terremoto fuerte?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que tu país está bien preparado para responder a un gran terremoto? Explica por qué y qué se podría mejorar."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-25-arbitra-mundial",
+      "title": "Katia Itzel García: la árbitra que hace historia como la primera mexicana en dirigir en un Mundial masculino",
+      "source": "BBC Mundo",
+      "date": "2026-06-25",
+      "level": "B1-B2",
+      "topics": [
+        "deporte",
+        "sociedad"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-25-arbitra-mundial",
+        "revision": 1,
+        "meta": {
+          "title": "Katia Itzel García: la árbitra que hace historia como la primera mexicana en dirigir en un Mundial masculino",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cn59epl1ldwo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-25",
+          "date_processed": "2026-06-25",
+          "tags": [
+            "deporte",
+            "sociedad"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The Mexican referee Katia Itzel García has made history by becoming the first woman from her country to officiate a match at a men's World Cup. With this appointment, she also joined the short list of women who have refereed in the top competition of men's football. Her nomination was welcomed with enthusiasm and pride in Mexico, where many fans celebrated the progress.\n\nGarcía's achievement does not come by chance, but after years of effort and preparation on national and international pitches. Her presence at the tournament sends a clear message about the growing role of women in refereeing, a field once reserved almost entirely for men. Even so, there are still barriers to overcome so that these opportunities stop being exceptional. For many girls, she has become a role model to follow.",
+        "resumen_es": "La árbitra mexicana Katia Itzel García ha hecho historia al convertirse en la primera mujer de su país en dirigir un partido en un Mundial masculino. Con esta designación, también se sumó a la corta lista de mujeres que han arbitrado en la máxima competición del fútbol de hombres. Su nombramiento se recibió con entusiasmo y orgullo en México, donde muchos aficionados celebraron el avance.\n\nEl logro de García no llega por casualidad, sino tras años de esfuerzo y preparación en canchas nacionales e internacionales. Su presencia en el torneo envía un mensaje claro sobre el papel cada vez mayor de las mujeres en el arbitraje, un terreno antes reservado casi por completo a los hombres. Aun así, todavía quedan barreras por superar para que estas oportunidades dejen de ser excepcionales. Para muchas niñas, ella se ha convertido en un ejemplo a seguir.",
+        "vocab": [
+          {
+            "front": "la árbitra",
+            "pos": "noun",
+            "back": "referee (female)",
+            "example": "La árbitra pitó un penalti.",
+            "tier": "B1"
+          },
+          {
+            "front": "dirigir (un partido)",
+            "pos": "verb",
+            "back": "to officiate, referee (a match)",
+            "example": "Va a dirigir la final del torneo.",
+            "tier": "B1"
+          },
+          {
+            "front": "hacer historia",
+            "pos": "phrase",
+            "back": "to make history",
+            "example": "El equipo hizo historia al ganar fuera de casa.",
+            "tier": "B1"
+          },
+          {
+            "front": "la designación",
+            "pos": "noun",
+            "back": "appointment, nomination",
+            "example": "La designación sorprendió a todos.",
+            "tier": "B2"
+          },
+          {
+            "front": "el nombramiento",
+            "pos": "noun",
+            "back": "appointment (to a post)",
+            "example": "Su nombramiento fue una buena noticia.",
+            "tier": "B2"
+          },
+          {
+            "front": "el aficionado",
+            "pos": "noun",
+            "back": "fan, supporter",
+            "example": "Los aficionados llenaron el estadio.",
+            "tier": "B1"
+          },
+          {
+            "front": "la cancha",
+            "pos": "noun",
+            "back": "pitch, court (Latin America)",
+            "example": "Los jugadores salieron a la cancha.",
+            "tier": "B1"
+          },
+          {
+            "front": "el logro",
+            "pos": "noun",
+            "back": "achievement",
+            "example": "Ganar fue un gran logro.",
+            "tier": "B2"
+          },
+          {
+            "front": "el arbitraje",
+            "pos": "noun",
+            "back": "refereeing",
+            "example": "El arbitraje fue muy criticado.",
+            "tier": "B2"
+          },
+          {
+            "front": "por casualidad",
+            "pos": "phrase",
+            "back": "by chance",
+            "example": "No llegó por casualidad, sino por trabajo.",
+            "tier": "B1"
+          },
+          {
+            "front": "superar (una barrera)",
+            "pos": "verb",
+            "back": "to overcome (a barrier)",
+            "example": "Tuvo que superar muchos obstáculos.",
+            "tier": "B2"
+          },
+          {
+            "front": "un ejemplo a seguir",
+            "pos": "phrase",
+            "back": "a role model",
+            "example": "Para los jóvenes es un ejemplo a seguir.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La árbitra mexicana Katia Itzel García ha hecho historia al convertirse en la primera mujer de su país en dirigir un partido en un Mundial masculino.",
+            "point": "'al + infinitivo' to express 'on/by doing something'",
+            "explanation": "'Al convertirse' means 'on becoming / by becoming'; 'al' plus an infinitive links two simultaneous or causally connected actions.",
+            "why_tricky": "English uses 'by/on + -ing', so learners may wrongly use a gerund instead of the infinitive after 'al'."
+          },
+          {
+            "sentence": "El logro de García no llega por casualidad, sino tras años de esfuerzo y preparación en canchas nacionales e internacionales.",
+            "point": "Contrast with 'no... sino'",
+            "explanation": "'No... sino' corrects a statement: not X but rather Y. Here it contrasts 'por casualidad' with 'tras años de esfuerzo'.",
+            "why_tricky": "Learners mix up 'sino' (but rather) with 'pero' (but); 'sino' is used after a negative to introduce the correct alternative."
+          },
+          {
+            "sentence": "Aun así, todavía quedan barreras por superar para que estas oportunidades dejen de ser excepcionales.",
+            "point": "Subjunctive after 'para que'",
+            "explanation": "'Para que' introduces purpose and requires the subjunctive, here 'dejen'. The subject of the second clause differs from the first.",
+            "why_tricky": "When the two clauses share no subject change, Spanish uses 'para + infinitivo', but with a different subject it must switch to 'para que + subjuntivo'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "abrir camino",
+            "meaning": "to pave the way for others",
+            "example": "Con su trabajo, ella abrió camino a otras mujeres en el deporte."
+          },
+          {
+            "phrase": "romper barreras",
+            "meaning": "to break down barriers",
+            "example": "Su designación ayuda a romper barreras de género."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué se dice que Katia Itzel García ha hecho historia?",
+            "type": "open"
+          },
+          {
+            "q": "Según el texto, ¿cómo reaccionó la gente en México ante su nombramiento?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué barreras menciona el texto sobre las mujeres en el arbitraje?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que el deporte profesional ofrece las mismas oportunidades a mujeres y hombres? Justifica tu respuesta con ejemplos."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-25-demandas-redes",
+      "title": "Las 4 demandas judiciales en EE.UU. que pueden cambiar cómo operan las redes sociales",
+      "source": "BBC Mundo",
+      "date": "2026-06-24",
+      "level": "B1-B2",
+      "topics": [
+        "tecnologia",
+        "justicia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-25-demandas-redes",
+        "revision": 1,
+        "meta": {
+          "title": "Las 4 demandas judiciales en EE.UU. que pueden cambiar cómo operan las redes sociales",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cvgd9x93y5eo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-24",
+          "date_processed": "2026-06-25",
+          "tags": [
+            "tecnologia",
+            "justicia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The technology giants behind the main social networks face thousands of lawsuits in different courts in the United States. Several of these cases accuse the platforms of causing harm to their users, especially the youngest ones. According to a BBC analysis, some of these cases could mark a turning point for the entire sector.\n\nIf the courts ruled against the companies, they would be forced to change the way they design and operate their services. Experts point out that the decisions could affect everything from the algorithms to the rules that protect minors. For now the outcome is uncertain, since these processes are usually long and complex. Whatever the result, the debate about the responsibility of social networks will only keep growing in the coming years.",
+        "resumen_es": "Los gigantes tecnológicos que están detrás de las principales redes sociales se enfrentan a miles de demandas judiciales en distintos tribunales de Estados Unidos. Varias de estas causas acusan a las plataformas de causar daños a sus usuarios, sobre todo a los más jóvenes. Según un análisis de la BBC, algunos de estos casos podrían marcar un antes y un después para todo el sector.\n\nSi los tribunales fallaran en contra de las empresas, estas se verían obligadas a cambiar la manera en que diseñan y operan sus servicios. Los expertos señalan que las decisiones podrían afectar desde los algoritmos hasta las normas que protegen a los menores. Por ahora el resultado es incierto, ya que estos procesos suelen ser largos y complejos. Sea cual sea el desenlace, el debate sobre la responsabilidad de las redes sociales no hará más que crecer en los próximos años.",
+        "vocab": [
+          {
+            "front": "la demanda (judicial)",
+            "pos": "noun",
+            "back": "lawsuit",
+            "example": "Presentaron una demanda contra la empresa.",
+            "tier": "B2"
+          },
+          {
+            "front": "el tribunal",
+            "pos": "noun",
+            "back": "court (of law)",
+            "example": "El caso llegó a los tribunales.",
+            "tier": "B1"
+          },
+          {
+            "front": "enfrentarse a",
+            "pos": "verb",
+            "back": "to face, confront",
+            "example": "La compañía se enfrenta a varios problemas.",
+            "tier": "B1"
+          },
+          {
+            "front": "la causa",
+            "pos": "noun",
+            "back": "(legal) case",
+            "example": "La causa sigue abierta.",
+            "tier": "B2"
+          },
+          {
+            "front": "acusar (de)",
+            "pos": "verb",
+            "back": "to accuse (of)",
+            "example": "Lo acusan de mentir.",
+            "tier": "B1"
+          },
+          {
+            "front": "fallar (en contra)",
+            "pos": "verb",
+            "back": "to rule (against)",
+            "example": "El juez falló a su favor.",
+            "tier": "B2"
+          },
+          {
+            "front": "verse obligado a",
+            "pos": "phrase",
+            "back": "to be forced to",
+            "example": "Se vieron obligados a cerrar.",
+            "tier": "B2"
+          },
+          {
+            "front": "el desenlace",
+            "pos": "noun",
+            "back": "outcome, ending",
+            "example": "Nadie sabe cuál será el desenlace.",
+            "tier": "B2"
+          },
+          {
+            "front": "los menores",
+            "pos": "noun",
+            "back": "minors, under-18s",
+            "example": "La ley protege a los menores.",
+            "tier": "B1"
+          },
+          {
+            "front": "incierto",
+            "pos": "adj",
+            "back": "uncertain",
+            "example": "El futuro de la empresa es incierto.",
+            "tier": "B2"
+          },
+          {
+            "front": "sea cual sea",
+            "pos": "phrase",
+            "back": "whatever (it may be)",
+            "example": "Sea cual sea tu decisión, te apoyo.",
+            "tier": "B2"
+          },
+          {
+            "front": "no hará más que crecer",
+            "pos": "phrase",
+            "back": "will only keep growing",
+            "example": "El interés no hará más que crecer.",
+            "tier": "C1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Si los tribunales fallaran en contra de las empresas, estas se verían obligadas a cambiar la manera en que diseñan y operan sus servicios.",
+            "point": "Conditional sentence (imperfect subjunctive + conditional)",
+            "explanation": "This is a 'second conditional': 'si + imperfecto de subjuntivo' (fallaran) in the if-clause and the simple conditional (se verían) in the result clause, for a hypothetical situation.",
+            "why_tricky": "Learners often put the conditional in both clauses; the if-clause must take the imperfect subjunctive, not the conditional."
+          },
+          {
+            "sentence": "Sea cual sea el desenlace, el debate sobre la responsabilidad de las redes sociales no hará más que crecer en los próximos años.",
+            "point": "Concessive subjunctive 'sea cual sea'",
+            "explanation": "'Sea cual sea' is a fixed concessive structure with the subjunctive meaning 'whatever it may be'; it expresses that the result holds in any case.",
+            "why_tricky": "The repetition of the subjunctive 'sea... sea' looks unusual, and the phrase cannot be translated word for word into English."
+          },
+          {
+            "sentence": "Varias de estas causas acusan a las plataformas de causar daños a sus usuarios, sobre todo a los más jóvenes.",
+            "point": "Personal 'a' and the pattern 'acusar a alguien de algo'",
+            "explanation": "The personal 'a' marks the human direct object ('a las plataformas' as institutions standing for people), and 'acusar de + infinitivo' expresses the accusation.",
+            "why_tricky": "English has no personal 'a', so learners tend to omit it before direct objects referring to people or organisations."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "marcar un antes y un después",
+            "meaning": "to be a watershed, a turning point",
+            "example": "Esa sentencia podría marcar un antes y un después en internet."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿De qué acusan a las plataformas las demandas mencionadas en el texto?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué tendrían que hacer las empresas si los tribunales fallaran en su contra?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué dice el texto que el resultado de estos casos es incierto?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Hasta qué punto deberían ser responsables las redes sociales del bienestar de los menores? Da tu opinión con argumentos."
+      }
+    },
     {
       "pack_id": "feed-2026-06-25-mano-de-dios",
       "title": "La historia de Alejandro Ojeda Carbajal, el fotografo mexicano que inmortalizo la \"mano de Dios\" de Maradona hace 40 anos",
@@ -6253,506 +6729,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que una obra de arte polémica puede seguir siendo relevante un siglo después? Escribe un párrafo explicando tu opinión con ejemplos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-16-vacuna-ia-pandemias",
-      "title": "Cómo es la primera vacuna creada con IA y por qué supone un \"cambio fundamental\" ante futuras pandemias",
-      "source": "BBC Mundo",
-      "date": "2026-06-05",
-      "level": "B1-B2",
-      "topics": [
-        "ciencia",
-        "salud"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-16-vacuna-ia-pandemias",
-        "revision": 1,
-        "meta": {
-          "title": "Cómo es la primera vacuna creada con IA y por qué supone un \"cambio fundamental\" ante futuras pandemias",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cy929gpl9l7o",
-          "date_published": "2026-06-05",
-          "date_processed": "2026-06-16",
-          "tags": [
-            "ciencia",
-            "salud"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "A group of scientists from Cambridge says it has tested in humans, for the first time, a vaccine designed with artificial intelligence. According to the researchers, this advance could represent a fundamental change in the way we prepare for future pandemics. The idea is that algorithms could help design vaccines much faster than with traditional methods, which would make it possible to react in time to new threats.\n\nAlthough the initial results are promising, experts call for caution and remind us that many tests still lie ahead. Before a vaccine reaches the population, it must prove that it is safe and effective in large trials. If the technology delivers what it promises, it could shorten the timeframes considerably. For now, what looked like science fiction is starting to make headway in laboratories across half the world.",
-        "resumen_es": "Un grupo de científicos de Cambridge afirma haber probado en humanos, por primera vez, una vacuna diseñada con inteligencia artificial. Según los investigadores, este avance podría suponer un cambio fundamental en la forma de prepararse ante futuras pandemias. La idea es que los algoritmos ayuden a diseñar vacunas mucho más rápido que con los métodos tradicionales, lo que permitiría reaccionar a tiempo frente a nuevas amenazas.\n\nAunque los resultados iniciales son prometedores, los expertos piden cautela y recuerdan que aún quedan muchas pruebas por delante. Antes de que una vacuna llegue a la población, debe demostrar que es segura y eficaz en ensayos amplios. Si la tecnología cumple lo que promete, podría acortar los plazos de manera considerable. Por ahora, lo que parecía ciencia ficción empieza a abrirse paso en los laboratorios de medio mundo.",
-        "vocab": [
-          {
-            "front": "la vacuna",
-            "pos": "noun",
-            "back": "vaccine",
-            "example": "La vacuna se administra en dos dosis.",
-            "tier": "B1"
-          },
-          {
-            "front": "el avance",
-            "pos": "noun",
-            "back": "advance, breakthrough",
-            "example": "Es un avance importante para la medicina.",
-            "tier": "B1"
-          },
-          {
-            "front": "probar",
-            "pos": "verb",
-            "back": "to test, to try",
-            "example": "Quieren probar el tratamiento en más pacientes.",
-            "tier": "B1"
-          },
-          {
-            "front": "el ensayo (clínico)",
-            "pos": "noun",
-            "back": "(clinical) trial",
-            "example": "El ensayo clínico duró más de un año.",
-            "tier": "B2"
-          },
-          {
-            "front": "prometedor/a",
-            "pos": "adj",
-            "back": "promising",
-            "example": "Los datos son muy prometedores.",
-            "tier": "B2"
-          },
-          {
-            "front": "la cautela",
-            "pos": "noun",
-            "back": "caution",
-            "example": "Los médicos piden cautela ante los resultados.",
-            "tier": "B2"
-          },
-          {
-            "front": "eficaz",
-            "pos": "adj",
-            "back": "effective",
-            "example": "El fármaco resultó ser muy eficaz.",
-            "tier": "B2"
-          },
-          {
-            "front": "la amenaza",
-            "pos": "noun",
-            "back": "threat",
-            "example": "El virus sigue siendo una amenaza global.",
-            "tier": "B1"
-          },
-          {
-            "front": "acortar los plazos",
-            "pos": "phrase",
-            "back": "to shorten the timeframes",
-            "example": "La nueva técnica permite acortar los plazos de producción.",
-            "tier": "B2"
-          },
-          {
-            "front": "suponer",
-            "pos": "verb",
-            "back": "to mean, to represent",
-            "example": "El cambio supone un gran reto para todos.",
-            "tier": "B2"
-          },
-          {
-            "front": "diseñar",
-            "pos": "verb",
-            "back": "to design",
-            "example": "Los algoritmos ayudan a diseñar nuevos fármacos.",
-            "tier": "B1"
-          },
-          {
-            "front": "seguro/a",
-            "pos": "adj",
-            "back": "safe",
-            "example": "Quieren asegurarse de que el producto es seguro.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Un grupo de científicos de Cambridge afirma haber probado en humanos, por primera vez, una vacuna diseñada con inteligencia artificial.",
-            "point": "Infinitivo compuesto: 'haber + participio'",
-            "explanation": "'Haber probado' es un infinitivo compuesto que expresa una accion anterior a la del verbo principal 'afirma'. Se usa cuando el sujeto de los dos verbos es el mismo.",
-            "why_tricky": "El estudiante tiende a decir 'afirma que ha probado'; el infinitivo compuesto es mas conciso pero exige reconocer que el sujeto coincide."
-          },
-          {
-            "sentence": "Antes de que una vacuna llegue a la población, debe demostrar que es segura y eficaz en ensayos amplios.",
-            "point": "'Antes de que' + subjuntivo",
-            "explanation": "La locucion 'antes de que' siempre exige subjuntivo: por eso aparece 'llegue' y no 'llega'. Indica una accion futura aun no realizada.",
-            "why_tricky": "Como en ingles se usa indicativo ('before a vaccine reaches'), es facil olvidar el subjuntivo en espanol."
-          },
-          {
-            "sentence": "Si la tecnología cumple lo que promete, podría acortar los plazos de manera considerable.",
-            "point": "Condicional real: 'si + presente, condicional'",
-            "explanation": "Aqui la condicion es posible, por eso la oracion con 'si' lleva presente ('cumple') y la consecuencia usa el condicional 'podria' para suavizar la afirmacion.",
-            "why_tricky": "Hay que evitar el subjuntivo tras 'si' en condiciones reales y elegir bien entre futuro y condicional en la consecuencia."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "abrirse paso",
-            "meaning": "avanzar o lograr aceptación poco a poco, a pesar de los obstáculos",
-            "example": "La idea era extraña, pero poco a poco se abrió paso."
-          },
-          {
-            "phrase": "tener (algo) por delante",
-            "meaning": "quedar todavía por hacer o por vivir",
-            "example": "Es joven y tiene toda una carrera por delante."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué tiene de novedoso la vacuna desarrollada por los científicos de Cambridge?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué los expertos piden cautela a pesar de los buenos resultados?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué ventajas podría tener usar inteligencia artificial para crear vacunas?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Confiarías en una vacuna diseñada por inteligencia artificial? Explica por qué sí o por qué no en un breve texto."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-16-gap-historia-marca",
-      "title": "Donald y Doris Fisher, la pareja que no pudo encontrar un talle de jeans y terminó creando el gigante de la moda Gap",
-      "source": "BBC Mundo",
-      "date": "2026-05-30",
-      "level": "B1-B2",
-      "topics": [
-        "negocios",
-        "moda"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-16-gap-historia-marca",
-        "revision": 1,
-        "meta": {
-          "title": "Donald y Doris Fisher, la pareja que no pudo encontrar un talle de jeans y terminó creando el gigante de la moda Gap",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c78qj9zy4j6o",
-          "date_published": "2026-05-30",
-          "date_processed": "2026-06-16",
-          "tags": [
-            "negocios",
-            "moda"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Donald and Doris Fisher could not find jeans in their size, so they decided to open their own store. That is how Gap was born, a brand that over time became a giant of the fashion world. What began as a small business in the United States ended up winning over several generations and turned into one of the most influential brands of the 20th century.\n\nLike many companies, Gap has lived through times of great success and also difficult moments, in which it was about to lose its place in the market. However, the brand has known how to reinvent itself and connect again with younger people. Its story shows that a good idea, born from an everyday problem, can go a long way. In the end, what matters is not only succeeding, but learning to get back up after each fall.",
-        "resumen_es": "Donald y Doris Fisher no encontraban unos vaqueros de su talla, así que decidieron abrir su propia tienda. Así nació Gap, una marca que con el tiempo se convirtió en un gigante de la moda. Lo que empezó como un pequeño negocio en Estados Unidos terminó conquistando a varias generaciones y se transformó en una de las marcas más influyentes del siglo XX.\n\nComo muchas empresas, Gap ha vivido épocas de gran éxito y también momentos difíciles, en los que estuvo a punto de perder su lugar en el mercado. Sin embargo, la marca ha sabido reinventarse y volver a conectar con los más jóvenes. Su historia demuestra que una buena idea, nacida de un problema cotidiano, puede llegar muy lejos. Al final, lo importante no es solo triunfar, sino aprender a levantarse después de cada caída.",
-        "vocab": [
-          {
-            "front": "los vaqueros",
-            "pos": "noun",
-            "back": "jeans",
-            "example": "Me compré unos vaqueros nuevos.",
-            "tier": "B1"
-          },
-          {
-            "front": "la talla",
-            "pos": "noun",
-            "back": "(clothing) size",
-            "example": "No encuentro mi talla en esta tienda.",
-            "tier": "B1"
-          },
-          {
-            "front": "la marca",
-            "pos": "noun",
-            "back": "brand",
-            "example": "Es una marca conocida en todo el mundo.",
-            "tier": "B1"
-          },
-          {
-            "front": "el gigante",
-            "pos": "noun",
-            "back": "giant",
-            "example": "Se convirtió en un gigante del comercio.",
-            "tier": "B2"
-          },
-          {
-            "front": "conquistar",
-            "pos": "verb",
-            "back": "to win over, to conquer",
-            "example": "La marca conquistó al público joven.",
-            "tier": "B2"
-          },
-          {
-            "front": "influyente",
-            "pos": "adj",
-            "back": "influential",
-            "example": "Es una de las personas más influyentes del sector.",
-            "tier": "B2"
-          },
-          {
-            "front": "estar a punto de",
-            "pos": "phrase",
-            "back": "to be about to, to be on the verge of",
-            "example": "Estuvo a punto de cerrar el negocio.",
-            "tier": "B1"
-          },
-          {
-            "front": "reinventarse",
-            "pos": "verb",
-            "back": "to reinvent oneself",
-            "example": "La empresa supo reinventarse tras la crisis.",
-            "tier": "B2"
-          },
-          {
-            "front": "el mercado",
-            "pos": "noun",
-            "back": "market",
-            "example": "El producto triunfó en el mercado europeo.",
-            "tier": "B1"
-          },
-          {
-            "front": "cotidiano/a",
-            "pos": "adj",
-            "back": "everyday, daily",
-            "example": "Es un problema de la vida cotidiana.",
-            "tier": "B2"
-          },
-          {
-            "front": "triunfar",
-            "pos": "verb",
-            "back": "to succeed, to triumph",
-            "example": "Soñaba con triunfar en el extranjero.",
-            "tier": "B1"
-          },
-          {
-            "front": "llegar lejos",
-            "pos": "phrase",
-            "back": "to go far, to be very successful",
-            "example": "Con ese talento, vas a llegar lejos.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Donald y Doris Fisher no encontraban unos vaqueros de su talla, así que decidieron abrir su propia tienda.",
-            "point": "Contraste imperfecto / pretérito y conector 'así que'",
-            "explanation": "'No encontraban' (imperfecto) describe una situacion que se repetia; 'decidieron' (preterito) marca la accion concreta que la resolvio. 'Asi que' introduce la consecuencia.",
-            "why_tricky": "Elegir entre imperfecto y preterito no depende del verbo sino de si describimos un contexto o un hecho puntual."
-          },
-          {
-            "sentence": "Sin embargo, la marca ha sabido reinventarse y volver a conectar con los más jóvenes.",
-            "point": "'Saber + infinitivo' y 'volver a + infinitivo'",
-            "explanation": "'Ha sabido reinventarse' significa que ha logrado o ha conseguido hacerlo. 'Volver a + infinitivo' expresa repeticion: hacer algo de nuevo.",
-            "why_tricky": "'Saber + infinitivo' no se traduce literalmente como 'to know'; aqui equivale a 'managed to'."
-          },
-          {
-            "sentence": "Al final, lo importante no es solo triunfar, sino aprender a levantarse después de cada caída.",
-            "point": "Artículo neutro 'lo' + adjetivo y estructura 'no... sino'",
-            "explanation": "'Lo importante' convierte el adjetivo en una idea abstracta ('the important thing'). 'No... sino' corrige o contrasta dos opciones.",
-            "why_tricky": "El 'lo' neutro no existe en ingles y los estudiantes lo confunden con el articulo 'el'; ademas 'sino' no es lo mismo que 'pero'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "llegar (muy) lejos",
-            "meaning": "tener mucho éxito en la vida o en una actividad",
-            "example": "Es muy trabajadora; seguro que llega lejos."
-          },
-          {
-            "phrase": "estar a punto de",
-            "meaning": "faltar muy poco para que algo ocurra",
-            "example": "Estábamos a punto de salir cuando empezó a llover."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Cómo surgió la idea de crear la marca Gap?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué dificultades ha atravesado la empresa a lo largo de su historia?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué lección crees que transmite la historia de los Fisher?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que un problema cotidiano puede convertirse en una gran oportunidad de negocio? Argumenta tu respuesta con un ejemplo."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-16-petro-legado-colombia",
-      "title": "Qué tanto transformó Petro a Colombia, \"el presidente del cambio\" que se juega su legado aunque no pueda ser reelegido",
-      "source": "BBC Mundo",
-      "date": "2026-06-15",
-      "level": "B1-B2",
-      "topics": [
-        "política",
-        "Colombia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-16-petro-legado-colombia",
-        "revision": 1,
-        "meta": {
-          "title": "Qué tanto transformó Petro a Colombia, \"el presidente del cambio\" que se juega su legado aunque no pueda ser reelegido",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c0kyj38ek4lo",
-          "date_published": "2026-06-15",
-          "date_processed": "2026-06-16",
-          "tags": [
-            "política",
-            "Colombia"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Four years after coming to the presidency, Gustavo Petro's government faces the moment to take stock. The international press, including BBC Mundo, is analysing what really changed in Colombia under the man who calls himself the 'president of change'. Petro came to power promising to transform the country and reduce inequality, but his legacy deeply divides public opinion.\n\nAs the first left-wing president in the country's recent history, Petro pushed reforms in areas such as health and pensions, although many of his initiatives clashed with Congress. Under the Colombian Constitution he cannot seek re-election, so he is staking much of his legacy on these final months. Meanwhile, the campaign to succeed him is already under way and promises a very tight run-off.",
-        "resumen_es": "A cuatro años de llegar a la presidencia, el gobierno de Gustavo Petro afronta el momento de hacer balance. La prensa internacional, entre ella BBC Mundo, analiza qué cambió realmente en Colombia bajo el mandato del autodenominado 'presidente del cambio'. Petro llegó al poder con la promesa de transformar el país y de reducir la desigualdad, pero su legado divide profundamente a la opinión pública.\n\nComo primer presidente de izquierda en la historia reciente del país, Petro impulsó reformas en áreas como la salud y las pensiones, aunque muchas de sus iniciativas chocaron con el Congreso. Por la Constitución colombiana, no puede aspirar a la reelección, de modo que se juega buena parte de su legado en estos últimos meses. Mientras tanto, la campaña por sucederlo ya está en marcha y promete una segunda vuelta muy reñida.",
-        "vocab": [
-          {
-            "front": "hacer balance",
-            "pos": "phrase",
-            "back": "to take stock, to assess",
-            "example": "Al final del año, la empresa hace balance de sus resultados.",
-            "tier": "B2"
-          },
-          {
-            "front": "el legado",
-            "pos": "noun",
-            "back": "legacy",
-            "example": "Cada gobierno deja un legado que la historia juzgará.",
-            "tier": "B1"
-          },
-          {
-            "front": "la desigualdad",
-            "pos": "noun",
-            "back": "inequality",
-            "example": "El plan busca reducir la desigualdad entre ricos y pobres.",
-            "tier": "B1"
-          },
-          {
-            "front": "el mandato",
-            "pos": "noun",
-            "back": "term of office, mandate",
-            "example": "Durante su mandato, aprobó varias leyes importantes.",
-            "tier": "B2"
-          },
-          {
-            "front": "impulsar",
-            "pos": "verb",
-            "back": "to drive forward, to push (a reform)",
-            "example": "El ministro quiere impulsar una nueva reforma educativa.",
-            "tier": "B2"
-          },
-          {
-            "front": "la reelección",
-            "pos": "noun",
-            "back": "re-election",
-            "example": "La ley no permite la reelección inmediata del presidente.",
-            "tier": "B1"
-          },
-          {
-            "front": "aspirar a",
-            "pos": "verb",
-            "back": "to aspire to, to aim for",
-            "example": "Varios políticos aspiran a llegar a la presidencia.",
-            "tier": "B2"
-          },
-          {
-            "front": "reñido",
-            "pos": "adj",
-            "back": "close, hard-fought (contest)",
-            "example": "La elección fue muy reñida y se decidió por pocos votos.",
-            "tier": "B2"
-          },
-          {
-            "front": "chocar con",
-            "pos": "verb",
-            "back": "to clash with",
-            "example": "Sus ideas chocaron con la oposición en el Congreso.",
-            "tier": "B2"
-          },
-          {
-            "front": "la opinión pública",
-            "pos": "phrase",
-            "back": "public opinion",
-            "example": "La opinión pública está dividida sobre el tema.",
-            "tier": "B1"
-          },
-          {
-            "front": "la segunda vuelta",
-            "pos": "noun",
-            "back": "run-off (election)",
-            "example": "Ningún candidato ganó en la primera ronda, así que habrá segunda vuelta.",
-            "tier": "B1"
-          },
-          {
-            "front": "autodenominado",
-            "pos": "adj",
-            "back": "self-styled, self-proclaimed",
-            "example": "El autodenominado experto no tenía ningún título.",
-            "tier": "C1"
-          },
-          {
-            "front": "estar en marcha",
-            "pos": "phrase",
-            "back": "to be under way",
-            "example": "El proyecto ya está en marcha y avanza bien.",
-            "tier": "B2"
-          },
-          {
-            "front": "la promesa",
-            "pos": "noun",
-            "back": "promise",
-            "example": "Cumplir las promesas electorales no siempre es fácil.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Petro llegó al poder con la promesa de transformar el país y de reducir la desigualdad, pero su legado divide profundamente a la opinión pública.",
-            "point": "de + infinitivo tras un sustantivo; contraste con 'pero'",
-            "explanation": "Tras sustantivos como 'la promesa' se usa 'de + infinitivo' (la promesa de transformar). El conector 'pero' introduce una idea que contrasta con lo anterior.",
-            "why_tricky": "En inglés se usaría un gerundio (the promise of transforming), pero en español el infinitivo es obligatorio después de 'de'."
-          },
-          {
-            "sentence": "Como primer presidente de izquierda en la historia reciente del país, Petro impulsó reformas en áreas como la salud y las pensiones, aunque muchas de sus iniciativas chocaron con el Congreso.",
-            "point": "pretérito indefinido para acciones acabadas",
-            "explanation": "'Impulsó' y 'chocaron' están en pretérito porque describen acciones concretas y terminadas durante su mandato.",
-            "why_tricky": "Hay que distinguir el pretérito (acciones puntuales) del imperfecto (descripciones o acciones habituales)."
-          },
-          {
-            "sentence": "Por la Constitución colombiana, no puede aspirar a la reelección, de modo que se juega buena parte de su legado en estos últimos meses.",
-            "point": "'de modo que' como conector de consecuencia",
-            "explanation": "'De modo que' introduce una consecuencia. Cuando expresa un resultado real, va seguido de indicativo ('se juega').",
-            "why_tricky": "'De modo que' con valor de consecuencia lleva indicativo, pero con valor de finalidad llevaría subjuntivo, lo que confunde a los estudiantes."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "jugarse algo",
-            "meaning": "to put something at stake, to risk it",
-            "example": "En estas elecciones, el presidente se juega su futuro político."
-          },
-          {
-            "phrase": "estar en juego",
-            "meaning": "to be at stake",
-            "example": "Está en juego la credibilidad de todo el gobierno."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué prometió Gustavo Petro cuando llegó al poder?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué Petro no puede presentarse de nuevo a la presidencia?",
-            "type": "open"
-          },
-          {
-            "q": "¿Cómo describe el texto la campaña para sucederlo?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que se puede juzgar el legado de un presidente justo al final de su mandato, o hace falta esperar varios años? Escribe un párrafo con tu opinión."
       }
     }
   ]
