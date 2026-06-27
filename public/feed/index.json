@@ -1,7 +1,493 @@
 {
-  "generated_at": "2026-06-27T08:59:41Z",
+  "generated_at": "2026-06-27T20:14:08Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-27-futbol-longevidad-estrellas",
+      "title": "Cristiano Ronaldo, Messi, Modric... Cómo las estrellas del Mundial desafían los límites de la longevidad",
+      "source": "BBC Mundo",
+      "date": "2026-06-27",
+      "level": "B1-B2",
+      "topics": [
+        "deporte",
+        "ciencia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-27-futbol-longevidad-estrellas",
+        "revision": 1,
+        "meta": {
+          "title": "Cristiano Ronaldo, Messi, Modric... Cómo las estrellas del Mundial desafían los límites de la longevidad",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c0jyqw4z713o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-27",
+          "date_processed": "2026-06-27",
+          "tags": [
+            "deporte",
+            "ciencia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Some of football's biggest stars are still shining at an age when, years ago, almost everyone would have retired. Players like Cristiano Ronaldo, Messi or Modric show that it is possible to compete at the highest level beyond the age of thirty-five. Their presence at the World Cup has once again put an interesting question on the table: why do footballers last longer and longer. Experts agree that there is no single explanation.\n\nBehind this longevity several factors combine. On one hand, scientific advances in physical preparation and recovery make it possible to take better care of the body. On the other, the culture of the sport has changed: diet, rest and mindset are taken much more seriously. Although talent is still essential, today daily discipline makes the difference. Thanks to this, it is likely that in the future we will see more athletes competing to ages once unthinkable.",
+        "resumen_es": "Algunas de las mayores estrellas del fútbol siguen brillando a una edad en la que, hace años, casi todos se habrían retirado. Jugadores como Cristiano Ronaldo, Messi o Modric demuestran que es posible competir al máximo pasados los treinta y cinco. Su presencia en el Mundial ha vuelto a poner sobre la mesa una pregunta: por qué los futbolistas duran cada vez más. Los expertos coinciden en que no existe una única explicación.\n\nDetrás de esta longevidad se combinan varios factores. Por un lado, los avances científicos en preparación física y recuperación permiten cuidar mejor el cuerpo. Por otro, ha cambiado la cultura del deporte: la alimentación, el descanso y la mentalidad se toman mucho más en serio. Aunque el talento sigue siendo esencial, hoy la disciplina diaria marca la diferencia. Gracias a ello, es probable que en el futuro veamos a más deportistas competir hasta edades antes impensables.",
+        "vocab": [
+          {
+            "front": "la estrella",
+            "pos": "noun",
+            "back": "star (famous person)",
+            "example": "Es una estrella del deporte mundial.",
+            "tier": "B1"
+          },
+          {
+            "front": "brillar",
+            "pos": "verb",
+            "back": "to shine, to excel",
+            "example": "El joven brilló en su primer partido.",
+            "tier": "B1"
+          },
+          {
+            "front": "retirarse",
+            "pos": "verb",
+            "back": "to retire",
+            "example": "Muchos atletas se retiran a los treinta.",
+            "tier": "B1"
+          },
+          {
+            "front": "competir",
+            "pos": "verb",
+            "back": "to compete",
+            "example": "Le encanta competir contra los mejores.",
+            "tier": "B1"
+          },
+          {
+            "front": "la longevidad",
+            "pos": "noun",
+            "back": "longevity",
+            "example": "La longevidad en el deporte sorprende a todos.",
+            "tier": "C1"
+          },
+          {
+            "front": "el avance",
+            "pos": "noun",
+            "back": "advance, progress",
+            "example": "Los avances médicos salvan vidas.",
+            "tier": "B2"
+          },
+          {
+            "front": "la recuperación",
+            "pos": "noun",
+            "back": "recovery",
+            "example": "La recuperación tras la lesión fue rápida.",
+            "tier": "B2"
+          },
+          {
+            "front": "el descanso",
+            "pos": "noun",
+            "back": "rest",
+            "example": "El descanso es clave para rendir bien.",
+            "tier": "B1"
+          },
+          {
+            "front": "la mentalidad",
+            "pos": "noun",
+            "back": "mindset",
+            "example": "Tiene una mentalidad ganadora.",
+            "tier": "B2"
+          },
+          {
+            "front": "la disciplina",
+            "pos": "noun",
+            "back": "discipline",
+            "example": "Su éxito se debe a la disciplina diaria.",
+            "tier": "B1"
+          },
+          {
+            "front": "impensable",
+            "pos": "adj",
+            "back": "unthinkable",
+            "example": "Hace años, esto era impensable.",
+            "tier": "B2"
+          },
+          {
+            "front": "marcar la diferencia",
+            "pos": "phrase",
+            "back": "to make the difference",
+            "example": "Los detalles marcan la diferencia.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Algunas de las mayores estrellas del fútbol siguen brillando a una edad en la que, hace años, casi todos se habrían retirado.",
+            "point": "'Seguir' + gerund and the conditional perfect",
+            "explanation": "'Siguen brillando' means 'keep shining', and 'se habrían retirado' is the conditional perfect for an unreal past situation.",
+            "why_tricky": "Two advanced structures appear together: a periphrasis with the gerund and a compound conditional."
+          },
+          {
+            "sentence": "Aunque el talento sigue siendo esencial, hoy la disciplina diaria marca la diferencia.",
+            "point": "'Aunque' + indicative (concession)",
+            "explanation": "When the concession refers to a real, accepted fact, 'aunque' is followed by the indicative ('sigue').",
+            "why_tricky": "'Aunque' can take the subjunctive too, but here the fact is real, so the indicative is correct."
+          },
+          {
+            "sentence": "Gracias a ello, es probable que en el futuro veamos a más deportistas competir hasta edades antes impensables.",
+            "point": "Subjunctive after 'es probable que'",
+            "explanation": "Expressions of probability like 'es probable que' require the subjunctive, so the verb becomes 'veamos'.",
+            "why_tricky": "It expresses likelihood, not certainty, so Spanish uses the subjunctive rather than the indicative."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "poner sobre la mesa",
+            "meaning": "to bring up, to raise (a topic)",
+            "example": "El periodista puso sobre la mesa un tema incómodo."
+          },
+          {
+            "phrase": "marcar la diferencia",
+            "meaning": "to make the difference",
+            "example": "Un buen entrenador marca la diferencia."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué pregunta han vuelto a plantear las estrellas veteranas del Mundial?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué factores explican la mayor longevidad de los futbolistas?",
+            "type": "open"
+          },
+          {
+            "q": "¿Crees que la disciplina puede ser más importante que el talento? ¿Por qué?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Escribe unas 120 palabras: ¿qué hábitos crees que ayudan a una persona a mantenerse en forma durante muchos años?"
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-27-clima-extremo-economia",
+      "title": "El aumento de los fenómenos climáticos extremos, un alto costo para la economía mundial",
+      "source": "RFI Español",
+      "date": "2026-06-27",
+      "level": "B1-B2",
+      "topics": [
+        "medioambiente",
+        "economía"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-27-clima-extremo-economia",
+        "revision": 1,
+        "meta": {
+          "title": "El aumento de los fenómenos climáticos extremos, un alto costo para la economía mundial",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/medioambiente/20260625-el-aumento-de-los-fen%C3%B3menos-clim%C3%A1ticos-extremos-un-alto-costo-para-la-econom%C3%ADa-mundial",
+          "date_published": "2026-06-27",
+          "date_processed": "2026-06-27",
+          "tags": [
+            "medioambiente",
+            "economía"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "While several regions of the world suffer ever more intense heatwaves, scientists and economists are issuing a clear warning. The rise in extreme weather events is not only an ecological problem, but also an economic one. Droughts, floods and record temperatures destroy harvests, damage infrastructure and force huge amounts of money to be spent. According to experts, ignoring climate change will turn out far more expensive than acting in time.\n\nThe consequences affect almost every sector, from agriculture to tourism and insurance. Companies face more risks, and governments must invest in protecting the population. For this reason, many specialists insist that the transition towards a more sustainable economy is also a smart investment. If the world does not cut its emissions, the losses could grow year after year until they become hard to bear.",
+        "resumen_es": "Mientras varias regiones del mundo sufren olas de calor cada vez más intensas, científicos y economistas lanzan una advertencia clara. El aumento de los fenómenos climáticos extremos no es solo un problema ecológico, sino también económico. Las sequías, las inundaciones y las temperaturas récord destruyen cosechas, dañan infraestructuras y obligan a gastar enormes cantidades de dinero. Según los expertos, ignorar el cambio climático saldrá mucho más caro que actuar a tiempo.\n\nLas consecuencias afectan a casi todos los sectores, desde la agricultura hasta el turismo y los seguros. Las empresas se enfrentan a más riesgos, y los gobiernos deben invertir en proteger a la población. Por eso, muchos especialistas insisten en que la transición hacia una economía más sostenible es también una inversión inteligente. Si el mundo no reduce sus emisiones, las pérdidas podrían crecer año tras año hasta volverse difíciles de soportar.",
+        "vocab": [
+          {
+            "front": "la ola de calor",
+            "pos": "noun",
+            "back": "heatwave",
+            "example": "La ola de calor batió todos los récords.",
+            "tier": "B1"
+          },
+          {
+            "front": "la advertencia",
+            "pos": "noun",
+            "back": "warning",
+            "example": "Los científicos lanzaron una advertencia seria.",
+            "tier": "B2"
+          },
+          {
+            "front": "el fenómeno",
+            "pos": "noun",
+            "back": "phenomenon",
+            "example": "Es un fenómeno cada vez más común.",
+            "tier": "B2"
+          },
+          {
+            "front": "la sequía",
+            "pos": "noun",
+            "back": "drought",
+            "example": "La sequía arruinó las cosechas.",
+            "tier": "B2"
+          },
+          {
+            "front": "la inundación",
+            "pos": "noun",
+            "back": "flood",
+            "example": "La inundación dejó a muchos sin hogar.",
+            "tier": "B2"
+          },
+          {
+            "front": "la cosecha",
+            "pos": "noun",
+            "back": "harvest, crop",
+            "example": "Este año la cosecha fue muy pobre.",
+            "tier": "B1"
+          },
+          {
+            "front": "dañar",
+            "pos": "verb",
+            "back": "to damage",
+            "example": "La tormenta dañó varias casas.",
+            "tier": "B1"
+          },
+          {
+            "front": "enfrentarse a",
+            "pos": "verb",
+            "back": "to face (up to)",
+            "example": "El país se enfrenta a una crisis.",
+            "tier": "B2"
+          },
+          {
+            "front": "el riesgo",
+            "pos": "noun",
+            "back": "risk",
+            "example": "Invertir siempre implica algún riesgo.",
+            "tier": "B1"
+          },
+          {
+            "front": "sostenible",
+            "pos": "adj",
+            "back": "sustainable",
+            "example": "Buscan un modelo más sostenible.",
+            "tier": "B2"
+          },
+          {
+            "front": "las emisiones",
+            "pos": "noun",
+            "back": "emissions",
+            "example": "El plan busca reducir las emisiones.",
+            "tier": "B2"
+          },
+          {
+            "front": "la pérdida",
+            "pos": "noun",
+            "back": "loss",
+            "example": "Las pérdidas económicas fueron enormes.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El aumento de los fenómenos climáticos extremos no es solo un problema ecológico, sino también económico.",
+            "point": "'No solo ... sino también'",
+            "explanation": "This structure adds and emphasizes a second idea; 'sino' (not 'pero') is used after a negative to introduce the contrast.",
+            "why_tricky": "Learners often use 'pero' here, but after 'no' Spanish requires 'sino'."
+          },
+          {
+            "sentence": "Según los expertos, ignorar el cambio climático saldrá mucho más caro que actuar a tiempo.",
+            "point": "Infinitives as subjects + comparison",
+            "explanation": "The infinitives 'ignorar' and 'actuar' work as nouns, and 'más caro que' makes the comparison between the two actions.",
+            "why_tricky": "English would use '-ing' forms ('ignoring', 'acting'), while Spanish keeps the infinitive."
+          },
+          {
+            "sentence": "Si el mundo no reduce sus emisiones, las pérdidas podrían crecer año tras año hasta volverse difíciles de soportar.",
+            "point": "Conditional sentence with 'si'",
+            "explanation": "'Si' + present indicative ('reduce') combines with the conditional 'podrían' to describe a possible future result.",
+            "why_tricky": "The conditional, not the future, is used in the main clause to soften the prediction."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "a tiempo",
+            "meaning": "in time, on time",
+            "example": "Llegamos a tiempo para evitar el problema."
+          },
+          {
+            "phrase": "año tras año",
+            "meaning": "year after year",
+            "example": "Los costes aumentan año tras año."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué dicen los expertos que el clima extremo es también un problema económico?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué sectores se ven más afectados por estos fenómenos?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué consideran la economía sostenible una inversión inteligente?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Escribe unas 120 palabras: ¿qué medidas podrían tomar los gobiernos o las empresas para reducir el impacto del cambio climático?"
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-27-colombia-elecciones-fortuna",
+      "title": "Cómo hizo su fortuna De la Espriella y los cuestionados negocios del ganador de las elecciones en Colombia",
+      "source": "BBC Mundo",
+      "date": "2026-06-27",
+      "level": "B1-B2",
+      "topics": [
+        "política",
+        "Colombia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-27-colombia-elecciones-fortuna",
+        "revision": 1,
+        "meta": {
+          "title": "Cómo hizo su fortuna De la Espriella y los cuestionados negocios del ganador de las elecciones en Colombia",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c3ryp829q3jo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-27",
+          "date_processed": "2026-06-27",
+          "tags": [
+            "política",
+            "Colombia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The winner of the recent elections in Colombia, the lawyer De la Espriella, has landed at the centre of political debate because of the origin of his fortune. He defends his independence and claims to have financed his own campaign with his earnings. However, several of his connections and business activities are being questioned by the press and by his rivals. The discussion about his wealth has become as intense as the campaign itself.\n\nThe case raises a question that recurs in many countries: to what extent private money influences politics. His supporters argue that having paid for his campaign frees him from outside pressure. His critics, on the other hand, fear that his businesses will create conflicts of interest once he is in power. In the coming weeks, the transparency with which he explains his accounts will be key to earning citizens' trust.",
+        "resumen_es": "El ganador de las recientes elecciones en Colombia, el abogado De la Espriella, ha llegado al centro del debate político por el origen de su fortuna. Él defiende su independencia y asegura haber financiado su propia campaña con sus ganancias. Sin embargo, varios de sus vínculos y actividades empresariales están siendo cuestionados por la prensa y por sus rivales. La discusión sobre su patrimonio se ha vuelto tan intensa como la propia campaña electoral.\n\nEl caso plantea una pregunta que se repite en muchos países: hasta qué punto el dinero privado influye en la política. Sus defensores sostienen que haber pagado su campaña lo libera de presiones externas. Sus críticos, en cambio, temen que sus negocios generen conflictos de interés una vez en el poder. En las próximas semanas, la transparencia con la que explique sus cuentas será clave para ganarse la confianza de los ciudadanos.",
+        "vocab": [
+          {
+            "front": "la fortuna",
+            "pos": "noun",
+            "back": "fortune, wealth",
+            "example": "Nadie sabe cómo hizo su fortuna.",
+            "tier": "B1"
+          },
+          {
+            "front": "el abogado",
+            "pos": "noun",
+            "back": "lawyer",
+            "example": "El abogado defendió su caso con firmeza.",
+            "tier": "B1"
+          },
+          {
+            "front": "financiar",
+            "pos": "verb",
+            "back": "to fund, to finance",
+            "example": "Logró financiar el proyecto con dinero propio.",
+            "tier": "B2"
+          },
+          {
+            "front": "las ganancias",
+            "pos": "noun",
+            "back": "earnings, profits",
+            "example": "Reinvirtió todas sus ganancias.",
+            "tier": "B2"
+          },
+          {
+            "front": "el vínculo",
+            "pos": "noun",
+            "back": "link, connection",
+            "example": "Investigan sus vínculos con la empresa.",
+            "tier": "B2"
+          },
+          {
+            "front": "cuestionar",
+            "pos": "verb",
+            "back": "to question, to challenge",
+            "example": "La prensa cuestiona sus decisiones.",
+            "tier": "B2"
+          },
+          {
+            "front": "el patrimonio",
+            "pos": "noun",
+            "back": "assets, estate",
+            "example": "Declaró todo su patrimonio.",
+            "tier": "B2"
+          },
+          {
+            "front": "sostener",
+            "pos": "verb",
+            "back": "to maintain, to argue",
+            "example": "El experto sostiene que la medida es necesaria.",
+            "tier": "B2"
+          },
+          {
+            "front": "el conflicto de interés",
+            "pos": "noun",
+            "back": "conflict of interest",
+            "example": "El cargo puede generar un conflicto de interés.",
+            "tier": "C1"
+          },
+          {
+            "front": "liberar de",
+            "pos": "verb",
+            "back": "to free from",
+            "example": "El acuerdo lo libera de toda culpa.",
+            "tier": "B2"
+          },
+          {
+            "front": "la transparencia",
+            "pos": "noun",
+            "back": "transparency",
+            "example": "Los ciudadanos exigen más transparencia.",
+            "tier": "B2"
+          },
+          {
+            "front": "ganarse la confianza",
+            "pos": "phrase",
+            "back": "to earn the trust",
+            "example": "Tardó años en ganarse la confianza del equipo.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El caso plantea una pregunta que se repite en muchos países: hasta qué punto el dinero privado influye en la política.",
+            "point": "Indirect question with 'hasta qué punto'",
+            "explanation": "After the colon, 'hasta qué punto' introduces an embedded question; the accent on 'qué' is kept even though there is no question mark.",
+            "why_tricky": "It looks like a statement, but it is really a reported question, so 'qué' still carries the written accent."
+          },
+          {
+            "sentence": "Sus críticos, en cambio, temen que sus negocios generen conflictos de interés una vez en el poder.",
+            "point": "Subjunctive after verbs of fear",
+            "explanation": "'Temer que' expresses fear or worry, so the following verb 'generen' must be in the present subjunctive.",
+            "why_tricky": "English uses 'fear that ... will', but Spanish requires the subjunctive, not the future."
+          },
+          {
+            "sentence": "En las próximas semanas, la transparencia con la que explique sus cuentas será clave para ganarse la confianza de los ciudadanos.",
+            "point": "Subjunctive in a relative clause",
+            "explanation": "'Con la que explique' refers to a future, not-yet-real action, so the relative clause takes the subjunctive 'explique'.",
+            "why_tricky": "With a known fact you would use the indicative 'explica'; the hypothetical future is what forces the subjunctive."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "hasta qué punto",
+            "meaning": "to what extent",
+            "example": "No sabemos hasta qué punto dice la verdad."
+          },
+          {
+            "phrase": "ganarse la confianza de alguien",
+            "meaning": "to win someone's trust",
+            "example": "Un líder debe ganarse la confianza de su gente."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué se ha convertido la fortuna de De la Espriella en un tema de debate?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué argumentos usan sus defensores y sus críticos?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué será importante la transparencia en las próximas semanas?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Escribe unas 120 palabras: ¿debería limitarse el dinero privado en las campañas políticas? Explica tu postura."
+      }
+    },
     {
       "pack_id": "feed-2026-06-27-venezuela-terremotos",
       "title": "Por qué Venezuela es tan propensa a sufrir terremotos destructivos (y cómo se compara el último con los del pasado)",
@@ -6257,499 +6743,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que bajar los impuestos a las empresas ayuda más a la economía o perjudica a los servicios públicos? Escribe un párrafo defendiendo tu postura con al menos dos razones."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-19-india-tecnologia-soberania",
-      "title": "\"La India se destaca por unos marcos normativos y de soberanía que no se ven en ningún otro lugar\"",
-      "source": "RFI Español",
-      "date": "2026-06-18",
-      "level": "B1-B2",
-      "topics": [
-        "tecnología",
-        "India"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-19-india-tecnologia-soberania",
-        "revision": 1,
-        "meta": {
-          "title": "\"La India se destaca por unos marcos normativos y de soberanía que no se ven en ningún otro lugar\"",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/ciencia/20260618-la-india-destaca-por-unos-marcos-normativos-y-de-soberan%C3%ADa-que-no-se-ven-en-ning%C3%BAn-otro-lugar",
-          "date_published": "2026-06-18",
-          "date_processed": "2026-06-19",
-          "tags": [
-            "tecnología",
-            "India"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "India has become the official artificial intelligence partner of VivaTech 2026, the major technology fair in Paris. According to RFI, this is an unprecedented status for a country that carries more and more weight in this field. The way it regulates and deploys new technologies also fits with Europe's desire to strengthen its own digital sovereignty.\n\nHowever, an expert interviewed by RFI raises an uncomfortable question: do we really know Indian technology? It is often reduced to call centres or to the development of cheap software, but the reality is much more complex. India has built its own regulatory frameworks that protect its citizens' data and that are rarely seen elsewhere. For that reason, looking towards this country may help Europe to imagine a more autonomous technological model, less dependent on the great powers.",
-        "resumen_es": "La India se ha convertido en el socio oficial en inteligencia artificial de VivaTech 2026, el gran salón tecnológico de París. Según RFI, se trata de un estatus sin precedentes para un país que pesa cada vez más en este campo. Su forma de regular y desplegar las nuevas tecnologías encaja, además, con el deseo europeo de reforzar su propia soberanía digital.\n\nSin embargo, una experta entrevistada por RFI plantea una pregunta incómoda: ¿conocemos de verdad la tecnología india? A menudo se la reduce a los centros de atención telefónica o al desarrollo de software barato, pero la realidad es mucho más compleja. La India ha construido marcos normativos propios que protegen los datos de sus ciudadanos y que apenas se ven en otros lugares. Por eso, mirar hacia este país puede ayudar a Europa a imaginar un modelo tecnológico más autónomo, menos dependiente de las grandes potencias.",
-        "vocab": [
-          {
-            "front": "el socio",
-            "pos": "noun",
-            "back": "partner",
-            "example": "Buscan un socio estratégico para el proyecto.",
-            "tier": "B1"
-          },
-          {
-            "front": "la inteligencia artificial",
-            "pos": "phrase",
-            "back": "artificial intelligence",
-            "example": "La inteligencia artificial cambia la industria.",
-            "tier": "B1"
-          },
-          {
-            "front": "sin precedentes",
-            "pos": "phrase",
-            "back": "unprecedented",
-            "example": "Fue una crisis sin precedentes.",
-            "tier": "B2"
-          },
-          {
-            "front": "desplegar",
-            "pos": "verb",
-            "back": "to deploy, to roll out",
-            "example": "La empresa desplegó la nueva red en un mes.",
-            "tier": "B2"
-          },
-          {
-            "front": "la soberanía",
-            "pos": "noun",
-            "back": "sovereignty",
-            "example": "Defienden la soberanía digital del país.",
-            "tier": "B2"
-          },
-          {
-            "front": "el marco normativo",
-            "pos": "phrase",
-            "back": "regulatory framework",
-            "example": "Falta un marco normativo claro para el sector.",
-            "tier": "C1"
-          },
-          {
-            "front": "encajar con",
-            "pos": "verb",
-            "back": "to fit with",
-            "example": "La idea encaja con nuestros planes.",
-            "tier": "B2"
-          },
-          {
-            "front": "los datos",
-            "pos": "noun",
-            "back": "data",
-            "example": "Hay que proteger los datos personales.",
-            "tier": "B1"
-          },
-          {
-            "front": "reducir a",
-            "pos": "verb",
-            "back": "to reduce to",
-            "example": "No se puede reducir todo a dinero.",
-            "tier": "B2"
-          },
-          {
-            "front": "autónomo",
-            "pos": "adj",
-            "back": "autonomous, independent",
-            "example": "Quieren un sistema más autónomo.",
-            "tier": "B2"
-          },
-          {
-            "front": "la potencia",
-            "pos": "noun",
-            "back": "power (country)",
-            "example": "China es una gran potencia mundial.",
-            "tier": "B1"
-          },
-          {
-            "front": "dependiente de",
-            "pos": "phrase",
-            "back": "dependent on",
-            "example": "Es muy dependiente de las importaciones.",
-            "tier": "B2"
-          },
-          {
-            "front": "apenas",
-            "pos": "adv",
-            "back": "barely, hardly",
-            "example": "Apenas se nota la diferencia.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La India se ha convertido en el socio oficial en inteligencia artificial de VivaTech 2026, el gran salón tecnológico de París.",
-            "point": "El verbo de cambio 'convertirse en' en pretérito perfecto.",
-            "explanation": "'Convertirse en' expresa una transformación y siempre lleva 'en' antes del nuevo estado. En pretérito perfecto ('se ha convertido') indica un cambio reciente que sigue vigente.",
-            "why_tricky": "Se confunde con otros verbos de cambio (volverse, hacerse, ponerse), cada uno con su matiz, y a veces se omite la preposición 'en'."
-          },
-          {
-            "sentence": "A menudo se la reduce a los centros de atención telefónica o al desarrollo de software barato, pero la realidad es mucho más compleja.",
-            "point": "El 'se' impersonal con el pronombre 'la' y el contraste con 'pero'.",
-            "explanation": "'Se la reduce' usa el 'se' impersonal: no se dice quién reduce. 'La' sustituye a 'la tecnología india'. 'Pero' introduce una idea opuesta.",
-            "why_tricky": "Combinar el 'se' impersonal con un pronombre de objeto ('la') resulta difícil y suena raro a quien traduce literalmente."
-          },
-          {
-            "sentence": "mirar hacia este país puede ayudar a Europa a imaginar un modelo tecnológico más autónomo",
-            "point": "El infinitivo como sujeto y la perífrasis 'poder + infinitivo' con 'ayudar a + infinitivo'.",
-            "explanation": "'Mirar' es el sujeto, por eso el verbo va en singular ('puede'). 'Ayudar a' rige 'a' antes del infinitivo 'imaginar'.",
-            "why_tricky": "Es fácil olvidar la 'a' de 'ayudar a' y poner el verbo en plural por la presencia de 'Europa'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "plantear una pregunta incómoda",
-            "meaning": "hacer una pregunta difícil que muchos prefieren evitar",
-            "example": "El periodista planteó una pregunta incómoda al ministro."
-          },
-          {
-            "phrase": "cada vez más",
-            "meaning": "de forma creciente, progresivamente",
-            "example": "Este tema interesa cada vez más a la gente joven."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué papel tiene la India en VivaTech 2026 y por qué es importante?",
-            "type": "open"
-          },
-          {
-            "q": "¿Con qué se suele asociar la tecnología india, según el texto, y por qué esa idea es incompleta?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué podría interesarle a Europa el modelo tecnológico de la India?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Te parece importante que un país controle sus propios datos y tecnología? Escribe un párrafo explicando qué ventajas o riesgos ves en la 'soberanía digital'."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-18-robin-hood-origenes",
-      "title": "\"No era un héroe\": cómo se borraron los oscuros y violentos orígenes medievales de Robin Hood",
-      "source": "BBC Mundo",
-      "date": "2026-06-18",
-      "level": "B1-B2",
-      "topics": [
-        "cultura",
-        "historia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-18-robin-hood-origenes",
-        "revision": 1,
-        "meta": {
-          "title": "\"No era un héroe\": cómo se borraron los oscuros y violentos orígenes medievales de Robin Hood",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cx2w51yrrqyo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-06-18",
-          "date_processed": "2026-06-18",
-          "tags": [
-            "cultura",
-            "historia"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The figure of Robin Hood is once again at the centre of debate. For centuries we have imagined him as a noble hero who robbed the rich to share with the poor, but that very clean image hides far darker origins. According to the oldest medieval tales, the character was in fact a violent outlaw, far from the kind defender we know today.\n\nOver time, his more uncomfortable edges were gradually softened until he became a symbol of justice. However, this complexity is valuable, because it challenges a polarised world in which heroes and villains tend to be either completely good or completely bad. Perhaps that is why the myth remains so alive: it reminds us that almost no one fits entirely into a single category.",
-        "resumen_es": "La figura de Robin Hood vuelve a estar en el centro del debate. Durante siglos lo hemos imaginado como un héroe noble que robaba a los ricos para repartir entre los pobres, pero esa imagen tan limpia esconde unos orígenes mucho más oscuros. Según los relatos medievales más antiguos, el personaje era en realidad un forajido violento, lejos del defensor amable que conocemos hoy.\n\nCon el paso del tiempo, sus aristas más incómodas se fueron suavizando hasta convertirlo en un símbolo de justicia. Sin embargo, esta complejidad resulta valiosa, porque desafía a un mundo polarizado en el que los héroes y los villanos suelen ser o totalmente buenos o totalmente malos. Quizá por eso el mito sigue tan vivo: nos recuerda que casi nadie cabe del todo en una sola categoría.",
-        "vocab": [
-          {
-            "front": "forajido",
-            "pos": "noun",
-            "back": "outlaw, bandit",
-            "example": "El forajido huyó al bosque para escapar de la justicia.",
-            "tier": "B2"
-          },
-          {
-            "front": "repartir",
-            "pos": "verb",
-            "back": "to share out, distribute",
-            "example": "Decidieron repartir la comida entre todos los vecinos.",
-            "tier": "B1"
-          },
-          {
-            "front": "esconder",
-            "pos": "verb",
-            "back": "to hide, conceal",
-            "example": "Esa sonrisa esconde mucha tristeza.",
-            "tier": "B1"
-          },
-          {
-            "front": "aristas",
-            "pos": "noun",
-            "back": "rough edges, awkward sides",
-            "example": "Su carácter tiene muchas aristas difíciles.",
-            "tier": "C1"
-          },
-          {
-            "front": "suavizar",
-            "pos": "verb",
-            "back": "to soften, tone down",
-            "example": "Intentó suavizar el tono de la crítica.",
-            "tier": "B2"
-          },
-          {
-            "front": "polarizado",
-            "pos": "adj",
-            "back": "polarised, divided",
-            "example": "Vivimos en un país muy polarizado.",
-            "tier": "B2"
-          },
-          {
-            "front": "desafiar",
-            "pos": "verb",
-            "back": "to challenge, defy",
-            "example": "Sus ideas desafían lo que creíamos saber.",
-            "tier": "B2"
-          },
-          {
-            "front": "villano",
-            "pos": "noun",
-            "back": "villain",
-            "example": "En cada cuento hay un héroe y un villano.",
-            "tier": "B1"
-          },
-          {
-            "front": "soler",
-            "pos": "verb",
-            "back": "to usually do something",
-            "example": "Suelo levantarme temprano los lunes.",
-            "tier": "B1"
-          },
-          {
-            "front": "relato",
-            "pos": "noun",
-            "back": "tale, account, story",
-            "example": "Nos contó un relato fascinante sobre su viaje.",
-            "tier": "B1"
-          },
-          {
-            "front": "caber",
-            "pos": "verb",
-            "back": "to fit (into)",
-            "example": "No cabe nadie más en el ascensor.",
-            "tier": "B2"
-          },
-          {
-            "front": "complejidad",
-            "pos": "noun",
-            "back": "complexity",
-            "example": "La complejidad del problema nos sorprendió.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Durante siglos lo hemos imaginado como un héroe noble que robaba a los ricos para repartir entre los pobres, pero esa imagen tan limpia esconde unos orígenes mucho más oscuros.",
-            "point": "Pretérito perfecto compuesto frente al imperfecto",
-            "explanation": "'Hemos imaginado' usa el perfecto compuesto para una creencia que sigue vigente hoy, mientras 'robaba' usa el imperfecto para describir una acción habitual en el pasado.",
-            "why_tricky": "Los aprendices suelen mezclar ambos tiempos; aquí conviven en la misma frase con funciones distintas."
-          },
-          {
-            "sentence": "Con el paso del tiempo, sus aristas más incómodas se fueron suavizando hasta convertirlo en un símbolo de justicia.",
-            "point": "Perífrasis 'ir + gerundio'",
-            "explanation": "'Se fueron suavizando' expresa un cambio gradual y progresivo a lo largo del tiempo, no un hecho puntual.",
-            "why_tricky": "Es fácil traducirlo por un simple pasado y perder el matiz de proceso lento."
-          },
-          {
-            "sentence": "Sin embargo, esta complejidad resulta valiosa, porque desafía a un mundo polarizado en el que los héroes y los villanos suelen ser o totalmente buenos o totalmente malos.",
-            "point": "Perífrasis 'soler + infinitivo'",
-            "explanation": "'Suelen ser' indica algo habitual o típico, equivalente a 'normalmente son'.",
-            "why_tricky": "'Soler' no tiene traducción directa en inglés y se omite con frecuencia por error."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "tener dos caras",
-            "meaning": "to be two-faced; to have a hidden, contradictory side",
-            "example": "Ese político tiene dos caras: una en público y otra en privado."
-          },
-          {
-            "phrase": "con el paso del tiempo",
-            "meaning": "as time goes by, eventually",
-            "example": "Con el paso del tiempo, aprendió a perdonar."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué la imagen tradicional de Robin Hood resulta engañosa según el texto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Cómo cambió el personaje con el paso del tiempo?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué crítica hace el texto sobre la forma en que vemos a los héroes y a los villanos?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que las personas reales pueden dividirse en héroes y villanos, o la mayoría somos una mezcla de ambos? Escribe un párrafo defendiendo tu postura con ejemplos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-18-calor-cuerpo",
-      "title": "¡Qué calor! Por qué no somos todos iguales ante las altas temperaturas",
-      "source": "RFI Español",
-      "date": "2026-06-18",
-      "level": "B1-B2",
-      "topics": [
-        "ciencia",
-        "salud"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-18-calor-cuerpo",
-        "revision": 1,
-        "meta": {
-          "title": "¡Qué calor! Por qué no somos todos iguales ante las altas temperaturas",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/programas/salud-y-bienestar/20260618-qu%C3%A9-calor-por-qu%C3%A9-no-somos-todos-iguales-ante-el-calor",
-          "date_published": "2026-06-18",
-          "date_processed": "2026-06-18",
-          "tags": [
-            "ciencia",
-            "salud"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "With the arrival of summer and the first heatwaves, a question many people ask comes back: why don't we all feel the temperature in the same way? While some sweat at the slightest heat, others seem to put up with the stifling weather without batting an eye. Science explains that many factors are involved, from sex and age to the way each body regulates its own heat.\n\nOur body has thermoregulation mechanisms that keep a stable temperature, and even the mitochondria in our cells play a key role in that process. That is why simple gestures like taking a cold shower do not always work the same for everyone. Understanding these differences is becoming more and more important, especially on a planet where extreme temperatures are increasingly frequent and long-lasting.",
-        "resumen_es": "Con la llegada del verano y de las primeras olas de calor, vuelve una pregunta que muchos se hacen: ¿por qué no todos sentimos la temperatura de la misma manera? Mientras unos sudan a la mínima, otros parecen aguantar el bochorno sin apenas inmutarse. La ciencia explica que intervienen muchos factores, desde el sexo y la edad hasta la forma en que cada cuerpo regula su propio calor.\n\nNuestro organismo cuenta con mecanismos de termorregulación que mantienen una temperatura estable, y en ese proceso juegan un papel clave hasta las mitocondrias de nuestras células. Por eso, gestos tan sencillos como darse una ducha fría no siempre funcionan igual para todos. Entender estas diferencias resulta cada vez más importante, sobre todo en un planeta donde las temperaturas extremas son cada vez más frecuentes y duraderas.",
-        "vocab": [
-          {
-            "front": "ola de calor",
-            "pos": "phrase",
-            "back": "heatwave",
-            "example": "Una fuerte ola de calor azotó el sur del país.",
-            "tier": "B1"
-          },
-          {
-            "front": "sudar",
-            "pos": "verb",
-            "back": "to sweat",
-            "example": "Empecé a sudar nada más salir a la calle.",
-            "tier": "B1"
-          },
-          {
-            "front": "bochorno",
-            "pos": "noun",
-            "back": "stifling, muggy heat",
-            "example": "El bochorno de agosto es insoportable en la ciudad.",
-            "tier": "B2"
-          },
-          {
-            "front": "inmutarse",
-            "pos": "verb",
-            "back": "to be fazed, to flinch",
-            "example": "Recibió la noticia sin inmutarse.",
-            "tier": "C1"
-          },
-          {
-            "front": "aguantar",
-            "pos": "verb",
-            "back": "to put up with, to endure",
-            "example": "No sé cómo aguantas tanto ruido.",
-            "tier": "B1"
-          },
-          {
-            "front": "termorregulación",
-            "pos": "noun",
-            "back": "thermoregulation",
-            "example": "La termorregulación permite mantener el cuerpo a treinta y siete grados.",
-            "tier": "C1"
-          },
-          {
-            "front": "mecanismo",
-            "pos": "noun",
-            "back": "mechanism",
-            "example": "El cuerpo tiene mecanismos de defensa muy eficaces.",
-            "tier": "B1"
-          },
-          {
-            "front": "célula",
-            "pos": "noun",
-            "back": "cell",
-            "example": "El cuerpo humano está formado por millones de células.",
-            "tier": "B1"
-          },
-          {
-            "front": "duradero",
-            "pos": "adj",
-            "back": "long-lasting",
-            "example": "Buscan una solución duradera al problema.",
-            "tier": "B2"
-          },
-          {
-            "front": "gesto",
-            "pos": "noun",
-            "back": "gesture, small act",
-            "example": "Un pequeño gesto de amabilidad cambió su día.",
-            "tier": "B1"
-          },
-          {
-            "front": "intervenir",
-            "pos": "verb",
-            "back": "to be involved, to intervene",
-            "example": "En este fenómeno intervienen varios factores.",
-            "tier": "B2"
-          },
-          {
-            "front": "regular",
-            "pos": "verb",
-            "back": "to regulate",
-            "example": "El sudor ayuda a regular la temperatura corporal.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Mientras unos sudan a la mínima, otros parecen aguantar el bochorno sin apenas inmutarse.",
-            "point": "Contraste con 'mientras' y 'parecer + infinitivo'",
-            "explanation": "'Mientras' contrapone dos grupos de personas; 'parecen aguantar' usa parecer más infinitivo para expresar una impresión.",
-            "why_tricky": "'Parecer + infinitivo' no lleva 'que' y los aprendices tienden a añadirlo."
-          },
-          {
-            "sentence": "La ciencia explica que intervienen muchos factores, desde el sexo y la edad hasta la forma en que cada cuerpo regula su propio calor.",
-            "point": "Estructura de rango 'desde... hasta'",
-            "explanation": "'Desde... hasta' enumera los extremos de una serie de factores, abarcando todo lo que hay entre ellos.",
-            "why_tricky": "Es fácil olvidar que ambos elementos deben ser del mismo tipo gramatical."
-          },
-          {
-            "sentence": "Entender estas diferencias resulta cada vez más importante, sobre todo en un planeta donde las temperaturas extremas son cada vez más frecuentes y duraderas.",
-            "point": "Intensidad creciente con 'cada vez más'",
-            "explanation": "'Cada vez más' indica que algo aumenta de forma progresiva y continua.",
-            "why_tricky": "Se confunde con 'más y más' y a veces se coloca mal respecto al adjetivo."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "sudar la gota gorda",
-            "meaning": "to sweat buckets; to struggle hard to do something",
-            "example": "Sudé la gota gorda para terminar el proyecto a tiempo."
-          },
-          {
-            "phrase": "cada vez más",
-            "meaning": "more and more, increasingly",
-            "example": "Cada vez más gente prefiere trabajar desde casa."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué no todas las personas sienten el calor de la misma forma, según el texto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué papel cumplen las mitocondrias en la regulación de la temperatura?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué dice el texto que entender estas diferencias es cada vez más importante?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Cómo afrontas tú las olas de calor en verano? Describe tus trucos para combatir el bochorno y explica si crees que las ciudades están preparadas para temperaturas cada vez más extremas."
       }
     }
   ]
