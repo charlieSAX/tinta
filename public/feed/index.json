@@ -1,7 +1,521 @@
 {
-  "generated_at": "2026-06-26T20:13:45Z",
+  "generated_at": "2026-06-27T08:59:41Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-27-venezuela-terremotos",
+      "title": "Por qué Venezuela es tan propensa a sufrir terremotos destructivos (y cómo se compara el último con los del pasado)",
+      "source": "BBC Mundo",
+      "date": "2026-06-27",
+      "level": "B1-B2",
+      "topics": [
+        "ciencia",
+        "desastres"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-27-venezuela-terremotos",
+        "revision": 1,
+        "meta": {
+          "title": "Por qué Venezuela es tan propensa a sufrir terremotos destructivos (y cómo se compara el último con los del pasado)",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cpv3d2ynz7xo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-27",
+          "date_processed": "2026-06-27",
+          "tags": [
+            "ciencia",
+            "desastres"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Venezuela is going through one of the hardest moments in its recent history after the two powerful earthquakes that shook the country. Experts point out that this is no coincidence: Venezuelan territory sits in an area where two large tectonic plates slowly collide. This pressure builds up over decades and, sooner or later, is released all at once in the form of destructive quakes.\n\nOver the years, the country has suffered several similar disasters, which shows just how vulnerable it is. Specialists insist that, although it is impossible to predict the exact day of a tremor, preventive measures can indeed be taken. Building more resistant structures, educating the population and strengthening emergency services are key steps to reduce the number of victims in the future.",
+        "resumen_es": "Venezuela vive uno de los momentos más duros de su historia reciente tras los dos potentes terremotos que sacudieron el país. Los expertos recuerdan que no se trata de una casualidad: el territorio venezolano se encuentra en una zona donde dos grandes placas tectónicas chocan lentamente. Esta presión se acumula durante décadas y, tarde o temprano, se libera de golpe en forma de sismos destructivos.\n\nA lo largo de los años, el país ha sufrido varios desastres parecidos, lo que demuestra hasta qué punto es vulnerable. Los especialistas insisten en que, aunque resulta imposible predecir el día exacto de un temblor, sí se pueden tomar medidas de prevención. Construir edificios más resistentes, educar a la población y reforzar los servicios de emergencia son pasos clave para reducir el número de víctimas en el futuro.",
+        "vocab": [
+          {
+            "front": "propenso a",
+            "pos": "adj",
+            "back": "prone to, likely to suffer",
+            "example": "Esa región es propensa a los terremotos.",
+            "tier": "B2"
+          },
+          {
+            "front": "el terremoto",
+            "pos": "noun",
+            "back": "earthquake",
+            "example": "El terremoto destruyó muchas casas.",
+            "tier": "B1"
+          },
+          {
+            "front": "la placa tectónica",
+            "pos": "noun",
+            "back": "tectonic plate",
+            "example": "Dos placas tectónicas chocan bajo el país.",
+            "tier": "B2"
+          },
+          {
+            "front": "sacudir",
+            "pos": "verb",
+            "back": "to shake",
+            "example": "El sismo sacudió toda la ciudad.",
+            "tier": "B2"
+          },
+          {
+            "front": "acumularse",
+            "pos": "verb",
+            "back": "to build up, accumulate",
+            "example": "La tensión se acumula durante décadas.",
+            "tier": "B2"
+          },
+          {
+            "front": "liberarse",
+            "pos": "verb",
+            "back": "to be released",
+            "example": "La energía se libera de golpe.",
+            "tier": "B2"
+          },
+          {
+            "front": "de golpe",
+            "pos": "phrase",
+            "back": "all at once, suddenly",
+            "example": "Todo cambió de golpe.",
+            "tier": "B1"
+          },
+          {
+            "front": "vulnerable",
+            "pos": "adj",
+            "back": "vulnerable",
+            "example": "El país es muy vulnerable a los desastres.",
+            "tier": "B2"
+          },
+          {
+            "front": "predecir",
+            "pos": "verb",
+            "back": "to predict",
+            "example": "Nadie puede predecir el día exacto.",
+            "tier": "B2"
+          },
+          {
+            "front": "el temblor",
+            "pos": "noun",
+            "back": "tremor",
+            "example": "Sintieron un temblor por la noche.",
+            "tier": "B1"
+          },
+          {
+            "front": "la prevención",
+            "pos": "noun",
+            "back": "prevention",
+            "example": "La prevención salva vidas.",
+            "tier": "B1"
+          },
+          {
+            "front": "reforzar",
+            "pos": "verb",
+            "back": "to reinforce, strengthen",
+            "example": "Hay que reforzar los edificios antiguos.",
+            "tier": "B2"
+          },
+          {
+            "front": "la víctima",
+            "pos": "noun",
+            "back": "victim",
+            "example": "El número de víctimas sigue subiendo.",
+            "tier": "B1"
+          },
+          {
+            "front": "tarde o temprano",
+            "pos": "phrase",
+            "back": "sooner or later",
+            "example": "Tarde o temprano ocurrirá otro sismo.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Esta presión se acumula durante décadas y, tarde o temprano, se libera de golpe en forma de sismos destructivos.",
+            "point": "Pronominal 'se' for processes",
+            "explanation": "'Se acumula' and 'se libera' use the pronominal 'se' to describe something that happens on its own, without naming who causes it.",
+            "why_tricky": "English uses a passive ('is released') or an active verb with a vague subject, while Spanish prefers this 'se' construction."
+          },
+          {
+            "sentence": "Los especialistas insisten en que, aunque resulta imposible predecir el día exacto de un temblor, sí se pueden tomar medidas de prevención.",
+            "point": "'aunque' + indicative",
+            "explanation": "Here 'aunque resulta' uses the indicative because the speaker treats it as a known fact, not a hypothesis.",
+            "why_tricky": "'Aunque' can take the indicative or the subjunctive, and the choice changes the meaning."
+          },
+          {
+            "sentence": "Construir edificios más resistentes, educar a la población y reforzar los servicios de emergencia son pasos clave para reducir el número de víctimas en el futuro.",
+            "point": "Infinitives as subject",
+            "explanation": "The three infinitives ('Construir', 'educar', 'reforzar') act together as the subject of the verb 'son'.",
+            "why_tricky": "English would normally use '-ing' gerunds here, but Spanish uses the plain infinitive."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "tarde o temprano",
+            "meaning": "sooner or later; something is bound to happen eventually",
+            "example": "Tarde o temprano tendremos que reforzar las casas."
+          },
+          {
+            "phrase": "de golpe",
+            "meaning": "all of a sudden, in one go",
+            "example": "La energía acumulada se libera de golpe."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué se dice que Venezuela es propensa a los terremotos?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué diferencia hay entre predecir un terremoto y prevenir sus daños?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué medidas menciona el texto para reducir el número de víctimas?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "En tu opinión, ¿qué deberían hacer los gobiernos para proteger a la población en las zonas de riesgo sísmico? Justifica tu respuesta."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-27-papa-francia",
+      "title": "Una misa en los Campos Elíseos será el evento central de la visita del Papa a Francia en septiembre",
+      "source": "RFI Español",
+      "date": "2026-06-27",
+      "level": "B1-B2",
+      "topics": [
+        "religión",
+        "Francia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-27-papa-francia",
+        "revision": 1,
+        "meta": {
+          "title": "Una misa en los Campos Elíseos será el evento central de la visita del Papa a Francia en septiembre",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/francia/20260626-una-misa-en-los-campos-el%C3%ADseos-ser%C3%A1-el-evento-central-de-la-visita-del-papa-a-francia-en-septiembre",
+          "date_published": "2026-06-27",
+          "date_processed": "2026-06-27",
+          "tags": [
+            "religión",
+            "Francia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Pope Leo XIV will visit France at the end of September, in what will be the first state visit by a pontiff to the country since 2008. The central event will be a large open-air mass on the Champs-Elysees, the most famous avenue in Paris, where the presence of thousands of faithful arriving from all over France is expected.\n\nDuring his stay, the holy father will also meet with young people in a well-known stadium and will travel to other cities in the country. The trip carries strong symbolic value, since it combines religious moments with social and cultural encounters. For many French Catholics, it is a historic and long-awaited occasion, able to fill the streets and draw the attention of the media.",
+        "resumen_es": "El papa León XIV visitará Francia a finales de septiembre, en lo que será la primera visita de Estado de un pontífice al país desde 2008. El acto central será una gran misa al aire libre en los Campos Elíseos, la avenida más famosa de París, donde se espera la presencia de miles de fieles llegados de toda Francia.\n\nDurante su estancia, el santo padre también se reunirá con jóvenes en un conocido estadio y se desplazará a otras ciudades del país. El viaje tiene un fuerte valor simbólico, ya que combina momentos religiosos con encuentros sociales y culturales. Para muchos católicos franceses, se trata de una ocasión histórica y muy esperada, capaz de llenar las calles y de atraer la atención de los medios de comunicación.",
+        "vocab": [
+          {
+            "front": "el pontífice",
+            "pos": "noun",
+            "back": "pontiff, the Pope",
+            "example": "El pontífice saludó a la multitud.",
+            "tier": "B2"
+          },
+          {
+            "front": "la visita de Estado",
+            "pos": "phrase",
+            "back": "state visit",
+            "example": "Será la primera visita de Estado en años.",
+            "tier": "B2"
+          },
+          {
+            "front": "la misa",
+            "pos": "noun",
+            "back": "(Catholic) mass",
+            "example": "Miles de personas asistieron a la misa.",
+            "tier": "B1"
+          },
+          {
+            "front": "al aire libre",
+            "pos": "phrase",
+            "back": "outdoors, in the open air",
+            "example": "La ceremonia se hará al aire libre.",
+            "tier": "B1"
+          },
+          {
+            "front": "el fiel",
+            "pos": "noun",
+            "back": "believer, member of the faithful",
+            "example": "Los fieles llenaron la avenida.",
+            "tier": "B2"
+          },
+          {
+            "front": "la estancia",
+            "pos": "noun",
+            "back": "stay, time spent somewhere",
+            "example": "Durante su estancia visitó varias ciudades.",
+            "tier": "B2"
+          },
+          {
+            "front": "desplazarse",
+            "pos": "verb",
+            "back": "to travel, move from place to place",
+            "example": "El papa se desplazará a Lourdes.",
+            "tier": "B2"
+          },
+          {
+            "front": "reunirse",
+            "pos": "verb",
+            "back": "to meet (with)",
+            "example": "Se reunirá con los jóvenes.",
+            "tier": "B1"
+          },
+          {
+            "front": "simbólico",
+            "pos": "adj",
+            "back": "symbolic",
+            "example": "El gesto tiene un gran valor simbólico.",
+            "tier": "B2"
+          },
+          {
+            "front": "esperado",
+            "pos": "adj",
+            "back": "awaited, anticipated",
+            "example": "Es una visita muy esperada.",
+            "tier": "B1"
+          },
+          {
+            "front": "atraer",
+            "pos": "verb",
+            "back": "to attract, draw",
+            "example": "El evento atrae a miles de personas.",
+            "tier": "B1"
+          },
+          {
+            "front": "los medios de comunicación",
+            "pos": "noun",
+            "back": "the media",
+            "example": "Los medios de comunicación cubrieron el viaje.",
+            "tier": "B1"
+          },
+          {
+            "front": "la ocasión",
+            "pos": "noun",
+            "back": "occasion, opportunity",
+            "example": "Es una ocasión histórica para el país.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El acto central será una gran misa al aire libre en los Campos Elíseos, la avenida más famosa de París, donde se espera la presencia de miles de fieles llegados de toda Francia.",
+            "point": "Future simple for plans",
+            "explanation": "'Será' is the future of 'ser'; Spanish uses the simple future to announce a confirmed future event.",
+            "why_tricky": "English often uses 'will be' or 'is going to be', while here a single future form covers both ideas."
+          },
+          {
+            "sentence": "Durante su estancia, el santo padre también se reunirá con jóvenes en un conocido estadio y se desplazará a otras ciudades del país.",
+            "point": "Reflexive verbs in the future",
+            "explanation": "'Se reunirá' and 'se desplazará' keep the reflexive 'se' even in the future tense.",
+            "why_tricky": "The pronoun stays attached to the meaning of the verb, so dropping it would change or break the sentence."
+          },
+          {
+            "sentence": "Para muchos católicos franceses, se trata de una ocasión histórica y muy esperada, capaz de llenar las calles y de atraer la atención de los medios de comunicación.",
+            "point": "Impersonal 'se trata de'",
+            "explanation": "'Se trata de' means 'it is about' or 'it is a case of' and never changes its subject.",
+            "why_tricky": "Learners often try to give it a subject or translate it word for word, which does not work."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "al aire libre",
+            "meaning": "outdoors, in the open air",
+            "example": "Prefieren celebrar la misa al aire libre."
+          },
+          {
+            "phrase": "tratarse de",
+            "meaning": "to be about, to be a question of",
+            "example": "Se trata de una ocasión histórica."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Cuándo y por qué es importante esta visita del papa a Francia?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué actividades hará el pontífice además de la misa principal?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué dice el texto que el viaje tiene un valor simbólico?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que las visitas de líderes religiosos siguen teniendo importancia hoy en día? Explica tu punto de vista."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-27-ecuador-mundial",
+      "title": "Ecuador sorprende a Alemania y sigue viva en la Copa del Mundo",
+      "source": "RFI Español",
+      "date": "2026-06-27",
+      "level": "B1-B2",
+      "topics": [
+        "deporte",
+        "Mundial"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-27-ecuador-mundial",
+        "revision": 1,
+        "meta": {
+          "title": "Ecuador sorprende a Alemania y sigue viva en la Copa del Mundo",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/deportes/20260626-ecuador-sorprende-a-alemania-y-sigue-viva-en-la-copa-del-mundo",
+          "date_published": "2026-06-27",
+          "date_processed": "2026-06-27",
+          "tags": [
+            "deporte",
+            "Mundial"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Ecuador pulled off one of the World Cup's big surprises by coming from behind to beat Germany, one of the strongest teams in the tournament. The Ecuadorian side, known as 'la Tri', went a goal down, but did not give up and managed to turn the scoreline around in the second half. The fans celebrated with huge joy a victory that keeps their hopes alive.\n\nWith this result, Ecuador still has a chance of qualifying for the next round as one of the best third-placed teams in its group. South American football once again shows its competitive character against the big European sides. For the players and the supporters, this win means an important morale boost and proof that, at a World Cup, you should never give anything up for lost.",
+        "resumen_es": "Ecuador dio una de las grandes sorpresas del Mundial al remontar y vencer a Alemania, una de las selecciones más fuertes del torneo. El equipo ecuatoriano, conocido como la Tri, empezó perdiendo, pero no se rindió y logró darle la vuelta al marcador en la segunda parte. La afición celebró con enorme alegría una victoria que mantiene viva la ilusión.\n\nCon este resultado, Ecuador todavía tiene opciones de clasificarse a la siguiente ronda como uno de los mejores terceros de su grupo. El fútbol sudamericano vuelve así a demostrar su carácter competitivo frente a los grandes equipos europeos. Para los jugadores y los hinchas, este triunfo supone un impulso anímico importante y la prueba de que, en una Copa del Mundo, nunca conviene dar nada por perdido.",
+        "vocab": [
+          {
+            "front": "remontar",
+            "pos": "verb",
+            "back": "to come from behind, recover a deficit",
+            "example": "El equipo logró remontar en el segundo tiempo.",
+            "tier": "B2"
+          },
+          {
+            "front": "la selección",
+            "pos": "noun",
+            "back": "national team",
+            "example": "La selección alemana es muy fuerte.",
+            "tier": "B1"
+          },
+          {
+            "front": "rendirse",
+            "pos": "verb",
+            "back": "to give up, surrender",
+            "example": "Nunca se rindieron pese a ir perdiendo.",
+            "tier": "B1"
+          },
+          {
+            "front": "el marcador",
+            "pos": "noun",
+            "back": "scoreboard, scoreline",
+            "example": "Cambiaron el marcador en el último minuto.",
+            "tier": "B2"
+          },
+          {
+            "front": "darle la vuelta al marcador",
+            "pos": "phrase",
+            "back": "to turn the scoreline around",
+            "example": "Supieron darle la vuelta al marcador.",
+            "tier": "B2"
+          },
+          {
+            "front": "la afición",
+            "pos": "noun",
+            "back": "the fans, supporters (collective)",
+            "example": "La afición llenó el estadio.",
+            "tier": "B2"
+          },
+          {
+            "front": "la ilusión",
+            "pos": "noun",
+            "back": "hope, excitement",
+            "example": "El gol mantuvo viva la ilusión.",
+            "tier": "B1"
+          },
+          {
+            "front": "clasificarse",
+            "pos": "verb",
+            "back": "to qualify (for a stage)",
+            "example": "Aún pueden clasificarse a la final.",
+            "tier": "B1"
+          },
+          {
+            "front": "la ronda",
+            "pos": "noun",
+            "back": "round, stage",
+            "example": "Pasaron a la siguiente ronda.",
+            "tier": "B1"
+          },
+          {
+            "front": "el hincha",
+            "pos": "noun",
+            "back": "fan, supporter",
+            "example": "Los hinchas viajaron para ver el partido.",
+            "tier": "B2"
+          },
+          {
+            "front": "el triunfo",
+            "pos": "noun",
+            "back": "win, triumph",
+            "example": "El triunfo dio confianza al equipo.",
+            "tier": "B1"
+          },
+          {
+            "front": "el impulso anímico",
+            "pos": "phrase",
+            "back": "morale boost",
+            "example": "La victoria fue un gran impulso anímico.",
+            "tier": "B2"
+          },
+          {
+            "front": "dar por perdido",
+            "pos": "phrase",
+            "back": "to give up for lost",
+            "example": "No hay que dar el partido por perdido.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El equipo ecuatoriano, conocido como la Tri, empezó perdiendo, pero no se rindió y logró darle la vuelta al marcador en la segunda parte.",
+            "point": "'empezar' + gerund",
+            "explanation": "'Empezó perdiendo' uses a gerund after 'empezar' to describe how the action began.",
+            "why_tricky": "English says 'started losing', so the structure matches, but learners often add a wrong preposition."
+          },
+          {
+            "sentence": "Con este resultado, Ecuador todavía tiene opciones de clasificarse a la siguiente ronda como uno de los mejores terceros de su grupo.",
+            "point": "'tener opciones de' + infinitive",
+            "explanation": "After 'opciones de' the verb stays in the infinitive ('clasificarse').",
+            "why_tricky": "The reflexive 'se' attaches to the infinitive, which can look unusual to learners."
+          },
+          {
+            "sentence": "Para los jugadores y los hinchas, este triunfo supone un impulso anímico importante y la prueba de que, en una Copa del Mundo, nunca conviene dar nada por perdido.",
+            "point": "Impersonal 'conviene' + infinitive",
+            "explanation": "'Conviene dar' is an impersonal expression meaning 'it is advisable to give'.",
+            "why_tricky": "There is no explicit subject, and 'nunca' before the verb creates a double-negative pattern."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "darle la vuelta al marcador",
+            "meaning": "to turn a losing scoreline into a winning one",
+            "example": "En diez minutos le dieron la vuelta al marcador."
+          },
+          {
+            "phrase": "dar algo por perdido",
+            "meaning": "to assume something is already lost",
+            "example": "No des el partido por perdido hasta el final."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué hizo especial la victoria de Ecuador frente a Alemania?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué necesita Ecuador para clasificarse a la siguiente ronda?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué enseñanza saca el texto de este partido?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Qué importancia crees que tiene la actitud mental en el deporte cuando un equipo va perdiendo? Da tu opinión con ejemplos."
+      }
+    },
     {
       "pack_id": "feed-2026-06-26-domo-calor-europa",
       "title": "Qué es el domo de calor que está causando temperaturas extremas en Europa",
@@ -6236,499 +6750,6 @@
           }
         ],
         "opinion_prompt": "¿Cómo afrontas tú las olas de calor en verano? Describe tus trucos para combatir el bochorno y explica si crees que las ciudades están preparadas para temperaturas cada vez más extremas."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-18-colombia-salud",
-      "title": "Colombia: La crisis del sistema de salud, un desafío para el próximo mandatario",
-      "source": "RFI Español",
-      "date": "2026-06-18",
-      "level": "B1-B2",
-      "topics": [
-        "sociedad",
-        "política"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-18-colombia-salud",
-        "revision": 1,
-        "meta": {
-          "title": "Colombia: La crisis del sistema de salud, un desafío para el próximo mandatario",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/programas/noticias-de-am%C3%A9rica/20260618-colombia-la-crisis-del-sistema-de-salud-un-desaf%C3%ADo-para-el-pr%C3%B3ximo-mandatario",
-          "date_published": "2026-06-18",
-          "date_processed": "2026-06-18",
-          "tags": [
-            "sociedad",
-            "política"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "A few days before the second round of voting, the crisis in the health system has become one of the big topics of conversation in Colombia. The current model, which combines the public and the private, leaves many people without the coverage they need just when they need it most. Long waits and the lack of medicines create deep frustration among citizens.\n\nWhoever wins the elections will inherit an enormous challenge: guaranteeing decent care without the system finally collapsing. Reforming health is not a simple task, since it means balancing public resources, private interests and the needs of millions of patients. For now, the debate remains open and promises to shape much of the next leader's agenda.",
-        "resumen_es": "A pocos días de la segunda vuelta electoral, la crisis del sistema de salud se ha convertido en uno de los grandes temas de conversación en Colombia. El modelo actual, que combina lo público y lo privado, deja a muchas personas sin la cobertura que necesitan justo cuando más lo necesitan. Las largas esperas y la falta de medicamentos generan una profunda frustración entre los ciudadanos.\n\nQuien gane las elecciones heredará un desafío enorme: garantizar una atención digna sin que el sistema termine de colapsar. Reformar la salud no es una tarea sencilla, ya que implica equilibrar los recursos públicos, los intereses privados y las necesidades de millones de pacientes. Por ahora, el debate sigue abierto y promete marcar buena parte de la agenda del próximo mandatario.",
-        "vocab": [
-          {
-            "front": "segunda vuelta",
-            "pos": "phrase",
-            "back": "runoff, second round (of an election)",
-            "example": "El candidato pasó a la segunda vuelta con ventaja.",
-            "tier": "B1"
-          },
-          {
-            "front": "cobertura",
-            "pos": "noun",
-            "back": "coverage",
-            "example": "El seguro ofrece una cobertura médica completa.",
-            "tier": "B1"
-          },
-          {
-            "front": "heredar",
-            "pos": "verb",
-            "back": "to inherit",
-            "example": "El nuevo gobierno hereda una economía débil.",
-            "tier": "B2"
-          },
-          {
-            "front": "desafío",
-            "pos": "noun",
-            "back": "challenge",
-            "example": "Aprender otro idioma es todo un desafío.",
-            "tier": "B1"
-          },
-          {
-            "front": "digno",
-            "pos": "adj",
-            "back": "decent, dignified",
-            "example": "Todos merecen una vivienda digna.",
-            "tier": "B2"
-          },
-          {
-            "front": "colapsar",
-            "pos": "verb",
-            "back": "to collapse",
-            "example": "El tráfico colapsó el centro de la ciudad.",
-            "tier": "B2"
-          },
-          {
-            "front": "equilibrar",
-            "pos": "verb",
-            "back": "to balance",
-            "example": "Es difícil equilibrar el trabajo y la familia.",
-            "tier": "B2"
-          },
-          {
-            "front": "recursos",
-            "pos": "noun",
-            "back": "resources",
-            "example": "El hospital carece de recursos suficientes.",
-            "tier": "B1"
-          },
-          {
-            "front": "medicamento",
-            "pos": "noun",
-            "back": "medicine, drug",
-            "example": "Tomó el medicamento que le recetó el médico.",
-            "tier": "B1"
-          },
-          {
-            "front": "mandatario",
-            "pos": "noun",
-            "back": "head of state, leader",
-            "example": "El mandatario se reunió con sus ministros.",
-            "tier": "B2"
-          },
-          {
-            "front": "atención",
-            "pos": "noun",
-            "back": "care, attention (medical)",
-            "example": "La atención médica fue rápida y amable.",
-            "tier": "B1"
-          },
-          {
-            "front": "implicar",
-            "pos": "verb",
-            "back": "to involve, to imply",
-            "example": "Este cambio implica mucho esfuerzo.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Quien gane las elecciones heredará un desafío enorme: garantizar una atención digna sin que el sistema termine de colapsar.",
-            "point": "Subjuntivo con antecedente indefinido y 'sin que'",
-            "explanation": "'Quien gane' usa subjuntivo porque aún no se sabe quién ganará; 'sin que termine' exige subjuntivo tras 'sin que'.",
-            "why_tricky": "Aparecen dos subjuntivos seguidos con disparadores distintos en una sola frase."
-          },
-          {
-            "sentence": "El modelo actual, que combina lo público y lo privado, deja a muchas personas sin la cobertura que necesitan justo cuando más lo necesitan.",
-            "point": "Artículo neutro 'lo' + adjetivo",
-            "explanation": "'Lo público' y 'lo privado' convierten adjetivos en conceptos abstractos, equivalentes a 'lo que es público'.",
-            "why_tricky": "El 'lo' neutro no existe en inglés y se confunde con el artículo masculino 'el'."
-          },
-          {
-            "sentence": "Reformar la salud no es una tarea sencilla, ya que implica equilibrar los recursos públicos, los intereses privados y las necesidades de millones de pacientes.",
-            "point": "Infinitivo como sujeto y conector 'ya que'",
-            "explanation": "'Reformar' funciona como sujeto de la oración; 'ya que' introduce la causa.",
-            "why_tricky": "En inglés se usaría un gerundio, lo que lleva a errores al traducir."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "estar en boca de todos",
-            "meaning": "to be the talk of the town, on everyone's lips",
-            "example": "El escándalo está en boca de todos."
-          },
-          {
-            "phrase": "por ahora",
-            "meaning": "for now, for the time being",
-            "example": "Por ahora no hay novedades sobre el caso."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué se ha convertido la salud en un tema central antes de la segunda vuelta?",
-            "type": "open"
-          },
-          {
-            "q": "Según el texto, ¿qué problemas concretos enfrentan los ciudadanos con el sistema actual?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué resulta tan complicado reformar el sistema de salud?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Qué papel crees que debe tener el Estado en la sanidad: pública, privada o una mezcla de ambas? Escribe un párrafo explicando tu opinión y compáralo con el sistema de tu país."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-18-cuerpo-futbolistas",
-      "title": "Los gráficos que muestran cómo el cuerpo de los futbolistas ha cambiado en los últimos 50 años",
-      "source": "BBC Mundo",
-      "date": "2026-06-18",
-      "level": "B1-B2",
-      "topics": [
-        "deporte",
-        "ciencia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-18-cuerpo-futbolistas",
-        "revision": 1,
-        "meta": {
-          "title": "Los gráficos que muestran cómo el cuerpo de los futbolistas ha cambiado en los últimos 50 años",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c9d2jnj01l8o",
-          "date_published": "2026-06-18",
-          "date_processed": "2026-06-18",
-          "tags": [
-            "deporte",
-            "ciencia"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "A new BBC analysis uses several graphics to show how the bodies of elite footballers have changed over the last fifty years. Today's players tend to be taller, stronger and, above all, much faster than their predecessors. According to experts, the greater intensity of matches has forced athletes to train in a very different way.\n\nBehind this transformation lie advances in medicine and sport science. Nowadays, clubs carefully look after each player's diet, rest and recovery. On the one hand, this allows them to perform at the highest level for more seasons; on the other hand, it also increases the physical pressure on their bodies. Looking ahead, many wonder how far human performance in football will be able to go.",
-        "resumen_es": "Un nuevo análisis de la BBC muestra, a través de varios gráficos, cómo ha cambiado el cuerpo de los futbolistas de élite en los últimos cincuenta años. Los jugadores actuales suelen ser más altos, más fuertes y, sobre todo, mucho más rápidos que sus predecesores. Según los expertos, la mayor intensidad de los partidos ha obligado a los deportistas a entrenar de una forma muy distinta.\n\nDetrás de esta transformación se encuentran los avances en la medicina y en la ciencia del deporte. Hoy en día, los clubes cuidan con esmero la alimentación, el descanso y la recuperación de cada jugador. Por un lado, esto permite rendir al máximo nivel durante más temporadas; por otro lado, también aumenta la presión física sobre los cuerpos. De cara al futuro, muchos se preguntan hasta dónde podrá llegar el rendimiento humano en el fútbol.",
-        "vocab": [
-          {
-            "front": "el análisis",
-            "pos": "noun",
-            "back": "analysis",
-            "example": "El análisis revela datos muy interesantes.",
-            "tier": "B1"
-          },
-          {
-            "front": "a través de",
-            "pos": "phrase",
-            "back": "through, by means of",
-            "example": "Lo explicó a través de varios gráficos.",
-            "tier": "B1"
-          },
-          {
-            "front": "de élite",
-            "pos": "phrase",
-            "back": "elite, top-level",
-            "example": "Es un deportista de élite.",
-            "tier": "B2"
-          },
-          {
-            "front": "el predecesor",
-            "pos": "noun",
-            "back": "predecessor",
-            "example": "Superó las marcas de todos sus predecesores.",
-            "tier": "B2"
-          },
-          {
-            "front": "obligar a",
-            "pos": "verb",
-            "back": "to force to",
-            "example": "La crisis nos obligó a cambiar de planes.",
-            "tier": "B2"
-          },
-          {
-            "front": "entrenar",
-            "pos": "verb",
-            "back": "to train",
-            "example": "Entrena cada día por la mañana.",
-            "tier": "B1"
-          },
-          {
-            "front": "el avance",
-            "pos": "noun",
-            "back": "advance, progress",
-            "example": "Los avances médicos salvan muchas vidas.",
-            "tier": "B1"
-          },
-          {
-            "front": "con esmero",
-            "pos": "phrase",
-            "back": "with great care",
-            "example": "Preparó la comida con esmero.",
-            "tier": "B2"
-          },
-          {
-            "front": "el descanso",
-            "pos": "noun",
-            "back": "rest",
-            "example": "El descanso es clave para el cuerpo.",
-            "tier": "B1"
-          },
-          {
-            "front": "la recuperación",
-            "pos": "noun",
-            "back": "recovery",
-            "example": "La recuperación tras la lesión fue lenta.",
-            "tier": "B1"
-          },
-          {
-            "front": "rendir",
-            "pos": "verb",
-            "back": "to perform, to yield",
-            "example": "El equipo rindió a un gran nivel.",
-            "tier": "B2"
-          },
-          {
-            "front": "de cara al futuro",
-            "pos": "phrase",
-            "back": "looking ahead",
-            "example": "De cara al futuro, hay que invertir más.",
-            "tier": "B2"
-          },
-          {
-            "front": "el rendimiento",
-            "pos": "noun",
-            "back": "performance, output",
-            "example": "Mejoró mucho su rendimiento físico.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Según los expertos, la mayor intensidad de los partidos ha obligado a los deportistas a entrenar de una forma muy distinta.",
-            "point": "Pretérito perfecto + construcción 'obligar a + infinitivo'",
-            "explanation": "'Ha obligado' es pretérito perfecto (haber + participio) para un cambio con efecto en el presente. 'Obligar a' rige la preposición 'a' antes del infinitivo 'entrenar'.",
-            "why_tricky": "Es fácil olvidar la preposición 'a' y decir 'obligado entrenar', que es incorrecto."
-          },
-          {
-            "sentence": "Por un lado, esto permite rendir al máximo nivel durante más temporadas; por otro lado, también aumenta la presión física sobre los cuerpos.",
-            "point": "Conectores de contraste 'por un lado... por otro lado'",
-            "explanation": "Estos conectores presentan dos caras de la misma idea: una ventaja y un inconveniente. Ordenan el discurso y muestran un razonamiento equilibrado.",
-            "why_tricky": "Hay que usar los dos miembros; usar solo 'por un lado' deja la frase incompleta."
-          },
-          {
-            "sentence": "De cara al futuro, muchos se preguntan hasta dónde podrá llegar el rendimiento humano en el fútbol.",
-            "point": "Futuro simple + pregunta indirecta",
-            "explanation": "'Podrá' es futuro de probabilidad o previsión. 'Hasta dónde' introduce una pregunta indirecta dentro de la oración, por eso no lleva signos de interrogación.",
-            "why_tricky": "Las preguntas indirectas mantienen el orden de la afirmación y no llevan '¿ ?'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "sobre todo",
-            "meaning": "above all, especially",
-            "example": "Me gusta el deporte, sobre todo el fútbol."
-          },
-          {
-            "phrase": "hoy en día",
-            "meaning": "nowadays, these days",
-            "example": "Hoy en día casi todo el mundo usa el móvil."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Cómo han cambiado físicamente los futbolistas en los últimos cincuenta años?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué factores explican esta transformación, según el texto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué ventajas y qué riesgos tiene este cambio para los jugadores?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que el deporte profesional exige demasiado al cuerpo de los atletas? Escribe un párrafo con tu opinión y un ejemplo."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-18-travesia-pacifico-remo",
-      "title": "La increíble travesía del joven que cruzó el Pacífico a remo en solitario desde Perú durante 15 meses",
-      "source": "BBC Mundo",
-      "date": "2026-06-17",
-      "level": "B1-B2",
-      "topics": [
-        "aventura",
-        "viajes"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-18-travesia-pacifico-remo",
-        "revision": 1,
-        "meta": {
-          "title": "La increíble travesía del joven que cruzó el Pacífico a remo en solitario desde Perú durante 15 meses",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cd0me51kr5ko",
-          "date_published": "2026-06-17",
-          "date_processed": "2026-06-18",
-          "tags": [
-            "aventura",
-            "viajes"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Tom Robinson, a young adventurer, rowed across the Pacific Ocean alone after fifteen months of travel. He set off from the coast of Peru and faced, day after day, the waves, loneliness and exhaustion. Thanks to this feat, he became the youngest person to row the Pacific, an achievement that earned him a Guinness record.\n\nHowever, his crossing was much more than a sporting challenge. During those long months on the open sea, the young man had plenty of time to reflect on his life and rethink his priorities. He says the ocean taught him to value simple things and to know himself better. Now that he has returned to dry land, he claims the experience has changed him forever.",
-        "resumen_es": "Tom Robinson, un joven aventurero, cruzó el océano Pacífico a remo y en solitario tras quince meses de viaje. Partió desde la costa de Perú y se enfrentó, día tras día, a las olas, a la soledad y al cansancio. Gracias a esta hazaña, se convirtió en la persona más joven en remar el Pacífico, un logro que le valió un récord Guinness.\n\nSin embargo, su travesía fue mucho más que un desafío deportivo. Durante esos largos meses en alta mar, el joven tuvo tiempo de sobra para reflexionar sobre su vida y replantearse sus prioridades. Según cuenta, el océano le enseñó a valorar las cosas sencillas y a conocerse mejor a sí mismo. Ahora que ha vuelto a tierra firme, asegura que la experiencia lo ha cambiado para siempre.",
-        "vocab": [
-          {
-            "front": "la travesía",
-            "pos": "noun",
-            "back": "crossing, voyage",
-            "example": "La travesía en barco duró varias semanas.",
-            "tier": "B2"
-          },
-          {
-            "front": "a remo",
-            "pos": "phrase",
-            "back": "by rowing, with oars",
-            "example": "Cruzaron el lago a remo.",
-            "tier": "B2"
-          },
-          {
-            "front": "en solitario",
-            "pos": "phrase",
-            "back": "solo, on one's own",
-            "example": "Escaló la montaña en solitario.",
-            "tier": "B2"
-          },
-          {
-            "front": "la hazaña",
-            "pos": "noun",
-            "back": "feat, exploit",
-            "example": "Su hazaña asombró al mundo entero.",
-            "tier": "B2"
-          },
-          {
-            "front": "el logro",
-            "pos": "noun",
-            "back": "achievement",
-            "example": "Terminar la carrera fue un gran logro.",
-            "tier": "B1"
-          },
-          {
-            "front": "enfrentarse a",
-            "pos": "verb",
-            "back": "to face, to confront",
-            "example": "Se enfrentó a muchas dificultades.",
-            "tier": "B1"
-          },
-          {
-            "front": "el desafío",
-            "pos": "noun",
-            "back": "challenge",
-            "example": "Aceptó el desafío sin dudarlo.",
-            "tier": "B1"
-          },
-          {
-            "front": "replantearse",
-            "pos": "verb",
-            "back": "to rethink, to reconsider",
-            "example": "Decidió replantearse su futuro.",
-            "tier": "B2"
-          },
-          {
-            "front": "valorar",
-            "pos": "verb",
-            "back": "to value, to appreciate",
-            "example": "Aprendió a valorar a su familia.",
-            "tier": "B1"
-          },
-          {
-            "front": "tierra firme",
-            "pos": "phrase",
-            "back": "dry land",
-            "example": "Por fin llegaron a tierra firme.",
-            "tier": "B2"
-          },
-          {
-            "front": "en alta mar",
-            "pos": "phrase",
-            "back": "on the open sea",
-            "example": "La tormenta los sorprendió en alta mar.",
-            "tier": "B2"
-          },
-          {
-            "front": "la soledad",
-            "pos": "noun",
-            "back": "loneliness, solitude",
-            "example": "La soledad del viaje fue muy dura.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Gracias a esta hazaña, se convirtió en la persona más joven en remar el Pacífico, un logro que le valió un récord Guinness.",
-            "point": "Verbo pronominal 'convertirse en' + superlativo",
-            "explanation": "'Convertirse en' expresa un cambio de estado y siempre va con 'en'. 'La persona más joven en remar' combina superlativo con 'en + infinitivo'.",
-            "why_tricky": "Es habitual confundir 'convertirse en' con 'volverse', que se usa sin preposición y con adjetivos."
-          },
-          {
-            "sentence": "Durante esos largos meses en alta mar, el joven tuvo tiempo de sobra para reflexionar sobre su vida y replantearse sus prioridades.",
-            "point": "Pretérito indefinido + 'para + infinitivo' de finalidad",
-            "explanation": "'Tuvo' es pretérito indefinido para una acción acabada en el pasado. 'Para reflexionar' y 'replantearse' expresan la finalidad de ese tiempo.",
-            "why_tricky": "Los dos infinitivos dependen de un mismo 'para', algo fácil de pasar por alto."
-          },
-          {
-            "sentence": "Ahora que ha vuelto a tierra firme, asegura que la experiencia lo ha cambiado para siempre.",
-            "point": "'Ahora que' + pretérito perfecto y pronombre de objeto directo",
-            "explanation": "'Ahora que' introduce una causa actual. 'Ha vuelto' y 'ha cambiado' son pretérito perfecto; 'lo' es el objeto directo que se refiere al joven.",
-            "why_tricky": "El pronombre 'lo' va antes del verbo conjugado, no detrás."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "día tras día",
-            "meaning": "day after day, again and again",
-            "example": "Día tras día, fue ganando confianza."
-          },
-          {
-            "phrase": "para siempre",
-            "meaning": "forever, for good",
-            "example": "Aquel viaje lo marcó para siempre."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué logró Tom Robinson y por qué recibió un récord Guinness?",
-            "type": "open"
-          },
-          {
-            "q": "Según el texto, ¿cómo cambió la travesía la forma de pensar del joven?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué dificultades crees que son las más duras en un viaje así?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Te gustaría vivir una aventura larga en solitario? Explica por qué sí o por qué no en un breve párrafo."
       }
     }
   ]
