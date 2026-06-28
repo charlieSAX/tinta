@@ -1,7 +1,535 @@
 {
-  "generated_at": "2026-06-27T20:14:08Z",
+  "generated_at": "2026-06-28T08:15:01Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-28-mundial-aficionados-cabina",
+      "title": "Los aficionados al fútbol a los que les pagan US$50.000 por ver todos los partidos del Mundial",
+      "source": "BBC Mundo",
+      "date": "2026-06-27",
+      "level": "B1-B2",
+      "topics": [
+        "fútbol",
+        "Mundial"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-28-mundial-aficionados-cabina",
+        "revision": 1,
+        "meta": {
+          "title": "Los aficionados al fútbol a los que les pagan US$50.000 por ver todos los partidos del Mundial",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cr47qy7kd7eo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-27",
+          "date_processed": "2026-06-28",
+          "tags": [
+            "fútbol",
+            "Mundial"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Two young football fans decided to have an unusual experience during the World Cup. They agreed to spend several days inside a glass booth set up in Times Square, in New York, with the aim of watching all 104 matches of the tournament. In return for this challenge, they received a reward of 50,000 dollars, a figure that caught the attention of media around the world.\n\nThe initiative, organised as an advertising campaign, turned the two supporters into an attraction for passers-by, who stopped to watch them at any hour. Beyond how striking the prize was, the story reflects just how much football stirs up passion and moves large commercial interests. Meanwhile, the tournament continues its course, so these fans still have many matches ahead of them before they leave their peculiar confinement.",
+        "resumen_es": "Dos jóvenes aficionados al fútbol decidieron vivir una experiencia fuera de lo común durante el Mundial. Aceptaron pasar varios días dentro de una cabina de vidrio instalada en Times Square, en Nueva York, con el objetivo de ver los 104 partidos del torneo. A cambio de este reto, recibieron una recompensa de 50.000 dólares, una cifra que llamó la atención de medios de todo el mundo.\n\nLa iniciativa, organizada como una campaña publicitaria, convirtió a los dos seguidores en una atracción para los transeúntes, que se detenían a observarlos a cualquier hora. Más allá de lo llamativo del premio, la historia refleja hasta qué punto el fútbol despierta pasiones y mueve grandes intereses comerciales. Mientras tanto, el torneo sigue su curso, así que a estos hinchas todavía les quedan muchos partidos por delante antes de salir de su peculiar encierro.",
+        "vocab": [
+          {
+            "front": "aficionado",
+            "pos": "noun",
+            "back": "fan, supporter",
+            "example": "Es un gran aficionado al baloncesto.",
+            "tier": "B1"
+          },
+          {
+            "front": "fuera de lo común",
+            "pos": "phrase",
+            "back": "out of the ordinary",
+            "example": "Vivieron algo fuera de lo común.",
+            "tier": "B2"
+          },
+          {
+            "front": "cabina de vidrio",
+            "pos": "noun",
+            "back": "glass booth",
+            "example": "Lo observaban desde una cabina de vidrio.",
+            "tier": "B1"
+          },
+          {
+            "front": "a cambio de",
+            "pos": "phrase",
+            "back": "in exchange for",
+            "example": "A cambio de su ayuda, le di las gracias.",
+            "tier": "B1"
+          },
+          {
+            "front": "recompensa",
+            "pos": "noun",
+            "back": "reward",
+            "example": "Recibió una buena recompensa por el trabajo.",
+            "tier": "B1"
+          },
+          {
+            "front": "llamar la atención",
+            "pos": "phrase",
+            "back": "to attract attention",
+            "example": "Su vestido llamó la atención de todos.",
+            "tier": "B1"
+          },
+          {
+            "front": "transeúnte",
+            "pos": "noun",
+            "back": "passer-by",
+            "example": "Los transeúntes se paraban a mirar.",
+            "tier": "B2"
+          },
+          {
+            "front": "más allá de",
+            "pos": "phrase",
+            "back": "beyond",
+            "example": "Más allá del dinero, le importaba el reto.",
+            "tier": "B2"
+          },
+          {
+            "front": "despertar pasiones",
+            "pos": "phrase",
+            "back": "to stir up passion",
+            "example": "El derbi siempre despierta pasiones.",
+            "tier": "B2"
+          },
+          {
+            "front": "seguir su curso",
+            "pos": "phrase",
+            "back": "to run its course",
+            "example": "El proyecto sigue su curso con normalidad.",
+            "tier": "B2"
+          },
+          {
+            "front": "hincha",
+            "pos": "noun",
+            "back": "fan, supporter",
+            "example": "Los hinchas animaron al equipo sin parar.",
+            "tier": "B1"
+          },
+          {
+            "front": "quedar (por delante)",
+            "pos": "verb",
+            "back": "to remain (ahead)",
+            "example": "Todavía nos quedan dos exámenes por delante.",
+            "tier": "B1"
+          },
+          {
+            "front": "encierro",
+            "pos": "noun",
+            "back": "confinement",
+            "example": "Después de tanto encierro, quería salir.",
+            "tier": "B2"
+          },
+          {
+            "front": "llamativo",
+            "pos": "adj",
+            "back": "striking, eye-catching",
+            "example": "Eligió un color muy llamativo.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "A cambio de este reto, recibieron una recompensa de 50.000 dólares, una cifra que llamó la atención de medios de todo el mundo.",
+            "point": "Pretérito indefinido para acciones acabadas",
+            "explanation": "Los verbos 'recibieron' y 'llamó' están en pretérito indefinido porque describen acciones puntuales y terminadas en el pasado.",
+            "why_tricky": "Conviene no confundir 'llamó' (pretérito) con 'llama' (presente): solo cambia el acento, pero el tiempo verbal es distinto."
+          },
+          {
+            "sentence": "Más allá de lo llamativo del premio, la historia refleja hasta qué punto el fútbol despierta pasiones y mueve grandes intereses comerciales.",
+            "point": "El artículo neutro 'lo' + adjetivo",
+            "explanation": "'lo llamativo' significa 'lo que es llamativo' o 'el aspecto llamativo'. El neutro 'lo' convierte un adjetivo en una idea abstracta.",
+            "why_tricky": "El inglés no tiene un equivalente directo, así que se traduce con estructuras como 'how striking' o 'the striking thing about'."
+          },
+          {
+            "sentence": "Mientras tanto, el torneo sigue su curso, así que a estos hinchas todavía les quedan muchos partidos por delante antes de salir de su peculiar encierro.",
+            "point": "El verbo 'quedar' con pronombre de complemento indirecto",
+            "explanation": "'les quedan muchos partidos' funciona como 'gustar': el sujeto gramatical es 'muchos partidos' y 'les' se refiere a los hinchas.",
+            "why_tricky": "El verbo concuerda con lo que queda, no con las personas, así que decimos 'les queda un partido' pero 'les quedan muchos partidos'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fuera de lo común",
+            "meaning": "unusual, out of the ordinary",
+            "example": "Fue una decisión fuera de lo común."
+          },
+          {
+            "phrase": "hasta qué punto",
+            "meaning": "to what extent, just how much",
+            "example": "No sabes hasta qué punto me importa."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué los dos aficionados aceptaron encerrarse en una cabina de vidrio?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué revela esta historia sobre la relación entre el fútbol y los intereses comerciales?",
+            "type": "open"
+          },
+          {
+            "q": "¿Te parece que 50.000 dólares es una recompensa justa por este reto? ¿Por qué?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Escribe un texto breve (unas 100 palabras) en el que expliques si aceptarías un reto parecido y qué experiencia te gustaría vivir durante un gran evento deportivo."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-28-ola-calor-europa",
+      "title": "193 millones de personas en Europa expuestas este fin de semana a más de 35 ºC",
+      "source": "RFI",
+      "date": "2026-06-27",
+      "level": "B1-B2",
+      "topics": [
+        "clima",
+        "Europa"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-28-ola-calor-europa",
+        "revision": 1,
+        "meta": {
+          "title": "193 millones de personas en Europa expuestas este fin de semana a más de 35 ºC",
+          "source": "RFI",
+          "url": "https://www.rfi.fr/es/europa/20260627-193-millones-de-personas-en-europa-expuestas-este-fin-de-semana-a-m%C3%A1s-de-35-%C2%BAc",
+          "date_published": "2026-06-27",
+          "date_processed": "2026-06-28",
+          "tags": [
+            "clima",
+            "Europa"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "An intense heatwave affected much of Europe this weekend and left millions of people exposed to very high temperatures. According to estimates, around 193 million inhabitants endured values above 35 degrees, of whom about 75 million were in Germany. The phenomenon, which was moving towards the east of the continent, forced the authorities to issue warnings and to recommend caution.\n\nGiven these conditions, health services recalled the importance of staying hydrated, avoiding the sun during the central hours of the day and paying attention to the most vulnerable people. Many experts point out that these episodes, increasingly frequent and intense, are linked to climate change. Looking ahead to the coming days, temperatures are expected to remain high in several regions before a drop in temperature arrives.",
+        "resumen_es": "Una intensa ola de calor afectó este fin de semana a buena parte de Europa y dejó a millones de personas expuestas a temperaturas muy elevadas. Según las estimaciones, unos 193 millones de habitantes soportaron valores superiores a los 35 grados, de los cuales cerca de 75 millones se encontraban en Alemania. El fenómeno, que se desplazaba hacia el este del continente, obligó a las autoridades a lanzar avisos y a recomendar precaución.\n\nAnte estas condiciones, los servicios sanitarios recordaron la importancia de hidratarse, evitar el sol en las horas centrales del día y prestar atención a las personas más vulnerables. Muchos expertos señalan que estos episodios, cada vez más frecuentes e intensos, están relacionados con el cambio climático. De cara a los próximos días, se espera que las temperaturas sigan siendo altas en varias regiones antes de que llegue un descenso térmico.",
+        "vocab": [
+          {
+            "front": "ola de calor",
+            "pos": "noun",
+            "back": "heatwave",
+            "example": "La ola de calor durará toda la semana.",
+            "tier": "B1"
+          },
+          {
+            "front": "expuesto a",
+            "pos": "adj",
+            "back": "exposed to",
+            "example": "Estamos expuestos a mucho ruido en la ciudad.",
+            "tier": "B1"
+          },
+          {
+            "front": "soportar",
+            "pos": "verb",
+            "back": "to endure, to withstand",
+            "example": "No soporto este calor tan húmedo.",
+            "tier": "B1"
+          },
+          {
+            "front": "estimación",
+            "pos": "noun",
+            "back": "estimate",
+            "example": "Según las estimaciones, vendrán mil personas.",
+            "tier": "B2"
+          },
+          {
+            "front": "desplazarse",
+            "pos": "verb",
+            "back": "to move, to shift",
+            "example": "La tormenta se desplaza hacia el norte.",
+            "tier": "B2"
+          },
+          {
+            "front": "lanzar un aviso",
+            "pos": "phrase",
+            "back": "to issue a warning",
+            "example": "El servicio meteorológico lanzó un aviso rojo.",
+            "tier": "B2"
+          },
+          {
+            "front": "hidratarse",
+            "pos": "verb",
+            "back": "to stay hydrated",
+            "example": "Es importante hidratarse antes de correr.",
+            "tier": "B1"
+          },
+          {
+            "front": "vulnerable",
+            "pos": "adj",
+            "back": "vulnerable",
+            "example": "Los ancianos son más vulnerables al calor.",
+            "tier": "B1"
+          },
+          {
+            "front": "señalar",
+            "pos": "verb",
+            "back": "to point out",
+            "example": "El informe señala varios errores.",
+            "tier": "B1"
+          },
+          {
+            "front": "cada vez más",
+            "pos": "phrase",
+            "back": "increasingly, more and more",
+            "example": "El problema es cada vez más grave.",
+            "tier": "B1"
+          },
+          {
+            "front": "estar relacionado con",
+            "pos": "phrase",
+            "back": "to be linked to",
+            "example": "El estrés está relacionado con el insomnio.",
+            "tier": "B1"
+          },
+          {
+            "front": "de cara a",
+            "pos": "phrase",
+            "back": "looking ahead to, with a view to",
+            "example": "De cara al verano, conviene ahorrar agua.",
+            "tier": "B2"
+          },
+          {
+            "front": "descenso térmico",
+            "pos": "noun",
+            "back": "drop in temperature",
+            "example": "Se espera un descenso térmico el lunes.",
+            "tier": "B2"
+          },
+          {
+            "front": "precaución",
+            "pos": "noun",
+            "back": "caution",
+            "example": "Hay que conducir con precaución bajo la lluvia.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Según las estimaciones, unos 193 millones de habitantes soportaron valores superiores a los 35 grados, de los cuales cerca de 75 millones se encontraban en Alemania.",
+            "point": "El relativo 'de los cuales'",
+            "explanation": "'de los cuales' introduce una parte del grupo mencionado antes (los 193 millones de habitantes) y aporta un dato adicional sobre ese conjunto.",
+            "why_tricky": "Tras una preposición no se usa 'que' a secas, sino 'el cual / los cuales', que además concuerda en género y número con el antecedente."
+          },
+          {
+            "sentence": "Muchos expertos señalan que estos episodios, cada vez más frecuentes e intensos, están relacionados con el cambio climático.",
+            "point": "'cada vez más' y la conjunción 'e'",
+            "explanation": "'cada vez más' expresa una progresión creciente. Además, se usa 'e' en lugar de 'y' delante de una palabra que empieza por el sonido 'i' (intensos).",
+            "why_tricky": "Es fácil olvidar el cambio de 'y' a 'e'; ocurre solo por el sonido inicial, no por la letra, por eso decimos 'frecuentes e intensos'."
+          },
+          {
+            "sentence": "De cara a los próximos días, se espera que las temperaturas sigan siendo altas en varias regiones antes de que llegue un descenso térmico.",
+            "point": "Subjuntivo tras 'se espera que' y 'antes de que'",
+            "explanation": "Las expresiones de expectativa ('se espera que') y la conjunción temporal 'antes de que' exigen subjuntivo, de ahí 'sigan' y 'llegue'.",
+            "why_tricky": "'antes de que' siempre lleva subjuntivo, mientras que 'antes de' + infinitivo se usa cuando el sujeto es el mismo, lo que confunde a muchos estudiantes."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "de cara a",
+            "meaning": "with a view to, in preparation for",
+            "example": "De cara al examen, repasa cada día."
+          },
+          {
+            "phrase": "cada vez más",
+            "meaning": "more and more, increasingly",
+            "example": "Cada vez más gente trabaja desde casa."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué medidas recomendaron los servicios sanitarios para protegerse del calor?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué muchos expertos relacionan estas olas de calor con el cambio climático?",
+            "type": "open"
+          },
+          {
+            "q": "¿Cómo afecta el calor extremo a tu rutina diaria y qué haces para combatirlo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Escribe un texto de unas 120 palabras en el que expliques qué deberían hacer las ciudades para proteger a la población durante las olas de calor."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-28-iran-eeuu-ormuz",
+      "title": "Aumentan las tensiones entre Irán y EEUU: violación del acuerdo y ataques cruzados",
+      "source": "RFI",
+      "date": "2026-06-27",
+      "level": "B1-B2",
+      "topics": [
+        "geopolítica",
+        "Oriente Medio"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-28-iran-eeuu-ormuz",
+        "revision": 1,
+        "meta": {
+          "title": "Aumentan las tensiones entre Irán y EEUU: violación del acuerdo y ataques cruzados",
+          "source": "RFI",
+          "url": "https://www.rfi.fr/es/oriente-medio/20260627-aumentan-las-tensiones-entre-ir%C3%A1n-y-eeuu-violaci%C3%B3n-del-acuerdo-y-ataques-cruzados",
+          "date_published": "2026-06-27",
+          "date_processed": "2026-06-28",
+          "tags": [
+            "geopolítica",
+            "Oriente Medio"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Tension between Iran and the United States rose again after a fresh escalation in the Strait of Hormuz, one of the most important maritime routes in the world. According to available information, more than 8,000 sailors remain stranded in the area. Tehran also denounced a violation of the protocol of agreement that both countries had signed in mid June, which has set off all the alarm bells.\n\nThis new episode comes after the US bombings on Iranian territory, which had already seriously damaged relations between the two governments. The international community is following events with concern, since any incident in Hormuz can affect world trade and, in particular, the transport of oil. For now, it is not clear whether the two sides will manage to resume dialogue or whether the crisis will get worse in the coming weeks.",
+        "resumen_es": "La tensión entre Irán y Estados Unidos volvió a aumentar tras una nueva escalada en el estrecho de Ormuz, una de las rutas marítimas más importantes del mundo. Según la información disponible, más de 8.000 marineros permanecen bloqueados en la zona. Teherán denunció además una violación del protocolo de acuerdo que ambos países habían firmado a mediados de junio, lo que ha hecho saltar todas las alarmas.\n\nEste nuevo episodio se produce después de los bombardeos estadounidenses sobre territorio iraní, que ya habían deteriorado gravemente las relaciones entre ambos gobiernos. La comunidad internacional sigue con preocupación los acontecimientos, ya que cualquier incidente en Ormuz puede afectar al comercio mundial y, en particular, al transporte de petróleo. Por el momento, no está claro si las dos partes lograrán retomar el diálogo o si la crisis irá a más en las próximas semanas.",
+        "vocab": [
+          {
+            "front": "escalada",
+            "pos": "noun",
+            "back": "escalation",
+            "example": "Hubo una escalada de violencia en la frontera.",
+            "tier": "B2"
+          },
+          {
+            "front": "estrecho",
+            "pos": "noun",
+            "back": "strait",
+            "example": "El barco cruzó el estrecho de noche.",
+            "tier": "B1"
+          },
+          {
+            "front": "ruta marítima",
+            "pos": "noun",
+            "back": "maritime route",
+            "example": "Esa ruta marítima conecta dos continentes.",
+            "tier": "B2"
+          },
+          {
+            "front": "bloqueado",
+            "pos": "adj",
+            "back": "blocked, stranded",
+            "example": "Los camiones quedaron bloqueados en la carretera.",
+            "tier": "B1"
+          },
+          {
+            "front": "denunciar",
+            "pos": "verb",
+            "back": "to denounce, to report",
+            "example": "El país denunció el ataque ante la ONU.",
+            "tier": "B1"
+          },
+          {
+            "front": "violación (de un acuerdo)",
+            "pos": "noun",
+            "back": "breach (of an agreement)",
+            "example": "Fue una clara violación del contrato.",
+            "tier": "B2"
+          },
+          {
+            "front": "a mediados de",
+            "pos": "phrase",
+            "back": "in the middle of",
+            "example": "Llegará a mediados de mes.",
+            "tier": "B1"
+          },
+          {
+            "front": "hacer saltar las alarmas",
+            "pos": "phrase",
+            "back": "to set off alarm bells",
+            "example": "Los datos hicieron saltar las alarmas.",
+            "tier": "B2"
+          },
+          {
+            "front": "deteriorar",
+            "pos": "verb",
+            "back": "to damage, to worsen",
+            "example": "La discusión deterioró su amistad.",
+            "tier": "B2"
+          },
+          {
+            "front": "acontecimiento",
+            "pos": "noun",
+            "back": "event, development",
+            "example": "Seguimos los acontecimientos minuto a minuto.",
+            "tier": "B1"
+          },
+          {
+            "front": "retomar el diálogo",
+            "pos": "phrase",
+            "back": "to resume dialogue",
+            "example": "Las partes quieren retomar el diálogo pronto.",
+            "tier": "B2"
+          },
+          {
+            "front": "ir a más",
+            "pos": "phrase",
+            "back": "to get worse, to escalate",
+            "example": "El conflicto puede ir a más si nadie actúa.",
+            "tier": "B2"
+          },
+          {
+            "front": "petróleo",
+            "pos": "noun",
+            "back": "oil",
+            "example": "El precio del petróleo subió mucho.",
+            "tier": "B1"
+          },
+          {
+            "front": "bombardeo",
+            "pos": "noun",
+            "back": "bombing",
+            "example": "El bombardeo destruyó varias casas.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Teherán denunció además una violación del protocolo de acuerdo que ambos países habían firmado a mediados de junio, lo que ha hecho saltar todas las alarmas.",
+            "point": "Pretérito pluscuamperfecto y el relativo 'lo que'",
+            "explanation": "'habían firmado' (pluscuamperfecto) marca una acción anterior a otra acción pasada. 'lo que' resume toda la idea anterior, no una sola palabra.",
+            "why_tricky": "'lo que' se refiere a una frase completa, mientras que 'que' suele referirse a un sustantivo concreto; además hay que combinar dos tiempos del pasado."
+          },
+          {
+            "sentence": "Este nuevo episodio se produce después de los bombardeos estadounidenses sobre territorio iraní, que ya habían deteriorado gravemente las relaciones entre ambos gobiernos.",
+            "point": "'se' pronominal en 'se produce'",
+            "explanation": "'se produce' es una construcción pronominal que presenta el hecho sin un agente explícito, parecida a una pasiva: el episodio simplemente ocurre.",
+            "why_tricky": "En inglés se diría 'comes' o 'takes place'; el 'se' español no se traduce, pero es imprescindible para que la frase suene natural."
+          },
+          {
+            "sentence": "Por el momento, no está claro si las dos partes lograrán retomar el diálogo o si la crisis irá a más en las próximas semanas.",
+            "point": "Futuro simple para hipótesis e interrogativa indirecta con 'si'",
+            "explanation": "'lograrán' e 'irá' son futuros que expresan una predicción incierta. 'si' introduce preguntas indirectas dentro de la oración.",
+            "why_tricky": "Este 'si' no lleva tilde (no es el 'sí' afirmativo) y no se confunde con el 'si' condicional; además el futuro aquí expresa probabilidad."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "hacer saltar las alarmas",
+            "meaning": "to set off alarm bells, to raise the alarm",
+            "example": "El informe médico hizo saltar las alarmas."
+          },
+          {
+            "phrase": "ir a más",
+            "meaning": "to get worse, to grow",
+            "example": "Si no lo cuidas, el problema irá a más."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué ocurrió en el estrecho de Ormuz y cómo afectó a los marineros?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué un incidente en esa zona puede tener consecuencias para el comercio mundial?",
+            "type": "open"
+          },
+          {
+            "q": "En tu opinión, ¿qué deberían hacer ambos países para reducir la tensión?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Escribe un texto de unas 120 palabras en el que expliques por qué crees que el diálogo es o no es la mejor manera de resolver este tipo de conflictos internacionales."
+      }
+    },
     {
       "pack_id": "feed-2026-06-27-futbol-longevidad-estrellas",
       "title": "Cristiano Ronaldo, Messi, Modric... Cómo las estrellas del Mundial desafían los límites de la longevidad",
@@ -6236,513 +6764,6 @@
           }
         ],
         "opinion_prompt": "¿Hasta qué punto deberíamos dar libertad a la inteligencia artificial? Argumenta tu postura con ejemplos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-21-amazonia-ciudad-perdida",
-      "title": "La verdadera historia detrás de la \"ciudad perdida\" de la Amazonía",
-      "source": "BBC Mundo",
-      "date": "2026-06-21",
-      "level": "B1-B2",
-      "topics": [
-        "historia",
-        "arqueología"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-21-amazonia-ciudad-perdida",
-        "revision": 1,
-        "meta": {
-          "title": "La verdadera historia detrás de la \"ciudad perdida\" de la Amazonía",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c982dkxe3r6o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-06-21",
-          "date_processed": "2026-06-21",
-          "tags": [
-            "historia",
-            "arqueología"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Deep in the jungle of Ecuador hides an ancient city that for centuries remained hidden among the trees. Researchers describe it as a vast metropolis that reveals a unique form of urban planning, typical of the Amazon. Far from the image of an empty, wild jungle, this finding shows that complex societies once lived there, able to build and organise large spaces.\n\nThe most fascinating part is what this discovery changes in the way we understand the past. For a long time it was thought that the Amazon had never been home to important civilisations. Today, however, the evidence points in another direction. Thanks to new technologies, experts can study the ground without destroying the jungle. There is still a lot to investigate, but each discovery reminds us that human history still holds surprises beneath the earth.",
-        "resumen_es": "En plena selva de Ecuador se esconde una antigua ciudad que durante siglos permaneció oculta entre los árboles. Los investigadores la describen como una vasta metrópolis que revela una forma de urbanismo única, propia de la Amazonía. Lejos de la imagen de una selva vacía y salvaje, este hallazgo demuestra que allí vivieron sociedades complejas, capaces de construir y organizar grandes espacios.\n\nLo más fascinante es lo que este descubrimiento cambia en nuestra manera de entender el pasado. Durante mucho tiempo se pensó que la Amazonía nunca había albergado civilizaciones importantes. Hoy, sin embargo, las pruebas apuntan en otra dirección. Gracias a las nuevas tecnologías, los expertos pueden estudiar el terreno sin destruir la selva. Queda mucho por investigar, pero cada descubrimiento nos recuerda que la historia humana todavía guarda sorpresas bajo tierra.",
-        "vocab": [
-          {
-            "front": "la selva",
-            "pos": "noun",
-            "back": "jungle, rainforest",
-            "example": "La selva amazónica es enorme.",
-            "tier": "B1"
-          },
-          {
-            "front": "el hallazgo",
-            "pos": "noun",
-            "back": "finding, discovery",
-            "example": "El hallazgo sorprendió a los científicos.",
-            "tier": "B2"
-          },
-          {
-            "front": "oculto/a",
-            "pos": "adj",
-            "back": "hidden",
-            "example": "El tesoro estaba oculto bajo el suelo.",
-            "tier": "B1"
-          },
-          {
-            "front": "permanecer",
-            "pos": "verb",
-            "back": "to remain, to stay",
-            "example": "Permaneció en silencio un buen rato.",
-            "tier": "B2"
-          },
-          {
-            "front": "la metrópolis",
-            "pos": "noun",
-            "back": "metropolis, large city",
-            "example": "Era una gran metrópolis antigua.",
-            "tier": "B2"
-          },
-          {
-            "front": "el urbanismo",
-            "pos": "noun",
-            "back": "urban planning",
-            "example": "El urbanismo de la ciudad era muy avanzado.",
-            "tier": "B2"
-          },
-          {
-            "front": "albergar",
-            "pos": "verb",
-            "back": "to house, to be home to",
-            "example": "La región albergó muchas culturas.",
-            "tier": "C1"
-          },
-          {
-            "front": "el descubrimiento",
-            "pos": "noun",
-            "back": "discovery",
-            "example": "El descubrimiento cambió la historia.",
-            "tier": "B1"
-          },
-          {
-            "front": "las pruebas",
-            "pos": "noun",
-            "back": "evidence, proof",
-            "example": "Las pruebas son cada vez más claras.",
-            "tier": "B1"
-          },
-          {
-            "front": "el terreno",
-            "pos": "noun",
-            "back": "ground, terrain, land",
-            "example": "Estudiaron el terreno con cuidado.",
-            "tier": "B1"
-          },
-          {
-            "front": "propio de",
-            "pos": "phrase",
-            "back": "typical of, characteristic of",
-            "example": "Es una reacción muy propia de él.",
-            "tier": "B2"
-          },
-          {
-            "front": "quedar mucho por (hacer)",
-            "pos": "phrase",
-            "back": "there is still a lot left to (do)",
-            "example": "Queda mucho por aprender.",
-            "tier": "B2"
-          },
-          {
-            "front": "bajo tierra",
-            "pos": "phrase",
-            "back": "underground",
-            "example": "Encontraron restos bajo tierra.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "En plena selva de Ecuador se esconde una antigua ciudad que durante siglos permaneció oculta entre los árboles",
-            "point": "'Se' impersonal/pasivo con el verbo antes del sujeto, más oración de relativo con pretérito ('permaneció').",
-            "explanation": "El orden 'se esconde una ciudad' destaca la novedad; el relativo 'que' introduce información sobre la ciudad en pasado.",
-            "why_tricky": "En inglés el sujeto va delante del verbo, mientras que aquí aparece después de 'se esconde'."
-          },
-          {
-            "sentence": "Durante mucho tiempo se pensó que la Amazonía nunca había albergado civilizaciones importantes",
-            "point": "Pluscuamperfecto ('había albergado') para una acción anterior a otra del pasado.",
-            "explanation": "'Se pensó' es el pasado de referencia y 'había albergado' expresa algo aún más antiguo respecto a ese momento.",
-            "why_tricky": "Hay que combinar el 'se' impersonal con el pluscuamperfecto y mantener la concordancia."
-          },
-          {
-            "sentence": "Gracias a las nuevas tecnologías, los expertos pueden estudiar el terreno sin destruir la selva",
-            "point": "'Sin' + infinitivo para expresar la ausencia de una acción.",
-            "explanation": "Cuando el sujeto es el mismo, 'sin' va seguido de infinitivo ('sin destruir'), no de una frase con verbo conjugado.",
-            "why_tricky": "En inglés se usa el gerundio ('without destroying'), pero en español es el infinitivo."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "sacar a la luz",
-            "meaning": "to bring to light, to uncover",
-            "example": "Las excavaciones sacaron a la luz una ciudad entera."
-          },
-          {
-            "phrase": "dar un vuelco",
-            "meaning": "to change radically, to be turned upside down",
-            "example": "El hallazgo dio un vuelco a la teoría aceptada."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Dónde se encuentra la ciudad antigua de la que habla el texto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué idea sobre la Amazonía cambia este descubrimiento?",
-            "type": "open"
-          },
-          {
-            "q": "¿Cómo logran los expertos estudiar el terreno sin dañar la selva?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Por qué crees que es importante proteger los descubrimientos arqueológicos? Da tu opinión y razónala."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-19-expresiones-futbol",
-      "title": "\"Cortita y al pie\", \"pecho frío\" y otras expresiones cotidianas que vienen del fútbol",
-      "source": "BBC Mundo",
-      "date": "2026-06-16",
-      "level": "B1-B2",
-      "topics": [
-        "idioma",
-        "fútbol"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-19-expresiones-futbol",
-        "revision": 1,
-        "meta": {
-          "title": "\"Cortita y al pie\", \"pecho frío\" y otras expresiones cotidianas que vienen del fútbol",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/ce371e210v0o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-06-16",
-          "date_processed": "2026-06-19",
-          "tags": [
-            "idioma",
-            "fútbol"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Football is not only played on the pitch: it has also left its mark on the way people speak. According to a BBC Mundo report, many words and expressions born in this sport have settled into the everyday life of Latin Americans and Spaniards. Phrases like 'cortita y al pie' or calling someone 'pecho frío' are no longer limited to the stadium, but appear in conversations about work, politics or love.\n\nWhat is curious is that some expressions are said almost the same in every country, though with small variations, while others are adaptations specific to each region. Behind this phenomenon lies the enormous cultural weight of football, which works like a shared language. So, without realising it, we turn to football metaphors to describe emotions, criticise a colleague or sum up a complicated situation. Learning these phrases not only enriches your vocabulary, but it also helps you understand the popular culture of the Spanish-speaking world.",
-        "resumen_es": "El fútbol no solo se juega en la cancha: también ha dejado su huella en la manera de hablar. Según BBC Mundo, muchas palabras y expresiones nacidas en este deporte se han instalado en la vida cotidiana de latinoamericanos y españoles. Frases como 'cortita y al pie' o llamar a alguien 'pecho frío' ya no se limitan al estadio, sino que aparecen en conversaciones de trabajo, política o amor.\n\nLo curioso es que algunas expresiones se dicen casi igual en todos los países, aunque con pequeñas variaciones, mientras que otras son adaptaciones propias de cada región. Detrás de este fenómeno está el enorme peso cultural del fútbol, que funciona como un idioma compartido. Así, sin darnos cuenta, recurrimos a metáforas futbolísticas para describir emociones o resumir una situación complicada. Aprender estas frases no solo enriquece el vocabulario, sino que también ayuda a entender la cultura popular del mundo hispanohablante.",
-        "vocab": [
-          {
-            "front": "dejar huella",
-            "pos": "phrase",
-            "back": "to leave a mark",
-            "example": "Aquel viaje le dejó una huella imborrable.",
-            "tier": "B1"
-          },
-          {
-            "front": "instalarse en",
-            "pos": "verb",
-            "back": "to settle into, take hold",
-            "example": "La costumbre se instaló en toda la región.",
-            "tier": "B2"
-          },
-          {
-            "front": "cotidiano",
-            "pos": "adj",
-            "back": "everyday, daily",
-            "example": "Es parte de la vida cotidiana.",
-            "tier": "B1"
-          },
-          {
-            "front": "la cancha",
-            "pos": "noun",
-            "back": "the pitch, the court",
-            "example": "Los jugadores saltaron a la cancha.",
-            "tier": "B1"
-          },
-          {
-            "front": "recurrir a",
-            "pos": "verb",
-            "back": "to resort to, to turn to",
-            "example": "Recurrió a un amigo para pedir ayuda.",
-            "tier": "B2"
-          },
-          {
-            "front": "enriquecer",
-            "pos": "verb",
-            "back": "to enrich",
-            "example": "Leer enriquece el vocabulario.",
-            "tier": "B2"
-          },
-          {
-            "front": "el peso cultural",
-            "pos": "phrase",
-            "back": "cultural weight, importance",
-            "example": "Reconocen el peso cultural del cine local.",
-            "tier": "B2"
-          },
-          {
-            "front": "la metáfora",
-            "pos": "noun",
-            "back": "metaphor",
-            "example": "Usó una metáfora muy clara.",
-            "tier": "B1"
-          },
-          {
-            "front": "resumir",
-            "pos": "verb",
-            "back": "to summarise",
-            "example": "Resumió la reunión en dos frases.",
-            "tier": "B1"
-          },
-          {
-            "front": "pecho frío",
-            "pos": "phrase",
-            "back": "cold, unenthusiastic person",
-            "example": "Lo criticaron por jugar como un pecho frío.",
-            "tier": "C1"
-          },
-          {
-            "front": "darse cuenta",
-            "pos": "verb",
-            "back": "to realise",
-            "example": "No me di cuenta del error.",
-            "tier": "B1"
-          },
-          {
-            "front": "propio de",
-            "pos": "phrase",
-            "back": "typical of, characteristic of",
-            "example": "Es un gesto propio de la región.",
-            "tier": "B2"
-          },
-          {
-            "front": "el hablante",
-            "pos": "noun",
-            "back": "speaker",
-            "example": "Es un hablante nativo de español.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "El fútbol no solo se juega en la cancha: también ha dejado su huella en la manera de hablar.",
-            "point": "La pasiva refleja con 'se' y el pretérito perfecto 'ha dejado'.",
-            "explanation": "'Se juega' usa el 'se' impersonal o de pasiva refleja: no decimos quién juega, solo que la acción ocurre. 'Ha dejado' es pretérito perfecto, que conecta el pasado con el presente.",
-            "why_tricky": "Los estudiantes suelen confundir el 'se' pasivo con el reflexivo, y dudan entre el pretérito perfecto y el indefinido."
-          },
-          {
-            "sentence": "algunas expresiones se dicen casi igual en todos los países, aunque con pequeñas variaciones, mientras que otras son adaptaciones propias de cada región.",
-            "point": "El contraste con 'mientras que' y la pasiva refleja 'se dicen'.",
-            "explanation": "'Mientras que' introduce un contraste entre dos grupos. 'Se dicen' es de nuevo pasiva refleja en plural, porque el sujeto ('expresiones') es plural.",
-            "why_tricky": "'Mientras que' (contraste) se confunde con 'mientras' (tiempo), y la concordancia del verbo en la pasiva refleja se olvida con facilidad."
-          },
-          {
-            "sentence": "Aprender estas frases no solo enriquece el vocabulario, sino que también ayuda a entender la cultura popular del mundo hispanohablante.",
-            "point": "El infinitivo como sujeto y la estructura correlativa 'no solo... sino que también'.",
-            "explanation": "'Aprender' funciona como sujeto de la frase, por eso el verbo va en singular ('enriquece'). 'No solo... sino que también' une dos ideas y refuerza la segunda.",
-            "why_tricky": "Se tiende a usar 'pero' en lugar de 'sino que', y se olvida que un infinitivo sujeto pide verbo en singular."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "pecho frío",
-            "meaning": "persona que muestra poca pasión o entusiasmo, sobre todo en el deporte",
-            "example": "El público lo criticó por jugar como un pecho frío."
-          },
-          {
-            "phrase": "cortita y al pie",
-            "meaning": "hacer las cosas de forma simple, segura y directa, sin complicarse",
-            "example": "Para el examen, mejor cortita y al pie: respuestas claras y breves."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué muchas expresiones del fútbol se usan fuera de la cancha?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué diferencia hay entre las expresiones que se dicen igual en todos los países y las que son propias de cada región?",
-            "type": "open"
-          },
-          {
-            "q": "Según el texto, ¿qué ventajas tiene aprender estas frases para alguien que estudia español?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Hay en tu idioma expresiones que vengan del deporte o de algún juego? Escribe un párrafo explicando una de ellas y en qué situaciones la usarías."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-19-kast-impuesto-chile",
-      "title": "Qué ventajas y riesgos tiene el polémico plan de Kast de reducir el impuesto a las empresas en Chile (y cómo se compara con el resto del mundo)",
-      "source": "BBC Mundo",
-      "date": "2026-06-18",
-      "level": "B1-B2",
-      "topics": [
-        "economía",
-        "política"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-19-kast-impuesto-chile",
-        "revision": 1,
-        "meta": {
-          "title": "Qué ventajas y riesgos tiene el polémico plan de Kast de reducir el impuesto a las empresas en Chile (y cómo se compara con el resto del mundo)",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cn0vd8ggekzo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-06-18",
-          "date_processed": "2026-06-19",
-          "tags": [
-            "economía",
-            "política"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The government of Chile, led by José Antonio Kast, has presented a plan to reduce the tax that companies pay. According to BBC Mundo, the proposal seeks to attract investment and stimulate the economy, but it comes at a delicate moment: the country faces a fiscal deficit and street protests against cuts to public spending. For that reason, the measure has become deeply controversial.\n\nThose who defend it argue that lower taxes encourage companies to invest, create jobs and compete better with other countries. Its critics, on the other hand, warn that cutting this revenue could weaken public services just when they are most needed. The debate also forces a comparison between Chile and the rest of the world, where rates vary greatly from one place to another. In the end, the challenge is to balance economic growth with social justice, a tension that shapes much of current Latin American politics.",
-        "resumen_es": "El gobierno de Chile, encabezado por José Antonio Kast, ha presentado un plan para reducir el impuesto que pagan las empresas. Según BBC Mundo, la propuesta busca atraer inversión y estimular la economía, pero llega en un momento delicado: el país enfrenta un déficit fiscal y protestas callejeras contra los recortes del gasto público. Por eso, la medida se ha vuelto profundamente polémica.\n\nQuienes la defienden sostienen que unos impuestos más bajos animan a las empresas a invertir, crear empleo y competir mejor con otros países. Sus críticos, en cambio, advierten que recortar estos ingresos podría debilitar los servicios públicos justo cuando más se necesitan. El debate también obliga a comparar a Chile con el resto del mundo, donde las tasas varían mucho. Al final, el desafío consiste en equilibrar el crecimiento económico con la justicia social, una tensión que marca buena parte de la política latinoamericana actual.",
-        "vocab": [
-          {
-            "front": "el impuesto",
-            "pos": "noun",
-            "back": "tax",
-            "example": "Las empresas pagan un impuesto sobre sus ganancias.",
-            "tier": "B1"
-          },
-          {
-            "front": "recortar",
-            "pos": "verb",
-            "back": "to cut, cut back",
-            "example": "El gobierno quiere recortar el gasto.",
-            "tier": "B1"
-          },
-          {
-            "front": "el déficit fiscal",
-            "pos": "phrase",
-            "back": "fiscal deficit",
-            "example": "El déficit fiscal preocupa a los economistas.",
-            "tier": "B2"
-          },
-          {
-            "front": "el gasto público",
-            "pos": "phrase",
-            "back": "public spending",
-            "example": "Recortaron el gasto público en salud.",
-            "tier": "B2"
-          },
-          {
-            "front": "atraer inversión",
-            "pos": "phrase",
-            "back": "to attract investment",
-            "example": "La reforma busca atraer inversión extranjera.",
-            "tier": "B2"
-          },
-          {
-            "front": "polémico",
-            "pos": "adj",
-            "back": "controversial",
-            "example": "Es una decisión muy polémica.",
-            "tier": "B1"
-          },
-          {
-            "front": "sostener",
-            "pos": "verb",
-            "back": "to maintain, to argue",
-            "example": "Los expertos sostienen lo contrario.",
-            "tier": "B2"
-          },
-          {
-            "front": "advertir",
-            "pos": "verb",
-            "back": "to warn",
-            "example": "Los críticos advierten del peligro.",
-            "tier": "B1"
-          },
-          {
-            "front": "debilitar",
-            "pos": "verb",
-            "back": "to weaken",
-            "example": "La crisis debilitó la economía.",
-            "tier": "B2"
-          },
-          {
-            "front": "la tasa",
-            "pos": "noun",
-            "back": "rate",
-            "example": "La tasa de impuestos subió este año.",
-            "tier": "B2"
-          },
-          {
-            "front": "equilibrar",
-            "pos": "verb",
-            "back": "to balance",
-            "example": "Hay que equilibrar ingresos y gastos.",
-            "tier": "B2"
-          },
-          {
-            "front": "el crecimiento",
-            "pos": "noun",
-            "back": "growth",
-            "example": "El crecimiento económico se frenó.",
-            "tier": "B1"
-          },
-          {
-            "front": "la protesta callejera",
-            "pos": "phrase",
-            "back": "street protest",
-            "example": "Hubo protestas callejeras en la capital.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "El gobierno de Chile, encabezado por José Antonio Kast, ha presentado un plan para reducir el impuesto que pagan las empresas.",
-            "point": "El participio 'encabezado' como cláusula reducida y el pretérito perfecto 'ha presentado'.",
-            "explanation": "'Encabezado por...' equivale a 'que está encabezado por...': el participio sustituye a una oración de relativo. 'Ha presentado' une la acción reciente con el presente.",
-            "why_tricky": "El participio concuerda con el sustantivo ('gobierno', masculino singular), algo que se olvida cuando el sujeto es femenino o plural."
-          },
-          {
-            "sentence": "Quienes la defienden sostienen que unos impuestos más bajos animan a las empresas a invertir, crear empleo y competir mejor con otros países.",
-            "point": "'Quienes' como sujeto (equivale a 'las personas que') y 'animar a + infinitivo'.",
-            "explanation": "'Quienes' introduce a un grupo de personas sin nombrarlas. 'Animar a' rige la preposición 'a' antes del infinitivo: animan a invertir, a crear, a competir.",
-            "why_tricky": "Se confunde 'quienes' con 'quién' (interrogativo) y se omite la 'a' personal y la preposición del verbo."
-          },
-          {
-            "sentence": "el desafío consiste en equilibrar el crecimiento económico con la justicia social",
-            "point": "El verbo 'consistir en' seguido de infinitivo.",
-            "explanation": "'Consistir en' siempre lleva la preposición 'en'. Aquí va seguido del infinitivo 'equilibrar', que actúa como complemento.",
-            "why_tricky": "Muchos estudiantes dicen 'consiste de' o 'consiste a', por influencia de otras lenguas."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "en un momento delicado",
-            "meaning": "en una situación difícil o sensible que exige cautela",
-            "example": "La negociación llega en un momento delicado para la empresa."
-          },
-          {
-            "phrase": "justo cuando más se necesita",
-            "meaning": "precisamente en el momento de mayor necesidad",
-            "example": "El apoyo llegó justo cuando más se necesitaba."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué objetivo tiene el plan del gobierno de Kast según el texto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué resulta polémica la medida en este momento concreto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué argumentos dan los partidarios y los críticos de bajar los impuestos a las empresas?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que bajar los impuestos a las empresas ayuda más a la economía o perjudica a los servicios públicos? Escribe un párrafo defendiendo tu postura con al menos dos razones."
       }
     }
   ]
