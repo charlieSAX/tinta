@@ -1,7 +1,521 @@
 {
-  "generated_at": "2026-06-28T20:18:43Z",
+  "generated_at": "2026-06-29T08:14:03Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-29-fiorella-herrera-ong",
+      "title": "Fiorella Herrera: We Can Be Heroes, una ONG del Perú para el planeta",
+      "source": "RFI Español",
+      "date": "2026-06-28",
+      "level": "B1-B2",
+      "topics": [
+        "medio ambiente",
+        "Perú"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-29-fiorella-herrera-ong",
+        "revision": 1,
+        "meta": {
+          "title": "Fiorella Herrera: We Can Be Heroes, una ONG del Perú para el planeta",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/medioambiente/20260628-fiorella-herrera-we-can-be-heroes-una-ong-del-per%C3%BA-para-el-planeta",
+          "date_published": "2026-06-28",
+          "date_processed": "2026-06-29",
+          "tags": [
+            "medio ambiente",
+            "Perú"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The Peruvian environmental activist Fiorella Herrera has drawn attention again for her work defending the environment. Ten years ago she founded the organization We Can Be Heroes, whose goal is to protect and preserve Peru's different ecosystems, from the coast and the jungle to the mountains. Her work combines environmental education with concrete conservation projects.\n\nRecently, Herrera has been selected to join the RE.GENERATION 2026 cohort, a program backed by the Prince Albert II of Monaco Foundation that brings together young leaders committed to the planet. This international recognition reinforces the importance of local initiatives in the face of the climate crisis. For her, however, the essential thing is still raising awareness in communities and showing that anyone can become a hero for the environment.",
+        "resumen_es": "La activista ecologista peruana Fiorella Herrera ha vuelto a llamar la atención por su trabajo en defensa del medio ambiente. Hace diez años fundó la organización We Can Be Heroes, cuyo objetivo es proteger y preservar los distintos ecosistemas del Perú, desde la costa y la selva hasta la sierra. Su labor combina la educación ambiental con proyectos concretos de conservación.\n\nRecientemente, Herrera ha sido seleccionada para formar parte de la promoción RE.GENERATION 2026, un programa impulsado por la Fundación Príncipe Alberto II de Mónaco que reúne a jóvenes líderes comprometidos con el planeta. Este reconocimiento internacional refuerza la importancia de las iniciativas locales frente a la crisis climática. Para ella, sin embargo, lo esencial sigue siendo despertar conciencia en las comunidades y demostrar que cualquier persona puede convertirse en un héroe del medio ambiente.",
+        "vocab": [
+          {
+            "front": "activista ecologista",
+            "pos": "phrase",
+            "back": "environmental activist",
+            "example": "Es una reconocida activista ecologista.",
+            "tier": "B1"
+          },
+          {
+            "front": "preservar",
+            "pos": "verb",
+            "back": "to preserve, protect",
+            "example": "Quieren preservar los bosques nativos.",
+            "tier": "B1"
+          },
+          {
+            "front": "ecosistema",
+            "pos": "noun",
+            "back": "ecosystem",
+            "example": "Cada ecosistema tiene su propia fauna.",
+            "tier": "B1"
+          },
+          {
+            "front": "la selva",
+            "pos": "noun",
+            "back": "jungle, rainforest",
+            "example": "La selva amazónica es inmensa.",
+            "tier": "B1"
+          },
+          {
+            "front": "la sierra",
+            "pos": "noun",
+            "back": "mountains, highlands",
+            "example": "En la sierra hace más frío por la noche.",
+            "tier": "B1"
+          },
+          {
+            "front": "la labor",
+            "pos": "noun",
+            "back": "work, task",
+            "example": "Su labor con los niños es admirable.",
+            "tier": "B2"
+          },
+          {
+            "front": "impulsado por",
+            "pos": "phrase",
+            "back": "driven/backed by",
+            "example": "Un proyecto impulsado por varias universidades.",
+            "tier": "B2"
+          },
+          {
+            "front": "comprometido con",
+            "pos": "adj",
+            "back": "committed to",
+            "example": "Está muy comprometido con su comunidad.",
+            "tier": "B2"
+          },
+          {
+            "front": "reforzar",
+            "pos": "verb",
+            "back": "to reinforce, strengthen",
+            "example": "Esto refuerza nuestra confianza.",
+            "tier": "B2"
+          },
+          {
+            "front": "despertar conciencia",
+            "pos": "phrase",
+            "back": "to raise awareness",
+            "example": "La campaña busca despertar conciencia.",
+            "tier": "B2"
+          },
+          {
+            "front": "crisis climática",
+            "pos": "phrase",
+            "back": "climate crisis",
+            "example": "La crisis climática nos afecta a todos.",
+            "tier": "B1"
+          },
+          {
+            "front": "reconocimiento",
+            "pos": "noun",
+            "back": "recognition",
+            "example": "Recibió un reconocimiento internacional.",
+            "tier": "B2"
+          },
+          {
+            "front": "conservación",
+            "pos": "noun",
+            "back": "conservation",
+            "example": "Trabaja en la conservación marina.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Hace diez años fundó la organización We Can Be Heroes, cuyo objetivo es proteger y preservar los distintos ecosistemas del Perú, desde la costa y la selva hasta la sierra.",
+            "point": "El relativo posesivo cuyo",
+            "explanation": "Cuyo, cuya, cuyos y cuyas significan whose y concuerdan con el sustantivo que les sigue, aquí objetivo, no con el poseedor.",
+            "why_tricky": "En inglés whose es invariable; en español hay que mirar el sustantivo siguiente y nunca se usa con artículo."
+          },
+          {
+            "sentence": "Recientemente, Herrera ha sido seleccionada para formar parte de la promoción RE.GENERATION 2026, un programa impulsado por la Fundación Príncipe Alberto II de Mónaco que reúne a jóvenes líderes comprometidos con el planeta.",
+            "point": "Voz pasiva con ser",
+            "explanation": "Ser más participio forma la pasiva; el participio concuerda en género y número con el sujeto, por eso seleccionada en femenino.",
+            "why_tricky": "El español prefiere a menudo la pasiva con se, así que esta forma y su concordancia se olvidan con facilidad."
+          },
+          {
+            "sentence": "Para ella, sin embargo, lo esencial sigue siendo despertar conciencia en las comunidades y demostrar que cualquier persona puede convertirse en un héroe del medio ambiente.",
+            "point": "El artículo neutro lo",
+            "explanation": "Lo más un adjetivo crea un concepto abstracto: lo esencial significa the essential thing.",
+            "why_tricky": "El inglés no tiene artículo neutro, y los estudiantes intentan decir el esencial."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "llamar la atención",
+            "meaning": "to attract attention, stand out",
+            "example": "Su discurso llamó la atención de todos."
+          },
+          {
+            "phrase": "despertar conciencia",
+            "meaning": "to make people aware of an issue",
+            "example": "El documental despertó conciencia sobre el plástico."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué objetivo tiene la organización We Can Be Heroes?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué es importante para Fiorella Herrera trabajar con las comunidades locales?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué representa para ella el reconocimiento de la Fundación Príncipe Alberto II?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que las acciones individuales pueden marcar una diferencia real frente a la crisis climática? Escribe un párrafo explicando tu opinión con ejemplos."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-29-eeuu-democratas-agitacion",
+      "title": "Estados Unidos: el partido demócrata en plena agitación",
+      "source": "RFI Español",
+      "date": "2026-06-28",
+      "level": "B1-B2",
+      "topics": [
+        "política",
+        "Estados Unidos"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-29-eeuu-democratas-agitacion",
+        "revision": 1,
+        "meta": {
+          "title": "Estados Unidos: el partido demócrata en plena agitación",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/programas/noticias-de-am%C3%A9rica/20260628-estados-unidos-el-partido-dem%C3%B3crata-en-agitaci%C3%B3n",
+          "date_published": "2026-06-28",
+          "date_processed": "2026-06-29",
+          "tags": [
+            "política",
+            "Estados Unidos"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The Democratic Party in the United States is going through a moment of strong internal turmoil. In the recent primary elections for the House of Representatives, three candidates backed by the mayor of New York managed to win. Their victories have surprised many observers and have opened a debate about the direction the party should take in the coming years.\n\nAccording to analysts, these results reflect two clear trends. On one hand, the rise of more left-wing positions within American politics. On the other, growing discontent with the party's traditional leadership, which part of the base accuses of being out of touch with voters. It remains to be seen whether this current will manage to consolidate and how the established leaders will respond. In any case, the episode points to a very contested internal contest.",
+        "resumen_es": "El Partido Demócrata de Estados Unidos vive un momento de fuerte agitación interna. En las recientes elecciones primarias para la Cámara de Representantes, tres candidatos respaldados por el alcalde de Nueva York lograron imponerse. Sus victorias han sorprendido a muchos observadores y han abierto un debate sobre el rumbo que debería seguir el partido en los próximos años.\n\nSegún los analistas, estos resultados reflejan dos tendencias claras. Por un lado, el avance de las posiciones más a la izquierda dentro de la política estadounidense. Por otro, un creciente malestar con la dirección tradicional del partido, a la que parte de las bases acusa de estar alejada de los votantes. Queda por ver si esta corriente logrará consolidarse y cómo responderán los líderes históricos. En cualquier caso, el episodio anticipa unas elecciones internas muy disputadas.",
+        "vocab": [
+          {
+            "front": "la agitación",
+            "pos": "noun",
+            "back": "turmoil, unrest",
+            "example": "Hay agitación en los mercados.",
+            "tier": "B2"
+          },
+          {
+            "front": "elecciones primarias",
+            "pos": "phrase",
+            "back": "primary elections",
+            "example": "Las primarias deciden al candidato.",
+            "tier": "B1"
+          },
+          {
+            "front": "respaldado por",
+            "pos": "phrase",
+            "back": "backed/supported by",
+            "example": "Un plan respaldado por todos los partidos.",
+            "tier": "B2"
+          },
+          {
+            "front": "imponerse",
+            "pos": "verb",
+            "back": "to prevail, win out",
+            "example": "El favorito se impuso con facilidad.",
+            "tier": "B2"
+          },
+          {
+            "front": "el rumbo",
+            "pos": "noun",
+            "back": "course, direction",
+            "example": "El país cambió de rumbo.",
+            "tier": "B2"
+          },
+          {
+            "front": "el avance",
+            "pos": "noun",
+            "back": "advance, rise",
+            "example": "El avance de la tecnología es imparable.",
+            "tier": "B1"
+          },
+          {
+            "front": "el malestar",
+            "pos": "noun",
+            "back": "discontent, unease",
+            "example": "Existe malestar entre los empleados.",
+            "tier": "B2"
+          },
+          {
+            "front": "la dirección",
+            "pos": "noun",
+            "back": "leadership, management",
+            "example": "La dirección tomó una decisión difícil.",
+            "tier": "B1"
+          },
+          {
+            "front": "las bases",
+            "pos": "noun",
+            "back": "the grassroots, membership",
+            "example": "Las bases del partido protestan.",
+            "tier": "B2"
+          },
+          {
+            "front": "alejado de",
+            "pos": "adj",
+            "back": "distant from, out of touch with",
+            "example": "Se siente alejado de la realidad.",
+            "tier": "B2"
+          },
+          {
+            "front": "consolidarse",
+            "pos": "verb",
+            "back": "to consolidate, become established",
+            "example": "La empresa logró consolidarse.",
+            "tier": "B2"
+          },
+          {
+            "front": "disputado",
+            "pos": "adj",
+            "back": "contested, hard-fought",
+            "example": "Fue un partido muy disputado.",
+            "tier": "B2"
+          },
+          {
+            "front": "anticipar",
+            "pos": "verb",
+            "back": "to foreshadow, point to",
+            "example": "Los datos anticipan una crisis.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "En las recientes elecciones primarias para la Cámara de Representantes, tres candidatos respaldados por el alcalde de Nueva York lograron imponerse.",
+            "point": "Lograr más infinitivo",
+            "explanation": "Lograr más infinitivo expresa que algo se consigue con éxito; va seguido del infinitivo sin preposición.",
+            "why_tricky": "Se confunde con poder, que indica capacidad; lograr subraya el resultado conseguido."
+          },
+          {
+            "sentence": "Queda por ver si esta corriente logrará consolidarse y cómo responderán los líderes históricos.",
+            "point": "Quedar por más infinitivo",
+            "explanation": "Quedar por ver significa que algo está aún sin resolver o por decidir.",
+            "why_tricky": "Es un uso idiomático de quedar con sentido impersonal que no se traduce palabra por palabra."
+          },
+          {
+            "sentence": "Por otro, un creciente malestar con la dirección tradicional del partido, a la que parte de las bases acusa de estar alejada de los votantes.",
+            "point": "Preposición más relativo a la que",
+            "explanation": "El verbo acusar rige la preposición a, que se mantiene delante del relativo: a la que.",
+            "why_tricky": "En español la preposición va antes del relativo, no al final de la frase como en inglés coloquial."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "quedar por ver",
+            "meaning": "to remain to be seen, be uncertain",
+            "example": "Quedará por ver quién gana al final."
+          },
+          {
+            "phrase": "por un lado... por otro",
+            "meaning": "on one hand... on the other",
+            "example": "Por un lado me gusta, por otro me preocupa."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué ocurrió en las elecciones primarias para la Cámara de Representantes?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué dos tendencias reflejan, según los analistas, estos resultados?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué algunos votantes están descontentos con la dirección del partido?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que los partidos políticos deben renovar a sus líderes con frecuencia o mantener la experiencia de los dirigentes históricos? Justifica tu respuesta."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-29-al-aqsa-jerusalen",
+      "title": "Al Aqsa: el temor de los musulmanes ante los planes de los nacionalistas israelíes para uno de los lugares más sagrados del Islam",
+      "source": "BBC Mundo",
+      "date": "2026-06-24",
+      "level": "B1-B2",
+      "topics": [
+        "religión",
+        "Oriente Medio"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-29-al-aqsa-jerusalen",
+        "revision": 1,
+        "meta": {
+          "title": "Al Aqsa: el temor de los musulmanes ante los planes de los nacionalistas israelíes para uno de los lugares más sagrados del Islam",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c5yzgrznz18o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-24",
+          "date_processed": "2026-06-29",
+          "tags": [
+            "religión",
+            "Oriente Medio"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The Al Aqsa Mosque, located in Jerusalem, is one of the holiest places in Islam and also a deeply meaningful symbol for Jews and Christians. In recent times, concern has grown among Muslim worshippers over the actions of some Israeli nationalist groups. According to various media outlets, these groups have begun to ignore the rules that for decades have governed coexistence within the compound.\n\nThe site is governed by a delicate arrangement known as the status quo, which distributes uses and visits among the different religious communities. Any change to those customs creates tension and fear of new clashes. For many believers, respecting the current balance is essential to keeping peace in a city loaded with history and meaning. For this reason, authorities and religious leaders are calling for caution and dialogue before the situation worsens.",
+        "resumen_es": "La mezquita de Al Aqsa, situada en Jerusalén, es uno de los lugares más sagrados del islam y también un símbolo de gran valor para judíos y cristianos. En los últimos tiempos ha crecido la preocupación entre los fieles musulmanes ante las acciones de algunos grupos nacionalistas israelíes. Según diversos medios, estos grupos han empezado a ignorar las normas que durante décadas han regulado la convivencia en el recinto.\n\nEl lugar se rige por un delicado acuerdo conocido como statu quo, que reparte los usos y las visitas entre las distintas comunidades religiosas. Cualquier cambio en esas costumbres genera tensión y temor a nuevos enfrentamientos. Para muchos creyentes, respetar el equilibrio actual es esencial para mantener la paz en una ciudad cargada de historia y de significado. Por eso, las autoridades y los líderes religiosos piden prudencia y diálogo antes de que la situación se agrave.",
+        "vocab": [
+          {
+            "front": "sagrado",
+            "pos": "adj",
+            "back": "sacred, holy",
+            "example": "Para ellos es un lugar sagrado.",
+            "tier": "B1"
+          },
+          {
+            "front": "los fieles",
+            "pos": "noun",
+            "back": "the faithful, worshippers",
+            "example": "Los fieles rezan cada día.",
+            "tier": "B2"
+          },
+          {
+            "front": "la convivencia",
+            "pos": "noun",
+            "back": "coexistence",
+            "example": "La convivencia pacífica no es fácil.",
+            "tier": "B2"
+          },
+          {
+            "front": "el recinto",
+            "pos": "noun",
+            "back": "enclosure, compound, grounds",
+            "example": "El recinto estaba lleno de gente.",
+            "tier": "B2"
+          },
+          {
+            "front": "regirse por",
+            "pos": "verb",
+            "back": "to be governed by",
+            "example": "El club se rige por normas estrictas.",
+            "tier": "C1"
+          },
+          {
+            "front": "el acuerdo",
+            "pos": "noun",
+            "back": "agreement",
+            "example": "Por fin firmaron un acuerdo.",
+            "tier": "B1"
+          },
+          {
+            "front": "repartir",
+            "pos": "verb",
+            "back": "to share out, distribute",
+            "example": "Repartieron la comida entre todos.",
+            "tier": "B1"
+          },
+          {
+            "front": "enfrentamiento",
+            "pos": "noun",
+            "back": "clash, confrontation",
+            "example": "Hubo enfrentamientos en la calle.",
+            "tier": "B2"
+          },
+          {
+            "front": "el creyente",
+            "pos": "noun",
+            "back": "believer",
+            "example": "Es un creyente muy devoto.",
+            "tier": "B2"
+          },
+          {
+            "front": "el equilibrio",
+            "pos": "noun",
+            "back": "balance",
+            "example": "Buscan el equilibrio entre ambos lados.",
+            "tier": "B1"
+          },
+          {
+            "front": "la prudencia",
+            "pos": "noun",
+            "back": "caution, prudence",
+            "example": "Actuó siempre con prudencia.",
+            "tier": "B2"
+          },
+          {
+            "front": "agravarse",
+            "pos": "verb",
+            "back": "to worsen, get worse",
+            "example": "La situación se agravó de repente.",
+            "tier": "B2"
+          },
+          {
+            "front": "cargado de",
+            "pos": "phrase",
+            "back": "loaded with, full of",
+            "example": "Un discurso cargado de emoción.",
+            "tier": "B2"
+          },
+          {
+            "front": "la costumbre",
+            "pos": "noun",
+            "back": "custom, habit",
+            "example": "Es una costumbre muy antigua.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El lugar se rige por un delicado acuerdo conocido como statu quo, que reparte los usos y las visitas entre las distintas comunidades religiosas.",
+            "point": "La pasiva refleja con se",
+            "explanation": "Se más verbo en tercera persona forma la pasiva refleja; se rige por significa is governed by, y el agente se introduce con por.",
+            "why_tricky": "Los estudiantes usan la pasiva con ser, pero el español prefiere la forma con se en muchos contextos."
+          },
+          {
+            "sentence": "Cualquier cambio en esas costumbres genera tensión y temor a nuevos enfrentamientos.",
+            "point": "Cualquier ante sustantivo singular",
+            "explanation": "Cualquier es la forma apocopada de cualquiera y va delante de un sustantivo singular, sea masculino o femenino.",
+            "why_tricky": "Pierde la a final solo delante del sustantivo y se mantiene en singular aunque el sentido sea general."
+          },
+          {
+            "sentence": "Por eso, las autoridades y los líderes religiosos piden prudencia y diálogo antes de que la situación se agrave.",
+            "point": "Subjuntivo tras antes de que",
+            "explanation": "La locución antes de que siempre exige subjuntivo, por eso se agrave y no se agrava.",
+            "why_tricky": "Las oraciones temporales sobre el futuro usan subjuntivo, algo que en inglés no ocurre."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "statu quo",
+            "meaning": "the existing state of affairs that people want to keep",
+            "example": "Prefieren mantener el statu quo."
+          },
+          {
+            "phrase": "cargado de historia",
+            "meaning": "full of history, steeped in history",
+            "example": "Es un barrio cargado de historia."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué es importante la mezquita de Al Aqsa para distintas religiones?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué es el statu quo y qué función cumple en el recinto?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué piden las autoridades y los líderes religiosos para evitar enfrentamientos?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Cómo crees que se pueden proteger los lugares sagrados que son importantes para varias religiones a la vez? Escribe tu opinión."
+      }
+    },
     {
       "pack_id": "feed-2026-06-28-san-sebastian-icono",
       "title": "El culto a San Sebastian: como un santo del siglo III brutalmente torturado se convirtio en un icono gay",
@@ -6243,520 +6757,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que los movimientos ciudadanos pueden cambiar de verdad las leyes de un país? Justifica tu respuesta en unas 80 palabras."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-22-permiso-climatico-espana",
-      "title": "Canícula: ¿Cómo funciona el llamado “permiso climático” instaurado en España?",
-      "source": "RFI Español",
-      "date": "2026-06-19",
-      "level": "B1-B2",
-      "topics": [
-        "clima",
-        "trabajo"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-22-permiso-climatico-espana",
-        "revision": 1,
-        "meta": {
-          "title": "Canícula: ¿Cómo funciona el llamado “permiso climático” instaurado en España?",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/europa/20260619-can%C3%ADcula-c%C3%B3mo-funciona-el-llamado-permiso-clim%C3%A1tico-instaurado-en-espa%C3%B1a",
-          "date_published": "2026-06-19",
-          "date_processed": "2026-06-22",
-          "tags": [
-            "clima",
-            "trabajo"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "A new heatwave is affecting a large part of Europe, and Spain is one of the hardest-hit countries. To protect workers, the country applies the so-called climate leave, a measure that allows certain tasks to be suspended when temperatures are too high. In this way, companies must adapt their schedules or stop activity during the most dangerous hours of the day.\n\nThis measure aims to avoid accidents and health problems among those who work outdoors, such as in construction or in the fields. Experts remind us that extreme heat will become more and more frequent because of climate change. For this reason, many governments are studying new rules to protect the population during the summer. Meanwhile, the authorities ask citizens to drink water, avoid the sun and keep an eye on elderly people, who are the most vulnerable.",
-        "resumen_es": "Una nueva ola de calor afecta a buena parte de Europa, y España es uno de los países más golpeados. Para proteger a los trabajadores, el país aplica el llamado permiso climático, una medida que permite suspender ciertas tareas cuando las temperaturas son demasiado altas. De este modo, las empresas deben adaptar los horarios o parar la actividad en las horas más peligrosas del día.\n\nEsta medida busca evitar accidentes y problemas de salud entre quienes trabajan al aire libre, como en la construcción o en el campo. Los expertos recuerdan que el calor extremo será cada vez más frecuente debido al cambio climático. Por eso, muchos gobiernos estudian nuevas normas para proteger a la población durante el verano. Mientras tanto, las autoridades piden a los ciudadanos beber agua, evitar el sol y estar atentos a las personas mayores, que son las más vulnerables.",
-        "vocab": [
-          {
-            "front": "la ola de calor",
-            "pos": "noun",
-            "back": "the heatwave",
-            "example": "Una ola de calor llegó a principios de julio.",
-            "tier": "B1"
-          },
-          {
-            "front": "golpeado",
-            "pos": "adj",
-            "back": "hit, struck (hard)",
-            "example": "Las zonas más golpeadas pidieron ayuda.",
-            "tier": "B2"
-          },
-          {
-            "front": "el permiso climático",
-            "pos": "phrase",
-            "back": "the climate leave (time off due to weather)",
-            "example": "El permiso climático protege a los obreros.",
-            "tier": "B2"
-          },
-          {
-            "front": "la medida",
-            "pos": "noun",
-            "back": "the measure, the step",
-            "example": "El gobierno tomó una medida urgente.",
-            "tier": "B1"
-          },
-          {
-            "front": "suspender",
-            "pos": "verb",
-            "back": "to suspend, to halt",
-            "example": "Suspendieron las clases por el calor.",
-            "tier": "B1"
-          },
-          {
-            "front": "el horario",
-            "pos": "noun",
-            "back": "the schedule, the timetable",
-            "example": "Cambiaron el horario de trabajo en verano.",
-            "tier": "B1"
-          },
-          {
-            "front": "al aire libre",
-            "pos": "phrase",
-            "back": "outdoors, in the open air",
-            "example": "Comimos al aire libre en el jardín.",
-            "tier": "B1"
-          },
-          {
-            "front": "el cambio climático",
-            "pos": "phrase",
-            "back": "climate change",
-            "example": "El cambio climático preocupa a los científicos.",
-            "tier": "B1"
-          },
-          {
-            "front": "la norma",
-            "pos": "noun",
-            "back": "the rule, the regulation",
-            "example": "Hay que respetar las normas de seguridad.",
-            "tier": "B1"
-          },
-          {
-            "front": "la población",
-            "pos": "noun",
-            "back": "the population",
-            "example": "La población de la ciudad creció rápido.",
-            "tier": "B1"
-          },
-          {
-            "front": "vulnerable",
-            "pos": "adj",
-            "back": "vulnerable",
-            "example": "Los ancianos son más vulnerables al calor.",
-            "tier": "B2"
-          },
-          {
-            "front": "cada vez más",
-            "pos": "phrase",
-            "back": "more and more, increasingly",
-            "example": "Hace cada vez más calor en las ciudades.",
-            "tier": "B1"
-          },
-          {
-            "front": "evitar",
-            "pos": "verb",
-            "back": "to avoid",
-            "example": "Intenta evitar el sol del mediodía.",
-            "tier": "B1"
-          },
-          {
-            "front": "estar atento a",
-            "pos": "phrase",
-            "back": "to keep an eye on, to be alert to",
-            "example": "Hay que estar atentos a los niños en la piscina.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Los expertos recuerdan que el calor extremo será cada vez más frecuente debido al cambio climático.",
-            "point": "Simple future + the progression 'cada vez más'",
-            "explanation": "'Será' is the simple future used for predictions, and 'cada vez más' expresses a growing tendency ('more and more').",
-            "why_tricky": "Learners often replace the future with 'va a ser', and forget that 'cada vez más' is a fixed phrase, not 'más y más'."
-          },
-          {
-            "sentence": "Esta medida busca evitar accidentes y problemas de salud entre quienes trabajan al aire libre, como en la construcción o en el campo.",
-            "point": "Relative pronoun 'quienes' (those who)",
-            "explanation": "'Quienes' refers to people in general ('those who work outdoors') and replaces 'las personas que' in a more formal register.",
-            "why_tricky": "Learners confuse 'quienes' with 'que' or 'los que', and may forget it only refers to people."
-          },
-          {
-            "sentence": "De este modo, las empresas deben adaptar los horarios o parar la actividad en las horas más peligrosas del día.",
-            "point": "'deber' + infinitive for obligation",
-            "explanation": "'Deben adaptar' expresses a duty or requirement; deber plus an infinitive means 'must / have to'.",
-            "why_tricky": "'Deber' (obligation) is easily confused with 'deber de' (probability), which would change the meaning."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "al aire libre",
-            "meaning": "in the open air, outdoors",
-            "example": "Nos encanta cenar al aire libre en verano."
-          },
-          {
-            "phrase": "cada vez más",
-            "meaning": "increasingly, more and more",
-            "example": "El problema es cada vez más grave."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué es el permiso climático y para qué sirve?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué trabajadores son los más afectados por el calor extremo?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué consejos dan las autoridades a los ciudadanos durante la ola de calor?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Qué medidas crees que deberían tomar las ciudades para proteger a las personas durante las olas de calor? Escribe unas 80 palabras."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-21-paternidad-mente",
-      "title": "Cómo la paternidad transforma la mente masculina",
-      "source": "BBC Mundo",
-      "date": "2026-06-21",
-      "level": "B1-B2",
-      "topics": [
-        "ciencia",
-        "familia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-21-paternidad-mente",
-        "revision": 1,
-        "meta": {
-          "title": "Cómo la paternidad transforma la mente masculina",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cn8dqdn8p9yo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-06-21",
-          "date_processed": "2026-06-21",
-          "tags": [
-            "ciencia",
-            "familia"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "A recent report explains how fatherhood transforms men's minds. According to specialists, future fathers experience significant hormonal changes even before their children are born. These changes can influence their behaviour and, in many cases, benefit the wellbeing of the whole family.\n\nFor a long time, people believed that only mothers went through deep biological transformations. However, more and more studies suggest that the male brain also adapts to this new stage. By caring for a baby, men develop greater sensitivity and learn to respond to their needs. Experts point out that this early bond is key to children's emotional development and, over time, strengthens the relationship between father and child.",
-        "resumen_es": "Un reportaje reciente explica cómo la paternidad transforma la mente de los hombres. Según los especialistas, los futuros padres experimentan cambios hormonales importantes incluso antes de que sus hijos nazcan. Estos cambios pueden influir en su comportamiento y, en muchos casos, favorecen el bienestar de toda la familia.\n\nDurante mucho tiempo se creyó que solo las madres atravesaban transformaciones biológicas profundas. Sin embargo, cada vez más estudios sugieren que el cerebro masculino también se adapta a esta nueva etapa. Al cuidar de un bebé, los hombres desarrollan mayor sensibilidad y aprenden a responder a sus necesidades. Los expertos señalan que este vínculo temprano resulta clave para el desarrollo emocional de los niños y, con el tiempo, refuerza la relación entre padre e hijo.",
-        "vocab": [
-          {
-            "front": "la paternidad",
-            "pos": "noun",
-            "back": "fatherhood",
-            "example": "La paternidad cambió por completo su rutina.",
-            "tier": "B1"
-          },
-          {
-            "front": "los cambios hormonales",
-            "pos": "phrase",
-            "back": "hormonal changes",
-            "example": "Los cambios hormonales afectan el estado de ánimo.",
-            "tier": "B2"
-          },
-          {
-            "front": "nacer",
-            "pos": "verb",
-            "back": "to be born",
-            "example": "El bebé va a nacer en otoño.",
-            "tier": "B1"
-          },
-          {
-            "front": "el comportamiento",
-            "pos": "noun",
-            "back": "behaviour",
-            "example": "Su comportamiento mejoró tras el descanso.",
-            "tier": "B1"
-          },
-          {
-            "front": "el bienestar",
-            "pos": "noun",
-            "back": "wellbeing",
-            "example": "El deporte contribuye al bienestar general.",
-            "tier": "B1"
-          },
-          {
-            "front": "atravesar",
-            "pos": "verb",
-            "back": "to go through (a phase)",
-            "example": "La empresa atraviesa un momento difícil.",
-            "tier": "B2"
-          },
-          {
-            "front": "adaptarse",
-            "pos": "verb",
-            "back": "to adapt",
-            "example": "El cuerpo se adapta poco a poco.",
-            "tier": "B1"
-          },
-          {
-            "front": "la sensibilidad",
-            "pos": "noun",
-            "back": "sensitivity",
-            "example": "Trata el tema con mucha sensibilidad.",
-            "tier": "B2"
-          },
-          {
-            "front": "el vínculo",
-            "pos": "noun",
-            "back": "bond, link",
-            "example": "Existe un vínculo fuerte entre ellos.",
-            "tier": "B2"
-          },
-          {
-            "front": "clave",
-            "pos": "adj",
-            "back": "key, crucial",
-            "example": "El descanso es clave para recuperarse.",
-            "tier": "B2"
-          },
-          {
-            "front": "señalar",
-            "pos": "verb",
-            "back": "to point out",
-            "example": "Los expertos señalan varios riesgos.",
-            "tier": "B2"
-          },
-          {
-            "front": "reforzar",
-            "pos": "verb",
-            "back": "to strengthen",
-            "example": "Quieren reforzar la seguridad.",
-            "tier": "B2"
-          },
-          {
-            "front": "la etapa",
-            "pos": "noun",
-            "back": "stage, phase",
-            "example": "Empieza una nueva etapa de su vida.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Según los especialistas, los futuros padres experimentan cambios hormonales importantes incluso antes de que sus hijos nazcan.",
-            "point": "Subjuntivo tras «antes de que»",
-            "explanation": "La locución «antes de que» siempre exige subjuntivo; aquí «nazcan» es el presente de subjuntivo de «nacer».",
-            "why_tricky": "En inglés se usa el indicativo («before they are born»), por lo que el estudiante olvida el subjuntivo español."
-          },
-          {
-            "sentence": "Durante mucho tiempo se creyó que solo las madres atravesaban transformaciones biológicas profundas.",
-            "point": "«se» impersonal + pretérito",
-            "explanation": "«se creyó» es el «se» impersonal: significa «se creía / la gente creía», con el verbo en tercera persona.",
-            "why_tricky": "No hay sujeto explícito; la construcción con «se» sustituye a «la gente» y puede confundir."
-          },
-          {
-            "sentence": "Al cuidar de un bebé, los hombres desarrollan mayor sensibilidad y aprenden a responder a sus necesidades.",
-            "point": "«al + infinitivo» (acción simultánea)",
-            "explanation": "«Al cuidar» significa «cuando/al cuidar»; «al» + infinitivo expresa una acción que ocurre a la vez que la principal.",
-            "why_tricky": "El estudiante intenta usar un verbo conjugado o «cuando» donde el infinitivo es más natural."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "a la larga",
-            "meaning": "in the long run, eventually",
-            "example": "A la larga, el esfuerzo vale la pena."
-          },
-          {
-            "phrase": "cada vez más",
-            "meaning": "more and more, increasingly",
-            "example": "Cada vez más gente trabaja desde casa."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué cambios experimentan los hombres antes de que nazcan sus hijos?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué resulta importante el vínculo temprano entre padre e hijo?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué se creía antiguamente sobre las transformaciones biológicas?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que la sociedad reconoce lo suficiente el papel de los padres en la crianza? Escribe un párrafo con tu opinión y un ejemplo."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-21-islandia-defensa",
-      "title": "Islandia, el país ártico que nunca tuvo ejército y ahora tiene que replantearse su defensa",
-      "source": "BBC Mundo",
-      "date": "2026-06-21",
-      "level": "B1-B2",
-      "topics": [
-        "geopolítica",
-        "defensa"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-21-islandia-defensa",
-        "revision": 1,
-        "meta": {
-          "title": "Islandia, el país ártico que nunca tuvo ejército y ahora tiene que replantearse su defensa",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/ce8myd581r1o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-06-21",
-          "date_processed": "2026-06-21",
-          "tags": [
-            "geopolítica",
-            "defensa"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Iceland is a unique Arctic country: it has never had its own army. For decades, its security has depended on the United States and NATO, which acted as guarantors against possible threats. Today, however, the island is forced to rethink how to defend its territory.\n\nThe debate has gained strength because of changes in international politics. With Donald Trump's arrival at the White House, many wonder whether American support will remain as solid as before. Faced with this uncertainty, the Icelandic authorities are studying new forms of cooperation and strengthening their ties with other European countries. For a small nation with no military tradition, finding the balance between neutrality and protection has become quite a challenge.",
-        "resumen_es": "Islandia es un país ártico singular: nunca ha tenido un ejército propio. Durante décadas, su seguridad ha dependido de Estados Unidos y de la OTAN, que actuaban como garantes frente a posibles amenazas. Hoy, sin embargo, la isla se ve obligada a replantearse cómo defender su territorio.\n\nEl debate ha cobrado fuerza por los cambios en la política internacional. Con la llegada de Donald Trump a la Casa Blanca, muchos se preguntan si el apoyo estadounidense seguirá siendo tan firme como antes. Ante esta incertidumbre, las autoridades islandesas estudian nuevas formas de cooperación y refuerzan sus lazos con otros países europeos. Para una nación pequeña y sin tradición militar, encontrar el equilibrio entre la neutralidad y la protección se ha convertido en todo un reto.",
-        "vocab": [
-          {
-            "front": "el ejército",
-            "pos": "noun",
-            "back": "army",
-            "example": "El país no tiene ejército propio.",
-            "tier": "B1"
-          },
-          {
-            "front": "la defensa",
-            "pos": "noun",
-            "back": "defence",
-            "example": "Invierten poco en defensa.",
-            "tier": "B1"
-          },
-          {
-            "front": "el garante",
-            "pos": "noun",
-            "back": "guarantor",
-            "example": "La alianza actúa como garante de la seguridad.",
-            "tier": "C1"
-          },
-          {
-            "front": "la amenaza",
-            "pos": "noun",
-            "back": "threat",
-            "example": "No existe una amenaza inmediata.",
-            "tier": "B2"
-          },
-          {
-            "front": "replantearse",
-            "pos": "verb",
-            "back": "to rethink, reconsider",
-            "example": "Debemos replantearnos el plan.",
-            "tier": "B2"
-          },
-          {
-            "front": "cobrar fuerza",
-            "pos": "phrase",
-            "back": "to gain strength, gather momentum",
-            "example": "El debate cobra fuerza cada día.",
-            "tier": "B2"
-          },
-          {
-            "front": "la incertidumbre",
-            "pos": "noun",
-            "back": "uncertainty",
-            "example": "Vivimos un momento de incertidumbre.",
-            "tier": "B2"
-          },
-          {
-            "front": "los lazos",
-            "pos": "noun",
-            "back": "ties, bonds",
-            "example": "Mantienen lazos estrechos con Europa.",
-            "tier": "B2"
-          },
-          {
-            "front": "el equilibrio",
-            "pos": "noun",
-            "back": "balance",
-            "example": "Busca el equilibrio entre trabajo y descanso.",
-            "tier": "B1"
-          },
-          {
-            "front": "la neutralidad",
-            "pos": "noun",
-            "back": "neutrality",
-            "example": "El país defiende su neutralidad.",
-            "tier": "B2"
-          },
-          {
-            "front": "el reto",
-            "pos": "noun",
-            "back": "challenge",
-            "example": "Aprobar el examen fue un gran reto.",
-            "tier": "B1"
-          },
-          {
-            "front": "firme",
-            "pos": "adj",
-            "back": "firm, solid",
-            "example": "Mantiene una postura firme.",
-            "tier": "B2"
-          },
-          {
-            "front": "estar en entredicho",
-            "pos": "phrase",
-            "back": "to be called into question",
-            "example": "Su liderazgo está en entredicho.",
-            "tier": "C1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Hoy, sin embargo, la isla se ve obligada a replantearse cómo defender su territorio.",
-            "point": "«verse obligado a + infinitivo»",
-            "explanation": "«verse obligado a» significa «estar forzado a»; el reflexivo «se ve» más «obligada» concuerda con el sustantivo femenino «isla».",
-            "why_tricky": "El estudiante suele usar «ser obligado» en vez del más idiomático «verse obligado», y olvida la concordancia de género."
-          },
-          {
-            "sentence": "Con la llegada de Donald Trump a la Casa Blanca, muchos se preguntan si el apoyo estadounidense seguirá siendo tan firme como antes.",
-            "point": "«seguir + gerundio» y comparativo «tan...como»",
-            "explanation": "«seguirá siendo» (futuro de seguir + gerundio) expresa continuidad; «tan firme como» es la comparación de igualdad.",
-            "why_tricky": "Combinar el futuro perifrástico con un gerundio y una comparación de igualdad en una sola frase resulta denso."
-          },
-          {
-            "sentence": "Para una nación pequeña y sin tradición militar, encontrar el equilibrio entre la neutralidad y la protección se ha convertido en todo un reto.",
-            "point": "Infinitivo como sujeto + «convertirse en»",
-            "explanation": "El infinitivo «encontrar» funciona como sujeto de la oración; «se ha convertido en» significa «ha pasado a ser».",
-            "why_tricky": "El español usa el infinitivo donde el inglés usaría el gerundio («finding»), y «convertirse en» exige la preposición «en»."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "estar en entredicho",
-            "meaning": "to be in doubt, called into question",
-            "example": "Tras el escándalo, su honestidad quedó en entredicho."
-          },
-          {
-            "phrase": "todo un reto",
-            "meaning": "quite a challenge, a real challenge",
-            "example": "Organizar la boda fue todo un reto."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué es especial la situación de Islandia en materia de defensa?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué papel han desempeñado Estados Unidos y la OTAN?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué hacen las autoridades islandesas ante la incertidumbre actual?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Debería un país pequeño depender de sus aliados para su seguridad o crear su propio ejército? Justifica tu respuesta."
       }
     }
   ]
