@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-06-29T08:14:03Z",
+  "generated_at": "2026-06-29T20:15:08Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-29-cuba-reformas-economia",
+      "title": "\"No hay soberanía con el plato vacío\": las reformas inspiradas en China y Vietnam con las que Cuba intenta rescatar a su economía",
+      "source": "BBC Mundo",
+      "date": "2026-06-29",
+      "level": "B1-B2",
+      "topics": [
+        "economía",
+        "Cuba"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-29-cuba-reformas-economia",
+        "revision": 1,
+        "meta": {
+          "title": "\"No hay soberanía con el plato vacío\": las reformas inspiradas en China y Vietnam con las que Cuba intenta rescatar a su economía",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cly7qnlp8y2o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-29",
+          "date_processed": "2026-06-29",
+          "tags": [
+            "economía",
+            "Cuba"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Cuba's government, led by Miguel Diaz-Canel, has announced a package of economic reforms to try to rescue an economy battered by crisis. Under the slogan 'there is no sovereignty with an empty plate', the authorities want to open up more space for private and foreign investment, drawing inspiration from the changes that transformed China and Vietnam. The goal is to increase production and curb the shortages that affect the daily life of millions of Cubans.\n\nHowever, analysts warn that Cuba's situation is very different. The island is dragging along a severe energy crisis, heavy emigration and a chronic lack of investment, which complicates any comparison with the Asian models. Many citizens receive the measures with a mix of hope and scepticism, because they have already seen other promises fail. It remains to be seen whether the reforms will produce concrete results or whether they will stay on paper.",
+        "resumen_es": "El gobierno de Cuba, encabezado por Miguel Díaz-Canel, ha anunciado un paquete de reformas económicas para intentar sacar a flote una economía golpeada por la crisis. Bajo el lema 'no hay soberanía con el plato vacío', las autoridades quieren abrir más espacio a la inversión privada y extranjera, inspirándose en los cambios que transformaron a China y a Vietnam. El objetivo es aumentar la producción y frenar la escasez que afecta la vida diaria de millones de cubanos.\n\nSin embargo, los analistas advierten que el contexto cubano es muy distinto. La isla arrastra una grave crisis energética, una fuerte emigración y una falta crónica de inversiones, lo que complica cualquier comparación con los modelos asiáticos. Muchos ciudadanos reciben las medidas con una mezcla de esperanza y escepticismo, porque ya han visto fracasar otras promesas. Queda por ver si las reformas darán resultados concretos o si se quedarán en el papel.",
+        "vocab": [
+          {
+            "front": "sacar a flote",
+            "pos": "phrase",
+            "back": "to rescue, to bring back afloat",
+            "example": "El nuevo plan busca sacar a flote a la empresa.",
+            "tier": "B2"
+          },
+          {
+            "front": "golpeado/a",
+            "pos": "adj",
+            "back": "battered, hard-hit",
+            "example": "Es una región golpeada por el desempleo.",
+            "tier": "B2"
+          },
+          {
+            "front": "el lema",
+            "pos": "noun",
+            "back": "slogan, motto",
+            "example": "La campaña tiene un lema muy pegadizo.",
+            "tier": "B1"
+          },
+          {
+            "front": "la soberanía",
+            "pos": "noun",
+            "back": "sovereignty",
+            "example": "Defienden la soberanía de su país.",
+            "tier": "B2"
+          },
+          {
+            "front": "la inversión",
+            "pos": "noun",
+            "back": "investment",
+            "example": "Buscan inversión extranjera para crecer.",
+            "tier": "B1"
+          },
+          {
+            "front": "la escasez",
+            "pos": "noun",
+            "back": "shortage, scarcity",
+            "example": "Hay escasez de agua en verano.",
+            "tier": "B2"
+          },
+          {
+            "front": "arrastrar",
+            "pos": "verb",
+            "back": "to drag along, to carry the burden of",
+            "example": "El país arrastra una deuda enorme.",
+            "tier": "B2"
+          },
+          {
+            "front": "la emigración",
+            "pos": "noun",
+            "back": "emigration",
+            "example": "La emigración ha vaciado muchos pueblos.",
+            "tier": "B1"
+          },
+          {
+            "front": "crónico/a",
+            "pos": "adj",
+            "back": "chronic, long-standing",
+            "example": "Sufre un problema crónico de salud.",
+            "tier": "B2"
+          },
+          {
+            "front": "el escepticismo",
+            "pos": "noun",
+            "back": "scepticism",
+            "example": "Recibió la noticia con escepticismo.",
+            "tier": "C1"
+          },
+          {
+            "front": "fracasar",
+            "pos": "verb",
+            "back": "to fail",
+            "example": "El proyecto fracasó por falta de dinero.",
+            "tier": "B1"
+          },
+          {
+            "front": "el paquete (de medidas)",
+            "pos": "noun",
+            "back": "package, set (of measures)",
+            "example": "Aprobaron un paquete de medidas urgentes.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El objetivo es aumentar la producción y frenar la escasez que afecta la vida diaria de millones de cubanos.",
+            "point": "Oración de relativo con 'que'",
+            "explanation": "'que afecta la vida diaria' es una oración de relativo que da más información sobre 'la escasez'. El verbo va en indicativo porque se habla de un hecho real y conocido.",
+            "why_tricky": "El relativo 'que' sirve para personas y cosas, y aquí se refiere a un sustantivo abstracto, no a una persona."
+          },
+          {
+            "sentence": "Muchos ciudadanos reciben las medidas con una mezcla de esperanza y escepticismo, porque ya han visto fracasar otras promesas.",
+            "point": "Verbo de percepción + infinitivo (ver + infinitivo)",
+            "explanation": "'han visto fracasar' une un verbo de percepción ('ver') con un infinitivo ('fracasar'). Significa que han presenciado cómo otras promesas no funcionaron.",
+            "why_tricky": "En inglés se usaría una oración completa ('seen ... fail'); en español el infinitivo va directamente después del verbo de percepción."
+          },
+          {
+            "sentence": "Queda por ver si las reformas darán resultados concretos o si se quedarán en el papel.",
+            "point": "'quedar por + infinitivo' y futuro simple",
+            "explanation": "'Queda por ver' significa que algo todavía no se sabe. Los verbos 'darán' y 'se quedarán' están en futuro simple para hablar de lo que pasará.",
+            "why_tricky": "'quedar por + infinitivo' es una construcción fija difícil de traducir literalmente ('it remains to be seen')."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "no hay soberanía con el plato vacío",
+            "meaning": "no puede haber verdadera independencia si la gente pasa hambre; es un lema político",
+            "example": "El presidente repitió que no hay soberanía con el plato vacío."
+          },
+          {
+            "phrase": "quedar(se) en el papel",
+            "meaning": "quedar solo como una idea o un plan que no se llega a aplicar",
+            "example": "Muchas leyes buenas se quedan en el papel."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué objetivos persigue el gobierno cubano con estas reformas económicas?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué los analistas creen que Cuba no se puede comparar fácilmente con China y Vietnam?",
+            "type": "open"
+          },
+          {
+            "q": "¿Cómo reaccionan muchos ciudadanos ante las medidas y por qué?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que un país puede transformar su economía copiando modelos de otros países? Escribe un párrafo explicando tu opinión y dando algún ejemplo."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-29-calor-extremo-cuerpo",
+      "title": "Cómo impacta al cuerpo el calor extremo como el que se está registrando en Europa (y cómo protegerte)",
+      "source": "BBC Mundo",
+      "date": "2026-06-29",
+      "level": "B1-B2",
+      "topics": [
+        "salud",
+        "clima"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-29-calor-extremo-cuerpo",
+        "revision": 1,
+        "meta": {
+          "title": "Cómo impacta al cuerpo el calor extremo como el que se está registrando en Europa (y cómo protegerte)",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cy6yq4l9gdvo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-24",
+          "date_processed": "2026-06-29",
+          "tags": [
+            "salud",
+            "clima"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "An intense heatwave is affecting much of Europe these days and is putting people's health to the test. When the body is exposed to extreme heat for hours, it struggles to keep its normal temperature and warning signs appear, such as dizziness, headache and very strong thirst. If you do not act in time, the situation can lead to heatstroke, which is dangerous above all for the most vulnerable people.\n\nExperts recommend some simple measures to protect yourself. It is a good idea to drink water often, even if you are not thirsty, to avoid the sun during the central hours of the day and to look for cool or shaded places. They also advise wearing light clothing and paying special attention to children and the elderly, who are the most sensitive. With a few basic precautions, it is possible to reduce the risks.",
+        "resumen_es": "Una intensa ola de calor afecta estos días a buena parte de Europa y pone a prueba la salud de la población. Cuando el cuerpo se expone a un calor extremo durante horas, le cuesta mantener su temperatura normal y aparecen señales de alerta como el mareo, el dolor de cabeza y una sed muy fuerte. Si no se actúa a tiempo, la situación puede derivar en un golpe de calor, peligroso sobre todo para las personas más vulnerables.\n\nLos expertos recomiendan algunas medidas sencillas para protegerse. Conviene beber agua con frecuencia, aunque no se tenga sed, evitar el sol en las horas centrales del día y buscar lugares frescos o con sombra. También aconsejan usar ropa ligera y prestar especial atención a los niños y a los ancianos, que son los más sensibles. Con unos cuidados básicos, es posible reducir los riesgos.",
+        "vocab": [
+          {
+            "front": "la ola de calor",
+            "pos": "phrase",
+            "back": "heatwave",
+            "example": "Una ola de calor cubrió todo el país.",
+            "tier": "B1"
+          },
+          {
+            "front": "poner a prueba",
+            "pos": "phrase",
+            "back": "to put to the test",
+            "example": "El viaje puso a prueba nuestra paciencia.",
+            "tier": "B2"
+          },
+          {
+            "front": "exponerse (a)",
+            "pos": "verb",
+            "back": "to expose oneself (to)",
+            "example": "No conviene exponerse al sol al mediodía.",
+            "tier": "B2"
+          },
+          {
+            "front": "el mareo",
+            "pos": "noun",
+            "back": "dizziness",
+            "example": "Sintió un mareo por el calor.",
+            "tier": "B1"
+          },
+          {
+            "front": "la señal de alerta",
+            "pos": "phrase",
+            "back": "warning sign",
+            "example": "El cansancio puede ser una señal de alerta.",
+            "tier": "B2"
+          },
+          {
+            "front": "agravarse",
+            "pos": "verb",
+            "back": "to get worse, to worsen",
+            "example": "Sin sombra, su estado se agravó.",
+            "tier": "B2"
+          },
+          {
+            "front": "el golpe de calor",
+            "pos": "noun",
+            "back": "heatstroke",
+            "example": "Lo llevaron al hospital por un golpe de calor.",
+            "tier": "B2"
+          },
+          {
+            "front": "vulnerable",
+            "pos": "adj",
+            "back": "vulnerable",
+            "example": "Los ancianos son más vulnerables al calor.",
+            "tier": "B2"
+          },
+          {
+            "front": "convenir",
+            "pos": "verb",
+            "back": "to be advisable, to be a good idea",
+            "example": "Conviene descansar a la sombra.",
+            "tier": "B2"
+          },
+          {
+            "front": "la sombra",
+            "pos": "noun",
+            "back": "shade",
+            "example": "Buscamos un poco de sombra bajo un árbol.",
+            "tier": "B1"
+          },
+          {
+            "front": "ligero/a",
+            "pos": "adj",
+            "back": "light (clothing, food)",
+            "example": "En verano prefiero ropa ligera.",
+            "tier": "B1"
+          },
+          {
+            "front": "el anciano / la anciana",
+            "pos": "noun",
+            "back": "elderly person",
+            "example": "Ayudaron a una anciana a cruzar la calle.",
+            "tier": "B1"
+          },
+          {
+            "front": "el riesgo",
+            "pos": "noun",
+            "back": "risk",
+            "example": "Beber agua reduce el riesgo de deshidratación.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Cuando el cuerpo se expone a un calor extremo durante horas, le cuesta mantener su temperatura normal y aparecen señales de alerta como el mareo, el dolor de cabeza y una sed muy fuerte.",
+            "point": "'costar + infinitivo' con pronombre de objeto indirecto",
+            "explanation": "'le cuesta mantener' significa que algo resulta difícil. El pronombre 'le' indica a quién (al cuerpo) le resulta difícil hacerlo.",
+            "why_tricky": "En inglés se diría 'it struggles to'; en español se usa 'costar' con un pronombre dativo, parecido a 'gustar'."
+          },
+          {
+            "sentence": "Conviene beber agua con frecuencia, aunque no se tenga sed, evitar el sol en las horas centrales del día y buscar lugares frescos o con sombra.",
+            "point": "'aunque' + subjuntivo y verbo impersonal 'conviene'",
+            "explanation": "'aunque no se tenga sed' usa el subjuntivo para expresar una concesión hipotética. 'Conviene' es impersonal y va seguido de infinitivos.",
+            "why_tricky": "Tras 'aunque' se elige indicativo o subjuntivo según el matiz; aquí el subjuntivo marca algo posible, no un hecho seguro."
+          },
+          {
+            "sentence": "Si no se actúa a tiempo, la situación puede derivar en un golpe de calor, peligroso sobre todo para las personas más vulnerables.",
+            "point": "'se' impersonal y oración condicional con 'si'",
+            "explanation": "'se actúa' es una construcción impersonal: no se dice quién actúa. La frase con 'si' + presente expresa una condición real.",
+            "why_tricky": "El 'se' impersonal no tiene equivalente directo en inglés, que usaría 'you' o la pasiva."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "poner a prueba",
+            "meaning": "someter algo o a alguien a una situación difícil para ver cómo responde",
+            "example": "El calor pone a prueba la salud de los mayores."
+          },
+          {
+            "phrase": "a tiempo",
+            "meaning": "en el momento adecuado, antes de que sea demasiado tarde",
+            "example": "Llegamos a tiempo para evitar el problema."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué señales de alerta puede mostrar el cuerpo cuando hace mucho calor?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué medidas recomiendan los expertos para protegerse del calor?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué los niños y los ancianos necesitan una atención especial durante una ola de calor?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Cómo afecta el calor extremo a tu ciudad o a tu rutina diaria? Escribe un párrafo explicando qué cambios haces para adaptarte a los días de mucho calor."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-29-sobrevivir-escombros",
+      "title": "Cuánto tiempo se puede sobrevivir bajo los escombros tras un terremoto y qué factores dan esperanza a los rescatistas",
+      "source": "BBC Mundo",
+      "date": "2026-06-29",
+      "level": "B1-B2",
+      "topics": [
+        "ciencia",
+        "terremoto"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-29-sobrevivir-escombros",
+        "revision": 1,
+        "meta": {
+          "title": "Cuánto tiempo se puede sobrevivir bajo los escombros tras un terremoto y qué factores dan esperanza a los rescatistas",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c74yw04e59wo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-29",
+          "date_processed": "2026-06-29",
+          "tags": [
+            "ciencia",
+            "terremoto"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "After an earthquake, rescue teams work day and night to reach the people who are trapped under the rubble, as is happening these days in Venezuela. One of the most distressing questions is how long someone can survive in those conditions. There is no single answer, because everything depends on several factors: access to water, the injuries suffered, the temperature and the space the person has to breathe.\n\nExperts usually point out that the first hours are the most decisive and that the chances decrease as the days go by. Even so, surprising rescues have been recorded much later than expected, above all when the victim manages to reach a little water. That is why rescuers do not give up and keep digging carefully among the ruins. Every person found alive becomes a symbol of hope in the middle of the tragedy.",
+        "resumen_es": "Tras un terremoto, los equipos de rescate trabajan día y noche para llegar a las personas que quedan atrapadas bajo los escombros, como ocurre estos días en Venezuela. Una de las preguntas más angustiosas es cuánto tiempo puede sobrevivir alguien en esas condiciones. No existe una respuesta única, porque todo depende de varios factores: el acceso al agua, las heridas sufridas, la temperatura y el espacio que la persona tenga para respirar.\n\nLos expertos suelen señalar que las primeras horas son las más decisivas y que las posibilidades disminuyen con el paso de los días. Aun así, se han registrado rescates sorprendentes mucho después de lo esperado, sobre todo cuando la víctima logra acceder a algo de agua. Por eso los rescatistas no se rinden y siguen excavando con cuidado entre las ruinas. Cada persona hallada con vida se convierte en un símbolo de esperanza en medio de la tragedia.",
+        "vocab": [
+          {
+            "front": "los escombros",
+            "pos": "noun",
+            "back": "rubble, debris",
+            "example": "Los bomberos buscaban entre los escombros.",
+            "tier": "B2"
+          },
+          {
+            "front": "el equipo de rescate",
+            "pos": "phrase",
+            "back": "rescue team",
+            "example": "Llegó un equipo de rescate de otro país.",
+            "tier": "B1"
+          },
+          {
+            "front": "atrapado/a",
+            "pos": "adj",
+            "back": "trapped",
+            "example": "Quedó atrapado en el ascensor.",
+            "tier": "B1"
+          },
+          {
+            "front": "angustioso/a",
+            "pos": "adj",
+            "back": "distressing, agonising",
+            "example": "Fue una espera angustiosa para la familia.",
+            "tier": "C1"
+          },
+          {
+            "front": "sobrevivir",
+            "pos": "verb",
+            "back": "to survive",
+            "example": "Lograron sobrevivir varios días sin comida.",
+            "tier": "B1"
+          },
+          {
+            "front": "la herida",
+            "pos": "noun",
+            "back": "wound, injury",
+            "example": "Tenía una herida en la pierna.",
+            "tier": "B1"
+          },
+          {
+            "front": "decisivo/a",
+            "pos": "adj",
+            "back": "decisive, crucial",
+            "example": "Las primeras horas fueron decisivas.",
+            "tier": "B2"
+          },
+          {
+            "front": "disminuir",
+            "pos": "verb",
+            "back": "to decrease, to diminish",
+            "example": "El frío disminuye con la llegada del sol.",
+            "tier": "B2"
+          },
+          {
+            "front": "rendirse",
+            "pos": "verb",
+            "back": "to give up",
+            "example": "No se rindieron pese al cansancio.",
+            "tier": "B2"
+          },
+          {
+            "front": "excavar",
+            "pos": "verb",
+            "back": "to dig",
+            "example": "Excavaron durante horas para llegar a él.",
+            "tier": "B2"
+          },
+          {
+            "front": "las ruinas",
+            "pos": "noun",
+            "back": "ruins",
+            "example": "La ciudad quedó en ruinas.",
+            "tier": "B1"
+          },
+          {
+            "front": "hallar",
+            "pos": "verb",
+            "back": "to find",
+            "example": "Hallaron a la niña sana y salva.",
+            "tier": "B2"
+          },
+          {
+            "front": "el/la rescatista",
+            "pos": "noun",
+            "back": "rescuer, rescue worker",
+            "example": "Los rescatistas trabajaron sin descanso.",
+            "tier": "B2"
+          },
+          {
+            "front": "lograr (+ infinitivo)",
+            "pos": "verb",
+            "back": "to manage to (do something)",
+            "example": "Logró salir antes del derrumbe.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "No existe una respuesta única, porque todo depende de varios factores: el acceso al agua, las heridas sufridas, la temperatura y el espacio que la persona tenga para respirar.",
+            "point": "Subjuntivo en oración de relativo con antecedente indefinido",
+            "explanation": "'el espacio que la persona tenga' usa el subjuntivo porque el espacio no es algo concreto y conocido, sino variable e incierto.",
+            "why_tricky": "Con un antecedente definido se usaría indicativo ('que tiene'); aquí la idea de incertidumbre exige el subjuntivo."
+          },
+          {
+            "sentence": "Los expertos suelen señalar que las primeras horas son las más decisivas y que las posibilidades disminuyen con el paso de los días.",
+            "point": "'soler + infinitivo' y superlativo",
+            "explanation": "'suelen señalar' expresa una costumbre o algo habitual. 'las más decisivas' es un superlativo que marca el grado máximo.",
+            "why_tricky": "'soler' no existe como verbo único en inglés; se traduce con 'usually' o 'tend to'."
+          },
+          {
+            "sentence": "Aun así, se han registrado rescates sorprendentes mucho después de lo esperado, sobre todo cuando la víctima logra acceder a algo de agua.",
+            "point": "'se' de pasiva refleja y 'lo + participio'",
+            "explanation": "'se han registrado' es una pasiva refleja: lo importante es el hecho, no quién lo registra. 'lo esperado' convierte un participio en un concepto ('lo que se esperaba').",
+            "why_tricky": "El grupo 'lo + adjetivo/participio' no tiene un equivalente exacto en inglés."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "día y noche",
+            "meaning": "de forma continua, sin parar",
+            "example": "Estudió día y noche para el examen."
+          },
+          {
+            "phrase": "aun así",
+            "meaning": "a pesar de eso, sin embargo",
+            "example": "Estaba cansado; aun así, terminó el trabajo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿De qué factores depende que una persona sobreviva bajo los escombros?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué los rescatistas siguen excavando aunque pasen los días?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué representa, según el texto, cada persona que es hallada con vida?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Qué crees que motiva a los equipos de rescate a seguir trabajando en situaciones tan difíciles? Escribe un párrafo con tu opinión."
+      }
+    },
     {
       "pack_id": "feed-2026-06-29-fiorella-herrera-ong",
       "title": "Fiorella Herrera: We Can Be Heroes, una ONG del Perú para el planeta",
@@ -6236,527 +6743,6 @@
           }
         ],
         "opinion_prompt": "Diez años después, ¿crees que separarse de un gran bloque económico puede compensar a un país? Razona tu respuesta en unas 80 palabras con ejemplos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-23-pesticidas-cafe",
-      "title": "Veneno en tu café: un informe alerta sobre el uso masivo de pesticidas en la producción mundial",
-      "source": "RFI Español",
-      "date": "2026-06-22",
-      "level": "B1-B2",
-      "topics": [
-        "medioambiente",
-        "alimentación"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-23-pesticidas-cafe",
-        "revision": 1,
-        "meta": {
-          "title": "Veneno en tu café: un informe alerta sobre el uso masivo de pesticidas en la producción mundial",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/medioambiente/20260622-veneno-en-tu-caf%C3%A9-un-informe-alerta-sobre-el-uso-masivo-de-pesticidas-en-la-producci%C3%B3n-mundial",
-          "date_published": "2026-06-22",
-          "date_processed": "2026-06-23",
-          "tags": [
-            "medioambiente",
-            "alimentación"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "A report has raised the alarm about the massive use of pesticides in the world's coffee production. According to the document, many crops use chemicals to fight pests and increase harvests, which leaves residues in the environment and in the consumer's cup. The authors warn that this practice affects farmers above all, since they handle these substances every day without proper protection.\n\nBeyond health, the problem has an environmental and social dimension. The intensive use of pesticides depletes the soil, pollutes water and endangers many species. For this reason, more and more voices are calling to bet on more sustainable coffee and on fairer trade with producing countries. In the meantime, experts recommend finding out about the origin of what we drink and supporting, whenever possible, production that respects the planet.",
-        "resumen_es": "Un informe ha encendido las alarmas sobre el uso masivo de pesticidas en la producción mundial de café. Según el documento, muchos cultivos usan productos químicos para combatir las plagas y aumentar las cosechas, lo que deja residuos en el medio ambiente y en la taza del consumidor. Los autores advierten de que esta práctica afecta sobre todo a los agricultores, que manipulan estas sustancias a diario sin la protección adecuada.\n\nMás allá de la salud, el problema tiene una dimensión ambiental y social. El uso intensivo de pesticidas empobrece los suelos, contamina el agua y pone en peligro a numerosas especies. Por eso, cada vez más voces piden apostar por un café más sostenible y por un comercio más justo con los países productores. Mientras tanto, los expertos recomiendan informarse sobre el origen de lo que bebemos y apoyar, cuando sea posible, una producción respetuosa con el planeta.",
-        "vocab": [
-          {
-            "front": "el informe",
-            "pos": "noun",
-            "back": "report",
-            "example": "El informe revela datos preocupantes.",
-            "tier": "B1"
-          },
-          {
-            "front": "encender las alarmas",
-            "pos": "phrase",
-            "back": "to set off alarm bells",
-            "example": "Los resultados encendieron las alarmas.",
-            "tier": "B2"
-          },
-          {
-            "front": "el cultivo",
-            "pos": "noun",
-            "back": "crop, cultivation",
-            "example": "El cultivo del café necesita mucha agua.",
-            "tier": "B1"
-          },
-          {
-            "front": "la plaga",
-            "pos": "noun",
-            "back": "pest, plague",
-            "example": "Una plaga destruyó parte de la cosecha.",
-            "tier": "B2"
-          },
-          {
-            "front": "la cosecha",
-            "pos": "noun",
-            "back": "harvest",
-            "example": "Este año la cosecha fue abundante.",
-            "tier": "B1"
-          },
-          {
-            "front": "el residuo",
-            "pos": "noun",
-            "back": "residue, waste",
-            "example": "El análisis encontró residuos químicos.",
-            "tier": "B2"
-          },
-          {
-            "front": "el agricultor",
-            "pos": "noun",
-            "back": "farmer",
-            "example": "Los agricultores trabajan de sol a sol.",
-            "tier": "B1"
-          },
-          {
-            "front": "manipular",
-            "pos": "verb",
-            "back": "to handle, to manipulate",
-            "example": "Hay que manipular estos productos con cuidado.",
-            "tier": "B2"
-          },
-          {
-            "front": "el suelo",
-            "pos": "noun",
-            "back": "soil, ground",
-            "example": "El abuso de químicos empobrece el suelo.",
-            "tier": "B1"
-          },
-          {
-            "front": "apostar por",
-            "pos": "verb",
-            "back": "to bet on, to commit to",
-            "example": "La empresa apuesta por la energía limpia.",
-            "tier": "B2"
-          },
-          {
-            "front": "sostenible",
-            "pos": "adj",
-            "back": "sustainable",
-            "example": "Buscan un modelo de turismo sostenible.",
-            "tier": "B1"
-          },
-          {
-            "front": "el comercio justo",
-            "pos": "phrase",
-            "back": "fair trade",
-            "example": "Compra café de comercio justo.",
-            "tier": "B2"
-          },
-          {
-            "front": "respetuoso",
-            "pos": "adj",
-            "back": "respectful (of), considerate",
-            "example": "Quieren una industria respetuosa con el planeta.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Los autores advierten de que esta práctica afecta sobre todo a los agricultores, que manipulan estas sustancias a diario sin la protección adecuada.",
-            "point": "'advertir de que' plus the personal 'a'",
-            "explanation": "'Advertir de que' introduces a warning with the indicative, and the personal 'a' appears before 'los agricultores' because they are specific people who are the object.",
-            "why_tricky": "English drops both the preposition after 'warn' and any marker before a human object, so learners forget the 'de' and the personal 'a'."
-          },
-          {
-            "sentence": "Por eso, cada vez más voces piden apostar por un café más sostenible y por un comercio más justo con los países productores.",
-            "point": "'cada vez más' and 'apostar por'",
-            "explanation": "'Cada vez más' means 'more and more' and intensifies the noun, while 'apostar por' takes the preposition 'por' before what one commits to.",
-            "why_tricky": "The fixed expression 'cada vez más' has no word-for-word English match, and 'apostar' changes meaning depending on its preposition."
-          },
-          {
-            "sentence": "Mientras tanto, los expertos recomiendan informarse sobre el origen de lo que bebemos y apoyar, cuando sea posible, una producción respetuosa con el planeta.",
-            "point": "'cuando' plus present subjunctive for future time",
-            "explanation": "After 'cuando' pointing to an unfixed future moment, Spanish uses the present subjunctive 'sea'. 'Recomendar' here is followed by infinitives ('informarse', 'apoyar').",
-            "why_tricky": "English uses the present indicative ('whenever it is possible'), so learners wrongly write 'cuando es posible' instead of 'cuando sea posible'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "de sol a sol",
-            "meaning": "from dawn to dusk, all day long",
-            "example": "Los jornaleros trabajan de sol a sol."
-          },
-          {
-            "phrase": "poner en peligro",
-            "meaning": "to put at risk, to endanger",
-            "example": "La contaminación pone en peligro muchas especies."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué se utilizan tantos pesticidas en el cultivo del café?",
-            "type": "open"
-          },
-          {
-            "q": "¿A quién afecta más esta práctica, según el informe, y por qué?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué soluciones proponen los expertos para una producción más sostenible?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Estarías dispuesto a pagar más por un café sostenible y de comercio justo? Explica en unas 80 palabras qué factores influirían en tu decisión."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-22-colombia-segunda-vuelta",
-      "title": "Qué tipo de país representan De la Espriella y Cepeda, los antagónicos aspirantes a presidir Colombia",
-      "source": "BBC Mundo",
-      "date": "2026-06-21",
-      "level": "B1-B2",
-      "topics": [
-        "política",
-        "elecciones"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-22-colombia-segunda-vuelta",
-        "revision": 1,
-        "meta": {
-          "title": "Qué tipo de país representan De la Espriella y Cepeda, los antagónicos aspirantes a presidir Colombia",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cz6v19e9dyvo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-06-21",
-          "date_processed": "2026-06-22",
-          "tags": [
-            "política",
-            "elecciones"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Colombia is holding the second round of its presidential election, and voters have to choose between two candidates who represent very different visions of the country. On one side is a right-wing contender, a supporter of a tough hand against insecurity; on the other, a left-wing candidate who promises deep social changes. The campaign has been marked by tension and by a strong atmosphere of polarisation.\n\nThis election comes at a delicate moment, because the violence of armed groups continues to affect many regions. For that reason, security has become one of the central themes of the debate. Whoever wins, the next president will have to govern a divided country and look for agreements to reduce the confrontation. Many analysts warn that the result could influence the direction of the whole region over the next few years.",
-        "resumen_es": "Colombia celebra la segunda vuelta de sus elecciones presidenciales y los votantes deben elegir entre dos candidatos que representan visiones muy distintas del país. Por un lado está un aspirante de derecha, partidario de la mano dura contra la inseguridad; por otro, un candidato de izquierda que promete cambios sociales profundos. La campaña ha estado marcada por la tensión y por un fuerte ambiente de polarización.\n\nEstas elecciones llegan en un momento delicado, ya que la violencia de los grupos armados sigue afectando a muchas regiones. Por eso, la seguridad se ha convertido en uno de los temas centrales del debate. Gane quien gane, el próximo presidente tendrá que gobernar un país dividido y buscar acuerdos para reducir la confrontación. Muchos analistas advierten que el resultado podría influir en el rumbo de toda la región durante los próximos años.",
-        "vocab": [
-          {
-            "front": "la segunda vuelta",
-            "pos": "noun",
-            "back": "the runoff, the second round (of voting)",
-            "example": "La segunda vuelta decidirá al ganador.",
-            "tier": "B1"
-          },
-          {
-            "front": "el votante",
-            "pos": "noun",
-            "back": "the voter",
-            "example": "Cada votante recibió una papeleta.",
-            "tier": "B1"
-          },
-          {
-            "front": "el aspirante",
-            "pos": "noun",
-            "back": "the candidate, the contender",
-            "example": "El aspirante prometió bajar los impuestos.",
-            "tier": "B2"
-          },
-          {
-            "front": "la mano dura",
-            "pos": "phrase",
-            "back": "a firm/tough approach, zero tolerance",
-            "example": "Pide mano dura contra el crimen.",
-            "tier": "B2"
-          },
-          {
-            "front": "la inseguridad",
-            "pos": "noun",
-            "back": "insecurity, lack of safety",
-            "example": "La inseguridad preocupa a los ciudadanos.",
-            "tier": "B1"
-          },
-          {
-            "front": "la polarización",
-            "pos": "noun",
-            "back": "polarisation",
-            "example": "La polarización divide a la sociedad.",
-            "tier": "B2"
-          },
-          {
-            "front": "los grupos armados",
-            "pos": "noun",
-            "back": "armed groups",
-            "example": "Los grupos armados controlan algunas zonas.",
-            "tier": "B1"
-          },
-          {
-            "front": "gobernar",
-            "pos": "verb",
-            "back": "to govern, to rule",
-            "example": "Gobernar un país dividido no es fácil.",
-            "tier": "B1"
-          },
-          {
-            "front": "el acuerdo",
-            "pos": "noun",
-            "back": "the agreement, the deal",
-            "example": "Las partes buscan un acuerdo.",
-            "tier": "B1"
-          },
-          {
-            "front": "la confrontación",
-            "pos": "noun",
-            "back": "the confrontation, the clash",
-            "example": "Quieren reducir la confrontación política.",
-            "tier": "B2"
-          },
-          {
-            "front": "el rumbo",
-            "pos": "noun",
-            "back": "the direction, the course",
-            "example": "El país cambió de rumbo.",
-            "tier": "B2"
-          },
-          {
-            "front": "advertir",
-            "pos": "verb",
-            "back": "to warn",
-            "example": "Los expertos advierten de un riesgo.",
-            "tier": "B2"
-          },
-          {
-            "front": "marcado por",
-            "pos": "phrase",
-            "back": "marked by, shaped by",
-            "example": "Fue una campaña marcada por la tensión.",
-            "tier": "B2"
-          },
-          {
-            "front": "delicado",
-            "pos": "adj",
-            "back": "delicate, sensitive",
-            "example": "Es un momento delicado para el país.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Gane quien gane, el próximo presidente tendrá que gobernar un país dividido y buscar acuerdos para reducir la confrontación.",
-            "point": "Concessive subjunctive with a reduplicated verb (gane... gane)",
-            "explanation": "The structure 'gane quien gane' uses the present subjunctive twice to mean 'whoever wins'. It expresses that the outcome does not change what follows.",
-            "why_tricky": "English uses 'whoever' plus indicative, so learners forget that Spanish needs the subjunctive in both halves of the formula."
-          },
-          {
-            "sentence": "Por eso, la seguridad se ha convertido en uno de los temas centrales del debate.",
-            "point": "Present perfect with the reflexive 'convertirse en'",
-            "explanation": "'Se ha convertido en' combines the present perfect (haber + participle) with the pronominal verb 'convertirse en', meaning 'has become'.",
-            "why_tricky": "Learners drop the reflexive 'se' or use 'volverse' incorrectly, and may confuse 'convertirse en' with 'convertir'."
-          },
-          {
-            "sentence": "La campaña ha estado marcada por la tensión y por un fuerte ambiente de polarización.",
-            "point": "Passive with 'estar' + past participle (resultant state)",
-            "explanation": "'Ha estado marcada por' shows the result of an action using estar plus an agreeing participle, with 'por' introducing the cause.",
-            "why_tricky": "Choosing 'estar' (state) over 'ser' (action) for the passive, and making the participle agree (marcada), trips up learners."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "gane quien gane",
-            "meaning": "no matter who wins, whoever wins",
-            "example": "Gane quien gane, habrá que negociar con la oposición."
-          },
-          {
-            "phrase": "la mano dura",
-            "meaning": "a tough, firm line, often in politics or security",
-            "example": "El gobierno prometió mano dura contra los delitos."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué diferencias hay entre los dos candidatos que se presentan a la segunda vuelta?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué la seguridad es un tema tan importante en estas elecciones?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué retos tendrá que afrontar el próximo presidente de Colombia?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que la mano dura es la mejor forma de combatir la inseguridad, o hacen falta otras medidas? Escribe tu opinión en unas 80 palabras."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-22-mujeres-prohibicion-alcohol",
-      "title": "Las mujeres que lograron prohibir el alcohol cuando EE.UU. era \"una nación de borrachos\"",
-      "source": "BBC Mundo",
-      "date": "2026-06-21",
-      "level": "B1-B2",
-      "topics": [
-        "historia",
-        "sociedad"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-22-mujeres-prohibicion-alcohol",
-        "revision": 1,
-        "meta": {
-          "title": "Las mujeres que lograron prohibir el alcohol cuando EE.UU. era \"una nación de borrachos\"",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cj07r20q3n2o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-06-21",
-          "date_processed": "2026-06-22",
-          "tags": [
-            "historia",
-            "sociedad"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "A historical feature recalls how, more than a century ago, many American women organised themselves to fight against the excessive consumption of alcohol. At that time, the abuse of drink caused poverty and violence in many homes, and women were often the main victims. For that reason, they decided to join together in social movements that demanded stricter laws.\n\nThat campaign had enormous consequences and, over time, it led to the prohibition of alcohol in the United States. However, the achievement of these women was even greater, because their activism also boosted the struggle for women's right to vote. So, what began as a protest against drink ended up strengthening the role of women in public life. Today, their story is remembered as an early example of citizen mobilisation.",
-        "resumen_es": "Un reportaje histórico recuerda cómo, hace más de un siglo, muchas mujeres estadounidenses se organizaron para luchar contra el consumo excesivo de alcohol. En aquella época, el abuso de la bebida causaba pobreza y violencia en muchos hogares, y las mujeres eran a menudo las principales víctimas. Por eso, decidieron unirse en movimientos sociales que exigían leyes más estrictas.\n\nAquella campaña tuvo consecuencias enormes y, con el tiempo, llevó a la prohibición del alcohol en Estados Unidos. Sin embargo, el logro de estas mujeres fue todavía mayor, porque su activismo también impulsó la lucha por el derecho al voto femenino. Así, lo que empezó como una protesta contra la bebida terminó fortaleciendo el papel de las mujeres en la vida pública. Hoy, su historia se recuerda como un ejemplo temprano de movilización ciudadana.",
-        "vocab": [
-          {
-            "front": "el reportaje",
-            "pos": "noun",
-            "back": "the feature, the report (journalism)",
-            "example": "Leí un reportaje muy interesante sobre el tema.",
-            "tier": "B1"
-          },
-          {
-            "front": "el consumo excesivo",
-            "pos": "phrase",
-            "back": "excessive consumption",
-            "example": "El consumo excesivo de azúcar es dañino.",
-            "tier": "B2"
-          },
-          {
-            "front": "el abuso",
-            "pos": "noun",
-            "back": "the abuse, the overuse",
-            "example": "El abuso del alcohol arruina familias.",
-            "tier": "B1"
-          },
-          {
-            "front": "el hogar",
-            "pos": "noun",
-            "back": "the home, the household",
-            "example": "Volvió a su hogar después del trabajo.",
-            "tier": "B1"
-          },
-          {
-            "front": "exigir",
-            "pos": "verb",
-            "back": "to demand",
-            "example": "Los manifestantes exigen un cambio.",
-            "tier": "B2"
-          },
-          {
-            "front": "la ley",
-            "pos": "noun",
-            "back": "the law",
-            "example": "Aprobaron una nueva ley contra el ruido.",
-            "tier": "B1"
-          },
-          {
-            "front": "el logro",
-            "pos": "noun",
-            "back": "the achievement",
-            "example": "Ganar el premio fue un gran logro.",
-            "tier": "B1"
-          },
-          {
-            "front": "impulsar",
-            "pos": "verb",
-            "back": "to drive, to boost",
-            "example": "La crisis impulsó nuevas ideas.",
-            "tier": "B2"
-          },
-          {
-            "front": "el derecho al voto",
-            "pos": "phrase",
-            "back": "the right to vote",
-            "example": "Lucharon durante años por el derecho al voto.",
-            "tier": "B1"
-          },
-          {
-            "front": "la movilización",
-            "pos": "noun",
-            "back": "the mobilisation",
-            "example": "Hubo una gran movilización social.",
-            "tier": "B2"
-          },
-          {
-            "front": "fortalecer",
-            "pos": "verb",
-            "back": "to strengthen",
-            "example": "El éxito fortaleció su confianza.",
-            "tier": "B2"
-          },
-          {
-            "front": "a menudo",
-            "pos": "adv",
-            "back": "often",
-            "example": "A menudo llueve en otoño.",
-            "tier": "B1"
-          },
-          {
-            "front": "estricto",
-            "pos": "adj",
-            "back": "strict",
-            "example": "El profesor es muy estricto con los horarios.",
-            "tier": "B1"
-          },
-          {
-            "front": "con el tiempo",
-            "pos": "phrase",
-            "back": "over time, eventually",
-            "example": "Con el tiempo, todo mejora.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "En aquella época, el abuso de la bebida causaba pobreza y violencia en muchos hogares, y las mujeres eran a menudo las principales víctimas.",
-            "point": "Imperfect tense for past description and habit",
-            "explanation": "'Causaba' and 'eran' are imperfect forms used to describe an ongoing situation and a repeated reality in the past, without marking a clear end.",
-            "why_tricky": "Learners often switch to the preterite, but here the situation is background, not a single completed event."
-          },
-          {
-            "sentence": "su activismo también impulsó la lucha por el derecho al voto femenino",
-            "point": "Preterite for a completed, decisive action",
-            "explanation": "'Impulsó' is preterite because it presents a finished action that produced a result, contrasting with the imperfect background earlier.",
-            "why_tricky": "Mixing imperfect (background) and preterite (key events) in the same text is one of the hardest choices in Spanish."
-          },
-          {
-            "sentence": "Así, lo que empezó como una protesta contra la bebida terminó fortaleciendo el papel de las mujeres en la vida pública.",
-            "point": "Verbal periphrasis 'terminar + gerundio'",
-            "explanation": "'Terminó fortaleciendo' means 'ended up strengthening'; terminar plus a gerund expresses the final result of a process.",
-            "why_tricky": "English uses 'ended up + -ing' too, but learners may translate literally with 'terminar de', which means something different."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "con el tiempo",
-            "meaning": "as time goes by, eventually",
-            "example": "Con el tiempo aprenderás a hacerlo sin esfuerzo."
-          },
-          {
-            "phrase": "a menudo",
-            "meaning": "frequently, often",
-            "example": "A menudo pienso en aquel viaje a México."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué muchas mujeres decidieron luchar contra el consumo de alcohol?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué consecuencias tuvo aquella campaña en Estados Unidos?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué se considera que el logro de estas mujeres fue doble?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que los movimientos ciudadanos pueden cambiar de verdad las leyes de un país? Justifica tu respuesta en unas 80 palabras."
       }
     }
   ]
