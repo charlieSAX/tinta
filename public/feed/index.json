@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-06-30T20:17:29Z",
+  "generated_at": "2026-07-01T08:20:01Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-07-01-bukele-megacarceles-modelo",
+      "title": "Cómo las megacárceles de Bukele se convirtieron en un modelo para la derecha radical (y qué ha pasado donde se han replicado)",
+      "source": "BBC Mundo",
+      "date": "2026-07-01",
+      "level": "B1-B2",
+      "topics": [
+        "política",
+        "seguridad"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-01-bukele-megacarceles-modelo",
+        "revision": 1,
+        "meta": {
+          "title": "Cómo las megacárceles de Bukele se convirtieron en un modelo para la derecha radical (y qué ha pasado donde se han replicado)",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c24y9nzn3e1o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-23",
+          "date_processed": "2026-07-01",
+          "tags": [
+            "política",
+            "seguridad"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The tough-on-crime policy of Salvadoran president Bukele has become a model for several radical right-wing leaders in Latin America and Europe. His strategy is based on mass arrests and on building huge prisons, known as mega-prisons, where thousands of suspected gang members are locked up. Many citizens applaud these measures because, at last, they feel they can walk down the street without fear. Other voices, however, denounce serious abuses and the detention of innocent people.\n\nWhen other governments have tried to copy this method, the results have been limited. In some countries, a lack of resources and weak institutions make it impossible to apply the model exactly as it works in El Salvador. That is why, while some see Bukele as an example to follow, others warn that sacrificing human rights rarely offers a lasting solution. The debate remains open and divides society.",
+        "resumen_es": "La política de mano dura del presidente salvadoreño Bukele se ha convertido en un modelo para varios líderes de la derecha radical en América Latina y Europa. Su estrategia se basa en detenciones masivas y en la construcción de enormes prisiones, conocidas como megacárceles, donde se encierra a miles de presuntos pandilleros. Muchos ciudadanos aplauden estas medidas porque, por fin, sienten que pueden caminar por la calle sin miedo. Otras voces, sin embargo, denuncian graves abusos y detenciones de inocentes.\n\nCuando otros gobiernos han intentado copiar este método, los resultados han sido limitados. En algunos países, la falta de recursos y unas instituciones débiles impiden aplicar el modelo tal y como funciona en El Salvador. Por eso, mientras unos ven en Bukele un ejemplo a seguir, otros advierten de que sacrificar los derechos humanos rara vez ofrece una solución duradera. El debate sigue abierto y divide a la sociedad.",
+        "vocab": [
+          {
+            "front": "mano dura",
+            "pos": "phrase",
+            "back": "a tough, heavy-handed approach; a crackdown",
+            "example": "El gobierno prometió mano dura contra el crimen.",
+            "tier": "B2"
+          },
+          {
+            "front": "detención masiva",
+            "pos": "noun",
+            "back": "mass arrest or detention",
+            "example": "Las detenciones masivas llenaron las cárceles.",
+            "tier": "B2"
+          },
+          {
+            "front": "encerrar",
+            "pos": "verb",
+            "back": "to lock up, imprison",
+            "example": "Encerraron a los sospechosos durante meses.",
+            "tier": "B1"
+          },
+          {
+            "front": "presunto/a",
+            "pos": "adj",
+            "back": "alleged, suspected",
+            "example": "Detuvieron a un presunto ladrón.",
+            "tier": "B2"
+          },
+          {
+            "front": "pandillero",
+            "pos": "noun",
+            "back": "gang member",
+            "example": "La policía busca a varios pandilleros.",
+            "tier": "B2"
+          },
+          {
+            "front": "aplaudir una medida",
+            "pos": "verb",
+            "back": "to applaud or welcome a measure",
+            "example": "Muchos aplaudieron la nueva ley.",
+            "tier": "B1"
+          },
+          {
+            "front": "denunciar",
+            "pos": "verb",
+            "back": "to report, denounce, condemn",
+            "example": "Las ONG denunciaron los abusos.",
+            "tier": "B1"
+          },
+          {
+            "front": "abuso",
+            "pos": "noun",
+            "back": "abuse, mistreatment",
+            "example": "Investigan abusos dentro de la prisión.",
+            "tier": "B1"
+          },
+          {
+            "front": "derechos humanos",
+            "pos": "phrase",
+            "back": "human rights",
+            "example": "Defienden los derechos humanos de los presos.",
+            "tier": "B1"
+          },
+          {
+            "front": "ejemplo a seguir",
+            "pos": "phrase",
+            "back": "a role model, example to follow",
+            "example": "Para ellos, es un ejemplo a seguir.",
+            "tier": "B2"
+          },
+          {
+            "front": "duradero/a",
+            "pos": "adj",
+            "back": "lasting, durable",
+            "example": "Todos buscan una paz duradera.",
+            "tier": "B2"
+          },
+          {
+            "front": "renunciar a",
+            "pos": "verb",
+            "back": "to give up, renounce",
+            "example": "No quiere renunciar a su libertad.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Su estrategia se basa en detenciones masivas y en la construcción de enormes prisiones, conocidas como megacárceles, donde se encierra a miles de presuntos pandilleros.",
+            "point": "'se' impersonal/pasivo (se encierra)",
+            "explanation": "'Se encierra a miles de...' usa el pronombre 'se' para expresar la acción sin decir quién la hace, como el inglés 'are locked up'. La 'a' delante de las personas es la 'a' personal.",
+            "why_tricky": "El inglés usa la pasiva ('are locked up'), mientras que el español prefiere 'se' + verbo en singular aunque el objeto sea plural."
+          },
+          {
+            "sentence": "Muchos ciudadanos aplauden estas medidas porque, por fin, sienten que pueden caminar por la calle sin miedo.",
+            "point": "'sentir que' + indicativo",
+            "explanation": "Después de 'sienten que', que expresa percepción o creencia afirmativa, el español usa el indicativo ('pueden'), no el subjuntivo.",
+            "why_tricky": "Muchos estudiantes añaden el subjuntivo tras 'que', pero los verbos de percepción en afirmativo piden indicativo."
+          },
+          {
+            "sentence": "Por eso, mientras unos ven en Bukele un ejemplo a seguir, otros advierten de que sacrificar los derechos humanos rara vez ofrece una solución duradera.",
+            "point": "Contraste 'unos... otros...' y 'advertir de que'",
+            "explanation": "'Unos... otros...' contrasta dos grupos ('some... others...'). 'Advertir de que' lleva 'de' antes de la oración subordinada.",
+            "why_tricky": "La construcción 'de que' (queísmo/dequeísmo) confunde; con 'advertir' el 'de que' es correcto."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "mano dura",
+            "meaning": "a tough, uncompromising approach, especially on crime or discipline",
+            "example": "Los vecinos piden mano dura contra la delincuencia."
+          },
+          {
+            "phrase": "por fin",
+            "meaning": "at last, finally, after a long wait",
+            "example": "Por fin llegó el verano."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿En qué se basa la estrategia de seguridad de Bukele?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué crees que muchos ciudadanos apoyan estas medidas?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué problemas han surgido cuando otros países han intentado copiar el modelo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que vale la pena renunciar a algunas libertades a cambio de más seguridad? Escribe un párrafo explicando tu opinión con ejemplos."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-01-sentadilla-asiatica-salud",
+      "title": "Por qué dominar la \"sentadilla asiática\" es clave para nuestra salud",
+      "source": "BBC Mundo",
+      "date": "2026-07-01",
+      "level": "B1-B2",
+      "topics": [
+        "salud",
+        "bienestar"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-01-sentadilla-asiatica-salud",
+        "revision": 1,
+        "meta": {
+          "title": "Por qué dominar la \"sentadilla asiática\" es clave para nuestra salud",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cx2kln8gpwzo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-14",
+          "date_processed": "2026-07-01",
+          "tags": [
+            "salud",
+            "bienestar"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The Asian squat means crouching down, with your feet resting on the floor and your back straight. Although many Westerners find it uncomfortable, in many cultures across Asia it is a natural posture that people adopt to rest, cook or wait for the bus. Experts say it is one of the most basic movements of the human body and yet, little by little, we have been losing it because of a sedentary lifestyle and so many hours sitting in chairs.\n\nPractising this posture brings several benefits. It helps keep the hips, ankles and knees flexible, and improves balance. Besides, it needs no equipment or gym: a few minutes a day is enough. That said, it is best to start slowly and, if necessary, lean on a wall or a chair. Recovering this simple movement could be a cheap way to look after the body at any age.",
+        "resumen_es": "La sentadilla asiática consiste en ponerse en cuclillas, con los pies apoyados en el suelo y la espalda recta. Aunque a muchos occidentales les resulta incómoda, en numerosas culturas de Asia es una postura natural que la gente adopta para descansar, cocinar o esperar el autobús. Los expertos aseguran que se trata de uno de los movimientos más básicos del cuerpo humano y que, poco a poco, lo hemos ido perdiendo por culpa del sedentarismo y de tantas horas sentados en sillas.\n\nPracticar esta postura aporta varios beneficios. Ayuda a mantener flexibles las caderas, los tobillos y las rodillas, y mejora el equilibrio. Además, no requiere ningún material ni gimnasio: basta con dedicarle unos minutos al día. Eso sí, conviene empezar despacio y, si hace falta, apoyarse en una pared o en una silla. Recuperar este gesto sencillo podría ser una forma barata de cuidar el cuerpo a cualquier edad.",
+        "vocab": [
+          {
+            "front": "ponerse en cuclillas",
+            "pos": "phrase",
+            "back": "to squat down, crouch",
+            "example": "Se puso en cuclillas para atarse los zapatos.",
+            "tier": "B2"
+          },
+          {
+            "front": "sentadilla",
+            "pos": "noun",
+            "back": "squat (exercise)",
+            "example": "Hago sentadillas en el gimnasio.",
+            "tier": "B1"
+          },
+          {
+            "front": "apoyado/a",
+            "pos": "adj",
+            "back": "resting on, supported",
+            "example": "Estaba apoyado en la pared.",
+            "tier": "B1"
+          },
+          {
+            "front": "espalda recta",
+            "pos": "phrase",
+            "back": "straight back",
+            "example": "Siéntate con la espalda recta.",
+            "tier": "B1"
+          },
+          {
+            "front": "postura",
+            "pos": "noun",
+            "back": "posture, position",
+            "example": "Una buena postura evita dolores.",
+            "tier": "B1"
+          },
+          {
+            "front": "sedentarismo",
+            "pos": "noun",
+            "back": "sedentary lifestyle",
+            "example": "El sedentarismo perjudica la salud.",
+            "tier": "B2"
+          },
+          {
+            "front": "cadera",
+            "pos": "noun",
+            "back": "hip",
+            "example": "Le duele la cadera derecha.",
+            "tier": "B1"
+          },
+          {
+            "front": "tobillo",
+            "pos": "noun",
+            "back": "ankle",
+            "example": "Se torció el tobillo corriendo.",
+            "tier": "B1"
+          },
+          {
+            "front": "rodilla",
+            "pos": "noun",
+            "back": "knee",
+            "example": "Me duele la rodilla al subir escaleras.",
+            "tier": "B1"
+          },
+          {
+            "front": "equilibrio",
+            "pos": "noun",
+            "back": "balance",
+            "example": "El yoga mejora el equilibrio.",
+            "tier": "B1"
+          },
+          {
+            "front": "basta con",
+            "pos": "phrase",
+            "back": "it is enough to",
+            "example": "Basta con caminar media hora al día.",
+            "tier": "B2"
+          },
+          {
+            "front": "poco a poco",
+            "pos": "adv",
+            "back": "little by little, gradually",
+            "example": "Poco a poco fue mejorando.",
+            "tier": "B1"
+          },
+          {
+            "front": "por culpa de",
+            "pos": "phrase",
+            "back": "because of, due to (negative cause)",
+            "example": "Llegó tarde por culpa del tráfico.",
+            "tier": "B2"
+          },
+          {
+            "front": "eso sí",
+            "pos": "phrase",
+            "back": "that said, mind you",
+            "example": "Es barato; eso sí, tarda mucho.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Aunque a muchos occidentales les resulta incómoda, en numerosas culturas de Asia es una postura natural que la gente adopta para descansar, cocinar o esperar el autobús.",
+            "point": "'resultar' + objeto indirecto (les resulta)",
+            "explanation": "'Resultar' funciona como 'gustar': lo que resulta incómodo es el sujeto, y 'les' marca a las personas que lo experimentan.",
+            "why_tricky": "El orden y el pronombre de objeto indirecto parecen invertidos para el hablante de inglés, que diría 'they find it uncomfortable'."
+          },
+          {
+            "sentence": "Los expertos aseguran que se trata de uno de los movimientos más básicos del cuerpo humano y que, poco a poco, lo hemos ido perdiendo por culpa del sedentarismo y de tantas horas sentados en sillas.",
+            "point": "'ir + gerundio' (lo hemos ido perdiendo)",
+            "explanation": "'Ir + gerundio' expresa un proceso gradual y progresivo. Aquí va en pretérito perfecto: 'hemos ido perdiendo'.",
+            "why_tricky": "Esta perífrasis no tiene un equivalente exacto en inglés y se combina con el perfecto y el pronombre 'lo'."
+          },
+          {
+            "sentence": "Eso sí, conviene empezar despacio y, si hace falta, apoyarse en una pared o en una silla.",
+            "point": "'conviene' impersonal + infinitivo",
+            "explanation": "'Conviene' (es aconsejable) es impersonal y va seguido directamente de un infinitivo: 'conviene empezar'.",
+            "why_tricky": "El estudiante busca un sujeto o añade 'que'; con una recomendación general se usa el infinitivo."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "eso sí",
+            "meaning": "that said / mind you (adds a caveat)",
+            "example": "El hotel era barato; eso sí, muy ruidoso."
+          },
+          {
+            "phrase": "poco a poco",
+            "meaning": "little by little, gradually",
+            "example": "Poco a poco aprenderás el idioma."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿En qué consiste exactamente la sentadilla asiática?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué hemos perdido esta postura en Occidente, según el texto?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué beneficios para la salud menciona el artículo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Qué hábitos sencillos incluyes o te gustaría incluir en tu día a día para cuidar tu salud? Escribe unas líneas."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-01-venezuela-rescate-bebe",
+      "title": "\"El bebé fue mi motor para estar despierta y alerta\": la BBC habla con la madre rescatada junto a su hijo de 18 días en Venezuela",
+      "source": "BBC Mundo",
+      "date": "2026-07-01",
+      "level": "B1-B2",
+      "topics": [
+        "sociedad",
+        "actualidad"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-01-venezuela-rescate-bebe",
+        "revision": 1,
+        "meta": {
+          "title": "\"El bebé fue mi motor para estar despierta y alerta\": la BBC habla con la madre rescatada junto a su hijo de 18 días en Venezuela",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c2lygvnzlg7o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-06-29",
+          "date_processed": "2026-07-01",
+          "tags": [
+            "sociedad",
+            "actualidad"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "A mother and her eighteen-day-old baby were pulled out alive from the rubble after the powerful earthquakes that shook Venezuela. In an interview, the woman said that thinking about her son helped her stay awake and alert during the long hours they spent trapped. Neighbours, relatives and rescue teams worked without rest, removing stones by hand, until they managed to get them out. The scene, full of emotion, became a symbol of hope for the country.\n\nStories like this one offer comfort in the middle of an enormous tragedy. While search operations continue, the authorities are asking for more resources to care for those affected. Many Venezuelans, moreover, have thrown themselves into helping their neighbours, sharing food and shelter. In such difficult moments, these gestures of solidarity remind us that, even in the face of the worst catastrophe, mutual help can make a difference.",
+        "resumen_es": "Una madre y su bebé de dieciocho días fueron rescatados con vida entre los escombros después de los fuertes terremotos que sacudieron Venezuela. En una entrevista, la mujer contó que pensar en su hijo la ayudó a mantenerse despierta y alerta durante las largas horas que pasaron atrapados. Vecinos, familiares y equipos de rescate trabajaron sin descanso, quitando piedras con las manos, hasta que lograron sacarlos. La escena, cargada de emoción, se convirtió en un símbolo de esperanza para el país.\n\nHistorias como esta ofrecen consuelo en medio de una tragedia enorme. Mientras continúan las tareas de búsqueda, las autoridades piden más recursos para atender a los afectados. Muchos venezolanos, además, se han volcado en ayudar a sus vecinos, compartiendo comida y refugio. En momentos tan difíciles, estos gestos de solidaridad recuerdan que, incluso ante la peor de las catástrofes, la ayuda mutua puede marcar la diferencia.",
+        "vocab": [
+          {
+            "front": "escombros",
+            "pos": "noun",
+            "back": "rubble, debris",
+            "example": "Buscaron sobrevivientes entre los escombros.",
+            "tier": "B2"
+          },
+          {
+            "front": "rescatar",
+            "pos": "verb",
+            "back": "to rescue",
+            "example": "Los bomberos rescataron a la familia.",
+            "tier": "B1"
+          },
+          {
+            "front": "atrapado/a",
+            "pos": "adj",
+            "back": "trapped",
+            "example": "Quedó atrapado en el ascensor.",
+            "tier": "B1"
+          },
+          {
+            "front": "sin descanso",
+            "pos": "phrase",
+            "back": "without rest, non-stop",
+            "example": "Trabajaron sin descanso toda la noche.",
+            "tier": "B1"
+          },
+          {
+            "front": "maquinaria",
+            "pos": "noun",
+            "back": "machinery",
+            "example": "Llegó maquinaria pesada para retirar el muro.",
+            "tier": "B2"
+          },
+          {
+            "front": "lograr",
+            "pos": "verb",
+            "back": "to manage to, achieve",
+            "example": "Lograron abrir la puerta.",
+            "tier": "B1"
+          },
+          {
+            "front": "cargado/a de",
+            "pos": "phrase",
+            "back": "full of, loaded with",
+            "example": "Fue un discurso cargado de emoción.",
+            "tier": "B2"
+          },
+          {
+            "front": "consuelo",
+            "pos": "noun",
+            "back": "comfort, consolation",
+            "example": "Sus palabras fueron un gran consuelo.",
+            "tier": "B2"
+          },
+          {
+            "front": "víctima",
+            "pos": "noun",
+            "back": "victim",
+            "example": "El accidente dejó varias víctimas.",
+            "tier": "B1"
+          },
+          {
+            "front": "volcarse en",
+            "pos": "verb",
+            "back": "to throw oneself into, devote oneself to",
+            "example": "Se volcó en ayudar a los demás.",
+            "tier": "B2"
+          },
+          {
+            "front": "refugio",
+            "pos": "noun",
+            "back": "shelter, refuge",
+            "example": "Abrieron un refugio para los afectados.",
+            "tier": "B1"
+          },
+          {
+            "front": "solidaridad",
+            "pos": "noun",
+            "back": "solidarity",
+            "example": "La solidaridad de los vecinos fue clave.",
+            "tier": "B1"
+          },
+          {
+            "front": "marcar la diferencia",
+            "pos": "phrase",
+            "back": "to make a difference",
+            "example": "Un pequeño gesto puede marcar la diferencia.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Una madre y su bebé de dieciocho días fueron rescatados con vida entre los escombros después de los fuertes terremotos que sacudieron Venezuela.",
+            "point": "Pasiva con 'ser' (fueron rescatados)",
+            "explanation": "'Fueron rescatados' es la pasiva verdadera: ser + participio, que concuerda en género y número con el sujeto ('rescatados', masculino plural).",
+            "why_tricky": "El español suele preferir la pasiva con 'se'; la pasiva con 'ser' aparece sobre todo en la prensa, y el participio debe concordar."
+          },
+          {
+            "sentence": "En una entrevista, la mujer contó que pensar en su hijo la ayudó a mantenerse despierta y alerta durante las largas horas que pasaron atrapados.",
+            "point": "Infinitivo como sujeto (pensar en su hijo la ayudó)",
+            "explanation": "Un infinitivo puede funcionar como sustantivo o sujeto: 'pensar en su hijo' = 'thinking about her son'. 'La' es el objeto directo que se refiere a la mujer.",
+            "why_tricky": "El inglés usa la forma en -ing como sujeto; el español usa el infinitivo simple, no el gerundio."
+          },
+          {
+            "sentence": "En momentos tan difíciles, estos gestos de solidaridad recuerdan que, incluso ante la peor de las catástrofes, la ayuda mutua puede marcar la diferencia.",
+            "point": "'tan + adjetivo' para la intensidad",
+            "explanation": "'Tan difíciles' significa 'so difficult'. 'Tan' intensifica un adjetivo, a diferencia de 'tanto', que acompaña a sustantivos o verbos.",
+            "why_tricky": "Los estudiantes confunden 'tan' (so + adjetivo/adverbio) y 'tanto' (so much/many)."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "sin descanso",
+            "meaning": "without a break, tirelessly",
+            "example": "Estudió sin descanso para el examen."
+          },
+          {
+            "phrase": "marcar la diferencia",
+            "meaning": "to make a real difference",
+            "example": "Un buen profesor puede marcar la diferencia."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Cómo consiguió la madre mantenerse despierta mientras estaba atrapada?",
+            "type": "open"
+          },
+          {
+            "q": "¿Quiénes participaron en las tareas de rescate?",
+            "type": "open"
+          },
+          {
+            "q": "¿De qué manera están ayudando muchos venezolanos a sus vecinos?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Por qué crees que las historias de solidaridad son tan importantes durante una catástrofe? Escribe un breve texto con tu opinión."
+      }
+    },
     {
       "pack_id": "feed-2026-06-30-reino-unido-brexit-10-anos",
       "title": "4 grandes cambios en Reino Unido 10 años después del referendo sobre su salida de la Unión Europea (y qué tan posible es ahora su regreso al bloque)",
@@ -6292,506 +6799,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que el crecimiento económico de un país siempre mejora la vida de toda su población? Escribe un párrafo explicando tu opinión con ejemplos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-24-euclid-via-lactea",
-      "title": "La espectacular imagen captada por un telescopio que muestra 60 millones de estrellas a la vez en la Vía Láctea",
-      "source": "BBC Mundo",
-      "date": "2026-06-24",
-      "level": "B1-B2",
-      "topics": [
-        "ciencia",
-        "espacio"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-24-euclid-via-lactea",
-        "revision": 1,
-        "meta": {
-          "title": "La espectacular imagen captada por un telescopio que muestra 60 millones de estrellas a la vez en la Vía Láctea",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/ce8k40prxywo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-06-24",
-          "date_processed": "2026-06-24",
-          "tags": [
-            "ciencia",
-            "espacio"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The Euclid space telescope has once again amazed the world with an extraordinary image of the Milky Way. In March 2025, this instrument managed to capture more than 60 million stars in a single shot, as well as nebulae and star clusters. The photograph, of astonishing sharpness, makes it possible to observe regions of our galaxy in a detail that was previously unthinkable.\n\nEuclid is a mission of the European Space Agency designed to study the universe on a large scale. Its main goal is to investigate dark matter and dark energy, two of the great puzzles of current physics. Thanks to its powerful camera, scientists will be able to create detailed maps of the sky over the coming years. Each image, therefore, not only dazzles with its beauty, but also provides valuable data for understanding how the cosmos was formed.",
-        "resumen_es": "El telescopio espacial Euclid ha vuelto a sorprender al mundo con una imagen extraordinaria de la Vía Láctea. En marzo de 2025, este instrumento logró captar más de 60 millones de estrellas en una sola toma, además de nebulosas y cúmulos estelares. La fotografía, de una nitidez asombrosa, permite observar regiones de nuestra galaxia con un detalle que antes resultaba impensable.\n\nEuclid es una misión de la Agencia Espacial Europea diseñada para estudiar el universo a gran escala. Su principal objetivo consiste en investigar la materia oscura y la energía oscura, dos de los grandes enigmas de la física actual. Gracias a su potente cámara, los científicos podrán elaborar mapas detallados del cielo durante los próximos años. Cada imagen, por tanto, no solo deslumbra por su belleza, sino que también aporta datos valiosos para entender cómo se formó el cosmos.",
-        "vocab": [
-          {
-            "front": "el telescopio espacial",
-            "pos": "noun",
-            "back": "space telescope",
-            "example": "El telescopio espacial envió nuevas imágenes a la Tierra.",
-            "tier": "B1"
-          },
-          {
-            "front": "captar",
-            "pos": "verb",
-            "back": "to capture, pick up",
-            "example": "La cámara logró captar el momento exacto.",
-            "tier": "B2"
-          },
-          {
-            "front": "la nebulosa",
-            "pos": "noun",
-            "back": "nebula",
-            "example": "Esa nebulosa está a miles de años luz.",
-            "tier": "C1"
-          },
-          {
-            "front": "el cúmulo estelar",
-            "pos": "noun",
-            "back": "star cluster",
-            "example": "Observaron un cúmulo estelar muy brillante.",
-            "tier": "C1"
-          },
-          {
-            "front": "la nitidez",
-            "pos": "noun",
-            "back": "sharpness, clarity",
-            "example": "La imagen tiene una nitidez increíble.",
-            "tier": "B2"
-          },
-          {
-            "front": "asombroso",
-            "pos": "adj",
-            "back": "astonishing, amazing",
-            "example": "Fue un descubrimiento asombroso.",
-            "tier": "B2"
-          },
-          {
-            "front": "impensable",
-            "pos": "adj",
-            "back": "unthinkable",
-            "example": "Hace años, esto era impensable.",
-            "tier": "B2"
-          },
-          {
-            "front": "la materia oscura",
-            "pos": "noun",
-            "back": "dark matter",
-            "example": "La materia oscura sigue siendo un misterio.",
-            "tier": "C1"
-          },
-          {
-            "front": "el enigma",
-            "pos": "noun",
-            "back": "enigma, puzzle",
-            "example": "Su desaparición sigue siendo un enigma.",
-            "tier": "B2"
-          },
-          {
-            "front": "deslumbrar",
-            "pos": "verb",
-            "back": "to dazzle",
-            "example": "El espectáculo deslumbró a todos.",
-            "tier": "B2"
-          },
-          {
-            "front": "aportar",
-            "pos": "verb",
-            "back": "to provide, contribute",
-            "example": "El estudio aporta datos muy útiles.",
-            "tier": "B2"
-          },
-          {
-            "front": "a gran escala",
-            "pos": "phrase",
-            "back": "on a large scale",
-            "example": "Trabajan a gran escala en todo el país.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Gracias a su potente cámara, los científicos podrán elaborar mapas detallados del cielo durante los próximos años.",
-            "point": "Future tense with 'gracias a'",
-            "explanation": "'Podrán' is the simple future of 'poder'. 'Gracias a' introduces the cause that makes the future action possible.",
-            "why_tricky": "Learners may use the present 'pueden' when the sentence clearly refers to coming years."
-          },
-          {
-            "sentence": "Cada imagen, por tanto, no solo deslumbra por su belleza, sino que también aporta datos valiosos para entender cómo se formó el cosmos.",
-            "point": "Correlative 'no solo... sino que también'",
-            "explanation": "This structure adds a second, often stronger idea. When a conjugated verb follows, Spanish uses 'sino que', not just 'sino'.",
-            "why_tricky": "Students often write 'sino también' before a verb, but a verb requires 'sino que también'."
-          },
-          {
-            "sentence": "La fotografía, de una nitidez asombrosa, permite observar regiones de nuestra galaxia con un detalle que antes resultaba impensable.",
-            "point": "'Permitir' + infinitive",
-            "explanation": "'Permitir' is followed directly by an infinitive ('observar') to express what something makes possible.",
-            "why_tricky": "It is tempting to add 'de' or 'a' after 'permite', but no preposition is needed before the infinitive."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "estar en las nubes",
-            "meaning": "to be daydreaming, to have one's head in the clouds",
-            "example": "Durante la clase estaba en las nubes y no escuché nada."
-          },
-          {
-            "phrase": "pedir la luna",
-            "meaning": "to ask for the impossible",
-            "example": "Quiere terminar todo en un día: está pidiendo la luna."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué consiguió captar el telescopio Euclid en marzo de 2025?",
-            "type": "open"
-          },
-          {
-            "q": "¿Cuál es el principal objetivo de la misión Euclid?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué son importantes las imágenes que produce este telescopio?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que vale la pena invertir grandes sumas de dinero en la exploración del espacio? Justifica tu respuesta."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-24-sindrome-mujeres-nombre",
-      "title": "Por qué importa que le hayan cambiado el nombre a un síndrome que afecta a más de 170 millones de mujeres en el mundo",
-      "source": "BBC Mundo",
-      "date": "2026-06-20",
-      "level": "B1-B2",
-      "topics": [
-        "salud",
-        "mujeres"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-24-sindrome-mujeres-nombre",
-        "revision": 1,
-        "meta": {
-          "title": "Por qué importa que le hayan cambiado el nombre a un síndrome que afecta a más de 170 millones de mujeres en el mundo",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/clye12pyzreo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-06-20",
-          "date_processed": "2026-06-24",
-          "tags": [
-            "salud",
-            "mujeres"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "A syndrome that affects more than 170 million women around the world has just received a new name. With this change, specialists want to reflect what this condition really is: a multisystem disorder, that is, one that affects different parts of the body and not just one organ. For a long time, the illness has been misunderstood and ignored by much of the medical community.\n\nThe old name, according to the experts, was confusing and reduced the problem to a single symptom. For this reason, the new term seeks to give visibility to patients and encourage more accurate diagnoses. Changing the words, even if it seems a minor detail, can transform the way an ailment is understood and treated. After all, a clear name helps women receive the care they deserve and helps research move forward more quickly.",
-        "resumen_es": "Un síndrome que afecta a más de 170 millones de mujeres en el mundo acaba de recibir un nuevo nombre. Con este cambio, los especialistas quieren reflejar lo que realmente es esta condición: un trastorno multisistémico, es decir, que afecta a distintas partes del cuerpo y no solo a un órgano. Durante mucho tiempo, la enfermedad ha sido malinterpretada e ignorada por buena parte de la comunidad médica.\n\nEl nombre antiguo, según los expertos, resultaba confuso y reducía el problema a un único síntoma. Por eso, la nueva denominación busca dar visibilidad a las pacientes y fomentar diagnósticos más precisos. Cambiar las palabras, aunque parezca un detalle menor, puede transformar la manera en que se entiende y se trata una dolencia. Al fin y al cabo, un nombre claro ayuda a que las mujeres reciban la atención que merecen y a que la investigación avance con mayor rapidez.",
-        "vocab": [
-          {
-            "front": "el síndrome",
-            "pos": "noun",
-            "back": "syndrome",
-            "example": "Le diagnosticaron un síndrome poco común.",
-            "tier": "B1"
-          },
-          {
-            "front": "el trastorno",
-            "pos": "noun",
-            "back": "disorder",
-            "example": "Sufre un trastorno del sueño.",
-            "tier": "B2"
-          },
-          {
-            "front": "multisistémico",
-            "pos": "adj",
-            "back": "multisystem (affecting several systems)",
-            "example": "Es una enfermedad multisistémica compleja.",
-            "tier": "C1"
-          },
-          {
-            "front": "la dolencia",
-            "pos": "noun",
-            "back": "ailment, complaint",
-            "example": "Es una dolencia frecuente entre los mayores.",
-            "tier": "C1"
-          },
-          {
-            "front": "malinterpretar",
-            "pos": "verb",
-            "back": "to misunderstand, misinterpret",
-            "example": "Malinterpretaron sus palabras por completo.",
-            "tier": "B2"
-          },
-          {
-            "front": "la denominación",
-            "pos": "noun",
-            "back": "name, term, designation",
-            "example": "Cambiaron la denominación del producto.",
-            "tier": "B2"
-          },
-          {
-            "front": "el síntoma",
-            "pos": "noun",
-            "back": "symptom",
-            "example": "La fiebre es un síntoma común.",
-            "tier": "B1"
-          },
-          {
-            "front": "el diagnóstico",
-            "pos": "noun",
-            "back": "diagnosis",
-            "example": "El diagnóstico llegó demasiado tarde.",
-            "tier": "B1"
-          },
-          {
-            "front": "dar visibilidad",
-            "pos": "phrase",
-            "back": "to give visibility, raise awareness",
-            "example": "La campaña busca dar visibilidad al problema.",
-            "tier": "B2"
-          },
-          {
-            "front": "fomentar",
-            "pos": "verb",
-            "back": "to encourage, promote",
-            "example": "El programa fomenta la lectura entre los jóvenes.",
-            "tier": "B2"
-          },
-          {
-            "front": "la paciente",
-            "pos": "noun",
-            "back": "patient (female)",
-            "example": "La paciente respondió bien al tratamiento.",
-            "tier": "B1"
-          },
-          {
-            "front": "confuso",
-            "pos": "adj",
-            "back": "confusing, unclear",
-            "example": "El mensaje era bastante confuso.",
-            "tier": "B1"
-          },
-          {
-            "front": "afectar a",
-            "pos": "verb",
-            "back": "to affect",
-            "example": "La crisis afecta a millones de personas.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Por eso, la nueva denominación busca dar visibilidad a las pacientes y fomentar diagnósticos más precisos.",
-            "point": "'Buscar' + infinitive to express intention",
-            "explanation": "'Buscar' followed by an infinitive ('dar', 'fomentar') means 'to aim to / seek to' do something. 'Por eso' marks the consequence.",
-            "why_tricky": "Learners sometimes insert 'a' or 'de' after 'busca', but no preposition is needed."
-          },
-          {
-            "sentence": "Cambiar las palabras, aunque parezca un detalle menor, puede transformar la manera en que se entiende y se trata una dolencia.",
-            "point": "'Aunque' + subjunctive for concession",
-            "explanation": "When 'aunque' presents something as a possibility or downplays it, it takes the subjunctive 'parezca' instead of 'parece'.",
-            "why_tricky": "The choice between indicative and subjunctive after 'aunque' depends on nuance, which is hard to feel at first."
-          },
-          {
-            "sentence": "Al fin y al cabo, un nombre claro ayuda a que las mujeres reciban la atención que merecen y a que la investigación avance con mayor rapidez.",
-            "point": "'Ayudar a que' + subjunctive",
-            "explanation": "'Ayudar a que' introduces a result clause in the subjunctive, so we say 'reciban' and 'avance'.",
-            "why_tricky": "The preposition 'a' must be repeated before the second clause ('y a que'), which learners often forget."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "al fin y al cabo",
-            "meaning": "after all, when all is said and done",
-            "example": "Al fin y al cabo, lo importante es la salud."
-          },
-          {
-            "phrase": "poner el dedo en la llaga",
-            "meaning": "to touch a sore point, hit a nerve",
-            "example": "Con esa pregunta puso el dedo en la llaga."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué han decidido cambiar el nombre de este síndrome?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué problemas causaba el nombre antiguo, según los expertos?",
-            "type": "open"
-          },
-          {
-            "q": "¿Cómo puede ayudar un nombre más claro a las pacientes?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que el lenguaje que usamos para hablar de las enfermedades influye en cómo se tratan? Explica tu opinión."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-24-oracle-despidos-ia",
-      "title": "El gigante tecnológico Oracle despide a 21.000 empleados en su apuesta por la IA",
-      "source": "BBC Mundo",
-      "date": "2026-06-24",
-      "level": "B1-B2",
-      "topics": [
-        "tecnología",
-        "empleo"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-24-oracle-despidos-ia",
-        "revision": 1,
-        "meta": {
-          "title": "El gigante tecnológico Oracle despide a 21.000 empleados en su apuesta por la IA",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c14y701n3meo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-06-23",
-          "date_processed": "2026-06-24",
-          "tags": [
-            "tecnología",
-            "empleo"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The technology company Oracle has announced the dismissal of about 21,000 employees, a figure that represents around thirteen percent of its workforce. According to the company, these cuts are part of an ambitious bet on artificial intelligence, a sector in which many large firms are investing enormous amounts of money. The decision has caused concern among workers and has revived the debate about how automation is transforming the labour market.\n\nIn the long term, experts warn that this trend could affect millions of jobs around the world. While some tasks disappear, others emerge that demand new digital skills. For this reason, it is advisable for companies and governments to invest in training to help employees adapt.",
-        "resumen_es": "La empresa tecnológica Oracle ha anunciado el despido de unos 21.000 empleados, una cifra que representa alrededor del trece por ciento de su plantilla. Según la compañía, estos recortes forman parte de una ambiciosa apuesta por la inteligencia artificial, un sector en el que muchas grandes firmas están invirtiendo enormes cantidades de dinero. La decisión ha generado preocupación entre los trabajadores y ha reavivado el debate sobre cómo la automatización está transformando el mercado laboral.\n\nA largo plazo, los expertos advierten de que esta tendencia podría afectar a millones de puestos en todo el mundo. Mientras algunas tareas desaparecen, surgen otras que exigen nuevas habilidades digitales. Por ello, conviene que las empresas y los gobiernos inviertan en formación para ayudar a los empleados a adaptarse.",
-        "vocab": [
-          {
-            "front": "el despido",
-            "pos": "noun",
-            "back": "dismissal, layoff",
-            "example": "El despido de tantos trabajadores sorprendió al sector.",
-            "tier": "B1"
-          },
-          {
-            "front": "la plantilla",
-            "pos": "noun",
-            "back": "workforce, staff",
-            "example": "La plantilla de la empresa se redujo este año.",
-            "tier": "B2"
-          },
-          {
-            "front": "los recortes",
-            "pos": "noun",
-            "back": "cuts (in jobs or spending)",
-            "example": "Los recortes afectaron a varios departamentos.",
-            "tier": "B1"
-          },
-          {
-            "front": "una apuesta por",
-            "pos": "phrase",
-            "back": "a bet on, a commitment to",
-            "example": "Hicieron una apuesta por las energías limpias.",
-            "tier": "B2"
-          },
-          {
-            "front": "invertir",
-            "pos": "verb",
-            "back": "to invest",
-            "example": "Conviene invertir en formación.",
-            "tier": "B1"
-          },
-          {
-            "front": "el mercado laboral",
-            "pos": "phrase",
-            "back": "the labour market",
-            "example": "El mercado laboral cambia muy deprisa.",
-            "tier": "B1"
-          },
-          {
-            "front": "la automatización",
-            "pos": "noun",
-            "back": "automation",
-            "example": "La automatización elimina tareas repetitivas.",
-            "tier": "B2"
-          },
-          {
-            "front": "advertir de",
-            "pos": "verb",
-            "back": "to warn of",
-            "example": "Los expertos advierten de un riesgo.",
-            "tier": "B2"
-          },
-          {
-            "front": "la tendencia",
-            "pos": "noun",
-            "back": "trend",
-            "example": "Es una tendencia preocupante.",
-            "tier": "B1"
-          },
-          {
-            "front": "las habilidades",
-            "pos": "noun",
-            "back": "skills",
-            "example": "Necesitamos nuevas habilidades digitales.",
-            "tier": "B1"
-          },
-          {
-            "front": "la formación",
-            "pos": "noun",
-            "back": "training, education",
-            "example": "La formación ayuda a adaptarse a los cambios.",
-            "tier": "B1"
-          },
-          {
-            "front": "adaptarse a",
-            "pos": "verb",
-            "back": "to adapt to",
-            "example": "Hay que adaptarse a los cambios.",
-            "tier": "B1"
-          },
-          {
-            "front": "reavivar",
-            "pos": "verb",
-            "back": "to revive, to rekindle",
-            "example": "La noticia reavivó el debate.",
-            "tier": "C1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Según la compañía, estos recortes forman parte de una ambiciosa apuesta por la inteligencia artificial, un sector en el que muchas grandes firmas están invirtiendo enormes cantidades de dinero.",
-            "point": "Estar + gerundio (presente continuo) y relativo 'en el que'",
-            "explanation": "'están invirtiendo' expresa una acción en desarrollo; 'en el que' introduce una oración de relativo con preposición.",
-            "why_tricky": "El relativo con preposición ('en el que') confunde a los anglófonos, que tienden a omitir el artículo o la preposición."
-          },
-          {
-            "sentence": "Mientras algunas tareas desaparecen, surgen otras que exigen nuevas habilidades digitales.",
-            "point": "Contraste con 'mientras' e inversión verbo-sujeto",
-            "explanation": "'mientras' contrapone dos ideas; en 'surgen otras' el verbo va antes del sujeto, algo muy natural en español.",
-            "why_tricky": "En inglés el sujeto casi siempre precede al verbo, así que la inversión suena rara al principio."
-          },
-          {
-            "sentence": "Por ello, conviene que las empresas y los gobiernos inviertan en formación para ayudar a los empleados a adaptarse.",
-            "point": "Subjuntivo tras 'conviene que'",
-            "explanation": "Las expresiones de recomendación o conveniencia ('conviene que') exigen subjuntivo: 'inviertan'.",
-            "why_tricky": "Es fácil usar el indicativo 'invierten' por influencia del inglés, donde no existe este modo."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "a largo plazo",
-            "meaning": "in the long term, in the long run",
-            "example": "A largo plazo, la inversión dará sus frutos."
-          },
-          {
-            "phrase": "formar parte de",
-            "meaning": "to be part of",
-            "example": "Estos recortes forman parte de un plan mayor."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué ha decidido Oracle despedir a miles de empleados?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué consecuencias podría tener esta tendencia en el mercado laboral mundial?",
-            "type": "open"
-          },
-          {
-            "q": "Según el texto, ¿qué deberían hacer las empresas y los gobiernos para ayudar a los trabajadores?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que la inteligencia artificial creará más empleos de los que destruye? Escribe un párrafo explicando tu opinión con ejemplos."
       }
     }
   ]
