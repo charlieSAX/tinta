@@ -1,7 +1,535 @@
 {
-  "generated_at": "2026-07-02T08:14:59Z",
+  "generated_at": "2026-07-02T20:13:12Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-07-02-chile-hotel-astronomos",
+      "title": "Como es Residencia, el fascinante hotel para cientificos en uno de los lugares mas extremos del mundo",
+      "source": "BBC Mundo",
+      "date": "2026-07-02",
+      "level": "B1-B2",
+      "topics": [
+        "ciencia",
+        "astronomia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-02-chile-hotel-astronomos",
+        "revision": 1,
+        "meta": {
+          "title": "Como es Residencia, el fascinante hotel para cientificos en uno de los lugares mas extremos del mundo",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c1jyzxwl8l7o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-07-02",
+          "date_processed": "2026-07-02",
+          "tags": [
+            "ciencia",
+            "astronomia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "In the middle of Chile's Atacama Desert hides a building that looks like something out of a science fiction film. It is the Residencia, a futuristic lodging built for the astronomers who work at one of the most important observatories in the world. Although the movies turned it into a James Bond villain's lair, it is really a cosy refuge where the scientists rest between long nights of observation.\n\nThe place stands out because it combines cutting-edge technology with comforts designed to withstand an extreme environment. The desert that surrounds it is so dry that rain barely falls, which offers clean skies that are perfect for looking at the stars. Thanks to this residence, researchers can live comfortably for weeks while they study the universe, far from the cities and everyday noise.",
+        "resumen_es": "En pleno desierto de Atacama, en Chile, se esconde un edificio que parece sacado de una pelicula de ciencia ficcion. Se trata de la Residencia, un alojamiento futurista construido para los astronomos que trabajan en uno de los observatorios mas importantes del mundo. Aunque el cine la convirtio en la guarida de un villano de James Bond, en realidad es un refugio acogedor donde los cientificos descansan entre largas noches de observacion.\n\nEl lugar destaca porque combina tecnologia de vanguardia con comodidades pensadas para soportar un entorno extremo. El desierto que lo rodea es tan seco que apenas cae lluvia, lo que ofrece cielos limpios y perfectos para mirar las estrellas. Gracias a esta residencia, los investigadores pueden vivir comodamente durante semanas mientras estudian el universo, lejos de las ciudades y del ruido cotidiano.",
+        "vocab": [
+          {
+            "front": "esconderse",
+            "pos": "verb",
+            "back": "to hide (oneself)",
+            "example": "El observatorio se esconde entre las montanas.",
+            "tier": "B1"
+          },
+          {
+            "front": "alojamiento",
+            "pos": "noun",
+            "back": "lodging, accommodation",
+            "example": "Buscamos un alojamiento barato para las vacaciones.",
+            "tier": "B1"
+          },
+          {
+            "front": "guarida",
+            "pos": "noun",
+            "back": "lair, hideout",
+            "example": "El zorro volvio a su guarida al amanecer.",
+            "tier": "B2"
+          },
+          {
+            "front": "refugio",
+            "pos": "noun",
+            "back": "refuge, shelter",
+            "example": "La cabana era su refugio en invierno.",
+            "tier": "B1"
+          },
+          {
+            "front": "acogedor",
+            "pos": "adj",
+            "back": "cosy, welcoming",
+            "example": "El cafe tiene un ambiente muy acogedor.",
+            "tier": "B1"
+          },
+          {
+            "front": "de vanguardia",
+            "pos": "phrase",
+            "back": "cutting-edge, avant-garde",
+            "example": "Usan una tecnologia de vanguardia.",
+            "tier": "B2"
+          },
+          {
+            "front": "comodidad",
+            "pos": "noun",
+            "back": "comfort, amenity",
+            "example": "El hotel ofrece todas las comodidades.",
+            "tier": "B1"
+          },
+          {
+            "front": "soportar",
+            "pos": "verb",
+            "back": "to withstand, to endure",
+            "example": "No soporto el calor del verano.",
+            "tier": "B1"
+          },
+          {
+            "front": "entorno",
+            "pos": "noun",
+            "back": "environment, surroundings",
+            "example": "Se adapto rapido a su nuevo entorno.",
+            "tier": "B1"
+          },
+          {
+            "front": "destacar",
+            "pos": "verb",
+            "back": "to stand out",
+            "example": "Su trabajo destaca por la calidad.",
+            "tier": "B1"
+          },
+          {
+            "front": "apenas",
+            "pos": "adv",
+            "back": "barely, hardly",
+            "example": "Apenas quedaba comida en la nevera.",
+            "tier": "B1"
+          },
+          {
+            "front": "cotidiano",
+            "pos": "adj",
+            "back": "everyday, daily",
+            "example": "La rutina cotidiana puede ser aburrida.",
+            "tier": "B2"
+          },
+          {
+            "front": "villano",
+            "pos": "noun",
+            "back": "villain",
+            "example": "El villano de la pelicula daba mucho miedo.",
+            "tier": "B1"
+          },
+          {
+            "front": "observacion",
+            "pos": "noun",
+            "back": "observation",
+            "example": "Pasaron la noche en observacion del cielo.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Aunque el cine la convirtio en la guarida de un villano de James Bond, en realidad es un refugio acogedor donde los cientificos descansan entre largas noches de observacion.",
+            "point": "'aunque' + indicativo (concesion real)",
+            "explanation": "'Aunque' introduce un contraste con un hecho real, por eso va con indicativo ('convirtio', 'es'). Presenta una oposicion entre lo que parece y lo que es.",
+            "why_tricky": "En ingles 'although' no cambia el verbo, pero en espanol hay que elegir entre indicativo (hecho real) y subjuntivo (hipotesis)."
+          },
+          {
+            "sentence": "El desierto que lo rodea es tan seco que apenas cae lluvia, lo que ofrece cielos limpios y perfectos para mirar las estrellas.",
+            "point": "estructura consecutiva 'tan + adjetivo + que'",
+            "explanation": "'Tan seco que' expresa una consecuencia: el desierto es tan seco que, como resultado, casi no llueve. 'Lo que' resume toda la idea anterior.",
+            "why_tricky": "Se confunde 'tan' (con adjetivos y adverbios) con 'tanto' (con sustantivos y verbos)."
+          },
+          {
+            "sentence": "Gracias a esta residencia, los investigadores pueden vivir comodamente durante semanas mientras estudian el universo, lejos de las ciudades y del ruido cotidiano.",
+            "point": "'mientras' + presente para acciones simultaneas",
+            "explanation": "'Mientras estudian' indica que dos acciones ocurren a la vez: viven y estudian al mismo tiempo. El presente subraya la simultaneidad.",
+            "why_tricky": "'Mientras' puede llevar indicativo (simultaneidad) o subjuntivo (condicion o tiempo futuro), y elegir mal cambia el sentido."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "parecer sacado de una pelicula",
+            "meaning": "to look unreal, as if it came from a movie",
+            "example": "Ese hotel futurista parece sacado de una pelicula."
+          },
+          {
+            "phrase": "a cielo abierto",
+            "meaning": "outdoors, in the open air",
+            "example": "Durmieron a cielo abierto para ver las estrellas."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Por que el desierto de Atacama es un buen lugar para observar las estrellas?",
+            "type": "open"
+          },
+          {
+            "q": "Que relacion tiene la Residencia con el cine?",
+            "type": "open"
+          },
+          {
+            "q": "Como describirias la vida de un astronomo que trabaja en este lugar?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Te gustaria pasar unas semanas viviendo en un lugar tan aislado para dedicarte a la ciencia? Explica por que si o por que no."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-02-vaticano-lefebvrianos-excomunion",
+      "title": "Quienes son los lefebvrianos, el grupo ultraconservador excomulgado por el Vaticano luego de desafiar al papa Leon XIV ordenando a 4 obispos",
+      "source": "BBC Mundo",
+      "date": "2026-07-02",
+      "level": "B1-B2",
+      "topics": [
+        "religion",
+        "Vaticano"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-02-vaticano-lefebvrianos-excomunion",
+        "revision": 1,
+        "meta": {
+          "title": "Quienes son los lefebvrianos, el grupo ultraconservador excomulgado por el Vaticano luego de desafiar al papa Leon XIV ordenando a 4 obispos",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c05yv48m0dgo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-07-02",
+          "date_processed": "2026-07-02",
+          "tags": [
+            "religion",
+            "Vaticano"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The Vatican has clashed once again with the Lefebvrists, an ultra-conservative Catholic group that rejects some reforms of the modern Church. According to the report, this movement ordained four new bishops without the permission of Pope Leo XIV. In response, the Vatican decided to excommunicate them, that is, to formally separate them from the community of the Church. The decision has deepened the rift that has existed for decades between the two sides.\n\nThe Lefebvrists follow the ideas of a French bishop who, in the past, had already distanced himself from Rome by defending the traditional Latin Mass. Although there were attempts at reconciliation over the years, this new challenge complicates any agreement. Many faithful now wonder what will happen to the group's future and whether the break with the Vatican will be permanent, or whether, in time, a new path of dialogue will be sought.",
+        "resumen_es": "El Vaticano ha vuelto a enfrentarse con los lefebvrianos, un grupo catolico ultraconservador que rechaza algunas reformas de la Iglesia moderna. Segun la informacion, este movimiento ordeno a cuatro nuevos obispos sin el permiso del papa Leon XIV. Como respuesta, el Vaticano decidio excomulgarlos, es decir, apartarlos oficialmente de la comunidad de la Iglesia. La decision ha profundizado la brecha que existe desde hace decadas entre ambas partes.\n\nLos lefebvrianos siguen las ideas de un obispo frances que, en el pasado, ya se habia distanciado de Roma por defender la misa tradicional en latin. Aunque durante anos hubo intentos de acercamiento, este nuevo desafio complica cualquier reconciliacion. Muchos fieles se preguntan ahora que pasara con el futuro del grupo y si la ruptura con el Vaticano sera definitiva o si, con el tiempo, se buscara una nueva via de dialogo.",
+        "vocab": [
+          {
+            "front": "enfrentarse",
+            "pos": "verb",
+            "back": "to clash, to confront",
+            "example": "Los dos equipos se enfrentaron en la final.",
+            "tier": "B1"
+          },
+          {
+            "front": "rechazar",
+            "pos": "verb",
+            "back": "to reject",
+            "example": "El comite rechazo la propuesta.",
+            "tier": "B1"
+          },
+          {
+            "front": "reforma",
+            "pos": "noun",
+            "back": "reform",
+            "example": "El gobierno anuncio una reforma educativa.",
+            "tier": "B1"
+          },
+          {
+            "front": "ordenar",
+            "pos": "verb",
+            "back": "to ordain (also: to order)",
+            "example": "El obispo va a ordenar a varios sacerdotes.",
+            "tier": "B2"
+          },
+          {
+            "front": "obispo",
+            "pos": "noun",
+            "back": "bishop",
+            "example": "El obispo visito la parroquia el domingo.",
+            "tier": "B1"
+          },
+          {
+            "front": "excomulgar",
+            "pos": "verb",
+            "back": "to excommunicate",
+            "example": "La Iglesia decidio excomulgar al rebelde.",
+            "tier": "C1"
+          },
+          {
+            "front": "brecha",
+            "pos": "noun",
+            "back": "gap, rift",
+            "example": "La brecha entre ricos y pobres crece cada ano.",
+            "tier": "B2"
+          },
+          {
+            "front": "distanciarse",
+            "pos": "verb",
+            "back": "to distance oneself",
+            "example": "Se distancio de sus antiguos amigos.",
+            "tier": "B2"
+          },
+          {
+            "front": "acercamiento",
+            "pos": "noun",
+            "back": "rapprochement, drawing closer",
+            "example": "Hubo un acercamiento entre los dos paises.",
+            "tier": "B2"
+          },
+          {
+            "front": "desafio",
+            "pos": "noun",
+            "back": "challenge, act of defiance",
+            "example": "Superar el examen fue un gran desafio.",
+            "tier": "B1"
+          },
+          {
+            "front": "fiel",
+            "pos": "noun",
+            "back": "believer, faithful person",
+            "example": "Los fieles llenaron la iglesia.",
+            "tier": "B1"
+          },
+          {
+            "front": "ruptura",
+            "pos": "noun",
+            "back": "break, rupture",
+            "example": "La ruptura de la pareja sorprendio a todos.",
+            "tier": "B2"
+          },
+          {
+            "front": "reconciliacion",
+            "pos": "noun",
+            "back": "reconciliation",
+            "example": "Buscaban la reconciliacion tras la pelea.",
+            "tier": "B2"
+          },
+          {
+            "front": "es decir",
+            "pos": "phrase",
+            "back": "that is to say, in other words",
+            "example": "Llego tarde, es decir, perdio el tren.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Como respuesta, el Vaticano decidio excomulgarlos, es decir, apartarlos oficialmente de la comunidad de la Iglesia.",
+            "point": "pronombres encliticos con el infinitivo",
+            "explanation": "El pronombre 'los' se une al final del infinitivo: excomulgar + los, apartar + los. 'Es decir' introduce una explicacion o reformulacion.",
+            "why_tricky": "El pronombre puede ir antes del verbo conjugado ('los decidio excomulgar') o pegado al infinitivo, y hay que colocarlo bien."
+          },
+          {
+            "sentence": "Los lefebvrianos siguen las ideas de un obispo frances que, en el pasado, ya se habia distanciado de Roma por defender la misa tradicional en latin.",
+            "point": "pluscuamperfecto + 'por + infinitivo' de causa",
+            "explanation": "'Se habia distanciado' es una accion anterior a otro momento del pasado. 'Por defender' explica el motivo de ese distanciamiento.",
+            "why_tricky": "Se confunde el pluscuamperfecto con el preterito simple, y 'por' de causa con 'para' de finalidad."
+          },
+          {
+            "sentence": "Muchos fieles se preguntan ahora que pasara con el futuro del grupo y si la ruptura con el Vaticano sera definitiva o si, con el tiempo, se buscara una nueva via de dialogo.",
+            "point": "futuro simple para hechos y conjeturas",
+            "explanation": "'Pasara', 'sera' y 'se buscara' usan el futuro para hablar de lo que puede ocurrir. El futuro tambien sirve para expresar suposiciones sobre el porvenir.",
+            "why_tricky": "En preguntas indirectas se mantiene el futuro y no se usa subjuntivo despues de 'si' condicional-interrogativo."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "tender puentes",
+            "meaning": "to build bridges, to try to reach agreement",
+            "example": "El nuevo papa quiere tender puentes con los grupos alejados."
+          },
+          {
+            "phrase": "cerrar filas",
+            "meaning": "to close ranks, to unite in support",
+            "example": "Los obispos cerraron filas en torno al Vaticano."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Por que el Vaticano decidio excomulgar a los lefebvrianos?",
+            "type": "open"
+          },
+          {
+            "q": "Que defienden los lefebvrianos respecto a la misa?",
+            "type": "open"
+          },
+          {
+            "q": "Crees que sera posible una reconciliacion en el futuro? Por que?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Piensas que las instituciones religiosas deben adaptarse a los tiempos modernos o conservar sus tradiciones? Argumenta tu opinion."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-02-reino-unido-adopciones-forzadas",
+      "title": "Reino Unido pide perdon por adopciones forzadas",
+      "source": "RFI Espanol",
+      "date": "2026-07-02",
+      "level": "B1-B2",
+      "topics": [
+        "sociedad",
+        "historia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-02-reino-unido-adopciones-forzadas",
+        "revision": 1,
+        "meta": {
+          "title": "Reino Unido pide perdon por adopciones forzadas",
+          "source": "RFI Espanol",
+          "url": "https://www.rfi.fr/es/europa/20260702-reino-unido-pide-perd%C3%B3n-por-adopciones-forzadas",
+          "date_published": "2026-07-02",
+          "date_processed": "2026-07-02",
+          "tags": [
+            "sociedad",
+            "historia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The Prime Minister of the United Kingdom has officially apologised for the so-called forced adoptions that took place over decades in the country. In the past, many single mothers were pressured by the State and by society to give up their babies for adoption. Those women, often very young, had no choice and suffered the loss of their children in silence.\n\nThe apology acknowledges a pain that was hidden for a long time and gives a voice to the families affected. Many of those mothers have spent years searching for the children who were taken from them, hoping to be reunited one day. Although words do not erase the suffering, for many people they represent a first step towards repair. It is now hoped that the official recognition will open the door to new support measures.",
+        "resumen_es": "El primer ministro del Reino Unido ha pedido perdon de manera oficial por las llamadas adopciones forzadas que ocurrieron durante decadas en el pais. En el pasado, muchas madres solteras fueron presionadas por el Estado y por la sociedad para entregar a sus bebes en adopcion. Aquellas mujeres, a menudo muy jovenes, no tuvieron ninguna opcion y sufrieron en silencio la perdida de sus hijos.\n\nLa disculpa reconoce un dolor que durante mucho tiempo se mantuvo oculto y da voz a las familias afectadas. Muchas de esas madres han pasado anos buscando a los hijos que les arrebataron, con la esperanza de reencontrarse algun dia. Aunque las palabras no borran el sufrimiento, para muchas personas suponen un primer paso hacia la reparacion. Ahora se espera que el reconocimiento oficial abra la puerta a nuevas medidas de apoyo.",
+        "vocab": [
+          {
+            "front": "pedir perdon",
+            "pos": "phrase",
+            "back": "to apologise, to ask forgiveness",
+            "example": "Tuvo que pedir perdon por su error.",
+            "tier": "B1"
+          },
+          {
+            "front": "disculpa",
+            "pos": "noun",
+            "back": "apology",
+            "example": "Le debo una disculpa sincera.",
+            "tier": "B1"
+          },
+          {
+            "front": "forzado",
+            "pos": "adj",
+            "back": "forced",
+            "example": "Firmo el contrato de forma forzada.",
+            "tier": "B2"
+          },
+          {
+            "front": "madre soltera",
+            "pos": "phrase",
+            "back": "single mother",
+            "example": "Ser madre soltera no es nada facil.",
+            "tier": "B1"
+          },
+          {
+            "front": "presionar",
+            "pos": "verb",
+            "back": "to pressure, to push",
+            "example": "No quiero presionarte, tomate tu tiempo.",
+            "tier": "B1"
+          },
+          {
+            "front": "entregar",
+            "pos": "verb",
+            "back": "to hand over, to give up",
+            "example": "Tuvo que entregar las llaves del piso.",
+            "tier": "B1"
+          },
+          {
+            "front": "perdida",
+            "pos": "noun",
+            "back": "loss",
+            "example": "Nunca supero la perdida de su padre.",
+            "tier": "B1"
+          },
+          {
+            "front": "arrebatar",
+            "pos": "verb",
+            "back": "to snatch, to take away",
+            "example": "El ladron le arrebato el bolso.",
+            "tier": "B2"
+          },
+          {
+            "front": "reencontrarse",
+            "pos": "verb",
+            "back": "to reunite, to meet again",
+            "example": "Despues de anos, lograron reencontrarse.",
+            "tier": "B2"
+          },
+          {
+            "front": "reconocer",
+            "pos": "verb",
+            "back": "to acknowledge, to recognise",
+            "example": "El jefe reconocio su error ante todos.",
+            "tier": "B1"
+          },
+          {
+            "front": "sufrimiento",
+            "pos": "noun",
+            "back": "suffering",
+            "example": "El sufrimiento la hizo mas fuerte.",
+            "tier": "B1"
+          },
+          {
+            "front": "reparacion",
+            "pos": "noun",
+            "back": "redress, reparation",
+            "example": "Las victimas exigen una reparacion justa.",
+            "tier": "B2"
+          },
+          {
+            "front": "dar voz a",
+            "pos": "phrase",
+            "back": "to give a voice to",
+            "example": "El libro da voz a los olvidados.",
+            "tier": "B2"
+          },
+          {
+            "front": "medida",
+            "pos": "noun",
+            "back": "measure, step",
+            "example": "El gobierno tomo medidas urgentes.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "En el pasado, muchas madres solteras fueron presionadas por el Estado y por la sociedad para entregar a sus bebes en adopcion.",
+            "point": "voz pasiva con 'ser' + participio",
+            "explanation": "'Fueron presionadas' es una pasiva: el sujeto recibe la accion. El participio concuerda en genero y numero ('presionadas'), y 'por' introduce al agente.",
+            "why_tricky": "El participio debe concordar con el sujeto, algo que no ocurre en la pasiva inglesa, y a menudo se prefiere la pasiva refleja con 'se'."
+          },
+          {
+            "sentence": "Muchas de esas madres han pasado anos buscando a los hijos que les arrebataron, con la esperanza de reencontrarse algun dia.",
+            "point": "preterito perfecto + gerundio",
+            "explanation": "'Han pasado' conecta el pasado con el presente. El gerundio 'buscando' expresa como han pasado esos anos. La 'a' personal aparece ante 'los hijos'.",
+            "why_tricky": "Se olvida la 'a' personal ante objetos directos de persona y se abusa del gerundio donde el ingles usa 'to + verbo'."
+          },
+          {
+            "sentence": "Ahora se espera que el reconocimiento oficial abra la puerta a nuevas medidas de apoyo.",
+            "point": "'se espera que' + subjuntivo",
+            "explanation": "Tras expresiones impersonales de deseo o expectativa como 'se espera que', el verbo va en subjuntivo ('abra'). Expresa algo aun no realizado.",
+            "why_tricky": "El ingles usa infinitivo o futuro ('is hoped to open'), mientras el espanol obliga al subjuntivo despues de 'que'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "sufrir en silencio",
+            "meaning": "to suffer quietly, without complaining",
+            "example": "Soporto el dolor en silencio durante anos."
+          },
+          {
+            "phrase": "abrir la puerta a",
+            "meaning": "to pave the way for, to make something possible",
+            "example": "El acuerdo abre la puerta a nuevas negociaciones."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Por que el primer ministro pidio perdon?",
+            "type": "open"
+          },
+          {
+            "q": "Que situacion vivieron las madres solteras en el pasado?",
+            "type": "open"
+          },
+          {
+            "q": "Crees que una disculpa oficial es suficiente para reparar este dano? Por que?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "De que manera crees que un pais deberia reparar los errores del pasado hacia sus ciudadanos? Explica tu punto de vista."
+      }
+    },
     {
       "pack_id": "feed-2026-07-02-errores-acumular-cosas-orden",
       "title": "Los 4 errores más comunes al acumular cosas y cómo solucionarlos para tener tu casa organizada",
@@ -6330,501 +6858,6 @@
           }
         ],
         "opinion_prompt": "Escribe un texto de unas 120 palabras: ¿hasta qué punto deberían los gobiernos usar la vigilancia electrónica para proteger a las víctimas de acoso? Argumenta tu postura."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-26-huelga-turismo-grecia",
-      "title": "En Grecia, el sector turístico está en huelga para denunciar sus condiciones laborales",
-      "source": "RFI Español",
-      "date": "2026-06-24",
-      "level": "B1-B2",
-      "topics": [
-        "economía",
-        "trabajo"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-26-huelga-turismo-grecia",
-        "revision": 1,
-        "meta": {
-          "title": "En Grecia, el sector turístico está en huelga para denunciar sus condiciones laborales",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/europa/20260624-en-grecia-el-sector-tur%C3%ADstico-est%C3%A1-en-huelga-para-denunciar-sus-condiciones-laborales",
-          "date_published": "2026-06-24",
-          "date_processed": "2026-06-26",
-          "tags": [
-            "economía",
-            "trabajo"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Workers in the Greek tourism sector have gone on strike to denounce their working conditions. Hotel and restaurant employees have stopped work and demonstrated in various cities across the country. They say they feel exhausted, even though the high season has only just begun. Among their demands are pay rises, more days off and a general improvement of their rights.\n\nTourism is one of the engines of the Greek economy and attracts millions of visitors every summer. For that reason, a strike in the middle of the season can have a strong impact on hotels, beaches and services. The unions maintain that the sector's growth does not translate into better wages for those who sustain it. Negotiations with employers are expected to be difficult, since both sides defend very different interests.",
-        "resumen_es": "Los trabajadores del sector turístico griego se han declarado en huelga para denunciar sus condiciones laborales. Empleados de hoteles y restaurantes han parado su actividad y se han manifestado en distintas ciudades del país. Aseguran sentirse agotados, y eso que la temporada alta apenas acaba de comenzar. Entre sus reclamaciones figuran subidas salariales, más días de descanso y una mejora general de sus derechos.\n\nEl turismo es uno de los motores de la economía griega y atrae cada verano a millones de visitantes. Por eso, una huelga en plena temporada puede tener un fuerte impacto en hoteles, playas y servicios. Los sindicatos sostienen que el crecimiento del sector no se traduce en mejores sueldos para quienes lo sostienen. Las negociaciones con los empresarios se anuncian difíciles, ya que ambas partes defienden intereses muy distintos.",
-        "vocab": [
-          {
-            "front": "la huelga",
-            "pos": "noun",
-            "back": "strike",
-            "example": "Los profesores convocaron una huelga.",
-            "tier": "B1"
-          },
-          {
-            "front": "denunciar",
-            "pos": "verb",
-            "back": "to denounce, to report",
-            "example": "Denunciaron los abusos ante la prensa.",
-            "tier": "B1"
-          },
-          {
-            "front": "las condiciones laborales",
-            "pos": "phrase",
-            "back": "working conditions",
-            "example": "Piden mejores condiciones laborales.",
-            "tier": "B2"
-          },
-          {
-            "front": "manifestarse",
-            "pos": "verb",
-            "back": "to demonstrate",
-            "example": "Miles de personas se manifestaron en la plaza.",
-            "tier": "B1"
-          },
-          {
-            "front": "agotado/a",
-            "pos": "adj",
-            "back": "exhausted",
-            "example": "Terminó la jornada completamente agotado.",
-            "tier": "B1"
-          },
-          {
-            "front": "la temporada alta",
-            "pos": "phrase",
-            "back": "high season",
-            "example": "En temporada alta los hoteles se llenan.",
-            "tier": "B1"
-          },
-          {
-            "front": "la reclamación",
-            "pos": "noun",
-            "back": "demand, complaint",
-            "example": "Presentó una reclamación a la empresa.",
-            "tier": "B2"
-          },
-          {
-            "front": "la subida salarial",
-            "pos": "phrase",
-            "back": "pay rise",
-            "example": "El sindicato exige una subida salarial.",
-            "tier": "B2"
-          },
-          {
-            "front": "el motor de la economía",
-            "pos": "phrase",
-            "back": "driving force of the economy",
-            "example": "El turismo es el motor de la economía local.",
-            "tier": "B2"
-          },
-          {
-            "front": "el sindicato",
-            "pos": "noun",
-            "back": "trade union",
-            "example": "El sindicato negocia con la patronal.",
-            "tier": "B1"
-          },
-          {
-            "front": "el sueldo",
-            "pos": "noun",
-            "back": "salary, wage",
-            "example": "Su sueldo no le alcanza para vivir.",
-            "tier": "B1"
-          },
-          {
-            "front": "traducirse en",
-            "pos": "verb",
-            "back": "to result in",
-            "example": "El esfuerzo se tradujo en buenos resultados.",
-            "tier": "B2"
-          },
-          {
-            "front": "el empresario",
-            "pos": "noun",
-            "back": "employer, businessman",
-            "example": "Los empresarios rechazan la propuesta.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Aseguran sentirse agotados, y eso que la temporada alta apenas acaba de comenzar.",
-            "point": "'acabar de' + infinitivo",
-            "explanation": "'acabar de + infinitivo' expresa una acción muy reciente: 'acaba de comenzar' significa que ha empezado hace muy poco.",
-            "why_tricky": "No se traduce literalmente como 'to finish'; aquí indica pasado inmediato."
-          },
-          {
-            "sentence": "Los sindicatos sostienen que el crecimiento del sector no se traduce en mejores sueldos para quienes lo sostienen.",
-            "point": "El relativo 'quienes'",
-            "explanation": "'quienes' equivale a 'las personas que' y se refiere a personas en plural; introduce una oración de relativo sin antecedente expreso.",
-            "why_tricky": "Se confunde con 'que' o 'los que'; además exige concordancia en plural."
-          },
-          {
-            "sentence": "Las negociaciones con los empresarios se anuncian difíciles, ya que ambas partes defienden intereses muy distintos.",
-            "point": "Conector causal 'ya que'",
-            "explanation": "'ya que' introduce la causa o el motivo, como 'porque', pero suele ir tras una pausa y aporta un tono más formal.",
-            "why_tricky": "Es fácil confundirlo con el temporal 'ya' o colocarlo de forma incorrecta."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "y eso que",
-            "meaning": "a pesar de que, aunque",
-            "example": "Llegó tarde, y eso que salió temprano de casa."
-          },
-          {
-            "phrase": "el motor de la economía",
-            "meaning": "el sector que impulsa la economía de un lugar",
-            "example": "El campo sigue siendo el motor de la economía de la región."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué se han declarado en huelga los trabajadores del turismo en Grecia?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué consecuencias puede tener la huelga en plena temporada alta?",
-            "type": "open"
-          },
-          {
-            "q": "¿Te parecen justas las reclamaciones de los empleados? Explica tu opinión.",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Escribe unas 120 palabras sobre el equilibrio entre el éxito del turismo y los derechos de los trabajadores. ¿Qué medidas propondrías?"
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-26-hincha-estatua-congo",
-      "title": "Por qué un hincha de la República Democrática del Congo se para como una estatua viviente en todos los partidos de su selección",
-      "source": "BBC Mundo",
-      "date": "2026-06-24",
-      "level": "B1-B2",
-      "topics": [
-        "cultura",
-        "deporte"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-26-hincha-estatua-congo",
-        "revision": 1,
-        "meta": {
-          "title": "Por qué un hincha de la República Democrática del Congo se para como una estatua viviente en todos los partidos de su selección",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c20yz2ln65lo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-06-24",
-          "date_processed": "2026-06-26",
-          "tags": [
-            "cultura",
-            "deporte"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "A supporter of the Democratic Republic of the Congo has become famous for a very particular habit. During his national team's matches at the World Cup, he stays completely still, like a living statue, while everyone else shouts around him. His silent gesture has caught the attention of the public and the cameras. Many compatriots, who have not been able to travel to see their team, feel represented by him.\n\nFor many people in the country, this fan embodies the soul of a whole nation. Football, in this case, becomes something more than a sport: it unites people who live far apart and who share the same excitement. His stillness, in the midst of the noise, conveys respect and pride. Gestures like his remind us that, sometimes, silence says more than a thousand words.",
-        "resumen_es": "Un aficionado de la República Democrática del Congo se ha hecho famoso por una costumbre muy particular. Durante los partidos de su selección en el Mundial, permanece completamente inmóvil, como una estatua viviente, mientras los demás gritan a su alrededor. Su gesto silencioso ha llamado la atención del público y de las cámaras. Muchos compatriotas, que no han podido viajar para ver a su equipo, se sienten representados por él.\n\nPara mucha gente en el país, este hincha encarna el alma de toda una nación. El fútbol, en este caso, se convierte en algo más que un deporte: une a personas que viven lejos y que comparten una misma ilusión. Su quietud, en medio del ruido, transmite respeto y orgullo. Gestos como el suyo recuerdan que, a veces, el silencio dice más que mil palabras.",
-        "vocab": [
-          {
-            "front": "el aficionado",
-            "pos": "noun",
-            "back": "fan, supporter",
-            "example": "Los aficionados llenaron el estadio.",
-            "tier": "B1"
-          },
-          {
-            "front": "el hincha",
-            "pos": "noun",
-            "back": "fan, supporter",
-            "example": "Es un hincha fiel de su equipo.",
-            "tier": "B1"
-          },
-          {
-            "front": "la costumbre",
-            "pos": "noun",
-            "back": "custom, habit",
-            "example": "Tiene la costumbre de caminar cada mañana.",
-            "tier": "B1"
-          },
-          {
-            "front": "inmóvil",
-            "pos": "adj",
-            "back": "motionless",
-            "example": "Se quedó inmóvil al oír la noticia.",
-            "tier": "B2"
-          },
-          {
-            "front": "la estatua viviente",
-            "pos": "phrase",
-            "back": "living statue",
-            "example": "En la plaza había una estatua viviente.",
-            "tier": "B2"
-          },
-          {
-            "front": "llamar la atención",
-            "pos": "phrase",
-            "back": "to attract attention",
-            "example": "Su ropa llamaba la atención de todos.",
-            "tier": "B1"
-          },
-          {
-            "front": "el compatriota",
-            "pos": "noun",
-            "back": "fellow countryman",
-            "example": "Ayudó a un compatriota en el extranjero.",
-            "tier": "B2"
-          },
-          {
-            "front": "encarnar",
-            "pos": "verb",
-            "back": "to embody",
-            "example": "Ese líder encarna las esperanzas del pueblo.",
-            "tier": "C1"
-          },
-          {
-            "front": "el alma",
-            "pos": "noun",
-            "back": "soul",
-            "example": "La música es el alma de la fiesta.",
-            "tier": "B1"
-          },
-          {
-            "front": "la quietud",
-            "pos": "noun",
-            "back": "stillness",
-            "example": "Me gusta la quietud del amanecer.",
-            "tier": "C1"
-          },
-          {
-            "front": "el orgullo",
-            "pos": "noun",
-            "back": "pride",
-            "example": "Habla de su país con orgullo.",
-            "tier": "B1"
-          },
-          {
-            "front": "la ilusión",
-            "pos": "noun",
-            "back": "hope, excitement",
-            "example": "Los niños esperan las vacaciones con ilusión.",
-            "tier": "B1"
-          },
-          {
-            "front": "en medio de",
-            "pos": "phrase",
-            "back": "in the midst of",
-            "example": "Mantuvo la calma en medio del caos.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Durante los partidos de su selección en el Mundial, permanece completamente inmóvil, como una estatua viviente, mientras los demás gritan a su alrededor.",
-            "point": "'mientras' con indicativo",
-            "explanation": "Cuando 'mientras' expresa dos acciones simultáneas y reales, va con indicativo: 'mientras los demás gritan'.",
-            "why_tricky": "Si expresara condición o futuro ('mientras no llegue'), pediría subjuntivo; aquí no."
-          },
-          {
-            "sentence": "Muchos compatriotas, que no han podido viajar para ver a su equipo, se sienten representados por él.",
-            "point": "Pretérito perfecto compuesto ('han podido')",
-            "explanation": "'han podido' (haber + participio) se usa para hechos pasados con relación con el presente, como una experiencia que aún cuenta hoy.",
-            "why_tricky": "Su uso frente al indefinido ('pudieron') depende del marco temporal y varía según la región."
-          },
-          {
-            "sentence": "El fútbol, en este caso, se convierte en algo más que un deporte: une a personas que viven lejos y que comparten una misma ilusión.",
-            "point": "'convertirse en' + sustantivo",
-            "explanation": "'convertirse en' indica transformación y siempre lleva la preposición 'en' antes del nombre.",
-            "why_tricky": "Se omite a menudo la preposición o se confunde con 'volverse', que no la lleva."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "llamar la atención",
-            "meaning": "destacar o despertar el interés de alguien",
-            "example": "Su talento llamó la atención de los entrenadores."
-          },
-          {
-            "phrase": "el silencio dice más que mil palabras",
-            "meaning": "a veces no hace falta hablar para expresar algo",
-            "example": "No dijo nada, pero su silencio dijo más que mil palabras."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué hace este aficionado durante los partidos de su selección?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué muchos congoleños se sienten representados por él?",
-            "type": "open"
-          },
-          {
-            "q": "¿Conoces otros gestos de afición que se hayan hecho famosos? Descríbelos.",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Escribe unas 120 palabras: ¿qué papel juega el deporte a la hora de unir a un país? Usa ejemplos concretos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-25-doblete-sismico",
-      "title": "Qué es el \"doblete sísmico\" y por qué los terremotos que sacudieron Venezuela provocaron tantos daños",
-      "source": "BBC Mundo",
-      "date": "2026-06-25",
-      "level": "B1-B2",
-      "topics": [
-        "ciencia",
-        "terremotos"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-25-doblete-sismico",
-        "revision": 1,
-        "meta": {
-          "title": "Qué es el \"doblete sísmico\" y por qué los terremotos que sacudieron Venezuela provocaron tantos daños",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/crr8ezq9ez8o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-06-25",
-          "date_processed": "2026-06-25",
-          "tags": [
-            "ciencia",
-            "terremotos"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Two strong earthquakes shook northern Venezuela almost at the same time, a phenomenon experts call a \"seismic doublet\". The second tremor happened just a few seconds after the first, in the area where the Caribbean and South American plates meet. The succession of two quakes so close together surprised the population and left significant damage in several towns.\n\nAlthough this kind of sequence is not common, scientists recall that it has been recorded before in the region and in other parts of the world. When two earthquakes occur one after another, the released energy adds up and tends to worsen the destruction of buildings and roads. For this reason, the authorities are watching for possible aftershocks and asking residents to stay calm. Understanding how these faults work is key to preventing future tragedies.",
-        "resumen_es": "Dos fuertes terremotos sacudieron el norte de Venezuela casi al mismo tiempo, un fenómeno que los expertos llaman \"doblete sísmico\". El segundo movimiento ocurrió pocos segundos después del primero, en la zona donde se encuentran las placas del Caribe y de Sudamérica. La sucesión de dos sismos tan seguidos sorprendió a la población y dejó importantes daños en varias localidades.\n\nAunque este tipo de secuencia no es habitual, los científicos recuerdan que ya se ha registrado antes en la región y en otras partes del mundo. Cuando dos terremotos se producen uno tras otro, la energía liberada se acumula y suele agravar los destrozos en edificios y carreteras. Por eso, las autoridades vigilan las posibles réplicas y piden a los habitantes mantener la calma. Entender cómo funcionan estas fallas resulta clave para prevenir futuras tragedias.",
-        "vocab": [
-          {
-            "front": "el terremoto",
-            "pos": "noun",
-            "back": "earthquake",
-            "example": "El terremoto destruyó varias casas.",
-            "tier": "B1"
-          },
-          {
-            "front": "sacudir",
-            "pos": "verb",
-            "back": "to shake",
-            "example": "El temblor sacudió toda la ciudad.",
-            "tier": "B1"
-          },
-          {
-            "front": "el sismo",
-            "pos": "noun",
-            "back": "seismic event, quake",
-            "example": "El sismo se sintió en toda la región.",
-            "tier": "B2"
-          },
-          {
-            "front": "la falla",
-            "pos": "noun",
-            "back": "geological fault",
-            "example": "La falla atraviesa el norte del país.",
-            "tier": "B2"
-          },
-          {
-            "front": "la réplica",
-            "pos": "noun",
-            "back": "aftershock",
-            "example": "Tras el terremoto llegaron varias réplicas.",
-            "tier": "B2"
-          },
-          {
-            "front": "la placa (tectónica)",
-            "pos": "noun",
-            "back": "tectonic plate",
-            "example": "Dos placas chocan bajo el océano.",
-            "tier": "B2"
-          },
-          {
-            "front": "agravar",
-            "pos": "verb",
-            "back": "to make worse, aggravate",
-            "example": "La lluvia agravó los daños.",
-            "tier": "B2"
-          },
-          {
-            "front": "los destrozos",
-            "pos": "noun",
-            "back": "damage, destruction",
-            "example": "Los destrozos fueron enormes.",
-            "tier": "B2"
-          },
-          {
-            "front": "liberar (energía)",
-            "pos": "verb",
-            "back": "to release (energy)",
-            "example": "El sismo liberó mucha energía.",
-            "tier": "B2"
-          },
-          {
-            "front": "uno tras otro",
-            "pos": "phrase",
-            "back": "one after another",
-            "example": "Llegaron los avisos uno tras otro.",
-            "tier": "B1"
-          },
-          {
-            "front": "mantener la calma",
-            "pos": "phrase",
-            "back": "to stay calm",
-            "example": "Pidieron a todos mantener la calma.",
-            "tier": "B1"
-          },
-          {
-            "front": "resultar clave",
-            "pos": "phrase",
-            "back": "to be key, prove crucial",
-            "example": "La prevención resulta clave en estos casos.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "El segundo movimiento ocurrió pocos segundos después del primero, en la zona donde se encuentran las placas del Caribe y de Sudamérica.",
-            "point": "Pretérito indefinido for completed past events",
-            "explanation": "'Ocurrió' is the preterite of 'ocurrir', used for a single, finished action at a specific moment in the past.",
-            "why_tricky": "Learners often confuse this with the imperfect 'ocurría'; here the action is punctual and complete, so the preterite is required."
-          },
-          {
-            "sentence": "Aunque este tipo de secuencia no es habitual, los científicos recuerdan que ya se ha registrado antes en la región y en otras partes del mundo.",
-            "point": "Impersonal 'se' with present perfect",
-            "explanation": "'Se ha registrado' uses impersonal 'se' plus the present perfect to say something has happened without naming who did it.",
-            "why_tricky": "The 'se' makes the verb feel passive, and 'ha registrado' must agree with the singular subject 'secuencia'."
-          },
-          {
-            "sentence": "Entender cómo funcionan estas fallas resulta clave para prevenir futuras tragedias.",
-            "point": "Infinitive as subject of the sentence",
-            "explanation": "The infinitive 'entender' works as a noun and is the subject of 'resulta'; 'para + infinitivo' expresses purpose.",
-            "why_tricky": "English would use a gerund ('understanding'), but Spanish uses the infinitive for the subject."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "un antes y un después",
-            "meaning": "a turning point; before-and-after moment",
-            "example": "Aquel terremoto marcó un antes y un después en la ciudad."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué es un \"doblete sísmico\" y por qué llama la atención de los científicos?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué dos terremotos seguidos pueden causar más daños que uno solo?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué medidas toman las autoridades después de un terremoto fuerte?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que tu país está bien preparado para responder a un gran terremoto? Explica por qué y qué se podría mejorar."
       }
     }
   ]
