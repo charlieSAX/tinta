@@ -1,7 +1,493 @@
 {
- "generated_at": "2026-07-03T08:15:37Z",
+ "generated_at": "2026-07-05T08:09:56Z",
  "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-07-05-incendios-europa",
+   "title": "Temporada de incendios se adelanta en Europa arrasando bosques en varios países",
+   "source": "RFI en español",
+   "date": "2026-07-04",
+   "level": "B1-B2",
+   "topics": [
+    "clima",
+    "medioambiente"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-05-incendios-europa",
+    "revision": 1,
+    "meta": {
+     "title": "Temporada de incendios se adelanta en Europa arrasando bosques en varios países",
+     "source": "RFI en español",
+     "url": "https://www.rfi.fr/es/europa/20260704-temporada-de-incendios-se-adelanta-en-europa-arrasando-bosques-en-varios-pa%C3%ADses",
+     "date_published": "2026-07-04",
+     "date_processed": "2026-07-05",
+     "tags": [
+      "clima",
+      "medioambiente"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "The wildfire season has arrived early this year in Europe. As a new heatwave settles over the west of the continent, starting with the Iberian Peninsula, fires are being recorded this weekend in Portugal, Spain and the south of France. Firefighters in several countries are working tirelessly to contain flames that are destroying forests and threatening the rural landscape.\n\nExperts have been warning for years that climate change is lengthening and worsening the fire season. High temperatures, prolonged drought and dry vegetation form a dangerous combination that turns any spark into a fire that is hard to control. Faced with this situation, European governments usually reinforce their aerial firefighting resources and ask the public to take extra precautions during the summer months.",
+    "resumen_es": "La temporada de incendios forestales se ha adelantado este año en Europa. Mientras una nueva ola de calor se instala en el oeste del continente, empezando por la península ibérica, este fin de semana se registran fuegos en Portugal, España y el sur de Francia. Los bomberos de varios países trabajan sin descanso para contener unas llamas que arrasan bosques y amenazan el paisaje rural.\n\nLos expertos llevan años advirtiendo de que el cambio climático alarga y agrava la temporada de incendios. Las altas temperaturas, la sequía prolongada y la vegetación seca forman una combinación peligrosa que convierte cualquier chispa en un fuego difícil de controlar. Ante este panorama, los gobiernos europeos suelen reforzar sus medios aéreos y piden a la población extremar las precauciones durante los meses de verano.",
+    "vocab": [
+     {
+      "front": "adelantarse",
+      "pos": "verb",
+      "back": "to come early, to move forward in time",
+      "example": "El verano se adelantó este año.",
+      "tier": "B1"
+     },
+     {
+      "front": "la ola de calor",
+      "pos": "noun",
+      "back": "heatwave",
+      "example": "La ola de calor durará toda la semana.",
+      "tier": "B1"
+     },
+     {
+      "front": "el incendio forestal",
+      "pos": "noun",
+      "back": "forest fire, wildfire",
+      "example": "Los incendios forestales son frecuentes en agosto.",
+      "tier": "B1"
+     },
+     {
+      "front": "arrasar",
+      "pos": "verb",
+      "back": "to devastate, to raze",
+      "example": "El fuego arrasó miles de árboles.",
+      "tier": "B2"
+     },
+     {
+      "front": "las llamas",
+      "pos": "noun",
+      "back": "flames",
+      "example": "Las llamas alcanzaron las primeras casas.",
+      "tier": "B1"
+     },
+     {
+      "front": "sin descanso",
+      "pos": "phrase",
+      "back": "without rest, tirelessly",
+      "example": "Los equipos trabajaron sin descanso toda la noche.",
+      "tier": "B1"
+     },
+     {
+      "front": "advertir de",
+      "pos": "verb",
+      "back": "to warn about",
+      "example": "Los científicos advierten del peligro desde hace años.",
+      "tier": "B2"
+     },
+     {
+      "front": "agravar",
+      "pos": "verb",
+      "back": "to worsen, to aggravate",
+      "example": "La falta de lluvia agrava la situación.",
+      "tier": "B2"
+     },
+     {
+      "front": "la sequía",
+      "pos": "noun",
+      "back": "drought",
+      "example": "La sequía afecta a los agricultores del sur.",
+      "tier": "B1"
+     },
+     {
+      "front": "la chispa",
+      "pos": "noun",
+      "back": "spark",
+      "example": "Una sola chispa puede provocar un gran incendio.",
+      "tier": "B2"
+     },
+     {
+      "front": "extremar las precauciones",
+      "pos": "phrase",
+      "back": "to take extra precautions",
+      "example": "Conviene extremar las precauciones al hacer fuego en el campo.",
+      "tier": "B2"
+     },
+     {
+      "front": "los medios aéreos",
+      "pos": "noun",
+      "back": "aerial resources (planes, helicopters)",
+      "example": "Los medios aéreos descargaron agua sobre el bosque.",
+      "tier": "B2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "La temporada de incendios forestales se ha adelantado este año en Europa.",
+      "point": "Reflexive verb in the perfect tense (se ha adelantado)",
+      "explanation": "Adelantarse means to arrive earlier than expected. The pretérito perfecto (se ha adelantado) links a recent event to the present moment.",
+      "why_tricky": "English says 'has come early' with no reflexive; in Spanish the pronoun se is obligatory and sits before the auxiliary haber."
+     },
+     {
+      "sentence": "Los expertos llevan años advirtiendo de que el cambio climático alarga y agrava la temporada de incendios.",
+      "point": "Llevar + time + gerund",
+      "explanation": "Llevan años advirtiendo expresses an action that started in the past and continues now: they have been warning for years.",
+      "why_tricky": "Learners often translate literally with 'hace... que' or the present perfect; llevar + gerund is the most natural spoken option and has no direct English equivalent."
+     },
+     {
+      "sentence": "Ante este panorama, los gobiernos europeos suelen reforzar sus medios aéreos y piden a la población extremar las precauciones durante los meses de verano.",
+      "point": "Soler + infinitive for habitual actions",
+      "explanation": "Suelen reforzar means they usually reinforce. Soler only exists in a few tenses and always takes an infinitive.",
+      "why_tricky": "There is no single English verb for soler; learners tend to overuse normalmente instead of this very common structure."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "trabajar sin descanso",
+      "meaning": "to work non-stop, tirelessly",
+      "example": "Los voluntarios trabajaron sin descanso durante el fin de semana."
+     },
+     {
+      "phrase": "ante este panorama",
+      "meaning": "faced with this situation, given this outlook",
+      "example": "Ante este panorama, la empresa decidió cambiar de estrategia."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿En qué países se registran incendios este fin de semana?",
+      "type": "open"
+     },
+     {
+      "q": "Según los expertos, ¿qué efecto tiene el cambio climático sobre la temporada de incendios?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué combinación de factores convierte cualquier chispa en un fuego difícil de controlar?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Crees que los gobiernos europeos hacen lo suficiente contra el cambio climático y los incendios? Escribe tu opinión en unas 100 palabras."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-05-eeuu-250-aniversario",
+   "title": "EE.UU. celebra sus 250 años bajo una ola de calor, amenazas de Trump y con divisiones políticas",
+   "source": "RFI en español",
+   "date": "2026-07-04",
+   "level": "B1-B2",
+   "topics": [
+    "política",
+    "historia"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-05-eeuu-250-aniversario",
+    "revision": 1,
+    "meta": {
+     "title": "EE.UU. celebra sus 250 años bajo una ola de calor, amenazas de Trump y con divisiones políticas",
+     "source": "RFI en español",
+     "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260704-ee-uu-celebra-sus-250-a%C3%B1os-bajo-una-ola-de-calor-amenazas-de-trump-y-con-divisiones-pol%C3%ADticas",
+     "date_published": "2026-07-04",
+     "date_processed": "2026-07-05",
+     "tags": [
+      "política",
+      "historia"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "The United States celebrated the 250th anniversary of its independence on Saturday, a historic date marked by the leading role of President Donald Trump. The commemoration came at a moment of deep political division and also coincided with an extreme heatwave hitting much of the country. Despite everything, the celebrations filled streets and parks with the traditional parades and fireworks.\n\nThe anniversary invites a look back: in 1776, thirteen colonies declared their independence from the British Empire and set in motion a political project that would turn the country into a superpower. However, many analysts point out that the United States reaches this highly symbolic birthday more divided than ever, with deep disagreements over immigration, the economy and national identity. The big question is what direction the country will take in the coming decades.",
+    "resumen_es": "Estados Unidos celebró este sábado el 250 aniversario de su independencia, una fecha histórica marcada por el protagonismo del presidente Donald Trump. La conmemoración llegó en un momento de profunda división política y coincidió, además, con una ola de calor extremo que azota a buena parte del país. Pese a todo, las celebraciones llenaron calles y parques con los tradicionales desfiles y fuegos artificiales.\n\nEl aniversario invita a mirar atrás: en 1776, trece colonias declararon su independencia del Imperio británico y pusieron en marcha un proyecto político que convertiría al país en una superpotencia. Sin embargo, muchos analistas señalan que Estados Unidos llega a este cumpleaños tan simbólico más dividido que nunca, con desacuerdos profundos sobre inmigración, economía e identidad nacional. La gran pregunta es qué rumbo tomará el país en las próximas décadas.",
+    "vocab": [
+     {
+      "front": "el aniversario",
+      "pos": "noun",
+      "back": "anniversary",
+      "example": "La ciudad celebra el aniversario de su fundación.",
+      "tier": "B1"
+     },
+     {
+      "front": "el protagonismo",
+      "pos": "noun",
+      "back": "leading role, prominence",
+      "example": "El alcalde busca protagonismo en todos los actos públicos.",
+      "tier": "B2"
+     },
+     {
+      "front": "la conmemoración",
+      "pos": "noun",
+      "back": "commemoration",
+      "example": "La conmemoración reunió a miles de personas.",
+      "tier": "B2"
+     },
+     {
+      "front": "azotar",
+      "pos": "verb",
+      "back": "to batter, to hit hard (of weather, crises)",
+      "example": "Una tormenta azotó la costa durante horas.",
+      "tier": "B2"
+     },
+     {
+      "front": "pese a",
+      "pos": "phrase",
+      "back": "despite, in spite of",
+      "example": "Pese a la lluvia, el concierto continuó.",
+      "tier": "B2"
+     },
+     {
+      "front": "el desfile",
+      "pos": "noun",
+      "back": "parade",
+      "example": "El desfile recorrió el centro de la ciudad.",
+      "tier": "B1"
+     },
+     {
+      "front": "los fuegos artificiales",
+      "pos": "noun",
+      "back": "fireworks",
+      "example": "Los fuegos artificiales cerraron la fiesta.",
+      "tier": "B1"
+     },
+     {
+      "front": "poner en marcha",
+      "pos": "phrase",
+      "back": "to set in motion, to launch",
+      "example": "El gobierno puso en marcha un plan de empleo.",
+      "tier": "B2"
+     },
+     {
+      "front": "la superpotencia",
+      "pos": "noun",
+      "back": "superpower",
+      "example": "China y Estados Unidos compiten como superpotencias.",
+      "tier": "B2"
+     },
+     {
+      "front": "señalar",
+      "pos": "verb",
+      "back": "to point out, to indicate",
+      "example": "Los analistas señalan que la economía mejora.",
+      "tier": "B1"
+     },
+     {
+      "front": "el desacuerdo",
+      "pos": "noun",
+      "back": "disagreement",
+      "example": "Hay un profundo desacuerdo entre los dos partidos.",
+      "tier": "B1"
+     },
+     {
+      "front": "el rumbo",
+      "pos": "noun",
+      "back": "direction, course",
+      "example": "La empresa cambió de rumbo tras la crisis.",
+      "tier": "B2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Pese a todo, las celebraciones llenaron calles y parques con los tradicionales desfiles y fuegos artificiales.",
+      "point": "Concessive connector pese a",
+      "explanation": "Pese a (+ noun or todo) introduces a contrast, like a pesar de: despite everything, the celebrations went ahead.",
+      "why_tricky": "Pese a is more formal and journalistic than a pesar de; learners rarely produce it actively although it is everywhere in news Spanish."
+     },
+     {
+      "sentence": "en 1776, trece colonias declararon su independencia del Imperio británico y pusieron en marcha un proyecto político que convertiría al país en una superpotencia.",
+      "point": "Conditional for future in the past (convertiría)",
+      "explanation": "The conditional convertiría expresses a future seen from a past moment: a project that would later turn the country into a superpower.",
+      "why_tricky": "Learners associate the conditional only with hypotheses; this 'future of the past' use is very common in historical narration."
+     },
+     {
+      "sentence": "La gran pregunta es qué rumbo tomará el país en las próximas décadas.",
+      "point": "Indirect question with qué + future",
+      "explanation": "After es, the indirect question qué rumbo tomará keeps the question word but drops the question marks; the future tense expresses prediction.",
+      "why_tricky": "Word order stays subject-last (tomará el país), which feels inverted compared with English 'what direction the country will take'."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "más dividido que nunca",
+      "meaning": "more divided than ever",
+      "example": "El equipo llegó a la final más motivado que nunca."
+     },
+     {
+      "phrase": "mirar atrás",
+      "meaning": "to look back (at the past)",
+      "example": "A veces conviene mirar atrás para entender el presente."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Qué dos circunstancias acompañaron la celebración del 250 aniversario?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué ocurrió en 1776 según el texto?",
+      "type": "open"
+     },
+     {
+      "q": "¿Sobre qué temas existen desacuerdos profundos en Estados Unidos?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Qué importancia tienen las celebraciones nacionales como esta? ¿Unen o dividen a un país? Escribe tu opinión en unas 100 palabras."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-05-whatsapp-nombre-usuario",
+   "title": "El cambio en WhatsApp que permitirá los chats sin tener que compartir un número telefónico",
+   "source": "BBC Mundo",
+   "date": "2026-07-03",
+   "level": "B1-B2",
+   "topics": [
+    "tecnología",
+    "privacidad"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-05-whatsapp-nombre-usuario",
+    "revision": 1,
+    "meta": {
+     "title": "El cambio en WhatsApp que permitirá los chats sin tener que compartir un número telefónico",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/c4gy8dq4jn3o?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-07-03",
+     "date_processed": "2026-07-05",
+     "tags": [
+      "tecnología",
+      "privacidad"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "WhatsApp is preparing an important change to the way it works: soon it will be possible to chat with other people without having to share your phone number. The new feature will let users choose a username inside the app, similar to the one already used on networks like Instagram, and it will be rolled out worldwide over the coming months.\n\nThe main goal is to protect users' privacy. Until now, giving out your number was the only way to start a conversation, which is awkward when dealing with strangers, sellers or work contacts. With a username, each person will be able to decide how much personal information they reveal. Digital security experts recommend, in any case, reviewing your privacy settings and being wary of messages from unknown accounts.",
+    "resumen_es": "WhatsApp prepara un cambio importante en su forma de funcionar: pronto será posible chatear con otras personas sin tener que compartir el número de teléfono. La nueva función permitirá elegir un nombre de usuario dentro de la aplicación, parecido al que ya se usa en redes como Instagram, y se implementará a nivel mundial en los próximos meses.\n\nEl objetivo principal es proteger la privacidad de los usuarios. Hasta ahora, dar el número era la única manera de empezar una conversación, algo incómodo cuando se trata de desconocidos, vendedores o contactos de trabajo. Con el nombre de usuario, cada persona podrá decidir cuánta información personal revela. Los expertos en seguridad digital recomiendan, en cualquier caso, revisar los ajustes de privacidad y desconfiar de mensajes de cuentas desconocidas.",
+    "vocab": [
+     {
+      "front": "el nombre de usuario",
+      "pos": "noun",
+      "back": "username",
+      "example": "Elige un nombre de usuario fácil de recordar.",
+      "tier": "B1"
+     },
+     {
+      "front": "compartir",
+      "pos": "verb",
+      "back": "to share",
+      "example": "No quiero compartir mi número con desconocidos.",
+      "tier": "B1"
+     },
+     {
+      "front": "la función",
+      "pos": "noun",
+      "back": "feature, function",
+      "example": "La aplicación tiene una función para borrar mensajes.",
+      "tier": "B1"
+     },
+     {
+      "front": "implementarse",
+      "pos": "verb",
+      "back": "to be rolled out, to be implemented",
+      "example": "La medida se implementará el año que viene.",
+      "tier": "B2"
+     },
+     {
+      "front": "a nivel mundial",
+      "pos": "phrase",
+      "back": "worldwide, globally",
+      "example": "La empresa opera a nivel mundial.",
+      "tier": "B1"
+     },
+     {
+      "front": "la privacidad",
+      "pos": "noun",
+      "back": "privacy",
+      "example": "Muchos usuarios se preocupan por su privacidad.",
+      "tier": "B1"
+     },
+     {
+      "front": "el desconocido",
+      "pos": "noun",
+      "back": "stranger",
+      "example": "No aceptes mensajes de desconocidos.",
+      "tier": "B1"
+     },
+     {
+      "front": "incómodo",
+      "pos": "adj",
+      "back": "uncomfortable, awkward",
+      "example": "Fue una situación muy incómoda para todos.",
+      "tier": "B1"
+     },
+     {
+      "front": "los ajustes",
+      "pos": "noun",
+      "back": "settings",
+      "example": "Revisa los ajustes de tu cuenta cada cierto tiempo.",
+      "tier": "B1"
+     },
+     {
+      "front": "desconfiar de",
+      "pos": "verb",
+      "back": "to distrust, to be wary of",
+      "example": "Desconfía de las ofertas demasiado buenas.",
+      "tier": "B2"
+     },
+     {
+      "front": "revelar",
+      "pos": "verb",
+      "back": "to reveal, to disclose",
+      "example": "La empresa no quiso revelar los detalles del acuerdo.",
+      "tier": "B2"
+     },
+     {
+      "front": "la cuenta",
+      "pos": "noun",
+      "back": "account",
+      "example": "Cerré mi cuenta en esa red social.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "pronto será posible chatear con otras personas sin tener que compartir el número de teléfono",
+      "point": "Sin + infinitive",
+      "explanation": "Sin tener que compartir means without having to share. Spanish uses sin + infinitive where English uses without + -ing.",
+      "why_tricky": "Learners often try sin + gerund (sin teniendo), calqued from English; after a preposition Spanish requires the infinitive."
+     },
+     {
+      "sentence": "Hasta ahora, dar el número era la única manera de empezar una conversación, algo incómodo cuando se trata de desconocidos, vendedores o contactos de trabajo.",
+      "point": "Infinitive as subject + imperfect for background description",
+      "explanation": "Dar el número acts as the subject of era. The imperfect era describes how things used to be until now.",
+      "why_tricky": "English needs a gerund subject ('giving out your number was...'), while Spanish prefers the bare infinitive; choosing imperfect over indefinido here signals an ongoing past state."
+     },
+     {
+      "sentence": "cada persona podrá decidir cuánta información personal revela",
+      "point": "Indirect question with cuánta agreeing in gender",
+      "explanation": "Cuánta agrees with información (feminine singular): how much personal information they reveal.",
+      "why_tricky": "Cuánto must agree in gender and number (cuánto dinero, cuánta gente, cuántos datos), something English how much/how many does not show."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "en cualquier caso",
+      "meaning": "in any case, at any rate",
+      "example": "En cualquier caso, es mejor pedir permiso antes."
+     },
+     {
+      "phrase": "cuando se trata de",
+      "meaning": "when it comes to",
+      "example": "Cuando se trata de dinero, todos prestan atención."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Qué permitirá la nueva función de WhatsApp?",
+      "type": "open"
+     },
+     {
+      "q": "¿Por qué era incómodo tener que dar el número de teléfono, según el texto?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué recomiendan los expertos en seguridad digital?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Te preocupa la privacidad en las aplicaciones de mensajería? ¿Usarías un nombre de usuario en lugar de tu número? Escribe unas 100 palabras."
+   }
+  },
   {
    "pack_id": "feed-2026-07-03-adjani-fraude-fiscal",
    "title": "Francia: La actriz Isabelle Adjani, condenada a 10 meses de cárcel en suspenso por fraude fiscal",
@@ -6351,520 +6837,6 @@
      }
     ],
     "opinion_prompt": "En tu opinión, ¿qué deberían hacer los gobiernos para proteger a la población en las zonas de riesgo sísmico? Justifica tu respuesta."
-   }
-  },
-  {
-   "pack_id": "feed-2026-06-27-papa-francia",
-   "title": "Una misa en los Campos Elíseos será el evento central de la visita del Papa a Francia en septiembre",
-   "source": "RFI Español",
-   "date": "2026-06-27",
-   "level": "B1-B2",
-   "topics": [
-    "religión",
-    "Francia"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-06-27-papa-francia",
-    "revision": 1,
-    "meta": {
-     "title": "Una misa en los Campos Elíseos será el evento central de la visita del Papa a Francia en septiembre",
-     "source": "RFI Español",
-     "url": "https://www.rfi.fr/es/francia/20260626-una-misa-en-los-campos-el%C3%ADseos-ser%C3%A1-el-evento-central-de-la-visita-del-papa-a-francia-en-septiembre",
-     "date_published": "2026-06-27",
-     "date_processed": "2026-06-27",
-     "tags": [
-      "religión",
-      "Francia"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "Pope Leo XIV will visit France at the end of September, in what will be the first state visit by a pontiff to the country since 2008. The central event will be a large open-air mass on the Champs-Elysees, the most famous avenue in Paris, where the presence of thousands of faithful arriving from all over France is expected.\n\nDuring his stay, the holy father will also meet with young people in a well-known stadium and will travel to other cities in the country. The trip carries strong symbolic value, since it combines religious moments with social and cultural encounters. For many French Catholics, it is a historic and long-awaited occasion, able to fill the streets and draw the attention of the media.",
-    "resumen_es": "El papa León XIV visitará Francia a finales de septiembre, en lo que será la primera visita de Estado de un pontífice al país desde 2008. El acto central será una gran misa al aire libre en los Campos Elíseos, la avenida más famosa de París, donde se espera la presencia de miles de fieles llegados de toda Francia.\n\nDurante su estancia, el santo padre también se reunirá con jóvenes en un conocido estadio y se desplazará a otras ciudades del país. El viaje tiene un fuerte valor simbólico, ya que combina momentos religiosos con encuentros sociales y culturales. Para muchos católicos franceses, se trata de una ocasión histórica y muy esperada, capaz de llenar las calles y de atraer la atención de los medios de comunicación.",
-    "vocab": [
-     {
-      "front": "el pontífice",
-      "pos": "noun",
-      "back": "pontiff, the Pope",
-      "example": "El pontífice saludó a la multitud.",
-      "tier": "B2"
-     },
-     {
-      "front": "la visita de Estado",
-      "pos": "phrase",
-      "back": "state visit",
-      "example": "Será la primera visita de Estado en años.",
-      "tier": "B2"
-     },
-     {
-      "front": "la misa",
-      "pos": "noun",
-      "back": "(Catholic) mass",
-      "example": "Miles de personas asistieron a la misa.",
-      "tier": "B1"
-     },
-     {
-      "front": "al aire libre",
-      "pos": "phrase",
-      "back": "outdoors, in the open air",
-      "example": "La ceremonia se hará al aire libre.",
-      "tier": "B1"
-     },
-     {
-      "front": "el fiel",
-      "pos": "noun",
-      "back": "believer, member of the faithful",
-      "example": "Los fieles llenaron la avenida.",
-      "tier": "B2"
-     },
-     {
-      "front": "la estancia",
-      "pos": "noun",
-      "back": "stay, time spent somewhere",
-      "example": "Durante su estancia visitó varias ciudades.",
-      "tier": "B2"
-     },
-     {
-      "front": "desplazarse",
-      "pos": "verb",
-      "back": "to travel, move from place to place",
-      "example": "El papa se desplazará a Lourdes.",
-      "tier": "B2"
-     },
-     {
-      "front": "reunirse",
-      "pos": "verb",
-      "back": "to meet (with)",
-      "example": "Se reunirá con los jóvenes.",
-      "tier": "B1"
-     },
-     {
-      "front": "simbólico",
-      "pos": "adj",
-      "back": "symbolic",
-      "example": "El gesto tiene un gran valor simbólico.",
-      "tier": "B2"
-     },
-     {
-      "front": "esperado",
-      "pos": "adj",
-      "back": "awaited, anticipated",
-      "example": "Es una visita muy esperada.",
-      "tier": "B1"
-     },
-     {
-      "front": "atraer",
-      "pos": "verb",
-      "back": "to attract, draw",
-      "example": "El evento atrae a miles de personas.",
-      "tier": "B1"
-     },
-     {
-      "front": "los medios de comunicación",
-      "pos": "noun",
-      "back": "the media",
-      "example": "Los medios de comunicación cubrieron el viaje.",
-      "tier": "B1"
-     },
-     {
-      "front": "la ocasión",
-      "pos": "noun",
-      "back": "occasion, opportunity",
-      "example": "Es una ocasión histórica para el país.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "El acto central será una gran misa al aire libre en los Campos Elíseos, la avenida más famosa de París, donde se espera la presencia de miles de fieles llegados de toda Francia.",
-      "point": "Future simple for plans",
-      "explanation": "'Será' is the future of 'ser'; Spanish uses the simple future to announce a confirmed future event.",
-      "why_tricky": "English often uses 'will be' or 'is going to be', while here a single future form covers both ideas."
-     },
-     {
-      "sentence": "Durante su estancia, el santo padre también se reunirá con jóvenes en un conocido estadio y se desplazará a otras ciudades del país.",
-      "point": "Reflexive verbs in the future",
-      "explanation": "'Se reunirá' and 'se desplazará' keep the reflexive 'se' even in the future tense.",
-      "why_tricky": "The pronoun stays attached to the meaning of the verb, so dropping it would change or break the sentence."
-     },
-     {
-      "sentence": "Para muchos católicos franceses, se trata de una ocasión histórica y muy esperada, capaz de llenar las calles y de atraer la atención de los medios de comunicación.",
-      "point": "Impersonal 'se trata de'",
-      "explanation": "'Se trata de' means 'it is about' or 'it is a case of' and never changes its subject.",
-      "why_tricky": "Learners often try to give it a subject or translate it word for word, which does not work."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "al aire libre",
-      "meaning": "outdoors, in the open air",
-      "example": "Prefieren celebrar la misa al aire libre."
-     },
-     {
-      "phrase": "tratarse de",
-      "meaning": "to be about, to be a question of",
-      "example": "Se trata de una ocasión histórica."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Cuándo y por qué es importante esta visita del papa a Francia?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué actividades hará el pontífice además de la misa principal?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué dice el texto que el viaje tiene un valor simbólico?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Crees que las visitas de líderes religiosos siguen teniendo importancia hoy en día? Explica tu punto de vista."
-   }
-  },
-  {
-   "pack_id": "feed-2026-06-27-ecuador-mundial",
-   "title": "Ecuador sorprende a Alemania y sigue viva en la Copa del Mundo",
-   "source": "RFI Español",
-   "date": "2026-06-27",
-   "level": "B1-B2",
-   "topics": [
-    "deporte",
-    "Mundial"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-06-27-ecuador-mundial",
-    "revision": 1,
-    "meta": {
-     "title": "Ecuador sorprende a Alemania y sigue viva en la Copa del Mundo",
-     "source": "RFI Español",
-     "url": "https://www.rfi.fr/es/deportes/20260626-ecuador-sorprende-a-alemania-y-sigue-viva-en-la-copa-del-mundo",
-     "date_published": "2026-06-27",
-     "date_processed": "2026-06-27",
-     "tags": [
-      "deporte",
-      "Mundial"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "Ecuador pulled off one of the World Cup's big surprises by coming from behind to beat Germany, one of the strongest teams in the tournament. The Ecuadorian side, known as 'la Tri', went a goal down, but did not give up and managed to turn the scoreline around in the second half. The fans celebrated with huge joy a victory that keeps their hopes alive.\n\nWith this result, Ecuador still has a chance of qualifying for the next round as one of the best third-placed teams in its group. South American football once again shows its competitive character against the big European sides. For the players and the supporters, this win means an important morale boost and proof that, at a World Cup, you should never give anything up for lost.",
-    "resumen_es": "Ecuador dio una de las grandes sorpresas del Mundial al remontar y vencer a Alemania, una de las selecciones más fuertes del torneo. El equipo ecuatoriano, conocido como la Tri, empezó perdiendo, pero no se rindió y logró darle la vuelta al marcador en la segunda parte. La afición celebró con enorme alegría una victoria que mantiene viva la ilusión.\n\nCon este resultado, Ecuador todavía tiene opciones de clasificarse a la siguiente ronda como uno de los mejores terceros de su grupo. El fútbol sudamericano vuelve así a demostrar su carácter competitivo frente a los grandes equipos europeos. Para los jugadores y los hinchas, este triunfo supone un impulso anímico importante y la prueba de que, en una Copa del Mundo, nunca conviene dar nada por perdido.",
-    "vocab": [
-     {
-      "front": "remontar",
-      "pos": "verb",
-      "back": "to come from behind, recover a deficit",
-      "example": "El equipo logró remontar en el segundo tiempo.",
-      "tier": "B2"
-     },
-     {
-      "front": "la selección",
-      "pos": "noun",
-      "back": "national team",
-      "example": "La selección alemana es muy fuerte.",
-      "tier": "B1"
-     },
-     {
-      "front": "rendirse",
-      "pos": "verb",
-      "back": "to give up, surrender",
-      "example": "Nunca se rindieron pese a ir perdiendo.",
-      "tier": "B1"
-     },
-     {
-      "front": "el marcador",
-      "pos": "noun",
-      "back": "scoreboard, scoreline",
-      "example": "Cambiaron el marcador en el último minuto.",
-      "tier": "B2"
-     },
-     {
-      "front": "darle la vuelta al marcador",
-      "pos": "phrase",
-      "back": "to turn the scoreline around",
-      "example": "Supieron darle la vuelta al marcador.",
-      "tier": "B2"
-     },
-     {
-      "front": "la afición",
-      "pos": "noun",
-      "back": "the fans, supporters (collective)",
-      "example": "La afición llenó el estadio.",
-      "tier": "B2"
-     },
-     {
-      "front": "la ilusión",
-      "pos": "noun",
-      "back": "hope, excitement",
-      "example": "El gol mantuvo viva la ilusión.",
-      "tier": "B1"
-     },
-     {
-      "front": "clasificarse",
-      "pos": "verb",
-      "back": "to qualify (for a stage)",
-      "example": "Aún pueden clasificarse a la final.",
-      "tier": "B1"
-     },
-     {
-      "front": "la ronda",
-      "pos": "noun",
-      "back": "round, stage",
-      "example": "Pasaron a la siguiente ronda.",
-      "tier": "B1"
-     },
-     {
-      "front": "el hincha",
-      "pos": "noun",
-      "back": "fan, supporter",
-      "example": "Los hinchas viajaron para ver el partido.",
-      "tier": "B2"
-     },
-     {
-      "front": "el triunfo",
-      "pos": "noun",
-      "back": "win, triumph",
-      "example": "El triunfo dio confianza al equipo.",
-      "tier": "B1"
-     },
-     {
-      "front": "el impulso anímico",
-      "pos": "phrase",
-      "back": "morale boost",
-      "example": "La victoria fue un gran impulso anímico.",
-      "tier": "B2"
-     },
-     {
-      "front": "dar por perdido",
-      "pos": "phrase",
-      "back": "to give up for lost",
-      "example": "No hay que dar el partido por perdido.",
-      "tier": "B2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "El equipo ecuatoriano, conocido como la Tri, empezó perdiendo, pero no se rindió y logró darle la vuelta al marcador en la segunda parte.",
-      "point": "'empezar' + gerund",
-      "explanation": "'Empezó perdiendo' uses a gerund after 'empezar' to describe how the action began.",
-      "why_tricky": "English says 'started losing', so the structure matches, but learners often add a wrong preposition."
-     },
-     {
-      "sentence": "Con este resultado, Ecuador todavía tiene opciones de clasificarse a la siguiente ronda como uno de los mejores terceros de su grupo.",
-      "point": "'tener opciones de' + infinitive",
-      "explanation": "After 'opciones de' the verb stays in the infinitive ('clasificarse').",
-      "why_tricky": "The reflexive 'se' attaches to the infinitive, which can look unusual to learners."
-     },
-     {
-      "sentence": "Para los jugadores y los hinchas, este triunfo supone un impulso anímico importante y la prueba de que, en una Copa del Mundo, nunca conviene dar nada por perdido.",
-      "point": "Impersonal 'conviene' + infinitive",
-      "explanation": "'Conviene dar' is an impersonal expression meaning 'it is advisable to give'.",
-      "why_tricky": "There is no explicit subject, and 'nunca' before the verb creates a double-negative pattern."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "darle la vuelta al marcador",
-      "meaning": "to turn a losing scoreline into a winning one",
-      "example": "En diez minutos le dieron la vuelta al marcador."
-     },
-     {
-      "phrase": "dar algo por perdido",
-      "meaning": "to assume something is already lost",
-      "example": "No des el partido por perdido hasta el final."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué hizo especial la victoria de Ecuador frente a Alemania?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué necesita Ecuador para clasificarse a la siguiente ronda?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué enseñanza saca el texto de este partido?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Qué importancia crees que tiene la actitud mental en el deporte cuando un equipo va perdiendo? Da tu opinión con ejemplos."
-   }
-  },
-  {
-   "pack_id": "feed-2026-06-26-domo-calor-europa",
-   "title": "Qué es el domo de calor que está causando temperaturas extremas en Europa",
-   "source": "BBC Mundo",
-   "date": "2026-06-23",
-   "level": "B1-B2",
-   "topics": [
-    "clima",
-    "ciencia"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-06-26-domo-calor-europa",
-    "revision": 1,
-    "meta": {
-     "title": "Qué es el domo de calor que está causando temperaturas extremas en Europa",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/cly812z0g9wo?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-06-23",
-     "date_processed": "2026-06-26",
-     "tags": [
-      "clima",
-      "ciencia"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "An intense heat wave is affecting much of western and central Europe these days. Meteorologists warn that temperatures could exceed forty degrees in several regions. This is an unusual level for this time of year. The phenomenon is what experts call a \"heat dome\", a mass of hot air that gets trapped over an area for several days.\n\nThis situation happens when a high-pressure system acts like a lid and stops the hot air from escaping upward. As a result, the heat builds up and the nights barely cool down, which increases the risk to health. The authorities recommend drinking water often, avoiding the midday sun and keeping an eye on elderly people. Scientists also point out that climate change is making these waves more and more frequent and intense.",
-    "resumen_es": "Una intensa ola de calor afecta estos días a buena parte de Europa occidental y central. Los meteorólogos advierten de que las temperaturas podrían superar los cuarenta grados en varias regiones. Se trata de un nivel poco habitual para esta época del año. El fenómeno responde a lo que los expertos llaman un \"domo de calor\", una masa de aire caliente que queda atrapada sobre una zona durante varios días.\n\nEsta situación se produce cuando un sistema de alta presión actúa como una tapa e impide que el aire caliente escape hacia arriba. Como consecuencia, el calor se acumula y las noches apenas refrescan, lo que aumenta el riesgo para la salud. Las autoridades recomiendan beber agua con frecuencia, evitar el sol del mediodía y vigilar a las personas mayores. Los científicos señalan, además, que el cambio climático hace que estas olas sean cada vez más frecuentes e intensas.",
-    "vocab": [
-     {
-      "front": "ola de calor",
-      "pos": "phrase",
-      "back": "heat wave",
-      "example": "Una fuerte ola de calor llegó al sur del país.",
-      "tier": "B1"
-     },
-     {
-      "front": "domo de calor",
-      "pos": "phrase",
-      "back": "heat dome",
-      "example": "El domo de calor mantuvo altas temperaturas durante una semana.",
-      "tier": "B2"
-     },
-     {
-      "front": "advertir (de)",
-      "pos": "verb",
-      "back": "to warn (about)",
-      "example": "Los expertos advirtieron del peligro.",
-      "tier": "B1"
-     },
-     {
-      "front": "superar",
-      "pos": "verb",
-      "back": "to exceed, surpass",
-      "example": "Las cifras superaron todas las previsiones.",
-      "tier": "B1"
-     },
-     {
-      "front": "masa de aire",
-      "pos": "phrase",
-      "back": "air mass",
-      "example": "Una masa de aire frío llegó del norte.",
-      "tier": "B2"
-     },
-     {
-      "front": "quedar atrapado",
-      "pos": "phrase",
-      "back": "to be trapped",
-      "example": "El calor queda atrapado sobre la ciudad.",
-      "tier": "B2"
-     },
-     {
-      "front": "alta presión",
-      "pos": "noun",
-      "back": "high pressure",
-      "example": "Un sistema de alta presión trae cielos despejados.",
-      "tier": "B2"
-     },
-     {
-      "front": "refrescar",
-      "pos": "verb",
-      "back": "to cool down",
-      "example": "Por la noche apenas refresca.",
-      "tier": "B1"
-     },
-     {
-      "front": "acumularse",
-      "pos": "verb",
-      "back": "to build up, accumulate",
-      "example": "El calor se acumula en las calles.",
-      "tier": "B2"
-     },
-     {
-      "front": "riesgo",
-      "pos": "noun",
-      "back": "risk",
-      "example": "El calor extremo supone un riesgo para los mayores.",
-      "tier": "B1"
-     },
-     {
-      "front": "vigilar",
-      "pos": "verb",
-      "back": "to keep an eye on, watch over",
-      "example": "Hay que vigilar a los niños en la piscina.",
-      "tier": "B1"
-     },
-     {
-      "front": "cambio climático",
-      "pos": "phrase",
-      "back": "climate change",
-      "example": "El cambio climático agrava las sequías.",
-      "tier": "B1"
-     },
-     {
-      "front": "frecuente",
-      "pos": "adj",
-      "back": "frequent",
-      "example": "Las tormentas son más frecuentes en otoño.",
-      "tier": "B1"
-     },
-     {
-      "front": "mediodía",
-      "pos": "noun",
-      "back": "midday, noon",
-      "example": "Evita salir al mediodía cuando hace calor.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Los meteorólogos advierten de que las temperaturas podrían superar los cuarenta grados en varias regiones.",
-      "point": "advertir de que + condicional",
-      "explanation": "El verbo 'advertir' rige la preposición 'de' antes de 'que', y 'podrían' es un condicional que expresa posibilidad.",
-      "why_tricky": "Muchos estudiantes omiten la 'de' (queísmo) o, al revés, la añaden donde no toca."
-     },
-     {
-      "sentence": "Esta situación se produce cuando un sistema de alta presión actúa como una tapa e impide que el aire caliente escape hacia arriba.",
-      "point": "impedir que + subjuntivo",
-      "explanation": "Los verbos de influencia o de impedimento, como 'impedir que', exigen subjuntivo: 'escape'. Además, 'y' se convierte en 'e' delante de palabras que empiezan por i.",
-      "why_tricky": "Se confunde el indicativo con el subjuntivo y se olvida el cambio de 'y' a 'e'."
-     },
-     {
-      "sentence": "Los científicos señalan, además, que el cambio climático hace que estas olas sean cada vez más frecuentes e intensas.",
-      "point": "hacer que + subjuntivo",
-      "explanation": "La estructura causativa 'hacer que' pide subjuntivo: 'sean'. 'Cada vez más' indica una intensidad creciente.",
-      "why_tricky": "Tiende a usarse el indicativo 'son' en lugar del subjuntivo 'sean'."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "cada vez más",
-      "meaning": "more and more, increasingly",
-      "example": "En verano, cada vez más gente busca la sombra."
-     },
-     {
-      "phrase": "apretar el calor",
-      "meaning": "the heat becomes intense or oppressive",
-      "example": "A mediodía aprieta el calor y es mejor quedarse en casa."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué es un domo de calor y por qué hace subir tanto las temperaturas?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué consejos dan las autoridades para protegerse del calor extremo?",
-      "type": "open"
-     },
-     {
-      "q": "Según los científicos, ¿qué relación hay entre el cambio climático y estas olas de calor?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Qué medidas crees que deberían tomar las ciudades para proteger a la población durante las olas de calor? Escribe tu opinión en unas cien palabras."
    }
   }
  ]
