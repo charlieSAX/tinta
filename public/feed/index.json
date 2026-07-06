@@ -1,7 +1,535 @@
 {
- "generated_at": "2026-07-05T08:09:56Z",
+ "generated_at": "2026-07-06T20:18:04Z",
  "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-07-06-rumania-ciberataque",
+   "title": "Como un pais europeo consiguio derrotar un ciberataque contra sus hospitales gracias al lapiz y al papel",
+   "source": "BBC Mundo",
+   "date": "2026-07-06",
+   "level": "B1-B2",
+   "topics": [
+    "ciberseguridad",
+    "salud"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-06-rumania-ciberataque",
+    "revision": 1,
+    "meta": {
+     "title": "Como un pais europeo consiguio derrotar un ciberataque contra sus hospitales gracias al lapiz y al papel",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/c30y6l7erddo?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-07-06",
+     "date_processed": "2026-07-06",
+     "tags": [
+      "ciberseguridad",
+      "salud"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "A cyberattack knocked out the computer systems of dozens of hospitals in Romania. For several days, doctors could not access digital medical records or many devices on the network. To avoid interrupting care, the staff turned to an unexpected solution: pen and paper. They went back to writing down data and prescriptions by hand, just as was done before computers.\n\nThis case shows that, faced with a technological crisis, the simplest methods can be the most effective. Health officials stress the importance of having an emergency plan that does not depend entirely on computers. Attacks against hospitals are becoming more and more frequent, because criminals know that these institutions cannot be left paralysed. That is why many governments now insist on strengthening cybersecurity.",
+    "resumen_es": "Un ciberataque dejo fuera de servicio los sistemas informaticos de decenas de hospitales en Rumania. Durante varios dias, los medicos no pudieron acceder a los historiales digitales ni a muchos equipos de la red. Para no interrumpir la atencion, el personal recurrio a una solucion inesperada: el lapiz y el papel. Volvieron a apuntar a mano los datos y las recetas, tal como se hacia antes de la informatica.\n\nEste caso demuestra que, ante una crisis tecnologica, los metodos mas sencillos pueden ser los mas eficaces. Los responsables sanitarios subrayan la importancia de tener un plan de emergencia que no dependa por completo de los ordenadores. Los ataques contra hospitales son cada vez mas frecuentes, ya que los delincuentes saben que estas instituciones no pueden quedar paralizadas. Por eso, muchos gobiernos insisten ahora en reforzar la ciberseguridad.",
+    "vocab": [
+     {
+      "front": "ciberataque",
+      "pos": "noun",
+      "back": "cyberattack",
+      "example": "El ciberataque paralizo la empresa durante horas.",
+      "tier": "B2"
+     },
+     {
+      "front": "dejar fuera de servicio",
+      "pos": "phrase",
+      "back": "to knock out / put out of service",
+      "example": "El fallo dejo fuera de servicio la pagina web.",
+      "tier": "B2"
+     },
+     {
+      "front": "historial medico",
+      "pos": "noun",
+      "back": "medical record",
+      "example": "El medico reviso mi historial medico.",
+      "tier": "B1"
+     },
+     {
+      "front": "recurrir a",
+      "pos": "verb",
+      "back": "to resort to / turn to",
+      "example": "Tuvo que recurrir a un prestamo.",
+      "tier": "B2"
+     },
+     {
+      "front": "receta",
+      "pos": "noun",
+      "back": "prescription",
+      "example": "El doctor me dio una receta para la tos.",
+      "tier": "B1"
+     },
+     {
+      "front": "apuntar",
+      "pos": "verb",
+      "back": "to write down / note",
+      "example": "Apunta la direccion para no olvidarla.",
+      "tier": "B1"
+     },
+     {
+      "front": "reforzar",
+      "pos": "verb",
+      "back": "to strengthen / reinforce",
+      "example": "El gobierno quiere reforzar la seguridad.",
+      "tier": "B2"
+     },
+     {
+      "front": "delincuente",
+      "pos": "noun",
+      "back": "criminal / offender",
+      "example": "La policia detuvo a los delincuentes.",
+      "tier": "B1"
+     },
+     {
+      "front": "quedar paralizado",
+      "pos": "phrase",
+      "back": "to be left paralysed / at a standstill",
+      "example": "La ciudad quedo paralizada por la nieve.",
+      "tier": "B2"
+     },
+     {
+      "front": "plan de emergencia",
+      "pos": "noun",
+      "back": "emergency plan",
+      "example": "Toda empresa necesita un plan de emergencia.",
+      "tier": "B1"
+     },
+     {
+      "front": "eficaz",
+      "pos": "adj",
+      "back": "effective",
+      "example": "Es un remedio muy eficaz.",
+      "tier": "B1"
+     },
+     {
+      "front": "cada vez mas",
+      "pos": "phrase",
+      "back": "increasingly / more and more",
+      "example": "El problema es cada vez mas grave.",
+      "tier": "B1"
+     },
+     {
+      "front": "responsable sanitario",
+      "pos": "noun",
+      "back": "health official",
+      "example": "Los responsables sanitarios dieron una rueda de prensa.",
+      "tier": "B2"
+     },
+     {
+      "front": "red",
+      "pos": "noun",
+      "back": "network",
+      "example": "La red de la oficina se cayo esta manana.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Para no interrumpir la atencion, el personal recurrio a una solucion inesperada: el lapiz y el papel.",
+      "point": "para + infinitivo (finalidad)",
+      "explanation": "Para expresar el proposito de una accion se usa 'para' seguido de infinitivo, aqui en negativo con 'para no interrumpir'.",
+      "why_tricky": "En ingles se usa 'to avoid' + gerundio, pero en espanol es 'para no' + infinitivo, no gerundio."
+     },
+     {
+      "sentence": "Volvieron a apuntar a mano los datos y las recetas, tal como se hacia antes de la informatica.",
+      "point": "volver a + infinitivo (repeticion)",
+      "explanation": "'Volver a' + infinitivo significa hacer algo de nuevo; equivale a 'de nuevo' o 'otra vez'.",
+      "why_tricky": "No se traduce por el verbo 'to return' sino por 'to do again'."
+     },
+     {
+      "sentence": "Los ataques contra hospitales son cada vez mas frecuentes, ya que los delincuentes saben que estas instituciones no pueden quedar paralizadas.",
+      "point": "cada vez mas + adjetivo",
+      "explanation": "La estructura 'cada vez mas' indica un aumento progresivo de una cualidad.",
+      "why_tricky": "El orden fijo 'cada vez mas' confunde a quien traduce literalmente 'each time more'."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "contra viento y marea",
+      "meaning": "against all odds; despite every difficulty",
+      "example": "Siguieron atendiendo a los pacientes contra viento y marea."
+     },
+     {
+      "phrase": "a mano",
+      "meaning": "by hand; manually",
+      "example": "Escribio toda la carta a mano."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Que solucion utilizaron los hospitales cuando fallaron los sistemas informaticos?",
+      "type": "open"
+     },
+     {
+      "q": "Por que crees que los delincuentes atacan cada vez mas a los hospitales?",
+      "type": "open"
+     },
+     {
+      "q": "Que medidas proponen los responsables sanitarios para el futuro?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Crees que las instituciones deberian mantener metodos manuales como alternativa a la tecnologia? Escribe un parrafo explicando tu opinion con ejemplos."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-06-parasitos-cerebro",
+   "title": "Una comida durante unas vacaciones me dejo con 38 parasitos en el cerebro",
+   "source": "BBC Mundo",
+   "date": "2026-07-06",
+   "level": "B1-B2",
+   "topics": [
+    "salud",
+    "ciencia"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-06-parasitos-cerebro",
+    "revision": 1,
+    "meta": {
+     "title": "Una comida durante unas vacaciones me dejo con 38 parasitos en el cerebro",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/c4gyjnvjd79o?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-07-06",
+     "date_processed": "2026-07-06",
+     "tags": [
+      "salud",
+      "ciencia"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "A woman named Lowri suffered for months from puzzling symptoms: severe headaches, seizures and episodes of psychosis. At first, no one understood what was happening to her. After several tests, the doctors discovered the cause: an infection caused by the larvae of the pork tapeworm, which had lodged in her brain. According to the specialists, she was infected by eating contaminated food during a holiday.\n\nThis case, real but uncommon, has drawn the attention of the medical community. The disease, known as cysticercosis, appears when certain parasites reach the body through undercooked meat or contaminated water. Doctors point out that good hygiene and properly cooking food are the best form of prevention. Fortunately, with the right treatment, most patients manage to recover completely.",
+    "resumen_es": "Una mujer llamada Lowri sufrio durante meses unos sintomas desconcertantes: fuertes dolores de cabeza, convulsiones y episodios de psicosis. Al principio, nadie entendia que le ocurria. Tras varias pruebas, los medicos descubrieron el origen: una infeccion provocada por las larvas de la tenia del cerdo, que se habian alojado en su cerebro. Segun los especialistas, se contagio al comer alimentos contaminados durante unas vacaciones.\n\nEste caso, real y poco comun, ha llamado la atencion de la comunidad medica. La enfermedad, conocida como cisticercosis, aparece cuando ciertos parasitos llegan al organismo a traves de carne mal cocinada o de agua contaminada. Los medicos recuerdan que una buena higiene y una coccion adecuada de los alimentos son la mejor forma de prevencion. Por suerte, con el tratamiento apropiado, la mayoria de los pacientes logra recuperarse por completo.",
+    "vocab": [
+     {
+      "front": "sintoma",
+      "pos": "noun",
+      "back": "symptom",
+      "example": "El principal sintoma de la gripe es la fiebre.",
+      "tier": "B1"
+     },
+     {
+      "front": "dolor de cabeza",
+      "pos": "noun",
+      "back": "headache",
+      "example": "Tengo un dolor de cabeza terrible.",
+      "tier": "B1"
+     },
+     {
+      "front": "convulsion",
+      "pos": "noun",
+      "back": "seizure / convulsion",
+      "example": "El paciente sufrio una convulsion.",
+      "tier": "B2"
+     },
+     {
+      "front": "desconcertante",
+      "pos": "adj",
+      "back": "puzzling / baffling",
+      "example": "Su reaccion fue realmente desconcertante.",
+      "tier": "B2"
+     },
+     {
+      "front": "contagiarse",
+      "pos": "verb",
+      "back": "to catch / get infected",
+      "example": "Se contagio de gripe en el trabajo.",
+      "tier": "B1"
+     },
+     {
+      "front": "larva",
+      "pos": "noun",
+      "back": "larva",
+      "example": "Las larvas se convierten en insectos.",
+      "tier": "B2"
+     },
+     {
+      "front": "carne mal cocinada",
+      "pos": "phrase",
+      "back": "undercooked meat",
+      "example": "Es peligroso comer carne mal cocinada.",
+      "tier": "B1"
+     },
+     {
+      "front": "coccion",
+      "pos": "noun",
+      "back": "cooking (process)",
+      "example": "La coccion del arroz dura veinte minutos.",
+      "tier": "B2"
+     },
+     {
+      "front": "prevencion",
+      "pos": "noun",
+      "back": "prevention",
+      "example": "La prevencion es clave en medicina.",
+      "tier": "B1"
+     },
+     {
+      "front": "recuperarse",
+      "pos": "verb",
+      "back": "to recover",
+      "example": "Se recupero pronto tras la operacion.",
+      "tier": "B1"
+     },
+     {
+      "front": "darse cuenta de",
+      "pos": "phrase",
+      "back": "to realize",
+      "example": "Me di cuenta del error demasiado tarde.",
+      "tier": "B1"
+     },
+     {
+      "front": "riesgo oculto",
+      "pos": "phrase",
+      "back": "hidden risk",
+      "example": "Algunos alimentos tienen riesgos ocultos.",
+      "tier": "B2"
+     },
+     {
+      "front": "tratamiento",
+      "pos": "noun",
+      "back": "treatment",
+      "example": "El tratamiento dura seis meses.",
+      "tier": "B1"
+     },
+     {
+      "front": "por suerte",
+      "pos": "phrase",
+      "back": "luckily",
+      "example": "Por suerte, no fue nada grave.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Al principio, nadie entendia que le ocurria.",
+      "point": "imperfecto para acciones en desarrollo en el pasado",
+      "explanation": "El imperfecto ('entendia', 'ocurria') describe situaciones o estados no acabados en el pasado.",
+      "why_tricky": "El ingles suele usar 'past continuous' (was happening), pero el espanol prefiere el imperfecto simple."
+     },
+     {
+      "sentence": "Los medicos recuerdan que una buena higiene y una coccion adecuada de los alimentos son la mejor forma de prevencion.",
+      "point": "concordancia con sujeto compuesto",
+      "explanation": "Cuando el sujeto tiene dos elementos unidos por 'y', el verbo va en plural ('son').",
+      "why_tricky": "Es facil poner el verbo en singular al fijarse solo en el elemento mas cercano."
+     },
+     {
+      "sentence": "Por suerte, con el tratamiento apropiado, la mayoria de los pacientes logra recuperarse por completo.",
+      "point": "la mayoria de + verbo en singular",
+      "explanation": "Con 'la mayoria de' el verbo suele ir en singular porque el nucleo es 'la mayoria'.",
+      "why_tricky": "El plural 'los pacientes' tienta a conjugar en plural, pero la norma prefiere el singular."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "llamar la atencion",
+      "meaning": "to attract attention; to stand out",
+      "example": "Su caso llamo la atencion de todos los medicos."
+     },
+     {
+      "phrase": "salir caro",
+      "meaning": "to cost dearly; to have serious consequences",
+      "example": "Aquella comida le salio muy cara."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Que sintomas experimento Lowri antes del diagnostico?",
+      "type": "open"
+     },
+     {
+      "q": "Como llegaron los parasitos a su organismo?",
+      "type": "open"
+     },
+     {
+      "q": "Que recomiendan los medicos para prevenir esta enfermedad?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Cambiarias tus habitos alimentarios al viajar despues de leer esta historia? Escribe un parrafo explicando por que."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-06-rusia-escasez-gasolina",
+   "title": "Rusia: escasez de gasolina hace descubrir la guerra en Ucrania a muchos rusos",
+   "source": "RFI Espanol",
+   "date": "2026-07-06",
+   "level": "B1-B2",
+   "topics": [
+    "Rusia",
+    "economia"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-06-rusia-escasez-gasolina",
+    "revision": 1,
+    "meta": {
+     "title": "Rusia: escasez de gasolina hace descubrir la guerra en Ucrania a muchos rusos",
+     "source": "RFI Espanol",
+     "url": "https://www.rfi.fr/es/europa/20260706-rusia-escasez-de-gasolina-hace-descubrir-la-guerra-en-ucrania-a-muchos-rusos",
+     "date_published": "2026-07-06",
+     "date_processed": "2026-07-06",
+     "tags": [
+      "Rusia",
+      "economia"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "In several regions of Russia, fuel shortages have been reported. In some areas, drivers have had to wait in long queues or look for fuel at different service stations. According to various analysts, this situation is linked to Ukrainian attacks on Russian refineries, which have reduced production. For many citizens, these difficulties have made the war in Ukraine feel, for the first time, much closer.\n\nExperts point out that these supply problems reflect the tensions of a prolonged conflict. Although the Russian government tries to play down the impact, the lack of fuel affects transport, agriculture and prices. Some observers believe that, if the difficulties continue, criticism inside the country could grow. For now, it is not clear how the situation will develop, but the episode shows that the consequences of the war are beginning to be felt far from the front.",
+    "resumen_es": "En varias regiones de Rusia se han registrado problemas de escasez de gasolina. En algunas zonas, los conductores han tenido que hacer largas colas o buscar combustible en distintas estaciones de servicio. Segun diversos analistas, esta situacion esta relacionada con los ataques ucranianos contra refinerias rusas, que han reducido la produccion. Para muchos ciudadanos, estas dificultades han hecho que la guerra en Ucrania se sienta, por primera vez, mucho mas cerca.\n\nLos expertos senalan que estos problemas de abastecimiento reflejan las tensiones de un conflicto prolongado. Aunque el Gobierno ruso intenta minimizar el impacto, la falta de combustible afecta al transporte, a la agricultura y a los precios. Algunos observadores creen que, si las dificultades continuan, podrian aumentar las criticas dentro del pais. De momento, no esta claro como evolucionara la situacion, pero el episodio muestra que las consecuencias de la guerra empiezan a notarse lejos del frente.",
+    "vocab": [
+     {
+      "front": "escasez",
+      "pos": "noun",
+      "back": "shortage",
+      "example": "Hay escasez de agua en la region.",
+      "tier": "B2"
+     },
+     {
+      "front": "gasolina",
+      "pos": "noun",
+      "back": "petrol / gasoline",
+      "example": "El precio de la gasolina ha subido mucho.",
+      "tier": "B1"
+     },
+     {
+      "front": "hacer cola",
+      "pos": "phrase",
+      "back": "to queue / wait in line",
+      "example": "Tuvimos que hacer cola durante una hora.",
+      "tier": "B1"
+     },
+     {
+      "front": "combustible",
+      "pos": "noun",
+      "back": "fuel",
+      "example": "El avion se quedo sin combustible.",
+      "tier": "B1"
+     },
+     {
+      "front": "estacion de servicio",
+      "pos": "noun",
+      "back": "service / petrol station",
+      "example": "Paramos en una estacion de servicio.",
+      "tier": "B1"
+     },
+     {
+      "front": "refineria",
+      "pos": "noun",
+      "back": "refinery",
+      "example": "La refineria procesa petroleo crudo.",
+      "tier": "B2"
+     },
+     {
+      "front": "abastecimiento",
+      "pos": "noun",
+      "back": "supply",
+      "example": "El abastecimiento de alimentos sigue siendo normal.",
+      "tier": "B2"
+     },
+     {
+      "front": "minimizar",
+      "pos": "verb",
+      "back": "to play down / minimize",
+      "example": "El ministro quiso minimizar el problema.",
+      "tier": "B2"
+     },
+     {
+      "front": "vida cotidiana",
+      "pos": "phrase",
+      "back": "daily life",
+      "example": "La guerra altero su vida cotidiana.",
+      "tier": "B1"
+     },
+     {
+      "front": "frente",
+      "pos": "noun",
+      "back": "front (military)",
+      "example": "Los soldados volvieron del frente.",
+      "tier": "B2"
+     },
+     {
+      "front": "estar relacionado con",
+      "pos": "phrase",
+      "back": "to be linked / related to",
+      "example": "El problema esta relacionado con el clima.",
+      "tier": "B1"
+     },
+     {
+      "front": "de momento",
+      "pos": "phrase",
+      "back": "for now / at the moment",
+      "example": "De momento, no hay noticias nuevas.",
+      "tier": "B1"
+     },
+     {
+      "front": "tension",
+      "pos": "noun",
+      "back": "tension",
+      "example": "Aumento la tension entre los dos paises.",
+      "tier": "B1"
+     },
+     {
+      "front": "notarse",
+      "pos": "verb",
+      "back": "to be noticeable / be felt",
+      "example": "Se nota que ha llovido esta noche.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "En algunas zonas, los conductores han tenido que hacer largas colas o buscar combustible en distintas estaciones de servicio.",
+      "point": "tener que + infinitivo (obligacion) en preterito perfecto",
+      "explanation": "'Tener que' + infinitivo expresa obligacion; aqui en preterito perfecto ('han tenido que') para hechos recientes con efecto en el presente.",
+      "why_tricky": "Se combinan dos estructuras: el perfecto compuesto y la periphrasis de obligacion."
+     },
+     {
+      "sentence": "Aunque el Gobierno ruso intenta minimizar el impacto, la falta de combustible afecta al transporte, a la agricultura y a los precios.",
+      "point": "aunque + indicativo",
+      "explanation": "'Aunque' con indicativo introduce un hecho real que no impide la accion principal.",
+      "why_tricky": "Con informacion no confirmada se usaria subjuntivo, pero aqui el hecho es real, asi que va indicativo."
+     },
+     {
+      "sentence": "Algunos observadores creen que, si las dificultades continuan, podrian aumentar las criticas dentro del pais.",
+      "point": "condicional: si + presente ... condicional",
+      "explanation": "La estructura 'si' + presente de indicativo con condicional simple expresa una consecuencia probable.",
+      "why_tricky": "Es facil confundir los tiempos y usar el subjuntivo despues de 'si' en este tipo de condicion real."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "apretarse el cinturon",
+      "meaning": "to tighten one's belt; to economize",
+      "example": "Con la crisis, muchas familias tienen que apretarse el cinturon."
+     },
+     {
+      "phrase": "quedarse sin",
+      "meaning": "to run out of something",
+      "example": "El coche se quedo sin gasolina en la autopista."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Que dificultad estan viviendo los conductores en algunas regiones de Rusia?",
+      "type": "open"
+     },
+     {
+      "q": "Con que relacionan los analistas la escasez de combustible?",
+      "type": "open"
+     },
+     {
+      "q": "Que consecuencias podria tener esta situacion dentro del pais?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Como crees que afectan las dificultades economicas a la opinion publica en tiempos de guerra? Escribe tu opinion en un breve texto."
+   }
+  },
   {
    "pack_id": "feed-2026-07-05-incendios-europa",
    "title": "Temporada de incendios se adelanta en Europa arrasando bosques en varios países",
@@ -6337,506 +6865,6 @@
      }
     ],
     "opinion_prompt": "Escribe unas 120 palabras: ¿qué hábitos crees que ayudan a una persona a mantenerse en forma durante muchos años?"
-   }
-  },
-  {
-   "pack_id": "feed-2026-06-27-clima-extremo-economia",
-   "title": "El aumento de los fenómenos climáticos extremos, un alto costo para la economía mundial",
-   "source": "RFI Español",
-   "date": "2026-06-27",
-   "level": "B1-B2",
-   "topics": [
-    "medioambiente",
-    "economía"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-06-27-clima-extremo-economia",
-    "revision": 1,
-    "meta": {
-     "title": "El aumento de los fenómenos climáticos extremos, un alto costo para la economía mundial",
-     "source": "RFI Español",
-     "url": "https://www.rfi.fr/es/medioambiente/20260625-el-aumento-de-los-fen%C3%B3menos-clim%C3%A1ticos-extremos-un-alto-costo-para-la-econom%C3%ADa-mundial",
-     "date_published": "2026-06-27",
-     "date_processed": "2026-06-27",
-     "tags": [
-      "medioambiente",
-      "economía"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "While several regions of the world suffer ever more intense heatwaves, scientists and economists are issuing a clear warning. The rise in extreme weather events is not only an ecological problem, but also an economic one. Droughts, floods and record temperatures destroy harvests, damage infrastructure and force huge amounts of money to be spent. According to experts, ignoring climate change will turn out far more expensive than acting in time.\n\nThe consequences affect almost every sector, from agriculture to tourism and insurance. Companies face more risks, and governments must invest in protecting the population. For this reason, many specialists insist that the transition towards a more sustainable economy is also a smart investment. If the world does not cut its emissions, the losses could grow year after year until they become hard to bear.",
-    "resumen_es": "Mientras varias regiones del mundo sufren olas de calor cada vez más intensas, científicos y economistas lanzan una advertencia clara. El aumento de los fenómenos climáticos extremos no es solo un problema ecológico, sino también económico. Las sequías, las inundaciones y las temperaturas récord destruyen cosechas, dañan infraestructuras y obligan a gastar enormes cantidades de dinero. Según los expertos, ignorar el cambio climático saldrá mucho más caro que actuar a tiempo.\n\nLas consecuencias afectan a casi todos los sectores, desde la agricultura hasta el turismo y los seguros. Las empresas se enfrentan a más riesgos, y los gobiernos deben invertir en proteger a la población. Por eso, muchos especialistas insisten en que la transición hacia una economía más sostenible es también una inversión inteligente. Si el mundo no reduce sus emisiones, las pérdidas podrían crecer año tras año hasta volverse difíciles de soportar.",
-    "vocab": [
-     {
-      "front": "la ola de calor",
-      "pos": "noun",
-      "back": "heatwave",
-      "example": "La ola de calor batió todos los récords.",
-      "tier": "B1"
-     },
-     {
-      "front": "la advertencia",
-      "pos": "noun",
-      "back": "warning",
-      "example": "Los científicos lanzaron una advertencia seria.",
-      "tier": "B2"
-     },
-     {
-      "front": "el fenómeno",
-      "pos": "noun",
-      "back": "phenomenon",
-      "example": "Es un fenómeno cada vez más común.",
-      "tier": "B2"
-     },
-     {
-      "front": "la sequía",
-      "pos": "noun",
-      "back": "drought",
-      "example": "La sequía arruinó las cosechas.",
-      "tier": "B2"
-     },
-     {
-      "front": "la inundación",
-      "pos": "noun",
-      "back": "flood",
-      "example": "La inundación dejó a muchos sin hogar.",
-      "tier": "B2"
-     },
-     {
-      "front": "la cosecha",
-      "pos": "noun",
-      "back": "harvest, crop",
-      "example": "Este año la cosecha fue muy pobre.",
-      "tier": "B1"
-     },
-     {
-      "front": "dañar",
-      "pos": "verb",
-      "back": "to damage",
-      "example": "La tormenta dañó varias casas.",
-      "tier": "B1"
-     },
-     {
-      "front": "enfrentarse a",
-      "pos": "verb",
-      "back": "to face (up to)",
-      "example": "El país se enfrenta a una crisis.",
-      "tier": "B2"
-     },
-     {
-      "front": "el riesgo",
-      "pos": "noun",
-      "back": "risk",
-      "example": "Invertir siempre implica algún riesgo.",
-      "tier": "B1"
-     },
-     {
-      "front": "sostenible",
-      "pos": "adj",
-      "back": "sustainable",
-      "example": "Buscan un modelo más sostenible.",
-      "tier": "B2"
-     },
-     {
-      "front": "las emisiones",
-      "pos": "noun",
-      "back": "emissions",
-      "example": "El plan busca reducir las emisiones.",
-      "tier": "B2"
-     },
-     {
-      "front": "la pérdida",
-      "pos": "noun",
-      "back": "loss",
-      "example": "Las pérdidas económicas fueron enormes.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "El aumento de los fenómenos climáticos extremos no es solo un problema ecológico, sino también económico.",
-      "point": "'No solo ... sino también'",
-      "explanation": "This structure adds and emphasizes a second idea; 'sino' (not 'pero') is used after a negative to introduce the contrast.",
-      "why_tricky": "Learners often use 'pero' here, but after 'no' Spanish requires 'sino'."
-     },
-     {
-      "sentence": "Según los expertos, ignorar el cambio climático saldrá mucho más caro que actuar a tiempo.",
-      "point": "Infinitives as subjects + comparison",
-      "explanation": "The infinitives 'ignorar' and 'actuar' work as nouns, and 'más caro que' makes the comparison between the two actions.",
-      "why_tricky": "English would use '-ing' forms ('ignoring', 'acting'), while Spanish keeps the infinitive."
-     },
-     {
-      "sentence": "Si el mundo no reduce sus emisiones, las pérdidas podrían crecer año tras año hasta volverse difíciles de soportar.",
-      "point": "Conditional sentence with 'si'",
-      "explanation": "'Si' + present indicative ('reduce') combines with the conditional 'podrían' to describe a possible future result.",
-      "why_tricky": "The conditional, not the future, is used in the main clause to soften the prediction."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "a tiempo",
-      "meaning": "in time, on time",
-      "example": "Llegamos a tiempo para evitar el problema."
-     },
-     {
-      "phrase": "año tras año",
-      "meaning": "year after year",
-      "example": "Los costes aumentan año tras año."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Por qué dicen los expertos que el clima extremo es también un problema económico?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué sectores se ven más afectados por estos fenómenos?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué consideran la economía sostenible una inversión inteligente?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Escribe unas 120 palabras: ¿qué medidas podrían tomar los gobiernos o las empresas para reducir el impacto del cambio climático?"
-   }
-  },
-  {
-   "pack_id": "feed-2026-06-27-colombia-elecciones-fortuna",
-   "title": "Cómo hizo su fortuna De la Espriella y los cuestionados negocios del ganador de las elecciones en Colombia",
-   "source": "BBC Mundo",
-   "date": "2026-06-27",
-   "level": "B1-B2",
-   "topics": [
-    "política",
-    "Colombia"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-06-27-colombia-elecciones-fortuna",
-    "revision": 1,
-    "meta": {
-     "title": "Cómo hizo su fortuna De la Espriella y los cuestionados negocios del ganador de las elecciones en Colombia",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/c3ryp829q3jo?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-06-27",
-     "date_processed": "2026-06-27",
-     "tags": [
-      "política",
-      "Colombia"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "The winner of the recent elections in Colombia, the lawyer De la Espriella, has landed at the centre of political debate because of the origin of his fortune. He defends his independence and claims to have financed his own campaign with his earnings. However, several of his connections and business activities are being questioned by the press and by his rivals. The discussion about his wealth has become as intense as the campaign itself.\n\nThe case raises a question that recurs in many countries: to what extent private money influences politics. His supporters argue that having paid for his campaign frees him from outside pressure. His critics, on the other hand, fear that his businesses will create conflicts of interest once he is in power. In the coming weeks, the transparency with which he explains his accounts will be key to earning citizens' trust.",
-    "resumen_es": "El ganador de las recientes elecciones en Colombia, el abogado De la Espriella, ha llegado al centro del debate político por el origen de su fortuna. Él defiende su independencia y asegura haber financiado su propia campaña con sus ganancias. Sin embargo, varios de sus vínculos y actividades empresariales están siendo cuestionados por la prensa y por sus rivales. La discusión sobre su patrimonio se ha vuelto tan intensa como la propia campaña electoral.\n\nEl caso plantea una pregunta que se repite en muchos países: hasta qué punto el dinero privado influye en la política. Sus defensores sostienen que haber pagado su campaña lo libera de presiones externas. Sus críticos, en cambio, temen que sus negocios generen conflictos de interés una vez en el poder. En las próximas semanas, la transparencia con la que explique sus cuentas será clave para ganarse la confianza de los ciudadanos.",
-    "vocab": [
-     {
-      "front": "la fortuna",
-      "pos": "noun",
-      "back": "fortune, wealth",
-      "example": "Nadie sabe cómo hizo su fortuna.",
-      "tier": "B1"
-     },
-     {
-      "front": "el abogado",
-      "pos": "noun",
-      "back": "lawyer",
-      "example": "El abogado defendió su caso con firmeza.",
-      "tier": "B1"
-     },
-     {
-      "front": "financiar",
-      "pos": "verb",
-      "back": "to fund, to finance",
-      "example": "Logró financiar el proyecto con dinero propio.",
-      "tier": "B2"
-     },
-     {
-      "front": "las ganancias",
-      "pos": "noun",
-      "back": "earnings, profits",
-      "example": "Reinvirtió todas sus ganancias.",
-      "tier": "B2"
-     },
-     {
-      "front": "el vínculo",
-      "pos": "noun",
-      "back": "link, connection",
-      "example": "Investigan sus vínculos con la empresa.",
-      "tier": "B2"
-     },
-     {
-      "front": "cuestionar",
-      "pos": "verb",
-      "back": "to question, to challenge",
-      "example": "La prensa cuestiona sus decisiones.",
-      "tier": "B2"
-     },
-     {
-      "front": "el patrimonio",
-      "pos": "noun",
-      "back": "assets, estate",
-      "example": "Declaró todo su patrimonio.",
-      "tier": "B2"
-     },
-     {
-      "front": "sostener",
-      "pos": "verb",
-      "back": "to maintain, to argue",
-      "example": "El experto sostiene que la medida es necesaria.",
-      "tier": "B2"
-     },
-     {
-      "front": "el conflicto de interés",
-      "pos": "noun",
-      "back": "conflict of interest",
-      "example": "El cargo puede generar un conflicto de interés.",
-      "tier": "C1"
-     },
-     {
-      "front": "liberar de",
-      "pos": "verb",
-      "back": "to free from",
-      "example": "El acuerdo lo libera de toda culpa.",
-      "tier": "B2"
-     },
-     {
-      "front": "la transparencia",
-      "pos": "noun",
-      "back": "transparency",
-      "example": "Los ciudadanos exigen más transparencia.",
-      "tier": "B2"
-     },
-     {
-      "front": "ganarse la confianza",
-      "pos": "phrase",
-      "back": "to earn the trust",
-      "example": "Tardó años en ganarse la confianza del equipo.",
-      "tier": "B2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "El caso plantea una pregunta que se repite en muchos países: hasta qué punto el dinero privado influye en la política.",
-      "point": "Indirect question with 'hasta qué punto'",
-      "explanation": "After the colon, 'hasta qué punto' introduces an embedded question; the accent on 'qué' is kept even though there is no question mark.",
-      "why_tricky": "It looks like a statement, but it is really a reported question, so 'qué' still carries the written accent."
-     },
-     {
-      "sentence": "Sus críticos, en cambio, temen que sus negocios generen conflictos de interés una vez en el poder.",
-      "point": "Subjunctive after verbs of fear",
-      "explanation": "'Temer que' expresses fear or worry, so the following verb 'generen' must be in the present subjunctive.",
-      "why_tricky": "English uses 'fear that ... will', but Spanish requires the subjunctive, not the future."
-     },
-     {
-      "sentence": "En las próximas semanas, la transparencia con la que explique sus cuentas será clave para ganarse la confianza de los ciudadanos.",
-      "point": "Subjunctive in a relative clause",
-      "explanation": "'Con la que explique' refers to a future, not-yet-real action, so the relative clause takes the subjunctive 'explique'.",
-      "why_tricky": "With a known fact you would use the indicative 'explica'; the hypothetical future is what forces the subjunctive."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "hasta qué punto",
-      "meaning": "to what extent",
-      "example": "No sabemos hasta qué punto dice la verdad."
-     },
-     {
-      "phrase": "ganarse la confianza de alguien",
-      "meaning": "to win someone's trust",
-      "example": "Un líder debe ganarse la confianza de su gente."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Por qué se ha convertido la fortuna de De la Espriella en un tema de debate?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué argumentos usan sus defensores y sus críticos?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué será importante la transparencia en las próximas semanas?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Escribe unas 120 palabras: ¿debería limitarse el dinero privado en las campañas políticas? Explica tu postura."
-   }
-  },
-  {
-   "pack_id": "feed-2026-06-27-venezuela-terremotos",
-   "title": "Por qué Venezuela es tan propensa a sufrir terremotos destructivos (y cómo se compara el último con los del pasado)",
-   "source": "BBC Mundo",
-   "date": "2026-06-27",
-   "level": "B1-B2",
-   "topics": [
-    "ciencia",
-    "desastres"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-06-27-venezuela-terremotos",
-    "revision": 1,
-    "meta": {
-     "title": "Por qué Venezuela es tan propensa a sufrir terremotos destructivos (y cómo se compara el último con los del pasado)",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/cpv3d2ynz7xo?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-06-27",
-     "date_processed": "2026-06-27",
-     "tags": [
-      "ciencia",
-      "desastres"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "Venezuela is going through one of the hardest moments in its recent history after the two powerful earthquakes that shook the country. Experts point out that this is no coincidence: Venezuelan territory sits in an area where two large tectonic plates slowly collide. This pressure builds up over decades and, sooner or later, is released all at once in the form of destructive quakes.\n\nOver the years, the country has suffered several similar disasters, which shows just how vulnerable it is. Specialists insist that, although it is impossible to predict the exact day of a tremor, preventive measures can indeed be taken. Building more resistant structures, educating the population and strengthening emergency services are key steps to reduce the number of victims in the future.",
-    "resumen_es": "Venezuela vive uno de los momentos más duros de su historia reciente tras los dos potentes terremotos que sacudieron el país. Los expertos recuerdan que no se trata de una casualidad: el territorio venezolano se encuentra en una zona donde dos grandes placas tectónicas chocan lentamente. Esta presión se acumula durante décadas y, tarde o temprano, se libera de golpe en forma de sismos destructivos.\n\nA lo largo de los años, el país ha sufrido varios desastres parecidos, lo que demuestra hasta qué punto es vulnerable. Los especialistas insisten en que, aunque resulta imposible predecir el día exacto de un temblor, sí se pueden tomar medidas de prevención. Construir edificios más resistentes, educar a la población y reforzar los servicios de emergencia son pasos clave para reducir el número de víctimas en el futuro.",
-    "vocab": [
-     {
-      "front": "propenso a",
-      "pos": "adj",
-      "back": "prone to, likely to suffer",
-      "example": "Esa región es propensa a los terremotos.",
-      "tier": "B2"
-     },
-     {
-      "front": "el terremoto",
-      "pos": "noun",
-      "back": "earthquake",
-      "example": "El terremoto destruyó muchas casas.",
-      "tier": "B1"
-     },
-     {
-      "front": "la placa tectónica",
-      "pos": "noun",
-      "back": "tectonic plate",
-      "example": "Dos placas tectónicas chocan bajo el país.",
-      "tier": "B2"
-     },
-     {
-      "front": "sacudir",
-      "pos": "verb",
-      "back": "to shake",
-      "example": "El sismo sacudió toda la ciudad.",
-      "tier": "B2"
-     },
-     {
-      "front": "acumularse",
-      "pos": "verb",
-      "back": "to build up, accumulate",
-      "example": "La tensión se acumula durante décadas.",
-      "tier": "B2"
-     },
-     {
-      "front": "liberarse",
-      "pos": "verb",
-      "back": "to be released",
-      "example": "La energía se libera de golpe.",
-      "tier": "B2"
-     },
-     {
-      "front": "de golpe",
-      "pos": "phrase",
-      "back": "all at once, suddenly",
-      "example": "Todo cambió de golpe.",
-      "tier": "B1"
-     },
-     {
-      "front": "vulnerable",
-      "pos": "adj",
-      "back": "vulnerable",
-      "example": "El país es muy vulnerable a los desastres.",
-      "tier": "B2"
-     },
-     {
-      "front": "predecir",
-      "pos": "verb",
-      "back": "to predict",
-      "example": "Nadie puede predecir el día exacto.",
-      "tier": "B2"
-     },
-     {
-      "front": "el temblor",
-      "pos": "noun",
-      "back": "tremor",
-      "example": "Sintieron un temblor por la noche.",
-      "tier": "B1"
-     },
-     {
-      "front": "la prevención",
-      "pos": "noun",
-      "back": "prevention",
-      "example": "La prevención salva vidas.",
-      "tier": "B1"
-     },
-     {
-      "front": "reforzar",
-      "pos": "verb",
-      "back": "to reinforce, strengthen",
-      "example": "Hay que reforzar los edificios antiguos.",
-      "tier": "B2"
-     },
-     {
-      "front": "la víctima",
-      "pos": "noun",
-      "back": "victim",
-      "example": "El número de víctimas sigue subiendo.",
-      "tier": "B1"
-     },
-     {
-      "front": "tarde o temprano",
-      "pos": "phrase",
-      "back": "sooner or later",
-      "example": "Tarde o temprano ocurrirá otro sismo.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Esta presión se acumula durante décadas y, tarde o temprano, se libera de golpe en forma de sismos destructivos.",
-      "point": "Pronominal 'se' for processes",
-      "explanation": "'Se acumula' and 'se libera' use the pronominal 'se' to describe something that happens on its own, without naming who causes it.",
-      "why_tricky": "English uses a passive ('is released') or an active verb with a vague subject, while Spanish prefers this 'se' construction."
-     },
-     {
-      "sentence": "Los especialistas insisten en que, aunque resulta imposible predecir el día exacto de un temblor, sí se pueden tomar medidas de prevención.",
-      "point": "'aunque' + indicative",
-      "explanation": "Here 'aunque resulta' uses the indicative because the speaker treats it as a known fact, not a hypothesis.",
-      "why_tricky": "'Aunque' can take the indicative or the subjunctive, and the choice changes the meaning."
-     },
-     {
-      "sentence": "Construir edificios más resistentes, educar a la población y reforzar los servicios de emergencia son pasos clave para reducir el número de víctimas en el futuro.",
-      "point": "Infinitives as subject",
-      "explanation": "The three infinitives ('Construir', 'educar', 'reforzar') act together as the subject of the verb 'son'.",
-      "why_tricky": "English would normally use '-ing' gerunds here, but Spanish uses the plain infinitive."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "tarde o temprano",
-      "meaning": "sooner or later; something is bound to happen eventually",
-      "example": "Tarde o temprano tendremos que reforzar las casas."
-     },
-     {
-      "phrase": "de golpe",
-      "meaning": "all of a sudden, in one go",
-      "example": "La energía acumulada se libera de golpe."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Por qué se dice que Venezuela es propensa a los terremotos?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué diferencia hay entre predecir un terremoto y prevenir sus daños?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué medidas menciona el texto para reducir el número de víctimas?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "En tu opinión, ¿qué deberían hacer los gobiernos para proteger a la población en las zonas de riesgo sísmico? Justifica tu respuesta."
    }
   }
  ]
