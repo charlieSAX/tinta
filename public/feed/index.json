@@ -1,7 +1,478 @@
 {
- "generated_at": "2026-07-06T20:18:04Z",
+ "generated_at": "2026-07-07T08:14:03Z",
  "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-07-07-iran-fondos-congelados",
+   "title": "Cuántos miles de millones de dólares de Irán están congelados por EE.UU. y por qué son clave para negociar la paz y reactivar la economía iraní",
+   "source": "BBC Mundo",
+   "date": "2026-07-07",
+   "level": "B1-B2",
+   "topics": [
+    "economía",
+    "Irán"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-07-iran-fondos-congelados",
+    "revision": 1,
+    "meta": {
+     "title": "Cuántos miles de millones de dólares de Irán están congelados por EE.UU. y por qué son clave para negociar la paz y reactivar la economía iraní",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/cn7587p1re0o?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-07-07",
+     "date_processed": "2026-07-07",
+     "tags": [
+      "economía",
+      "Irán"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "Billions of dollars that belong to Iran are still frozen in banks in the United States and in other countries. According to some estimates, that sum could reach up to one hundred billion dollars. For the government in Tehran, recovering this money has become one of its main demands, since it sees the funds as key both to negotiating peace and to reviving its battered economy.\n\nHowever, gaining access to these funds is not at all simple. International sanctions and banking restrictions keep the money out of reach, and unblocking it would depend on future agreements between the parties. In the meantime, the Iranian population suffers the consequences of an economy weakened by years of isolation. For this reason, many analysts believe that the fate of these resources could have a decisive influence on the coming negotiations.",
+    "resumen_es": "Miles de millones de dólares que pertenecen a Irán siguen congelados en bancos de Estados Unidos y de otros países. Según algunas estimaciones, esa suma podría llegar hasta los cien mil millones de dólares. Para el gobierno de Teherán, recuperar ese dinero se ha convertido en una de sus principales exigencias, ya que lo considera clave tanto para negociar la paz como para reactivar su golpeada economía.\n\nSin embargo, acceder a esos fondos no resulta nada sencillo. Las sanciones internacionales y las restricciones bancarias mantienen el dinero fuera de alcance, y desbloquearlo dependería de futuros acuerdos entre las partes. Mientras tanto, la población iraní sufre las consecuencias de una economía debilitada por años de aislamiento. Por eso, muchos analistas creen que el destino de estos recursos podría influir de manera decisiva en las próximas negociaciones.",
+    "vocab": [
+     {
+      "front": "congelar (fondos)",
+      "pos": "verb",
+      "back": "to freeze (funds/assets)",
+      "example": "El banco decidió congelar las cuentas de la empresa.",
+      "tier": "B2"
+     },
+     {
+      "front": "los fondos",
+      "pos": "noun",
+      "back": "funds, money reserves",
+      "example": "El gobierno no puede tocar esos fondos por ahora.",
+      "tier": "B1"
+     },
+     {
+      "front": "la exigencia",
+      "pos": "noun",
+      "back": "demand, requirement",
+      "example": "La liberación de los presos es su principal exigencia.",
+      "tier": "B2"
+     },
+     {
+      "front": "reactivar",
+      "pos": "verb",
+      "back": "to revive, to restart",
+      "example": "Quieren reactivar la economía después de la crisis.",
+      "tier": "B2"
+     },
+     {
+      "front": "las sanciones",
+      "pos": "noun",
+      "back": "sanctions",
+      "example": "Las sanciones han afectado mucho al comercio.",
+      "tier": "B2"
+     },
+     {
+      "front": "fuera de alcance",
+      "pos": "phrase",
+      "back": "out of reach",
+      "example": "Ese dinero sigue fuera de alcance para el país.",
+      "tier": "B2"
+     },
+     {
+      "front": "desbloquear",
+      "pos": "verb",
+      "back": "to unblock, to release",
+      "example": "Todavía no han logrado desbloquear los pagos.",
+      "tier": "B2"
+     },
+     {
+      "front": "el aislamiento",
+      "pos": "noun",
+      "back": "isolation",
+      "example": "Años de aislamiento debilitaron su economía.",
+      "tier": "C1"
+     },
+     {
+      "front": "debilitado",
+      "pos": "adj",
+      "back": "weakened",
+      "example": "El país quedó debilitado tras el conflicto.",
+      "tier": "B2"
+     },
+     {
+      "front": "decisivo",
+      "pos": "adj",
+      "back": "decisive, key",
+      "example": "Fue un momento decisivo en la negociación.",
+      "tier": "B2"
+     },
+     {
+      "front": "el acuerdo",
+      "pos": "noun",
+      "back": "agreement, deal",
+      "example": "Ambas partes firmaron un acuerdo de paz.",
+      "tier": "B1"
+     },
+     {
+      "front": "clave",
+      "pos": "adj",
+      "back": "key, crucial",
+      "example": "El agua es un recurso clave en la región.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Para el gobierno de Teherán, recuperar ese dinero se ha convertido en una de sus principales exigencias, ya que lo considera clave tanto para negociar la paz como para reactivar su golpeada economía.",
+      "point": "Pretérito perfecto compuesto y la estructura correlativa tanto...como",
+      "explanation": "'Se ha convertido' es pretérito perfecto (haber + participio) para un cambio con efecto en el presente. 'Tanto para X como para Y' une dos finalidades equivalentes.",
+      "why_tricky": "El estudiante suele olvidar la segunda parte 'como' o cambiarla por 'y', y confunde el perfecto con el indefinido 'se convirtió'."
+     },
+     {
+      "sentence": "Las sanciones internacionales y las restricciones bancarias mantienen el dinero fuera de alcance, y desbloquearlo dependería de futuros acuerdos entre las partes.",
+      "point": "Condicional simple y pronombre enclítico en el infinitivo",
+      "explanation": "'Dependería' es condicional para algo hipotético. 'Desbloquearlo' lleva el pronombre 'lo' pegado al infinitivo.",
+      "why_tricky": "En inglés el pronombre va separado ('to unblock it'), y aquí debe ir unido, además del acento del condicional."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "fuera de alcance",
+      "meaning": "algo que no se puede conseguir o tocar en este momento",
+      "example": "Con ese sueldo, comprar una casa está fuera de alcance."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Por qué es tan importante para Irán recuperar ese dinero?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué dos obstáculos impiden acceder a los fondos congelados?",
+      "type": "open"
+     },
+     {
+      "q": "¿Cómo afecta esta situación a la población iraní?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Crees que congelar los fondos de un país es una forma justa de presión política? Explica tu opinión con ejemplos."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-07-peru-el-nino-anchoveta",
+   "title": "El Niño ya se siente en Perú: disminuye drásticamente la captura de anchovetas",
+   "source": "RFI Español",
+   "date": "2026-07-06",
+   "level": "B1-B2",
+   "topics": [
+    "medioambiente",
+    "Perú"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-07-peru-el-nino-anchoveta",
+    "revision": 1,
+    "meta": {
+     "title": "El Niño ya se siente en Perú: disminuye drásticamente la captura de anchovetas",
+     "source": "RFI Español",
+     "url": "https://www.rfi.fr/es/programas/enfoque-internacional/20260706-el-ni%C3%B1o-ya-se-siente-en-per%C3%BA-disminuye-dr%C3%A1sticamente-la-captura-de-anchovetas",
+     "date_published": "2026-07-06",
+     "date_processed": "2026-07-07",
+     "tags": [
+      "medioambiente",
+      "Perú"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "The climate phenomenon known as El Nino is already being strongly felt along the coasts of Peru. This event, which alters the winds and the rains in the Pacific Ocean, has caused sea temperatures to be higher than normal. As a result, the catch of anchoveta, one of the most important fish in the country, has dropped drastically in recent weeks.\n\nThe anchoveta not only feeds millions of people, but it also supports a large part of the Peruvian fishing industry. That is why, when its numbers fall, thousands of families who depend on the sea see their income put at risk. Experts warn that, if the waters keep warming, the impact could spread to other species. For now, the fishermen wait patiently for the climate to slowly return to normal.",
+    "resumen_es": "El fenómeno climático conocido como El Niño ya se hace sentir con fuerza en las costas de Perú. Este evento, que altera los vientos y las lluvias en el océano Pacífico, ha provocado que las temperaturas del mar sean más altas de lo normal. Como consecuencia, la captura de anchoveta, uno de los pescados más importantes del país, ha disminuido de manera drástica en las últimas semanas.\n\nLa anchoveta no solo alimenta a millones de personas, sino que también sostiene buena parte de la industria pesquera peruana. Por eso, cuando su número baja, miles de familias que dependen del mar ven peligrar sus ingresos. Los expertos advierten que, si las aguas siguen calentándose, el impacto podría extenderse a otras especies. De momento, los pescadores esperan con paciencia a que el clima vuelva poco a poco a la normalidad.",
+    "vocab": [
+     {
+      "front": "el fenómeno",
+      "pos": "noun",
+      "back": "phenomenon",
+      "example": "El Niño es un fenómeno natural muy estudiado.",
+      "tier": "B1"
+     },
+     {
+      "front": "hacerse sentir",
+      "pos": "phrase",
+      "back": "to make itself felt",
+      "example": "La crisis ya se hace sentir en los precios.",
+      "tier": "B2"
+     },
+     {
+      "front": "alterar",
+      "pos": "verb",
+      "back": "to alter, to disrupt",
+      "example": "El calor puede alterar el sueño.",
+      "tier": "B2"
+     },
+     {
+      "front": "la captura",
+      "pos": "noun",
+      "back": "catch (of fish)",
+      "example": "La captura de atún bajó este año.",
+      "tier": "B1"
+     },
+     {
+      "front": "disminuir",
+      "pos": "verb",
+      "back": "to decrease, to drop",
+      "example": "Las ventas disminuyeron durante el invierno.",
+      "tier": "B1"
+     },
+     {
+      "front": "drástico",
+      "pos": "adj",
+      "back": "drastic",
+      "example": "Hubo un cambio drástico en el clima.",
+      "tier": "B2"
+     },
+     {
+      "front": "sostener",
+      "pos": "verb",
+      "back": "to support, to sustain",
+      "example": "El turismo sostiene la economía local.",
+      "tier": "B2"
+     },
+     {
+      "front": "la industria pesquera",
+      "pos": "noun",
+      "back": "the fishing industry",
+      "example": "La industria pesquera da empleo a muchas familias.",
+      "tier": "B2"
+     },
+     {
+      "front": "ver peligrar",
+      "pos": "phrase",
+      "back": "to see (something) put at risk",
+      "example": "Muchos ven peligrar su futuro laboral.",
+      "tier": "C1"
+     },
+     {
+      "front": "los ingresos",
+      "pos": "noun",
+      "back": "income, earnings",
+      "example": "Sus ingresos dependen de la pesca.",
+      "tier": "B1"
+     },
+     {
+      "front": "advertir",
+      "pos": "verb",
+      "back": "to warn",
+      "example": "Los médicos advierten del peligro del sol.",
+      "tier": "B1"
+     },
+     {
+      "front": "extenderse",
+      "pos": "verb",
+      "back": "to spread",
+      "example": "El incendio se extendió por todo el bosque.",
+      "tier": "B2"
+     },
+     {
+      "front": "poco a poco",
+      "pos": "phrase",
+      "back": "little by little",
+      "example": "Poco a poco fue mejorando su español.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Este evento, que altera los vientos y las lluvias en el océano Pacífico, ha provocado que las temperaturas del mar sean más altas de lo normal.",
+      "point": "Subjuntivo tras 'provocar que'",
+      "explanation": "Verbos de causa o influencia como 'provocar que' piden subjuntivo: por eso 'sean' y no 'son'.",
+      "why_tricky": "El estudiante tiende a usar indicativo 'son' porque describe un hecho, pero la estructura exige subjuntivo."
+     },
+     {
+      "sentence": "Los expertos advierten que, si las aguas siguen calentándose, el impacto podría extenderse a otras especies.",
+      "point": "Oración condicional con 'seguir + gerundio' y condicional",
+      "explanation": "'Siguen calentándose' expresa una acción que continúa; 'podría' es condicional para la consecuencia posible.",
+      "why_tricky": "Combinar 'seguir + gerundio' con el pronombre reflexivo 'se' pegado ('calentándose') suele costar."
+     },
+     {
+      "sentence": "La anchoveta no solo alimenta a millones de personas, sino que también sostiene buena parte de la industria pesquera peruana.",
+      "point": "Correlación 'no solo... sino que también'",
+      "explanation": "Esta estructura añade dos ideas y refuerza la segunda. Con verbo se usa 'sino que'.",
+      "why_tricky": "Se confunde 'sino' con 'si no', y se olvida el 'que' cuando sigue un verbo conjugado."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "poco a poco",
+      "meaning": "de forma lenta y gradual",
+      "example": "No te preocupes, poco a poco lo entenderás todo."
+     },
+     {
+      "phrase": "depender del mar",
+      "meaning": "vivir de lo que ofrece el mar, como la pesca",
+      "example": "En ese pueblo casi todos dependen del mar."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Qué efectos tiene El Niño sobre el mar de Perú?",
+      "type": "open"
+     },
+     {
+      "q": "¿Por qué es tan importante la anchoveta para el país?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué temen los expertos si las aguas siguen calentándose?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Qué deberían hacer los gobiernos para proteger a las familias que dependen de la pesca? Da tu opinión."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-07-siria-visita-macron",
+   "title": "Siria: Damasco anuncia una histórica visita de Macron para reunirse con su homólogo sirio",
+   "source": "RFI Español",
+   "date": "2026-07-06",
+   "level": "B1-B2",
+   "topics": [
+    "diplomacia",
+    "Siria"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-07-siria-visita-macron",
+    "revision": 1,
+    "meta": {
+     "title": "Siria: Damasco anuncia una histórica visita de Macron para reunirse con su homólogo sirio",
+     "source": "RFI Español",
+     "url": "https://www.rfi.fr/es/oriente-medio/20260706-siria-damasco-anuncia-una-hist%C3%B3rica-visita-de-macron-para-reunirse-con-su-hom%C3%B3logo-sirio",
+     "date_published": "2026-07-06",
+     "date_processed": "2026-07-07",
+     "tags": [
+      "diplomacia",
+      "Siria"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "The government of Syria announced that the French president Emmanuel Macron will travel soon to Damascus, the capital of the country. There he plans to meet with the interim president, Ahmed al Charaa. If confirmed, it would be a historic visit, since it would be the first time that a European head of state sets foot on Syrian soil since the fall of the regime of Bashar al Asad, which took place in December 2024.\n\nThis trip would have a strong symbolic value for a country that for years was isolated from much of the international community. With this gesture, France seems willing to move closer to the new Syrian authorities and to support a possible political transition. Many doubts still remain about the future of Syria, but several observers read the visit as a sign that Europe wants to play an active role in the region again.",
+    "resumen_es": "El gobierno de Siria anunció que el presidente francés Emmanuel Macron viajará próximamente a Damasco, la capital del país. Allí tiene previsto reunirse con el presidente interino, Ahmed al Charaa. De confirmarse, se trataría de una visita histórica, ya que sería la primera vez que un jefe de Estado europeo pisa suelo sirio desde la caída del régimen de Bashar al Asad, ocurrida en diciembre de 2024.\n\nEste viaje tendría un fuerte valor simbólico para un país que durante años estuvo aislado de gran parte de la comunidad internacional. Con este gesto, Francia parece dispuesta a acercarse a las nuevas autoridades sirias y a apoyar una posible transición política. Aún quedan muchas dudas sobre el futuro de Siria, pero varios observadores interpretan la visita como una señal de que Europa quiere volver a tener un papel activo en la región.",
+    "vocab": [
+     {
+      "front": "próximamente",
+      "pos": "adv",
+      "back": "soon, shortly",
+      "example": "El nuevo puente se inaugurará próximamente.",
+      "tier": "B1"
+     },
+     {
+      "front": "tener previsto",
+      "pos": "phrase",
+      "back": "to plan to, to have planned",
+      "example": "Tenemos previsto salir el lunes.",
+      "tier": "B2"
+     },
+     {
+      "front": "el presidente interino",
+      "pos": "noun",
+      "back": "interim president",
+      "example": "Un presidente interino dirige el país hasta las elecciones.",
+      "tier": "B2"
+     },
+     {
+      "front": "el homólogo",
+      "pos": "noun",
+      "back": "counterpart",
+      "example": "El ministro se reunió con su homólogo alemán.",
+      "tier": "C1"
+     },
+     {
+      "front": "de confirmarse",
+      "pos": "phrase",
+      "back": "if confirmed",
+      "example": "De confirmarse la noticia, sería un gran cambio.",
+      "tier": "C1"
+     },
+     {
+      "front": "pisar suelo",
+      "pos": "phrase",
+      "back": "to set foot on soil/ground",
+      "example": "Es la primera vez que pisa suelo español.",
+      "tier": "B2"
+     },
+     {
+      "front": "la caída (del régimen)",
+      "pos": "noun",
+      "back": "the fall (of a regime)",
+      "example": "La caída del muro cambió Europa.",
+      "tier": "B2"
+     },
+     {
+      "front": "aislado",
+      "pos": "adj",
+      "back": "isolated",
+      "example": "El pueblo quedó aislado por la nieve.",
+      "tier": "B1"
+     },
+     {
+      "front": "el gesto",
+      "pos": "noun",
+      "back": "gesture, move",
+      "example": "Fue un gesto de buena voluntad.",
+      "tier": "B1"
+     },
+     {
+      "front": "dispuesto a",
+      "pos": "adj",
+      "back": "willing to",
+      "example": "Estoy dispuesto a ayudar en lo que sea.",
+      "tier": "B1"
+     },
+     {
+      "front": "la transición",
+      "pos": "noun",
+      "back": "transition",
+      "example": "El país vive una transición hacia la democracia.",
+      "tier": "B2"
+     },
+     {
+      "front": "el papel",
+      "pos": "noun",
+      "back": "role",
+      "example": "La ONU juega un papel importante en el conflicto.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "De confirmarse, se trataría de una visita histórica, ya que sería la primera vez que un jefe de Estado europeo pisa suelo sirio desde la caída del régimen de Bashar al Asad, ocurrida en diciembre de 2024.",
+      "point": "Infinitivo condicional 'de + infinitivo' y condicional simple",
+      "explanation": "'De confirmarse' equivale a 'si se confirma'. Le siguen los condicionales 'se trataría' y 'sería' para hablar de algo hipotético.",
+      "why_tricky": "La construcción 'de + infinitivo' con valor condicional no existe igual en inglés y sorprende al estudiante."
+     },
+     {
+      "sentence": "Con este gesto, Francia parece dispuesta a acercarse a las nuevas autoridades sirias y a apoyar una posible transición política.",
+      "point": "'Parecer + adjetivo' y preposición 'a' con infinitivos",
+      "explanation": "'Parece dispuesta a' expresa una impresión; 'a acercarse' y 'a apoyar' repiten la preposición 'a' ante cada infinitivo.",
+      "why_tricky": "Es fácil olvidar repetir la 'a' delante del segundo infinitivo 'apoyar'."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "pisar suelo (extranjero)",
+      "meaning": "llegar o entrar físicamente en un lugar, sobre todo un país",
+      "example": "Nunca había pisado suelo asiático hasta ese viaje."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Con quién tiene previsto reunirse Macron en Damasco?",
+      "type": "open"
+     },
+     {
+      "q": "¿Por qué se considera histórica esta posible visita?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué quiere mostrar Francia con este gesto?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Crees que los líderes europeos deberían visitar países que salen de un conflicto? Justifica tu respuesta."
+   }
+  },
   {
    "pack_id": "feed-2026-07-06-rumania-ciberataque",
    "title": "Como un pais europeo consiguio derrotar un ciberataque contra sus hospitales gracias al lapiz y al papel",
@@ -6351,520 +6822,6 @@
      }
     ],
     "opinion_prompt": "Escribe un texto breve (unas 100 palabras) en el que expliques si aceptarías un reto parecido y qué experiencia te gustaría vivir durante un gran evento deportivo."
-   }
-  },
-  {
-   "pack_id": "feed-2026-06-28-ola-calor-europa",
-   "title": "193 millones de personas en Europa expuestas este fin de semana a más de 35 ºC",
-   "source": "RFI",
-   "date": "2026-06-27",
-   "level": "B1-B2",
-   "topics": [
-    "clima",
-    "Europa"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-06-28-ola-calor-europa",
-    "revision": 1,
-    "meta": {
-     "title": "193 millones de personas en Europa expuestas este fin de semana a más de 35 ºC",
-     "source": "RFI",
-     "url": "https://www.rfi.fr/es/europa/20260627-193-millones-de-personas-en-europa-expuestas-este-fin-de-semana-a-m%C3%A1s-de-35-%C2%BAc",
-     "date_published": "2026-06-27",
-     "date_processed": "2026-06-28",
-     "tags": [
-      "clima",
-      "Europa"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "An intense heatwave affected much of Europe this weekend and left millions of people exposed to very high temperatures. According to estimates, around 193 million inhabitants endured values above 35 degrees, of whom about 75 million were in Germany. The phenomenon, which was moving towards the east of the continent, forced the authorities to issue warnings and to recommend caution.\n\nGiven these conditions, health services recalled the importance of staying hydrated, avoiding the sun during the central hours of the day and paying attention to the most vulnerable people. Many experts point out that these episodes, increasingly frequent and intense, are linked to climate change. Looking ahead to the coming days, temperatures are expected to remain high in several regions before a drop in temperature arrives.",
-    "resumen_es": "Una intensa ola de calor afectó este fin de semana a buena parte de Europa y dejó a millones de personas expuestas a temperaturas muy elevadas. Según las estimaciones, unos 193 millones de habitantes soportaron valores superiores a los 35 grados, de los cuales cerca de 75 millones se encontraban en Alemania. El fenómeno, que se desplazaba hacia el este del continente, obligó a las autoridades a lanzar avisos y a recomendar precaución.\n\nAnte estas condiciones, los servicios sanitarios recordaron la importancia de hidratarse, evitar el sol en las horas centrales del día y prestar atención a las personas más vulnerables. Muchos expertos señalan que estos episodios, cada vez más frecuentes e intensos, están relacionados con el cambio climático. De cara a los próximos días, se espera que las temperaturas sigan siendo altas en varias regiones antes de que llegue un descenso térmico.",
-    "vocab": [
-     {
-      "front": "ola de calor",
-      "pos": "noun",
-      "back": "heatwave",
-      "example": "La ola de calor durará toda la semana.",
-      "tier": "B1"
-     },
-     {
-      "front": "expuesto a",
-      "pos": "adj",
-      "back": "exposed to",
-      "example": "Estamos expuestos a mucho ruido en la ciudad.",
-      "tier": "B1"
-     },
-     {
-      "front": "soportar",
-      "pos": "verb",
-      "back": "to endure, to withstand",
-      "example": "No soporto este calor tan húmedo.",
-      "tier": "B1"
-     },
-     {
-      "front": "estimación",
-      "pos": "noun",
-      "back": "estimate",
-      "example": "Según las estimaciones, vendrán mil personas.",
-      "tier": "B2"
-     },
-     {
-      "front": "desplazarse",
-      "pos": "verb",
-      "back": "to move, to shift",
-      "example": "La tormenta se desplaza hacia el norte.",
-      "tier": "B2"
-     },
-     {
-      "front": "lanzar un aviso",
-      "pos": "phrase",
-      "back": "to issue a warning",
-      "example": "El servicio meteorológico lanzó un aviso rojo.",
-      "tier": "B2"
-     },
-     {
-      "front": "hidratarse",
-      "pos": "verb",
-      "back": "to stay hydrated",
-      "example": "Es importante hidratarse antes de correr.",
-      "tier": "B1"
-     },
-     {
-      "front": "vulnerable",
-      "pos": "adj",
-      "back": "vulnerable",
-      "example": "Los ancianos son más vulnerables al calor.",
-      "tier": "B1"
-     },
-     {
-      "front": "señalar",
-      "pos": "verb",
-      "back": "to point out",
-      "example": "El informe señala varios errores.",
-      "tier": "B1"
-     },
-     {
-      "front": "cada vez más",
-      "pos": "phrase",
-      "back": "increasingly, more and more",
-      "example": "El problema es cada vez más grave.",
-      "tier": "B1"
-     },
-     {
-      "front": "estar relacionado con",
-      "pos": "phrase",
-      "back": "to be linked to",
-      "example": "El estrés está relacionado con el insomnio.",
-      "tier": "B1"
-     },
-     {
-      "front": "de cara a",
-      "pos": "phrase",
-      "back": "looking ahead to, with a view to",
-      "example": "De cara al verano, conviene ahorrar agua.",
-      "tier": "B2"
-     },
-     {
-      "front": "descenso térmico",
-      "pos": "noun",
-      "back": "drop in temperature",
-      "example": "Se espera un descenso térmico el lunes.",
-      "tier": "B2"
-     },
-     {
-      "front": "precaución",
-      "pos": "noun",
-      "back": "caution",
-      "example": "Hay que conducir con precaución bajo la lluvia.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Según las estimaciones, unos 193 millones de habitantes soportaron valores superiores a los 35 grados, de los cuales cerca de 75 millones se encontraban en Alemania.",
-      "point": "El relativo 'de los cuales'",
-      "explanation": "'de los cuales' introduce una parte del grupo mencionado antes (los 193 millones de habitantes) y aporta un dato adicional sobre ese conjunto.",
-      "why_tricky": "Tras una preposición no se usa 'que' a secas, sino 'el cual / los cuales', que además concuerda en género y número con el antecedente."
-     },
-     {
-      "sentence": "Muchos expertos señalan que estos episodios, cada vez más frecuentes e intensos, están relacionados con el cambio climático.",
-      "point": "'cada vez más' y la conjunción 'e'",
-      "explanation": "'cada vez más' expresa una progresión creciente. Además, se usa 'e' en lugar de 'y' delante de una palabra que empieza por el sonido 'i' (intensos).",
-      "why_tricky": "Es fácil olvidar el cambio de 'y' a 'e'; ocurre solo por el sonido inicial, no por la letra, por eso decimos 'frecuentes e intensos'."
-     },
-     {
-      "sentence": "De cara a los próximos días, se espera que las temperaturas sigan siendo altas en varias regiones antes de que llegue un descenso térmico.",
-      "point": "Subjuntivo tras 'se espera que' y 'antes de que'",
-      "explanation": "Las expresiones de expectativa ('se espera que') y la conjunción temporal 'antes de que' exigen subjuntivo, de ahí 'sigan' y 'llegue'.",
-      "why_tricky": "'antes de que' siempre lleva subjuntivo, mientras que 'antes de' + infinitivo se usa cuando el sujeto es el mismo, lo que confunde a muchos estudiantes."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "de cara a",
-      "meaning": "with a view to, in preparation for",
-      "example": "De cara al examen, repasa cada día."
-     },
-     {
-      "phrase": "cada vez más",
-      "meaning": "more and more, increasingly",
-      "example": "Cada vez más gente trabaja desde casa."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué medidas recomendaron los servicios sanitarios para protegerse del calor?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué muchos expertos relacionan estas olas de calor con el cambio climático?",
-      "type": "open"
-     },
-     {
-      "q": "¿Cómo afecta el calor extremo a tu rutina diaria y qué haces para combatirlo?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Escribe un texto de unas 120 palabras en el que expliques qué deberían hacer las ciudades para proteger a la población durante las olas de calor."
-   }
-  },
-  {
-   "pack_id": "feed-2026-06-28-iran-eeuu-ormuz",
-   "title": "Aumentan las tensiones entre Irán y EEUU: violación del acuerdo y ataques cruzados",
-   "source": "RFI",
-   "date": "2026-06-27",
-   "level": "B1-B2",
-   "topics": [
-    "geopolítica",
-    "Oriente Medio"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-06-28-iran-eeuu-ormuz",
-    "revision": 1,
-    "meta": {
-     "title": "Aumentan las tensiones entre Irán y EEUU: violación del acuerdo y ataques cruzados",
-     "source": "RFI",
-     "url": "https://www.rfi.fr/es/oriente-medio/20260627-aumentan-las-tensiones-entre-ir%C3%A1n-y-eeuu-violaci%C3%B3n-del-acuerdo-y-ataques-cruzados",
-     "date_published": "2026-06-27",
-     "date_processed": "2026-06-28",
-     "tags": [
-      "geopolítica",
-      "Oriente Medio"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "Tension between Iran and the United States rose again after a fresh escalation in the Strait of Hormuz, one of the most important maritime routes in the world. According to available information, more than 8,000 sailors remain stranded in the area. Tehran also denounced a violation of the protocol of agreement that both countries had signed in mid June, which has set off all the alarm bells.\n\nThis new episode comes after the US bombings on Iranian territory, which had already seriously damaged relations between the two governments. The international community is following events with concern, since any incident in Hormuz can affect world trade and, in particular, the transport of oil. For now, it is not clear whether the two sides will manage to resume dialogue or whether the crisis will get worse in the coming weeks.",
-    "resumen_es": "La tensión entre Irán y Estados Unidos volvió a aumentar tras una nueva escalada en el estrecho de Ormuz, una de las rutas marítimas más importantes del mundo. Según la información disponible, más de 8.000 marineros permanecen bloqueados en la zona. Teherán denunció además una violación del protocolo de acuerdo que ambos países habían firmado a mediados de junio, lo que ha hecho saltar todas las alarmas.\n\nEste nuevo episodio se produce después de los bombardeos estadounidenses sobre territorio iraní, que ya habían deteriorado gravemente las relaciones entre ambos gobiernos. La comunidad internacional sigue con preocupación los acontecimientos, ya que cualquier incidente en Ormuz puede afectar al comercio mundial y, en particular, al transporte de petróleo. Por el momento, no está claro si las dos partes lograrán retomar el diálogo o si la crisis irá a más en las próximas semanas.",
-    "vocab": [
-     {
-      "front": "escalada",
-      "pos": "noun",
-      "back": "escalation",
-      "example": "Hubo una escalada de violencia en la frontera.",
-      "tier": "B2"
-     },
-     {
-      "front": "estrecho",
-      "pos": "noun",
-      "back": "strait",
-      "example": "El barco cruzó el estrecho de noche.",
-      "tier": "B1"
-     },
-     {
-      "front": "ruta marítima",
-      "pos": "noun",
-      "back": "maritime route",
-      "example": "Esa ruta marítima conecta dos continentes.",
-      "tier": "B2"
-     },
-     {
-      "front": "bloqueado",
-      "pos": "adj",
-      "back": "blocked, stranded",
-      "example": "Los camiones quedaron bloqueados en la carretera.",
-      "tier": "B1"
-     },
-     {
-      "front": "denunciar",
-      "pos": "verb",
-      "back": "to denounce, to report",
-      "example": "El país denunció el ataque ante la ONU.",
-      "tier": "B1"
-     },
-     {
-      "front": "violación (de un acuerdo)",
-      "pos": "noun",
-      "back": "breach (of an agreement)",
-      "example": "Fue una clara violación del contrato.",
-      "tier": "B2"
-     },
-     {
-      "front": "a mediados de",
-      "pos": "phrase",
-      "back": "in the middle of",
-      "example": "Llegará a mediados de mes.",
-      "tier": "B1"
-     },
-     {
-      "front": "hacer saltar las alarmas",
-      "pos": "phrase",
-      "back": "to set off alarm bells",
-      "example": "Los datos hicieron saltar las alarmas.",
-      "tier": "B2"
-     },
-     {
-      "front": "deteriorar",
-      "pos": "verb",
-      "back": "to damage, to worsen",
-      "example": "La discusión deterioró su amistad.",
-      "tier": "B2"
-     },
-     {
-      "front": "acontecimiento",
-      "pos": "noun",
-      "back": "event, development",
-      "example": "Seguimos los acontecimientos minuto a minuto.",
-      "tier": "B1"
-     },
-     {
-      "front": "retomar el diálogo",
-      "pos": "phrase",
-      "back": "to resume dialogue",
-      "example": "Las partes quieren retomar el diálogo pronto.",
-      "tier": "B2"
-     },
-     {
-      "front": "ir a más",
-      "pos": "phrase",
-      "back": "to get worse, to escalate",
-      "example": "El conflicto puede ir a más si nadie actúa.",
-      "tier": "B2"
-     },
-     {
-      "front": "petróleo",
-      "pos": "noun",
-      "back": "oil",
-      "example": "El precio del petróleo subió mucho.",
-      "tier": "B1"
-     },
-     {
-      "front": "bombardeo",
-      "pos": "noun",
-      "back": "bombing",
-      "example": "El bombardeo destruyó varias casas.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Teherán denunció además una violación del protocolo de acuerdo que ambos países habían firmado a mediados de junio, lo que ha hecho saltar todas las alarmas.",
-      "point": "Pretérito pluscuamperfecto y el relativo 'lo que'",
-      "explanation": "'habían firmado' (pluscuamperfecto) marca una acción anterior a otra acción pasada. 'lo que' resume toda la idea anterior, no una sola palabra.",
-      "why_tricky": "'lo que' se refiere a una frase completa, mientras que 'que' suele referirse a un sustantivo concreto; además hay que combinar dos tiempos del pasado."
-     },
-     {
-      "sentence": "Este nuevo episodio se produce después de los bombardeos estadounidenses sobre territorio iraní, que ya habían deteriorado gravemente las relaciones entre ambos gobiernos.",
-      "point": "'se' pronominal en 'se produce'",
-      "explanation": "'se produce' es una construcción pronominal que presenta el hecho sin un agente explícito, parecida a una pasiva: el episodio simplemente ocurre.",
-      "why_tricky": "En inglés se diría 'comes' o 'takes place'; el 'se' español no se traduce, pero es imprescindible para que la frase suene natural."
-     },
-     {
-      "sentence": "Por el momento, no está claro si las dos partes lograrán retomar el diálogo o si la crisis irá a más en las próximas semanas.",
-      "point": "Futuro simple para hipótesis e interrogativa indirecta con 'si'",
-      "explanation": "'lograrán' e 'irá' son futuros que expresan una predicción incierta. 'si' introduce preguntas indirectas dentro de la oración.",
-      "why_tricky": "Este 'si' no lleva tilde (no es el 'sí' afirmativo) y no se confunde con el 'si' condicional; además el futuro aquí expresa probabilidad."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "hacer saltar las alarmas",
-      "meaning": "to set off alarm bells, to raise the alarm",
-      "example": "El informe médico hizo saltar las alarmas."
-     },
-     {
-      "phrase": "ir a más",
-      "meaning": "to get worse, to grow",
-      "example": "Si no lo cuidas, el problema irá a más."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué ocurrió en el estrecho de Ormuz y cómo afectó a los marineros?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué un incidente en esa zona puede tener consecuencias para el comercio mundial?",
-      "type": "open"
-     },
-     {
-      "q": "En tu opinión, ¿qué deberían hacer ambos países para reducir la tensión?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Escribe un texto de unas 120 palabras en el que expliques por qué crees que el diálogo es o no es la mejor manera de resolver este tipo de conflictos internacionales."
-   }
-  },
-  {
-   "pack_id": "feed-2026-06-27-futbol-longevidad-estrellas",
-   "title": "Cristiano Ronaldo, Messi, Modric... Cómo las estrellas del Mundial desafían los límites de la longevidad",
-   "source": "BBC Mundo",
-   "date": "2026-06-27",
-   "level": "B1-B2",
-   "topics": [
-    "deporte",
-    "ciencia"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-06-27-futbol-longevidad-estrellas",
-    "revision": 1,
-    "meta": {
-     "title": "Cristiano Ronaldo, Messi, Modric... Cómo las estrellas del Mundial desafían los límites de la longevidad",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/c0jyqw4z713o?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-06-27",
-     "date_processed": "2026-06-27",
-     "tags": [
-      "deporte",
-      "ciencia"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "Some of football's biggest stars are still shining at an age when, years ago, almost everyone would have retired. Players like Cristiano Ronaldo, Messi or Modric show that it is possible to compete at the highest level beyond the age of thirty-five. Their presence at the World Cup has once again put an interesting question on the table: why do footballers last longer and longer. Experts agree that there is no single explanation.\n\nBehind this longevity several factors combine. On one hand, scientific advances in physical preparation and recovery make it possible to take better care of the body. On the other, the culture of the sport has changed: diet, rest and mindset are taken much more seriously. Although talent is still essential, today daily discipline makes the difference. Thanks to this, it is likely that in the future we will see more athletes competing to ages once unthinkable.",
-    "resumen_es": "Algunas de las mayores estrellas del fútbol siguen brillando a una edad en la que, hace años, casi todos se habrían retirado. Jugadores como Cristiano Ronaldo, Messi o Modric demuestran que es posible competir al máximo pasados los treinta y cinco. Su presencia en el Mundial ha vuelto a poner sobre la mesa una pregunta: por qué los futbolistas duran cada vez más. Los expertos coinciden en que no existe una única explicación.\n\nDetrás de esta longevidad se combinan varios factores. Por un lado, los avances científicos en preparación física y recuperación permiten cuidar mejor el cuerpo. Por otro, ha cambiado la cultura del deporte: la alimentación, el descanso y la mentalidad se toman mucho más en serio. Aunque el talento sigue siendo esencial, hoy la disciplina diaria marca la diferencia. Gracias a ello, es probable que en el futuro veamos a más deportistas competir hasta edades antes impensables.",
-    "vocab": [
-     {
-      "front": "la estrella",
-      "pos": "noun",
-      "back": "star (famous person)",
-      "example": "Es una estrella del deporte mundial.",
-      "tier": "B1"
-     },
-     {
-      "front": "brillar",
-      "pos": "verb",
-      "back": "to shine, to excel",
-      "example": "El joven brilló en su primer partido.",
-      "tier": "B1"
-     },
-     {
-      "front": "retirarse",
-      "pos": "verb",
-      "back": "to retire",
-      "example": "Muchos atletas se retiran a los treinta.",
-      "tier": "B1"
-     },
-     {
-      "front": "competir",
-      "pos": "verb",
-      "back": "to compete",
-      "example": "Le encanta competir contra los mejores.",
-      "tier": "B1"
-     },
-     {
-      "front": "la longevidad",
-      "pos": "noun",
-      "back": "longevity",
-      "example": "La longevidad en el deporte sorprende a todos.",
-      "tier": "C1"
-     },
-     {
-      "front": "el avance",
-      "pos": "noun",
-      "back": "advance, progress",
-      "example": "Los avances médicos salvan vidas.",
-      "tier": "B2"
-     },
-     {
-      "front": "la recuperación",
-      "pos": "noun",
-      "back": "recovery",
-      "example": "La recuperación tras la lesión fue rápida.",
-      "tier": "B2"
-     },
-     {
-      "front": "el descanso",
-      "pos": "noun",
-      "back": "rest",
-      "example": "El descanso es clave para rendir bien.",
-      "tier": "B1"
-     },
-     {
-      "front": "la mentalidad",
-      "pos": "noun",
-      "back": "mindset",
-      "example": "Tiene una mentalidad ganadora.",
-      "tier": "B2"
-     },
-     {
-      "front": "la disciplina",
-      "pos": "noun",
-      "back": "discipline",
-      "example": "Su éxito se debe a la disciplina diaria.",
-      "tier": "B1"
-     },
-     {
-      "front": "impensable",
-      "pos": "adj",
-      "back": "unthinkable",
-      "example": "Hace años, esto era impensable.",
-      "tier": "B2"
-     },
-     {
-      "front": "marcar la diferencia",
-      "pos": "phrase",
-      "back": "to make the difference",
-      "example": "Los detalles marcan la diferencia.",
-      "tier": "B2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Algunas de las mayores estrellas del fútbol siguen brillando a una edad en la que, hace años, casi todos se habrían retirado.",
-      "point": "'Seguir' + gerund and the conditional perfect",
-      "explanation": "'Siguen brillando' means 'keep shining', and 'se habrían retirado' is the conditional perfect for an unreal past situation.",
-      "why_tricky": "Two advanced structures appear together: a periphrasis with the gerund and a compound conditional."
-     },
-     {
-      "sentence": "Aunque el talento sigue siendo esencial, hoy la disciplina diaria marca la diferencia.",
-      "point": "'Aunque' + indicative (concession)",
-      "explanation": "When the concession refers to a real, accepted fact, 'aunque' is followed by the indicative ('sigue').",
-      "why_tricky": "'Aunque' can take the subjunctive too, but here the fact is real, so the indicative is correct."
-     },
-     {
-      "sentence": "Gracias a ello, es probable que en el futuro veamos a más deportistas competir hasta edades antes impensables.",
-      "point": "Subjunctive after 'es probable que'",
-      "explanation": "Expressions of probability like 'es probable que' require the subjunctive, so the verb becomes 'veamos'.",
-      "why_tricky": "It expresses likelihood, not certainty, so Spanish uses the subjunctive rather than the indicative."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "poner sobre la mesa",
-      "meaning": "to bring up, to raise (a topic)",
-      "example": "El periodista puso sobre la mesa un tema incómodo."
-     },
-     {
-      "phrase": "marcar la diferencia",
-      "meaning": "to make the difference",
-      "example": "Un buen entrenador marca la diferencia."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué pregunta han vuelto a plantear las estrellas veteranas del Mundial?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué factores explican la mayor longevidad de los futbolistas?",
-      "type": "open"
-     },
-     {
-      "q": "¿Crees que la disciplina puede ser más importante que el talento? ¿Por qué?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Escribe unas 120 palabras: ¿qué hábitos crees que ayudan a una persona a mantenerse en forma durante muchos años?"
    }
   }
  ]
