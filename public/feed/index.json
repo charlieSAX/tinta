@@ -1,7 +1,493 @@
 {
-  "generated_at": "2026-07-08T08:16:43Z",
+  "generated_at": "2026-07-08T22:20:59Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-07-08-ciudades-calidad-vida",
+      "title": "Cómo es vivir en las 5 ciudades con mayor calidad de vida en 2026",
+      "source": "BBC Mundo",
+      "date": "2026-07-08",
+      "level": "B1-B2",
+      "topics": [
+        "ciudades",
+        "calidad de vida"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-08-ciudades-calidad-vida",
+        "revision": 1,
+        "meta": {
+          "title": "Cómo es vivir en las 5 ciudades con mayor calidad de vida en 2026",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c9v24gxl3nyo",
+          "date_published": "2026-07-08",
+          "date_processed": "2026-07-08",
+          "tags": [
+            "ciudades",
+            "calidad de vida"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Every year, rankings are published that try to measure which cities offer the best quality of life. In its 2026 edition, the BBC wanted to go beyond the data and asked several residents to describe the everyday experiences that make their cities exceptional places. According to them, what makes the difference is not always the big numbers, but the small details of daily life: reliable public transport, safe streets and green spaces within easy reach.\n\nBehind these rankings there are many factors that carry weight when assessing quality of life. Health care, education, housing prices and the balance between work and leisure are usually taken into account. It is worth remembering, however, that these lists are partly subjective and change from one year to the next. What is ideal for one person may not be so for another, since everyone looks for different things in the place where they decide to put down roots.",
+        "resumen_es": "Cada año se publican clasificaciones que intentan medir en qué ciudades se vive mejor. En su edición de 2026, la BBC quiso ir más allá de los datos y pidió a varios residentes que contaran las experiencias cotidianas que hacen de sus ciudades lugares excepcionales. Según ellos, lo que marca la diferencia no son las grandes cifras, sino los detalles del día a día: un transporte fiable, calles seguras y espacios verdes.\n\nDetrás de estos rankings hay muchos factores que pesan a la hora de valorar la calidad de vida. Suelen tenerse en cuenta la sanidad, la educación, la vivienda y el equilibrio entre trabajo y ocio. Conviene recordar que estas listas son en parte subjetivas y cambian cada año. Lo que para una persona resulta ideal puede no serlo para otra, ya que cada quien busca cosas distintas en el lugar donde decide echar raíces.",
+        "vocab": [
+          {
+            "front": "la clasificación",
+            "pos": "noun",
+            "back": "ranking, classification",
+            "example": "La clasificación de este año incluye ciudades de varios continentes.",
+            "tier": "B1"
+          },
+          {
+            "front": "medir",
+            "pos": "verb",
+            "back": "to measure",
+            "example": "Es difícil medir la felicidad de una ciudad.",
+            "tier": "B1"
+          },
+          {
+            "front": "cotidiano",
+            "pos": "adj",
+            "back": "daily, everyday",
+            "example": "Los pequeños placeres cotidianos mejoran el ánimo.",
+            "tier": "B2"
+          },
+          {
+            "front": "fiable",
+            "pos": "adj",
+            "back": "reliable, trustworthy",
+            "example": "Buscamos un transporte fiable para ir al trabajo.",
+            "tier": "B2"
+          },
+          {
+            "front": "al alcance de la mano",
+            "pos": "phrase",
+            "back": "within easy reach",
+            "example": "Tener parques al alcance de la mano es un lujo.",
+            "tier": "B2"
+          },
+          {
+            "front": "la vivienda",
+            "pos": "noun",
+            "back": "housing, home",
+            "example": "El precio de la vivienda ha subido mucho.",
+            "tier": "B1"
+          },
+          {
+            "front": "el ocio",
+            "pos": "noun",
+            "back": "leisure, free time",
+            "example": "Dedica su tiempo de ocio a la lectura.",
+            "tier": "B2"
+          },
+          {
+            "front": "pesar",
+            "pos": "verb",
+            "back": "to weigh, to matter",
+            "example": "La seguridad pesa mucho en esa decisión.",
+            "tier": "B2"
+          },
+          {
+            "front": "valorar",
+            "pos": "verb",
+            "back": "to value, to assess",
+            "example": "Los expertos valoran distintos aspectos de la vida urbana.",
+            "tier": "B1"
+          },
+          {
+            "front": "subjetivo",
+            "pos": "adj",
+            "back": "subjective",
+            "example": "Toda opinión es, en cierto modo, subjetiva.",
+            "tier": "B2"
+          },
+          {
+            "front": "el equilibrio",
+            "pos": "noun",
+            "back": "balance",
+            "example": "Es clave el equilibrio entre trabajo y descanso.",
+            "tier": "B1"
+          },
+          {
+            "front": "marcar la diferencia",
+            "pos": "phrase",
+            "back": "to make the difference",
+            "example": "Muchas veces los detalles marcan la diferencia.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "En su edición de 2026, la BBC quiso ir más allá de los datos y pidió a varios residentes que contaran las experiencias cotidianas que hacen de sus ciudades lugares excepcionales.",
+            "point": "Imperfecto de subjuntivo tras verbo de petición",
+            "explanation": "El verbo pedir exige subjuntivo en la oración subordinada; como el verbo principal está en pasado (pidió), se usa el imperfecto de subjuntivo contaran.",
+            "why_tricky": "Muchos estudiantes usan el indicativo (contaron) o el presente de subjuntivo (cuenten) después de un verbo principal en pasado."
+          },
+          {
+            "sentence": "Lo que para una persona resulta ideal puede no serlo para otra, ya que cada quien busca cosas distintas en el lugar donde decide echar raíces.",
+            "point": "El pronombre neutro lo como atributo",
+            "explanation": "En puede no serlo, el lo sustituye al adjetivo ideal ya mencionado; el español usa el lo neutro para referirse a un atributo anterior.",
+            "why_tricky": "El inglés no tiene equivalente, así que los estudiantes suelen omitir el lo."
+          },
+          {
+            "sentence": "Detrás de estos rankings hay muchos factores que pesan a la hora de valorar la calidad de vida.",
+            "point": "a la hora de + infinitivo",
+            "explanation": "La estructura fija a la hora de más infinitivo significa cuando se trata de hacer algo, e introduce el momento o contexto de una acción.",
+            "why_tricky": "La traducción literal (at the hour of) es incorrecta; funciona como un conector idiomático."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "echar raíces",
+            "meaning": "to settle down, put down roots in a place",
+            "example": "Tras vivir en muchos países, por fin echó raíces en Valencia."
+          },
+          {
+            "phrase": "ir más allá",
+            "meaning": "to go further, beyond the obvious",
+            "example": "El periodista quiso ir más allá y entrevistó a los vecinos."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué quiso hacer la BBC de forma diferente en su clasificación de 2026?",
+            "type": "open"
+          },
+          {
+            "q": "Según los residentes, ¿qué pequeños detalles mejoran la vida en una ciudad?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué dice el texto que estas listas son en parte subjetivas?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Qué tres cosas te parecen más importantes para vivir bien en una ciudad? Escribe un párrafo explicando tu elección."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-08-lengua-animales-tierra",
+      "title": "Cómo la lengua hizo posible que los animales salieran del mar y vivieran en la tierra",
+      "source": "BBC Mundo",
+      "date": "2026-07-05",
+      "level": "B1-B2",
+      "topics": [
+        "ciencia",
+        "evolución"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-08-lengua-animales-tierra",
+        "revision": 1,
+        "meta": {
+          "title": "Cómo la lengua hizo posible que los animales salieran del mar y vivieran en la tierra",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cwy051y44j2o",
+          "date_published": "2026-07-05",
+          "date_processed": "2026-07-08",
+          "tags": [
+            "ciencia",
+            "evolución"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "When the ancestors of many animals left the sea to live on dry land, they had to solve a basic problem: how to eat out of the water. In the sea, many creatures caught their food thanks to the current, which carried the food to their mouths. On land, without the help of water and fighting against gravity, a completely different mechanism was needed. According to scientists, the tongue took on that challenge and became a key piece for being able to feed.\n\nThe tongue is a surprisingly versatile muscle. It not only allows us to chew and swallow, but, over time, it made possible other functions as important as speech in human beings. This change did not happen overnight, but over millions of years of evolution. The story of the tongue shows how such a small organ came to completely transform life on the planet and to open the way towards more complex forms of life.",
+        "resumen_es": "Cuando los antepasados de muchos animales dejaron el mar para vivir en tierra firme, tuvieron que resolver un problema básico: cómo comer fuera del agua. En el mar, muchos seres atrapaban el alimento gracias a la corriente, que lo arrastraba hasta la boca. En tierra, sin la ayuda del agua y luchando contra la gravedad, hizo falta otro mecanismo. La lengua asumió ese reto y se volvió esencial para alimentarse.\n\nLa lengua es un músculo muy versátil. No solo permite masticar y tragar, sino que, con el paso del tiempo, hizo posible otras funciones tan importantes como el habla en los seres humanos. Este cambio no ocurrió de un día para otro, sino a lo largo de millones de años de evolución. La historia de la lengua demuestra cómo un órgano tan pequeño transformó la vida en el planeta y abrió el camino hacia formas de vida más complejas.",
+        "vocab": [
+          {
+            "front": "el antepasado",
+            "pos": "noun",
+            "back": "ancestor",
+            "example": "Nuestros antepasados vivían en cuevas.",
+            "tier": "B2"
+          },
+          {
+            "front": "tierra firme",
+            "pos": "phrase",
+            "back": "dry land, solid ground",
+            "example": "Los marineros ansiaban llegar a tierra firme.",
+            "tier": "B2"
+          },
+          {
+            "front": "la corriente",
+            "pos": "noun",
+            "back": "current (of water)",
+            "example": "La corriente del río es muy fuerte aquí.",
+            "tier": "B1"
+          },
+          {
+            "front": "arrastrar",
+            "pos": "verb",
+            "back": "to drag, to carry along",
+            "example": "El agua arrastraba hojas y ramas.",
+            "tier": "B2"
+          },
+          {
+            "front": "hacer falta",
+            "pos": "phrase",
+            "back": "to be necessary, to be needed",
+            "example": "Hace falta más tiempo para terminar el trabajo.",
+            "tier": "B1"
+          },
+          {
+            "front": "el mecanismo",
+            "pos": "noun",
+            "back": "mechanism",
+            "example": "El reloj tiene un mecanismo muy delicado.",
+            "tier": "B1"
+          },
+          {
+            "front": "asumir un reto",
+            "pos": "phrase",
+            "back": "to take on a challenge",
+            "example": "Decidió asumir el reto de aprender chino.",
+            "tier": "B2"
+          },
+          {
+            "front": "masticar",
+            "pos": "verb",
+            "back": "to chew",
+            "example": "Es importante masticar bien la comida.",
+            "tier": "B2"
+          },
+          {
+            "front": "tragar",
+            "pos": "verb",
+            "back": "to swallow",
+            "example": "Le costaba tragar por el dolor de garganta.",
+            "tier": "B2"
+          },
+          {
+            "front": "versátil",
+            "pos": "adj",
+            "back": "versatile",
+            "example": "El aceite de oliva es un ingrediente muy versátil.",
+            "tier": "B2"
+          },
+          {
+            "front": "el habla",
+            "pos": "noun",
+            "back": "speech",
+            "example": "El habla nos distingue de otros animales.",
+            "tier": "B2"
+          },
+          {
+            "front": "de un día para otro",
+            "pos": "phrase",
+            "back": "overnight, suddenly",
+            "example": "La ciudad no cambió de un día para otro.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Cuando los antepasados de muchos animales dejaron el mar para vivir en tierra firme, tuvieron que resolver un problema básico: cómo comer fuera del agua.",
+            "point": "tener que + infinitivo en pretérito",
+            "explanation": "tuvieron que resolver expresa una obligación pasada que se cumplió; el pretérito de tener que marca algo puntual y realizado.",
+            "why_tricky": "Los estudiantes lo confunden con el imperfecto debían (acción continua) o con deber de (probabilidad)."
+          },
+          {
+            "sentence": "No solo permite masticar y tragar, sino que, con el paso del tiempo, hizo posible otras funciones tan importantes como el habla en los seres humanos.",
+            "point": "Correlación no solo... sino que...",
+            "explanation": "Sirve para añadir un elemento más fuerte; cuando después va un verbo conjugado, el español usa sino que y no solo sino.",
+            "why_tricky": "Los estudiantes usan pero o eliminan el que necesario."
+          },
+          {
+            "sentence": "Este cambio no ocurrió de un día para otro, sino a lo largo de millones de años de evolución.",
+            "point": "sino frente a pero tras una negación",
+            "explanation": "Después de una frase negativa, sino introduce la alternativa correcta; aquí contrasta de un día para otro con a lo largo de millones de años.",
+            "why_tricky": "Muchos estudiantes recurren por defecto a pero."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "de un día para otro",
+            "meaning": "from one day to the next; very suddenly",
+            "example": "Su vida cambió de un día para otro cuando le tocó la lotería."
+          },
+          {
+            "phrase": "abrir el camino",
+            "meaning": "to pave the way, to open the door to something",
+            "example": "Su investigación abrió el camino a nuevos tratamientos."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué problema tuvieron que resolver los animales al salir del mar?",
+            "type": "open"
+          },
+          {
+            "q": "¿Cómo conseguían comer muchos seres cuando vivían en el agua?",
+            "type": "open"
+          },
+          {
+            "q": "Además de comer, ¿qué otra función importante permite la lengua en los humanos?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Qué otro órgano o parte del cuerpo te parece fundamental para la vida humana y por qué? Escribe unas líneas."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-08-china-funcionario-sobornos",
+      "title": "El funcionario chino condenado a muerte por aceptar US$325 millones en sobornos",
+      "source": "BBC Mundo",
+      "date": "2026-07-07",
+      "level": "B1-B2",
+      "topics": [
+        "China",
+        "corrupción"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-08-china-funcionario-sobornos",
+        "revision": 1,
+        "meta": {
+          "title": "El funcionario chino condenado a muerte por aceptar US$325 millones en sobornos",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cg4wdvneqgdo",
+          "date_published": "2026-07-07",
+          "date_processed": "2026-07-08",
+          "tags": [
+            "China",
+            "corrupción"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "A court in China has sentenced a senior 69-year-old official to death for accepting bribes worth some 325 million dollars. According to the ruling, over the years the accused helped various companies obtain very valuable contracts in exchange for money. The case has drawn attention because of the enormous amount involved and the harshness of the punishment imposed by the judges.\n\nFor more than a decade, the Chinese government has kept up an intense campaign against corruption and does not hesitate to apply severe penalties to those responsible. The authorities maintain that these measures serve as a warning to other public officials. Corruption, however, remains a problem that is hard to eradicate, since it undermines trust in institutions and diverts resources that should be used for the common good. Cases like this reignite the debate about whether it is better to punish with a firm hand or to prevent from the root.",
+        "resumen_es": "Un tribunal de China ha condenado a muerte a un alto funcionario de 69 años por haber aceptado sobornos que suman unos 325 millones de dólares. Según la sentencia, durante años ayudó a distintas empresas a conseguir contratos valiosos a cambio de dinero. El caso ha llamado la atención por la enorme cantidad y por la dureza del castigo.\n\nDesde hace más de una década, el gobierno chino mantiene una intensa campaña contra la corrupción y no duda en aplicar penas severas a los responsables. Las autoridades sostienen que estas medidas sirven de advertencia para otros cargos públicos. La corrupción, sin embargo, sigue siendo un problema difícil de erradicar, ya que socava la confianza en las instituciones y desvía recursos que deberían destinarse al bien común. Casos como este reavivan el debate sobre si conviene más castigar con mano dura o prevenir desde la raíz.",
+        "vocab": [
+          {
+            "front": "el funcionario",
+            "pos": "noun",
+            "back": "civil servant, official",
+            "example": "Un funcionario del ayuntamiento nos atendió.",
+            "tier": "B1"
+          },
+          {
+            "front": "el soborno",
+            "pos": "noun",
+            "back": "bribe",
+            "example": "Le ofrecieron un soborno para que callara.",
+            "tier": "B2"
+          },
+          {
+            "front": "el tribunal",
+            "pos": "noun",
+            "back": "court (of law)",
+            "example": "El tribunal dictó sentencia ayer.",
+            "tier": "B1"
+          },
+          {
+            "front": "condenar",
+            "pos": "verb",
+            "back": "to sentence, to convict",
+            "example": "Lo condenaron a cinco años de cárcel.",
+            "tier": "B2"
+          },
+          {
+            "front": "la sentencia",
+            "pos": "noun",
+            "back": "verdict, sentence",
+            "example": "La sentencia se conocerá mañana.",
+            "tier": "B2"
+          },
+          {
+            "front": "el castigo",
+            "pos": "noun",
+            "back": "punishment",
+            "example": "El castigo fue muy severo.",
+            "tier": "B1"
+          },
+          {
+            "front": "severo",
+            "pos": "adj",
+            "back": "harsh, severe",
+            "example": "Le impusieron una multa severa.",
+            "tier": "B2"
+          },
+          {
+            "front": "erradicar",
+            "pos": "verb",
+            "back": "to eradicate, to root out",
+            "example": "Es difícil erradicar la pobreza.",
+            "tier": "C1"
+          },
+          {
+            "front": "socavar",
+            "pos": "verb",
+            "back": "to undermine",
+            "example": "La mentira socava la confianza.",
+            "tier": "C1"
+          },
+          {
+            "front": "la advertencia",
+            "pos": "noun",
+            "back": "warning",
+            "example": "Ignoró todas las advertencias.",
+            "tier": "B2"
+          },
+          {
+            "front": "el bien común",
+            "pos": "phrase",
+            "back": "the common good",
+            "example": "Deben gobernar pensando en el bien común.",
+            "tier": "B2"
+          },
+          {
+            "front": "a cambio de",
+            "pos": "phrase",
+            "back": "in exchange for",
+            "example": "Trabaja a cambio de un sueldo modesto.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Un tribunal de China ha condenado a muerte a un alto funcionario de 69 años por haber aceptado sobornos que suman unos 325 millones de dólares.",
+            "point": "por + infinitivo compuesto (causa)",
+            "explanation": "por haber aceptado indica la causa de la condena; el infinitivo compuesto marca una acción terminada antes de la principal.",
+            "why_tricky": "Los estudiantes usan por aceptar o una oración con porque aceptó, perdiendo el matiz de anterioridad."
+          },
+          {
+            "sentence": "La corrupción, sin embargo, sigue siendo un problema difícil de erradicar, ya que socava la confianza en las instituciones y desvía recursos que deberían destinarse al bien común.",
+            "point": "seguir + gerundio",
+            "explanation": "sigue siendo expresa continuidad: todavía lo es; seguir más gerundio transmite un estado que se prolonga.",
+            "why_tricky": "Los estudiantes dicen sigue ser o todavía es y pierden el matiz de continuidad."
+          },
+          {
+            "sentence": "Las autoridades sostienen que estas medidas sirven de advertencia para otros cargos públicos.",
+            "point": "servir de + sustantivo",
+            "explanation": "servir de advertencia significa funcionar como aviso; la preposición de, sin artículo, introduce la función o el papel.",
+            "why_tricky": "Los estudiantes añaden un artículo (servir de una advertencia) o usan como."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "con mano dura",
+            "meaning": "firmly, with strict discipline, with an iron fist",
+            "example": "El nuevo director gobierna la empresa con mano dura."
+          },
+          {
+            "phrase": "desde la raíz",
+            "meaning": "from the root; at the source, fundamentally",
+            "example": "Hay que atacar el problema desde la raíz."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué fue condenado el funcionario chino?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué objetivo tienen, según las autoridades, los castigos tan severos?",
+            "type": "open"
+          },
+          {
+            "q": "Según el texto, ¿qué consecuencias tiene la corrupción para la sociedad?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "En tu opinión, ¿es más eficaz castigar la corrupción con penas duras o invertir en prevención? Justifica tu respuesta."
+      }
+    },
     {
       "pack_id": "feed-2026-07-08-ue-sistema-ees-viajeros",
       "title": "UE: Entrar o salir puede convertirse en el \"via crucis\" del verano para los viajeros no europeos",
@@ -6280,520 +6766,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que las acciones individuales pueden marcar una diferencia real frente a la crisis climática? Escribe un párrafo explicando tu opinión con ejemplos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-29-eeuu-democratas-agitacion",
-      "title": "Estados Unidos: el partido demócrata en plena agitación",
-      "source": "RFI Español",
-      "date": "2026-06-28",
-      "level": "B1-B2",
-      "topics": [
-        "política",
-        "Estados Unidos"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-29-eeuu-democratas-agitacion",
-        "revision": 1,
-        "meta": {
-          "title": "Estados Unidos: el partido demócrata en plena agitación",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/programas/noticias-de-am%C3%A9rica/20260628-estados-unidos-el-partido-dem%C3%B3crata-en-agitaci%C3%B3n",
-          "date_published": "2026-06-28",
-          "date_processed": "2026-06-29",
-          "tags": [
-            "política",
-            "Estados Unidos"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The Democratic Party in the United States is going through a moment of strong internal turmoil. In the recent primary elections for the House of Representatives, three candidates backed by the mayor of New York managed to win. Their victories have surprised many observers and have opened a debate about the direction the party should take in the coming years.\n\nAccording to analysts, these results reflect two clear trends. On one hand, the rise of more left-wing positions within American politics. On the other, growing discontent with the party's traditional leadership, which part of the base accuses of being out of touch with voters. It remains to be seen whether this current will manage to consolidate and how the established leaders will respond. In any case, the episode points to a very contested internal contest.",
-        "resumen_es": "El Partido Demócrata de Estados Unidos vive un momento de fuerte agitación interna. En las recientes elecciones primarias para la Cámara de Representantes, tres candidatos respaldados por el alcalde de Nueva York lograron imponerse. Sus victorias han sorprendido a muchos observadores y han abierto un debate sobre el rumbo que debería seguir el partido en los próximos años.\n\nSegún los analistas, estos resultados reflejan dos tendencias claras. Por un lado, el avance de las posiciones más a la izquierda dentro de la política estadounidense. Por otro, un creciente malestar con la dirección tradicional del partido, a la que parte de las bases acusa de estar alejada de los votantes. Queda por ver si esta corriente logrará consolidarse y cómo responderán los líderes históricos. En cualquier caso, el episodio anticipa unas elecciones internas muy disputadas.",
-        "vocab": [
-          {
-            "front": "la agitación",
-            "pos": "noun",
-            "back": "turmoil, unrest",
-            "example": "Hay agitación en los mercados.",
-            "tier": "B2"
-          },
-          {
-            "front": "elecciones primarias",
-            "pos": "phrase",
-            "back": "primary elections",
-            "example": "Las primarias deciden al candidato.",
-            "tier": "B1"
-          },
-          {
-            "front": "respaldado por",
-            "pos": "phrase",
-            "back": "backed/supported by",
-            "example": "Un plan respaldado por todos los partidos.",
-            "tier": "B2"
-          },
-          {
-            "front": "imponerse",
-            "pos": "verb",
-            "back": "to prevail, win out",
-            "example": "El favorito se impuso con facilidad.",
-            "tier": "B2"
-          },
-          {
-            "front": "el rumbo",
-            "pos": "noun",
-            "back": "course, direction",
-            "example": "El país cambió de rumbo.",
-            "tier": "B2"
-          },
-          {
-            "front": "el avance",
-            "pos": "noun",
-            "back": "advance, rise",
-            "example": "El avance de la tecnología es imparable.",
-            "tier": "B1"
-          },
-          {
-            "front": "el malestar",
-            "pos": "noun",
-            "back": "discontent, unease",
-            "example": "Existe malestar entre los empleados.",
-            "tier": "B2"
-          },
-          {
-            "front": "la dirección",
-            "pos": "noun",
-            "back": "leadership, management",
-            "example": "La dirección tomó una decisión difícil.",
-            "tier": "B1"
-          },
-          {
-            "front": "las bases",
-            "pos": "noun",
-            "back": "the grassroots, membership",
-            "example": "Las bases del partido protestan.",
-            "tier": "B2"
-          },
-          {
-            "front": "alejado de",
-            "pos": "adj",
-            "back": "distant from, out of touch with",
-            "example": "Se siente alejado de la realidad.",
-            "tier": "B2"
-          },
-          {
-            "front": "consolidarse",
-            "pos": "verb",
-            "back": "to consolidate, become established",
-            "example": "La empresa logró consolidarse.",
-            "tier": "B2"
-          },
-          {
-            "front": "disputado",
-            "pos": "adj",
-            "back": "contested, hard-fought",
-            "example": "Fue un partido muy disputado.",
-            "tier": "B2"
-          },
-          {
-            "front": "anticipar",
-            "pos": "verb",
-            "back": "to foreshadow, point to",
-            "example": "Los datos anticipan una crisis.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "En las recientes elecciones primarias para la Cámara de Representantes, tres candidatos respaldados por el alcalde de Nueva York lograron imponerse.",
-            "point": "Lograr más infinitivo",
-            "explanation": "Lograr más infinitivo expresa que algo se consigue con éxito; va seguido del infinitivo sin preposición.",
-            "why_tricky": "Se confunde con poder, que indica capacidad; lograr subraya el resultado conseguido."
-          },
-          {
-            "sentence": "Queda por ver si esta corriente logrará consolidarse y cómo responderán los líderes históricos.",
-            "point": "Quedar por más infinitivo",
-            "explanation": "Quedar por ver significa que algo está aún sin resolver o por decidir.",
-            "why_tricky": "Es un uso idiomático de quedar con sentido impersonal que no se traduce palabra por palabra."
-          },
-          {
-            "sentence": "Por otro, un creciente malestar con la dirección tradicional del partido, a la que parte de las bases acusa de estar alejada de los votantes.",
-            "point": "Preposición más relativo a la que",
-            "explanation": "El verbo acusar rige la preposición a, que se mantiene delante del relativo: a la que.",
-            "why_tricky": "En español la preposición va antes del relativo, no al final de la frase como en inglés coloquial."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "quedar por ver",
-            "meaning": "to remain to be seen, be uncertain",
-            "example": "Quedará por ver quién gana al final."
-          },
-          {
-            "phrase": "por un lado... por otro",
-            "meaning": "on one hand... on the other",
-            "example": "Por un lado me gusta, por otro me preocupa."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué ocurrió en las elecciones primarias para la Cámara de Representantes?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué dos tendencias reflejan, según los analistas, estos resultados?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué algunos votantes están descontentos con la dirección del partido?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que los partidos políticos deben renovar a sus líderes con frecuencia o mantener la experiencia de los dirigentes históricos? Justifica tu respuesta."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-29-al-aqsa-jerusalen",
-      "title": "Al Aqsa: el temor de los musulmanes ante los planes de los nacionalistas israelíes para uno de los lugares más sagrados del Islam",
-      "source": "BBC Mundo",
-      "date": "2026-06-24",
-      "level": "B1-B2",
-      "topics": [
-        "religión",
-        "Oriente Medio"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-29-al-aqsa-jerusalen",
-        "revision": 1,
-        "meta": {
-          "title": "Al Aqsa: el temor de los musulmanes ante los planes de los nacionalistas israelíes para uno de los lugares más sagrados del Islam",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c5yzgrznz18o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-06-24",
-          "date_processed": "2026-06-29",
-          "tags": [
-            "religión",
-            "Oriente Medio"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The Al Aqsa Mosque, located in Jerusalem, is one of the holiest places in Islam and also a deeply meaningful symbol for Jews and Christians. In recent times, concern has grown among Muslim worshippers over the actions of some Israeli nationalist groups. According to various media outlets, these groups have begun to ignore the rules that for decades have governed coexistence within the compound.\n\nThe site is governed by a delicate arrangement known as the status quo, which distributes uses and visits among the different religious communities. Any change to those customs creates tension and fear of new clashes. For many believers, respecting the current balance is essential to keeping peace in a city loaded with history and meaning. For this reason, authorities and religious leaders are calling for caution and dialogue before the situation worsens.",
-        "resumen_es": "La mezquita de Al Aqsa, situada en Jerusalén, es uno de los lugares más sagrados del islam y también un símbolo de gran valor para judíos y cristianos. En los últimos tiempos ha crecido la preocupación entre los fieles musulmanes ante las acciones de algunos grupos nacionalistas israelíes. Según diversos medios, estos grupos han empezado a ignorar las normas que durante décadas han regulado la convivencia en el recinto.\n\nEl lugar se rige por un delicado acuerdo conocido como statu quo, que reparte los usos y las visitas entre las distintas comunidades religiosas. Cualquier cambio en esas costumbres genera tensión y temor a nuevos enfrentamientos. Para muchos creyentes, respetar el equilibrio actual es esencial para mantener la paz en una ciudad cargada de historia y de significado. Por eso, las autoridades y los líderes religiosos piden prudencia y diálogo antes de que la situación se agrave.",
-        "vocab": [
-          {
-            "front": "sagrado",
-            "pos": "adj",
-            "back": "sacred, holy",
-            "example": "Para ellos es un lugar sagrado.",
-            "tier": "B1"
-          },
-          {
-            "front": "los fieles",
-            "pos": "noun",
-            "back": "the faithful, worshippers",
-            "example": "Los fieles rezan cada día.",
-            "tier": "B2"
-          },
-          {
-            "front": "la convivencia",
-            "pos": "noun",
-            "back": "coexistence",
-            "example": "La convivencia pacífica no es fácil.",
-            "tier": "B2"
-          },
-          {
-            "front": "el recinto",
-            "pos": "noun",
-            "back": "enclosure, compound, grounds",
-            "example": "El recinto estaba lleno de gente.",
-            "tier": "B2"
-          },
-          {
-            "front": "regirse por",
-            "pos": "verb",
-            "back": "to be governed by",
-            "example": "El club se rige por normas estrictas.",
-            "tier": "C1"
-          },
-          {
-            "front": "el acuerdo",
-            "pos": "noun",
-            "back": "agreement",
-            "example": "Por fin firmaron un acuerdo.",
-            "tier": "B1"
-          },
-          {
-            "front": "repartir",
-            "pos": "verb",
-            "back": "to share out, distribute",
-            "example": "Repartieron la comida entre todos.",
-            "tier": "B1"
-          },
-          {
-            "front": "enfrentamiento",
-            "pos": "noun",
-            "back": "clash, confrontation",
-            "example": "Hubo enfrentamientos en la calle.",
-            "tier": "B2"
-          },
-          {
-            "front": "el creyente",
-            "pos": "noun",
-            "back": "believer",
-            "example": "Es un creyente muy devoto.",
-            "tier": "B2"
-          },
-          {
-            "front": "el equilibrio",
-            "pos": "noun",
-            "back": "balance",
-            "example": "Buscan el equilibrio entre ambos lados.",
-            "tier": "B1"
-          },
-          {
-            "front": "la prudencia",
-            "pos": "noun",
-            "back": "caution, prudence",
-            "example": "Actuó siempre con prudencia.",
-            "tier": "B2"
-          },
-          {
-            "front": "agravarse",
-            "pos": "verb",
-            "back": "to worsen, get worse",
-            "example": "La situación se agravó de repente.",
-            "tier": "B2"
-          },
-          {
-            "front": "cargado de",
-            "pos": "phrase",
-            "back": "loaded with, full of",
-            "example": "Un discurso cargado de emoción.",
-            "tier": "B2"
-          },
-          {
-            "front": "la costumbre",
-            "pos": "noun",
-            "back": "custom, habit",
-            "example": "Es una costumbre muy antigua.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "El lugar se rige por un delicado acuerdo conocido como statu quo, que reparte los usos y las visitas entre las distintas comunidades religiosas.",
-            "point": "La pasiva refleja con se",
-            "explanation": "Se más verbo en tercera persona forma la pasiva refleja; se rige por significa is governed by, y el agente se introduce con por.",
-            "why_tricky": "Los estudiantes usan la pasiva con ser, pero el español prefiere la forma con se en muchos contextos."
-          },
-          {
-            "sentence": "Cualquier cambio en esas costumbres genera tensión y temor a nuevos enfrentamientos.",
-            "point": "Cualquier ante sustantivo singular",
-            "explanation": "Cualquier es la forma apocopada de cualquiera y va delante de un sustantivo singular, sea masculino o femenino.",
-            "why_tricky": "Pierde la a final solo delante del sustantivo y se mantiene en singular aunque el sentido sea general."
-          },
-          {
-            "sentence": "Por eso, las autoridades y los líderes religiosos piden prudencia y diálogo antes de que la situación se agrave.",
-            "point": "Subjuntivo tras antes de que",
-            "explanation": "La locución antes de que siempre exige subjuntivo, por eso se agrave y no se agrava.",
-            "why_tricky": "Las oraciones temporales sobre el futuro usan subjuntivo, algo que en inglés no ocurre."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "statu quo",
-            "meaning": "the existing state of affairs that people want to keep",
-            "example": "Prefieren mantener el statu quo."
-          },
-          {
-            "phrase": "cargado de historia",
-            "meaning": "full of history, steeped in history",
-            "example": "Es un barrio cargado de historia."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué es importante la mezquita de Al Aqsa para distintas religiones?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué es el statu quo y qué función cumple en el recinto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué piden las autoridades y los líderes religiosos para evitar enfrentamientos?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Cómo crees que se pueden proteger los lugares sagrados que son importantes para varias religiones a la vez? Escribe tu opinión."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-28-san-sebastian-icono",
-      "title": "El culto a San Sebastian: como un santo del siglo III brutalmente torturado se convirtio en un icono gay",
-      "source": "BBC Mundo",
-      "date": "2026-06-28",
-      "level": "B1-B2",
-      "topics": [
-        "arte",
-        "cultura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-28-san-sebastian-icono",
-        "revision": 1,
-        "meta": {
-          "title": "El culto a San Sebastian: como un santo del siglo III brutalmente torturado se convirtio en un icono gay",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/ce8j6jr3jv2o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-06-28",
-          "date_processed": "2026-06-28",
-          "tags": [
-            "arte",
-            "cultura"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Saint Sebastian was a Roman soldier of the third century who, according to tradition, died for defending his beliefs. Over the centuries, his figure became one of the most depicted subjects in Western art. Renaissance painters portrayed him as a beautiful young man tied to a tree, and that image ended up having a special meaning for many artists. Little by little, the saint stopped being only a religious symbol and turned into a cultural and aesthetic reference as well.\n\nFrom the late nineteenth century, writers such as Oscar Wilde found in him a familiar figure, and later artists like Keith Haring reinterpreted him in a modern key. For many homosexual men, the saint represented a discreet way of talking about desire and identity in not very tolerant times. Today, an ancient symbol still inspires very current debates about art and society.",
-        "resumen_es": "San Sebastian fue un soldado romano del siglo III que, segun la tradicion, murio por defender sus creencias. Con el paso de los siglos, su figura se convirtio en uno de los temas mas representados del arte occidental. Pintores del Renacimiento lo retrataron como un joven hermoso atado a un arbol, y esa imagen acabo teniendo un significado especial para muchos artistas. Poco a poco, el santo dejo de ser solo un simbolo religioso para transformarse tambien en un referente cultural y estetico.\n\nDesde finales del siglo XIX, escritores como Oscar Wilde encontraron en el una figura cercana, y mas tarde artistas como Keith Haring lo reinterpretaron en clave moderna. Para muchos hombres homosexuales, el santo represento una forma discreta de hablar de deseo e identidad en epocas poco tolerantes. Hoy, un simbolo antiguo sigue inspirando debates muy actuales sobre el arte y la sociedad.",
-        "vocab": [
-          {
-            "front": "creencias",
-            "pos": "noun",
-            "back": "beliefs",
-            "example": "Murio por defender sus creencias.",
-            "tier": "B1"
-          },
-          {
-            "front": "con el paso de los siglos",
-            "pos": "phrase",
-            "back": "over the centuries",
-            "example": "Con el paso de los siglos, la obra gano fama.",
-            "tier": "B2"
-          },
-          {
-            "front": "retratar",
-            "pos": "verb",
-            "back": "to portray, depict",
-            "example": "El pintor lo retrato con gran realismo.",
-            "tier": "B2"
-          },
-          {
-            "front": "atado",
-            "pos": "adj",
-            "back": "tied, bound",
-            "example": "Aparece atado a un arbol.",
-            "tier": "B1"
-          },
-          {
-            "front": "referente",
-            "pos": "noun",
-            "back": "a reference, role model",
-            "example": "Se convirtio en un referente cultural.",
-            "tier": "B2"
-          },
-          {
-            "front": "estetico",
-            "pos": "adj",
-            "back": "aesthetic",
-            "example": "Su valor estetico es indudable.",
-            "tier": "B2"
-          },
-          {
-            "front": "dejar de",
-            "pos": "phrase",
-            "back": "to stop (doing something)",
-            "example": "Dejo de ser un tema solo religioso.",
-            "tier": "B1"
-          },
-          {
-            "front": "en clave moderna",
-            "pos": "phrase",
-            "back": "in a modern key or style",
-            "example": "Reinterpreto el mito en clave moderna.",
-            "tier": "C1"
-          },
-          {
-            "front": "discreto",
-            "pos": "adj",
-            "back": "discreet",
-            "example": "Encontraron una forma discreta de expresarse.",
-            "tier": "B2"
-          },
-          {
-            "front": "deseo",
-            "pos": "noun",
-            "back": "desire",
-            "example": "El arte habla a menudo del deseo.",
-            "tier": "B1"
-          },
-          {
-            "front": "epoca",
-            "pos": "noun",
-            "back": "era, period",
-            "example": "Fue una epoca poco tolerante.",
-            "tier": "B1"
-          },
-          {
-            "front": "simbolo",
-            "pos": "noun",
-            "back": "symbol",
-            "example": "El santo es un simbolo muy reinterpretado.",
-            "tier": "B1"
-          },
-          {
-            "front": "inspirar",
-            "pos": "verb",
-            "back": "to inspire",
-            "example": "Su historia sigue inspirando debates.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Con el paso de los siglos, su figura se convirtio en uno de los temas mas representados del arte occidental.",
-            "point": "convertirse en + superlativo",
-            "explanation": "Convertirse en means 'to turn into', and uno de los mas + adjective forms a superlative ('one of the most ...').",
-            "why_tricky": "Convertirse always needs the preposition en, and the superlative keeps the article los before mas."
-          },
-          {
-            "sentence": "Poco a poco, el santo dejo de ser solo un simbolo religioso para transformarse tambien en un referente cultural y estetico.",
-            "point": "dejar de + infinitivo / para + infinitivo",
-            "explanation": "Dejar de + infinitive means 'to stop doing', while para + infinitive expresses purpose or result.",
-            "why_tricky": "Two infinitive structures appear in one sentence, and transformarse, like convertirse, requires en."
-          },
-          {
-            "sentence": "Para muchos hombres homosexuales, el santo represento una forma discreta de hablar de deseo e identidad en epocas poco tolerantes.",
-            "point": "y becomes e before i-",
-            "explanation": "The conjunction y changes to e when the next word begins with the sound i (deseo e identidad).",
-            "why_tricky": "Saying 'y identidad' would create two i sounds together, so Spanish uses e to keep the phrase easy to pronounce."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "poco a poco",
-            "meaning": "little by little, gradually",
-            "example": "Poco a poco, la imagen cambio de significado."
-          },
-          {
-            "phrase": "en clave de",
-            "meaning": "in the style or tone of",
-            "example": "Conto la historia en clave de humor."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Como cambio el significado de San Sebastian con el paso del tiempo?",
-            "type": "open"
-          },
-          {
-            "q": "Por que muchos artistas homosexuales se sintieron atraidos por esta figura?",
-            "type": "open"
-          },
-          {
-            "q": "Segun el texto, que tipo de debates sigue inspirando este simbolo hoy en dia?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Por que crees que una misma obra de arte puede significar cosas distintas en cada epoca? Escribe tu opinion."
       }
     }
   ]
