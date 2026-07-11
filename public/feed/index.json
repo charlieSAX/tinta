@@ -1,7 +1,479 @@
 {
- "generated_at": "2026-07-10T08:12:40Z",
+ "generated_at": "2026-07-11T20:09:32Z",
  "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-07-11-incendio-almeria",
+   "title": "Al menos 12 muertos y 23 desaparecidos en el incendio más letal de las últimas décadas en España en medio de la ola de calor",
+   "source": "BBC Mundo",
+   "date": "2026-07-11",
+   "level": "B1-B2",
+   "topics": [
+    "clima",
+    "España"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-11-incendio-almeria",
+    "revision": 1,
+    "meta": {
+     "title": "Al menos 12 muertos y 23 desaparecidos en el incendio más letal de las últimas décadas en España en medio de la ola de calor",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/c15y8edd483o?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-07-11",
+     "date_processed": "2026-07-11",
+     "tags": [
+      "clima",
+      "España"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "A forest fire around Los Gallardos, in the province of Almeria in southern Spain, has left at least 12 dead and 23 missing, according to the authorities. It is the most lethal fire recorded in the country in recent decades. Several fire brigades are working tirelessly to contain the flames, while hundreds of residents have been evacuated from their homes as a precaution.\n\nThe tragedy comes in the middle of a heat wave, with extreme temperatures that favour the spread of the fire and complicate the extinguishing work. Experts warn that climate change is making fires ever more frequent and intense in the Mediterranean. The authorities are asking people to follow the instructions of the emergency services and avoid approaching the affected area.",
+    "resumen_es": "Un incendio forestal en los alrededores de Los Gallardos, en la provincia de Almería, en el sur de España, ha dejado al menos 12 muertos y 23 desaparecidos, según las autoridades. Se trata del fuego más letal registrado en el país en las últimas décadas. Varias brigadas de bomberos trabajan sin descanso para contener las llamas, mientras cientos de residentes han sido evacuados de sus hogares por precaución.\n\nLa tragedia se produce en plena ola de calor, con temperaturas extremas que favorecen la propagación del fuego y complican las labores de extinción. Los expertos advierten de que el cambio climático está haciendo que los incendios sean cada vez más frecuentes e intensos en el Mediterráneo. Las autoridades piden a la población que siga las indicaciones de los servicios de emergencia y evite acercarse a la zona afectada.",
+    "vocab": [
+     {
+      "front": "el incendio forestal",
+      "pos": "noun",
+      "back": "forest fire, wildfire",
+      "example": "El incendio forestal arrasó miles de hectáreas.",
+      "tier": "B1"
+     },
+     {
+      "front": "los desaparecidos",
+      "pos": "noun",
+      "back": "the missing (people)",
+      "example": "Los equipos de rescate buscan a los desaparecidos.",
+      "tier": "B1"
+     },
+     {
+      "front": "la brigada de bomberos",
+      "pos": "noun",
+      "back": "fire brigade",
+      "example": "La brigada de bomberos llegó en pocos minutos.",
+      "tier": "B2"
+     },
+     {
+      "front": "contener las llamas",
+      "pos": "phrase",
+      "back": "to contain the flames",
+      "example": "Los bomberos lograron contener las llamas al amanecer.",
+      "tier": "B2"
+     },
+     {
+      "front": "evacuar",
+      "pos": "verb",
+      "back": "to evacuate",
+      "example": "Las autoridades decidieron evacuar el pueblo entero.",
+      "tier": "B1"
+     },
+     {
+      "front": "la ola de calor",
+      "pos": "noun",
+      "back": "heat wave",
+      "example": "La ola de calor durará toda la semana.",
+      "tier": "B1"
+     },
+     {
+      "front": "la propagación",
+      "pos": "noun",
+      "back": "spread, propagation",
+      "example": "El viento aceleró la propagación del fuego.",
+      "tier": "B2"
+     },
+     {
+      "front": "las labores de extinción",
+      "pos": "phrase",
+      "back": "firefighting / extinguishing work",
+      "example": "Las labores de extinción continuaron durante la noche.",
+      "tier": "C1"
+     },
+     {
+      "front": "advertir de",
+      "pos": "verb",
+      "back": "to warn of",
+      "example": "Los científicos advierten de los riesgos del calor extremo.",
+      "tier": "B2"
+     },
+     {
+      "front": "acercarse a",
+      "pos": "verb",
+      "back": "to approach, get close to",
+      "example": "No conviene acercarse a la zona del incendio.",
+      "tier": "B1"
+     },
+     {
+      "front": "por precaución",
+      "pos": "phrase",
+      "back": "as a precaution",
+      "example": "Cerraron la carretera por precaución.",
+      "tier": "B2"
+     },
+     {
+      "front": "las indicaciones",
+      "pos": "noun",
+      "back": "instructions, guidance",
+      "example": "Sigue las indicaciones de los servicios de emergencia.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Se trata del fuego más letal registrado en el país en las últimas décadas.",
+      "point": "impersonal 'se trata de'",
+      "explanation": "'Se trata de' means 'it is / it is a question of' and is always impersonal: never say 'se trata el fuego'. It is followed by 'de' plus a noun.",
+      "why_tricky": "English speakers want a subject ('it') and often drop the 'de'. The verb stays third person singular no matter what follows."
+     },
+     {
+      "sentence": "Los expertos advierten de que el cambio climático está haciendo que los incendios sean cada vez más frecuentes e intensos en el Mediterráneo.",
+      "point": "hacer que + subjunctive",
+      "explanation": "'Hacer que' (to cause something to happen) triggers the subjunctive in the following clause: 'está haciendo que los incendios sean...'.",
+      "why_tricky": "Two tricky things at once: 'advertir de que' keeps the 'de' before 'que', and the causing construction forces 'sean', not 'son'."
+     },
+     {
+      "sentence": "Las autoridades piden a la población que siga las indicaciones de los servicios de emergencia y evite acercarse a la zona afectada.",
+      "point": "pedir que + subjunctive",
+      "explanation": "Requests with 'pedir que' take the subjunctive: 'que siga... y evite...'. Both verbs in the chain stay in the subjunctive.",
+      "why_tricky": "The second verb 'evite' also needs the subjunctive even though 'que' is not repeated, which learners often miss."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "sin descanso",
+      "meaning": "without rest, tirelessly",
+      "example": "Los voluntarios trabajaron sin descanso durante tres días."
+     },
+     {
+      "phrase": "en plena ola de calor",
+      "meaning": "at the height of the heat wave; 'en pleno/a' means right in the middle of something",
+      "example": "La avería ocurrió en pleno mes de agosto."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Dónde se ha producido el incendio y cuáles son sus consecuencias humanas?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué relación establecen los expertos entre el cambio climático y este tipo de incendios?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué piden las autoridades a la población?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Crees que los países mediterráneos están preparados para veranos cada vez más extremos? Escribe unas 100 palabras proponiendo medidas concretas."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-11-mexico-ice-acciones",
+   "title": "México anuncia acciones penales contra ICE por muertes de mexicanos en Estados Unidos",
+   "source": "RFI Español",
+   "date": "2026-07-11",
+   "level": "B1-B2",
+   "topics": [
+    "política",
+    "migración"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-11-mexico-ice-acciones",
+    "revision": 1,
+    "meta": {
+     "title": "México anuncia acciones penales contra ICE por muertes de mexicanos en Estados Unidos",
+     "source": "RFI Español",
+     "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260711-m%C3%A9xico-anuncia-acciones-penales-contra-ice-por-muertes-de-mexicanos-en-estados-unidos",
+     "date_published": "2026-07-11",
+     "date_processed": "2026-07-11",
+     "tags": [
+      "política",
+      "migración"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "The Mexican government announced that it will begin criminal proceedings in the United States following the death of Lorenzo Salgado Araujo, a Mexican citizen who died during an operation by Immigration and Customs Enforcement (ICE). According to the Mexican authorities, this is not the first case of its kind, and the country wants those responsible to be held accountable before the US justice system.\n\nThe decision marks an unusual step in relations between the two countries, since Mexico usually limits itself to diplomatic protests. Analysts point out that the case could further strain a relationship already complicated by disagreements over migration. Meanwhile, human rights organisations are demanding independent investigations and greater protection for migrants detained in operations of this kind.",
+    "resumen_es": "El gobierno de México anunció que iniciará acciones penales en Estados Unidos tras la muerte de Lorenzo Salgado Araújo, un ciudadano mexicano que falleció durante una operación del Servicio de Inmigración y Control de Aduanas (ICE). Según las autoridades mexicanas, no es el primer caso de este tipo, y el país busca que los responsables rindan cuentas ante la justicia estadounidense.\n\nLa decisión marca un paso poco habitual en las relaciones entre ambos países, ya que México suele limitarse a protestas diplomáticas. Analistas señalan que el caso podría tensar aún más un vínculo ya complicado por los desacuerdos en materia migratoria. Mientras tanto, organizaciones de derechos humanos exigen investigaciones independientes y una mayor protección para los migrantes detenidos en este tipo de operativos.",
+    "vocab": [
+     {
+      "front": "las acciones penales",
+      "pos": "noun",
+      "back": "criminal proceedings",
+      "example": "La fiscalía inició acciones penales contra la empresa.",
+      "tier": "C1"
+     },
+     {
+      "front": "fallecer",
+      "pos": "verb",
+      "back": "to die, pass away (formal)",
+      "example": "El paciente falleció durante la madrugada.",
+      "tier": "B2"
+     },
+     {
+      "front": "rendir cuentas",
+      "pos": "phrase",
+      "back": "to be held accountable, answer for",
+      "example": "Los políticos deben rendir cuentas ante los ciudadanos.",
+      "tier": "B2"
+     },
+     {
+      "front": "poco habitual",
+      "pos": "adj",
+      "back": "unusual",
+      "example": "Fue una decisión poco habitual en la diplomacia.",
+      "tier": "B1"
+     },
+     {
+      "front": "limitarse a",
+      "pos": "verb",
+      "back": "to confine oneself to, merely do",
+      "example": "El portavoz se limitó a leer un comunicado.",
+      "tier": "B2"
+     },
+     {
+      "front": "tensar",
+      "pos": "verb",
+      "back": "to strain, make tense",
+      "example": "El desacuerdo tensó las relaciones entre los dos gobiernos.",
+      "tier": "B2"
+     },
+     {
+      "front": "el vínculo",
+      "pos": "noun",
+      "back": "link, bond, relationship",
+      "example": "El vínculo comercial entre ambos países es muy fuerte.",
+      "tier": "B2"
+     },
+     {
+      "front": "en materia migratoria",
+      "pos": "phrase",
+      "back": "in migration matters",
+      "example": "Los dos gobiernos negocian en materia migratoria.",
+      "tier": "C1"
+     },
+     {
+      "front": "exigir",
+      "pos": "verb",
+      "back": "to demand",
+      "example": "Las familias exigen una investigación independiente.",
+      "tier": "B1"
+     },
+     {
+      "front": "el operativo",
+      "pos": "noun",
+      "back": "(police/security) operation",
+      "example": "El operativo terminó con varias detenciones.",
+      "tier": "B2"
+     },
+     {
+      "front": "mientras tanto",
+      "pos": "adv",
+      "back": "meanwhile",
+      "example": "Mientras tanto, las protestas continúan en la frontera.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "La decisión marca un paso poco habitual en las relaciones entre ambos países, ya que México suele limitarse a protestas diplomáticas.",
+      "point": "soler + infinitive",
+      "explanation": "'Soler' expresses habitual behaviour: 'suele limitarse' means 'usually limits itself'. English needs the adverb 'usually'; Spanish packs it into the verb.",
+      "why_tricky": "There is no direct English equivalent verb, so learners forget 'soler' exists and overuse 'normalmente'."
+     },
+     {
+      "sentence": "Analistas señalan que el caso podría tensar aún más un vínculo ya complicado por los desacuerdos en materia migratoria.",
+      "point": "conditional for speculation",
+      "explanation": "'Podría tensar' uses the conditional to present a possible future consequence without asserting it as fact, typical of news register.",
+      "why_tricky": "Learners often use the plain future 'podrá', which sounds too certain for reported speculation."
+     },
+     {
+      "sentence": "el país busca que los responsables rindan cuentas ante la justicia estadounidense",
+      "point": "buscar que + subjunctive",
+      "explanation": "Verbs of wanting or aiming like 'buscar que' trigger the subjunctive: 'rindan', not 'rinden'.",
+      "why_tricky": "'Rendir' is also stem-changing (e to i), so the subjunctive form looks unfamiliar."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "rendir cuentas",
+      "meaning": "to answer for one's actions, be held accountable",
+      "example": "Tarde o temprano todos tenemos que rendir cuentas."
+     },
+     {
+      "phrase": "marcar un paso",
+      "meaning": "to mark a step or milestone",
+      "example": "El acuerdo marca un paso importante hacia la paz."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Qué anunció el gobierno mexicano y por qué motivo?",
+      "type": "open"
+     },
+     {
+      "q": "¿Por qué se considera esta decisión poco habitual?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué piden las organizaciones de derechos humanos?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Hasta qué punto debe un gobierno defender a sus ciudadanos en el extranjero? Escribe tu opinión en unas 100 palabras."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-11-alemania-declive-poblacion",
+   "title": "Por qué el declive de población deja al descubierto las antiguas divisiones de Alemania",
+   "source": "BBC Mundo",
+   "date": "2026-07-11",
+   "level": "B1-B2",
+   "topics": [
+    "sociedad",
+    "Alemania"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-11-alemania-declive-poblacion",
+    "revision": 1,
+    "meta": {
+     "title": "Por qué el declive de población deja al descubierto las antiguas divisiones de Alemania",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/cj3g2n8n876o?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-07-11",
+     "date_processed": "2026-07-11",
+     "tags": [
+      "sociedad",
+      "Alemania"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "Decades after the fall of the Berlin Wall, population decline in eastern Germany is once again highlighting the country's old divisions. Low birth rates and the departure of many young people to the west have left entire regions ageing, with increasingly empty villages and a weakened local economy.\n\nThe phenomenon has consequences that go beyond demographics. Skilled workers are lacking, schools and public services are closing, and many inhabitants feel that their regions have been forgotten by the rest of the country. Some experts link this discontent to the rise of populist parties in the area. The debate over how to revitalise the east has become one of the great challenges of contemporary German politics.",
+    "resumen_es": "Décadas después de la caída del Muro de Berlín, el declive de la población en el este de Alemania vuelve a poner de relieve las antiguas divisiones del país. Las bajas tasas de natalidad y la marcha de muchos jóvenes hacia el oeste han dejado regiones enteras envejecidas, con pueblos cada vez más vacíos y una economía local debilitada.\n\nEl fenómeno tiene consecuencias que van más allá de la demografía. Faltan trabajadores cualificados, cierran escuelas y servicios públicos, y muchos habitantes sienten que sus regiones han quedado olvidadas por el resto del país. Algunos expertos vinculan este malestar con el auge de partidos populistas en la zona. El debate sobre cómo revitalizar el este se ha convertido en uno de los grandes retos de la política alemana contemporánea.",
+    "vocab": [
+     {
+      "front": "el declive",
+      "pos": "noun",
+      "back": "decline",
+      "example": "El declive industrial afectó a toda la región.",
+      "tier": "B2"
+     },
+     {
+      "front": "poner de relieve",
+      "pos": "phrase",
+      "back": "to highlight, throw into relief",
+      "example": "El informe pone de relieve las desigualdades regionales.",
+      "tier": "C1"
+     },
+     {
+      "front": "la tasa de natalidad",
+      "pos": "noun",
+      "back": "birth rate",
+      "example": "La tasa de natalidad ha caído en toda Europa.",
+      "tier": "B2"
+     },
+     {
+      "front": "envejecido",
+      "pos": "adj",
+      "back": "aged, ageing",
+      "example": "Es una población envejecida con pocos jóvenes.",
+      "tier": "B2"
+     },
+     {
+      "front": "debilitado",
+      "pos": "adj",
+      "back": "weakened",
+      "example": "La crisis dejó una economía debilitada.",
+      "tier": "B2"
+     },
+     {
+      "front": "ir más allá de",
+      "pos": "phrase",
+      "back": "to go beyond",
+      "example": "El problema va más allá de la economía.",
+      "tier": "B2"
+     },
+     {
+      "front": "cualificado",
+      "pos": "adj",
+      "back": "qualified, skilled",
+      "example": "Faltan trabajadores cualificados en el sector.",
+      "tier": "B2"
+     },
+     {
+      "front": "el malestar",
+      "pos": "noun",
+      "back": "discontent, unease",
+      "example": "El malestar social creció tras los recortes.",
+      "tier": "B2"
+     },
+     {
+      "front": "vincular con",
+      "pos": "verb",
+      "back": "to link to",
+      "example": "Los estudios vinculan el paro con la emigración.",
+      "tier": "B2"
+     },
+     {
+      "front": "el auge",
+      "pos": "noun",
+      "back": "rise, boom",
+      "example": "El auge del turismo transformó la ciudad.",
+      "tier": "B2"
+     },
+     {
+      "front": "el reto",
+      "pos": "noun",
+      "back": "challenge",
+      "example": "La despoblación es un gran reto para el gobierno.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Décadas después de la caída del Muro de Berlín, el declive de la población en el este de Alemania vuelve a poner de relieve las antiguas divisiones del país.",
+      "point": "volver a + infinitive",
+      "explanation": "'Volver a' plus infinitive means to do something again: 'vuelve a poner de relieve' means 'once again highlights'.",
+      "why_tricky": "English uses 'again' as a separate word; Spanish builds repetition into the verb phrase, which learners tend not to produce actively."
+     },
+     {
+      "sentence": "muchos habitantes sienten que sus regiones han quedado olvidadas por el resto del país",
+      "point": "quedar + participle",
+      "explanation": "'Quedar' plus a past participle expresses a resulting state: 'han quedado olvidadas' means 'have been left forgotten'. The participle agrees: 'olvidadas' matches 'regiones'.",
+      "why_tricky": "Learners default to 'ser' or 'estar'; 'quedar' adds the nuance of ending up in a state, and the agreement is easy to miss."
+     },
+     {
+      "sentence": "El debate sobre cómo revitalizar el este se ha convertido en uno de los grandes retos de la política alemana contemporánea.",
+      "point": "convertirse en",
+      "explanation": "'Convertirse en' is the standard way to say 'to become' with nouns: 'se ha convertido en uno de los grandes retos'.",
+      "why_tricky": "Spanish has several verbs for 'become' (hacerse, volverse, llegar a ser); 'convertirse en' is the safe choice before a noun phrase."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "dejar al descubierto",
+      "meaning": "to expose, lay bare",
+      "example": "La crisis dejó al descubierto los problemas del sistema."
+     },
+     {
+      "phrase": "quedar olvidado",
+      "meaning": "to be left forgotten or neglected",
+      "example": "Muchos pueblos pequeños quedan olvidados por las administraciones."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Qué factores explican el declive de población en el este de Alemania?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué consecuencias económicas y sociales tiene este fenómeno?",
+      "type": "open"
+     },
+     {
+      "q": "¿Con qué relacionan algunos expertos el malestar de la región?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Qué medidas propondrías para frenar la despoblación de las zonas rurales o menos desarrolladas de un país? Escribe unas 100 palabras."
+   }
+  },
   {
    "pack_id": "feed-2026-07-10-colombia-transicion-suspendida",
    "title": "Colombia: presidente electo De la Espriella suspende transición con el gobierno de Petro",
@@ -6233,527 +6705,6 @@
      }
     ],
     "opinion_prompt": "¿Crees que vale la pena renunciar a algunas libertades a cambio de más seguridad? Escribe un párrafo explicando tu opinión con ejemplos."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-01-sentadilla-asiatica-salud",
-   "title": "Por qué dominar la \"sentadilla asiática\" es clave para nuestra salud",
-   "source": "BBC Mundo",
-   "date": "2026-07-01",
-   "level": "B1-B2",
-   "topics": [
-    "salud",
-    "bienestar"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-01-sentadilla-asiatica-salud",
-    "revision": 1,
-    "meta": {
-     "title": "Por qué dominar la \"sentadilla asiática\" es clave para nuestra salud",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/cx2kln8gpwzo?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-06-14",
-     "date_processed": "2026-07-01",
-     "tags": [
-      "salud",
-      "bienestar"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "The Asian squat means crouching down, with your feet resting on the floor and your back straight. Although many Westerners find it uncomfortable, in many cultures across Asia it is a natural posture that people adopt to rest, cook or wait for the bus. Experts say it is one of the most basic movements of the human body and yet, little by little, we have been losing it because of a sedentary lifestyle and so many hours sitting in chairs.\n\nPractising this posture brings several benefits. It helps keep the hips, ankles and knees flexible, and improves balance. Besides, it needs no equipment or gym: a few minutes a day is enough. That said, it is best to start slowly and, if necessary, lean on a wall or a chair. Recovering this simple movement could be a cheap way to look after the body at any age.",
-    "resumen_es": "La sentadilla asiática consiste en ponerse en cuclillas, con los pies apoyados en el suelo y la espalda recta. Aunque a muchos occidentales les resulta incómoda, en numerosas culturas de Asia es una postura natural que la gente adopta para descansar, cocinar o esperar el autobús. Los expertos aseguran que se trata de uno de los movimientos más básicos del cuerpo humano y que, poco a poco, lo hemos ido perdiendo por culpa del sedentarismo y de tantas horas sentados en sillas.\n\nPracticar esta postura aporta varios beneficios. Ayuda a mantener flexibles las caderas, los tobillos y las rodillas, y mejora el equilibrio. Además, no requiere ningún material ni gimnasio: basta con dedicarle unos minutos al día. Eso sí, conviene empezar despacio y, si hace falta, apoyarse en una pared o en una silla. Recuperar este gesto sencillo podría ser una forma barata de cuidar el cuerpo a cualquier edad.",
-    "vocab": [
-     {
-      "front": "ponerse en cuclillas",
-      "pos": "phrase",
-      "back": "to squat down, crouch",
-      "example": "Se puso en cuclillas para atarse los zapatos.",
-      "tier": "B2"
-     },
-     {
-      "front": "sentadilla",
-      "pos": "noun",
-      "back": "squat (exercise)",
-      "example": "Hago sentadillas en el gimnasio.",
-      "tier": "B1"
-     },
-     {
-      "front": "apoyado/a",
-      "pos": "adj",
-      "back": "resting on, supported",
-      "example": "Estaba apoyado en la pared.",
-      "tier": "B1"
-     },
-     {
-      "front": "espalda recta",
-      "pos": "phrase",
-      "back": "straight back",
-      "example": "Siéntate con la espalda recta.",
-      "tier": "B1"
-     },
-     {
-      "front": "postura",
-      "pos": "noun",
-      "back": "posture, position",
-      "example": "Una buena postura evita dolores.",
-      "tier": "B1"
-     },
-     {
-      "front": "sedentarismo",
-      "pos": "noun",
-      "back": "sedentary lifestyle",
-      "example": "El sedentarismo perjudica la salud.",
-      "tier": "B2"
-     },
-     {
-      "front": "cadera",
-      "pos": "noun",
-      "back": "hip",
-      "example": "Le duele la cadera derecha.",
-      "tier": "B1"
-     },
-     {
-      "front": "tobillo",
-      "pos": "noun",
-      "back": "ankle",
-      "example": "Se torció el tobillo corriendo.",
-      "tier": "B1"
-     },
-     {
-      "front": "rodilla",
-      "pos": "noun",
-      "back": "knee",
-      "example": "Me duele la rodilla al subir escaleras.",
-      "tier": "B1"
-     },
-     {
-      "front": "equilibrio",
-      "pos": "noun",
-      "back": "balance",
-      "example": "El yoga mejora el equilibrio.",
-      "tier": "B1"
-     },
-     {
-      "front": "basta con",
-      "pos": "phrase",
-      "back": "it is enough to",
-      "example": "Basta con caminar media hora al día.",
-      "tier": "B2"
-     },
-     {
-      "front": "poco a poco",
-      "pos": "adv",
-      "back": "little by little, gradually",
-      "example": "Poco a poco fue mejorando.",
-      "tier": "B1"
-     },
-     {
-      "front": "por culpa de",
-      "pos": "phrase",
-      "back": "because of, due to (negative cause)",
-      "example": "Llegó tarde por culpa del tráfico.",
-      "tier": "B2"
-     },
-     {
-      "front": "eso sí",
-      "pos": "phrase",
-      "back": "that said, mind you",
-      "example": "Es barato; eso sí, tarda mucho.",
-      "tier": "B2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Aunque a muchos occidentales les resulta incómoda, en numerosas culturas de Asia es una postura natural que la gente adopta para descansar, cocinar o esperar el autobús.",
-      "point": "'resultar' + objeto indirecto (les resulta)",
-      "explanation": "'Resultar' funciona como 'gustar': lo que resulta incómodo es el sujeto, y 'les' marca a las personas que lo experimentan.",
-      "why_tricky": "El orden y el pronombre de objeto indirecto parecen invertidos para el hablante de inglés, que diría 'they find it uncomfortable'."
-     },
-     {
-      "sentence": "Los expertos aseguran que se trata de uno de los movimientos más básicos del cuerpo humano y que, poco a poco, lo hemos ido perdiendo por culpa del sedentarismo y de tantas horas sentados en sillas.",
-      "point": "'ir + gerundio' (lo hemos ido perdiendo)",
-      "explanation": "'Ir + gerundio' expresa un proceso gradual y progresivo. Aquí va en pretérito perfecto: 'hemos ido perdiendo'.",
-      "why_tricky": "Esta perífrasis no tiene un equivalente exacto en inglés y se combina con el perfecto y el pronombre 'lo'."
-     },
-     {
-      "sentence": "Eso sí, conviene empezar despacio y, si hace falta, apoyarse en una pared o en una silla.",
-      "point": "'conviene' impersonal + infinitivo",
-      "explanation": "'Conviene' (es aconsejable) es impersonal y va seguido directamente de un infinitivo: 'conviene empezar'.",
-      "why_tricky": "El estudiante busca un sujeto o añade 'que'; con una recomendación general se usa el infinitivo."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "eso sí",
-      "meaning": "that said / mind you (adds a caveat)",
-      "example": "El hotel era barato; eso sí, muy ruidoso."
-     },
-     {
-      "phrase": "poco a poco",
-      "meaning": "little by little, gradually",
-      "example": "Poco a poco aprenderás el idioma."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿En qué consiste exactamente la sentadilla asiática?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué hemos perdido esta postura en Occidente, según el texto?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué beneficios para la salud menciona el artículo?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Qué hábitos sencillos incluyes o te gustaría incluir en tu día a día para cuidar tu salud? Escribe unas líneas."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-01-venezuela-rescate-bebe",
-   "title": "\"El bebé fue mi motor para estar despierta y alerta\": la BBC habla con la madre rescatada junto a su hijo de 18 días en Venezuela",
-   "source": "BBC Mundo",
-   "date": "2026-07-01",
-   "level": "B1-B2",
-   "topics": [
-    "sociedad",
-    "actualidad"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-01-venezuela-rescate-bebe",
-    "revision": 1,
-    "meta": {
-     "title": "\"El bebé fue mi motor para estar despierta y alerta\": la BBC habla con la madre rescatada junto a su hijo de 18 días en Venezuela",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/c2lygvnzlg7o?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-06-29",
-     "date_processed": "2026-07-01",
-     "tags": [
-      "sociedad",
-      "actualidad"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "A mother and her eighteen-day-old baby were pulled out alive from the rubble after the powerful earthquakes that shook Venezuela. In an interview, the woman said that thinking about her son helped her stay awake and alert during the long hours they spent trapped. Neighbours, relatives and rescue teams worked without rest, removing stones by hand, until they managed to get them out. The scene, full of emotion, became a symbol of hope for the country.\n\nStories like this one offer comfort in the middle of an enormous tragedy. While search operations continue, the authorities are asking for more resources to care for those affected. Many Venezuelans, moreover, have thrown themselves into helping their neighbours, sharing food and shelter. In such difficult moments, these gestures of solidarity remind us that, even in the face of the worst catastrophe, mutual help can make a difference.",
-    "resumen_es": "Una madre y su bebé de dieciocho días fueron rescatados con vida entre los escombros después de los fuertes terremotos que sacudieron Venezuela. En una entrevista, la mujer contó que pensar en su hijo la ayudó a mantenerse despierta y alerta durante las largas horas que pasaron atrapados. Vecinos, familiares y equipos de rescate trabajaron sin descanso, quitando piedras con las manos, hasta que lograron sacarlos. La escena, cargada de emoción, se convirtió en un símbolo de esperanza para el país.\n\nHistorias como esta ofrecen consuelo en medio de una tragedia enorme. Mientras continúan las tareas de búsqueda, las autoridades piden más recursos para atender a los afectados. Muchos venezolanos, además, se han volcado en ayudar a sus vecinos, compartiendo comida y refugio. En momentos tan difíciles, estos gestos de solidaridad recuerdan que, incluso ante la peor de las catástrofes, la ayuda mutua puede marcar la diferencia.",
-    "vocab": [
-     {
-      "front": "escombros",
-      "pos": "noun",
-      "back": "rubble, debris",
-      "example": "Buscaron sobrevivientes entre los escombros.",
-      "tier": "B2"
-     },
-     {
-      "front": "rescatar",
-      "pos": "verb",
-      "back": "to rescue",
-      "example": "Los bomberos rescataron a la familia.",
-      "tier": "B1"
-     },
-     {
-      "front": "atrapado/a",
-      "pos": "adj",
-      "back": "trapped",
-      "example": "Quedó atrapado en el ascensor.",
-      "tier": "B1"
-     },
-     {
-      "front": "sin descanso",
-      "pos": "phrase",
-      "back": "without rest, non-stop",
-      "example": "Trabajaron sin descanso toda la noche.",
-      "tier": "B1"
-     },
-     {
-      "front": "maquinaria",
-      "pos": "noun",
-      "back": "machinery",
-      "example": "Llegó maquinaria pesada para retirar el muro.",
-      "tier": "B2"
-     },
-     {
-      "front": "lograr",
-      "pos": "verb",
-      "back": "to manage to, achieve",
-      "example": "Lograron abrir la puerta.",
-      "tier": "B1"
-     },
-     {
-      "front": "cargado/a de",
-      "pos": "phrase",
-      "back": "full of, loaded with",
-      "example": "Fue un discurso cargado de emoción.",
-      "tier": "B2"
-     },
-     {
-      "front": "consuelo",
-      "pos": "noun",
-      "back": "comfort, consolation",
-      "example": "Sus palabras fueron un gran consuelo.",
-      "tier": "B2"
-     },
-     {
-      "front": "víctima",
-      "pos": "noun",
-      "back": "victim",
-      "example": "El accidente dejó varias víctimas.",
-      "tier": "B1"
-     },
-     {
-      "front": "volcarse en",
-      "pos": "verb",
-      "back": "to throw oneself into, devote oneself to",
-      "example": "Se volcó en ayudar a los demás.",
-      "tier": "B2"
-     },
-     {
-      "front": "refugio",
-      "pos": "noun",
-      "back": "shelter, refuge",
-      "example": "Abrieron un refugio para los afectados.",
-      "tier": "B1"
-     },
-     {
-      "front": "solidaridad",
-      "pos": "noun",
-      "back": "solidarity",
-      "example": "La solidaridad de los vecinos fue clave.",
-      "tier": "B1"
-     },
-     {
-      "front": "marcar la diferencia",
-      "pos": "phrase",
-      "back": "to make a difference",
-      "example": "Un pequeño gesto puede marcar la diferencia.",
-      "tier": "B2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Una madre y su bebé de dieciocho días fueron rescatados con vida entre los escombros después de los fuertes terremotos que sacudieron Venezuela.",
-      "point": "Pasiva con 'ser' (fueron rescatados)",
-      "explanation": "'Fueron rescatados' es la pasiva verdadera: ser + participio, que concuerda en género y número con el sujeto ('rescatados', masculino plural).",
-      "why_tricky": "El español suele preferir la pasiva con 'se'; la pasiva con 'ser' aparece sobre todo en la prensa, y el participio debe concordar."
-     },
-     {
-      "sentence": "En una entrevista, la mujer contó que pensar en su hijo la ayudó a mantenerse despierta y alerta durante las largas horas que pasaron atrapados.",
-      "point": "Infinitivo como sujeto (pensar en su hijo la ayudó)",
-      "explanation": "Un infinitivo puede funcionar como sustantivo o sujeto: 'pensar en su hijo' = 'thinking about her son'. 'La' es el objeto directo que se refiere a la mujer.",
-      "why_tricky": "El inglés usa la forma en -ing como sujeto; el español usa el infinitivo simple, no el gerundio."
-     },
-     {
-      "sentence": "En momentos tan difíciles, estos gestos de solidaridad recuerdan que, incluso ante la peor de las catástrofes, la ayuda mutua puede marcar la diferencia.",
-      "point": "'tan + adjetivo' para la intensidad",
-      "explanation": "'Tan difíciles' significa 'so difficult'. 'Tan' intensifica un adjetivo, a diferencia de 'tanto', que acompaña a sustantivos o verbos.",
-      "why_tricky": "Los estudiantes confunden 'tan' (so + adjetivo/adverbio) y 'tanto' (so much/many)."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "sin descanso",
-      "meaning": "without a break, tirelessly",
-      "example": "Estudió sin descanso para el examen."
-     },
-     {
-      "phrase": "marcar la diferencia",
-      "meaning": "to make a real difference",
-      "example": "Un buen profesor puede marcar la diferencia."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Cómo consiguió la madre mantenerse despierta mientras estaba atrapada?",
-      "type": "open"
-     },
-     {
-      "q": "¿Quiénes participaron en las tareas de rescate?",
-      "type": "open"
-     },
-     {
-      "q": "¿De qué manera están ayudando muchos venezolanos a sus vecinos?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Por qué crees que las historias de solidaridad son tan importantes durante una catástrofe? Escribe un breve texto con tu opinión."
-   }
-  },
-  {
-   "pack_id": "feed-2026-06-30-reino-unido-brexit-10-anos",
-   "title": "4 grandes cambios en Reino Unido 10 años después del referendo sobre su salida de la Unión Europea (y qué tan posible es ahora su regreso al bloque)",
-   "source": "BBC Mundo",
-   "date": "2026-06-23",
-   "level": "B1-B2",
-   "topics": [
-    "política",
-    "economía"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-06-30-reino-unido-brexit-10-anos",
-    "revision": 1,
-    "meta": {
-     "title": "4 grandes cambios en Reino Unido 10 años después del referendo sobre su salida de la Unión Europea (y qué tan posible es ahora su regreso al bloque)",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/cgl3nd9dly2o?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-06-23",
-     "date_processed": "2026-06-30",
-     "tags": [
-      "política",
-      "economía"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "Ten years ago, the United Kingdom voted in a referendum to leave the European Union, a decision known as Brexit. A decade later, analysts agree that the separation has had negative effects on the British economy, trade and politics. According to several recent polls, today a majority of citizens regret that choice and would bet on returning to the European bloc.\n\nHowever, going back is not at all simple. The European Union would demand new conditions and the process could take years of complicated negotiations. Meanwhile, the debate about the advantages and disadvantages of leaving is still very much alive. For many young people, who were barely voting at that time, Brexit set the course of their working future and of their chances to study or work abroad.",
-    "resumen_es": "Hace diez años, el Reino Unido votó en un referéndum para salir de la Unión Europea, una decisión conocida como Brexit. Una década después, los analistas coinciden en que la separación ha tenido efectos negativos sobre la economía, el comercio y la política británica. Según varias encuestas recientes, hoy una mayoría de ciudadanos lamenta aquella elección y apostaría por regresar al bloque europeo.\n\nSin embargo, volver no resulta nada sencillo. La Unión Europea exigiría nuevas condiciones y el proceso podría llevar años de negociaciones complicadas. Mientras tanto, el debate sobre las ventajas y los inconvenientes de la salida sigue muy vivo. Para muchos jóvenes, que apenas votaban en aquel momento, el Brexit marcó el rumbo de su futuro laboral y de sus oportunidades para estudiar o trabajar en el extranjero.",
-    "vocab": [
-     {
-      "front": "el referéndum",
-      "pos": "noun",
-      "back": "referendum",
-      "example": "El país celebró un referéndum para decidir su futuro.",
-      "tier": "B1"
-     },
-     {
-      "front": "salir de",
-      "pos": "phrase",
-      "back": "to leave (an organization or place)",
-      "example": "Decidieron salir de la Unión Europea.",
-      "tier": "B1"
-     },
-     {
-      "front": "el bloque",
-      "pos": "noun",
-      "back": "bloc (group of countries)",
-      "example": "Varios países forman parte del mismo bloque comercial.",
-      "tier": "B2"
-     },
-     {
-      "front": "la encuesta",
-      "pos": "noun",
-      "back": "poll, survey",
-      "example": "La última encuesta muestra un cambio de opinión.",
-      "tier": "B1"
-     },
-     {
-      "front": "lamentar",
-      "pos": "verb",
-      "back": "to regret",
-      "example": "Muchos lamentan no haber votado.",
-      "tier": "B1"
-     },
-     {
-      "front": "apostar por",
-      "pos": "phrase",
-      "back": "to bet on, to back",
-      "example": "El gobierno apuesta por las energías limpias.",
-      "tier": "B2"
-     },
-     {
-      "front": "exigir",
-      "pos": "verb",
-      "back": "to demand, to require",
-      "example": "El nuevo acuerdo exige más controles.",
-      "tier": "B2"
-     },
-     {
-      "front": "la negociación",
-      "pos": "noun",
-      "back": "negotiation",
-      "example": "Las negociaciones duraron varios meses.",
-      "tier": "B1"
-     },
-     {
-      "front": "las ventajas y los inconvenientes",
-      "pos": "phrase",
-      "back": "the pros and cons",
-      "example": "Antes de decidir, analizamos las ventajas y los inconvenientes.",
-      "tier": "B2"
-     },
-     {
-      "front": "el rumbo",
-      "pos": "noun",
-      "back": "the course, direction",
-      "example": "La crisis cambió el rumbo del país.",
-      "tier": "B2"
-     },
-     {
-      "front": "laboral",
-      "pos": "adj",
-      "back": "work-related, labour",
-      "example": "Busca mejores condiciones laborales.",
-      "tier": "B1"
-     },
-     {
-      "front": "en el extranjero",
-      "pos": "phrase",
-      "back": "abroad",
-      "example": "Pasó un año estudiando en el extranjero.",
-      "tier": "B1"
-     },
-     {
-      "front": "apenas",
-      "pos": "adv",
-      "back": "barely, hardly",
-      "example": "Apenas tenía dieciocho años cuando votó.",
-      "tier": "B1"
-     },
-     {
-      "front": "coincidir",
-      "pos": "verb",
-      "back": "to agree, to coincide",
-      "example": "Los expertos coinciden en el diagnóstico.",
-      "tier": "B2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "La Unión Europea exigiría nuevas condiciones y el proceso podría llevar años de negociaciones complicadas.",
-      "point": "Condicional simple (exigiría, podría)",
-      "explanation": "El condicional expresa una acción hipotética o poco segura en el futuro. Se forma añadiendo las terminaciones -ía al infinitivo: exigir más ía, poder (irregular) más ía.",
-      "why_tricky": "Algunos verbos como poder tienen una raíz irregular (podr-) en el condicional, igual que en el futuro."
-     },
-     {
-      "sentence": "hoy una mayoría de ciudadanos lamenta aquella elección y apostaría por regresar al bloque europeo",
-      "point": "Contraste entre presente (lamenta) y condicional (apostaría)",
-      "explanation": "El presente describe un hecho actual; el condicional describe lo que la gente haría en una situación hipotética.",
-      "why_tricky": "Aunque el sujeto es 'una mayoría', el verbo va en singular porque es un sustantivo colectivo."
-     },
-     {
-      "sentence": "Para muchos jóvenes, que apenas votaban en aquel momento, el Brexit marcó el rumbo de su futuro laboral y de sus oportunidades para estudiar o trabajar en el extranjero.",
-      "point": "Imperfecto (votaban) frente a pretérito (marcó)",
-      "explanation": "El imperfecto describe una situación en desarrollo en el pasado; el pretérito presenta un hecho concreto y terminado.",
-      "why_tricky": "Es fácil confundir los dos pasados: 'votaban' es el contexto y 'marcó' es el acontecimiento puntual."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "apostar por algo",
-      "meaning": "to commit to or favour an option, literally 'to bet on'",
-      "example": "La empresa apuesta por el teletrabajo."
-     },
-     {
-      "phrase": "seguir vivo (un debate)",
-      "meaning": "to remain active or ongoing, said of a discussion",
-      "example": "El debate sobre la inmigración sigue muy vivo."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué decidió el Reino Unido en el referéndum de hace diez años?",
-      "type": "open"
-     },
-     {
-      "q": "Según el texto, ¿por qué sería difícil que el Reino Unido volviera a la Unión Europea?",
-      "type": "open"
-     },
-     {
-      "q": "¿Cómo afectó el Brexit a los jóvenes británicos?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Crees que un país debería poder repetir un referéndum si la mayoría cambia de opinión años después? Escribe un párrafo explicando tu postura."
    }
   }
  ]
