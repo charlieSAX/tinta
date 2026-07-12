@@ -1,7 +1,460 @@
 {
- "generated_at": "2026-07-11T20:09:32Z",
+ "generated_at": "2026-07-12T08:07:57.205288+00:00",
  "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-07-12-escocia-violencia-salud",
+   "title": "Cómo pasó Escocia de ser la capital de los asesinatos en Europa a uno de los lugares más seguros del mundo",
+   "source": "BBC Mundo",
+   "date": "2026-07-12",
+   "level": "B1-B2",
+   "topics": [
+    "sociedad",
+    "seguridad"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-12-escocia-violencia-salud",
+    "revision": 1,
+    "meta": {
+     "title": "Cómo pasó Escocia de ser la capital de los asesinatos en Europa a uno de los lugares más seguros del mundo",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/cm20jgjd8e1o?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-07-12",
+     "date_processed": "2026-07-12",
+     "tags": [
+      "sociedad",
+      "seguridad"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "Two decades ago Scotland was considered the murder capital of Europe, with Glasgow topping the violence statistics. Today the situation has changed radically: the country has become one of the safest places in the world. The key was to treat violence not as a purely policing matter but as a public health problem, with a specialised unit created in 2005.\n\nThis approach combines prevention in schools, employment programmes for at-risk young people and direct work with gangs, instead of betting only on harsher punishments. Homicides fell steadily over the following years. The Scottish model is now being studied in other countries suffering high levels of urban violence, although experts warn that it requires constant investment and long-term patience.",
+    "resumen_es": "Escocia era considerada hace dos décadas la capital de los asesinatos de Europa, con Glasgow a la cabeza de las estadísticas de violencia. Hoy la situación ha cambiado de forma radical: el país se ha convertido en uno de los lugares más seguros del mundo. La clave fue tratar la violencia no como un asunto puramente policial, sino como un problema de salud pública, con una unidad especializada creada en 2005.\n\nEste enfoque combina la prevención en las escuelas, programas de empleo para jóvenes en riesgo y trabajo directo con las pandillas, en lugar de apostar solo por castigos más duros. Los homicidios cayeron de manera sostenida durante los años siguientes. El modelo escocés se estudia ahora en otros países que sufren altos niveles de violencia urbana, aunque los expertos advierten que exige inversión constante y paciencia a largo plazo.",
+    "vocab": [
+     {
+      "front": "asesinato",
+      "pos": "noun",
+      "back": "murder",
+      "example": "La tasa de asesinatos bajó mucho en diez años.",
+      "tier": "B1"
+     },
+     {
+      "front": "a la cabeza de",
+      "pos": "phrase",
+      "back": "at the top of, leading",
+      "example": "Ese barrio estaba a la cabeza de las estadísticas.",
+      "tier": "B2"
+     },
+     {
+      "front": "de forma radical",
+      "pos": "phrase",
+      "back": "radically",
+      "example": "Su vida cambió de forma radical tras la mudanza.",
+      "tier": "B1"
+     },
+     {
+      "front": "asunto",
+      "pos": "noun",
+      "back": "matter, issue",
+      "example": "Es un asunto delicado que requiere tiempo.",
+      "tier": "B1"
+     },
+     {
+      "front": "salud pública",
+      "pos": "phrase",
+      "back": "public health",
+      "example": "El tabaquismo es un problema de salud pública.",
+      "tier": "B1"
+     },
+     {
+      "front": "enfoque",
+      "pos": "noun",
+      "back": "approach, focus",
+      "example": "Necesitamos un enfoque diferente para este problema.",
+      "tier": "B2"
+     },
+     {
+      "front": "pandilla",
+      "pos": "noun",
+      "back": "gang",
+      "example": "Trabaja con jóvenes que quieren salir de las pandillas.",
+      "tier": "B2"
+     },
+     {
+      "front": "apostar por",
+      "pos": "verb",
+      "back": "to bet on, to commit to",
+      "example": "El gobierno decidió apostar por la prevención.",
+      "tier": "B2"
+     },
+     {
+      "front": "castigo",
+      "pos": "noun",
+      "back": "punishment",
+      "example": "Los castigos más duros no siempre funcionan.",
+      "tier": "B1"
+     },
+     {
+      "front": "de manera sostenida",
+      "pos": "phrase",
+      "back": "steadily, in a sustained way",
+      "example": "La economía creció de manera sostenida.",
+      "tier": "B2"
+     },
+     {
+      "front": "advertir",
+      "pos": "verb",
+      "back": "to warn",
+      "example": "Los expertos advierten de los riesgos del plan.",
+      "tier": "B1"
+     },
+     {
+      "front": "a largo plazo",
+      "pos": "phrase",
+      "back": "in the long term",
+      "example": "Es una inversión rentable a largo plazo.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "el país se ha convertido en uno de los lugares más seguros del mundo",
+      "point": "convertirse en + noun",
+      "explanation": "Convertirse en expresses a transformation into something. It always takes the preposition en before the noun.",
+      "why_tricky": "English speakers often drop the en or confuse convertirse with hacerse and volverse, which have different nuances."
+     },
+     {
+      "sentence": "aunque los expertos advierten que exige inversión constante y paciencia a largo plazo",
+      "point": "aunque + indicative",
+      "explanation": "Aunque takes the indicative here because the speaker presents the experts' warning as a real fact, not a hypothesis.",
+      "why_tricky": "Aunque can take subjunctive or indicative, and the choice changes the meaning between real and hypothetical concession."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "a la cabeza de",
+      "meaning": "leading, at the top of a ranking",
+      "example": "España está a la cabeza de Europa en energía solar."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Cómo era la reputación de Escocia hace veinte años?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué cambio de enfoque explica la caída de los homicidios?",
+      "type": "open"
+     },
+     {
+      "q": "Según los expertos, ¿qué exige el modelo escocés para funcionar?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Crees que la violencia debe tratarse como un problema de salud pública en tu país? Escribe un párrafo explicando tu opinión."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-12-tifon-bavi-evacuaciones",
+   "title": "Tifón Bavi: miles de personas son evacuadas en Taiwán y en China por peligro de olas de 10 metros",
+   "source": "RFI Español",
+   "date": "2026-07-11",
+   "level": "B1-B2",
+   "topics": [
+    "clima",
+    "asia"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-12-tifon-bavi-evacuaciones",
+    "revision": 1,
+    "meta": {
+     "title": "Tifón Bavi: miles de personas son evacuadas en Taiwán y en China por peligro de olas de 10 metros",
+     "source": "RFI Español",
+     "url": "https://www.rfi.fr/es/asia-pacifico/20260711-tif%C3%B3n-bavi-miles-de-personas-son-evacuadas-en-taiw%C3%A1n-y-un-mill%C3%B3n-en-china",
+     "date_published": "2026-07-11",
+     "date_processed": "2026-07-12",
+     "tags": [
+      "clima",
+      "asia"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "Typhoon Bavi forced the evacuation of thousands of people on Saturday in Taiwan and in southeastern China. In Taiwan, more than 14,000 people had to leave their homes, while in China the authorities evacuated around 900,000, mainly in the Wenzhou region. Forecasters warned that waves could reach ten metres in height in coastal areas.\n\nTyphoons are frequent in this region during the summer, but scientists point out that warming oceans can make them more intense. The Chinese authorities usually organise mass evacuations and close ports and schools before these storms arrive. In the coming days the extent of the damage will become clear, along with when the evacuees will be able to return home.",
+    "resumen_es": "El tifón Bavi obligó a evacuar a miles de personas este sábado en Taiwán y en el sureste de China. En Taiwán, más de 14.000 personas tuvieron que abandonar sus hogares, mientras que en China las autoridades evacuaron a unas 900.000, principalmente en la región de Wenzhou. Los meteorólogos advirtieron de que las olas podrían alcanzar los diez metros de altura en las zonas costeras.\n\nLos tifones son frecuentes en esta región durante el verano, pero los científicos señalan que el calentamiento de los océanos puede hacerlos más intensos. Las autoridades chinas suelen organizar evacuaciones masivas y cierres de puertos y escuelas antes de la llegada de estas tormentas. En los próximos días se conocerá el alcance de los daños y cuándo podrán regresar a casa los evacuados.",
+    "vocab": [
+     {
+      "front": "tifón",
+      "pos": "noun",
+      "back": "typhoon",
+      "example": "El tifón tocó tierra por la noche.",
+      "tier": "B1"
+     },
+     {
+      "front": "obligar a",
+      "pos": "verb",
+      "back": "to force to",
+      "example": "La tormenta obligó a cerrar el aeropuerto.",
+      "tier": "B1"
+     },
+     {
+      "front": "abandonar el hogar",
+      "pos": "phrase",
+      "back": "to leave one's home",
+      "example": "Miles de familias tuvieron que abandonar sus hogares.",
+      "tier": "B1"
+     },
+     {
+      "front": "ola",
+      "pos": "noun",
+      "back": "wave",
+      "example": "Las olas alcanzaron los seis metros.",
+      "tier": "B1"
+     },
+     {
+      "front": "alcanzar",
+      "pos": "verb",
+      "back": "to reach",
+      "example": "La temperatura puede alcanzar los 40 grados.",
+      "tier": "B1"
+     },
+     {
+      "front": "zona costera",
+      "pos": "phrase",
+      "back": "coastal area",
+      "example": "Las zonas costeras son las más afectadas.",
+      "tier": "B1"
+     },
+     {
+      "front": "señalar",
+      "pos": "verb",
+      "back": "to point out",
+      "example": "Los científicos señalan que el riesgo aumenta.",
+      "tier": "B2"
+     },
+     {
+      "front": "calentamiento",
+      "pos": "noun",
+      "back": "warming",
+      "example": "El calentamiento de los océanos preocupa a los expertos.",
+      "tier": "B2"
+     },
+     {
+      "front": "soler + infinitivo",
+      "pos": "verb",
+      "back": "to usually do something",
+      "example": "Las autoridades suelen cerrar los puertos antes del tifón.",
+      "tier": "B1"
+     },
+     {
+      "front": "alcance",
+      "pos": "noun",
+      "back": "extent, scope",
+      "example": "Todavía no se conoce el alcance de los daños.",
+      "tier": "B2"
+     },
+     {
+      "front": "daños",
+      "pos": "noun",
+      "back": "damage",
+      "example": "El temporal causó daños en cientos de casas.",
+      "tier": "B1"
+     },
+     {
+      "front": "evacuado",
+      "pos": "noun",
+      "back": "evacuee",
+      "example": "Los evacuados pasaron la noche en refugios.",
+      "tier": "B2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Los meteorólogos advirtieron de que las olas podrían alcanzar los diez metros de altura en las zonas costeras.",
+      "point": "advertir de que + conditional",
+      "explanation": "Advertir de que introduces reported warnings; the conditional podrían expresses a future possibility seen from the past.",
+      "why_tricky": "The de que combination looks like dequeísmo but is correct with advertir de; the conditional as future-in-the-past differs from English might."
+     },
+     {
+      "sentence": "Las autoridades chinas suelen organizar evacuaciones masivas y cierres de puertos y escuelas antes de la llegada de estas tormentas.",
+      "point": "soler + infinitive",
+      "explanation": "Soler expresses habitual actions, like usually in English. It is followed directly by an infinitive.",
+      "why_tricky": "There is no direct English equivalent verb, so learners tend to forget soler exists and overuse normalmente."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "tocar tierra",
+      "meaning": "to make landfall (storm)",
+      "example": "El huracán tocó tierra cerca de la costa este."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Cuántas personas fueron evacuadas en China y en qué región principalmente?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué relación establecen los científicos entre los océanos y los tifones?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué medidas suelen tomar las autoridades chinas antes de estas tormentas?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Está tu país preparado para fenómenos meteorológicos extremos? Escribe un párrafo con tu opinión y ejemplos."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-12-movimiento-fire-jubilacion",
+   "title": "\"Llevamos el almuerzo al trabajo durante 10 años y pudimos jubilarnos a los 35 y 40 años\"",
+   "source": "BBC Mundo",
+   "date": "2026-07-10",
+   "level": "B1-B2",
+   "topics": [
+    "economía",
+    "estilo de vida"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-12-movimiento-fire-jubilacion",
+    "revision": 1,
+    "meta": {
+     "title": "\"Llevamos el almuerzo al trabajo durante 10 años y pudimos jubilarnos a los 35 y 40 años\"",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/c8x29z2n5xvo?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-07-10",
+     "date_processed": "2026-07-12",
+     "tags": [
+      "economía",
+      "estilo de vida"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "A couple who took their own lunch to work for ten years and saved aggressively managed to retire at 35 and 40. Their story illustrates the FIRE movement, an English acronym for financial independence, retire early, which encourages its followers to save as much of their income as possible in order to stop working long before the usual age.\n\nThe movement was born in the United States and has spread across the internet, with forums and blogs where people share their saving and investment strategies. Critics point out that it requires high salaries and a great deal of discipline, and that it is not within everyone's reach. Even so, its advocates argue that even partial saving offers more freedom to choose how to live and work.",
+    "resumen_es": "Una pareja que llevó su propio almuerzo al trabajo durante diez años y ahorró de forma agresiva logró jubilarse a los 35 y 40 años. Su historia ilustra el movimiento FIRE, siglas en inglés de independencia financiera y jubilación anticipada, que anima a sus seguidores a ahorrar la mayor parte posible de sus ingresos para dejar de trabajar mucho antes de la edad habitual.\n\nEl movimiento nació en Estados Unidos y se ha extendido por internet, con foros y blogs donde la gente comparte sus estrategias de ahorro e inversión. Los críticos señalan que exige sueldos altos y mucha disciplina, y que no está al alcance de todos. Aun así, sus defensores afirman que incluso un ahorro parcial ofrece más libertad para elegir cómo vivir y trabajar.",
+    "vocab": [
+     {
+      "front": "jubilarse",
+      "pos": "verb",
+      "back": "to retire",
+      "example": "Mi padre se jubiló a los sesenta y cinco años.",
+      "tier": "B1"
+     },
+     {
+      "front": "ahorrar",
+      "pos": "verb",
+      "back": "to save (money)",
+      "example": "Intentamos ahorrar un poco cada mes.",
+      "tier": "B1"
+     },
+     {
+      "front": "ingresos",
+      "pos": "noun",
+      "back": "income",
+      "example": "Sus ingresos mensuales no son muy altos.",
+      "tier": "B1"
+     },
+     {
+      "front": "jubilación anticipada",
+      "pos": "phrase",
+      "back": "early retirement",
+      "example": "Pidió la jubilación anticipada a los cincuenta y ocho.",
+      "tier": "B2"
+     },
+     {
+      "front": "siglas",
+      "pos": "noun",
+      "back": "acronym, initials",
+      "example": "ONU son las siglas de la organización.",
+      "tier": "B2"
+     },
+     {
+      "front": "animar a",
+      "pos": "verb",
+      "back": "to encourage to",
+      "example": "El profesor anima a los alumnos a leer más.",
+      "tier": "B1"
+     },
+     {
+      "front": "extenderse",
+      "pos": "verb",
+      "back": "to spread",
+      "example": "La moda se extendió rápidamente por Europa.",
+      "tier": "B2"
+     },
+     {
+      "front": "sueldo",
+      "pos": "noun",
+      "back": "salary",
+      "example": "Con ese sueldo es difícil ahorrar.",
+      "tier": "B1"
+     },
+     {
+      "front": "estar al alcance de",
+      "pos": "phrase",
+      "back": "to be within reach of",
+      "example": "Ese estilo de vida no está al alcance de todos.",
+      "tier": "B2"
+     },
+     {
+      "front": "aun así",
+      "pos": "phrase",
+      "back": "even so",
+      "example": "Es caro; aun así, mucha gente lo compra.",
+      "tier": "B2"
+     },
+     {
+      "front": "defensor",
+      "pos": "noun",
+      "back": "advocate, supporter",
+      "example": "Los defensores del plan destacan sus ventajas.",
+      "tier": "B2"
+     },
+     {
+      "front": "inversión",
+      "pos": "noun",
+      "back": "investment",
+      "example": "La inversión en bolsa tiene riesgos.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "que anima a sus seguidores a ahorrar la mayor parte posible de sus ingresos",
+      "point": "animar a alguien a + infinitive",
+      "explanation": "Verbs of encouragement like animar require a before the person and a second a before the infinitive.",
+      "why_tricky": "The double a construction has no parallel in English, so learners often drop one of the prepositions."
+     },
+     {
+      "sentence": "Los críticos señalan que exige sueldos altos y mucha disciplina, y que no está al alcance de todos.",
+      "point": "reported speech with señalar que",
+      "explanation": "Señalar que introduces an indirect statement in the indicative, since the critics present it as fact.",
+      "why_tricky": "Learners sometimes reach for the subjunctive after any verb of speech, but statements of fact keep the indicative."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "apretarse el cinturón",
+      "meaning": "to tighten one's belt, spend less",
+      "example": "Este año hay que apretarse el cinturón para llegar a fin de mes."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Qué hizo la pareja durante diez años para poder jubilarse tan pronto?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué significa el movimiento FIRE y qué propone?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué críticas recibe este estilo de vida?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Te gustaría jubilarte a los 40 años si tuvieras que ahorrar de forma tan estricta? Escribe un párrafo justificando tu respuesta."
+   }
+  },
   {
    "pack_id": "feed-2026-07-11-incendio-almeria",
    "title": "Al menos 12 muertos y 23 desaparecidos en el incendio más letal de las últimas décadas en España en medio de la ola de calor",
@@ -6191,520 +6644,6 @@
      }
     ],
     "opinion_prompt": "¿Crees que las soluciones caseras como esta son suficientes frente al calor extremo, o hacen falta medidas más ambiciosas? Explica tu opinión en un párrafo."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-02-ia-empresas-empleo",
-   "title": "Inteligencia artificial: las empresas que más invierten en IA contratan más personal",
-   "source": "RFI Español",
-   "date": "2026-07-02",
-   "level": "B1-B2",
-   "topics": [
-    "tecnología",
-    "empleo"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-02-ia-empresas-empleo",
-    "revision": 1,
-    "meta": {
-     "title": "Inteligencia artificial: las empresas que más invierten en IA contratan más personal",
-     "source": "RFI Español",
-     "url": "https://www.rfi.fr/es/economia/20260701-inteligencia-artificial-las-empresas-que-m%C3%A1s-invierten-en-ia-contratan-m%C3%A1s-personal",
-     "date_published": "2026-07-01",
-     "date_processed": "2026-07-02",
-     "tags": [
-      "tecnología",
-      "empleo"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "A new study in the United States casts doubt on the idea that artificial intelligence destroys jobs. According to this research, the companies that invest the most in AI tools do not cut their workforce; instead, they tend to hire more staff. In other words, the technology seems to drive the growth of these firms rather than hold it back.\n\nThe authors explain that AI allows workers to be more productive and to take on higher-value tasks, which encourages companies to expand. Even so, they warn that the results are not the same in every sector, since some routine jobs are indeed at risk. Therefore, the challenge lies in training employees so that they make the most of these tools. In this way, the debate stops focusing only on fear and opens up to new job opportunities.",
-    "resumen_es": "Un nuevo estudio en Estados Unidos pone en duda la idea de que la inteligencia artificial destruye empleo. Según esta investigación, las empresas que más invierten en herramientas de IA no reducen su plantilla, sino que suelen contratar a más personal. En otras palabras, la tecnología parece impulsar el crecimiento de estas compañías en lugar de frenarlo.\n\nLos autores explican que la IA permite a los trabajadores ser más productivos y asumir tareas de mayor valor, lo que anima a las empresas a expandirse. Aun así, advierten de que los resultados no son iguales en todos los sectores, ya que algunos puestos rutinarios sí corren peligro. Por lo tanto, el reto consiste en formar a los empleados para que aprovechen estas herramientas. De este modo, el debate deja de centrarse solo en el miedo y se abre a nuevas oportunidades laborales.",
-    "vocab": [
-     {
-      "front": "poner en duda",
-      "pos": "phrase",
-      "back": "to cast doubt on",
-      "example": "Los datos ponen en duda esa teoría.",
-      "tier": "B2"
-     },
-     {
-      "front": "plantilla",
-      "pos": "noun",
-      "back": "workforce / staff",
-      "example": "La empresa amplió su plantilla.",
-      "tier": "B2"
-     },
-     {
-      "front": "contratar",
-      "pos": "verb",
-      "back": "to hire",
-      "example": "Van a contratar a más personal.",
-      "tier": "B1"
-     },
-     {
-      "front": "herramienta",
-      "pos": "noun",
-      "back": "tool",
-      "example": "La IA es una herramienta útil.",
-      "tier": "B1"
-     },
-     {
-      "front": "impulsar",
-      "pos": "verb",
-      "back": "to drive / boost",
-      "example": "El plan busca impulsar el empleo.",
-      "tier": "B2"
-     },
-     {
-      "front": "crecimiento",
-      "pos": "noun",
-      "back": "growth",
-      "example": "El crecimiento de la empresa fue rápido.",
-      "tier": "B1"
-     },
-     {
-      "front": "asumir tareas",
-      "pos": "phrase",
-      "back": "to take on tasks",
-      "example": "Los empleados asumen nuevas tareas.",
-      "tier": "B2"
-     },
-     {
-      "front": "advertir",
-      "pos": "verb",
-      "back": "to warn",
-      "example": "Los expertos advierten de los riesgos.",
-      "tier": "B1"
-     },
-     {
-      "front": "puesto de trabajo",
-      "pos": "noun",
-      "back": "job / position",
-      "example": "Creó nuevos puestos de trabajo.",
-      "tier": "B1"
-     },
-     {
-      "front": "correr peligro",
-      "pos": "phrase",
-      "back": "to be at risk",
-      "example": "Su empleo corre peligro.",
-      "tier": "B2"
-     },
-     {
-      "front": "reto",
-      "pos": "noun",
-      "back": "challenge",
-      "example": "El principal reto es la formación.",
-      "tier": "B1"
-     },
-     {
-      "front": "aprovechar",
-      "pos": "verb",
-      "back": "to make the most of",
-      "example": "Hay que aprovechar la tecnología.",
-      "tier": "B1"
-     },
-     {
-      "front": "laboral",
-      "pos": "adj",
-      "back": "work-related / labour",
-      "example": "El mercado laboral está cambiando.",
-      "tier": "B2"
-     },
-     {
-      "front": "aun así",
-      "pos": "phrase",
-      "back": "even so",
-      "example": "Aun así, hay que tener cuidado.",
-      "tier": "B2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Según esta investigación, las empresas que más invierten en herramientas de IA no reducen su plantilla, sino que suelen contratar a más personal.",
-      "point": "sino que (contraste tras negación)",
-      "explanation": "'Sino que' introduce una idea que corrige o sustituye a la anterior después de una negación; se usa 'que' porque sigue un verbo conjugado.",
-      "why_tricky": "Es fácil confundir 'sino', 'sino que' y 'pero'."
-     },
-     {
-      "sentence": "Por lo tanto, el reto consiste en formar a los empleados para que aprovechen estas herramientas.",
-      "point": "para que + subjuntivo",
-      "explanation": "Las oraciones de finalidad con 'para que' y sujetos distintos exigen subjuntivo: 'aprovechen'.",
-      "why_tricky": "Con el mismo sujeto se usa 'para + infinitivo'; con sujetos distintos hace falta 'para que + subjuntivo'."
-     },
-     {
-      "sentence": "Los autores explican que la IA permite a los trabajadores ser más productivos y asumir tareas de mayor valor, lo que anima a las empresas a expandirse.",
-      "point": "lo que (relativo neutro)",
-      "explanation": "'Lo que' se refiere a toda una idea anterior, no a un solo sustantivo.",
-      "why_tricky": "Elegir entre 'que', 'lo que' y 'el que' según a qué se refiere."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "poner en duda",
-      "meaning": "cuestionar algo, dudar de su verdad",
-      "example": "El estudio pone en duda una creencia muy común."
-     },
-     {
-      "phrase": "correr peligro",
-      "meaning": "estar en riesgo o amenazado",
-      "example": "Algunos empleos corren peligro con la automatización."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué creencia sobre la inteligencia artificial pone en duda el estudio?",
-      "type": "open"
-     },
-     {
-      "q": "Según los autores, ¿por qué la IA puede llevar a las empresas a contratar más?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué tipo de empleos corren más peligro y qué solución se propone?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Te preocupa que la inteligencia artificial afecte a tu trabajo o al de otras personas? Escribe un párrafo explicando por qué."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-02-ue-arancel-paquetes-pequenos",
-   "title": "La UE impone a partir del 1 de julio un arancel aduanero a los paquetes pequeños",
-   "source": "RFI Español",
-   "date": "2026-07-02",
-   "level": "B1-B2",
-   "topics": [
-    "economía",
-    "comercio"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-02-ue-arancel-paquetes-pequenos",
-    "revision": 1,
-    "meta": {
-     "title": "La UE impone a partir del 1 de julio un arancel aduanero a los paquetes pequeños",
-     "source": "RFI Español",
-     "url": "https://www.rfi.fr/es/europa/20260701-la-ue-impone-a-partir-del-1%C2%B0-de-julio-un-arancel-aduanero-a-los-paquetes-peque%C3%B1os",
-     "date_published": "2026-07-01",
-     "date_processed": "2026-07-02",
-     "tags": [
-      "economía",
-      "comercio"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "Since 1 July, the European Union has applied a new tariff to low-value parcels arriving from outside the bloc. With this measure, the authorities want to curb the huge flood of cheap shipments that come in every day, above all through the big e-commerce platforms. Until now, many of these parcels paid no tax at all when crossing the border.\n\nThe aim is twofold: on the one hand, to protect European shops, which compete at a disadvantage against very cheap products; on the other, to better control the quality and safety of what is sold. Critics, however, fear that prices will rise for consumers and that red tape will increase. We will have to wait a few months to find out whether the new charge really changes shopping habits or whether people keep ordering the same things online.",
-    "resumen_es": "Desde el 1 de julio, la Unión Europea aplica un nuevo arancel a los paquetes de bajo valor que llegan de fuera del bloque. Con esta medida, las autoridades quieren frenar la enorme avalancha de envíos baratos que entran cada día, sobre todo a través de las grandes plataformas de comercio electrónico. Hasta ahora, muchos de estos paquetes no pagaban ningún impuesto al cruzar la frontera.\n\nEl objetivo es doble: por un lado, proteger a los comercios europeos, que compiten en desventaja frente a productos muy económicos; por otro, controlar mejor la calidad y la seguridad de lo que se vende. Los críticos, en cambio, temen que los precios suban para los consumidores y que aumente la burocracia. Habrá que esperar unos meses para saber si la nueva tasa realmente cambia los hábitos de compra o si la gente sigue pidiendo lo mismo por internet.",
-    "vocab": [
-     {
-      "front": "arancel",
-      "pos": "noun",
-      "back": "tariff / customs duty",
-      "example": "El nuevo arancel encarece las importaciones.",
-      "tier": "B2"
-     },
-     {
-      "front": "paquete",
-      "pos": "noun",
-      "back": "parcel / package",
-      "example": "Recibí un paquete esta mañana.",
-      "tier": "B1"
-     },
-     {
-      "front": "envío",
-      "pos": "noun",
-      "back": "shipment / delivery",
-      "example": "El envío tarda dos semanas.",
-      "tier": "B1"
-     },
-     {
-      "front": "frenar",
-      "pos": "verb",
-      "back": "to curb / slow down",
-      "example": "Quieren frenar el gasto público.",
-      "tier": "B1"
-     },
-     {
-      "front": "avalancha",
-      "pos": "noun",
-      "back": "flood / avalanche",
-      "example": "Hubo una avalancha de pedidos.",
-      "tier": "B2"
-     },
-     {
-      "front": "impuesto",
-      "pos": "noun",
-      "back": "tax",
-      "example": "Los impuestos subieron este año.",
-      "tier": "B1"
-     },
-     {
-      "front": "comercio electrónico",
-      "pos": "phrase",
-      "back": "e-commerce",
-      "example": "El comercio electrónico no para de crecer.",
-      "tier": "B1"
-     },
-     {
-      "front": "en desventaja",
-      "pos": "phrase",
-      "back": "at a disadvantage",
-      "example": "Las tiendas pequeñas compiten en desventaja.",
-      "tier": "B2"
-     },
-     {
-      "front": "tasa",
-      "pos": "noun",
-      "back": "charge / fee / rate",
-      "example": "Aplicaron una tasa nueva a los envíos.",
-      "tier": "B2"
-     },
-     {
-      "front": "consumidor",
-      "pos": "noun",
-      "back": "consumer",
-      "example": "Los consumidores buscan ofertas.",
-      "tier": "B1"
-     },
-     {
-      "front": "burocracia",
-      "pos": "noun",
-      "back": "bureaucracy / red tape",
-      "example": "Hay demasiada burocracia para abrir un negocio.",
-      "tier": "B2"
-     },
-     {
-      "front": "hábito de compra",
-      "pos": "phrase",
-      "back": "shopping habit",
-      "example": "Sus hábitos de compra cambiaron con internet.",
-      "tier": "B2"
-     },
-     {
-      "front": "cruzar la frontera",
-      "pos": "phrase",
-      "back": "to cross the border",
-      "example": "El camión cruzó la frontera de noche.",
-      "tier": "B1"
-     },
-     {
-      "front": "económico",
-      "pos": "adj",
-      "back": "cheap / affordable",
-      "example": "Buscó un hotel económico cerca del centro.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Los críticos, en cambio, temen que los precios suban para los consumidores y que aumente la burocracia.",
-      "point": "temer que + subjuntivo",
-      "explanation": "Los verbos de emoción o temor como 'temer que' piden subjuntivo: 'suban' y 'aumente'.",
-      "why_tricky": "Hay dos verbos en subjuntivo coordinados con 'y que'; ambos deben ir en subjuntivo."
-     },
-     {
-      "sentence": "Habrá que esperar unos meses para saber si la nueva tasa realmente cambia los hábitos de compra o si la gente sigue pidiendo lo mismo por internet.",
-      "point": "haber que (obligación impersonal) + seguir + gerundio",
-      "explanation": "'Habrá que' expresa una necesidad impersonal; 'sigue pidiendo' usa 'seguir + gerundio' para indicar continuidad.",
-      "why_tricky": "Distinguir 'habrá que' de 'tendrá que'; además, las oraciones con 'si' aquí son preguntas indirectas, no condicionales."
-     },
-     {
-      "sentence": "Hasta ahora, muchos de estos paquetes no pagaban ningún impuesto al cruzar la frontera.",
-      "point": "al + infinitivo",
-      "explanation": "'Al + infinitivo' significa 'cuando' o 'en el momento de'; 'pagaban' es imperfecto por ser una acción habitual en el pasado.",
-      "why_tricky": "En inglés se dice 'when crossing'; es fácil olvidar la estructura 'al + infinitivo'."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "en desventaja",
-      "meaning": "en una situación peor que la de otros",
-      "example": "Las tiendas de barrio compiten en desventaja con las grandes plataformas."
-     },
-     {
-      "phrase": "por un lado... por otro",
-      "meaning": "para presentar dos aspectos de un tema",
-      "example": "Por un lado ahorras dinero, por otro pierdes calidad."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué cambió el 1 de julio en la Unión Europea respecto a los paquetes pequeños?",
-      "type": "open"
-     },
-     {
-      "q": "¿Cuáles son los dos objetivos principales de esta medida?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué temen los críticos de esta nueva tasa?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Estás de acuerdo con poner un arancel a los paquetes baratos que vienen de fuera de Europa? Escribe un párrafo con tus razones."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-01-bukele-megacarceles-modelo",
-   "title": "Cómo las megacárceles de Bukele se convirtieron en un modelo para la derecha radical (y qué ha pasado donde se han replicado)",
-   "source": "BBC Mundo",
-   "date": "2026-07-01",
-   "level": "B1-B2",
-   "topics": [
-    "política",
-    "seguridad"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-01-bukele-megacarceles-modelo",
-    "revision": 1,
-    "meta": {
-     "title": "Cómo las megacárceles de Bukele se convirtieron en un modelo para la derecha radical (y qué ha pasado donde se han replicado)",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/c24y9nzn3e1o?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-06-23",
-     "date_processed": "2026-07-01",
-     "tags": [
-      "política",
-      "seguridad"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "The tough-on-crime policy of Salvadoran president Bukele has become a model for several radical right-wing leaders in Latin America and Europe. His strategy is based on mass arrests and on building huge prisons, known as mega-prisons, where thousands of suspected gang members are locked up. Many citizens applaud these measures because, at last, they feel they can walk down the street without fear. Other voices, however, denounce serious abuses and the detention of innocent people.\n\nWhen other governments have tried to copy this method, the results have been limited. In some countries, a lack of resources and weak institutions make it impossible to apply the model exactly as it works in El Salvador. That is why, while some see Bukele as an example to follow, others warn that sacrificing human rights rarely offers a lasting solution. The debate remains open and divides society.",
-    "resumen_es": "La política de mano dura del presidente salvadoreño Bukele se ha convertido en un modelo para varios líderes de la derecha radical en América Latina y Europa. Su estrategia se basa en detenciones masivas y en la construcción de enormes prisiones, conocidas como megacárceles, donde se encierra a miles de presuntos pandilleros. Muchos ciudadanos aplauden estas medidas porque, por fin, sienten que pueden caminar por la calle sin miedo. Otras voces, sin embargo, denuncian graves abusos y detenciones de inocentes.\n\nCuando otros gobiernos han intentado copiar este método, los resultados han sido limitados. En algunos países, la falta de recursos y unas instituciones débiles impiden aplicar el modelo tal y como funciona en El Salvador. Por eso, mientras unos ven en Bukele un ejemplo a seguir, otros advierten de que sacrificar los derechos humanos rara vez ofrece una solución duradera. El debate sigue abierto y divide a la sociedad.",
-    "vocab": [
-     {
-      "front": "mano dura",
-      "pos": "phrase",
-      "back": "a tough, heavy-handed approach; a crackdown",
-      "example": "El gobierno prometió mano dura contra el crimen.",
-      "tier": "B2"
-     },
-     {
-      "front": "detención masiva",
-      "pos": "noun",
-      "back": "mass arrest or detention",
-      "example": "Las detenciones masivas llenaron las cárceles.",
-      "tier": "B2"
-     },
-     {
-      "front": "encerrar",
-      "pos": "verb",
-      "back": "to lock up, imprison",
-      "example": "Encerraron a los sospechosos durante meses.",
-      "tier": "B1"
-     },
-     {
-      "front": "presunto/a",
-      "pos": "adj",
-      "back": "alleged, suspected",
-      "example": "Detuvieron a un presunto ladrón.",
-      "tier": "B2"
-     },
-     {
-      "front": "pandillero",
-      "pos": "noun",
-      "back": "gang member",
-      "example": "La policía busca a varios pandilleros.",
-      "tier": "B2"
-     },
-     {
-      "front": "aplaudir una medida",
-      "pos": "verb",
-      "back": "to applaud or welcome a measure",
-      "example": "Muchos aplaudieron la nueva ley.",
-      "tier": "B1"
-     },
-     {
-      "front": "denunciar",
-      "pos": "verb",
-      "back": "to report, denounce, condemn",
-      "example": "Las ONG denunciaron los abusos.",
-      "tier": "B1"
-     },
-     {
-      "front": "abuso",
-      "pos": "noun",
-      "back": "abuse, mistreatment",
-      "example": "Investigan abusos dentro de la prisión.",
-      "tier": "B1"
-     },
-     {
-      "front": "derechos humanos",
-      "pos": "phrase",
-      "back": "human rights",
-      "example": "Defienden los derechos humanos de los presos.",
-      "tier": "B1"
-     },
-     {
-      "front": "ejemplo a seguir",
-      "pos": "phrase",
-      "back": "a role model, example to follow",
-      "example": "Para ellos, es un ejemplo a seguir.",
-      "tier": "B2"
-     },
-     {
-      "front": "duradero/a",
-      "pos": "adj",
-      "back": "lasting, durable",
-      "example": "Todos buscan una paz duradera.",
-      "tier": "B2"
-     },
-     {
-      "front": "renunciar a",
-      "pos": "verb",
-      "back": "to give up, renounce",
-      "example": "No quiere renunciar a su libertad.",
-      "tier": "B2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Su estrategia se basa en detenciones masivas y en la construcción de enormes prisiones, conocidas como megacárceles, donde se encierra a miles de presuntos pandilleros.",
-      "point": "'se' impersonal/pasivo (se encierra)",
-      "explanation": "'Se encierra a miles de...' usa el pronombre 'se' para expresar la acción sin decir quién la hace, como el inglés 'are locked up'. La 'a' delante de las personas es la 'a' personal.",
-      "why_tricky": "El inglés usa la pasiva ('are locked up'), mientras que el español prefiere 'se' + verbo en singular aunque el objeto sea plural."
-     },
-     {
-      "sentence": "Muchos ciudadanos aplauden estas medidas porque, por fin, sienten que pueden caminar por la calle sin miedo.",
-      "point": "'sentir que' + indicativo",
-      "explanation": "Después de 'sienten que', que expresa percepción o creencia afirmativa, el español usa el indicativo ('pueden'), no el subjuntivo.",
-      "why_tricky": "Muchos estudiantes añaden el subjuntivo tras 'que', pero los verbos de percepción en afirmativo piden indicativo."
-     },
-     {
-      "sentence": "Por eso, mientras unos ven en Bukele un ejemplo a seguir, otros advierten de que sacrificar los derechos humanos rara vez ofrece una solución duradera.",
-      "point": "Contraste 'unos... otros...' y 'advertir de que'",
-      "explanation": "'Unos... otros...' contrasta dos grupos ('some... others...'). 'Advertir de que' lleva 'de' antes de la oración subordinada.",
-      "why_tricky": "La construcción 'de que' (queísmo/dequeísmo) confunde; con 'advertir' el 'de que' es correcto."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "mano dura",
-      "meaning": "a tough, uncompromising approach, especially on crime or discipline",
-      "example": "Los vecinos piden mano dura contra la delincuencia."
-     },
-     {
-      "phrase": "por fin",
-      "meaning": "at last, finally, after a long wait",
-      "example": "Por fin llegó el verano."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿En qué se basa la estrategia de seguridad de Bukele?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué crees que muchos ciudadanos apoyan estas medidas?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué problemas han surgido cuando otros países han intentado copiar el modelo?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Crees que vale la pena renunciar a algunas libertades a cambio de más seguridad? Escribe un párrafo explicando tu opinión con ejemplos."
    }
   }
  ]
