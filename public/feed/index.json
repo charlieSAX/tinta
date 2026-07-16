@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-16T08:10:44.177008+00:00",
+ "generated_at": "2026-07-16T08:12:52.321288+00:00",
  "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
  "packs": [
   {
@@ -165,172 +165,165 @@
    }
   },
   {
-   "pack_id": "feed-2026-07-16-erdogan-golpe-10",
-   "title": "Turquía: 10 años tras el intento de golpe, Erdogan sigue en el poder con un sistema hiperpresidencialista",
-   "source": "RFI en español",
+   "pack_id": "feed-2026-07-16-adn-genealogia-abuela",
+   "title": "La abuela jubilada que resuelve asesinatos con muestras de ADN y árboles genealógicos",
+   "source": "BBC Mundo",
    "date": "2026-07-15",
    "level": "B1-B2",
    "topics": [
-    "historia",
-    "Turquía"
+    "ciencia",
+    "crimen"
    ],
    "pack": {
-    "pack_id": "feed-2026-07-16-erdogan-golpe-10",
+    "pack_id": "feed-2026-07-16-adn-genealogia-abuela",
     "revision": 1,
     "meta": {
-     "title": "Turquía: 10 años tras el intento de golpe, Erdogan sigue en el poder con un sistema hiperpresidencialista",
-     "source": "RFI en español",
-     "url": "https://www.rfi.fr/es/oriente-medio/20260715-turqu%C3%ADa-10-a%C3%B1os-tras-el-intento-de-golpe-erdogan-sigue-en-el-poder-con-un-sistema-hiperpresidencialista",
+     "title": "La abuela jubilada que resuelve asesinatos con muestras de ADN y árboles genealógicos",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/c0jyxjew282o?at_medium=RSS&at_campaign=rss",
      "date_published": "2026-07-15",
      "date_processed": "2026-07-16",
      "tags": [
-      "historia",
-      "Turquía"
+      "ciencia",
+      "crimen"
      ],
      "level": "B1-B2"
     },
-    "summary_en": "Turkey is marking ten years since the coup attempt that came close to overthrowing Recep Tayyip Erdogan. During the night of 15 to 16 July 2016, a group of rebel soldiers, linked according to the government to the cleric Fethullah Gulen, bombed official buildings and tried to seize power. The attempted coup failed within a few hours thanks to popular resistance and loyal forces.\n\nA decade later, Erdogan is still at the head of the country with a hyperpresidential system that concentrates broad powers in his hands. After the failed coup, the government launched massive purges that affected judges, teachers and journalists. Critics maintain that that night marked the beginning of an authoritarian turn, while his supporters argue that the president saved Turkish democracy.",
-    "resumen_es": "Turquía conmemora diez años del intento de golpe de Estado que estuvo a punto de derrocar a Recep Tayyip Erdogan. Durante la noche del 15 al 16 de julio de 2016, un grupo de militares rebeldes, vinculados según el gobierno al clérigo Fethullah Gülen, bombardeó edificios oficiales y trató de hacerse con el poder. La intentona fracasó en pocas horas gracias a la resistencia popular y de las fuerzas leales.\n\nUna década después, Erdogan sigue al frente del país con un sistema hiperpresidencialista que concentra amplios poderes en sus manos. Tras el golpe fallido, el gobierno lanzó purgas masivas que afectaron a jueces, docentes y periodistas. Los críticos sostienen que aquella noche marcó el inicio de un giro autoritario, mientras sus partidarios defienden que el presidente salvó la democracia turca.",
+    "summary_en": "Margaret Press, a retired grandmother, has become a key figure in modern criminal investigation. Her idea was to combine DNA technology with genealogy, that is, with the building of family trees. Thanks to this method, she and her team have managed to identify murder victims whose cases had gone unsolved for decades.\n\nThe process works like this: a DNA sample is compared with genealogical databases and distant relatives of the unknown person are sought. Then volunteers reconstruct the family tree until they come up with a name. The technique has given their identity back to numerous victims and has reopened cases the police had shelved, although it also raises debates about genetic privacy.",
+    "resumen_es": "Margaret Press, una abuela jubilada, se ha convertido en una figura clave de la investigación criminal moderna. Su idea fue combinar la tecnología del ADN con la genealogía, es decir, con la construcción de árboles genealógicos. Gracias a este método, ella y su equipo han logrado identificar a víctimas de asesinato cuyos casos llevaban décadas sin resolverse.\n\nEl proceso funciona así: se compara una muestra de ADN con bases de datos genealógicas y se buscan parientes lejanos de la persona desconocida. Después, los voluntarios reconstruyen el árbol familiar hasta dar con un nombre. La técnica ha devuelto la identidad a numerosas víctimas y ha reabierto casos que la policía había archivado, aunque también plantea debates sobre la privacidad genética.",
     "vocab": [
      {
-      "front": "el golpe de Estado",
-      "pos": "phrase",
-      "back": "coup d'etat",
-      "example": "El golpe de Estado fracasó en pocas horas.",
-      "tier": "B1"
-     },
-     {
-      "front": "derrocar",
-      "pos": "verb",
-      "back": "to overthrow",
-      "example": "Los rebeldes intentaron derrocar al presidente.",
-      "tier": "B2"
-     },
-     {
-      "front": "la intentona",
-      "pos": "noun",
-      "back": "failed attempt (esp. coup)",
-      "example": "La intentona golpista terminó con cientos de detenidos.",
-      "tier": "C1"
-     },
-     {
-      "front": "hacerse con el poder",
-      "pos": "phrase",
-      "back": "to seize power",
-      "example": "Los militares quisieron hacerse con el poder.",
-      "tier": "B2"
-     },
-     {
-      "front": "leal",
+      "front": "jubilado",
       "pos": "adj",
-      "back": "loyal",
-      "example": "Las tropas leales defendieron el palacio.",
+      "back": "retired",
+      "example": "Mi padre está jubilado desde hace dos años.",
       "tier": "B1"
      },
      {
-      "front": "la purga",
+      "front": "el ADN",
       "pos": "noun",
-      "back": "purge",
-      "example": "La purga afectó a miles de funcionarios.",
-      "tier": "B2"
+      "back": "DNA",
+      "example": "La policía analizó el ADN encontrado en la escena.",
+      "tier": "B1"
      },
      {
-      "front": "al frente de",
+      "front": "el árbol genealógico",
       "pos": "phrase",
-      "back": "at the head of, in charge of",
-      "example": "Lleva veinte años al frente de la empresa.",
+      "back": "family tree",
+      "example": "Construyó su árbol genealógico hasta el siglo XIX.",
       "tier": "B1"
      },
      {
-      "front": "el docente",
+      "front": "la muestra",
       "pos": "noun",
-      "back": "teacher, educator",
-      "example": "Muchos docentes perdieron su trabajo.",
+      "back": "sample",
+      "example": "Tomaron una muestra de sangre para el análisis.",
+      "tier": "B1"
+     },
+     {
+      "front": "el pariente lejano",
+      "pos": "phrase",
+      "back": "distant relative",
+      "example": "Encontró a un pariente lejano en otro país.",
+      "tier": "B1"
+     },
+     {
+      "front": "dar con",
+      "pos": "phrase",
+      "back": "to come across, to find",
+      "example": "Tras meses de búsqueda, dieron con el sospechoso.",
       "tier": "B2"
      },
      {
-      "front": "el partidario",
-      "pos": "noun",
-      "back": "supporter",
-      "example": "Sus partidarios salieron a la calle a celebrarlo.",
-      "tier": "B1"
+      "front": "archivar un caso",
+      "pos": "phrase",
+      "back": "to shelve a case",
+      "example": "La policía archivó el caso por falta de pruebas.",
+      "tier": "B2"
      },
      {
-      "front": "el giro",
-      "pos": "noun",
-      "back": "turn, shift",
-      "example": "La política del país dio un giro inesperado.",
-      "tier": "B1"
-     },
-     {
-      "front": "sostener",
+      "front": "reabrir",
       "pos": "verb",
-      "back": "to maintain, to claim",
-      "example": "El historiador sostiene que fue un punto de inflexión.",
+      "back": "to reopen",
+      "example": "El juez decidió reabrir la investigación.",
       "tier": "B2"
      },
      {
-      "front": "fallido",
-      "pos": "adj",
-      "back": "failed, unsuccessful",
-      "example": "Fue un intento fallido de reforma.",
-      "tier": "B2"
-     },
-     {
-      "front": "conmemorar",
+      "front": "plantear",
       "pos": "verb",
-      "back": "to commemorate",
-      "example": "El país conmemora el aniversario de la tragedia.",
+      "back": "to raise (an issue)",
+      "example": "La nueva técnica plantea dudas éticas.",
+      "tier": "B2"
+     },
+     {
+      "front": "la privacidad",
+      "pos": "noun",
+      "back": "privacy",
+      "example": "Muchos temen por la privacidad de sus datos.",
+      "tier": "B1"
+     },
+     {
+      "front": "el asesinato",
+      "pos": "noun",
+      "back": "murder",
+      "example": "El asesinato quedó sin resolver durante años.",
+      "tier": "B1"
+     },
+     {
+      "front": "la figura clave",
+      "pos": "phrase",
+      "back": "key figure",
+      "example": "Es una figura clave del proyecto.",
       "tier": "B2"
      }
     ],
     "grammar": [
      {
-      "sentence": "Turquía conmemora diez años del intento de golpe de Estado que estuvo a punto de derrocar a Recep Tayyip Erdogan.",
-      "point": "'Estar a punto de' + infinitive",
-      "explanation": "'Estar a punto de' means 'to be on the verge of'. In the preterite (estuvo a punto de) it describes something that almost happened but did not.",
-      "why_tricky": "Learners often try literal translations like 'casi derrocó'; 'estuvo a punto de' is the natural, idiomatic way to say 'came close to doing'."
+      "sentence": "Gracias a este método, ella y su equipo han logrado identificar a víctimas de asesinato cuyos casos llevaban décadas sin resolverse.",
+      "point": "'Cuyo' and 'llevar + time + sin + infinitive'",
+      "explanation": "'Cuyos casos' means 'whose cases', agreeing with 'casos', not with the victims. 'Llevaban décadas sin resolverse' literally 'carried decades without solving themselves', a very Spanish way to say they had been unsolved for decades.",
+      "why_tricky": "'Cuyo' barely exists in spoken English-style structures, and the 'llevar + time + sin' construction has no word-for-word English equivalent."
      },
      {
-      "sentence": "La intentona fracasó en pocas horas gracias a la resistencia popular y de las fuerzas leales.",
-      "point": "'Gracias a' + noun",
-      "explanation": "'Gracias a' introduces the positive cause of an outcome: thanks to popular resistance. Its negative counterpart is 'por culpa de'.",
-      "why_tricky": "Choosing between 'gracias a', 'por' and 'por culpa de' depends on whether the cause is seen as positive, neutral or negative, a nuance English 'because of' does not mark."
+      "sentence": "El proceso funciona así: se compara una muestra de ADN con bases de datos genealógicas y se buscan parientes lejanos de la persona desconocida.",
+      "point": "Passive 'se' with verb agreement",
+      "explanation": "In passive-se sentences the verb agrees with the thing acted on: 'se compara una muestra' (singular) but 'se buscan parientes' (plural).",
+      "why_tricky": "Learners often leave the verb singular in both cases; the plural agreement in 'se buscan' is easy to miss."
      },
      {
-      "sentence": "Los críticos sostienen que aquella noche marcó el inicio de un giro autoritario, mientras sus partidarios defienden que el presidente salvó la democracia turca.",
-      "point": "'Mientras' expressing contrast",
-      "explanation": "Here 'mientras' does not mean 'while' in time but 'whereas', contrasting two opposing views in one sentence.",
-      "why_tricky": "The same word covers both temporal 'while' and contrastive 'whereas'; context alone tells you which one is meant."
+      "sentence": "La técnica ha devuelto la identidad a numerosas víctimas y ha reabierto casos que la policía había archivado, aunque también plantea debates sobre la privacidad genética.",
+      "point": "Pluperfect 'había archivado'",
+      "explanation": "The pluperfect (había + participle) marks an action completed before another past action: the police had shelved the cases before the technique reopened them.",
+      "why_tricky": "Sequencing two past events forces a choice between perfect, preterite and pluperfect that English often blurs with just 'had'."
      }
     ],
     "idioms": [
      {
-      "phrase": "hacerse con el poder",
-      "meaning": "to take control, to seize power",
-      "example": "El general intentó hacerse con el poder sin apoyo popular."
+      "phrase": "dar con",
+      "meaning": "to finally find something or someone",
+      "example": "Después de horas buscando, di con la dirección correcta."
      },
      {
-      "phrase": "estar a punto de",
-      "meaning": "to be about to, to come close to",
-      "example": "Estuvimos a punto de perder el tren."
+      "phrase": "figura clave",
+      "meaning": "key figure, essential person",
+      "example": "La doctora fue una figura clave en la investigación."
      }
     ],
     "comprehension": [
      {
-      "q": "¿Qué ocurrió durante la noche del 15 al 16 de julio de 2016 en Turquía?",
+      "q": "¿Qué dos disciplinas combinó Margaret Press y con qué objetivo?",
       "type": "open"
      },
      {
-      "q": "¿Qué consecuencias tuvo el golpe fallido para jueces, docentes y periodistas?",
+      "q": "¿Cómo funciona el proceso para identificar a una persona desconocida?",
       "type": "open"
      },
      {
-      "q": "¿En qué se diferencian las interpretaciones de los críticos y de los partidarios de Erdogan?",
+      "q": "¿Qué debate plantea esta técnica según el texto?",
       "type": "open"
      }
     ],
-    "opinion_prompt": "Diez años después del golpe fallido, ¿puede una crisis de seguridad justificar la concentración de poder en un solo líder? Argumenta tu respuesta en unas 100 palabras."
+    "opinion_prompt": "¿Deberían la policía y los voluntarios poder usar bases de datos genéticas de particulares para resolver crímenes? Escribe tu opinión en unas 100 palabras."
    }
   },
   {
