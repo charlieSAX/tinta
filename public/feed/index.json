@@ -1,7 +1,482 @@
 {
-  "generated_at": "2026-07-19T08:11:46.872772+00:00",
+  "generated_at": "2026-07-20T06:08:42.433407+00:00",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-07-20-espana-campeona-mundial",
+      "title": "España borra del campo a la Argentina de Messi y consigue su segundo Mundial con un gran juego de equipo",
+      "source": "BBC Mundo",
+      "date": "2026-07-20",
+      "level": "B1-B2",
+      "topics": [
+        "deportes",
+        "mundial"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-20-espana-campeona-mundial",
+        "revision": 1,
+        "meta": {
+          "title": "España borra del campo a la Argentina de Messi y consigue su segundo Mundial con un gran juego de equipo",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c304pv10g95o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-07-20",
+          "date_processed": "2026-07-20",
+          "tags": [
+            "deportes",
+            "mundial"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Spain were crowned world champions for the second time after beating Argentina 1-0 in the 2026 World Cup final, played at the MetLife Stadium in New Jersey. La Roja dominated the match from start to finish, but the goal did not come until the 106th minute, deep into extra time, when Ferran Torres beat the Argentine goalkeeper and unleashed the euphoria of the Spanish fans.\n\nThe triumph comes sixteen years after the title won at South Africa 2010 and confirms the arrival of a new golden generation. For Argentina, the defeat is a bitter farewell: Lionel Messi, who was playing in his sixth World Cup, left the pitch in tears. Enzo Fernandez's sending-off left the Albiceleste with ten players and complicated any attempt at a comeback in the final minutes.",
+        "resumen_es": "España se proclamó campeona del mundo por segunda vez tras vencer a Argentina por 1-0 en la final del Mundial 2026, disputada en el estadio MetLife de Nueva Jersey. La Roja dominó el partido de principio a fin, pero el gol no llegó hasta el minuto 106, en plena prórroga, cuando Ferran Torres batió al portero argentino y desató la euforia de los aficionados españoles.\n\nEl triunfo llega dieciséis años después del título conseguido en Sudáfrica 2010 y confirma el relevo de una nueva generación dorada. Para Argentina, la derrota supone una despedida amarga: Lionel Messi, que disputaba su sexto Mundial, abandonó el campo entre lágrimas. La expulsión de Enzo Fernández dejó a la Albiceleste con diez jugadores y complicó cualquier intento de remontada en los minutos finales.",
+        "vocab": [
+          {
+            "front": "proclamarse campeón",
+            "pos": "phrase",
+            "back": "to be crowned champion",
+            "example": "El equipo se proclamó campeón tras una larga temporada.",
+            "tier": "B2"
+          },
+          {
+            "front": "vencer",
+            "pos": "verb",
+            "back": "to beat, to defeat",
+            "example": "España venció a Argentina en la final.",
+            "tier": "B1"
+          },
+          {
+            "front": "disputar",
+            "pos": "verb",
+            "back": "to play, to contest (a match)",
+            "example": "La final se disputó en Nueva Jersey.",
+            "tier": "B2"
+          },
+          {
+            "front": "la prórroga",
+            "pos": "noun",
+            "back": "extra time, overtime",
+            "example": "El gol llegó en la prórroga.",
+            "tier": "B1"
+          },
+          {
+            "front": "batir",
+            "pos": "verb",
+            "back": "to beat (a goalkeeper, a record)",
+            "example": "El delantero batió al portero con un disparo cruzado.",
+            "tier": "B2"
+          },
+          {
+            "front": "desatar",
+            "pos": "verb",
+            "back": "to unleash, to trigger",
+            "example": "La noticia desató la alegría en las calles.",
+            "tier": "B2"
+          },
+          {
+            "front": "el aficionado",
+            "pos": "noun",
+            "back": "fan, supporter",
+            "example": "Miles de aficionados celebraron el título.",
+            "tier": "B1"
+          },
+          {
+            "front": "el relevo",
+            "pos": "noun",
+            "back": "changing of the guard, handover",
+            "example": "El relevo generacional del equipo ya es una realidad.",
+            "tier": "B2"
+          },
+          {
+            "front": "la despedida",
+            "pos": "noun",
+            "back": "farewell, goodbye",
+            "example": "Fue una despedida amarga para el capitán.",
+            "tier": "B1"
+          },
+          {
+            "front": "la expulsión",
+            "pos": "noun",
+            "back": "sending-off, expulsion",
+            "example": "La expulsión cambió el rumbo del partido.",
+            "tier": "B1"
+          },
+          {
+            "front": "la remontada",
+            "pos": "noun",
+            "back": "comeback",
+            "example": "El equipo intentó la remontada en los últimos minutos.",
+            "tier": "B2"
+          },
+          {
+            "front": "suponer",
+            "pos": "verb",
+            "back": "to mean, to represent",
+            "example": "La derrota supone un golpe duro para el país.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La Roja dominó el partido de principio a fin, pero el gol no llegó hasta el minuto 106, en plena prórroga, cuando Ferran Torres batió al portero argentino y desató la euforia de los aficionados españoles.",
+            "point": "Pretérito indefinido in narrative chains",
+            "explanation": "A sequence of completed past events (dominó, llegó, batió, desató) is narrated entirely in the indefinido, giving the sentence its report-like rhythm.",
+            "why_tricky": "English uses the simple past for both habitual and one-off events, so learners often slip into the imperfecto; here every verb is a single completed action."
+          },
+          {
+            "sentence": "Lionel Messi, que disputaba su sexto Mundial, abandonó el campo entre lágrimas.",
+            "point": "Imperfecto for background vs indefinido for the event",
+            "explanation": "Disputaba paints the ongoing background situation (he was in the middle of playing his sixth World Cup), while abandonó is the completed foreground action.",
+            "why_tricky": "Both actions happened in the past; choosing between them depends on whether the verb frames the scene or advances the story."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "de principio a fin",
+            "meaning": "from start to finish",
+            "example": "Controlaron el partido de principio a fin."
+          },
+          {
+            "phrase": "entre lágrimas",
+            "meaning": "in tears, tearfully",
+            "example": "Se despidió de la afición entre lágrimas."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Cómo y cuándo consiguió España el gol de la victoria?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué relación tiene este título con el Mundial de Sudáfrica 2010?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué dos factores complicaron la remontada de Argentina?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que el fútbol de selecciones sigue siendo tan importante como hace veinte años, o los clubes lo han sustituido en el corazón de los aficionados? Justifica tu opinión."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-20-reino-unido-primeros-ministros",
+      "title": "7 en 10 años: por qué Reino Unido ha tenido tantos primeros ministros en la última década",
+      "source": "BBC Mundo",
+      "date": "2026-07-20",
+      "level": "B1-B2",
+      "topics": [
+        "política",
+        "reino unido"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-20-reino-unido-primeros-ministros",
+        "revision": 1,
+        "meta": {
+          "title": "7 en 10 años: por qué Reino Unido ha tenido tantos primeros ministros en la última década",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cy04vrk2d5no?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-07-20",
+          "date_processed": "2026-07-20",
+          "tags": [
+            "política",
+            "reino unido"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The United Kingdom welcomes its seventh prime minister in barely ten years this Monday. Andy Burnham, elected as the new leader of the Labour Party, replaces Keir Starmer, who resigned without completing his term. Burnham arrives at Downing Street with the challenge of halting the advance of Reform UK, Nigel Farage's anti-establishment, anti-immigration party, before the elections scheduled for 2029.\n\nThe figure is striking in a country that for decades prided itself on political stability. Since 2016, no British prime minister has managed to finish their term: Brexit, internal scandals and economic pressure have worn down successive governments. Analysts point out that the traditional parties, Conservative and Labour alike, face an electorate that is increasingly impatient and fragmented.",
+        "resumen_es": "Reino Unido estrena este lunes a su séptimo primer ministro en apenas diez años. Andy Burnham, elegido nuevo líder del Partido Laborista, sustituye a Keir Starmer, quien dimitió sin completar su mandato. Burnham llega a Downing Street con el reto de frenar el avance de Reform UK, el partido antisistema y antiinmigración de Nigel Farage, antes de las elecciones previstas para 2029.\n\nLa cifra llama la atención en un país que durante décadas presumió de estabilidad política. Desde 2016, ningún primer ministro británico ha logrado terminar su mandato: el Brexit, los escándalos internos y la presión económica han desgastado a los sucesivos gobiernos. Los analistas señalan que los partidos tradicionales, tanto conservadores como laboristas, se enfrentan a un electorado cada vez más impaciente y fragmentado.",
+        "vocab": [
+          {
+            "front": "estrenar",
+            "pos": "verb",
+            "back": "to have for the first time, to debut",
+            "example": "El país estrena gobierno esta semana.",
+            "tier": "B2"
+          },
+          {
+            "front": "en apenas",
+            "pos": "phrase",
+            "back": "in barely, in just",
+            "example": "Cambiaron de líder tres veces en apenas dos años.",
+            "tier": "B1"
+          },
+          {
+            "front": "sustituir",
+            "pos": "verb",
+            "back": "to replace",
+            "example": "Burnham sustituye a Starmer al frente del gobierno.",
+            "tier": "B1"
+          },
+          {
+            "front": "dimitir",
+            "pos": "verb",
+            "back": "to resign",
+            "example": "El ministro dimitió tras el escándalo.",
+            "tier": "B1"
+          },
+          {
+            "front": "el mandato",
+            "pos": "noun",
+            "back": "term of office, mandate",
+            "example": "No logró completar su mandato de cinco años.",
+            "tier": "B1"
+          },
+          {
+            "front": "el reto",
+            "pos": "noun",
+            "back": "challenge",
+            "example": "Su mayor reto será recuperar la confianza de los votantes.",
+            "tier": "B1"
+          },
+          {
+            "front": "frenar",
+            "pos": "verb",
+            "back": "to halt, to curb",
+            "example": "El gobierno quiere frenar el avance de la oposición.",
+            "tier": "B1"
+          },
+          {
+            "front": "presumir de",
+            "pos": "phrase",
+            "back": "to boast about, to pride oneself on",
+            "example": "El país presume de instituciones sólidas.",
+            "tier": "B2"
+          },
+          {
+            "front": "desgastar",
+            "pos": "verb",
+            "back": "to wear down, to erode",
+            "example": "Las crisis sucesivas han desgastado al gobierno.",
+            "tier": "B2"
+          },
+          {
+            "front": "señalar",
+            "pos": "verb",
+            "back": "to point out",
+            "example": "Los expertos señalan varias causas de la inestabilidad.",
+            "tier": "B1"
+          },
+          {
+            "front": "el electorado",
+            "pos": "noun",
+            "back": "electorate, voters",
+            "example": "El electorado se muestra cada vez más dividido.",
+            "tier": "B2"
+          },
+          {
+            "front": "fragmentado",
+            "pos": "adj",
+            "back": "fragmented",
+            "example": "El voto está muy fragmentado entre cinco partidos.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Desde 2016, ningún primer ministro británico ha logrado terminar su mandato: el Brexit, los escándalos internos y la presión económica han desgastado a los sucesivos gobiernos.",
+            "point": "Pretérito perfecto with desde",
+            "explanation": "A period starting in the past and continuing into the present (desde 2016) takes the perfecto: ha logrado, han desgastado.",
+            "why_tricky": "Learners influenced by Latin American usage or by English may reach for the indefinido; with desde + an open time frame, peninsular Spanish strongly prefers the perfecto."
+          },
+          {
+            "sentence": "Andy Burnham, elegido nuevo líder del Partido Laborista, sustituye a Keir Starmer, quien dimitió sin completar su mandato.",
+            "point": "Participle clause and the relative quien",
+            "explanation": "Elegido nuevo líder is a reduced clause (que fue elegido), and quien is the formal relative used for people after a comma.",
+            "why_tricky": "Both structures are common in journalism but rare in speech, so they read as very formal; note also sin + infinitive where English uses without + -ing."
+          },
+          {
+            "sentence": "Reino Unido estrena este lunes a su séptimo primer ministro en apenas diez años.",
+            "point": "Personal a with an institution's people",
+            "explanation": "Even though the object is a role (su séptimo primer ministro), it refers to a specific person, so the personal a is required.",
+            "why_tricky": "English has no equivalent marker, and learners often drop the a when the person is described by a title rather than a name."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "llamar la atención",
+            "meaning": "to be striking, to draw attention",
+            "example": "Llama la atención la rapidez con la que cambian los gobiernos."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿A quién sustituye Andy Burnham y en qué circunstancias?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué factores explican, según el texto, el desgaste de los gobiernos británicos desde 2016?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué desafío electoral tiene Burnham de cara a 2029?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Es la rotación frecuente de líderes un signo de democracia sana o de crisis institucional? Escribe un párrafo defendiendo tu postura con ejemplos."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-20-incendios-espana",
+      "title": "España: Varios incendios arrasan miles de hectáreas y desplazan a cientos de residentes",
+      "source": "RFI Español",
+      "date": "2026-07-19",
+      "level": "B1-B2",
+      "topics": [
+        "medioambiente",
+        "españa"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-20-incendios-espana",
+        "revision": 1,
+        "meta": {
+          "title": "España: Varios incendios arrasan miles de hectáreas y desplazan a cientos de residentes",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/europa/20260719-espa%C3%B1a-varios-incendios-arrasan-miles-de-hect%C3%A1reas-y-desplazan-a-cientos-de-residentes",
+          "date_published": "2026-07-19",
+          "date_processed": "2026-07-20",
+          "tags": [
+            "medioambiente",
+            "españa"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Spain is fighting several forest fires that have devastated thousands of hectares and forced hundreds of people to evacuate. The largest blaze, active since Thursday in Castilla-La Mancha, about a hundred kilometres north of Madrid, has already burned some 13,000 hectares. Added to this is another fire near Zaragoza, which started on Wednesday and is far from being under control after devouring around 16,000 hectares.\n\nSpanish summers are increasingly prone to this kind of catastrophe. Heatwaves, prolonged drought and the abandonment of the countryside create perfect conditions for the flames to spread at great speed. Emergency services are working around the clock, while the authorities are asking the public to follow instructions and avoid approaching the affected areas.",
+        "resumen_es": "España lucha contra varios incendios forestales que han arrasado miles de hectáreas y han obligado a evacuar a cientos de personas. El fuego más extenso, activo desde el jueves en Castilla-La Mancha, a unos cien kilómetros al norte de Madrid, ha quemado ya unas 13.000 hectáreas. A este se suma otro incendio cerca de Zaragoza, que comenzó el miércoles y está lejos de ser controlado tras devorar unas 16.000 hectáreas.\n\nLos veranos españoles son cada vez más propensos a este tipo de catástrofes. Las olas de calor, la sequía prolongada y el abandono del campo crean las condiciones perfectas para que las llamas se propaguen a gran velocidad. Los servicios de emergencia trabajan sin descanso, mientras las autoridades piden a la población que siga las indicaciones y evite acercarse a las zonas afectadas.",
+        "vocab": [
+          {
+            "front": "el incendio forestal",
+            "pos": "noun",
+            "back": "forest fire, wildfire",
+            "example": "El incendio forestal obligó a cortar varias carreteras.",
+            "tier": "B1"
+          },
+          {
+            "front": "arrasar",
+            "pos": "verb",
+            "back": "to devastate, to raze",
+            "example": "Las llamas arrasaron miles de hectáreas de bosque.",
+            "tier": "B2"
+          },
+          {
+            "front": "la hectárea",
+            "pos": "noun",
+            "back": "hectare",
+            "example": "El fuego quemó más de mil hectáreas en un día.",
+            "tier": "B1"
+          },
+          {
+            "front": "evacuar",
+            "pos": "verb",
+            "back": "to evacuate",
+            "example": "Tuvieron que evacuar a los vecinos de tres pueblos.",
+            "tier": "B1"
+          },
+          {
+            "front": "devorar",
+            "pos": "verb",
+            "back": "to devour (also figurative for fire)",
+            "example": "El fuego devoró la ladera en pocas horas.",
+            "tier": "B2"
+          },
+          {
+            "front": "estar lejos de",
+            "pos": "phrase",
+            "back": "to be far from (doing something)",
+            "example": "El incendio está lejos de ser controlado.",
+            "tier": "B2"
+          },
+          {
+            "front": "propenso a",
+            "pos": "adj",
+            "back": "prone to",
+            "example": "La región es propensa a las sequías.",
+            "tier": "B2"
+          },
+          {
+            "front": "la ola de calor",
+            "pos": "noun",
+            "back": "heatwave",
+            "example": "La ola de calor durará toda la semana.",
+            "tier": "B1"
+          },
+          {
+            "front": "la sequía",
+            "pos": "noun",
+            "back": "drought",
+            "example": "La sequía ha dejado los embalses bajo mínimos.",
+            "tier": "B1"
+          },
+          {
+            "front": "propagarse",
+            "pos": "verb",
+            "back": "to spread",
+            "example": "El fuego se propagó con rapidez por el viento.",
+            "tier": "B2"
+          },
+          {
+            "front": "las indicaciones",
+            "pos": "noun",
+            "back": "instructions, guidance",
+            "example": "Sigan las indicaciones de los servicios de emergencia.",
+            "tier": "B1"
+          },
+          {
+            "front": "la zona afectada",
+            "pos": "noun",
+            "back": "affected area",
+            "example": "Nadie puede entrar en la zona afectada.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Las olas de calor, la sequía prolongada y el abandono del campo crean las condiciones perfectas para que las llamas se propaguen a gran velocidad.",
+            "point": "Para que + subjunctive",
+            "explanation": "Purpose or result clauses introduced by para que always take the subjunctive: se propaguen, not se propagan.",
+            "why_tricky": "The indicative feels natural to English speakers because the spreading is real, but the conjunction para que grammatically forces the subjunctive regardless."
+          },
+          {
+            "sentence": "A este se suma otro incendio cerca de Zaragoza, que comenzó el miércoles y está lejos de ser controlado tras devorar unas 16.000 hectáreas.",
+            "point": "Fronted pronoun with sumarse and tras + infinitive",
+            "explanation": "A este se suma inverts the usual order (otro incendio se suma a este) for emphasis, and tras + infinitive compresses after having devoured.",
+            "why_tricky": "The inversion hides the subject until after the verb, which can confuse the reader, and tras + infinitive has no direct English equivalent."
+          },
+          {
+            "sentence": "Los servicios de emergencia trabajan sin descanso, mientras las autoridades piden a la población que siga las indicaciones y evite acercarse a las zonas afectadas.",
+            "point": "Pedir que + subjunctive",
+            "explanation": "Requests with pedir trigger the subjunctive in the subordinate clause: que siga, que evite.",
+            "why_tricky": "English uses an infinitive (ask people to follow), so learners often produce pedir a la población seguir, which is ungrammatical here."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "sin descanso",
+            "meaning": "without rest, around the clock",
+            "example": "Los bomberos trabajaron sin descanso toda la noche."
+          },
+          {
+            "phrase": "bajo mínimos",
+            "meaning": "at rock bottom, critically low",
+            "example": "Los embalses están bajo mínimos tras meses sin lluvia."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Dónde se encuentran los dos incendios principales y cuándo comenzaron?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué condiciones favorecen, según el texto, la propagación de las llamas?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué piden las autoridades a la población?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Qué medidas debería tomar un país como España para adaptarse a veranos cada vez más extremos? Propón al menos tres y justifícalas."
+      }
+    },
     {
       "pack_id": "feed-2026-07-19-final-argentina-espana",
       "title": "Argentina y España, dos \"enemigos íntimos\" que disputan una final de Mundial inédita",
@@ -6052,470 +6527,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que la violencia debe tratarse como un problema de salud pública en tu país? Escribe un párrafo explicando tu opinión."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-12-tifon-bavi-evacuaciones",
-      "title": "Tifón Bavi: miles de personas son evacuadas en Taiwán y en China por peligro de olas de 10 metros",
-      "source": "RFI Español",
-      "date": "2026-07-11",
-      "level": "B1-B2",
-      "topics": [
-        "clima",
-        "asia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-12-tifon-bavi-evacuaciones",
-        "revision": 1,
-        "meta": {
-          "title": "Tifón Bavi: miles de personas son evacuadas en Taiwán y en China por peligro de olas de 10 metros",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/asia-pacifico/20260711-tif%C3%B3n-bavi-miles-de-personas-son-evacuadas-en-taiw%C3%A1n-y-un-mill%C3%B3n-en-china",
-          "date_published": "2026-07-11",
-          "date_processed": "2026-07-12",
-          "tags": [
-            "clima",
-            "asia"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Typhoon Bavi forced the evacuation of thousands of people on Saturday in Taiwan and in southeastern China. In Taiwan, more than 14,000 people had to leave their homes, while in China the authorities evacuated around 900,000, mainly in the Wenzhou region. Forecasters warned that waves could reach ten metres in height in coastal areas.\n\nTyphoons are frequent in this region during the summer, but scientists point out that warming oceans can make them more intense. The Chinese authorities usually organise mass evacuations and close ports and schools before these storms arrive. In the coming days the extent of the damage will become clear, along with when the evacuees will be able to return home.",
-        "resumen_es": "El tifón Bavi obligó a evacuar a miles de personas este sábado en Taiwán y en el sureste de China. En Taiwán, más de 14.000 personas tuvieron que abandonar sus hogares, mientras que en China las autoridades evacuaron a unas 900.000, principalmente en la región de Wenzhou. Los meteorólogos advirtieron de que las olas podrían alcanzar los diez metros de altura en las zonas costeras.\n\nLos tifones son frecuentes en esta región durante el verano, pero los científicos señalan que el calentamiento de los océanos puede hacerlos más intensos. Las autoridades chinas suelen organizar evacuaciones masivas y cierres de puertos y escuelas antes de la llegada de estas tormentas. En los próximos días se conocerá el alcance de los daños y cuándo podrán regresar a casa los evacuados.",
-        "vocab": [
-          {
-            "front": "tifón",
-            "pos": "noun",
-            "back": "typhoon",
-            "example": "El tifón tocó tierra por la noche.",
-            "tier": "B1"
-          },
-          {
-            "front": "obligar a",
-            "pos": "verb",
-            "back": "to force to",
-            "example": "La tormenta obligó a cerrar el aeropuerto.",
-            "tier": "B1"
-          },
-          {
-            "front": "abandonar el hogar",
-            "pos": "phrase",
-            "back": "to leave one's home",
-            "example": "Miles de familias tuvieron que abandonar sus hogares.",
-            "tier": "B1"
-          },
-          {
-            "front": "ola",
-            "pos": "noun",
-            "back": "wave",
-            "example": "Las olas alcanzaron los seis metros.",
-            "tier": "B1"
-          },
-          {
-            "front": "alcanzar",
-            "pos": "verb",
-            "back": "to reach",
-            "example": "La temperatura puede alcanzar los 40 grados.",
-            "tier": "B1"
-          },
-          {
-            "front": "zona costera",
-            "pos": "phrase",
-            "back": "coastal area",
-            "example": "Las zonas costeras son las más afectadas.",
-            "tier": "B1"
-          },
-          {
-            "front": "señalar",
-            "pos": "verb",
-            "back": "to point out",
-            "example": "Los científicos señalan que el riesgo aumenta.",
-            "tier": "B2"
-          },
-          {
-            "front": "calentamiento",
-            "pos": "noun",
-            "back": "warming",
-            "example": "El calentamiento de los océanos preocupa a los expertos.",
-            "tier": "B2"
-          },
-          {
-            "front": "soler + infinitivo",
-            "pos": "verb",
-            "back": "to usually do something",
-            "example": "Las autoridades suelen cerrar los puertos antes del tifón.",
-            "tier": "B1"
-          },
-          {
-            "front": "alcance",
-            "pos": "noun",
-            "back": "extent, scope",
-            "example": "Todavía no se conoce el alcance de los daños.",
-            "tier": "B2"
-          },
-          {
-            "front": "daños",
-            "pos": "noun",
-            "back": "damage",
-            "example": "El temporal causó daños en cientos de casas.",
-            "tier": "B1"
-          },
-          {
-            "front": "evacuado",
-            "pos": "noun",
-            "back": "evacuee",
-            "example": "Los evacuados pasaron la noche en refugios.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Los meteorólogos advirtieron de que las olas podrían alcanzar los diez metros de altura en las zonas costeras.",
-            "point": "advertir de que + conditional",
-            "explanation": "Advertir de que introduces reported warnings; the conditional podrían expresses a future possibility seen from the past.",
-            "why_tricky": "The de que combination looks like dequeísmo but is correct with advertir de; the conditional as future-in-the-past differs from English might."
-          },
-          {
-            "sentence": "Las autoridades chinas suelen organizar evacuaciones masivas y cierres de puertos y escuelas antes de la llegada de estas tormentas.",
-            "point": "soler + infinitive",
-            "explanation": "Soler expresses habitual actions, like usually in English. It is followed directly by an infinitive.",
-            "why_tricky": "There is no direct English equivalent verb, so learners tend to forget soler exists and overuse normalmente."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "tocar tierra",
-            "meaning": "to make landfall (storm)",
-            "example": "El huracán tocó tierra cerca de la costa este."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Cuántas personas fueron evacuadas en China y en qué región principalmente?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué relación establecen los científicos entre los océanos y los tifones?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué medidas suelen tomar las autoridades chinas antes de estas tormentas?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Está tu país preparado para fenómenos meteorológicos extremos? Escribe un párrafo con tu opinión y ejemplos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-12-movimiento-fire-jubilacion",
-      "title": "\"Llevamos el almuerzo al trabajo durante 10 años y pudimos jubilarnos a los 35 y 40 años\"",
-      "source": "BBC Mundo",
-      "date": "2026-07-10",
-      "level": "B1-B2",
-      "topics": [
-        "economía",
-        "estilo de vida"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-12-movimiento-fire-jubilacion",
-        "revision": 1,
-        "meta": {
-          "title": "\"Llevamos el almuerzo al trabajo durante 10 años y pudimos jubilarnos a los 35 y 40 años\"",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c8x29z2n5xvo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-10",
-          "date_processed": "2026-07-12",
-          "tags": [
-            "economía",
-            "estilo de vida"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "A couple who took their own lunch to work for ten years and saved aggressively managed to retire at 35 and 40. Their story illustrates the FIRE movement, an English acronym for financial independence, retire early, which encourages its followers to save as much of their income as possible in order to stop working long before the usual age.\n\nThe movement was born in the United States and has spread across the internet, with forums and blogs where people share their saving and investment strategies. Critics point out that it requires high salaries and a great deal of discipline, and that it is not within everyone's reach. Even so, its advocates argue that even partial saving offers more freedom to choose how to live and work.",
-        "resumen_es": "Una pareja que llevó su propio almuerzo al trabajo durante diez años y ahorró de forma agresiva logró jubilarse a los 35 y 40 años. Su historia ilustra el movimiento FIRE, siglas en inglés de independencia financiera y jubilación anticipada, que anima a sus seguidores a ahorrar la mayor parte posible de sus ingresos para dejar de trabajar mucho antes de la edad habitual.\n\nEl movimiento nació en Estados Unidos y se ha extendido por internet, con foros y blogs donde la gente comparte sus estrategias de ahorro e inversión. Los críticos señalan que exige sueldos altos y mucha disciplina, y que no está al alcance de todos. Aun así, sus defensores afirman que incluso un ahorro parcial ofrece más libertad para elegir cómo vivir y trabajar.",
-        "vocab": [
-          {
-            "front": "jubilarse",
-            "pos": "verb",
-            "back": "to retire",
-            "example": "Mi padre se jubiló a los sesenta y cinco años.",
-            "tier": "B1"
-          },
-          {
-            "front": "ahorrar",
-            "pos": "verb",
-            "back": "to save (money)",
-            "example": "Intentamos ahorrar un poco cada mes.",
-            "tier": "B1"
-          },
-          {
-            "front": "ingresos",
-            "pos": "noun",
-            "back": "income",
-            "example": "Sus ingresos mensuales no son muy altos.",
-            "tier": "B1"
-          },
-          {
-            "front": "jubilación anticipada",
-            "pos": "phrase",
-            "back": "early retirement",
-            "example": "Pidió la jubilación anticipada a los cincuenta y ocho.",
-            "tier": "B2"
-          },
-          {
-            "front": "siglas",
-            "pos": "noun",
-            "back": "acronym, initials",
-            "example": "ONU son las siglas de la organización.",
-            "tier": "B2"
-          },
-          {
-            "front": "animar a",
-            "pos": "verb",
-            "back": "to encourage to",
-            "example": "El profesor anima a los alumnos a leer más.",
-            "tier": "B1"
-          },
-          {
-            "front": "extenderse",
-            "pos": "verb",
-            "back": "to spread",
-            "example": "La moda se extendió rápidamente por Europa.",
-            "tier": "B2"
-          },
-          {
-            "front": "sueldo",
-            "pos": "noun",
-            "back": "salary",
-            "example": "Con ese sueldo es difícil ahorrar.",
-            "tier": "B1"
-          },
-          {
-            "front": "estar al alcance de",
-            "pos": "phrase",
-            "back": "to be within reach of",
-            "example": "Ese estilo de vida no está al alcance de todos.",
-            "tier": "B2"
-          },
-          {
-            "front": "aun así",
-            "pos": "phrase",
-            "back": "even so",
-            "example": "Es caro; aun así, mucha gente lo compra.",
-            "tier": "B2"
-          },
-          {
-            "front": "defensor",
-            "pos": "noun",
-            "back": "advocate, supporter",
-            "example": "Los defensores del plan destacan sus ventajas.",
-            "tier": "B2"
-          },
-          {
-            "front": "inversión",
-            "pos": "noun",
-            "back": "investment",
-            "example": "La inversión en bolsa tiene riesgos.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "que anima a sus seguidores a ahorrar la mayor parte posible de sus ingresos",
-            "point": "animar a alguien a + infinitive",
-            "explanation": "Verbs of encouragement like animar require a before the person and a second a before the infinitive.",
-            "why_tricky": "The double a construction has no parallel in English, so learners often drop one of the prepositions."
-          },
-          {
-            "sentence": "Los críticos señalan que exige sueldos altos y mucha disciplina, y que no está al alcance de todos.",
-            "point": "reported speech with señalar que",
-            "explanation": "Señalar que introduces an indirect statement in the indicative, since the critics present it as fact.",
-            "why_tricky": "Learners sometimes reach for the subjunctive after any verb of speech, but statements of fact keep the indicative."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "apretarse el cinturón",
-            "meaning": "to tighten one's belt, spend less",
-            "example": "Este año hay que apretarse el cinturón para llegar a fin de mes."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué hizo la pareja durante diez años para poder jubilarse tan pronto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué significa el movimiento FIRE y qué propone?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué críticas recibe este estilo de vida?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Te gustaría jubilarte a los 40 años si tuvieras que ahorrar de forma tan estricta? Escribe un párrafo justificando tu respuesta."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-11-incendio-almeria",
-      "title": "Al menos 12 muertos y 23 desaparecidos en el incendio más letal de las últimas décadas en España en medio de la ola de calor",
-      "source": "BBC Mundo",
-      "date": "2026-07-11",
-      "level": "B1-B2",
-      "topics": [
-        "clima",
-        "España"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-11-incendio-almeria",
-        "revision": 1,
-        "meta": {
-          "title": "Al menos 12 muertos y 23 desaparecidos en el incendio más letal de las últimas décadas en España en medio de la ola de calor",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c15y8edd483o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-11",
-          "date_processed": "2026-07-11",
-          "tags": [
-            "clima",
-            "España"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "A forest fire around Los Gallardos, in the province of Almeria in southern Spain, has left at least 12 dead and 23 missing, according to the authorities. It is the most lethal fire recorded in the country in recent decades. Several fire brigades are working tirelessly to contain the flames, while hundreds of residents have been evacuated from their homes as a precaution.\n\nThe tragedy comes in the middle of a heat wave, with extreme temperatures that favour the spread of the fire and complicate the extinguishing work. Experts warn that climate change is making fires ever more frequent and intense in the Mediterranean. The authorities are asking people to follow the instructions of the emergency services and avoid approaching the affected area.",
-        "resumen_es": "Un incendio forestal en los alrededores de Los Gallardos, en la provincia de Almería, en el sur de España, ha dejado al menos 12 muertos y 23 desaparecidos, según las autoridades. Se trata del fuego más letal registrado en el país en las últimas décadas. Varias brigadas de bomberos trabajan sin descanso para contener las llamas, mientras cientos de residentes han sido evacuados de sus hogares por precaución.\n\nLa tragedia se produce en plena ola de calor, con temperaturas extremas que favorecen la propagación del fuego y complican las labores de extinción. Los expertos advierten de que el cambio climático está haciendo que los incendios sean cada vez más frecuentes e intensos en el Mediterráneo. Las autoridades piden a la población que siga las indicaciones de los servicios de emergencia y evite acercarse a la zona afectada.",
-        "vocab": [
-          {
-            "front": "el incendio forestal",
-            "pos": "noun",
-            "back": "forest fire, wildfire",
-            "example": "El incendio forestal arrasó miles de hectáreas.",
-            "tier": "B1"
-          },
-          {
-            "front": "los desaparecidos",
-            "pos": "noun",
-            "back": "the missing (people)",
-            "example": "Los equipos de rescate buscan a los desaparecidos.",
-            "tier": "B1"
-          },
-          {
-            "front": "la brigada de bomberos",
-            "pos": "noun",
-            "back": "fire brigade",
-            "example": "La brigada de bomberos llegó en pocos minutos.",
-            "tier": "B2"
-          },
-          {
-            "front": "contener las llamas",
-            "pos": "phrase",
-            "back": "to contain the flames",
-            "example": "Los bomberos lograron contener las llamas al amanecer.",
-            "tier": "B2"
-          },
-          {
-            "front": "evacuar",
-            "pos": "verb",
-            "back": "to evacuate",
-            "example": "Las autoridades decidieron evacuar el pueblo entero.",
-            "tier": "B1"
-          },
-          {
-            "front": "la ola de calor",
-            "pos": "noun",
-            "back": "heat wave",
-            "example": "La ola de calor durará toda la semana.",
-            "tier": "B1"
-          },
-          {
-            "front": "la propagación",
-            "pos": "noun",
-            "back": "spread, propagation",
-            "example": "El viento aceleró la propagación del fuego.",
-            "tier": "B2"
-          },
-          {
-            "front": "las labores de extinción",
-            "pos": "phrase",
-            "back": "firefighting / extinguishing work",
-            "example": "Las labores de extinción continuaron durante la noche.",
-            "tier": "C1"
-          },
-          {
-            "front": "advertir de",
-            "pos": "verb",
-            "back": "to warn of",
-            "example": "Los científicos advierten de los riesgos del calor extremo.",
-            "tier": "B2"
-          },
-          {
-            "front": "acercarse a",
-            "pos": "verb",
-            "back": "to approach, get close to",
-            "example": "No conviene acercarse a la zona del incendio.",
-            "tier": "B1"
-          },
-          {
-            "front": "por precaución",
-            "pos": "phrase",
-            "back": "as a precaution",
-            "example": "Cerraron la carretera por precaución.",
-            "tier": "B2"
-          },
-          {
-            "front": "las indicaciones",
-            "pos": "noun",
-            "back": "instructions, guidance",
-            "example": "Sigue las indicaciones de los servicios de emergencia.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Se trata del fuego más letal registrado en el país en las últimas décadas.",
-            "point": "impersonal 'se trata de'",
-            "explanation": "'Se trata de' means 'it is / it is a question of' and is always impersonal: never say 'se trata el fuego'. It is followed by 'de' plus a noun.",
-            "why_tricky": "English speakers want a subject ('it') and often drop the 'de'. The verb stays third person singular no matter what follows."
-          },
-          {
-            "sentence": "Los expertos advierten de que el cambio climático está haciendo que los incendios sean cada vez más frecuentes e intensos en el Mediterráneo.",
-            "point": "hacer que + subjunctive",
-            "explanation": "'Hacer que' (to cause something to happen) triggers the subjunctive in the following clause: 'está haciendo que los incendios sean...'.",
-            "why_tricky": "Two tricky things at once: 'advertir de que' keeps the 'de' before 'que', and the causing construction forces 'sean', not 'son'."
-          },
-          {
-            "sentence": "Las autoridades piden a la población que siga las indicaciones de los servicios de emergencia y evite acercarse a la zona afectada.",
-            "point": "pedir que + subjunctive",
-            "explanation": "Requests with 'pedir que' take the subjunctive: 'que siga... y evite...'. Both verbs in the chain stay in the subjunctive.",
-            "why_tricky": "The second verb 'evite' also needs the subjunctive even though 'que' is not repeated, which learners often miss."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "sin descanso",
-            "meaning": "without rest, tirelessly",
-            "example": "Los voluntarios trabajaron sin descanso durante tres días."
-          },
-          {
-            "phrase": "en plena ola de calor",
-            "meaning": "at the height of the heat wave; 'en pleno/a' means right in the middle of something",
-            "example": "La avería ocurrió en pleno mes de agosto."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Dónde se ha producido el incendio y cuáles son sus consecuencias humanas?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué relación establecen los expertos entre el cambio climático y este tipo de incendios?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué piden las autoridades a la población?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que los países mediterráneos están preparados para veranos cada vez más extremos? Escribe unas 100 palabras proponiendo medidas concretas."
       }
     }
   ]
