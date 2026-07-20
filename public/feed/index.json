@@ -1,7 +1,470 @@
 {
- "generated_at": "2026-07-20T08:12:35.716547+00:00",
+ "generated_at": "2026-07-20T20:11:13.815189+00:00",
  "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-07-20-mayo-zambada-perpetua",
+   "title": "Condenan a cadena perpetua a \"El Mayo\" Zambada, exlíder del cartel de Sinaloa",
+   "source": "BBC Mundo",
+   "date": "2026-07-20",
+   "level": "B1-B2",
+   "topics": [
+    "justicia",
+    "narcotráfico"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-20-mayo-zambada-perpetua",
+    "revision": 1,
+    "meta": {
+     "title": "Condenan a cadena perpetua a \"El Mayo\" Zambada, exlíder del cartel de Sinaloa",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/c204gvxy6jvo?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-07-20",
+     "date_processed": "2026-07-20",
+     "tags": [
+      "justicia",
+      "narcotráfico"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "A federal court in Brooklyn sentenced Ismael 'El Mayo' Zambada, co-founder of the Sinaloa cartel, to life in prison on Monday. The historic Mexican drug trafficker, who had pleaded guilty before the US authorities, will spend the rest of his life behind bars. In addition, he must pay a fine of 15 billion dollars to repair the damage caused by decades of drug trafficking.\n\nThe sentence closes a whole chapter in the history of drug trafficking in Mexico. Zambada led one of the most powerful criminal organizations in the world for decades, and many analysts believe that his fall marks a change of era in organized crime. It remains to be seen how the cartel will reorganize itself and whether the sentence will have a real effect on the flow of drugs into the United States.",
+    "resumen_es": "Un tribunal federal de Brooklyn condenó este lunes a cadena perpetua a Ismael 'El Mayo' Zambada, cofundador del cartel de Sinaloa. El histórico narcotraficante mexicano, que se había declarado culpable ante las autoridades estadounidenses, pasará el resto de su vida tras las rejas. Además, deberá pagar una multa de 15.000 millones de dólares para reparar los daños causados por décadas de tráfico de drogas.\n\nLa sentencia cierra todo un capítulo en la historia del narcotráfico en México. Zambada dirigió durante décadas una de las organizaciones criminales más poderosas del mundo, y muchos analistas consideran que su caída marca un cambio de era en el crimen organizado. Queda por ver cómo se reorganizará el cartel y si la condena tendrá un efecto real sobre el flujo de drogas hacia Estados Unidos.",
+    "vocab": [
+     {
+      "front": "la cadena perpetua",
+      "pos": "phrase",
+      "back": "life sentence",
+      "example": "El tribunal lo condenó a cadena perpetua.",
+      "tier": "B1"
+     },
+     {
+      "front": "declararse culpable",
+      "pos": "verb",
+      "back": "to plead guilty",
+      "example": "El acusado decidió declararse culpable.",
+      "tier": "B2"
+     },
+     {
+      "front": "tras las rejas",
+      "pos": "phrase",
+      "back": "behind bars",
+      "example": "Pasará muchos años tras las rejas.",
+      "tier": "B2"
+     },
+     {
+      "front": "la multa",
+      "pos": "noun",
+      "back": "fine (penalty)",
+      "example": "Recibió una multa por aparcar mal.",
+      "tier": "B1"
+     },
+     {
+      "front": "reparar los daños",
+      "pos": "phrase",
+      "back": "to repair the damage",
+      "example": "La empresa prometió reparar los daños.",
+      "tier": "B1"
+     },
+     {
+      "front": "el narcotráfico",
+      "pos": "noun",
+      "back": "drug trafficking",
+      "example": "El narcotráfico es un problema grave en la región.",
+      "tier": "B1"
+     },
+     {
+      "front": "dirigir",
+      "pos": "verb",
+      "back": "to lead, to run",
+      "example": "Dirigió la organización durante décadas.",
+      "tier": "B1"
+     },
+     {
+      "front": "la caída",
+      "pos": "noun",
+      "back": "fall, downfall",
+      "example": "La caída del líder sorprendió a todos.",
+      "tier": "B1"
+     },
+     {
+      "front": "un cambio de era",
+      "pos": "phrase",
+      "back": "a change of era",
+      "example": "Su retirada supone un cambio de era en el deporte.",
+      "tier": "B2"
+     },
+     {
+      "front": "quedar por ver",
+      "pos": "phrase",
+      "back": "to remain to be seen",
+      "example": "Queda por ver si el plan funciona.",
+      "tier": "B2"
+     },
+     {
+      "front": "la condena",
+      "pos": "noun",
+      "back": "sentence, conviction",
+      "example": "La condena fue más dura de lo esperado.",
+      "tier": "B1"
+     },
+     {
+      "front": "el flujo",
+      "pos": "noun",
+      "back": "flow",
+      "example": "El flujo de mercancías no se detuvo.",
+      "tier": "B2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "El histórico narcotraficante mexicano, que se había declarado culpable ante las autoridades estadounidenses, pasará el resto de su vida tras las rejas.",
+      "point": "Pluscuamperfecto inside a relative clause, combined with future",
+      "explanation": "The relative clause 'que se había declarado culpable' uses the pluscuamperfecto (había + participle) to show an action completed before the main events, while the main verb 'pasará' is in the future.",
+      "why_tricky": "One sentence mixes three time layers: a past-before-the-past, the present of the report, and the future consequence. English does the same with 'had pleaded' and 'will spend', but learners often flatten everything into one past tense."
+     },
+     {
+      "sentence": "Queda por ver cómo se reorganizará el cartel y si la condena tendrá un efecto real sobre el flujo de drogas hacia Estados Unidos.",
+      "point": "Quedar por + infinitive and indirect questions",
+      "explanation": "'Queda por ver' means 'it remains to be seen'. It introduces two indirect questions, one with 'cómo' and one with 'si', both keeping the future tense inside them.",
+      "why_tricky": "Unlike English, Spanish keeps the future tense inside the indirect question ('cómo se reorganizará'), and 'quedar por + infinitive' has no word-for-word English equivalent."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "cerrar un capítulo",
+      "meaning": "to close a chapter, to end a period",
+      "example": "Con la venta de la casa cerramos un capítulo de nuestra vida."
+     },
+     {
+      "phrase": "tras las rejas",
+      "meaning": "behind bars, in prison",
+      "example": "Los responsables del fraude acabaron tras las rejas."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Qué castigo recibió El Mayo Zambada y qué tribunal lo decidió?",
+      "type": "open"
+     },
+     {
+      "q": "Además de la prisión, ¿qué otra sanción deberá cumplir y con qué objetivo?",
+      "type": "open"
+     },
+     {
+      "q": "Según el texto, ¿qué preguntas quedan abiertas después de esta condena?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Crees que condenar a los grandes líderes del narcotráfico reduce realmente el tráfico de drogas, o el problema es más profundo? Escribe unas líneas con tu opinión."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-20-ue-multa-aliexpress",
+   "title": "La Unión Europea multa a AliExpress por vender productos ilegales y falsificados",
+   "source": "RFI",
+   "date": "2026-07-20",
+   "level": "B1-B2",
+   "topics": [
+    "economía",
+    "consumo"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-20-ue-multa-aliexpress",
+    "revision": 1,
+    "meta": {
+     "title": "La Unión Europea multa a AliExpress por vender productos ilegales y falsificados",
+     "source": "RFI",
+     "url": "https://www.rfi.fr/es/europa/20260720-la-uni%C3%B3n-europea-multa-a-aliexpress-por-vender-productos-ilegales-y-falsificados",
+     "date_published": "2026-07-20",
+     "date_processed": "2026-07-20",
+     "tags": [
+      "economía",
+      "consumo"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "The European Union imposed a fine of 550 million euros on AliExpress for selling illegal and counterfeit products. According to Brussels, the Chinese company put consumers at risk by allowing the sale of items that are not safe to use or consume, despite the commitments it had previously made.\n\nThe company described the sanction as disproportionate and announced that it will consider all the options within its reach. It must also present an action plan before 20 October to correct the shortcomings in its controls. The case reflects the EU's growing pressure on large e-commerce platforms, which face increasingly strict rules designed to protect European consumers.",
+    "resumen_es": "La Unión Europea impuso una multa de 550 millones de euros a AliExpress por vender productos ilegales y falsificados. Según Bruselas, la compañía china puso en peligro a los consumidores al permitir la venta de artículos que no son seguros para el uso o el consumo, a pesar de los compromisos que había adquirido anteriormente.\n\nLa empresa calificó la sanción de desproporcionada y anunció que valorará todas las opciones a su alcance. Además, deberá presentar un plan de acción antes del 20 de octubre para corregir las carencias en sus controles. El caso refleja la presión creciente de la UE sobre las grandes plataformas de comercio electrónico, que se enfrentan a normas cada vez más estrictas para proteger a los consumidores europeos.",
+    "vocab": [
+     {
+      "front": "imponer una multa",
+      "pos": "phrase",
+      "back": "to impose a fine",
+      "example": "Las autoridades impusieron una multa a la empresa.",
+      "tier": "B2"
+     },
+     {
+      "front": "falsificado",
+      "pos": "adj",
+      "back": "counterfeit, fake",
+      "example": "Vendían bolsos falsificados en el mercado.",
+      "tier": "B2"
+     },
+     {
+      "front": "poner en peligro",
+      "pos": "phrase",
+      "back": "to endanger, to put at risk",
+      "example": "Esa decisión puso en peligro a los trabajadores.",
+      "tier": "B1"
+     },
+     {
+      "front": "el consumidor",
+      "pos": "noun",
+      "back": "consumer",
+      "example": "Los consumidores tienen derecho a reclamar.",
+      "tier": "B1"
+     },
+     {
+      "front": "el compromiso",
+      "pos": "noun",
+      "back": "commitment",
+      "example": "La empresa no cumplió sus compromisos.",
+      "tier": "B1"
+     },
+     {
+      "front": "adquirir",
+      "pos": "verb",
+      "back": "to acquire, to take on",
+      "example": "Adquirió la responsabilidad de dirigir el proyecto.",
+      "tier": "B2"
+     },
+     {
+      "front": "calificar de",
+      "pos": "verb",
+      "back": "to describe as, to label",
+      "example": "El ministro calificó la medida de necesaria.",
+      "tier": "B2"
+     },
+     {
+      "front": "desproporcionado",
+      "pos": "adj",
+      "back": "disproportionate",
+      "example": "La reacción fue totalmente desproporcionada.",
+      "tier": "B2"
+     },
+     {
+      "front": "valorar",
+      "pos": "verb",
+      "back": "to assess, to consider",
+      "example": "El gobierno valorará todas las propuestas.",
+      "tier": "B1"
+     },
+     {
+      "front": "la carencia",
+      "pos": "noun",
+      "back": "shortcoming, lack",
+      "example": "El informe señala carencias en la seguridad.",
+      "tier": "C1"
+     },
+     {
+      "front": "enfrentarse a",
+      "pos": "verb",
+      "back": "to face, to confront",
+      "example": "La empresa se enfrenta a una investigación.",
+      "tier": "B1"
+     },
+     {
+      "front": "a su alcance",
+      "pos": "phrase",
+      "back": "within its reach, available to it",
+      "example": "Usó todos los recursos a su alcance.",
+      "tier": "B2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Según Bruselas, la compañía china puso en peligro a los consumidores al permitir la venta de artículos que no son seguros para el uso o el consumo, a pesar de los compromisos que había adquirido anteriormente.",
+      "point": "Al + infinitive to express cause or simultaneity",
+      "explanation": "'Al permitir' means 'by allowing' or 'when it allowed'. The structure al + infinitive compresses a whole causal clause into two words.",
+      "why_tricky": "English needs 'by + -ing' or a full clause, so learners often miss that 'al + infinitive' can carry causal meaning, not just temporal."
+     },
+     {
+      "sentence": "La empresa calificó la sanción de desproporcionada y anunció que valorará todas las opciones a su alcance.",
+      "point": "Calificar de + adjective and reported speech with future",
+      "explanation": "'Calificar algo de + adjective' means 'to describe something as'. In the reported clause, Spanish keeps the future 'valorará' because the announcement still refers to a future action.",
+      "why_tricky": "The preposition 'de' before the adjective feels unnatural to English speakers ('described the sanction OF disproportionate'), and choosing between future and conditional in reported speech trips up many learners."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "poner en peligro",
+      "meaning": "to put at risk",
+      "example": "No quiero poner en peligro nuestra amistad."
+     },
+     {
+      "phrase": "a su alcance",
+      "meaning": "within reach, available",
+      "example": "Hizo todo lo que estaba a su alcance para ayudar."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Por qué motivo multó la Unión Europea a AliExpress y de cuánto es la multa?",
+      "type": "open"
+     },
+     {
+      "q": "¿Cómo reaccionó la empresa ante la sanción?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué deberá presentar AliExpress antes del 20 de octubre y para qué?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Compras en plataformas de comercio electrónico como AliExpress? ¿Te parece que las autoridades deben controlarlas más? Escribe unas líneas explicando tu punto de vista."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-20-carceles-bukele",
+   "title": "Denuncian cientos de muertes y miles de arrestos arbitrarios en las cárceles de Bukele",
+   "source": "RFI",
+   "date": "2026-07-20",
+   "level": "B1-B2",
+   "topics": [
+    "derechos humanos",
+    "El Salvador"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-20-carceles-bukele",
+    "revision": 1,
+    "meta": {
+     "title": "Denuncian cientos de muertes y miles de arrestos arbitrarios en las cárceles de Bukele",
+     "source": "RFI",
+     "url": "https://www.rfi.fr/es/programas/noticias-de-am%C3%A9rica/20260720-denuncian-cientos-de-muertes-y-miles-de-arrestos-arbitrarios-en-las-c%C3%A1rceles-de-bukele",
+     "date_published": "2026-07-20",
+     "date_processed": "2026-07-20",
+     "tags": [
+      "derechos humanos",
+      "El Salvador"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "Amnesty International reports that at least 470 people deprived of their liberty died in state custody in El Salvador between the start of the state of emergency, in March 2022, and December 2025. Most of the victims had no conviction. According to the organization, more than 90,000 citizens were arrested arbitrarily and stripped of their right to a defense.\n\nThe report revives the debate about the security policy of President Nayib Bukele, who enjoys great popularity because of the fall in violence, but who receives harsh criticism from human rights bodies. Relatives of the detainees demand information and justice, while international organizations call for independent investigations into the deaths that occurred in the country's prisons.",
+    "resumen_es": "Amnistía Internacional denuncia que al menos 470 personas privadas de libertad murieron bajo custodia del Estado en El Salvador desde el inicio del régimen de excepción, en marzo de 2022, hasta diciembre de 2025. La mayoría de las víctimas no tenía condena. Según la organización, más de 90.000 ciudadanos fueron arrestados de manera arbitraria y despojados del derecho a la defensa.\n\nEl informe reaviva el debate sobre la política de seguridad del presidente Nayib Bukele, que goza de gran popularidad por la caída de la violencia, pero que recibe duras críticas de los organismos de derechos humanos. Familiares de los detenidos reclaman información y justicia, mientras las organizaciones internacionales piden investigaciones independientes sobre las muertes ocurridas en las cárceles del país.",
+    "vocab": [
+     {
+      "front": "privado de libertad",
+      "pos": "phrase",
+      "back": "deprived of liberty, imprisoned",
+      "example": "Las personas privadas de libertad conservan sus derechos.",
+      "tier": "B2"
+     },
+     {
+      "front": "bajo custodia",
+      "pos": "phrase",
+      "back": "in custody",
+      "example": "El sospechoso permanece bajo custodia policial.",
+      "tier": "B2"
+     },
+     {
+      "front": "el régimen de excepción",
+      "pos": "phrase",
+      "back": "state of emergency (legal regime)",
+      "example": "El régimen de excepción limita algunos derechos.",
+      "tier": "B2"
+     },
+     {
+      "front": "despojar",
+      "pos": "verb",
+      "back": "to strip (someone of something)",
+      "example": "Fueron despojados de sus bienes.",
+      "tier": "C1"
+     },
+     {
+      "front": "arbitrario",
+      "pos": "adj",
+      "back": "arbitrary",
+      "example": "La detención fue completamente arbitraria.",
+      "tier": "B2"
+     },
+     {
+      "front": "reavivar",
+      "pos": "verb",
+      "back": "to revive, to rekindle",
+      "example": "El caso reavivó el debate sobre la justicia.",
+      "tier": "C1"
+     },
+     {
+      "front": "gozar de",
+      "pos": "verb",
+      "back": "to enjoy (popularity, health)",
+      "example": "El alcalde goza de buena reputación.",
+      "tier": "B2"
+     },
+     {
+      "front": "duras críticas",
+      "pos": "phrase",
+      "back": "harsh criticism",
+      "example": "La ley recibió duras críticas de la oposición.",
+      "tier": "B1"
+     },
+     {
+      "front": "el organismo",
+      "pos": "noun",
+      "back": "body, organization",
+      "example": "Varios organismos internacionales firmaron el documento.",
+      "tier": "B2"
+     },
+     {
+      "front": "reclamar",
+      "pos": "verb",
+      "back": "to demand, to claim",
+      "example": "Los vecinos reclaman más seguridad.",
+      "tier": "B1"
+     },
+     {
+      "front": "el detenido",
+      "pos": "noun",
+      "back": "detainee",
+      "example": "Los detenidos esperan juicio desde hace meses.",
+      "tier": "B1"
+     },
+     {
+      "front": "la cárcel",
+      "pos": "noun",
+      "back": "prison, jail",
+      "example": "Pasó dos años en la cárcel.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "La mayoría de las víctimas no tenía condena.",
+      "point": "Singular verb agreement with collective 'la mayoría'",
+      "explanation": "'La mayoría' is grammatically singular, so the verb 'tenía' is singular even though it refers to many people. Plural agreement ('tenían') is also heard, but singular is the classic norm.",
+      "why_tricky": "English says 'most of the victims HAD', always plural, so the singular 'tenía' looks like an error to learners when it is actually standard."
+     },
+     {
+      "sentence": "Según la organización, más de 90.000 ciudadanos fueron arrestados de manera arbitraria y despojados del derecho a la defensa.",
+      "point": "Passive voice with ser + coordinated participles",
+      "explanation": "'Fueron arrestados y despojados' coordinates two past participles under one auxiliary 'fueron'. Both participles agree in gender and number with 'ciudadanos'.",
+      "why_tricky": "Learners tend to repeat the auxiliary ('fueron arrestados y fueron despojados') or forget the agreement on the second participle."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "gozar de popularidad",
+      "meaning": "to enjoy popularity",
+      "example": "La cantante goza de gran popularidad entre los jóvenes."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Qué cifras principales presenta Amnistía Internacional en su informe?",
+      "type": "open"
+     },
+     {
+      "q": "¿Por qué es popular el presidente Bukele y quiénes lo critican?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué piden los familiares de los detenidos y las organizaciones internacionales?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Puede justificarse limitar derechos básicos para reducir la violencia, como en El Salvador? Escribe unas líneas defendiendo tu posición con argumentos."
+   }
+  },
   {
    "pack_id": "feed-2026-07-20-otero-alcantara-exilio",
    "title": "Cuba: El artista Luis Manuel Otero Alcántara, figura de la disidencia cubana, se exilia en EEUU",
@@ -6067,487 +6530,6 @@
      }
     ],
     "opinion_prompt": "¿Crees que la muerte de un senador influyente puede cambiar el rumbo de la política de un país? Explica tu opinión con ejemplos."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-14-occidentales-rusia",
-   "title": "Las personas que se mudan de Occidente a Rusia en busca de valores tradicionales (y la realidad que encuentran)",
-   "source": "BBC Mundo",
-   "date": "2026-07-13",
-   "level": "B1-B2",
-   "topics": [
-    "sociedad",
-    "migración"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-14-occidentales-rusia",
-    "revision": 1,
-    "meta": {
-     "title": "Las personas que se mudan de Occidente a Rusia en busca de valores tradicionales (y la realidad que encuentran)",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/cwykjylv1xdo?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-07-13",
-     "date_processed": "2026-07-14",
-     "tags": [
-      "sociedad",
-      "migración"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "A growing number of people from Western countries have decided to move to Russia, drawn by what they consider \"traditional values\": large families, defined gender roles, and a rejection of what they call the excessive individualism of their home countries. The BBC spoke with several of them to learn about their motives and their experience once settled in the country.\n\nMany admit that real life doesn't always match the idealized image they had before moving. They face barriers such as language, bureaucracy, and international sanctions that complicate everyday tasks like opening a bank account. Even so, several say they don't regret the decision and value finding a community that shares their worldview, although they admit the adjustment has been harder than expected.",
-    "resumen_es": "Un número creciente de personas de países occidentales ha decidido mudarse a Rusia atraídas por lo que consideran \"valores tradicionales\": familias numerosas, papeles de género definidos y un rechazo a lo que llaman el exceso de individualismo de sus países de origen. La BBC entrevistó a varios de ellos para conocer sus motivos y su experiencia una vez instalados en el país.\n\nMuchos reconocen que la vida real no siempre coincide con la imagen idealizada que tenían antes de mudarse. Se enfrentan a barreras como el idioma, la burocracia y las sanciones internacionales que complican trámites cotidianos como abrir una cuenta bancaria. Aun así, varios aseguran que no se arrepienten de la decisión y que valoran encontrar una comunidad que comparte su visión del mundo, aunque admiten que la adaptación ha sido más difícil de lo esperado.",
-    "vocab": [
-     {
-      "front": "mudarse",
-      "pos": "verb",
-      "back": "to move, relocate",
-      "example": "Decidieron mudarse a otro país.",
-      "tier": "B1"
-     },
-     {
-      "front": "valores tradicionales",
-      "pos": "phrase",
-      "back": "traditional values",
-      "example": "Buscan un lugar que respete los valores tradicionales.",
-      "tier": "B2"
-     },
-     {
-      "front": "papel de género",
-      "pos": "phrase",
-      "back": "gender role",
-      "example": "El papel de género ha cambiado mucho en el siglo XXI.",
-      "tier": "B2"
-     },
-     {
-      "front": "individualismo",
-      "pos": "noun",
-      "back": "individualism",
-      "example": "Critican el individualismo de la sociedad occidental.",
-      "tier": "B2"
-     },
-     {
-      "front": "instalarse",
-      "pos": "verb",
-      "back": "to settle (in a place)",
-      "example": "La familia se instaló en Moscú el año pasado.",
-      "tier": "B1"
-     },
-     {
-      "front": "idealizado",
-      "pos": "adj",
-      "back": "idealized",
-      "example": "Tenían una imagen idealizada del país.",
-      "tier": "B2"
-     },
-     {
-      "front": "burocracia",
-      "pos": "noun",
-      "back": "bureaucracy",
-      "example": "La burocracia rusa puede ser muy lenta.",
-      "tier": "B1"
-     },
-     {
-      "front": "sanciones",
-      "pos": "noun",
-      "back": "sanctions",
-      "example": "Las sanciones internacionales complican los pagos.",
-      "tier": "B2"
-     },
-     {
-      "front": "trámite",
-      "pos": "noun",
-      "back": "procedure, paperwork",
-      "example": "Abrir una cuenta bancaria es un trámite complicado.",
-      "tier": "B1"
-     },
-     {
-      "front": "arrepentirse",
-      "pos": "verb",
-      "back": "to regret",
-      "example": "No se arrepienten de haber tomado esa decisión.",
-      "tier": "B1"
-     },
-     {
-      "front": "comunidad",
-      "pos": "noun",
-      "back": "community",
-      "example": "Encontraron una comunidad con ideas similares.",
-      "tier": "B1"
-     },
-     {
-      "front": "adaptación",
-      "pos": "noun",
-      "back": "adaptation, adjustment",
-      "example": "La adaptación ha sido más difícil de lo esperado.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Un número creciente de personas de países occidentales ha decidido mudarse a Rusia atraídas por lo que consideran \"valores tradicionales\": familias numerosas, papeles de género definidos y un rechazo a lo que llaman el exceso de individualismo de sus países de origen.",
-      "point": "Pretérito perfecto + participio como adjetivo",
-      "explanation": "'ha decidido' es pretérito perfecto compuesto (acción reciente con relevancia en el presente); 'atraídas' es un participio que funciona como adjetivo y concuerda en género y número con 'personas'.",
-      "why_tricky": "Los estudiantes olvidan hacer concordar el participio cuando funciona como adjetivo, en vez de como parte del tiempo compuesto."
-     },
-     {
-      "sentence": "Muchos reconocen que la vida real no siempre coincide con la imagen idealizada que tenían antes de mudarse.",
-      "point": "Imperfecto para describir un estado pasado",
-      "explanation": "'tenían' está en pretérito imperfecto porque describe una idea o estado mental que se mantenía antes de un evento (mudarse), sin indicar cuándo empezó o terminó exactamente.",
-      "why_tricky": "Se confunde con el indefinido porque en inglés ambos se traducen igual ('they had')."
-     },
-     {
-      "sentence": "Aun así, varios aseguran que no se arrepienten de la decisión y que valoran encontrar una comunidad que comparte su visión del mundo, aunque admiten que la adaptación ha sido más difícil de lo esperado.",
-      "point": "Verbo reflexivo + concesiva con 'aunque'",
-      "explanation": "'arrepentirse de' es un verbo reflexivo que siempre lleva la preposición 'de'; 'aunque admiten' introduce una cláusula concesiva que contrasta con la idea anterior.",
-      "why_tricky": "Los alumnos suelen olvidar la preposición 'de' después de 'arrepentirse'."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "aun así",
-      "meaning": "a pesar de eso, sin embargo",
-      "example": "Llovía mucho; aun así, salimos a caminar."
-     },
-     {
-      "phrase": "no arrepentirse de algo",
-      "meaning": "no sentir pesar por una decisión tomada",
-      "example": "No me arrepiento de haber estudiado español."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué buscan las personas que deciden mudarse de países occidentales a Rusia?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué dificultades encuentran una vez instalados en el país?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué crees que algunas personas no se arrepienten de la decisión a pesar de las dificultades?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Qué opinas de las personas que emigran buscando un estilo de vida más \"tradicional\"? ¿Es una tendencia positiva o preocupante?"
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-14-erupcion-krakatoa",
-   "title": "La erupción volcánica que produjo el sonido más fuerte que se haya registrado en la historia",
-   "source": "BBC Mundo",
-   "date": "2026-07-12",
-   "level": "B1-B2",
-   "topics": [
-    "ciencia",
-    "historia"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-14-erupcion-krakatoa",
-    "revision": 1,
-    "meta": {
-     "title": "La erupción volcánica que produjo el sonido más fuerte que se haya registrado en la historia",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/c8d23ym2430o?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-07-12",
-     "date_processed": "2026-07-14",
-     "tags": [
-      "ciencia",
-      "historia"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "This week a volcano erupted in Indonesia, in the same place where, in 1833, one of the deadliest natural disasters of the 19th century occurred: the eruption of Krakatoa. That explosion produced the loudest sound ever recorded in history, so powerful it was heard thousands of kilometers away and triggered giant waves that devastated nearby coastlines.\n\nScientists point out that that episode forever changed the way we understand the destructive power of volcanoes and left a legacy that is still studied today. The new eruption, although much less intense, has revived interest in the region's geology and led authorities to strengthen seismic monitoring. Nearby residents continue to follow official recommendations amid the risk of further explosions.",
-    "resumen_es": "Esta semana entró en erupción un volcán en Indonesia, en el mismo lugar donde en 1833 ocurrió uno de los desastres naturales más mortíferos del siglo XIX: la erupción del Krakatoa. Aquella explosión produjo el sonido más fuerte jamás registrado en la historia, tan potente que se escuchó a miles de kilómetros de distancia y provocó olas gigantescas que devastaron las costas cercanas.\n\nLos científicos recuerdan que aquel episodio cambió para siempre la manera de entender el poder destructivo de los volcanes y dejó un legado que todavía se estudia hoy en día. La nueva erupción, aunque mucho menos intensa, ha reavivado el interés por la geología de la región y ha llevado a las autoridades a reforzar la vigilancia sísmica. Los habitantes cercanos siguen de cerca las recomendaciones oficiales ante el riesgo de nuevas explosiones.",
-    "vocab": [
-     {
-      "front": "erupción",
-      "pos": "noun",
-      "back": "eruption",
-      "example": "El volcán entró en erupción esta semana.",
-      "tier": "B1"
-     },
-     {
-      "front": "mortífero",
-      "pos": "adj",
-      "back": "deadly",
-      "example": "Fue uno de los desastres más mortíferos de la historia.",
-      "tier": "B2"
-     },
-     {
-      "front": "registrar",
-      "pos": "verb",
-      "back": "to record",
-      "example": "Se registró el sonido más fuerte de la historia.",
-      "tier": "B1"
-     },
-     {
-      "front": "potente",
-      "pos": "adj",
-      "back": "powerful",
-      "example": "La explosión fue extremadamente potente.",
-      "tier": "B1"
-     },
-     {
-      "front": "devastar",
-      "pos": "verb",
-      "back": "to devastate",
-      "example": "Las olas devastaron las costas cercanas.",
-      "tier": "B2"
-     },
-     {
-      "front": "legado",
-      "pos": "noun",
-      "back": "legacy",
-      "example": "Dejó un legado que se estudia hasta hoy.",
-      "tier": "B2"
-     },
-     {
-      "front": "reavivar",
-      "pos": "verb",
-      "back": "to revive, reignite",
-      "example": "El evento ha reavivado el interés por la geología.",
-      "tier": "B2"
-     },
-     {
-      "front": "vigilancia sísmica",
-      "pos": "phrase",
-      "back": "seismic monitoring",
-      "example": "Las autoridades reforzaron la vigilancia sísmica.",
-      "tier": "B2"
-     },
-     {
-      "front": "habitante",
-      "pos": "noun",
-      "back": "inhabitant, resident",
-      "example": "Los habitantes siguen las recomendaciones oficiales.",
-      "tier": "B1"
-     },
-     {
-      "front": "reforzar",
-      "pos": "verb",
-      "back": "to reinforce, strengthen",
-      "example": "Decidieron reforzar la seguridad en la zona.",
-      "tier": "B1"
-     },
-     {
-      "front": "explosión",
-      "pos": "noun",
-      "back": "explosion",
-      "example": "La explosión se escuchó a miles de kilómetros.",
-      "tier": "B1"
-     },
-     {
-      "front": "desastre natural",
-      "pos": "phrase",
-      "back": "natural disaster",
-      "example": "Fue uno de los desastres naturales más graves.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Esta semana entró en erupción un volcán en Indonesia, en el mismo lugar donde en 1833 ocurrió uno de los desastres naturales más mortíferos del siglo XIX: la erupción del Krakatoa.",
-      "point": "Pretérito indefinido para hechos puntuales + superlativo",
-      "explanation": "'entró' y 'ocurrió' están en pretérito indefinido porque son eventos puntuales y concluidos; 'más mortíferos' es un superlativo relativo que compara dentro de un grupo (los desastres del siglo XIX).",
-      "why_tricky": "Combinar dos verbos en indefinido en la misma oración con referencias temporales distintas (esta semana / 1833) puede confundir a los estudiantes."
-     },
-     {
-      "sentence": "Aquella explosión produjo el sonido más fuerte jamás registrado en la historia, tan potente que se escuchó a miles de kilómetros de distancia y provocó olas gigantescas que devastaron las costas cercanas.",
-      "point": "Estructura consecutiva 'tan...que'",
-      "explanation": "'tan potente que se escuchó...' expresa una consecuencia: la intensidad fue tan grande que produjo un resultado concreto.",
-      "why_tricky": "Los alumnos a veces usan 'muy...que' en lugar de 'tan...que', que es la estructura correcta en español."
-     },
-     {
-      "sentence": "La nueva erupción, aunque mucho menos intensa, ha reavivado el interés por la geología de la región y ha llevado a las autoridades a reforzar la vigilancia sísmica.",
-      "point": "Concesiva 'aunque' + pretérito perfecto compuesto",
-      "explanation": "'aunque mucho menos intensa' introduce un contraste dentro de la misma oración; 'ha reavivado' y 'ha llevado' están en pretérito perfecto porque conectan el pasado reciente con el presente.",
-      "why_tricky": "La cláusula concesiva intercalada entre comas puede hacer perder de vista el sujeto principal de la oración."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "a miles de kilómetros de distancia",
-      "meaning": "muy lejos, a una distancia enorme",
-      "example": "El terremoto se sintió a miles de kilómetros de distancia."
-     },
-     {
-      "phrase": "dejar un legado",
-      "meaning": "dejar algo importante que perdura en el tiempo",
-      "example": "El científico dejó un legado importante para su campo."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué relación histórica existe entre la nueva erupción y el Krakatoa de 1833?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué consecuencias tuvo la erupción de 1833 según el texto?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué medidas están tomando las autoridades ante el riesgo de nuevas erupciones?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Crees que los países deberían invertir más en sistemas de vigilancia sísmica y volcánica? ¿Por qué?"
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-12-ormuz-hostilidades",
-   "title": "EE.UU. e Irán retoman hostilidades tras ataque contra barco en estrecho de Ormuz",
-   "source": "RFI en español",
-   "date": "2026-07-12",
-   "level": "B1-B2",
-   "topics": [
-    "geopolítica",
-    "energía"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-12-ormuz-hostilidades",
-    "revision": 1,
-    "meta": {
-     "title": "EE.UU. e Irán retoman hostilidades tras ataque contra barco en estrecho de Ormuz",
-     "source": "RFI en español",
-     "url": "https://www.rfi.fr/es/oriente-medio/20260712-ee-uu-e-ir%C3%A1n-retoman-hostilidades-tras-ataque-contra-barco-en-estrecho-de-ormuz",
-     "date_published": "2026-07-12",
-     "date_processed": "2026-07-12",
-     "tags": [
-      "geopolítica",
-      "energía"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "The United States and Iran have resumed hostilities in the Strait of Hormuz, one of the world's most important trade routes. On Sunday, Iran launched missiles and drones against its Gulf neighbours and announced the closure of the strait, in response to new American attacks. The escalation began after Iranian fire against a Cypriot-flagged vessel which, according to Tehran, had taken an unauthorised route. Washington denies that the shipping lane is closed and insists that vessels are still passing through normally.\n\nThe Strait of Hormuz is a strategic chokepoint through which a huge share of the world's oil passes, so any conflict in the area sends energy prices soaring. Analysts fear that the tension could spread to other countries in the region and disrupt global trade in the coming weeks.",
-    "resumen_es": "Estados Unidos e Irán han retomado las hostilidades en el estrecho de Ormuz, una de las rutas comerciales más importantes del mundo. El domingo, Irán lanzó misiles y drones contra sus vecinos del Golfo y anunció el cierre del estrecho, en respuesta a nuevos ataques estadounidenses. La escalada comenzó tras disparos iraníes contra un buque de bandera chipriota que, según Teherán, había tomado una ruta no autorizada. Washington niega que la vía marítima esté cerrada y asegura que los barcos siguen circulando con normalidad.\n\nEl estrecho de Ormuz es un punto estratégico por el que pasa una parte enorme del petróleo mundial, por lo que cualquier conflicto en la zona dispara los precios de la energía. Los analistas temen que la tensión se extienda a otros países de la región y afecte al comercio global en las próximas semanas.",
-    "vocab": [
-     {
-      "front": "el estrecho",
-      "pos": "noun",
-      "back": "strait",
-      "example": "El estrecho de Ormuz conecta el golfo Pérsico con el mar de Omán.",
-      "tier": "B2"
-     },
-     {
-      "front": "retomar",
-      "pos": "verb",
-      "back": "to resume",
-      "example": "Las dos partes retomaron las negociaciones tras la pausa.",
-      "tier": "B2"
-     },
-     {
-      "front": "el buque",
-      "pos": "noun",
-      "back": "ship, vessel",
-      "example": "El buque transportaba petróleo hacia Asia.",
-      "tier": "B2"
-     },
-     {
-      "front": "la escalada",
-      "pos": "noun",
-      "back": "escalation",
-      "example": "La escalada del conflicto preocupa a los mercados.",
-      "tier": "B2"
-     },
-     {
-      "front": "lanzar",
-      "pos": "verb",
-      "back": "to launch, to fire",
-      "example": "El ejército lanzó varios misiles durante la noche.",
-      "tier": "B1"
-     },
-     {
-      "front": "negar",
-      "pos": "verb",
-      "back": "to deny",
-      "example": "El gobierno niega cualquier responsabilidad en el incidente.",
-      "tier": "B1"
-     },
-     {
-      "front": "la vía marítima",
-      "pos": "phrase",
-      "back": "shipping lane, sea route",
-      "example": "La vía marítima quedó bloqueada durante horas.",
-      "tier": "B2"
-     },
-     {
-      "front": "disparar los precios",
-      "pos": "phrase",
-      "back": "to send prices soaring",
-      "example": "La crisis disparó los precios del petróleo.",
-      "tier": "B2"
-     },
-     {
-      "front": "la bandera",
-      "pos": "noun",
-      "back": "flag",
-      "example": "El barco navegaba con bandera chipriota.",
-      "tier": "B1"
-     },
-     {
-      "front": "el petróleo",
-      "pos": "noun",
-      "back": "oil (petroleum)",
-      "example": "Gran parte del petróleo mundial pasa por esta ruta.",
-      "tier": "B1"
-     },
-     {
-      "front": "temer",
-      "pos": "verb",
-      "back": "to fear",
-      "example": "Los analistas temen una guerra más amplia.",
-      "tier": "B1"
-     },
-     {
-      "front": "en respuesta a",
-      "pos": "phrase",
-      "back": "in response to",
-      "example": "Actuaron en respuesta a los ataques del viernes.",
-      "tier": "B2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "La escalada comenzó tras disparos iraníes contra un buque de bandera chipriota que, según Teherán, había tomado una ruta no autorizada.",
-      "point": "Pluscuamperfecto (había tomado)",
-      "explanation": "The pluperfect (haber in imperfect + participle) describes an action completed before another past action: the ship had taken the route before the shooting happened.",
-      "why_tricky": "English also uses 'had taken', but Spanish learners often default to the simple past (tomó), losing the sequence of events."
-     },
-     {
-      "sentence": "Washington niega que la vía marítima esté cerrada y asegura que los barcos siguen circulando con normalidad.",
-      "point": "Subjuntivo tras verbos de negación (negar que + esté)",
-      "explanation": "After negar que, Spanish uses the subjunctive (esté) because the speaker presents the closure as not real. With asegurar que (affirming), the indicative returns (siguen).",
-      "why_tricky": "The same sentence switches mood twice; learners must track which verb introduces each clause."
-     },
-     {
-      "sentence": "Los analistas temen que la tensión se extienda a otros países de la región y afecte al comercio global en las próximas semanas.",
-      "point": "Subjuntivo tras verbos de emoción (temer que)",
-      "explanation": "Temer que triggers the subjunctive (se extienda, afecte) because it expresses fear about something not yet certain.",
-      "why_tricky": "Both verbs in the subordinate clause stay in the subjunctive, not just the first one."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "echar leña al fuego",
-      "meaning": "to add fuel to the fire, to make a conflict worse",
-      "example": "Las declaraciones del ministro solo echaron leña al fuego."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Por qué anunció Irán el cierre del estrecho de Ormuz?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué dice Estados Unidos sobre la situación de la vía marítima?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué es tan importante el estrecho de Ormuz para la economía mundial?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Crees que los conflictos por las rutas comerciales van a aumentar en los próximos años? Escribe tu opinión en unas 100 palabras."
    }
   }
  ]
