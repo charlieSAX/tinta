@@ -1,7 +1,493 @@
 {
- "generated_at": "2026-07-21T20:16:44.216258+00:00",
+ "generated_at": "2026-07-22T08:12:26.076503+00:00",
  "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-07-22-iran-ormuz",
+   "title": "¿Por qué Irán está arriesgando tanto por el estrecho de Ormuz?",
+   "source": "BBC Mundo",
+   "date": "2026-07-22",
+   "level": "B1-B2",
+   "topics": [
+    "geopolítica",
+    "energía"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-22-iran-ormuz",
+    "revision": 1,
+    "meta": {
+     "title": "¿Por qué Irán está arriesgando tanto por el estrecho de Ormuz?",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/c70gekd822wo?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-07-22",
+     "date_processed": "2026-07-22",
+     "tags": [
+      "geopolítica",
+      "energía"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "Iran is once again at the centre of international attention because of the Strait of Hormuz, a narrow sea route through which a large part of the world's oil flows. Faced with growing pressure, the Iranian leaders are weighing their options, but none seems to offer a clear path to victory. Closing the strait would be a risky move that would hurt both its rivals and its own economy.\n\nThe Strait of Hormuz connects the Persian Gulf with the rest of the world and is key to the energy trade. For that reason, any threat in the area immediately pushes up the price of oil and worries many countries. Analysts warn that an escalation could have unpredictable consequences for the region. Meanwhile, the international powers are following the situation closely and trying to prevent the conflict from spreading even further.",
+    "resumen_es": "Irán vuelve a estar en el centro de la atención internacional por el estrecho de Ormuz, una estrecha vía marítima por la que circula gran parte del petróleo del mundo. Ante la creciente presión, los líderes iraníes estudian sus opciones, pero ninguna parece ofrecer un camino claro hacia la victoria. Cerrar el estrecho sería una medida arriesgada que afectaría tanto a sus rivales como a su propia economía.\n\nEl estrecho de Ormuz conecta el golfo Pérsico con el resto del mundo y resulta clave para el comercio energético. Por eso, cualquier amenaza en la zona hace subir de inmediato el precio del crudo y preocupa a numerosos países. Los analistas advierten de que una escalada podría tener consecuencias imprevisibles para la región. Mientras tanto, las potencias internacionales siguen de cerca la situación e intentan evitar que el conflicto se extienda todavía más.",
+    "vocab": [
+     {
+      "front": "el estrecho",
+      "pos": "noun",
+      "back": "the strait (narrow sea passage)",
+      "example": "El barco cruzó el estrecho por la noche.",
+      "tier": "B1"
+     },
+     {
+      "front": "la vía marítima",
+      "pos": "noun",
+      "back": "sea route, shipping lane",
+      "example": "Es una vía marítima muy transitada.",
+      "tier": "B2"
+     },
+     {
+      "front": "arriesgar",
+      "pos": "verb",
+      "back": "to risk",
+      "example": "No quiero arriesgar mi trabajo por eso.",
+      "tier": "B1"
+     },
+     {
+      "front": "la creciente presión",
+      "pos": "phrase",
+      "back": "the growing pressure",
+      "example": "Cede ante la creciente presión de sus jefes.",
+      "tier": "B2"
+     },
+     {
+      "front": "un camino claro hacia",
+      "pos": "phrase",
+      "back": "a clear path towards",
+      "example": "No hay un camino claro hacia la paz.",
+      "tier": "B2"
+     },
+     {
+      "front": "la medida",
+      "pos": "noun",
+      "back": "the measure, step",
+      "example": "El gobierno tomó una medida urgente.",
+      "tier": "B1"
+     },
+     {
+      "front": "el crudo",
+      "pos": "noun",
+      "back": "crude oil",
+      "example": "El precio del crudo subió otra vez.",
+      "tier": "B2"
+     },
+     {
+      "front": "la escalada",
+      "pos": "noun",
+      "back": "escalation",
+      "example": "Temen una escalada del conflicto.",
+      "tier": "B2"
+     },
+     {
+      "front": "imprevisible",
+      "pos": "adj",
+      "back": "unpredictable",
+      "example": "El clima aquí es muy imprevisible.",
+      "tier": "B2"
+     },
+     {
+      "front": "seguir de cerca",
+      "pos": "phrase",
+      "back": "to follow closely",
+      "example": "Los medios siguen de cerca el caso.",
+      "tier": "B2"
+     },
+     {
+      "front": "resultar clave",
+      "pos": "phrase",
+      "back": "to prove crucial",
+      "example": "Su ayuda resultó clave para ganar.",
+      "tier": "B2"
+     },
+     {
+      "front": "numeroso",
+      "pos": "adj",
+      "back": "numerous, many",
+      "example": "Recibió numerosos mensajes de apoyo.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Cerrar el estrecho sería una medida arriesgada que afectaría tanto a sus rivales como a su propia economía.",
+      "point": "Condicional simple (sería, afectaría)",
+      "explanation": "El condicional expresa una situación hipotética: qué pasaría si se cerrara el estrecho.",
+      "why_tricky": "Se usa sin 'si' explícito; la hipótesis está implícita en el infinitivo 'cerrar' como sujeto."
+     },
+     {
+      "sentence": "cualquier amenaza en la zona hace subir de inmediato el precio del crudo",
+      "point": "'Hacer' + infinitivo (causativo)",
+      "explanation": "'Hacer subir' significa provocar que algo suba; hacer + infinitivo expresa causa.",
+      "why_tricky": "No se traduce literalmente al inglés: 'makes the price go up', no 'makes to go up'."
+     },
+     {
+      "sentence": "Los analistas advierten de que una escalada podría tener consecuencias imprevisibles para la región.",
+      "point": "'Advertir de que' + condicional 'podría'",
+      "explanation": "'Advertir de que' introduce una advertencia; 'podría' expresa posibilidad.",
+      "why_tricky": "La preposición 'de' es frecuente pero muchos estudiantes la omiten."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "bajar la guardia",
+      "meaning": "to let one's guard down",
+      "example": "Vamos ganando, pero no podemos bajar la guardia."
+     },
+     {
+      "phrase": "seguir de cerca",
+      "meaning": "to monitor closely",
+      "example": "El médico sigue de cerca su recuperación."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Por qué es tan importante el estrecho de Ormuz para el mundo?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué riesgos tendría para Irán cerrar el estrecho?",
+      "type": "open"
+     },
+     {
+      "q": "¿Cómo reaccionan las potencias internacionales ante la situación?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Crees que los países deberían depender tanto del petróleo? Escribe un párrafo con tu opinión y tus razones."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-22-amazonia-incendios",
+   "title": "Brasil: Los incendios en la Amazonía cayeron a su mínimo histórico en 2025",
+   "source": "RFI Español",
+   "date": "2026-07-22",
+   "level": "B1-B2",
+   "topics": [
+    "medioambiente",
+    "Brasil"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-22-amazonia-incendios",
+    "revision": 1,
+    "meta": {
+     "title": "Brasil: Los incendios en la Amazonía cayeron a su mínimo histórico en 2025",
+     "source": "RFI Español",
+     "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260721-brasil-los-incendios-en-la-amazon%C3%ADa-cayeron-a-su-m%C3%ADnimo-hist%C3%B3rico-en-2025",
+     "date_published": "2026-07-22",
+     "date_processed": "2026-07-22",
+     "tags": [
+      "medioambiente",
+      "Brasil"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "Fires in the Brazilian Amazon fell to their lowest level on record during 2025, according to the latest official data. It is a notable change, since in 2024 the region had reached its worst figure ever. This improvement has been welcomed with relief by the authorities and by the organisations that defend the environment.\n\nExperts attribute this drop to a combination of factors, among them more favourable weather conditions and greater control on the part of the Government. Even so, they warn that the rainforest is still fragile and that it is not wise to let one's guard down. The Amazon plays a fundamental role in regulating the world's climate, so its protection remains a priority for many countries. The challenge now is to maintain this positive trend in the coming years.",
+    "resumen_es": "Los incendios en la Amazonía brasileña cayeron a su mínimo histórico durante el año 2025, según los últimos datos oficiales. Se trata de un cambio notable, ya que en 2024 la región había alcanzado su peor registro. Esta mejora ha sido recibida con alivio por las autoridades y por las organizaciones que defienden el medio ambiente.\n\nLos expertos atribuyen este descenso a una combinación de factores, entre ellos las condiciones climáticas más favorables y un mayor control por parte del Gobierno. Aun así, advierten de que la selva sigue siendo frágil y que no conviene bajar la guardia. La Amazonía cumple un papel fundamental en la regulación del clima mundial, por lo que su protección continúa siendo una prioridad para muchos países. El reto ahora consiste en mantener esta tendencia positiva en los próximos años.",
+    "vocab": [
+     {
+      "front": "el incendio",
+      "pos": "noun",
+      "back": "fire (large, destructive)",
+      "example": "El incendio arrasó cientos de hectáreas.",
+      "tier": "B1"
+     },
+     {
+      "front": "el mínimo histórico",
+      "pos": "phrase",
+      "back": "record low",
+      "example": "El paro cayó a su mínimo histórico.",
+      "tier": "B2"
+     },
+     {
+      "front": "el registro",
+      "pos": "noun",
+      "back": "record, reading (of data)",
+      "example": "Fue el peor registro de la década.",
+      "tier": "B2"
+     },
+     {
+      "front": "el alivio",
+      "pos": "noun",
+      "back": "relief",
+      "example": "Sentí un gran alivio al saber la noticia.",
+      "tier": "B1"
+     },
+     {
+      "front": "atribuir",
+      "pos": "verb",
+      "back": "to attribute",
+      "example": "Atribuyen el éxito al esfuerzo del equipo.",
+      "tier": "B2"
+     },
+     {
+      "front": "el descenso",
+      "pos": "noun",
+      "back": "decrease, drop",
+      "example": "Se observa un descenso de las ventas.",
+      "tier": "B1"
+     },
+     {
+      "front": "frágil",
+      "pos": "adj",
+      "back": "fragile",
+      "example": "El ecosistema es muy frágil.",
+      "tier": "B1"
+     },
+     {
+      "front": "cumplir un papel",
+      "pos": "phrase",
+      "back": "to play a role",
+      "example": "La familia cumple un papel clave en su vida.",
+      "tier": "B2"
+     },
+     {
+      "front": "la selva",
+      "pos": "noun",
+      "back": "jungle, rainforest",
+      "example": "La selva amazónica es enorme.",
+      "tier": "B1"
+     },
+     {
+      "front": "el reto",
+      "pos": "noun",
+      "back": "challenge",
+      "example": "Aprender chino es un gran reto.",
+      "tier": "B1"
+     },
+     {
+      "front": "la tendencia",
+      "pos": "noun",
+      "back": "trend",
+      "example": "Hay una tendencia a comer más sano.",
+      "tier": "B1"
+     },
+     {
+      "front": "por parte de",
+      "pos": "phrase",
+      "back": "on the part of, by",
+      "example": "Hubo poco interés por parte del público.",
+      "tier": "B2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Se trata de un cambio notable, ya que en 2024 la región había alcanzado su peor registro.",
+      "point": "Pluscuamperfecto (había alcanzado)",
+      "explanation": "El pluscuamperfecto sitúa una acción anterior a otra acción pasada.",
+      "why_tricky": "Combina 'haber' en imperfecto más participio; hay que distinguirlo del pretérito."
+     },
+     {
+      "sentence": "Esta mejora ha sido recibida con alivio por las autoridades y por las organizaciones que defienden el medio ambiente.",
+      "point": "Voz pasiva (ha sido recibida)",
+      "explanation": "La pasiva con 'ser' más participio destaca la acción; el agente aparece con 'por'.",
+      "why_tricky": "El participio 'recibida' concuerda en género y número con 'mejora'."
+     },
+     {
+      "sentence": "La Amazonía cumple un papel fundamental en la regulación del clima mundial, por lo que su protección continúa siendo una prioridad para muchos países.",
+      "point": "Conector 'por lo que' (consecuencia)",
+      "explanation": "'Por lo que' introduce una consecuencia lógica de lo dicho antes.",
+      "why_tricky": "Se confunde con 'por lo cual' o 'por eso'; aquí une causa y efecto."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "bajar la guardia",
+      "meaning": "to become less careful or watchful",
+      "example": "El equipo bajó la guardia y encajó un gol."
+     },
+     {
+      "phrase": "recibir con alivio",
+      "meaning": "to welcome with relief",
+      "example": "La familia recibió la noticia con alivio."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Qué diferencia hay entre los incendios de 2024 y los de 2025?",
+      "type": "open"
+     },
+     {
+      "q": "¿A qué factores atribuyen los expertos el descenso?",
+      "type": "open"
+     },
+     {
+      "q": "¿Por qué es importante proteger la Amazonía según el texto?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Qué medidas crees que son más eficaces para proteger los bosques? Explica tu punto de vista."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-22-tokio-pantalones-cortos",
+   "title": "Tokio insta a los hombres a usar pantalones cortos en el trabajo",
+   "source": "BBC Mundo",
+   "date": "2026-07-22",
+   "level": "B1-B2",
+   "topics": [
+    "sociedad",
+    "trabajo"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-22-tokio-pantalones-cortos",
+    "revision": 1,
+    "meta": {
+     "title": "Tokio insta a los hombres a usar pantalones cortos en el trabajo",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/c0kmv273ed8o?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-07-22",
+     "date_processed": "2026-07-22",
+     "tags": [
+      "sociedad",
+      "trabajo"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "The metropolitan government of Tokyo has asked its workers to set aside the suit and tie and to choose cooler clothes, such as T-shirts and shorts. The aim is to cope with the intense summer heat and to reduce energy use in offices. The proposal has sparked a heated debate in Japanese society.\n\nAlthough many applaud the measure, some women have felt uncomfortable and claim that showing their legs at work can feel awkward. The controversy reflects the different ways of understanding work dress and personal comfort. In Japan, where formality in the office carries great weight, this kind of change is not always accepted easily. The debate, for now, remains open and promises to last all summer.",
+    "resumen_es": "El gobierno metropolitano de Tokio ha pedido a sus trabajadores que dejen de lado el traje y la corbata y opten por ropa más fresca, como camisetas y pantalones cortos. El objetivo es hacer frente al intenso calor del verano y reducir el consumo de energía en las oficinas. La propuesta ha generado un intenso debate en la sociedad japonesa.\n\nAunque muchos aplauden la medida, algunas mujeres se han mostrado incómodas y aseguran que enseñar las piernas en el trabajo puede resultar violento. La polémica refleja las distintas maneras de entender la vestimenta laboral y la comodidad personal. En Japón, donde la formalidad en la oficina tiene un gran peso, este tipo de cambios no siempre se aceptan con facilidad. El debate, por ahora, sigue abierto y promete durar todo el verano.",
+    "vocab": [
+     {
+      "front": "instar a",
+      "pos": "verb",
+      "back": "to urge, call on",
+      "example": "El médico insta a beber más agua.",
+      "tier": "B2"
+     },
+     {
+      "front": "dejar de lado",
+      "pos": "phrase",
+      "back": "to set aside",
+      "example": "Deja de lado el móvil y descansa.",
+      "tier": "B2"
+     },
+     {
+      "front": "el traje",
+      "pos": "noun",
+      "back": "suit",
+      "example": "Se puso un traje azul para la boda.",
+      "tier": "B1"
+     },
+     {
+      "front": "optar por",
+      "pos": "verb",
+      "back": "to opt for, choose",
+      "example": "Al final optamos por el tren.",
+      "tier": "B1"
+     },
+     {
+      "front": "hacer frente a",
+      "pos": "phrase",
+      "back": "to face up to, cope with",
+      "example": "Hay que hacer frente a la crisis.",
+      "tier": "B2"
+     },
+     {
+      "front": "el consumo de energía",
+      "pos": "phrase",
+      "back": "energy consumption",
+      "example": "Bajaron el consumo de energía en casa.",
+      "tier": "B2"
+     },
+     {
+      "front": "aplaudir",
+      "pos": "verb",
+      "back": "to applaud, praise",
+      "example": "Todos aplaudieron la decisión.",
+      "tier": "B1"
+     },
+     {
+      "front": "incómodo",
+      "pos": "adj",
+      "back": "uncomfortable, awkward",
+      "example": "Me sentí incómodo en la reunión.",
+      "tier": "B1"
+     },
+     {
+      "front": "la vestimenta",
+      "pos": "noun",
+      "back": "clothing, attire",
+      "example": "La vestimenta formal es obligatoria.",
+      "tier": "B2"
+     },
+     {
+      "front": "tener un gran peso",
+      "pos": "phrase",
+      "back": "to carry great weight",
+      "example": "Su opinión tiene un gran peso aquí.",
+      "tier": "B2"
+     },
+     {
+      "front": "la polémica",
+      "pos": "noun",
+      "back": "controversy",
+      "example": "La ley generó mucha polémica.",
+      "tier": "B1"
+     },
+     {
+      "front": "con facilidad",
+      "pos": "phrase",
+      "back": "easily",
+      "example": "Aprende idiomas con facilidad.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "El gobierno metropolitano de Tokio ha pedido a sus trabajadores que dejen de lado el traje y la corbata y opten por ropa más fresca, como camisetas y pantalones cortos.",
+      "point": "Subjuntivo tras verbo de petición (dejen, opten)",
+      "explanation": "'Pedir que' exige subjuntivo porque expresa influencia sobre otros.",
+      "why_tricky": "Los dos verbos ('dejen', 'opten') van en subjuntivo aunque estén unidos por 'y'."
+     },
+     {
+      "sentence": "algunas mujeres se han mostrado incómodas y aseguran que enseñar las piernas en el trabajo puede resultar violento",
+      "point": "Infinitivo como sujeto ('enseñar las piernas')",
+      "explanation": "Un infinitivo puede funcionar como sujeto de la frase, igual que un sustantivo.",
+      "why_tricky": "En inglés se usaría gerundio ('showing'), no infinitivo."
+     },
+     {
+      "sentence": "En Japón, donde la formalidad en la oficina tiene un gran peso, este tipo de cambios no siempre se aceptan con facilidad.",
+      "point": "Se pasivo ('se aceptan')",
+      "explanation": "'Se aceptan' es una pasiva refleja: el sujeto ('cambios') recibe la acción sin agente.",
+      "why_tricky": "El verbo concuerda en plural con 'cambios', no queda invariable."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "dejar de lado",
+      "meaning": "to leave aside, stop using something",
+      "example": "Dejó de lado sus dudas y aceptó el reto."
+     },
+     {
+      "phrase": "hacer frente a",
+      "meaning": "to confront, deal with",
+      "example": "Supo hacer frente a las críticas con calma."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Por qué pide el gobierno de Tokio que los trabajadores cambien de ropa?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué opinan algunas mujeres sobre la propuesta?",
+      "type": "open"
+     },
+     {
+      "q": "¿Por qué este cambio resulta difícil en la sociedad japonesa?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Debería existir un código de vestimenta en el trabajo? Da tu opinión y justifícala."
+   }
+  },
   {
    "pack_id": "feed-2026-07-21-alemania-poblacion",
    "title": "Por qué el declive de población deja al descubierto las antiguas divisiones de Alemania",
@@ -5994,513 +6480,6 @@
      }
     ],
     "opinion_prompt": "¿Crees que los intentos fallidos de golpe de Estado suelen fortalecer o debilitar a los gobiernos? Explica tu opinión con ejemplos."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-15-tiburones-rasgos",
-   "title": "Buenos para las matemáticas y amantes del jazz: 8 rasgos extraordinarios que probablemente no sabías sobre los tiburones",
-   "source": "BBC Mundo",
-   "date": "2026-07-15",
-   "level": "B1-B2",
-   "topics": [
-    "naturaleza",
-    "ciencia"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-15-tiburones-rasgos",
-    "revision": 1,
-    "meta": {
-     "title": "Buenos para las matemáticas y amantes del jazz: 8 rasgos extraordinarios que probablemente no sabías sobre los tiburones",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/cwykyl131p4o?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-07-15",
-     "date_processed": "2026-07-15",
-     "tags": [
-      "naturaleza",
-      "ciencia"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "Sharks are among the oldest vertebrate predators on the planet, with an evolutionary history spanning hundreds of millions of years. Despite their reputation as dangerous animals, scientists have discovered that they possess surprising abilities: some species can solve simple mathematical problems, while others show remarkable sensitivity to sounds and water vibrations, allowing them to detect prey from a great distance.\n\nSharks also have extraordinary senses, such as the ability to perceive tiny electrical fields generated by other animals. Some researchers even compare their hearing perception to musical taste, noting that certain frequencies, similar to jazz, are especially appealing to them. These findings are changing the way we understand these animals, showing that they are far more complex than previously thought.",
-    "resumen_es": "Los tiburones están entre los depredadores vertebrados más antiguos del planeta, con una historia evolutiva de cientos de millones de años. A pesar de su fama de animales peligrosos, los científicos han descubierto que poseen habilidades sorprendentes: algunas especies son capaces de resolver problemas matemáticos sencillos, mientras que otras muestran una notable sensibilidad a los sonidos y a las vibraciones del agua, lo que les permite detectar presas a gran distancia.\n\nAdemás, los tiburones tienen sentidos extraordinarios, como la capacidad de percibir campos eléctricos diminutos generados por otros animales. Algunos investigadores incluso comparan su percepción auditiva con el gusto musical, señalando que ciertas frecuencias, similares al jazz, les resultan especialmente atractivas. Estos hallazgos están cambiando la manera en que entendemos a estos animales, mostrando que son mucho más complejos de lo que se pensaba.",
-    "vocab": [
-     {
-      "front": "depredador",
-      "pos": "noun",
-      "back": "predator",
-      "example": "El tiburón blanco es un depredador temido.",
-      "tier": "B1"
-     },
-     {
-      "front": "vertebrado",
-      "pos": "adj",
-      "back": "vertebrate",
-      "example": "Los peces son animales vertebrados.",
-      "tier": "B2"
-     },
-     {
-      "front": "evolutivo/a",
-      "pos": "adj",
-      "back": "evolutionary",
-      "example": "Tiene una larga historia evolutiva.",
-      "tier": "B2"
-     },
-     {
-      "front": "fama",
-      "pos": "noun",
-      "back": "reputation, fame",
-      "example": "Tiene fama de ser peligroso.",
-      "tier": "B1"
-     },
-     {
-      "front": "sorprendente",
-      "pos": "adj",
-      "back": "surprising",
-      "example": "El resultado fue sorprendente.",
-      "tier": "B1"
-     },
-     {
-      "front": "resolver",
-      "pos": "verb",
-      "back": "to solve",
-      "example": "Resolvió el problema fácilmente.",
-      "tier": "B1"
-     },
-     {
-      "front": "sensibilidad",
-      "pos": "noun",
-      "back": "sensitivity",
-      "example": "Tiene mucha sensibilidad al ruido.",
-      "tier": "B2"
-     },
-     {
-      "front": "vibración",
-      "pos": "noun",
-      "back": "vibration",
-      "example": "Sintió una vibración en el agua.",
-      "tier": "B2"
-     },
-     {
-      "front": "presa",
-      "pos": "noun",
-      "back": "prey",
-      "example": "El águila persigue a su presa.",
-      "tier": "B2"
-     },
-     {
-      "front": "percibir",
-      "pos": "verb",
-      "back": "to perceive, sense",
-      "example": "El animal percibe el peligro.",
-      "tier": "B2"
-     },
-     {
-      "front": "campo eléctrico",
-      "pos": "phrase",
-      "back": "electric field",
-      "example": "El tiburón detecta campos eléctricos.",
-      "tier": "C1"
-     },
-     {
-      "front": "hallazgo",
-      "pos": "noun",
-      "back": "finding, discovery",
-      "example": "El hallazgo sorprendió a los científicos.",
-      "tier": "B2"
-     },
-     {
-      "front": "a gran distancia",
-      "pos": "phrase",
-      "back": "from a great distance",
-      "example": "Puede oler la sangre a gran distancia.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "A pesar de su fama de animales peligrosos, los científicos han descubierto que poseen habilidades sorprendentes: algunas especies son capaces de resolver problemas matemáticos sencillos, mientras que otras muestran una notable sensibilidad a los sonidos y a las vibraciones del agua, lo que les permite detectar presas a gran distancia.",
-      "point": "a pesar de + sustantivo (concesión)",
-      "explanation": "'A pesar de' introduce una concesión y va seguido de un sustantivo, no de una oración completa.",
-      "why_tricky": "Los estudiantes suelen intentar seguirlo con 'que + oración' como en inglés, pero para una oración completa el español necesita 'a pesar de que'."
-     },
-     {
-      "sentence": "Algunos investigadores incluso comparan su percepción auditiva con el gusto musical, señalando que ciertas frecuencias, similares al jazz, les resultan especialmente atractivas.",
-      "point": "verbos tipo gustar (resultar + objeto indirecto)",
-      "explanation": "'Les resultan atractivas' sigue la misma estructura que 'gustar': pronombre de objeto indirecto + verbo + sujeto, es decir, 'ciertas frecuencias les resultan atractivas a ellos'.",
-      "why_tricky": "Los hablantes de inglés tienden a poner 'ellos' como sujeto ('they find them attractive'), pero en español el sujeto gramatical son las frecuencias."
-     },
-     {
-      "sentence": "Estos hallazgos están cambiando la manera en que entendemos a estos animales, mostrando que son mucho más complejos de lo que se pensaba.",
-      "point": "comparativo con 'de lo que'",
-      "explanation": "'Más complejos de lo que se pensaba' usa 'de lo que' para comparar con una oración completa, en lugar de con un sustantivo.",
-      "why_tricky": "Los estudiantes suelen usar solo 'que' en comparativos, pero cuando se compara con una oración se necesita 'de lo que'."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "a gran distancia",
-      "meaning": "from far away, at a great distance",
-      "example": "El tiburón puede detectar el olor de la sangre a gran distancia."
-     },
-     {
-      "phrase": "mucho más... de lo que se pensaba",
-      "meaning": "much more... than was thought",
-      "example": "El proyecto fue mucho más complicado de lo que se pensaba."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué habilidades sorprendentes han descubierto los científicos en los tiburones?",
-      "type": "open"
-     },
-     {
-      "q": "¿Cómo perciben los tiburones su entorno además de con la vista?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué crees que la fama de los tiburones no coincide con lo que muestra la ciencia?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Qué animal te parece más fascinante por sus capacidades sensoriales y por qué?"
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-15-paris-aire-acondicionado-sena",
-   "title": "Francia: París experimenta un aire acondicionado central utilizando agua del Sena",
-   "source": "RFI",
-   "date": "2026-07-14",
-   "level": "B1-B2",
-   "topics": [
-    "medio ambiente",
-    "tecnología"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-15-paris-aire-acondicionado-sena",
-    "revision": 1,
-    "meta": {
-     "title": "Francia: París experimenta un aire acondicionado central utilizando agua del Sena",
-     "source": "RFI",
-     "url": "https://www.rfi.fr/es/programas/enfoque-internacional/20260714-francia-par%C3%ADs-experimenta-un-aire-acondicionado-central-utilizando-agua-del-sena",
-     "date_published": "2026-07-14",
-     "date_processed": "2026-07-15",
-     "tags": [
-      "medio ambiente",
-      "tecnología"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "Most buildings in France, including schools and hospitals, do not have air conditioning, even though the country has already suffered three heatwaves this summer with temperatures above 40 degrees. To tackle this problem, Paris has spent decades developing a different solution: a central air-conditioning system that uses cold water from the Seine river to cool entire buildings.\n\nThis system uses half the electricity and generates half the CO2 emissions compared with individual air-conditioning units. According to the director of the company that runs the project, this technology could become a model for other cities looking to cool public spaces without increasing energy use and environmental impact so much.",
-    "resumen_es": "La mayoría de los edificios en Francia, incluidos colegios y hospitales, no tienen aire acondicionado, a pesar de que este verano el país ya ha sufrido tres olas de calor con temperaturas superiores a los 40 grados. Para hacer frente a este problema, París lleva décadas desarrollando una solución diferente: un sistema de aire acondicionado central que aprovecha el agua fría del río Sena para refrescar edificios enteros.\n\nEste sistema consume la mitad de electricidad y genera la mitad de emisiones de CO2 en comparación con los aparatos de aire acondicionado individuales. Según la directora de la empresa que gestiona el proyecto, esta tecnología podría convertirse en un modelo para otras ciudades que buscan enfriar sus espacios públicos sin aumentar tanto el consumo energético ni el impacto ambiental.",
-    "vocab": [
-     {
-      "front": "aire acondicionado",
-      "pos": "phrase",
-      "back": "air conditioning",
-      "example": "El hospital no tiene aire acondicionado.",
-      "tier": "B1"
-     },
-     {
-      "front": "ola de calor",
-      "pos": "phrase",
-      "back": "heatwave",
-      "example": "La tercera ola de calor llegó en julio.",
-      "tier": "B1"
-     },
-     {
-      "front": "hacer frente a",
-      "pos": "phrase",
-      "back": "to tackle, face up to",
-      "example": "Debemos hacer frente a la crisis.",
-      "tier": "B2"
-     },
-     {
-      "front": "aprovechar",
-      "pos": "verb",
-      "back": "to make use of, take advantage of",
-      "example": "Aprovechan el agua del río para enfriar edificios.",
-      "tier": "B1"
-     },
-     {
-      "front": "refrescar",
-      "pos": "verb",
-      "back": "to cool down",
-      "example": "El sistema refresca todo el edificio.",
-      "tier": "B1"
-     },
-     {
-      "front": "consumir",
-      "pos": "verb",
-      "back": "to consume",
-      "example": "El aparato consume mucha electricidad.",
-      "tier": "B1"
-     },
-     {
-      "front": "emisión",
-      "pos": "noun",
-      "back": "emission",
-      "example": "El coche reduce las emisiones de CO2.",
-      "tier": "B2"
-     },
-     {
-      "front": "en comparación con",
-      "pos": "phrase",
-      "back": "compared to",
-      "example": "Gasta menos en comparación con el modelo antiguo.",
-      "tier": "B1"
-     },
-     {
-      "front": "gestionar",
-      "pos": "verb",
-      "back": "to manage, run",
-      "example": "Ella gestiona el proyecto energético.",
-      "tier": "B2"
-     },
-     {
-      "front": "enfriar",
-      "pos": "verb",
-      "back": "to cool",
-      "example": "Necesitamos enfriar la oficina.",
-      "tier": "B1"
-     },
-     {
-      "front": "consumo energético",
-      "pos": "phrase",
-      "back": "energy consumption",
-      "example": "Buscan reducir el consumo energético.",
-      "tier": "B2"
-     },
-     {
-      "front": "impacto ambiental",
-      "pos": "phrase",
-      "back": "environmental impact",
-      "example": "El proyecto tiene poco impacto ambiental.",
-      "tier": "B2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "La mayoría de los edificios en Francia, incluidos colegios y hospitales, no tienen aire acondicionado, a pesar de que este verano el país ya ha sufrido tres olas de calor con temperaturas superiores a los 40 grados.",
-      "point": "a pesar de que + indicativo",
-      "explanation": "Aquí 'a pesar de que' va seguido de una oración completa en indicativo ('ha sufrido') porque presenta un hecho real y constatado.",
-      "why_tricky": "Los estudiantes deben decidir entre 'a pesar de' (+ sustantivo) y 'a pesar de que' (+ oración); aquí se necesita la segunda forma porque sigue una oración completa."
-     },
-     {
-      "sentence": "Este sistema consume la mitad de electricidad y genera la mitad de emisiones de CO2 en comparación con los aparatos de aire acondicionado individuales.",
-      "point": "la mitad de + sustantivo",
-      "explanation": "'La mitad de' + sustantivo expresa una cantidad fraccionaria y concuerda siempre en femenino singular, sin importar el género del sustantivo que sigue.",
-      "why_tricky": "Los estudiantes a veces intentan que 'mitad' concuerde con el género del sustantivo siguiente, pero permanece invariable."
-     },
-     {
-      "sentence": "Según la directora de la empresa que gestiona el proyecto, esta tecnología podría convertirse en un modelo para otras ciudades que buscan enfriar sus espacios públicos sin aumentar tanto el consumo energético ni el impacto ambiental.",
-      "point": "podría + infinitivo (condicional de posibilidad)",
-      "explanation": "'Podría convertirse' usa el condicional de 'poder' + infinitivo para expresar una posibilidad futura, más suave que 'puede'.",
-      "why_tricky": "Los estudiantes suelen usar 'puede' para toda afirmación de posibilidad, pero el condicional aquí señala algo más tentativo y especulativo."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "hacer frente a",
-      "meaning": "to tackle, to face up to a problem",
-      "example": "El gobierno debe hacer frente a la crisis energética."
-     },
-     {
-      "phrase": "en comparación con",
-      "meaning": "compared to, in comparison with",
-      "example": "Este coche consume menos gasolina en comparación con el modelo anterior."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Por qué muchos edificios en Francia no tienen aire acondicionado?",
-      "type": "open"
-     },
-     {
-      "q": "¿Cómo funciona el sistema de refrigeración que usa el agua del Sena?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué ventajas tiene este sistema frente a los aparatos de aire acondicionado tradicionales?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Qué soluciones se te ocurren para reducir el uso de aire acondicionado sin pasar calor?"
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-14-gibraltar-frontera",
-   "title": "El inicio de una nueva era en Gibraltar con la eliminación de los controles fronterizos entre España y Reino Unido",
-   "source": "BBC Mundo",
-   "date": "2026-07-14",
-   "level": "B1-B2",
-   "topics": [
-    "política",
-    "unión europea"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-14-gibraltar-frontera",
-    "revision": 1,
-    "meta": {
-     "title": "El inicio de una nueva era en Gibraltar con la eliminación de los controles fronterizos entre España y Reino Unido",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/c5yz14y8e7do?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-07-14",
-     "date_processed": "2026-07-14",
-     "tags": [
-      "política",
-      "unión europea"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "Gibraltar, the small British territory on Spain's southern tip, is entering a new era after border controls with Spain were removed. For decades, crossing the fence meant long queues and passport checks, a daily obstacle for thousands of workers who live in Spain and cross each morning to work on the Rock. Now, thanks to an agreement negotiated between the United Kingdom, Spain and the European Union, the border opens completely and movement between both sides will be free.\n\nThe opening is expected to boost the local economy, both in Gibraltar and in the nearby Spanish towns that depend on cross-border trade and tourism. Businesses hope to attract more visitors and speed up the transport of goods. However, the agreement also raises questions about the territory's long-term sovereignty, an issue that has caused tension between Madrid and London for centuries.",
-    "resumen_es": "Gibraltar, el pequeño territorio británico en el sur de España, inicia una nueva etapa tras la eliminación de los controles fronterizos con España. Durante décadas, cruzar la verja significaba largas colas y revisiones de pasaporte, un obstáculo diario para miles de trabajadores que cruzan cada mañana para trabajar en el Peñón. Ahora, gracias a un acuerdo entre el Reino Unido, España y la Unión Europea, la frontera se abre por completo y la circulación entre ambos lados será libre.\n\nSe espera que esta apertura impulse la economía local, tanto la de Gibraltar como la de los pueblos españoles vecinos, que dependen del comercio y del turismo transfronterizo. Los negocios confían en atraer más visitantes y agilizar el transporte de mercancías. Sin embargo, el acuerdo también plantea preguntas sobre la soberanía a largo plazo del territorio, un asunto que sigue generando tensión entre Madrid y Londres desde hace siglos.",
-    "vocab": [
-     {
-      "front": "la verja",
-      "pos": "noun",
-      "back": "the border fence/gate",
-      "example": "Cruzar la verja significaba largas colas.",
-      "tier": "B2"
-     },
-     {
-      "front": "cruzar",
-      "pos": "verb",
-      "back": "to cross",
-      "example": "Miles de trabajadores cruzan la frontera cada mañana.",
-      "tier": "B1"
-     },
-     {
-      "front": "el control fronterizo",
-      "pos": "noun",
-      "back": "border control",
-      "example": "Se eliminaron los controles fronterizos entre los dos países.",
-      "tier": "B2"
-     },
-     {
-      "front": "la cola",
-      "pos": "noun",
-      "back": "queue, line",
-      "example": "Había una cola larga para entrar.",
-      "tier": "B1"
-     },
-     {
-      "front": "el acuerdo",
-      "pos": "noun",
-      "back": "agreement",
-      "example": "Firmaron un acuerdo histórico.",
-      "tier": "B1"
-     },
-     {
-      "front": "negociar",
-      "pos": "verb",
-      "back": "to negotiate",
-      "example": "Los gobiernos negociaron durante meses.",
-      "tier": "B2"
-     },
-     {
-      "front": "la soberanía",
-      "pos": "noun",
-      "back": "sovereignty",
-      "example": "La soberanía del territorio sigue en disputa.",
-      "tier": "C1"
-     },
-     {
-      "front": "impulsar",
-      "pos": "verb",
-      "back": "to boost, drive",
-      "example": "El turismo impulsa la economía local.",
-      "tier": "B2"
-     },
-     {
-      "front": "transfronterizo/a",
-      "pos": "adj",
-      "back": "cross-border",
-      "example": "El comercio transfronterizo beneficia a ambos países.",
-      "tier": "C1"
-     },
-     {
-      "front": "las mercancías",
-      "pos": "noun",
-      "back": "goods, merchandise",
-      "example": "El transporte de mercancías es más rápido ahora.",
-      "tier": "B2"
-     },
-     {
-      "front": "el obstáculo",
-      "pos": "noun",
-      "back": "obstacle",
-      "example": "La revisión de pasaportes era un obstáculo diario.",
-      "tier": "B1"
-     },
-     {
-      "front": "a largo plazo",
-      "pos": "phrase",
-      "back": "long term",
-      "example": "Es un plan a largo plazo.",
-      "tier": "B2"
-     },
-     {
-      "front": "la circulación",
-      "pos": "noun",
-      "back": "movement, traffic flow",
-      "example": "La circulación entre los dos lados será libre.",
-      "tier": "B2"
-     },
-     {
-      "front": "confiar en",
-      "pos": "verb",
-      "back": "to trust, count on",
-      "example": "Los negocios confían en atraer más visitantes.",
-      "tier": "B2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Ahora, gracias a un acuerdo entre el Reino Unido, España y la Unión Europea, la frontera se abre por completo y la circulación entre ambos lados será libre.",
-      "point": "futuro simple",
-      "explanation": "Se usa el futuro simple ('será') para hacer una predicción sobre una situación nueva.",
-      "why_tricky": "Los estudiantes confunden a veces el futuro con el presente cuando describen cambios que empiezan ahora pero se consolidarán después."
-     },
-     {
-      "sentence": "Se espera que esta apertura impulse la economía local, tanto la de Gibraltar como la de los pueblos españoles vecinos, que dependen del comercio y del turismo transfronterizo.",
-      "point": "subjuntivo tras expresiones de expectativa",
-      "explanation": "'Se espera que' es una expresión impersonal de esperanza que exige subjuntivo en la cláusula siguiente ('impulse').",
-      "why_tricky": "Los estudiantes suelen usar el indicativo ('impulsa') en vez del subjuntivo porque en inglés no existe este cambio de modo."
-     },
-     {
-      "sentence": "Sin embargo, el acuerdo también plantea preguntas sobre la soberanía a largo plazo del territorio, un asunto que sigue generando tensión entre Madrid y Londres desde hace siglos.",
-      "point": "desde hace + tiempo",
-      "explanation": "Esta estructura expresa la duración de una situación que continúa hasta el presente.",
-      "why_tricky": "Se confunde con 'hace... que' y con el inglés 'for centuries', que no requiere esta construcción con 'desde'."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "poner fin a algo",
-      "meaning": "to put an end to something",
-      "example": "El acuerdo pone fin a décadas de controles fronterizos."
-     },
-     {
-      "phrase": "dar el primer paso",
-      "meaning": "to take the first step",
-      "example": "Este acuerdo da el primer paso hacia una nueva relación entre los dos países."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Por qué eran un problema los controles fronterizos entre España y Gibraltar?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué beneficios económicos se esperan tras la eliminación de la frontera?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué tensión de fondo sigue existiendo entre España y el Reino Unido respecto a Gibraltar?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Crees que la eliminación de fronteras entre países vecinos siempre trae más beneficios que problemas? Explica tu opinión con ejemplos."
    }
   }
  ]
