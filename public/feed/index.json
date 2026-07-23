@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-07-22T20:11:22Z",
+  "generated_at": "2026-07-23T08:14:52Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-07-23-panam-restos",
+      "title": "Hallan los restos del avión de Pan Am cuyo accidente hace más de 70 años marcó un antes y un después en la seguridad aérea",
+      "source": "BBC Mundo",
+      "date": "2026-07-23",
+      "level": "B1-B2",
+      "topics": [
+        "historia",
+        "aviación"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-23-panam-restos",
+        "revision": 1,
+        "meta": {
+          "title": "Hallan los restos del avión de Pan Am cuyo accidente hace más de 70 años marcó un antes y un después en la seguridad aérea",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c4gv3pzy95no?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-07-22",
+          "date_processed": "2026-07-23",
+          "tags": [
+            "historia",
+            "aviación"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "A team of investigators has found the wreckage of a Pan Am airliner that crashed in 1952, more than seventy years after the tragedy. The discovery has finally allowed a painful chapter to close for the victims' families, who for decades did not know exactly what had happened. Experts point out that that accident changed the way we travel by plane forever.\n\nFollowing that disaster, the authorities decided to strengthen safety rules across all commercial aviation. Since then, companies have been required to explain to passengers where the life jackets are and how to use them in an emergency. What today seems like a routine before takeoff was actually born from a lesson learned at a very high price. That is why this discovery does not only interest historians.",
+        "resumen_es": "Un equipo de investigadores ha encontrado los restos de un avión de la aerolínea Pan Am que se estrelló en 1952, más de setenta años después de la tragedia. El hallazgo ha permitido cerrar por fin un capítulo doloroso para las familias de las víctimas, que durante décadas no supieron con exactitud qué había ocurrido. Los expertos señalan que aquel accidente cambió para siempre la forma de viajar en avión.\n\nA raíz de aquel siniestro, las autoridades decidieron reforzar las normas de seguridad en toda la aviación comercial. Desde entonces, las compañías están obligadas a explicar a los pasajeros dónde se encuentran los chalecos salvavidas y cómo usarlos en caso de emergencia. Lo que hoy nos parece una rutina antes de despegar nació, en realidad, de una lección aprendida a un precio muy alto. Por eso, este descubrimiento no solo interesa a los historiadores.",
+        "vocab": [
+          {
+            "front": "los restos",
+            "pos": "noun",
+            "back": "remains, wreckage",
+            "example": "Encontraron los restos del barco en el fondo del mar.",
+            "tier": "B1"
+          },
+          {
+            "front": "estrellarse",
+            "pos": "verb",
+            "back": "to crash",
+            "example": "El avión se estrelló poco después de despegar.",
+            "tier": "B2"
+          },
+          {
+            "front": "el hallazgo",
+            "pos": "noun",
+            "back": "finding, discovery",
+            "example": "El hallazgo sorprendió a toda la comunidad científica.",
+            "tier": "B2"
+          },
+          {
+            "front": "el siniestro",
+            "pos": "noun",
+            "back": "accident, disaster",
+            "example": "El siniestro dejó a varias familias afectadas.",
+            "tier": "B2"
+          },
+          {
+            "front": "reforzar",
+            "pos": "verb",
+            "back": "to strengthen, reinforce",
+            "example": "Decidieron reforzar la seguridad del edificio.",
+            "tier": "B1"
+          },
+          {
+            "front": "el chaleco salvavidas",
+            "pos": "noun",
+            "back": "life jacket",
+            "example": "El chaleco salvavidas está debajo de su asiento.",
+            "tier": "B1"
+          },
+          {
+            "front": "despegar",
+            "pos": "verb",
+            "back": "to take off",
+            "example": "El avión despegó con media hora de retraso.",
+            "tier": "B1"
+          },
+          {
+            "front": "a raíz de",
+            "pos": "phrase",
+            "back": "as a result of",
+            "example": "A raíz de la crisis, muchos cambiaron de trabajo.",
+            "tier": "B2"
+          },
+          {
+            "front": "estar obligado a",
+            "pos": "phrase",
+            "back": "to be required to",
+            "example": "Estamos obligados a respetar las normas.",
+            "tier": "B1"
+          },
+          {
+            "front": "doloroso",
+            "pos": "adj",
+            "back": "painful",
+            "example": "Fue un momento muy doloroso para todos.",
+            "tier": "B1"
+          },
+          {
+            "front": "en caso de emergencia",
+            "pos": "phrase",
+            "back": "in case of emergency",
+            "example": "En caso de emergencia, use la salida más cercana.",
+            "tier": "B1"
+          },
+          {
+            "front": "la aerolínea",
+            "pos": "noun",
+            "back": "airline",
+            "example": "La aerolínea canceló todos los vuelos.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El hallazgo ha permitido cerrar por fin un capítulo doloroso para las familias de las víctimas, que durante décadas no supieron con exactitud qué había ocurrido.",
+            "point": "Pluscuamperfecto frente a pretérito",
+            "explanation": "'Había ocurrido' (pluscuamperfecto) marca una acción anterior a otra acción pasada, 'supieron' (pretérito). El pluscuamperfecto expresa el pasado del pasado.",
+            "why_tricky": "Los aprendices tienden a usar solo el pretérito y olvidan que 'había + participio' sitúa un hecho antes de otro momento ya pasado."
+          },
+          {
+            "sentence": "A raíz de aquel siniestro, las autoridades decidieron reforzar las normas de seguridad en toda la aviación comercial.",
+            "point": "Conector causal 'a raíz de'",
+            "explanation": "'A raíz de' introduce la causa u origen de algo y va seguido de un sustantivo, no de una frase con verbo conjugado.",
+            "why_tricky": "Se confunde con 'a raíz de que' o con 'porque'; aquí necesita un sustantivo ('aquel siniestro'), no una oración."
+          },
+          {
+            "sentence": "Desde entonces, las compañías están obligadas a explicar a los pasajeros dónde se encuentran los chalecos salvavidas y cómo usarlos en caso de emergencia.",
+            "point": "'estar obligado a' + infinitivo",
+            "explanation": "La estructura 'estar obligado a' siempre lleva la preposición 'a' seguida de infinitivo para expresar una obligación impuesta.",
+            "why_tricky": "Es fácil omitir la 'a' o cambiarla por 'de', y el adjetivo debe concordar en género y número con el sujeto (compañías, obligadas)."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "marcar un antes y un después",
+            "meaning": "to be a turning point",
+            "example": "Ese descubrimiento marcó un antes y un después en la medicina."
+          },
+          {
+            "phrase": "a un precio muy alto",
+            "meaning": "at a high cost",
+            "example": "Consiguió el éxito, pero a un precio muy alto."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué fue importante el accidente de Pan Am de 1952 para la aviación?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué normas de seguridad nacieron a raíz de aquel siniestro?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué dice el texto que el descubrimiento no solo interesa a los historiadores?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que las normas de seguridad actuales en los aviones son suficientes? Escribe un párrafo explicando tu opinión."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-23-rosalia-perdon",
+      "title": "La cantante Rosalía pide perdón tras compartir en sus redes un vídeo considerado ofensivo en Argentina después de la final del Mundial",
+      "source": "BBC Mundo",
+      "date": "2026-07-23",
+      "level": "B1-B2",
+      "topics": [
+        "cultura",
+        "música"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-23-rosalia-perdon",
+        "revision": 1,
+        "meta": {
+          "title": "La cantante Rosalía pide perdón tras compartir en sus redes un vídeo considerado ofensivo en Argentina después de la final del Mundial",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cvgveekkzxpo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-07-22",
+          "date_processed": "2026-07-23",
+          "tags": [
+            "cultura",
+            "música"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The Spanish singer Rosalía has apologised after sharing on her social media a video that many Argentine users considered offensive. The post appeared just after Spain's victory over Argentina in the World Cup final. What for her was an innocent joke, for others sounded like mockery towards the rival fans. Within a few hours, the message went viral and unleashed a strong controversy on social media.\n\nAware of the upset she had caused, the artist deleted the video and published a public apology. In it she explained that it was never her intention to disrespect anyone. This episode shows how quickly a simple post can become a problem for famous figures. Nowadays, any gesture on social media is analysed in detail and can have unexpected consequences. That is why many artists are increasingly careful about what they share.",
+        "resumen_es": "La cantante española Rosalía ha pedido perdón después de compartir en sus redes sociales un vídeo que muchos usuarios argentinos consideraron ofensivo. La publicación apareció justo después de la victoria de España sobre Argentina en la final del Mundial. Lo que para ella era una broma inocente, para otros sonó a burla hacia los aficionados rivales. En pocas horas, el mensaje se volvió viral y desató una fuerte polémica en las redes.\n\nConsciente del malestar que había generado, la artista borró el vídeo y publicó una disculpa pública. En ella explicó que nunca fue su intención faltar al respeto a nadie. Este episodio demuestra lo rápido que una simple publicación puede convertirse en un problema para las figuras famosas. Hoy en día, cualquier gesto en las redes se analiza al detalle y puede tener consecuencias inesperadas. Por eso, muchos artistas cuidan cada vez más lo que comparten.",
+        "vocab": [
+          {
+            "front": "pedir perdón",
+            "pos": "phrase",
+            "back": "to apologise",
+            "example": "Le pidió perdón por llegar tarde.",
+            "tier": "B1"
+          },
+          {
+            "front": "las redes sociales",
+            "pos": "noun",
+            "back": "social media",
+            "example": "Pasa demasiado tiempo en las redes sociales.",
+            "tier": "B1"
+          },
+          {
+            "front": "la publicación",
+            "pos": "noun",
+            "back": "post, publication",
+            "example": "Su publicación recibió miles de comentarios.",
+            "tier": "B1"
+          },
+          {
+            "front": "la broma",
+            "pos": "noun",
+            "back": "joke",
+            "example": "Solo era una broma, no te enfades.",
+            "tier": "B1"
+          },
+          {
+            "front": "la burla",
+            "pos": "noun",
+            "back": "mockery, taunt",
+            "example": "Sus palabras sonaron a burla.",
+            "tier": "B2"
+          },
+          {
+            "front": "el aficionado",
+            "pos": "noun",
+            "back": "fan, supporter",
+            "example": "Los aficionados celebraron el gol.",
+            "tier": "B1"
+          },
+          {
+            "front": "volverse viral",
+            "pos": "phrase",
+            "back": "to go viral",
+            "example": "El vídeo se volvió viral en un día.",
+            "tier": "B2"
+          },
+          {
+            "front": "desatar",
+            "pos": "verb",
+            "back": "to trigger, unleash",
+            "example": "La noticia desató muchas críticas.",
+            "tier": "B2"
+          },
+          {
+            "front": "la polémica",
+            "pos": "noun",
+            "back": "controversy",
+            "example": "Sus declaraciones generaron polémica.",
+            "tier": "B2"
+          },
+          {
+            "front": "el malestar",
+            "pos": "noun",
+            "back": "discomfort, upset",
+            "example": "La decisión provocó malestar entre los vecinos.",
+            "tier": "B2"
+          },
+          {
+            "front": "borrar",
+            "pos": "verb",
+            "back": "to delete",
+            "example": "Borró el mensaje enseguida.",
+            "tier": "B1"
+          },
+          {
+            "front": "la disculpa",
+            "pos": "noun",
+            "back": "apology",
+            "example": "Ofreció una disculpa sincera.",
+            "tier": "B1"
+          },
+          {
+            "front": "faltar al respeto",
+            "pos": "phrase",
+            "back": "to disrespect",
+            "example": "No quiso faltar al respeto a nadie.",
+            "tier": "B2"
+          },
+          {
+            "front": "cuidar",
+            "pos": "verb",
+            "back": "to be careful with, look after",
+            "example": "Hay que cuidar lo que se dice en público.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Lo que para ella era una broma inocente, para otros sonó a burla hacia los aficionados rivales.",
+            "point": "Imperfecto frente a pretérito y 'lo que'",
+            "explanation": "'Era' (imperfecto) describe una situación o percepción; 'sonó' (pretérito) marca un hecho puntual. 'Lo que' introduce una idea sin nombrarla directamente.",
+            "why_tricky": "Elegir entre imperfecto y pretérito depende de si describimos ('era') o narramos un momento concreto ('sonó')."
+          },
+          {
+            "sentence": "Consciente del malestar que había generado, la artista borró el vídeo y publicó una disculpa pública.",
+            "point": "Pluscuamperfecto 'había generado'",
+            "explanation": "'Había generado' expresa una acción anterior a otras acciones pasadas ('borró', 'publicó'): el malestar existía antes de borrar el vídeo.",
+            "why_tricky": "Se olvida que el pluscuamperfecto sitúa un hecho antes de otro pasado, y no se sustituye por el pretérito sin cambiar el sentido."
+          },
+          {
+            "sentence": "Este episodio demuestra lo rápido que una simple publicación puede convertirse en un problema para las figuras famosas.",
+            "point": "Estructura 'lo + adjetivo + que'",
+            "explanation": "'Lo rápido que' expresa el grado o la intensidad de algo, equivalente a 'cuán rápido'. El adjetivo concuerda con el sustantivo al que se refiere.",
+            "why_tricky": "Los aprendices suelen decir 'como de rápido' o 'qué rápido'; la forma culta es 'lo rápido que'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "faltar al respeto",
+            "meaning": "to disrespect someone",
+            "example": "Nunca le faltaría al respeto a su jefe."
+          },
+          {
+            "phrase": "hoy en día",
+            "meaning": "nowadays, these days",
+            "example": "Hoy en día casi todos usan el móvil para todo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué se molestaron muchos usuarios argentinos con Rosalía?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué hizo la cantante cuando se dio cuenta del malestar que había causado?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué enseña este episodio sobre el uso de las redes por parte de los famosos?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que las personas famosas deberían tener más cuidado con lo que publican en las redes? Explica tu opinión en un párrafo."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-23-paraguay-salud",
+      "title": "Cómo el sistema de salud en Paraguay lleva a los pacientes a endeudarse",
+      "source": "BBC Mundo",
+      "date": "2026-07-23",
+      "level": "B1-B2",
+      "topics": [
+        "salud",
+        "sociedad"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-23-paraguay-salud",
+        "revision": 1,
+        "meta": {
+          "title": "Cómo el sistema de salud en Paraguay lleva a los pacientes a endeudarse",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cn754lv856ko?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-07-22",
+          "date_processed": "2026-07-23",
+          "tags": [
+            "salud",
+            "sociedad"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "In Paraguay, seven out of ten people do not have health insurance and depend on a poorly funded public system. When a serious illness arises, many families are forced to sell their belongings or to borrow money in order to pay for treatment. Behind every bill there are stories of sacrifice, like that of a mother who had to get rid of her jewellery to fund her daughter's care.\n\nExperts warn that this situation pushes thousands of people towards poverty every year. Although the country has grown economically, spending on health remains low and unequal. Rural areas are the most affected, since hospitals and medical staff are scarce there. Many citizens are demanding a deep reform that guarantees access to healthcare without ruining families. In the meantime, getting into debt has become almost inevitable.",
+        "resumen_es": "En Paraguay, siete de cada diez personas no cuentan con un seguro médico y dependen de un sistema público mal financiado. Cuando surge una enfermedad grave, muchas familias se ven obligadas a vender sus pertenencias o a pedir dinero prestado para poder pagar el tratamiento. Detrás de cada factura hay historias de sacrificio, como la de una madre que tuvo que deshacerse de sus joyas para costear la atención de su hija.\n\nLos expertos advierten de que esta situación empuja a miles de personas hacia la pobreza cada año. Aunque el país ha crecido económicamente, el gasto en salud sigue siendo bajo y desigual. Las zonas rurales son las más perjudicadas, ya que allí escasean los hospitales y el personal médico. Muchos ciudadanos reclaman una reforma profunda que garantice el acceso a la sanidad sin arruinar a las familias. Mientras tanto, endeudarse se ha vuelto casi inevitable.",
+        "vocab": [
+          {
+            "front": "el seguro médico",
+            "pos": "noun",
+            "back": "health insurance",
+            "example": "Sin seguro médico, la operación cuesta una fortuna.",
+            "tier": "B1"
+          },
+          {
+            "front": "endeudarse",
+            "pos": "verb",
+            "back": "to get into debt",
+            "example": "Se endeudó para pagar los estudios.",
+            "tier": "B2"
+          },
+          {
+            "front": "la factura",
+            "pos": "noun",
+            "back": "bill, invoice",
+            "example": "La factura del hospital era altísima.",
+            "tier": "B1"
+          },
+          {
+            "front": "deshacerse de",
+            "pos": "phrase",
+            "back": "to get rid of",
+            "example": "Tuvo que deshacerse de su coche.",
+            "tier": "B2"
+          },
+          {
+            "front": "costear",
+            "pos": "verb",
+            "back": "to fund, pay for",
+            "example": "No podía costear el tratamiento.",
+            "tier": "B2"
+          },
+          {
+            "front": "pedir prestado",
+            "pos": "phrase",
+            "back": "to borrow",
+            "example": "Le pidió prestado dinero a un amigo.",
+            "tier": "B1"
+          },
+          {
+            "front": "las pertenencias",
+            "pos": "noun",
+            "back": "belongings",
+            "example": "Guardó todas sus pertenencias en una caja.",
+            "tier": "B2"
+          },
+          {
+            "front": "el gasto",
+            "pos": "noun",
+            "back": "spending, expense",
+            "example": "El gasto en educación aumentó este año.",
+            "tier": "B1"
+          },
+          {
+            "front": "desigual",
+            "pos": "adj",
+            "back": "unequal",
+            "example": "El reparto de la riqueza es desigual.",
+            "tier": "B2"
+          },
+          {
+            "front": "escasear",
+            "pos": "verb",
+            "back": "to be scarce",
+            "example": "En verano escasea el agua.",
+            "tier": "B2"
+          },
+          {
+            "front": "la sanidad",
+            "pos": "noun",
+            "back": "healthcare (system)",
+            "example": "La sanidad pública atiende a todos.",
+            "tier": "B2"
+          },
+          {
+            "front": "la pobreza",
+            "pos": "noun",
+            "back": "poverty",
+            "example": "Muchas familias viven en la pobreza.",
+            "tier": "B1"
+          },
+          {
+            "front": "reclamar",
+            "pos": "verb",
+            "back": "to demand, call for",
+            "example": "Los vecinos reclaman más seguridad.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Cuando surge una enfermedad grave, muchas familias se ven obligadas a vender sus pertenencias o a pedir dinero prestado para poder pagar el tratamiento.",
+            "point": "'verse obligado a' y 'para' final",
+            "explanation": "'Se ven obligadas a' expresa una obligación forzada por las circunstancias. 'Para poder pagar' introduce la finalidad con 'para' + infinitivo.",
+            "why_tricky": "El verbo 'ver' aquí es pronominal ('verse') y el participio 'obligadas' concuerda con 'familias'; se repite la 'a' antes de cada infinitivo."
+          },
+          {
+            "sentence": "Aunque el país ha crecido económicamente, el gasto en salud sigue siendo bajo y desigual.",
+            "point": "'aunque' + indicativo y 'seguir' + gerundio",
+            "explanation": "'Aunque' con indicativo ('ha crecido') presenta un hecho real como contraste. 'Sigue siendo' expresa una situación que continúa.",
+            "why_tricky": "'Aunque' puede llevar subjuntivo cuando la idea es hipotética, pero aquí es un hecho comprobado, así que va en indicativo."
+          },
+          {
+            "sentence": "Muchos ciudadanos reclaman una reforma profunda que garantice el acceso a la sanidad sin arruinar a las familias.",
+            "point": "Subjuntivo en oración de relativo",
+            "explanation": "'Que garantice' va en subjuntivo porque describe una reforma deseada pero aún inexistente; el antecedente es indefinido.",
+            "why_tricky": "Si la reforma ya existiera, se usaría el indicativo ('que garantiza'); el subjuntivo marca que todavía es algo buscado."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "verse entre la espada y la pared",
+            "meaning": "to be caught between a rock and a hard place",
+            "example": "Sin dinero ni ayuda, se vio entre la espada y la pared."
+          },
+          {
+            "phrase": "hacer frente a",
+            "meaning": "to face, to cope with",
+            "example": "Tuvieron que hacer frente a muchas deudas."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué hacen muchas familias paraguayas cuando aparece una enfermedad grave?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué son las zonas rurales las más perjudicadas?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué tipo de reforma reclaman muchos ciudadanos y por qué?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Debería el acceso a la sanidad ser un derecho garantizado para todos? Justifica tu respuesta en un párrafo."
+      }
+    },
     {
       "pack_id": "feed-2026-07-22-repartidor-poeta",
       "title": "Escribía versos entre entrega y entrega: el repartidor de comida que ganó uno de los mayores premios literarios de China",
@@ -6022,499 +6529,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que negociar con un gobierno cuestionado es la mejor manera de recuperar la democracia? Escribe tu opinión en unas 100 palabras."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-16-adn-genealogia-abuela",
-      "title": "La abuela jubilada que resuelve asesinatos con muestras de ADN y árboles genealógicos",
-      "source": "BBC Mundo",
-      "date": "2026-07-15",
-      "level": "B1-B2",
-      "topics": [
-        "ciencia",
-        "crimen"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-16-adn-genealogia-abuela",
-        "revision": 1,
-        "meta": {
-          "title": "La abuela jubilada que resuelve asesinatos con muestras de ADN y árboles genealógicos",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c0jyxjew282o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-15",
-          "date_processed": "2026-07-16",
-          "tags": [
-            "ciencia",
-            "crimen"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Margaret Press, a retired grandmother, has become a key figure in modern criminal investigation. Her idea was to combine DNA technology with genealogy, that is, with the building of family trees. Thanks to this method, she and her team have managed to identify murder victims whose cases had gone unsolved for decades.\n\nThe process works like this: a DNA sample is compared with genealogical databases and distant relatives of the unknown person are sought. Then volunteers reconstruct the family tree until they come up with a name. The technique has given their identity back to numerous victims and has reopened cases the police had shelved, although it also raises debates about genetic privacy.",
-        "resumen_es": "Margaret Press, una abuela jubilada, se ha convertido en una figura clave de la investigación criminal moderna. Su idea fue combinar la tecnología del ADN con la genealogía, es decir, con la construcción de árboles genealógicos. Gracias a este método, ella y su equipo han logrado identificar a víctimas de asesinato cuyos casos llevaban décadas sin resolverse.\n\nEl proceso funciona así: se compara una muestra de ADN con bases de datos genealógicas y se buscan parientes lejanos de la persona desconocida. Después, los voluntarios reconstruyen el árbol familiar hasta dar con un nombre. La técnica ha devuelto la identidad a numerosas víctimas y ha reabierto casos que la policía había archivado, aunque también plantea debates sobre la privacidad genética.",
-        "vocab": [
-          {
-            "front": "jubilado",
-            "pos": "adj",
-            "back": "retired",
-            "example": "Mi padre está jubilado desde hace dos años.",
-            "tier": "B1"
-          },
-          {
-            "front": "el ADN",
-            "pos": "noun",
-            "back": "DNA",
-            "example": "La policía analizó el ADN encontrado en la escena.",
-            "tier": "B1"
-          },
-          {
-            "front": "el árbol genealógico",
-            "pos": "phrase",
-            "back": "family tree",
-            "example": "Construyó su árbol genealógico hasta el siglo XIX.",
-            "tier": "B1"
-          },
-          {
-            "front": "la muestra",
-            "pos": "noun",
-            "back": "sample",
-            "example": "Tomaron una muestra de sangre para el análisis.",
-            "tier": "B1"
-          },
-          {
-            "front": "el pariente lejano",
-            "pos": "phrase",
-            "back": "distant relative",
-            "example": "Encontró a un pariente lejano en otro país.",
-            "tier": "B1"
-          },
-          {
-            "front": "dar con",
-            "pos": "phrase",
-            "back": "to come across, to find",
-            "example": "Tras meses de búsqueda, dieron con el sospechoso.",
-            "tier": "B2"
-          },
-          {
-            "front": "archivar un caso",
-            "pos": "phrase",
-            "back": "to shelve a case",
-            "example": "La policía archivó el caso por falta de pruebas.",
-            "tier": "B2"
-          },
-          {
-            "front": "reabrir",
-            "pos": "verb",
-            "back": "to reopen",
-            "example": "El juez decidió reabrir la investigación.",
-            "tier": "B2"
-          },
-          {
-            "front": "plantear",
-            "pos": "verb",
-            "back": "to raise (an issue)",
-            "example": "La nueva técnica plantea dudas éticas.",
-            "tier": "B2"
-          },
-          {
-            "front": "la privacidad",
-            "pos": "noun",
-            "back": "privacy",
-            "example": "Muchos temen por la privacidad de sus datos.",
-            "tier": "B1"
-          },
-          {
-            "front": "el asesinato",
-            "pos": "noun",
-            "back": "murder",
-            "example": "El asesinato quedó sin resolver durante años.",
-            "tier": "B1"
-          },
-          {
-            "front": "la figura clave",
-            "pos": "phrase",
-            "back": "key figure",
-            "example": "Es una figura clave del proyecto.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Gracias a este método, ella y su equipo han logrado identificar a víctimas de asesinato cuyos casos llevaban décadas sin resolverse.",
-            "point": "'Cuyo' and 'llevar + time + sin + infinitive'",
-            "explanation": "'Cuyos casos' means 'whose cases', agreeing with 'casos', not with the victims. 'Llevaban décadas sin resolverse' literally 'carried decades without solving themselves', a very Spanish way to say they had been unsolved for decades.",
-            "why_tricky": "'Cuyo' barely exists in spoken English-style structures, and the 'llevar + time + sin' construction has no word-for-word English equivalent."
-          },
-          {
-            "sentence": "El proceso funciona así: se compara una muestra de ADN con bases de datos genealógicas y se buscan parientes lejanos de la persona desconocida.",
-            "point": "Passive 'se' with verb agreement",
-            "explanation": "In passive-se sentences the verb agrees with the thing acted on: 'se compara una muestra' (singular) but 'se buscan parientes' (plural).",
-            "why_tricky": "Learners often leave the verb singular in both cases; the plural agreement in 'se buscan' is easy to miss."
-          },
-          {
-            "sentence": "La técnica ha devuelto la identidad a numerosas víctimas y ha reabierto casos que la policía había archivado, aunque también plantea debates sobre la privacidad genética.",
-            "point": "Pluperfect 'había archivado'",
-            "explanation": "The pluperfect (había + participle) marks an action completed before another past action: the police had shelved the cases before the technique reopened them.",
-            "why_tricky": "Sequencing two past events forces a choice between perfect, preterite and pluperfect that English often blurs with just 'had'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "dar con",
-            "meaning": "to finally find something or someone",
-            "example": "Después de horas buscando, di con la dirección correcta."
-          },
-          {
-            "phrase": "figura clave",
-            "meaning": "key figure, essential person",
-            "example": "La doctora fue una figura clave en la investigación."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué dos disciplinas combinó Margaret Press y con qué objetivo?",
-            "type": "open"
-          },
-          {
-            "q": "¿Cómo funciona el proceso para identificar a una persona desconocida?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué debate plantea esta técnica según el texto?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Deberían la policía y los voluntarios poder usar bases de datos genéticas de particulares para resolver crímenes? Escribe tu opinión en unas 100 palabras."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-16-edificios-antisismicos",
-      "title": "Qué puede aprender Venezuela de Chile, Japón y otros países que construyen edificios \"sobre patines\" para resistir terremotos",
-      "source": "BBC Mundo",
-      "date": "2026-07-15",
-      "level": "B1-B2",
-      "topics": [
-        "ciencia",
-        "ingeniería"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-16-edificios-antisismicos",
-        "revision": 1,
-        "meta": {
-          "title": "Qué puede aprender Venezuela de Chile, Japón y otros países que construyen edificios \"sobre patines\" para resistir terremotos",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c9929p8j450o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-15",
-          "date_processed": "2026-07-16",
-          "tags": [
-            "ciencia",
-            "ingeniería"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "After the earthquakes that devastated part of Venezuela, Chilean experts are analysing what lessons the country can learn in order to rebuild more safely. Chile and Japan are at the forefront of anti-seismic engineering and build buildings \"on skates\": isolators that separate the structure from the ground and absorb movement during a quake. According to the specialists, the images of collapsed buildings in Venezuela clearly show construction failures.\n\nThe key, they point out, is not only the technology but also the rules. In Chile, building codes are strict and are updated after every major earthquake, and compliance is rigorously enforced. Applying similar standards will demand investment and political will, but it could save thousands of lives the next time the earth shakes.",
-        "resumen_es": "Tras los terremotos que devastaron parte de Venezuela, expertos chilenos analizan qué lecciones puede aprender el país para reconstruir de forma más segura. Chile y Japón están a la vanguardia de la ingeniería antisísmica y construyen edificios \"sobre patines\": aisladores que separan la estructura del suelo y absorben el movimiento durante un sismo. Según los especialistas, las imágenes de edificios colapsados en Venezuela muestran claramente fallas de construcción.\n\nLa clave, señalan, no es solo la tecnología sino también las normas. En Chile, los códigos de construcción son estrictos y se actualizan después de cada gran terremoto, y su cumplimiento se controla con rigor. Aplicar estándares parecidos exigirá inversión y voluntad política, pero podría salvar miles de vidas la próxima vez que la tierra tiemble.",
-        "vocab": [
-          {
-            "front": "el terremoto / el sismo",
-            "pos": "noun",
-            "back": "earthquake",
-            "example": "El sismo destruyó varios edificios del centro.",
-            "tier": "B1"
-          },
-          {
-            "front": "devastar",
-            "pos": "verb",
-            "back": "to devastate",
-            "example": "El huracán devastó la costa del país.",
-            "tier": "B2"
-          },
-          {
-            "front": "a la vanguardia",
-            "pos": "phrase",
-            "back": "at the forefront",
-            "example": "Japón está a la vanguardia de la robótica.",
-            "tier": "B2"
-          },
-          {
-            "front": "el aislador",
-            "pos": "noun",
-            "back": "isolator, insulator",
-            "example": "Los aisladores reducen el movimiento del edificio.",
-            "tier": "C1"
-          },
-          {
-            "front": "absorber",
-            "pos": "verb",
-            "back": "to absorb",
-            "example": "El sistema absorbe la energía del impacto.",
-            "tier": "B1"
-          },
-          {
-            "front": "la falla",
-            "pos": "noun",
-            "back": "fault, defect (LatAm)",
-            "example": "El informe reveló fallas graves de diseño.",
-            "tier": "B2"
-          },
-          {
-            "front": "la norma",
-            "pos": "noun",
-            "back": "rule, standard",
-            "example": "Las normas de seguridad son obligatorias.",
-            "tier": "B1"
-          },
-          {
-            "front": "el código de construcción",
-            "pos": "phrase",
-            "back": "building code",
-            "example": "El código de construcción se reformó tras el desastre.",
-            "tier": "B2"
-          },
-          {
-            "front": "el cumplimiento",
-            "pos": "noun",
-            "back": "compliance, fulfilment",
-            "example": "El cumplimiento de la ley se vigila con inspecciones.",
-            "tier": "B2"
-          },
-          {
-            "front": "el rigor",
-            "pos": "noun",
-            "back": "rigour, strictness",
-            "example": "Revisaron el proyecto con mucho rigor.",
-            "tier": "B2"
-          },
-          {
-            "front": "exigir",
-            "pos": "verb",
-            "back": "to demand, to require",
-            "example": "El plan exigirá una gran inversión pública.",
-            "tier": "B1"
-          },
-          {
-            "front": "temblar",
-            "pos": "verb",
-            "back": "to shake, to tremble",
-            "example": "La tierra tembló durante casi un minuto.",
-            "tier": "B1"
-          },
-          {
-            "front": "señalar",
-            "pos": "verb",
-            "back": "to point out",
-            "example": "Los expertos señalan que faltan controles.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La clave, señalan, no es solo la tecnología sino también las normas.",
-            "point": "'No solo... sino también'",
-            "explanation": "To correct or expand a negative statement, Spanish uses 'sino' instead of 'pero': not only the technology but also the rules. 'Señalan' inserted between commas is a reporting verb, common in journalism.",
-            "why_tricky": "English 'but' translates as both 'pero' and 'sino'; after a negation that introduces an alternative, only 'sino' is correct."
-          },
-          {
-            "sentence": "Aplicar estándares parecidos exigirá inversión y voluntad política, pero podría salvar miles de vidas la próxima vez que la tierra tiemble.",
-            "point": "Subjunctive after 'la próxima vez que'",
-            "explanation": "Future or hypothetical time clauses take the subjunctive: la próxima vez que la tierra tiemble (the next time the earth shakes). An infinitive phrase (Aplicar estándares parecidos) acts as the subject of the sentence.",
-            "why_tricky": "English uses the present ('the next time the earth shakes'), so nothing signals to learners that Spanish needs 'tiemble' rather than 'tiembla'."
-          },
-          {
-            "sentence": "En Chile, los códigos de construcción son estrictos y se actualizan después de cada gran terremoto, y su cumplimiento se controla con rigor.",
-            "point": "Passive 'se' for processes",
-            "explanation": "'Se actualizan' and 'se controla' express passive meaning without naming the agent: the codes are updated, compliance is monitored. Very frequent in formal and technical texts.",
-            "why_tricky": "Learners tend to overuse 'ser + participle' passives; the 'se' passive is what natives actually prefer in this register."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "estar a la vanguardia",
-            "meaning": "to be at the cutting edge",
-            "example": "Esta universidad está a la vanguardia de la investigación médica."
-          },
-          {
-            "phrase": "sobre patines",
-            "meaning": "on skates (here: on seismic isolators, moving freely)",
-            "example": "Los hospitales nuevos se construyen literalmente sobre patines."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué son los edificios \"sobre patines\" y cómo funcionan los aisladores?",
-            "type": "open"
-          },
-          {
-            "q": "Según los especialistas, ¿qué muestran las imágenes de los edificios colapsados en Venezuela?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué son tan importantes las normas y su cumplimiento, además de la tecnología?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Debería un país con pocos recursos invertir en tecnología antisísmica cara o priorizar otras necesidades? Justifica tu postura en unas 100 palabras."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-16-argentina-final-espana",
-      "title": "Mundial 2026: Argentina jugará la final contra España",
-      "source": "RFI en español",
-      "date": "2026-07-15",
-      "level": "B1-B2",
-      "topics": [
-        "deportes",
-        "mundial"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-16-argentina-final-espana",
-        "revision": 1,
-        "meta": {
-          "title": "Mundial 2026: Argentina jugará la final contra España",
-          "source": "RFI en español",
-          "url": "https://www.rfi.fr/es/deportes/20260715-mundial-2026-argentina-jugar%C3%A1-la-final-contra-espa%C3%B1a",
-          "date_published": "2026-07-15",
-          "date_processed": "2026-07-16",
-          "tags": [
-            "deportes",
-            "mundial"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The Argentine national team beat England 2-1 in the World Cup 2026 semi-final, played in Atlanta, and qualified for the tournament's final. England went ahead with a goal from Gordon, but Lionel Messi's side managed to turn the match around thanks to goals from Enzo Fernandez and Lautaro Martinez. Argentina, the current world champions, are now aiming to win their fourth title, while the English were chasing their second star sixty years after their first.\n\nThe final will be played on Sunday against Spain, who knocked out France with a convincing 2-0 thanks to goals from Oyarzabal and Porro. For many fans, this tournament has a special flavour: it could be Messi's last World Cup, and the desire to see him crowned champion again has driven the team through the most difficult moments.",
-        "resumen_es": "La selección argentina venció 2-1 a Inglaterra en la semifinal del Mundial 2026, disputada en Atlanta, y se clasificó para la final del torneo. Inglaterra se adelantó con un gol de Gordon, pero el equipo de Lionel Messi logró remontar el partido gracias a los goles de Enzo Fernández y Lautaro Martínez. Argentina, actual campeona del mundo, aspira ahora a conquistar su cuarto título, mientras que los ingleses buscaban su segunda estrella sesenta años después de la primera.\n\nLa final se jugará el domingo contra España, que eliminó a Francia con un contundente 2-0 gracias a los tantos de Oyarzabal y Porro. Para muchos aficionados, este torneo tiene un sabor especial: podría ser el último Mundial de Messi, y el deseo de verlo campeón de nuevo ha impulsado al equipo en los momentos más difíciles.",
-        "vocab": [
-          {
-            "front": "remontar",
-            "pos": "verb",
-            "back": "to come back, to overturn a score",
-            "example": "El equipo remontó el partido en la segunda parte.",
-            "tier": "B2"
-          },
-          {
-            "front": "adelantarse",
-            "pos": "verb",
-            "back": "to take the lead",
-            "example": "El rival se adelantó en el marcador muy pronto.",
-            "tier": "B2"
-          },
-          {
-            "front": "clasificarse",
-            "pos": "verb",
-            "back": "to qualify",
-            "example": "España se clasificó para la final del torneo.",
-            "tier": "B1"
-          },
-          {
-            "front": "contundente",
-            "pos": "adj",
-            "back": "convincing, emphatic",
-            "example": "Ganaron con una victoria contundente.",
-            "tier": "B2"
-          },
-          {
-            "front": "el tanto",
-            "pos": "noun",
-            "back": "goal, point (in sport)",
-            "example": "El delantero marcó el tanto de la victoria.",
-            "tier": "B2"
-          },
-          {
-            "front": "aspirar a",
-            "pos": "phrase",
-            "back": "to aspire to, to aim for",
-            "example": "El club aspira a ganar el título este año.",
-            "tier": "B1"
-          },
-          {
-            "front": "impulsar",
-            "pos": "verb",
-            "back": "to drive, to boost",
-            "example": "El apoyo del público impulsó al equipo.",
-            "tier": "B2"
-          },
-          {
-            "front": "el aficionado",
-            "pos": "noun",
-            "back": "fan, supporter",
-            "example": "Los aficionados celebraron en las calles.",
-            "tier": "B1"
-          },
-          {
-            "front": "disputar",
-            "pos": "verb",
-            "back": "to play, to contest",
-            "example": "La final se disputará el domingo en Nueva York.",
-            "tier": "B2"
-          },
-          {
-            "front": "la estrella",
-            "pos": "noun",
-            "back": "star (also: championship won)",
-            "example": "El equipo busca su segunda estrella mundial.",
-            "tier": "B1"
-          },
-          {
-            "front": "lograr",
-            "pos": "verb",
-            "back": "to manage to, to achieve",
-            "example": "Lograron ganar en el último minuto.",
-            "tier": "B1"
-          },
-          {
-            "front": "el sabor",
-            "pos": "noun",
-            "back": "flavour, feel",
-            "example": "Esta victoria tiene un sabor muy especial.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Inglaterra se adelantó con un gol de Gordon, pero el equipo de Lionel Messi logró remontar el partido gracias a los goles de Enzo Fernández y Lautaro Martínez.",
-            "point": "lograr + infinitive in the preterite",
-            "explanation": "Lograr followed directly by an infinitive means to manage to do something. In the preterite (logró remontar) it stresses a completed achievement.",
-            "why_tricky": "English speakers often insert an unnecessary preposition (logró a remontar). No preposition is used."
-          },
-          {
-            "sentence": "La final se jugará el domingo contra España, que eliminó a Francia con un contundente 2-0 gracias a los tantos de Oyarzabal y Porro.",
-            "point": "pasiva refleja with future tense",
-            "explanation": "Se jugará is a passive se construction: the match will be played, without naming who organises it. Very common in news and sport.",
-            "why_tricky": "Learners expect a full passive (será jugada), but Spanish strongly prefers the se form here."
-          },
-          {
-            "sentence": "Para muchos aficionados, este torneo tiene un sabor especial: podría ser el último Mundial de Messi, y el deseo de verlo campeón de nuevo ha impulsado al equipo en los momentos más difíciles.",
-            "point": "conditional for speculation + present perfect",
-            "explanation": "Podría ser expresses a possibility, not a fact. Ha impulsado (present perfect) connects past events to the present moment of the tournament.",
-            "why_tricky": "Mixing tenses in one sentence is natural in Spanish journalism but hard to produce; note also verlo campeón (to see him as champion) with no como."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "tener un sabor especial",
-            "meaning": "to feel special, to have extra meaning",
-            "example": "Ganar en casa siempre tiene un sabor especial."
-          },
-          {
-            "phrase": "dejarse la piel",
-            "meaning": "to give absolutely everything",
-            "example": "Los jugadores se dejaron la piel en la semifinal."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Cómo consiguió Argentina darle la vuelta al partido contra Inglaterra?",
-            "type": "open"
-          },
-          {
-            "q": "¿Quién será el rival de Argentina en la final y cómo llegó hasta allí?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué este Mundial tiene un significado especial para muchos aficionados argentinos?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que las despedidas de los grandes ídolos deportivos influyen demasiado en cómo vivimos los torneos? Escribe unas líneas justificando tu opinión."
       }
     }
   ]
