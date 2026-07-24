@@ -1,7 +1,507 @@
 {
-  "generated_at": "2026-07-23T21:18:31Z",
+  "generated_at": "2026-07-24T20:14:09Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-07-24-tipos-procrastinacion",
+      "title": "9 tipos de personas que procrastinan y cómo solucionarlo ahora (no después)",
+      "source": "BBC Mundo",
+      "date": "2026-07-24",
+      "level": "B1-B2",
+      "topics": [
+        "psicología",
+        "hábitos"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-24-tipos-procrastinacion",
+        "revision": 1,
+        "meta": {
+          "title": "9 tipos de personas que procrastinan y cómo solucionarlo ahora (no después)",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cr594v9p22yo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-07-24",
+          "date_processed": "2026-07-24",
+          "tags": [
+            "psicología",
+            "hábitos"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "A recent article argues that there are nine types of people who tend to put off their tasks, and that recognising our own profile can help us fight procrastination. According to the researchers it cites, leaving things for later is not always due to laziness, but often hides fears, perfectionism or a lack of motivation. Identifying the specific pattern we usually fall into would therefore be the first step to changing it.\n\nThe experts explain that each type needs a different strategy. Someone who seeks perfection, for example, should learn to accept imperfect results, while someone who gets distracted easily needs to reduce interruptions. In every case, breaking a big task into small steps and starting immediately is more effective than waiting for the ideal moment. In the end, the message is clear: the key is not to feel guilty, but to understand why we delay and act accordingly.",
+        "resumen_es": "Un artículo reciente sostiene que existen nueve tipos de personas que suelen posponer sus tareas, y que reconocer nuestro perfil puede ayudarnos a combatir la procrastinación. Según los investigadores citados, dejar las cosas para más tarde no siempre se debe a la pereza, sino que a menudo esconde miedos, perfeccionismo o falta de motivación. Identificar el patrón concreto en el que solemos caer sería, por tanto, el primer paso para cambiarlo.\n\nLos expertos explican que cada tipo requiere una estrategia distinta. Quien busca la perfección, por ejemplo, debería aprender a aceptar resultados imperfectos, mientras que quien se distrae con facilidad necesita reducir las interrupciones. En todos los casos, dividir una tarea grande en pequeños pasos y empezar de inmediato resulta más eficaz que esperar el momento ideal. Al final, el mensaje es claro: la clave no consiste en sentirse culpable, sino en entender por qué aplazamos y actuar en consecuencia.",
+        "vocab": [
+          {
+            "front": "posponer",
+            "pos": "verb",
+            "back": "to postpone, put off",
+            "example": "Suele posponer las tareas difíciles hasta el último momento.",
+            "tier": "B1"
+          },
+          {
+            "front": "la procrastinación",
+            "pos": "noun",
+            "back": "procrastination",
+            "example": "La procrastinación afecta a muchos estudiantes.",
+            "tier": "B2"
+          },
+          {
+            "front": "la pereza",
+            "pos": "noun",
+            "back": "laziness",
+            "example": "No fue por pereza, sino por miedo.",
+            "tier": "B1"
+          },
+          {
+            "front": "el perfeccionismo",
+            "pos": "noun",
+            "back": "perfectionism",
+            "example": "Su perfeccionismo le impide terminar el trabajo.",
+            "tier": "B2"
+          },
+          {
+            "front": "aplazar",
+            "pos": "verb",
+            "back": "to delay, defer",
+            "example": "Decidió aplazar la reunión hasta el lunes.",
+            "tier": "B2"
+          },
+          {
+            "front": "la tarea",
+            "pos": "noun",
+            "back": "task",
+            "example": "Divide la tarea en pasos pequeños.",
+            "tier": "B1"
+          },
+          {
+            "front": "distraerse",
+            "pos": "verb",
+            "back": "to get distracted",
+            "example": "Se distrae con cualquier ruido.",
+            "tier": "B1"
+          },
+          {
+            "front": "la interrupción",
+            "pos": "noun",
+            "back": "interruption",
+            "example": "Las interrupciones reducen la concentración.",
+            "tier": "B1"
+          },
+          {
+            "front": "eficaz",
+            "pos": "adj",
+            "back": "effective",
+            "example": "Este método es muy eficaz.",
+            "tier": "B1"
+          },
+          {
+            "front": "sentirse culpable",
+            "pos": "phrase",
+            "back": "to feel guilty",
+            "example": "No debes sentirte culpable por descansar.",
+            "tier": "B1"
+          },
+          {
+            "front": "el patrón",
+            "pos": "noun",
+            "back": "pattern",
+            "example": "Reconoció el patrón de su comportamiento.",
+            "tier": "B2"
+          },
+          {
+            "front": "en consecuencia",
+            "pos": "adv",
+            "back": "accordingly, as a result",
+            "example": "Entendió el problema y actuó en consecuencia.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Identificar el patrón concreto en el que solemos caer sería, por tanto, el primer paso para cambiarlo.",
+            "point": "Condicional simple para expresar hipótesis",
+            "explanation": "El verbo 'sería' es un condicional que presenta la idea como una conclusión probable, no como un hecho seguro.",
+            "why_tricky": "En inglés se usaría 'would be'; aquí el condicional suaviza la afirmación y añade un matiz de conclusión razonada."
+          },
+          {
+            "sentence": "Quien busca la perfección, por ejemplo, debería aprender a aceptar resultados imperfectos, mientras que quien se distrae con facilidad necesita reducir las interrupciones.",
+            "point": "'Quien' como relativo sin antecedente y contraste con 'mientras que'",
+            "explanation": "'Quien' equivale a 'la persona que' y 'mientras que' opone dos casos distintos.",
+            "why_tricky": "'Quien' lleva verbo en singular aunque se refiera a un grupo general, y 'mientras que' contrasta ideas, no tiempo."
+          },
+          {
+            "sentence": "En todos los casos, dividir una tarea grande en pequeños pasos y empezar de inmediato resulta más eficaz que esperar el momento ideal.",
+            "point": "Infinitivos como sujeto y comparación con 'más... que'",
+            "explanation": "Los infinitivos 'dividir' y 'empezar' funcionan como sujeto del verbo 'resulta'.",
+            "why_tricky": "El verbo va en singular aunque haya dos infinitivos, y la comparación se cierra con otro infinitivo, 'esperar'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "dejar las cosas para más tarde",
+            "meaning": "to put things off, leave them for later",
+            "example": "Siempre deja las cosas para más tarde y luego se estresa."
+          },
+          {
+            "phrase": "no dejes para mañana lo que puedas hacer hoy",
+            "meaning": "don't put off until tomorrow what you can do today",
+            "example": "Como dice el refrán, no dejes para mañana lo que puedas hacer hoy."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué, según el artículo, posponer tareas no siempre se debe a la pereza?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué estrategia se recomienda para las personas perfeccionistas?",
+            "type": "open"
+          },
+          {
+            "q": "¿Estás de acuerdo con la idea de dividir las tareas grandes en pasos pequeños? ¿Por qué?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Escribe un texto breve sobre una situación en la que sueles procrastinar y explica qué estrategia podrías usar para evitarlo."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-24-tiburon-groenlandia-longevidad",
+      "title": "\"Nos quedamos maravillados\": lo que un tiburón que vive 400 años nos puede enseñar sobre la longevidad",
+      "source": "BBC Mundo",
+      "date": "2026-07-24",
+      "level": "B1-B2",
+      "topics": [
+        "ciencia",
+        "naturaleza"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-24-tiburon-groenlandia-longevidad",
+        "revision": 1,
+        "meta": {
+          "title": "\"Nos quedamos maravillados\": lo que un tiburón que vive 400 años nos puede enseñar sobre la longevidad",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cp8x30929lgo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-07-24",
+          "date_processed": "2026-07-24",
+          "tags": [
+            "ciencia",
+            "naturaleza"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The Greenland shark has become a fascinating subject of study because it can live more than four hundred years, which places it among the longest-living vertebrates on the planet. Some individuals swimming today in Arctic waters could have been born in Shakespeare's time. Scientists are analysing its heart, which beats slowly for centuries, hoping to uncover the secrets of such an extraordinarily long life.\n\nThis animal grows very slowly and reaches maturity at an advanced age, reflecting a slow metabolism adapted to extreme cold. Researchers believe that understanding how its body withstands the passing of time could offer valuable clues about human ageing. Although much remains to be discovered, each finding raises new questions. After all, studying these silent giants reminds us how little we still know about the limits of life.",
+        "resumen_es": "El tiburón de Groenlandia se ha convertido en un fascinante objeto de estudio porque puede vivir más de cuatrocientos años, lo que lo sitúa entre los vertebrados más longevos del planeta. Algunos ejemplares que nadan hoy en aguas del Ártico podrían haber nacido en la época de Shakespeare. Los científicos analizan su corazón, que late lentamente durante siglos, con la esperanza de descubrir los secretos de una vida tan extraordinariamente larga.\n\nEste animal crece muy despacio y alcanza la madurez a una edad avanzada, lo que refleja un metabolismo pausado y adaptado al frío extremo. Los investigadores creen que entender cómo su cuerpo resiste el paso del tiempo podría ofrecer pistas valiosas sobre el envejecimiento humano. Aunque queda mucho por averiguar, cada hallazgo despierta nuevas preguntas. Al fin y al cabo, estudiar a estos gigantes silenciosos nos recuerda lo poco que sabemos todavía sobre los límites de la vida.",
+        "vocab": [
+          {
+            "front": "el tiburón",
+            "pos": "noun",
+            "back": "shark",
+            "example": "El tiburón de Groenlandia vive en aguas frías.",
+            "tier": "B1"
+          },
+          {
+            "front": "longevo",
+            "pos": "adj",
+            "back": "long-lived",
+            "example": "Es uno de los animales más longevos.",
+            "tier": "B2"
+          },
+          {
+            "front": "la longevidad",
+            "pos": "noun",
+            "back": "longevity",
+            "example": "Estudian la longevidad de esta especie.",
+            "tier": "B2"
+          },
+          {
+            "front": "el ejemplar",
+            "pos": "noun",
+            "back": "specimen, individual (animal)",
+            "example": "Capturaron un ejemplar muy antiguo.",
+            "tier": "B2"
+          },
+          {
+            "front": "el vertebrado",
+            "pos": "noun",
+            "back": "vertebrate",
+            "example": "Es el vertebrado más longevo conocido.",
+            "tier": "B2"
+          },
+          {
+            "front": "latir",
+            "pos": "verb",
+            "back": "to beat (heart)",
+            "example": "Su corazón late muy despacio.",
+            "tier": "B1"
+          },
+          {
+            "front": "el metabolismo",
+            "pos": "noun",
+            "back": "metabolism",
+            "example": "Tiene un metabolismo lento.",
+            "tier": "B2"
+          },
+          {
+            "front": "envejecer",
+            "pos": "verb",
+            "back": "to age, grow old",
+            "example": "Nos interesa saber por qué envejecemos.",
+            "tier": "B1"
+          },
+          {
+            "front": "el envejecimiento",
+            "pos": "noun",
+            "back": "ageing",
+            "example": "La ciencia estudia el envejecimiento humano.",
+            "tier": "B2"
+          },
+          {
+            "front": "la madurez",
+            "pos": "noun",
+            "back": "maturity",
+            "example": "Alcanza la madurez muy tarde.",
+            "tier": "B1"
+          },
+          {
+            "front": "el hallazgo",
+            "pos": "noun",
+            "back": "finding, discovery",
+            "example": "Cada hallazgo abre nuevas preguntas.",
+            "tier": "B2"
+          },
+          {
+            "front": "resistir",
+            "pos": "verb",
+            "back": "to withstand, resist",
+            "example": "Su cuerpo resiste el paso del tiempo.",
+            "tier": "B1"
+          },
+          {
+            "front": "despacio",
+            "pos": "adv",
+            "back": "slowly",
+            "example": "El animal crece despacio.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Algunos ejemplares que nadan hoy en aguas del Ártico podrían haber nacido en la época de Shakespeare.",
+            "point": "Condicional compuesto para conjeturas sobre el pasado",
+            "explanation": "'Podrían haber nacido' expresa una posibilidad sobre algo que quizá ocurrió hace mucho tiempo.",
+            "why_tricky": "Combina el condicional de 'poder' con el infinitivo compuesto 'haber nacido' para hablar de una hipótesis en el pasado."
+          },
+          {
+            "sentence": "Los científicos analizan su corazón, que late lentamente durante siglos, con la esperanza de descubrir los secretos de una vida tan extraordinariamente larga.",
+            "point": "Oración de relativo explicativa y estructura 'tan... larga'",
+            "explanation": "La parte entre comas añade información sobre el corazón sin definirlo, y 'tan' intensifica el adjetivo 'larga'.",
+            "why_tricky": "El relativo explicativo va entre comas y es fácil confundir 'tan' con 'tanto'; aquí acompaña a un adjetivo."
+          },
+          {
+            "sentence": "Los investigadores creen que entender cómo su cuerpo resiste el paso del tiempo podría ofrecer pistas valiosas sobre el envejecimiento humano.",
+            "point": "Infinitivo como sujeto e interrogativa indirecta con 'cómo'",
+            "explanation": "'Entender' es el sujeto del verbo 'podría' y 'cómo su cuerpo resiste...' es una pregunta indirecta.",
+            "why_tricky": "El 'cómo' lleva tilde aunque no haya signos de interrogación, porque introduce una pregunta indirecta."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "el paso del tiempo",
+            "meaning": "the passing of time",
+            "example": "Su cuerpo apenas nota el paso del tiempo."
+          },
+          {
+            "phrase": "al fin y al cabo",
+            "meaning": "after all, when all is said and done",
+            "example": "Al fin y al cabo, todos queremos vivir más años."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué el tiburón de Groenlandia es tan interesante para los científicos?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué relación hay entre su metabolismo y su longevidad?",
+            "type": "open"
+          },
+          {
+            "q": "¿Crees que estudiar a estos animales puede ayudar a los humanos? Explica tu opinión.",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Te gustaría vivir muchos más años de lo normal? Escribe un texto explicando las ventajas y los inconvenientes de una vida muy larga."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-24-brasil-prohibe-foie-gras",
+      "title": "Brasil prohíbe producción y venta de foie gras al sancionar una ley contra la alimentación forzada",
+      "source": "RFI Español",
+      "date": "2026-07-24",
+      "level": "B1-B2",
+      "topics": [
+        "política",
+        "animales"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-24-brasil-prohibe-foie-gras",
+        "revision": 1,
+        "meta": {
+          "title": "Brasil prohíbe producción y venta de foie gras al sancionar una ley contra la alimentación forzada",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260724-brasil-proh%C3%ADbe-producci%C3%B3n-y-venta-de-foie-gras-al-sancionar-una-ley-contra-la-alimentaci%C3%B3n-forzada",
+          "date_published": "2026-07-24",
+          "date_processed": "2026-07-24",
+          "tags": [
+            "política",
+            "animales"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The president of Brazil has signed a law banning the production and sale of foie gras across the country, on the grounds that the force-feeding of ducks and geese is a form of animal cruelty. The measure, welcomed by animal-rights organisations, makes Brazil one of the few countries to act directly against this highly controversial culinary practice.\n\nFoie gras is made by fattening the birds' liver through a method that many consider cruel, although others defend it as part of a centuries-old culinary tradition. With this decision, the debate over the balance between animal welfare and gastronomic freedom returns to centre stage. Producers warn of possible economic losses, while activists hope other countries will soon follow the same path.",
+        "resumen_es": "El presidente de Brasil ha sancionado una ley que prohíbe la producción y la venta de foie gras en todo el país, al considerar que la alimentación forzada de patos y gansos constituye una forma de maltrato animal. La medida, celebrada por las organizaciones de defensa de los animales, convierte a Brasil en uno de los pocos países que actúan directamente contra esta práctica gastronómica tan polémica.\n\nEl foie gras se elabora engordando el hígado de las aves mediante un método que muchos consideran cruel, aunque otros lo defienden como parte de una tradición culinaria centenaria. Con esta decisión, el debate sobre el equilibrio entre el bienestar animal y la libertad gastronómica vuelve a ocupar un lugar central. Los productores advierten de posibles pérdidas económicas, mientras que los activistas esperan que otros países sigan pronto el mismo camino.",
+        "vocab": [
+          {
+            "front": "sancionar",
+            "pos": "verb",
+            "back": "to sign into law; to sanction",
+            "example": "El presidente sancionó la ley el viernes.",
+            "tier": "B2"
+          },
+          {
+            "front": "prohibir",
+            "pos": "verb",
+            "back": "to ban, forbid",
+            "example": "La ley prohíbe esta práctica.",
+            "tier": "B1"
+          },
+          {
+            "front": "la alimentación forzada",
+            "pos": "phrase",
+            "back": "force-feeding",
+            "example": "La alimentación forzada se considera cruel.",
+            "tier": "B2"
+          },
+          {
+            "front": "el maltrato",
+            "pos": "noun",
+            "back": "mistreatment, abuse",
+            "example": "Denuncian el maltrato animal.",
+            "tier": "B1"
+          },
+          {
+            "front": "el bienestar",
+            "pos": "noun",
+            "back": "welfare, wellbeing",
+            "example": "Defienden el bienestar de los animales.",
+            "tier": "B1"
+          },
+          {
+            "front": "engordar",
+            "pos": "verb",
+            "back": "to fatten; to put on weight",
+            "example": "Engordan a las aves para producir foie gras.",
+            "tier": "B1"
+          },
+          {
+            "front": "el hígado",
+            "pos": "noun",
+            "back": "liver",
+            "example": "El foie gras se hace con el hígado de las aves.",
+            "tier": "B1"
+          },
+          {
+            "front": "el ganso",
+            "pos": "noun",
+            "back": "goose",
+            "example": "Crían patos y gansos en la granja.",
+            "tier": "B1"
+          },
+          {
+            "front": "polémico",
+            "pos": "adj",
+            "back": "controversial",
+            "example": "Es una decisión muy polémica.",
+            "tier": "B2"
+          },
+          {
+            "front": "la práctica",
+            "pos": "noun",
+            "back": "practice",
+            "example": "Prohibieron esta práctica gastronómica.",
+            "tier": "B1"
+          },
+          {
+            "front": "culinario",
+            "pos": "adj",
+            "back": "culinary",
+            "example": "Forma parte de la tradición culinaria.",
+            "tier": "B2"
+          },
+          {
+            "front": "las pérdidas",
+            "pos": "noun",
+            "back": "losses",
+            "example": "Los productores temen grandes pérdidas.",
+            "tier": "B1"
+          },
+          {
+            "front": "seguir el mismo camino",
+            "pos": "phrase",
+            "back": "to follow the same path, follow suit",
+            "example": "Esperan que otros países sigan el mismo camino.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El presidente de Brasil ha sancionado una ley que prohíbe la producción y la venta de foie gras en todo el país, al considerar que la alimentación forzada de patos y gansos constituye una forma de maltrato animal.",
+            "point": "'Al + infinitivo' con valor causal",
+            "explanation": "'Al considerar' equivale a 'porque considera' y explica el motivo de la decisión.",
+            "why_tricky": "La estructura 'al + infinitivo' puede tener valor temporal o causal; aquí indica la razón, no el momento."
+          },
+          {
+            "sentence": "El foie gras se elabora engordando el hígado de las aves mediante un método que muchos consideran cruel, aunque otros lo defienden como parte de una tradición culinaria centenaria.",
+            "point": "Pasiva refleja con 'se' y gerundio de modo",
+            "explanation": "'Se elabora' es una pasiva refleja y 'engordando' indica cómo se hace.",
+            "why_tricky": "La pasiva refleja no menciona quién hace la acción, y el gerundio expresa el modo, no el tiempo."
+          },
+          {
+            "sentence": "Los productores advierten de posibles pérdidas económicas, mientras que los activistas esperan que otros países sigan pronto el mismo camino.",
+            "point": "Subjuntivo tras 'esperar que'",
+            "explanation": "Después de 'esperan que' el verbo va en subjuntivo: 'sigan'.",
+            "why_tricky": "Verbos de deseo o esperanza exigen subjuntivo en la subordinada, aunque en inglés se use un futuro."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "seguir el mismo camino",
+            "meaning": "to follow suit, take the same route",
+            "example": "Un país aprobó la ley y otros siguieron el mismo camino."
+          },
+          {
+            "phrase": "ocupar un lugar central",
+            "meaning": "to take centre stage, be a main focus",
+            "example": "El debate volvió a ocupar un lugar central en la política."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué prohíbe exactamente la nueva ley brasileña?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué el foie gras es un tema tan polémico?",
+            "type": "open"
+          },
+          {
+            "q": "¿Estás a favor o en contra de esta prohibición? Justifica tu respuesta.",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Escribe un texto en el que expliques si el Estado debería prohibir productos que implican maltrato animal, aunque formen parte de una tradición."
+      }
+    },
     {
       "pack_id": "feed-2026-07-23-peru-casas-inacabadas",
       "title": "\"Un país que nunca se termina de construir\": por qué en Perú hay tantas casas inacabadas",
@@ -6034,508 +6534,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que la gente cuida poco sus oídos en la vida diaria? Escribe un párrafo explicando qué hábitos cambiarías tú."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-17-flores-insectos",
-      "title": "Las astutas técnicas de las flores para atraer a los insectos y que les ayuden a reproducirse",
-      "source": "BBC Mundo",
-      "date": "2026-07-17",
-      "level": "B1-B2",
-      "topics": [
-        "ciencia",
-        "naturaleza"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-17-flores-insectos",
-        "revision": 1,
-        "meta": {
-          "title": "Las astutas técnicas de las flores para atraer a los insectos y que les ayuden a reproducirse",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c9w247ex5pko?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-17",
-          "date_processed": "2026-07-17",
-          "tags": [
-            "ciencia",
-            "naturaleza"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "A BBC report explains the surprising strategies that some flowers have developed to attract insects and thereby ensure their reproduction. Far from being passive plants, many species compete with one another to catch the attention of pollinators. Some imitate the appearance of the females of certain insects, while others display striking colours or intense scents that prove almost irresistible to bees and butterflies.\n\nEven more curious is the case of flowers that add caffeine to their nectar. According to scientists, this small dose acts as a stimulus that makes insects remember the plant better and return to it again and again. In this way, the flowers ensure that the pollen travels from one to another and that the species survives. These findings show that, in nature, even the apparently most fragile beings hide very clever tricks.",
-        "resumen_es": "Un reportaje de la BBC explica las sorprendentes estrategias que han desarrollado algunas flores para atraer a los insectos y garantizar así su reproducción. Lejos de ser plantas pasivas, muchas especies compiten entre sí para llamar la atención de los polinizadores. Algunas imitan el aspecto de las hembras de ciertos insectos, mientras que otras despliegan colores llamativos o perfumes intensos que resultan casi irresistibles para abejas y mariposas.\n\nTodavía más curioso es el caso de las flores que añaden cafeína a su néctar. Según los científicos, esta pequeña dosis actúa como un estímulo que hace que los insectos recuerden mejor la planta y regresen a ella una y otra vez. De este modo, las flores aseguran que el polen viaje de una a otra y que la especie sobreviva. Estos hallazgos demuestran que, en la naturaleza, incluso los seres aparentemente más frágiles esconden trucos muy ingeniosos.",
-        "vocab": [
-          {
-            "front": "astuto",
-            "pos": "adj",
-            "back": "cunning, clever",
-            "example": "Usa una técnica astuta.",
-            "tier": "B2"
-          },
-          {
-            "front": "atraer",
-            "pos": "verb",
-            "back": "to attract",
-            "example": "La flor sirve para atraer a los insectos.",
-            "tier": "B1"
-          },
-          {
-            "front": "el polinizador",
-            "pos": "noun",
-            "back": "pollinator",
-            "example": "Las abejas son polinizadores clave.",
-            "tier": "B2"
-          },
-          {
-            "front": "reproducirse",
-            "pos": "verb",
-            "back": "to reproduce",
-            "example": "Las plantas se reproducen de muchas formas.",
-            "tier": "B1"
-          },
-          {
-            "front": "imitar",
-            "pos": "verb",
-            "back": "to imitate",
-            "example": "Algunas flores imitan a los insectos.",
-            "tier": "B1"
-          },
-          {
-            "front": "llamativo",
-            "pos": "adj",
-            "back": "eye-catching, striking",
-            "example": "Tiene colores muy llamativos.",
-            "tier": "B2"
-          },
-          {
-            "front": "el néctar",
-            "pos": "noun",
-            "back": "nectar",
-            "example": "Las abejas beben el néctar.",
-            "tier": "B1"
-          },
-          {
-            "front": "la dosis",
-            "pos": "noun",
-            "back": "dose",
-            "example": "Una pequeña dosis es suficiente.",
-            "tier": "B2"
-          },
-          {
-            "front": "el estímulo",
-            "pos": "noun",
-            "back": "stimulus",
-            "example": "La cafeína actúa como estímulo.",
-            "tier": "B2"
-          },
-          {
-            "front": "el hallazgo",
-            "pos": "noun",
-            "back": "finding, discovery",
-            "example": "El hallazgo sorprendió a los científicos.",
-            "tier": "B2"
-          },
-          {
-            "front": "ingenioso",
-            "pos": "adj",
-            "back": "ingenious, clever",
-            "example": "Es un truco muy ingenioso.",
-            "tier": "B2"
-          },
-          {
-            "front": "desplegar",
-            "pos": "verb",
-            "back": "to display, to unfold",
-            "example": "Las flores despliegan sus colores.",
-            "tier": "C1"
-          },
-          {
-            "front": "entre sí",
-            "pos": "phrase",
-            "back": "among themselves, with one another",
-            "example": "Las especies compiten entre sí.",
-            "tier": "B2"
-          },
-          {
-            "front": "una y otra vez",
-            "pos": "phrase",
-            "back": "again and again",
-            "example": "Los insectos regresan una y otra vez.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Lejos de ser plantas pasivas, muchas especies compiten entre sí para llamar la atención de los polinizadores.",
-            "point": "'Lejos de' + infinitivo y el recíproco 'entre sí'.",
-            "explanation": "'Lejos de + infinitivo' niega una idea y presenta el contraste ('far from being'). 'Entre sí' expresa reciprocidad entre varios sujetos.",
-            "why_tricky": "'Lejos de' aquí no indica distancia física, sino contraste. Y 'entre sí' se usa solo para terceras personas, no para 'nosotros' o 'vosotros'."
-          },
-          {
-            "sentence": "Según los científicos, esta pequeña dosis actúa como un estímulo que hace que los insectos recuerden mejor la planta y regresen a ella una y otra vez.",
-            "point": "'Hacer que' + subjuntivo.",
-            "explanation": "Cuando un sujeto provoca que otro haga algo, 'hacer que' exige subjuntivo: 'recuerden', 'regresen'.",
-            "why_tricky": "En inglés se usa infinitivo ('makes them remember'), pero en español el segundo verbo va en subjuntivo y con un sujeto distinto."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "llamar la atención",
-            "meaning": "to attract attention, to stand out",
-            "example": "Ese vestido rojo llama mucho la atención."
-          },
-          {
-            "phrase": "de este modo",
-            "meaning": "in this way, thus",
-            "example": "De este modo, todos salen ganando."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué hacen algunas flores para parecerse a los insectos?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué añaden cafeína al néctar algunas flores?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué demuestran estos hallazgos sobre la naturaleza?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Te sorprende que las plantas usen estrategias tan complejas? Escribe un texto corto sobre otro ejemplo de ingenio en la naturaleza que conozcas."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-17-colombia-semana-laboral",
-      "title": "Cómo se compara la semana laboral de 42 horas de Colombia con el resto de América Latina",
-      "source": "BBC Mundo",
-      "date": "2026-07-17",
-      "level": "B1-B2",
-      "topics": [
-        "economía",
-        "trabajo"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-17-colombia-semana-laboral",
-        "revision": 1,
-        "meta": {
-          "title": "Cómo se compara la semana laboral de 42 horas de Colombia con el resto de América Latina",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cn4n99570z5o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-17",
-          "date_processed": "2026-07-17",
-          "tags": [
-            "economía",
-            "trabajo"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Colombia has progressively reduced its working week to 42 hours, after decades in which people worked 48 hours a week. The measure, approved a few years ago, has been applied gradually so that companies could adapt without major shocks. With this change, the country ranks among those that demand the fewest hours from their workers in all of Latin America, a region where working days tend to be long.\n\nSupporters of the reform argue that working fewer hours improves employees' health, productivity and family life. Its critics, on the other hand, warn that it could raise costs for small businesses and affect employment. The debate is not unique to Colombia: in several countries people are discussing whether reducing the working day is the path towards a more humane labour model or a risk to the economy.",
-        "resumen_es": "Colombia ha reducido de forma progresiva su semana laboral hasta llegar a las 42 horas, después de décadas en las que se trabajaban 48 horas semanales. La medida, aprobada hace unos años, se ha aplicado de manera gradual para que las empresas pudieran adaptarse sin grandes sobresaltos. Con este cambio, el país se sitúa entre los que menos horas exigen a sus trabajadores en toda América Latina, una región donde las jornadas suelen ser largas.\n\nLos defensores de la reforma sostienen que trabajar menos horas mejora la salud, la productividad y la vida familiar de los empleados. Sus críticos, en cambio, advierten de que podría aumentar los costes para las pequeñas empresas y afectar al empleo. El debate no es exclusivo de Colombia: en varios países se discute si la reducción de la jornada es el camino hacia un modelo laboral más humano o un riesgo para la economía.",
-        "vocab": [
-          {
-            "front": "la jornada (laboral)",
-            "pos": "noun",
-            "back": "working day",
-            "example": "Tiene una jornada de ocho horas.",
-            "tier": "B1"
-          },
-          {
-            "front": "la semana laboral",
-            "pos": "phrase",
-            "back": "working week",
-            "example": "La semana laboral es de 42 horas.",
-            "tier": "B1"
-          },
-          {
-            "front": "reducir",
-            "pos": "verb",
-            "back": "to reduce",
-            "example": "Quieren reducir las horas de trabajo.",
-            "tier": "B1"
-          },
-          {
-            "front": "progresivo",
-            "pos": "adj",
-            "back": "progressive, gradual",
-            "example": "Fue un cambio progresivo.",
-            "tier": "B2"
-          },
-          {
-            "front": "la medida",
-            "pos": "noun",
-            "back": "measure (policy)",
-            "example": "Es una medida polémica.",
-            "tier": "B1"
-          },
-          {
-            "front": "aprobar",
-            "pos": "verb",
-            "back": "to pass, to approve",
-            "example": "El congreso aprobó la ley.",
-            "tier": "B1"
-          },
-          {
-            "front": "adaptarse",
-            "pos": "verb",
-            "back": "to adapt",
-            "example": "Las empresas deben adaptarse.",
-            "tier": "B1"
-          },
-          {
-            "front": "el sobresalto",
-            "pos": "noun",
-            "back": "sudden shock, scare",
-            "example": "Todo salió sin sobresaltos.",
-            "tier": "B2"
-          },
-          {
-            "front": "sostener",
-            "pos": "verb",
-            "back": "to argue, to maintain",
-            "example": "Sostienen que es beneficioso.",
-            "tier": "B2"
-          },
-          {
-            "front": "la productividad",
-            "pos": "noun",
-            "back": "productivity",
-            "example": "Buscan mejorar la productividad.",
-            "tier": "B1"
-          },
-          {
-            "front": "el coste",
-            "pos": "noun",
-            "back": "cost",
-            "example": "Podría aumentar los costes.",
-            "tier": "B1"
-          },
-          {
-            "front": "el empleo",
-            "pos": "noun",
-            "back": "employment, job",
-            "example": "La medida afecta al empleo.",
-            "tier": "B1"
-          },
-          {
-            "front": "en cambio",
-            "pos": "phrase",
-            "back": "on the other hand",
-            "example": "Ellos, en cambio, no están de acuerdo.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La medida, aprobada hace unos años, se ha aplicado de manera gradual para que las empresas pudieran adaptarse sin grandes sobresaltos.",
-            "point": "'Para que' + subjuntivo (imperfecto).",
-            "explanation": "'Para que' introduce una finalidad y exige subjuntivo. Como el verbo principal está en pasado, se usa el imperfecto de subjuntivo 'pudieran'.",
-            "why_tricky": "El estudiante suele poner infinitivo ('para adaptarse'), pero eso solo vale si el sujeto es el mismo. Aquí hay dos sujetos distintos, así que se necesita 'para que' + subjuntivo."
-          },
-          {
-            "sentence": "Los defensores de la reforma sostienen que trabajar menos horas mejora la salud, la productividad y la vida familiar de los empleados.",
-            "point": "Infinitivo como sujeto de la oración.",
-            "explanation": "'Trabajar menos horas' funciona como sujeto singular del verbo 'mejora'. El infinitivo actúa como un sustantivo.",
-            "why_tricky": "Aunque la idea parece plural, el verbo va en singular ('mejora'), porque el sujeto es un único infinitivo, no las horas."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "el camino hacia",
-            "meaning": "the path towards (something)",
-            "example": "Es un paso más en el camino hacia la igualdad."
-          },
-          {
-            "phrase": "sin grandes sobresaltos",
-            "meaning": "smoothly, without major upsets",
-            "example": "El proceso avanzó sin grandes sobresaltos."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Cuántas horas se trabajaban antes en Colombia y cuántas se trabajan ahora?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué ventajas señalan los defensores de la reforma?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué riesgos ven los críticos de la medida?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que reducir la semana laboral es una buena idea? Explica tu opinión con al menos dos argumentos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-17-laron-ecuador",
-      "title": "\"Crecer en un mundo de gigantes\": las personas que viven con síndrome de Laron en Ecuador (y por qué pueden ser clave para combatir la diabetes y el cáncer)",
-      "source": "BBC Mundo",
-      "date": "2026-07-17",
-      "level": "B1-B2",
-      "topics": [
-        "salud",
-        "genética"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-17-laron-ecuador",
-        "revision": 1,
-        "meta": {
-          "title": "\"Crecer en un mundo de gigantes\": las personas que viven con síndrome de Laron en Ecuador (y por qué pueden ser clave para combatir la diabetes y el cáncer)",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cy9193d5r25o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-16",
-          "date_processed": "2026-07-17",
-          "tags": [
-            "salud",
-            "genética"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "In the south of Ecuador there lives a very unusual community: people with Laron syndrome, a rare genetic condition that causes very short stature. Around a third of all the cases in the world are concentrated in this region, which has aroused the interest of scientists. Although these people are much shorter than average, they hardly ever develop illnesses such as diabetes or cancer.\n\nResearchers believe that the key lies in a gene that limits the action of a growth hormone. For that reason, studying this population could open up new avenues for treating very common diseases. However, experts warn that a great deal still remains to be understood before these findings can be applied. In the meantime, the Ecuadorian community continues to be a fundamental piece of this medical research, which combines genetics with deeply moving human stories.",
-        "resumen_es": "En el sur de Ecuador vive una comunidad muy singular: las personas con síndrome de Laron, una condición genética poco frecuente que provoca una estatura muy baja. Cerca de un tercio de todos los casos del mundo se concentra en esta región, lo que ha despertado el interés de los científicos. Aunque estas personas miden mucho menos que la media, apenas desarrollan enfermedades como la diabetes o el cáncer.\n\nLos investigadores creen que la clave está en un gen que limita la acción de una hormona del crecimiento. Por eso, estudiar a esta población podría abrir nuevas vías para tratar enfermedades muy comunes. Sin embargo, los expertos advierten que todavía queda mucho por comprender antes de aplicar estos hallazgos. Mientras tanto, la comunidad ecuatoriana sigue siendo una pieza fundamental de esta investigación médica, que combina la genética con historias humanas profundamente conmovedoras.",
-        "vocab": [
-          {
-            "front": "la estatura",
-            "pos": "noun",
-            "back": "height (of a person)",
-            "example": "Su estatura llamó la atención de los médicos.",
-            "tier": "B1"
-          },
-          {
-            "front": "poco frecuente",
-            "pos": "phrase",
-            "back": "rare, uncommon",
-            "example": "Se trata de una enfermedad poco frecuente en Europa.",
-            "tier": "B1"
-          },
-          {
-            "front": "concentrarse en",
-            "pos": "verb",
-            "back": "to be concentrated in",
-            "example": "La mayoría de los casos se concentra en el sur.",
-            "tier": "B1"
-          },
-          {
-            "front": "despertar el interés",
-            "pos": "phrase",
-            "back": "to arouse interest",
-            "example": "El estudio despertó el interés de la prensa.",
-            "tier": "B2"
-          },
-          {
-            "front": "la media",
-            "pos": "noun",
-            "back": "the average",
-            "example": "Su altura está muy por debajo de la media.",
-            "tier": "B1"
-          },
-          {
-            "front": "apenas",
-            "pos": "adv",
-            "back": "hardly, barely",
-            "example": "Apenas desarrollan síntomas graves.",
-            "tier": "B1"
-          },
-          {
-            "front": "el hallazgo",
-            "pos": "noun",
-            "back": "finding, discovery",
-            "example": "El hallazgo se publicó en una revista médica.",
-            "tier": "B2"
-          },
-          {
-            "front": "la vía",
-            "pos": "noun",
-            "back": "route, avenue (also figurative)",
-            "example": "Buscan nuevas vías para tratar la diabetes.",
-            "tier": "B2"
-          },
-          {
-            "front": "advertir",
-            "pos": "verb",
-            "back": "to warn, to point out",
-            "example": "Los expertos advierten que el riesgo sigue ahí.",
-            "tier": "B2"
-          },
-          {
-            "front": "quedar por + infinitivo",
-            "pos": "phrase",
-            "back": "to remain to be done",
-            "example": "Todavía queda mucho por investigar.",
-            "tier": "B2"
-          },
-          {
-            "front": "mientras tanto",
-            "pos": "adv",
-            "back": "meanwhile",
-            "example": "Mientras tanto, el equipo sigue tomando muestras.",
-            "tier": "B1"
-          },
-          {
-            "front": "conmovedor",
-            "pos": "adj",
-            "back": "moving, touching",
-            "example": "Contaron una historia muy conmovedora.",
-            "tier": "B2"
-          },
-          {
-            "front": "la pieza fundamental",
-            "pos": "phrase",
-            "back": "key element, cornerstone",
-            "example": "Esa comunidad es una pieza fundamental del estudio.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Cerca de un tercio de todos los casos del mundo se concentra en esta región, lo que ha despertado el interés de los científicos.",
-            "point": "Pasiva refleja con 'se' y el relativo neutro 'lo que'.",
-            "explanation": "'Se concentra' presenta el hecho sin decir quién lo causa, como una pasiva en inglés. 'Lo que' se refiere a toda la idea anterior, no a un solo sustantivo.",
-            "why_tricky": "En inglés dirías 'are concentrated' en plural, pero aquí el verbo concuerda con 'un tercio', en singular. Y 'lo que' nunca se usa para personas o cosas concretas."
-          },
-          {
-            "sentence": "Los investigadores creen que la clave está en un gen que limita la acción de una hormona del crecimiento.",
-            "point": "'Creer que' + indicativo en frases afirmativas.",
-            "explanation": "Cuando 'creer' es afirmativo, la subordinada va en indicativo: 'creen que está'. Si fuera negativo ('no creen que'), pediría subjuntivo: 'esté'.",
-            "why_tricky": "El cambio depende solo de la negación, algo que el inglés no marca en el verbo."
-          },
-          {
-            "sentence": "Sin embargo, los expertos advierten que todavía queda mucho por comprender antes de aplicar estos hallazgos.",
-            "point": "La construcción 'quedar + cantidad + por + infinitivo'.",
-            "explanation": "'Queda mucho por comprender' significa que aún falta comprender mucho. El sujeto real es 'mucho', por eso el verbo va en singular.",
-            "why_tricky": "Los estudiantes suelen decir 'queda mucho para comprender', pero la preposición correcta es 'por'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "abrir nuevas vías",
-            "meaning": "to open up new avenues or possibilities",
-            "example": "Este descubrimiento abre nuevas vías en el tratamiento del cáncer."
-          },
-          {
-            "phrase": "quedar mucho por hacer",
-            "meaning": "there is still a lot to be done",
-            "example": "Hemos avanzado, pero queda mucho por hacer."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué esta comunidad ecuatoriana interesa tanto a los científicos?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué relación hay entre el gen del síndrome de Laron y enfermedades como la diabetes?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué advertencia hacen los expertos sobre estos hallazgos?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que es ético estudiar a una comunidad pequeña para desarrollar medicamentos que beneficiarán sobre todo a otros países? Escribe unas 120 palabras explicando tu postura."
       }
     }
   ]
