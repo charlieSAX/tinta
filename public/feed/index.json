@@ -1,7 +1,493 @@
 {
-  "generated_at": "2026-07-26T08:12:39Z",
+  "generated_at": "2026-07-27T08:10:20Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-07-27-peru-casas-inacabadas",
+      "title": "\"Un país que nunca se termina de construir\": por qué en Perú hay tantas casas inacabadas",
+      "source": "BBC Mundo",
+      "date": "2026-07-27",
+      "level": "B1-B2",
+      "topics": [
+        "sociedad",
+        "vivienda"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-27-peru-casas-inacabadas",
+        "revision": 1,
+        "meta": {
+          "title": "\"Un país que nunca se termina de construir\": por qué en Perú hay tantas casas inacabadas",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c5y8nw132q2o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-07-23",
+          "date_processed": "2026-07-27",
+          "tags": [
+            "sociedad",
+            "vivienda"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "In many Peruvian cities, the urban landscape is dominated by half-built homes, with exposed bricks and steel rods sticking out of the rooftops. Although at first sight it might look like simple carelessness, behind these unfinished buildings lies a very harsh economic reality that affects millions of families. For many people, building a house little by little is the only way to have a roof of their own.\n\nThe main reason has to do with the lack of access to credit and with informal employment. Because they cannot ask the bank for a loan, families build in stages, as they save money. In addition, leaving the home half finished sometimes allows them to pay less tax. In this way, what looks like an aesthetic problem reflects, deep down, the profound inequalities of the country.",
+        "resumen_es": "En muchas ciudades de Perú, el paisaje urbano está dominado por viviendas a medio construir, con ladrillos a la vista y varillas de hierro que sobresalen de las azoteas. Aunque a primera vista pueda parecer un simple descuido, detrás de estas construcciones inacabadas se esconde una realidad económica muy dura que afecta a millones de familias. Para mucha gente, levantar una casa poco a poco es la única manera de tener un techo propio.\n\nLa razón principal tiene que ver con la falta de acceso al crédito y con la informalidad laboral. Como no pueden pedir un préstamo al banco, las familias construyen por etapas, según van ahorrando. Además, dejar la vivienda a medio terminar a veces permite pagar menos impuestos. De este modo, lo que parece un problema estético refleja, en el fondo, las profundas desigualdades del país.",
+        "vocab": [
+          {
+            "front": "a medio construir",
+            "pos": "phrase",
+            "back": "half-built",
+            "example": "Compraron una casa a medio construir y la terminaron ellos mismos.",
+            "tier": "B2"
+          },
+          {
+            "front": "la vivienda",
+            "pos": "noun",
+            "back": "housing, home",
+            "example": "El precio de la vivienda ha subido mucho este año.",
+            "tier": "B1"
+          },
+          {
+            "front": "el ladrillo",
+            "pos": "noun",
+            "back": "brick",
+            "example": "La pared es de ladrillo rojo.",
+            "tier": "B1"
+          },
+          {
+            "front": "la azotea",
+            "pos": "noun",
+            "back": "flat roof, rooftop",
+            "example": "En verano subimos a la azotea a tomar el fresco.",
+            "tier": "B2"
+          },
+          {
+            "front": "sobresalir",
+            "pos": "verb",
+            "back": "to stick out, to stand out",
+            "example": "Unas varillas de hierro sobresalen del muro.",
+            "tier": "B2"
+          },
+          {
+            "front": "a primera vista",
+            "pos": "phrase",
+            "back": "at first sight",
+            "example": "A primera vista el problema parece fácil.",
+            "tier": "B1"
+          },
+          {
+            "front": "el descuido",
+            "pos": "noun",
+            "back": "carelessness, oversight",
+            "example": "Perdió las llaves por un descuido.",
+            "tier": "B2"
+          },
+          {
+            "front": "esconderse",
+            "pos": "verb",
+            "back": "to hide, to lie behind",
+            "example": "Detrás de su sonrisa se esconde mucha tristeza.",
+            "tier": "B1"
+          },
+          {
+            "front": "un techo propio",
+            "pos": "phrase",
+            "back": "a home of one's own",
+            "example": "Su mayor sueño es tener un techo propio.",
+            "tier": "B2"
+          },
+          {
+            "front": "el préstamo",
+            "pos": "noun",
+            "back": "loan",
+            "example": "Pidió un préstamo para abrir su negocio.",
+            "tier": "B1"
+          },
+          {
+            "front": "por etapas",
+            "pos": "phrase",
+            "back": "in stages",
+            "example": "El proyecto se hará por etapas.",
+            "tier": "B2"
+          },
+          {
+            "front": "la desigualdad",
+            "pos": "noun",
+            "back": "inequality",
+            "example": "La desigualdad entre ricos y pobres sigue creciendo.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Aunque a primera vista pueda parecer un simple descuido, detrás de estas construcciones inacabadas se esconde una realidad económica muy dura que afecta a millones de familias.",
+            "point": "Subjuntivo tras 'aunque' + 'se' impersonal",
+            "explanation": "'Aunque' con subjuntivo ('pueda') expresa una concesión con matiz hipotético. 'Se esconde' es una construcción impersonal o pasiva refleja.",
+            "why_tricky": "Con indicativo ('puede') el hablante afirma un hecho; con subjuntivo ('pueda') lo presenta como posibilidad o concesión."
+          },
+          {
+            "sentence": "Como no pueden pedir un préstamo al banco, las familias construyen por etapas, según van ahorrando.",
+            "point": "'Como' causal y 'según' + indicativo",
+            "explanation": "'Como' al principio de la frase introduce la causa. 'Según van ahorrando' expresa una acción que ocurre a la vez y de forma progresiva.",
+            "why_tricky": "'Como' causal solo funciona al inicio; si fuera al final, se usaría 'porque'."
+          },
+          {
+            "sentence": "Para mucha gente, levantar una casa poco a poco es la única manera de tener un techo propio.",
+            "point": "Infinitivo como sujeto",
+            "explanation": "El infinitivo 'levantar' funciona como sujeto de la frase, equivalente a un sustantivo.",
+            "why_tricky": "En inglés se usaría el gerundio ('building'), pero en español el sujeto es el infinitivo, no el gerundio."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "un techo propio",
+            "meaning": "una casa en propiedad, un hogar propio",
+            "example": "Después de años ahorrando, por fin tienen un techo propio."
+          },
+          {
+            "phrase": "en el fondo",
+            "meaning": "en realidad, cuando se mira con atención",
+            "example": "En el fondo, todos queremos lo mismo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué muchas casas en Perú están a medio construir?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué relación hay entre el crédito y la forma de construir de las familias?",
+            "type": "open"
+          },
+          {
+            "q": "Según el texto, ¿qué refleja este fenómeno sobre el país?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que el Estado debería ayudar a las familias a terminar sus viviendas? Explica tu opinión con ejemplos."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-27-repartidor-poeta-china",
+      "title": "Escribía versos entre entrega y entrega: el repartidor de comida que ganó uno de los mayores premios literarios de China",
+      "source": "BBC Mundo",
+      "date": "2026-07-27",
+      "level": "B1-B2",
+      "topics": [
+        "cultura",
+        "literatura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-27-repartidor-poeta-china",
+        "revision": 1,
+        "meta": {
+          "title": "Escribía versos entre entrega y entrega: el repartidor de comida que ganó uno de los mayores premios literarios de China",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c8enw1n5ngjo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-07-22",
+          "date_processed": "2026-07-27",
+          "tags": [
+            "cultura",
+            "literatura"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "A food delivery worker has become news in China after winning one of the country's most important literary prizes. Between one delivery and the next, this worker used his free moments to write verses on his phone, often while waiting for an order at a restaurant door. His story has moved thousands of people and has highlighted the talent that hides in the humblest jobs.\n\nHis victory comes at a time when more and more manual workers are leaving their mark on the Chinese literary world. Far from academic circles, these authors write about everyday life, tiredness and the dreams of ordinary people. For many readers, their poems feel more authentic precisely because they are born from daily experience. The delivery worker's success shows that literature does not belong only to an elite.",
+        "resumen_es": "Un repartidor de comida a domicilio se ha convertido en noticia en China tras ganar uno de los premios literarios más importantes del país. Entre entrega y entrega, este trabajador aprovechaba los ratos libres para escribir versos en el teléfono, muchas veces mientras esperaba un pedido en la puerta de un restaurante. Su historia ha emocionado a miles de personas y ha puesto de relieve el talento que se esconde en los oficios más humildes.\n\nSu victoria llega en un momento en el que cada vez más trabajadores manuales están dejando huella en el mundo literario chino. Lejos de los círculos académicos, estos autores escriben sobre la vida cotidiana, el cansancio y los sueños de la gente común. Para muchos lectores, sus poemas resultan más auténticos precisamente porque nacen de la experiencia diaria. El éxito del repartidor demuestra que la literatura no pertenece solo a una élite.",
+        "vocab": [
+          {
+            "front": "el repartidor",
+            "pos": "noun",
+            "back": "delivery worker",
+            "example": "El repartidor llegó con la pizza en diez minutos.",
+            "tier": "B1"
+          },
+          {
+            "front": "a domicilio",
+            "pos": "phrase",
+            "back": "home delivery, to your door",
+            "example": "Pedimos la cena a domicilio.",
+            "tier": "B1"
+          },
+          {
+            "front": "la entrega",
+            "pos": "noun",
+            "back": "delivery",
+            "example": "Tiene que hacer treinta entregas al día.",
+            "tier": "B1"
+          },
+          {
+            "front": "aprovechar",
+            "pos": "verb",
+            "back": "to make the most of",
+            "example": "Aprovecha el fin de semana para descansar.",
+            "tier": "B1"
+          },
+          {
+            "front": "los ratos libres",
+            "pos": "phrase",
+            "back": "spare moments",
+            "example": "En los ratos libres lee novelas.",
+            "tier": "B2"
+          },
+          {
+            "front": "el verso",
+            "pos": "noun",
+            "back": "verse, line of poetry",
+            "example": "Escribió unos versos para su madre.",
+            "tier": "B2"
+          },
+          {
+            "front": "poner de relieve",
+            "pos": "phrase",
+            "back": "to highlight, to bring to light",
+            "example": "El informe pone de relieve el problema.",
+            "tier": "C1"
+          },
+          {
+            "front": "el oficio",
+            "pos": "noun",
+            "back": "trade, occupation",
+            "example": "La carpintería es un oficio antiguo.",
+            "tier": "B2"
+          },
+          {
+            "front": "humilde",
+            "pos": "adj",
+            "back": "humble, modest",
+            "example": "Viene de una familia humilde.",
+            "tier": "B1"
+          },
+          {
+            "front": "dejar huella",
+            "pos": "phrase",
+            "back": "to leave a mark",
+            "example": "Ese profesor dejó huella en sus alumnos.",
+            "tier": "B2"
+          },
+          {
+            "front": "cotidiano",
+            "pos": "adj",
+            "back": "everyday, daily",
+            "example": "Escribe sobre la vida cotidiana.",
+            "tier": "B2"
+          },
+          {
+            "front": "pertenecer",
+            "pos": "verb",
+            "back": "to belong",
+            "example": "Ese libro pertenece a la biblioteca.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Su victoria llega en un momento en el que cada vez más trabajadores manuales están dejando huella en el mundo literario chino.",
+            "point": "Relativo 'en el que' y 'estar' + gerundio",
+            "explanation": "'En el que' es un relativo con preposición que se refiere a 'un momento'. 'Están dejando' expresa una acción en desarrollo.",
+            "why_tricky": "En español no se puede omitir la preposición del relativo como a veces ocurre en inglés ('a time when')."
+          },
+          {
+            "sentence": "Entre entrega y entrega, este trabajador aprovechaba los ratos libres para escribir versos en el teléfono, muchas veces mientras esperaba un pedido en la puerta de un restaurante.",
+            "point": "Imperfecto para acciones habituales",
+            "explanation": "'Aprovechaba' y 'esperaba' están en imperfecto porque describen acciones repetidas y habituales en el pasado.",
+            "why_tricky": "El imperfecto no marca un momento concreto, sino una costumbre; con indefinido cambiaría el sentido."
+          },
+          {
+            "sentence": "Para muchos lectores, sus poemas resultan más auténticos precisamente porque nacen de la experiencia diaria.",
+            "point": "El verbo 'resultar' + adjetivo",
+            "explanation": "'Resultar' aquí significa 'parecer' o 'ser percibido como', seguido de un adjetivo que concuerda con el sujeto.",
+            "why_tricky": "'Resultar' no siempre indica resultado; a menudo expresa una impresión o valoración."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "dejar huella",
+            "meaning": "causar una impresión duradera en alguien o algo",
+            "example": "Su primer disco dejó huella en toda una generación."
+          },
+          {
+            "phrase": "entre entrega y entrega",
+            "meaning": "en los momentos libres entre una tarea y otra",
+            "example": "Entre reunión y reunión, contestaba correos."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Cómo y cuándo escribía sus poemas el repartidor?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué tienen en común los nuevos autores de los que habla el texto?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué demuestra, según el artículo, el éxito de este repartidor?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que la experiencia de la vida diaria hace mejor a un escritor? Justifica tu respuesta."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-27-dientes-vuelven-crecer",
+      "title": "Los científicos que buscan que los dientes que perdemos vuelvan a crecer",
+      "source": "BBC Mundo",
+      "date": "2026-07-27",
+      "level": "B1-B2",
+      "topics": [
+        "ciencia",
+        "salud"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-27-dientes-vuelven-crecer",
+        "revision": 1,
+        "meta": {
+          "title": "Los científicos que buscan que los dientes que perdemos vuelvan a crecer",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c8enwyp2374o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-07-22",
+          "date_processed": "2026-07-27",
+          "tags": [
+            "ciencia",
+            "salud"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "A group of scientists is working on a goal that until recently seemed like science fiction: getting the teeth we lose to grow back naturally. Although teeth play a more important role in health than many people think, current solutions, such as implants or false teeth, tend to be temporary and unsatisfactory. For this reason, the idea of regenerating dental pieces arouses so much interest among doctors and patients.\n\nThe most recent research focuses on certain drugs capable of triggering the growth of new teeth in animals. If these experiments came to work in humans, they could completely change the dentistry of the future. For now, experts urge caution, since there is a long way to go before applying the treatment to patients. Even so, many trust that within a few years going to the dentist will be a very different experience.",
+        "resumen_es": "Un grupo de científicos trabaja en un objetivo que hasta hace poco parecía ciencia ficción: lograr que los dientes que perdemos vuelvan a crecer de forma natural. Aunque los dientes cumplen un papel más importante en la salud de lo que mucha gente cree, las soluciones actuales, como los implantes o las dentaduras postizas, suelen ser temporales y poco satisfactorias. Por eso, la idea de regenerar piezas dentales despierta tanto interés entre médicos y pacientes.\n\nLas investigaciones más recientes se centran en ciertos fármacos capaces de activar el crecimiento de nuevos dientes en animales. Si estos experimentos llegaran a funcionar en humanos, podrían cambiar por completo la odontología del futuro. De momento, los expertos piden cautela, ya que queda un largo camino por recorrer antes de aplicar el tratamiento en pacientes. Aun así, muchos confían en que dentro de unos años ir al dentista sea una experiencia muy distinta.",
+        "vocab": [
+          {
+            "front": "lograr",
+            "pos": "verb",
+            "back": "to achieve, to manage to",
+            "example": "Logró aprobar todos los exámenes.",
+            "tier": "B1"
+          },
+          {
+            "front": "el diente",
+            "pos": "noun",
+            "back": "tooth",
+            "example": "Me duele un diente desde ayer.",
+            "tier": "B1"
+          },
+          {
+            "front": "volver a crecer",
+            "pos": "phrase",
+            "back": "to grow back",
+            "example": "El pelo le volvió a crecer tras el tratamiento.",
+            "tier": "B1"
+          },
+          {
+            "front": "cumplir un papel",
+            "pos": "phrase",
+            "back": "to play a role",
+            "example": "El sueño cumple un papel clave en la memoria.",
+            "tier": "B2"
+          },
+          {
+            "front": "el implante",
+            "pos": "noun",
+            "back": "implant",
+            "example": "Le pusieron un implante dental.",
+            "tier": "B2"
+          },
+          {
+            "front": "la dentadura postiza",
+            "pos": "phrase",
+            "back": "false teeth, dentures",
+            "example": "Mi abuelo usa dentadura postiza.",
+            "tier": "B2"
+          },
+          {
+            "front": "regenerar",
+            "pos": "verb",
+            "back": "to regenerate",
+            "example": "La piel es capaz de regenerarse sola.",
+            "tier": "B2"
+          },
+          {
+            "front": "el fármaco",
+            "pos": "noun",
+            "back": "drug, medication",
+            "example": "Están probando un nuevo fármaco contra la gripe.",
+            "tier": "B2"
+          },
+          {
+            "front": "pedir cautela",
+            "pos": "phrase",
+            "back": "to urge caution",
+            "example": "Los médicos piden cautela con los resultados.",
+            "tier": "B2"
+          },
+          {
+            "front": "quedar un largo camino por recorrer",
+            "pos": "phrase",
+            "back": "to have a long way to go",
+            "example": "Queda un largo camino por recorrer hasta la igualdad.",
+            "tier": "C1"
+          },
+          {
+            "front": "la odontología",
+            "pos": "noun",
+            "back": "dentistry",
+            "example": "Estudia odontología en la universidad.",
+            "tier": "B2"
+          },
+          {
+            "front": "aun así",
+            "pos": "adv",
+            "back": "even so",
+            "example": "Estaba cansado; aun así, terminó el trabajo.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Si estos experimentos llegaran a funcionar en humanos, podrían cambiar por completo la odontología del futuro.",
+            "point": "Condicional irreal (imperfecto de subjuntivo + condicional)",
+            "explanation": "'Si + imperfecto de subjuntivo' ('llegaran') más 'condicional simple' ('podrían') expresa una situación hipotética y poco probable en el presente o futuro.",
+            "why_tricky": "No se puede usar el futuro tras 'si'; hay que usar el subjuntivo en la condición."
+          },
+          {
+            "sentence": "De momento, los expertos piden cautela, ya que queda un largo camino por recorrer antes de aplicar el tratamiento en pacientes.",
+            "point": "'Ya que' causal y 'por' + infinitivo",
+            "explanation": "'Ya que' introduce una causa conocida. 'Por recorrer' indica algo que todavía no se ha hecho pero está pendiente.",
+            "why_tricky": "La estructura 'quedar + por + infinitivo' expresa tareas pendientes, distinta de 'para + infinitivo'."
+          },
+          {
+            "sentence": "Aun así, muchos confían en que dentro de unos años ir al dentista sea una experiencia muy distinta.",
+            "point": "Subjuntivo tras 'confiar en que'",
+            "explanation": "'Confiar en que' expresa deseo o esperanza, por lo que el verbo siguiente va en subjuntivo ('sea').",
+            "why_tricky": "Aunque parece una afirmación, la esperanza sobre el futuro pide subjuntivo, no indicativo."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "quedar un largo camino por recorrer",
+            "meaning": "faltar todavía mucho trabajo para conseguir algo",
+            "example": "Hemos avanzado, pero queda un largo camino por recorrer."
+          },
+          {
+            "phrase": "hasta hace poco",
+            "meaning": "hace muy poco tiempo, recientemente",
+            "example": "Hasta hace poco vivía en Madrid."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué objetivo persiguen los científicos del artículo?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué las soluciones actuales no convencen del todo?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué piden cautela los expertos?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Te gustaría que existiera un tratamiento para regenerar los dientes? Explica qué ventajas y riesgos verías."
+      }
+    },
     {
       "pack_id": "feed-2026-07-26-fisica-mexicana",
       "title": "Alejandra Jáidar, la primera física mexicana y su rol clave para que México albergara uno de los aceleradores de partículas en operación \"más antiguos del mundo\"",
@@ -2038,175 +2524,6 @@
       }
     },
     {
-      "pack_id": "feed-2026-07-23-peru-casas-inacabadas",
-      "title": "\"Un país que nunca se termina de construir\": por qué en Perú hay tantas casas inacabadas",
-      "source": "BBC Mundo",
-      "date": "2026-07-23",
-      "level": "B1-B2",
-      "topics": [
-        "sociedad",
-        "vivienda"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-23-peru-casas-inacabadas",
-        "revision": 1,
-        "meta": {
-          "title": "\"Un país que nunca se termina de construir\": por qué en Perú hay tantas casas inacabadas",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c5y8nw132q2o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-23",
-          "date_processed": "2026-07-23",
-          "tags": [
-            "sociedad",
-            "vivienda"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "In many cities in Peru, the urban landscape is dominated by homes that are never actually finished. It is common to see houses with steel rods exposed, unplastered bricks and half-built upper floors. Behind this image lies a harsh reality for millions of families, who build their homes little by little, according to the money they manage to save.\n\nBuilding in stages has become a survival strategy in the face of a lack of credit and the high cost of materials. Many families prefer to move forward without plans or permits, which in the long run creates problems of safety and quality. This phenomenon ultimately reflects the country's deep economic inequalities and the enormous difficulty of gaining access to decent housing.",
-        "resumen_es": "En muchas ciudades de Perú, el paisaje urbano está dominado por viviendas que nunca llegan a terminarse. Es habitual ver casas con las varillas de acero al descubierto, ladrillos sin revocar y pisos superiores a medio construir. Detrás de esta imagen se esconde una realidad dura para millones de familias, que levantan sus hogares poco a poco, según el dinero que consiguen ahorrar.\n\nLa construcción por etapas se ha convertido en una estrategia de supervivencia frente a la falta de crédito y a los altos costos de los materiales. Muchas familias prefieren avanzar sin planos ni permisos, lo que a la larga genera problemas de seguridad y de calidad. Este fenómeno refleja, en el fondo, las profundas desigualdades económicas del país y la enorme dificultad para acceder a una vivienda digna.",
-        "vocab": [
-          {
-            "front": "vivienda",
-            "pos": "noun",
-            "back": "housing, dwelling",
-            "example": "Acceder a una vivienda digna es cada vez más difícil.",
-            "tier": "B1"
-          },
-          {
-            "front": "inacabado",
-            "pos": "adj",
-            "back": "unfinished",
-            "example": "Dejaron la casa inacabada durante años.",
-            "tier": "B2"
-          },
-          {
-            "front": "revocar (una pared)",
-            "pos": "verb",
-            "back": "to plaster, to render",
-            "example": "Todavía no han revocado las paredes.",
-            "tier": "C1"
-          },
-          {
-            "front": "ladrillo",
-            "pos": "noun",
-            "back": "brick",
-            "example": "La fachada es de ladrillo visto.",
-            "tier": "B1"
-          },
-          {
-            "front": "a medio construir",
-            "pos": "phrase",
-            "back": "half-built",
-            "example": "El edificio sigue a medio construir.",
-            "tier": "B2"
-          },
-          {
-            "front": "levantar (un hogar)",
-            "pos": "verb",
-            "back": "to build, to put up",
-            "example": "Levantaron su casa con mucho esfuerzo.",
-            "tier": "B2"
-          },
-          {
-            "front": "ahorrar",
-            "pos": "verb",
-            "back": "to save (money)",
-            "example": "Intenta ahorrar un poco cada mes.",
-            "tier": "B1"
-          },
-          {
-            "front": "por etapas",
-            "pos": "phrase",
-            "back": "in stages",
-            "example": "Hicieron la obra por etapas.",
-            "tier": "B2"
-          },
-          {
-            "front": "supervivencia",
-            "pos": "noun",
-            "back": "survival",
-            "example": "Para ellos es una cuestión de supervivencia.",
-            "tier": "B2"
-          },
-          {
-            "front": "a la larga",
-            "pos": "phrase",
-            "back": "in the long run",
-            "example": "A la larga, saldrá más caro.",
-            "tier": "B2"
-          },
-          {
-            "front": "plano",
-            "pos": "noun",
-            "back": "blueprint, plan",
-            "example": "El arquitecto revisó los planos.",
-            "tier": "B1"
-          },
-          {
-            "front": "desigualdad",
-            "pos": "noun",
-            "back": "inequality",
-            "example": "La desigualdad sigue creciendo.",
-            "tier": "B2"
-          },
-          {
-            "front": "digno",
-            "pos": "adj",
-            "back": "decent, dignified",
-            "example": "Todos merecen un trabajo digno.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Detrás de esta imagen se esconde una realidad dura para millones de familias, que levantan sus hogares poco a poco, según el dinero que consiguen ahorrar.",
-            "point": "Pasiva refleja con inversión del sujeto",
-            "explanation": "\"se esconde\" es una construcción con 'se' en la que el verbo aparece antes del sujeto 'una realidad dura'.",
-            "why_tricky": "El sujeto va detrás del verbo, algo poco natural para un angloparlante."
-          },
-          {
-            "sentence": "La construcción por etapas se ha convertido en una estrategia de supervivencia frente a la falta de crédito y a los altos costos de los materiales.",
-            "point": "convertirse en + pretérito perfecto",
-            "explanation": "'convertirse' es pronominal y exige la preposición 'en'; aquí va en pretérito perfecto compuesto.",
-            "why_tricky": "Hay que recordar el pronombre 'se' y la preposición 'en'."
-          },
-          {
-            "sentence": "Muchas familias prefieren avanzar sin planos ni permisos, lo que a la larga genera problemas de seguridad y de calidad.",
-            "point": "'sin... ni...' y el relativo neutro 'lo que'",
-            "explanation": "'sin... ni...' niega dos elementos; 'lo que' se refiere a toda la idea anterior, no a un solo sustantivo.",
-            "why_tricky": "Confundir 'lo que' (neutro) con 'que' o 'el que'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "a la larga",
-            "meaning": "in the long run, eventually",
-            "example": "A la larga, construir sin permisos sale más caro."
-          },
-          {
-            "phrase": "poco a poco",
-            "meaning": "little by little, gradually",
-            "example": "Aprendió español poco a poco."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué muchas familias peruanas construyen sus casas poco a poco?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué problemas puede causar construir sin planos ni permisos?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué crees que refleja este fenómeno sobre la situación económica del país?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que el Estado debería ayudar a las familias a terminar sus viviendas? Escribe un párrafo explicando tu opinión y proponiendo una solución."
-      }
-    },
-    {
       "pack_id": "feed-2026-07-23-openai-ciberataque",
       "title": "OpenAI dice que su inteligencia artificial se rebeló y lanzó un ciberataque \"sin precedentes\"",
       "source": "BBC Mundo",
@@ -3049,358 +3366,6 @@
           }
         ],
         "opinion_prompt": "¿Debería el acceso a la sanidad ser un derecho garantizado para todos? Justifica tu respuesta en un párrafo."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-22-repartidor-poeta",
-      "title": "Escribía versos entre entrega y entrega: el repartidor de comida que ganó uno de los mayores premios literarios de China",
-      "source": "BBC Mundo",
-      "date": "2026-07-22",
-      "level": "B1-B2",
-      "topics": [
-        "cultura",
-        "literatura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-22-repartidor-poeta",
-        "revision": 1,
-        "meta": {
-          "title": "Escribía versos entre entrega y entrega: el repartidor de comida que ganó uno de los mayores premios literarios de China",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c8enw1n5ngjo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-22",
-          "date_processed": "2026-07-22",
-          "tags": [
-            "cultura",
-            "literatura"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "A food-delivery courier has become one of the most talked-about literary voices in China after winning one of the country's most prestigious prizes. The young man wrote verses between one delivery and the next, making use of idle moments to shape his poems. His story has drawn attention because it combines hard, poorly paid work with an artistic sensibility that is rare in that world.\n\nThe case is not entirely isolated. More and more manual workers, such as couriers or laborers, are leaving their mark on Chinese literature. Their works reflect the everyday life of people who rarely appear in books. For some, this shows that talent does not depend on social background; for others, it highlights the harsh working conditions that push these people to take refuge in writing. In any case, his recognition opens an interesting debate.",
-        "resumen_es": "Un repartidor de comida a domicilio se ha convertido en una de las voces literarias más comentadas de China tras ganar uno de los premios más prestigiosos del país. El joven escribía versos entre una entrega y otra, aprovechando los ratos muertos para dar forma a sus poemas. Su historia ha llamado la atención porque combina un trabajo duro y mal pagado con una sensibilidad artística poco habitual.\n\nEl caso no es del todo aislado. Cada vez más trabajadores manuales, como mensajeros u obreros, están dejando huella en la literatura china. Sus obras reflejan la vida cotidiana de quienes rara vez aparecen en los libros. Para algunos, esto demuestra que el talento no depende del origen social; para otros, pone de relieve las duras condiciones laborales que empujan a estas personas a refugiarse en la escritura. En cualquier caso, su reconocimiento abre un debate interesante.",
-        "vocab": [
-          {
-            "front": "repartidor",
-            "pos": "noun",
-            "back": "delivery worker, courier",
-            "example": "El repartidor llega en moto con la comida caliente.",
-            "tier": "B1"
-          },
-          {
-            "front": "a domicilio",
-            "pos": "phrase",
-            "back": "home delivery, to your door",
-            "example": "Pedimos la cena a domicilio los viernes.",
-            "tier": "B1"
-          },
-          {
-            "front": "ratos muertos",
-            "pos": "phrase",
-            "back": "idle moments, downtime",
-            "example": "Aprovecho los ratos muertos para leer.",
-            "tier": "B2"
-          },
-          {
-            "front": "dar forma a",
-            "pos": "phrase",
-            "back": "to shape, to give form to",
-            "example": "Con el tiempo dio forma a su primera novela.",
-            "tier": "B2"
-          },
-          {
-            "front": "dejar huella",
-            "pos": "phrase",
-            "back": "to leave a mark",
-            "example": "Ese profesor dejó huella en todos sus alumnos.",
-            "tier": "B2"
-          },
-          {
-            "front": "sensibilidad",
-            "pos": "noun",
-            "back": "sensitivity, sensibility",
-            "example": "Escribe con una sensibilidad poco común.",
-            "tier": "B2"
-          },
-          {
-            "front": "mal pagado",
-            "pos": "adj",
-            "back": "poorly paid",
-            "example": "Es un trabajo duro y mal pagado.",
-            "tier": "B1"
-          },
-          {
-            "front": "cotidiano",
-            "pos": "adj",
-            "back": "everyday, daily",
-            "example": "Sus poemas hablan de la vida cotidiana.",
-            "tier": "B2"
-          },
-          {
-            "front": "poner de relieve",
-            "pos": "phrase",
-            "back": "to highlight, to bring out",
-            "example": "El informe pone de relieve un grave problema.",
-            "tier": "C1"
-          },
-          {
-            "front": "refugiarse",
-            "pos": "verb",
-            "back": "to take refuge",
-            "example": "Se refugia en la música cuando está triste.",
-            "tier": "B2"
-          },
-          {
-            "front": "superación",
-            "pos": "noun",
-            "back": "self-improvement, overcoming",
-            "example": "Su historia es un ejemplo de superación.",
-            "tier": "B2"
-          },
-          {
-            "front": "prestigioso",
-            "pos": "adj",
-            "back": "prestigious",
-            "example": "Ganó un premio muy prestigioso.",
-            "tier": "B1"
-          },
-          {
-            "front": "mensajero",
-            "pos": "noun",
-            "back": "messenger, courier",
-            "example": "El mensajero dejó el paquete en la portería.",
-            "tier": "B1"
-          },
-          {
-            "front": "origen social",
-            "pos": "phrase",
-            "back": "social background",
-            "example": "El talento no depende del origen social.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "El joven escribía versos entre una entrega y otra, aprovechando los ratos muertos para dar forma a sus poemas.",
-            "point": "Imperfecto + gerundio de simultaneidad",
-            "explanation": "'Escribía' es imperfecto porque describe una acción habitual en el pasado; 'aprovechando' es un gerundio que indica una acción simultánea (mientras aprovechaba).",
-            "why_tricky": "En inglés se suele usar 'used to write / would write' para el imperfecto, y el gerundio 'aprovechando' no lleva 'while' delante, aunque en inglés casi siempre haría falta ('making use of')."
-          },
-          {
-            "sentence": "Cada vez más trabajadores manuales, como mensajeros u obreros, están dejando huella en la literatura china.",
-            "point": "Estar + gerundio (presente continuo)",
-            "explanation": "'Están dejando' expresa una acción en desarrollo que sigue ocurriendo ahora. 'Dejar huella' es una locución fija que significa causar un impacto duradero.",
-            "why_tricky": "Se dice 'u obreros' y no 'o obreros' porque la palabra siguiente empieza por sonido 'o'."
-          },
-          {
-            "sentence": "Su historia ha llamado la atención porque combina un trabajo duro y mal pagado con una sensibilidad artística poco habitual.",
-            "point": "Pretérito perfecto + causal 'porque'",
-            "explanation": "'Ha llamado' (pretérito perfecto) conecta un hecho pasado con el presente. 'Porque' introduce la causa y va seguido de indicativo.",
-            "why_tricky": "No confundir 'porque' (causa) con 'por qué' (pregunta) ni con 'porqué' (sustantivo)."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "dejar huella",
-            "meaning": "causar un impacto duradero en alguien o algo",
-            "example": "Aquel viaje me dejó huella para siempre."
-          },
-          {
-            "phrase": "ratos muertos",
-            "meaning": "tiempo libre entre una actividad y otra",
-            "example": "Estudio vocabulario en los ratos muertos del trabajo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Cómo lograba el repartidor escribir sus poemas mientras trabajaba?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué crees que su historia ha llamado tanto la atención?",
-            "type": "open"
-          },
-          {
-            "q": "Según el texto, ¿qué reflejan las obras de estos trabajadores manuales?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que el origen social influye en las oportunidades de un artista? Escribe un párrafo con tu opinión y un ejemplo."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-22-dientes-regenerar",
-      "title": "Los científicos que buscan que los dientes que perdemos vuelvan a crecer",
-      "source": "BBC Mundo",
-      "date": "2026-07-22",
-      "level": "B1-B2",
-      "topics": [
-        "ciencia",
-        "salud"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-22-dientes-regenerar",
-        "revision": 1,
-        "meta": {
-          "title": "Los científicos que buscan que los dientes que perdemos vuelvan a crecer",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c8enwyp2374o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-22",
-          "date_processed": "2026-07-22",
-          "tags": [
-            "ciencia",
-            "salud"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "A group of scientists is working to make the teeth we lose grow back naturally. Although we often take them for granted, teeth play a more important role in our health than many people think. Today, the solutions for tooth loss, such as implants or dentures, are expensive and not always comfortable.\n\nThe new line of research aims to make use of the body's own ability to regenerate tissue. If the trials gave good results, this could completely change the dentistry of the future and save patients a lot of money. However, experts urge caution, since there is still a long way to go before this treatment reaches the clinic. For now, it is a hopeful promise that we will have to follow closely in the coming years.",
-        "resumen_es": "Un grupo de científicos trabaja para lograr que los dientes que perdemos vuelvan a crecer de forma natural. Aunque a menudo los damos por sentado, los dientes cumplen un papel más importante para la salud de lo que mucha gente cree. Hoy en día, las soluciones ante la pérdida de piezas dentales, como los implantes o las dentaduras postizas, resultan caras y no siempre cómodas.\n\nLa nueva línea de investigación busca aprovechar la capacidad del propio cuerpo para regenerar tejidos. Si los ensayos dieran buenos resultados, esto podría cambiar por completo la odontología del futuro y ahorrar mucho dinero a los pacientes. Sin embargo, los expertos piden prudencia, ya que todavía queda un largo camino por recorrer antes de que este tratamiento llegue a las consultas. De momento, se trata de una promesa esperanzadora que habrá que seguir de cerca en los próximos años.",
-        "vocab": [
-          {
-            "front": "diente",
-            "pos": "noun",
-            "back": "tooth",
-            "example": "Me duele un diente desde ayer.",
-            "tier": "B1"
-          },
-          {
-            "front": "pieza dental",
-            "pos": "phrase",
-            "back": "tooth (formal term)",
-            "example": "El dentista revisó cada pieza dental.",
-            "tier": "B2"
-          },
-          {
-            "front": "dentadura postiza",
-            "pos": "phrase",
-            "back": "dentures, false teeth",
-            "example": "Su abuelo usa dentadura postiza.",
-            "tier": "B2"
-          },
-          {
-            "front": "implante",
-            "pos": "noun",
-            "back": "implant",
-            "example": "Un implante dental puede ser muy caro.",
-            "tier": "B1"
-          },
-          {
-            "front": "dar por sentado",
-            "pos": "phrase",
-            "back": "to take for granted",
-            "example": "Damos por sentada la buena salud hasta que falla.",
-            "tier": "B2"
-          },
-          {
-            "front": "ensayo",
-            "pos": "noun",
-            "back": "trial, test",
-            "example": "Los ensayos clínicos duran varios años.",
-            "tier": "B2"
-          },
-          {
-            "front": "regenerar",
-            "pos": "verb",
-            "back": "to regenerate",
-            "example": "La piel puede regenerarse tras una herida.",
-            "tier": "B2"
-          },
-          {
-            "front": "tejido",
-            "pos": "noun",
-            "back": "tissue (body)",
-            "example": "El cuerpo repara los tejidos dañados.",
-            "tier": "B2"
-          },
-          {
-            "front": "odontología",
-            "pos": "noun",
-            "back": "dentistry",
-            "example": "Estudió odontología en la universidad.",
-            "tier": "B2"
-          },
-          {
-            "front": "prudencia",
-            "pos": "noun",
-            "back": "caution, prudence",
-            "example": "Los médicos piden prudencia con los datos.",
-            "tier": "B2"
-          },
-          {
-            "front": "quedar un largo camino por recorrer",
-            "pos": "phrase",
-            "back": "to have a long way to go",
-            "example": "Queda un largo camino por recorrer antes de curarlo.",
-            "tier": "C1"
-          },
-          {
-            "front": "esperanzador",
-            "pos": "adj",
-            "back": "hopeful, promising",
-            "example": "Los resultados son esperanzadores.",
-            "tier": "B2"
-          },
-          {
-            "front": "consulta",
-            "pos": "noun",
-            "back": "doctor's office, clinic",
-            "example": "Tengo consulta con el dentista el lunes.",
-            "tier": "B1"
-          },
-          {
-            "front": "ahorrar",
-            "pos": "verb",
-            "back": "to save (money)",
-            "example": "Este método podría ahorrar mucho dinero.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Aunque a menudo los damos por sentado, los dientes cumplen un papel más importante para la salud de lo que mucha gente cree.",
-            "point": "Concesiva 'aunque' + comparativa 'más... de lo que'",
-            "explanation": "'Aunque' introduce una concesión (a pesar de que). La estructura 'más importante... de lo que cree' compara con una oración, por eso usa 'de lo que' y no 'que'.",
-            "why_tricky": "Los estudiantes tienden a decir 'más importante que la gente cree'; con una cláusula hace falta 'de lo que'."
-          },
-          {
-            "sentence": "Si los ensayos dieran buenos resultados, esto podría cambiar por completo la odontología del futuro y ahorrar mucho dinero a los pacientes.",
-            "point": "Condicional irreal (tipo 2)",
-            "explanation": "'Si + imperfecto de subjuntivo (dieran)' con 'condicional simple (podría)' expresa una situación hipotética o poco probable en el presente o futuro.",
-            "why_tricky": "No se puede usar el futuro ni el presente de indicativo detrás de 'si' en este tipo de condicional."
-          },
-          {
-            "sentence": "Sin embargo, los expertos piden prudencia, ya que todavía queda un largo camino por recorrer antes de que este tratamiento llegue a las consultas.",
-            "point": "'Antes de que' + subjuntivo",
-            "explanation": "'Antes de que' siempre exige subjuntivo ('llegue'). 'Ya que' introduce una causa con indicativo.",
-            "why_tricky": "Si el sujeto fuera el mismo se usaría 'antes de' + infinitivo; al cambiar de sujeto, se necesita 'antes de que' + subjuntivo."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "dar por sentado",
-            "meaning": "suponer algo como cierto sin comprobarlo",
-            "example": "No des por sentado que vendrá; pregúntale."
-          },
-          {
-            "phrase": "quedar un largo camino por recorrer",
-            "meaning": "faltar todavía mucho para conseguir algo",
-            "example": "Hemos mejorado, pero queda un largo camino por recorrer."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué objetivo persiguen los científicos según el texto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué las soluciones actuales para la pérdida de dientes no son ideales?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué piden prudencia los expertos?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Confías en los avances médicos que prometen regenerar partes del cuerpo? Explica por qué en unas líneas."
       }
     },
     {
