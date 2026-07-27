@@ -1,7 +1,535 @@
 {
-  "generated_at": "2026-07-27T08:10:20Z",
+  "generated_at": "2026-07-27T20:14:34Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-07-27-cuatrillizas-australia",
+      "title": "El extraordinario nacimiento en Australia de cuatrillizas idénticas concebidas de forma natural",
+      "source": "BBC Mundo",
+      "date": "2026-07-27",
+      "level": "B1-B2",
+      "topics": [
+        "sociedad",
+        "ciencia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-27-cuatrillizas-australia",
+        "revision": 1,
+        "meta": {
+          "title": "El extraordinario nacimiento en Australia de cuatrillizas idénticas concebidas de forma natural",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cwymxl3pewxo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-07-20",
+          "date_processed": "2026-07-27",
+          "tags": [
+            "sociedad",
+            "ciencia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "In Australia, a couple has received news that is as surprising as it is rare: the birth of identical quadruplets conceived naturally. According to the hospital, the parents were enormously surprised when they found out about the pregnancy, because they did not expect to have four babies at once. The four girls share the same genetic information, something specialists consider extremely rare.\n\nThat four identical sisters are born without any fertility treatment is an extraordinary phenomenon, because it happens when a single fertilized egg divides several times. Doctors usually monitor this kind of pregnancy closely, given that it involves more risks for the mother and the babies. From now on, the family will have to adapt to a very different life, with demanding schedules and a lot of support. Even so, many parents describe these situations as an unexpected gift that completely transforms the home.",
+        "resumen_es": "En Australia, una pareja ha recibido una noticia tan sorprendente como poco frecuente: el nacimiento de cuatrillizas idénticas concebidas de forma natural. Según informó el hospital, los padres se mostraron enormemente sorprendidos al enterarse del embarazo, porque no esperaban tener cuatro bebés a la vez. Las cuatro niñas comparten la misma información genética, algo que los especialistas consideran rarísimo.\n\nQue cuatro hermanas idénticas nazcan sin ningún tratamiento de fertilidad es un fenómeno extraordinario, porque ocurre cuando un solo óvulo fecundado se divide varias veces. Los médicos suelen seguir de cerca este tipo de embarazos, dado que implican más riesgos para la madre y para los bebés. A partir de ahora, la familia tendrá que adaptarse a una vida muy distinta, con horarios exigentes y mucho apoyo. Aun así, muchos padres describen estas situaciones como un regalo inesperado que transforma por completo el hogar.",
+        "vocab": [
+          {
+            "front": "las cuatrillizas",
+            "pos": "noun",
+            "back": "quadruplets (girls)",
+            "example": "Las cuatrillizas nacieron el mismo día.",
+            "tier": "B2"
+          },
+          {
+            "front": "concebir",
+            "pos": "verb",
+            "back": "to conceive",
+            "example": "Las niñas fueron concebidas de forma natural.",
+            "tier": "B2"
+          },
+          {
+            "front": "el embarazo",
+            "pos": "noun",
+            "back": "pregnancy",
+            "example": "El embarazo fue una gran sorpresa.",
+            "tier": "B1"
+          },
+          {
+            "front": "óvulo fecundado",
+            "pos": "phrase",
+            "back": "fertilized egg",
+            "example": "Un óvulo fecundado se dividió varias veces.",
+            "tier": "C1"
+          },
+          {
+            "front": "tratamiento de fertilidad",
+            "pos": "phrase",
+            "back": "fertility treatment",
+            "example": "No usaron ningún tratamiento de fertilidad.",
+            "tier": "B2"
+          },
+          {
+            "front": "rarísimo",
+            "pos": "adj",
+            "back": "extremely rare",
+            "example": "Es un caso rarísimo en medicina.",
+            "tier": "B2"
+          },
+          {
+            "front": "seguir de cerca",
+            "pos": "phrase",
+            "back": "to monitor closely",
+            "example": "Los médicos siguen de cerca el embarazo.",
+            "tier": "B2"
+          },
+          {
+            "front": "dado que",
+            "pos": "phrase",
+            "back": "given that",
+            "example": "Hay riesgos, dado que son cuatro bebés.",
+            "tier": "B2"
+          },
+          {
+            "front": "exigente",
+            "pos": "adj",
+            "back": "demanding",
+            "example": "Tienen horarios muy exigentes.",
+            "tier": "B1"
+          },
+          {
+            "front": "inesperado",
+            "pos": "adj",
+            "back": "unexpected",
+            "example": "Fue una noticia inesperada.",
+            "tier": "B1"
+          },
+          {
+            "front": "transformar",
+            "pos": "verb",
+            "back": "to transform",
+            "example": "La llegada de los bebés transforma el hogar.",
+            "tier": "B1"
+          },
+          {
+            "front": "el hogar",
+            "pos": "noun",
+            "back": "the home, household",
+            "example": "El nuevo hogar está lleno de alegría.",
+            "tier": "B1"
+          },
+          {
+            "front": "enterarse de",
+            "pos": "phrase",
+            "back": "to find out about",
+            "example": "Se enteraron del embarazo en el hospital.",
+            "tier": "B1"
+          },
+          {
+            "front": "a la vez",
+            "pos": "phrase",
+            "back": "at the same time",
+            "example": "Cuidan a cuatro bebés a la vez.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "En Australia, una pareja ha recibido una noticia tan sorprendente como poco frecuente: el nacimiento de cuatrillizas idénticas concebidas de forma natural.",
+            "point": "Pretérito perfecto compuesto y comparación de igualdad",
+            "explanation": "'Ha recibido' usa haber más participio para un hecho reciente con efecto en el presente. 'Tan ... como' compara dos cualidades: aquí 'sorprendente' y 'poco frecuente'.",
+            "why_tricky": "En muchos países de América Latina se prefiere el pretérito simple ('recibió'), así que el perfecto puede sonar más español peninsular."
+          },
+          {
+            "sentence": "Los médicos suelen seguir de cerca este tipo de embarazos, dado que implican más riesgos para la madre y para los bebés.",
+            "point": "Soler más infinitivo y conector causal 'dado que'",
+            "explanation": "'Suelen seguir' expresa una acción habitual. 'Dado que' introduce una causa, como 'porque' pero más formal.",
+            "why_tricky": "'Soler' no tiene un equivalente directo en inglés; se traduce con 'usually' más el verbo principal."
+          },
+          {
+            "sentence": "Que cuatro hermanas idénticas nazcan sin ningún tratamiento de fertilidad es un fenómeno extraordinario, porque ocurre cuando un solo óvulo fecundado se divide varias veces.",
+            "point": "Subjuntivo en sujeto con 'que'",
+            "explanation": "Cuando una oración con 'que' funciona como sujeto y se valora ('es extraordinario'), el verbo va en subjuntivo: 'nazcan'.",
+            "why_tricky": "Es fácil poner el indicativo 'nacen', pero la valoración exige subjuntivo."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "venir al mundo",
+            "meaning": "to be born",
+            "example": "Las cuatro niñas vinieron al mundo el mismo día."
+          },
+          {
+            "phrase": "un regalo caído del cielo",
+            "meaning": "an unexpected blessing",
+            "example": "Para ellos, las cuatrillizas fueron un regalo caído del cielo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué se considera tan raro el nacimiento de cuatrillizas idénticas de forma natural?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué reacción tuvieron los padres al conocer la noticia?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué retos crees que enfrentará la familia a partir de ahora?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que las familias con partos múltiples deberían recibir ayuda especial del Estado? Escribe tu opinión en un párrafo."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-27-ucrania-wildberries",
+      "title": "Por qué Ucrania está atacando con tanta fuerza Wildberries, el equivalente ruso de Amazon",
+      "source": "BBC Mundo",
+      "date": "2026-07-27",
+      "level": "B1-B2",
+      "topics": [
+        "economía",
+        "conflicto"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-27-ucrania-wildberries",
+        "revision": 1,
+        "meta": {
+          "title": "Por qué Ucrania está atacando con tanta fuerza Wildberries, el equivalente ruso de Amazon",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cx27mg3kl0vo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-07-23",
+          "date_processed": "2026-07-27",
+          "tags": [
+            "economía",
+            "conflicto"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Ukraine has intensified its attacks against Wildberries, considered the Russian equivalent of Amazon. According to available information, the strikes have hit the warehouses of this huge online sales platform, one of the most important e-commerce businesses in Russia. The attacks do not only hurt the company, but also the civilians who depend on it to work and to shop.\n\nBy affecting such an everyday service, the war begins to feel much closer for the Russian population. Many people use the platform daily, whether to sell their products or to receive orders at home. When the warehouses burn, a whole chain of work is interrupted and thousands of families lose income. Analysts point out that this type of target seeks to weaken the economy and to show that the conflict also has consequences far from the front.",
+        "resumen_es": "Ucrania ha intensificado sus ataques contra Wildberries, considerado el equivalente ruso de Amazon. Según la información disponible, los bombardeos han alcanzado las bodegas de esta enorme plataforma de ventas por internet, uno de los negocios de comercio electrónico más importantes de Rusia. Los ataques no solo golpean a la empresa, sino también a los civiles que dependen de ella para trabajar y comprar.\n\nAl afectar un servicio tan cotidiano, la guerra empieza a sentirse mucho más cerca para la población rusa. Muchas personas utilizan la plataforma a diario, ya sea para vender sus productos o para recibir pedidos en casa. Cuando los almacenes arden, se interrumpe toda una cadena de trabajo y miles de familias pierden ingresos. Los analistas señalan que este tipo de objetivos busca debilitar la economía y mostrar que el conflicto también tiene consecuencias lejos del frente.",
+        "vocab": [
+          {
+            "front": "intensificar",
+            "pos": "verb",
+            "back": "to intensify",
+            "example": "El ejército intensificó los ataques.",
+            "tier": "B2"
+          },
+          {
+            "front": "la bodega",
+            "pos": "noun",
+            "back": "warehouse, storeroom",
+            "example": "Las bodegas guardan miles de productos.",
+            "tier": "B1"
+          },
+          {
+            "front": "comercio electrónico",
+            "pos": "phrase",
+            "back": "e-commerce",
+            "example": "El comercio electrónico crece cada año.",
+            "tier": "B2"
+          },
+          {
+            "front": "el bombardeo",
+            "pos": "noun",
+            "back": "bombing, shelling",
+            "example": "El bombardeo destruyó varios edificios.",
+            "tier": "B2"
+          },
+          {
+            "front": "el civil",
+            "pos": "noun",
+            "back": "civilian",
+            "example": "La guerra afecta sobre todo a los civiles.",
+            "tier": "B1"
+          },
+          {
+            "front": "depender de",
+            "pos": "phrase",
+            "back": "to depend on",
+            "example": "Muchas familias dependen de ese trabajo.",
+            "tier": "B1"
+          },
+          {
+            "front": "cotidiano",
+            "pos": "adj",
+            "back": "everyday, daily",
+            "example": "Es un servicio cotidiano para millones.",
+            "tier": "B2"
+          },
+          {
+            "front": "a diario",
+            "pos": "phrase",
+            "back": "daily, every day",
+            "example": "Usan la aplicación a diario.",
+            "tier": "B1"
+          },
+          {
+            "front": "el pedido",
+            "pos": "noun",
+            "back": "order (of goods)",
+            "example": "Recibió su pedido en dos días.",
+            "tier": "B1"
+          },
+          {
+            "front": "la cadena de trabajo",
+            "pos": "phrase",
+            "back": "chain of work, supply chain",
+            "example": "El incendio rompió la cadena de trabajo.",
+            "tier": "B2"
+          },
+          {
+            "front": "los ingresos",
+            "pos": "noun",
+            "back": "income, earnings",
+            "example": "Perdieron sus ingresos por el ataque.",
+            "tier": "B1"
+          },
+          {
+            "front": "debilitar",
+            "pos": "verb",
+            "back": "to weaken",
+            "example": "Quieren debilitar la economía enemiga.",
+            "tier": "B2"
+          },
+          {
+            "front": "el frente",
+            "pos": "noun",
+            "back": "the front (in war)",
+            "example": "Los soldados están en el frente.",
+            "tier": "B2"
+          },
+          {
+            "front": "arder",
+            "pos": "verb",
+            "back": "to burn, be on fire",
+            "example": "Los almacenes ardieron durante horas.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Ucrania ha intensificado sus ataques contra Wildberries, considerado el equivalente ruso de Amazon.",
+            "point": "Participio como adjetivo",
+            "explanation": "'Considerado' es un participio que funciona como adjetivo y equivale a 'que es considerado'. Concuerda con el nombre al que describe.",
+            "why_tricky": "Al omitir 'que es', la frase suena más formal y periodística, pero puede confundir a quien busca el verbo principal."
+          },
+          {
+            "sentence": "Los ataques no solo golpean a la empresa, sino también a los civiles que dependen de ella para trabajar y comprar.",
+            "point": "Correlación 'no solo ... sino también' y la 'a' personal",
+            "explanation": "'No solo ... sino también' une dos ideas y añade información. La 'a' antes de 'la empresa' y 'los civiles' es la 'a' personal, obligatoria con objetos directos de persona.",
+            "why_tricky": "En inglés no existe la 'a' personal, así que es fácil olvidarla."
+          },
+          {
+            "sentence": "Cuando los almacenes arden, se interrumpe toda una cadena de trabajo y miles de familias pierden ingresos.",
+            "point": "'Se' impersonal o pasiva refleja",
+            "explanation": "'Se interrumpe' no dice quién interrumpe: la acción se presenta sin agente. El verbo concuerda con 'una cadena', en singular.",
+            "why_tricky": "Decidir entre singular y plural del verbo con 'se' depende del sustantivo que lo acompaña."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "estar en el punto de mira",
+            "meaning": "to be a target, in the crosshairs",
+            "example": "Las grandes empresas están ahora en el punto de mira."
+          },
+          {
+            "phrase": "ganarse la vida",
+            "meaning": "to earn a living",
+            "example": "Miles de personas se ganan la vida vendiendo en esa plataforma."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué Ucrania ataca las bodegas de Wildberries?",
+            "type": "open"
+          },
+          {
+            "q": "¿Cómo afectan estos ataques a la población civil rusa?",
+            "type": "open"
+          },
+          {
+            "q": "Según los analistas, ¿qué objetivo persiguen estos bombardeos?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Es legítimo atacar objetivos económicos durante una guerra? Explica tu punto de vista en un párrafo."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-27-sindrome-laron-ecuador",
+      "title": "Crecer en un mundo de gigantes: las personas que viven con síndrome de Laron en Ecuador",
+      "source": "BBC Mundo",
+      "date": "2026-07-27",
+      "level": "B1-B2",
+      "topics": [
+        "ciencia",
+        "salud"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-27-sindrome-laron-ecuador",
+        "revision": 1,
+        "meta": {
+          "title": "Crecer en un mundo de gigantes: las personas que viven con síndrome de Laron en Ecuador",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cy9193d5r25o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-07-16",
+          "date_processed": "2026-07-27",
+          "tags": [
+            "ciencia",
+            "salud"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "In the south of Ecuador lives a very particular community: people with Laron syndrome, an uncommon genetic condition that causes a very short stature. Close to a third of all the cases in the world are concentrated in that region of the country. Although for a long time they were seen as different, these people today arouse enormous scientific interest.\n\nThe most striking thing is that those who have this syndrome almost never develop diabetes or cancer, two of the most widespread diseases on the planet. For that reason, several researchers study their bodies in the hope of finding new forms of prevention. If they managed to understand what protects them, those findings could benefit millions of patients in the future. Meanwhile, the Ecuadorian community remains a key piece for science and an example of how human diversity can open unexpected paths.",
+        "resumen_es": "En el sur de Ecuador vive una comunidad muy particular: personas con síndrome de Laron, una condición genética poco común que provoca una estatura muy baja. Cerca de un tercio de todos los casos del mundo se concentran en esa región del país. Aunque durante mucho tiempo fueron vistas como diferentes, estas personas despiertan hoy un enorme interés científico.\n\nLo más llamativo es que quienes tienen este síndrome casi nunca desarrollan diabetes ni cáncer, dos de las enfermedades más extendidas del planeta. Por eso, varios investigadores estudian su organismo con la esperanza de encontrar nuevas formas de prevención. Si lograran entender qué las protege, esos hallazgos podrían beneficiar a millones de pacientes en el futuro. Mientras tanto, la comunidad ecuatoriana sigue siendo una pieza clave para la ciencia y un ejemplo de cómo la diversidad humana puede abrir caminos inesperados.",
+        "vocab": [
+          {
+            "front": "el síndrome",
+            "pos": "noun",
+            "back": "syndrome",
+            "example": "El síndrome afecta el crecimiento.",
+            "tier": "B2"
+          },
+          {
+            "front": "condición genética",
+            "pos": "phrase",
+            "back": "genetic condition",
+            "example": "Es una condición genética hereditaria.",
+            "tier": "B2"
+          },
+          {
+            "front": "la estatura",
+            "pos": "noun",
+            "back": "height, stature",
+            "example": "Tienen una estatura muy baja.",
+            "tier": "B1"
+          },
+          {
+            "front": "poco común",
+            "pos": "phrase",
+            "back": "uncommon, rare",
+            "example": "Es una enfermedad poco común.",
+            "tier": "B1"
+          },
+          {
+            "front": "un tercio",
+            "pos": "phrase",
+            "back": "a third",
+            "example": "Un tercio de los casos está en Ecuador.",
+            "tier": "B1"
+          },
+          {
+            "front": "llamativo",
+            "pos": "adj",
+            "back": "striking, eye-catching",
+            "example": "Lo más llamativo es su buena salud.",
+            "tier": "B2"
+          },
+          {
+            "front": "desarrollar",
+            "pos": "verb",
+            "back": "to develop (an illness)",
+            "example": "Casi nunca desarrollan diabetes.",
+            "tier": "B1"
+          },
+          {
+            "front": "la enfermedad",
+            "pos": "noun",
+            "back": "illness, disease",
+            "example": "El cáncer es una enfermedad grave.",
+            "tier": "B1"
+          },
+          {
+            "front": "extendido",
+            "pos": "adj",
+            "back": "widespread",
+            "example": "La diabetes es muy extendida en el mundo.",
+            "tier": "B2"
+          },
+          {
+            "front": "el hallazgo",
+            "pos": "noun",
+            "back": "finding, discovery",
+            "example": "El hallazgo sorprendió a los científicos.",
+            "tier": "B2"
+          },
+          {
+            "front": "la prevención",
+            "pos": "noun",
+            "back": "prevention",
+            "example": "Buscan nuevas formas de prevención.",
+            "tier": "B1"
+          },
+          {
+            "front": "pieza clave",
+            "pos": "phrase",
+            "back": "key piece, key element",
+            "example": "Son una pieza clave del estudio.",
+            "tier": "B2"
+          },
+          {
+            "front": "despertar interés",
+            "pos": "phrase",
+            "back": "to arouse interest",
+            "example": "El caso despierta mucho interés.",
+            "tier": "B2"
+          },
+          {
+            "front": "abrir caminos",
+            "pos": "phrase",
+            "back": "to open paths, pave the way",
+            "example": "El descubrimiento abre nuevos caminos.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "En el sur de Ecuador vive una comunidad muy particular: personas con síndrome de Laron, una condición genética poco común que provoca una estatura muy baja.",
+            "point": "Oración de relativo especificativa con 'que'",
+            "explanation": "'Que provoca una estatura muy baja' añade información esencial sobre la condición genética. El relativo 'que' sustituye al nombre anterior.",
+            "why_tricky": "El sujeto real ('una comunidad') va después del verbo 'vive', un orden común en descripciones."
+          },
+          {
+            "sentence": "Si lograran entender qué las protege, esos hallazgos podrían beneficiar a millones de pacientes en el futuro.",
+            "point": "Condicional irreal (tipo 2)",
+            "explanation": "Para una hipótesis poco probable se usa 'si' más imperfecto de subjuntivo ('lograran') y el condicional ('podrían') en la otra parte.",
+            "why_tricky": "Es un error frecuente usar el presente ('si logran ... pueden'); la hipótesis exige subjuntivo y condicional."
+          },
+          {
+            "sentence": "Lo más llamativo es que quienes tienen este síndrome casi nunca desarrollan diabetes ni cáncer, dos de las enfermedades más extendidas del planeta.",
+            "point": "'Lo más' con adjetivo y el relativo 'quienes'",
+            "explanation": "'Lo más llamativo' convierte un adjetivo en idea abstracta ('the most striking thing'). 'Quienes' equivale a 'las personas que'.",
+            "why_tricky": "'Lo' neutro no existe en inglés y 'quienes' solo se usa con personas."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "una pieza clave",
+            "meaning": "an essential element",
+            "example": "Esta comunidad es una pieza clave para la investigación."
+          },
+          {
+            "phrase": "abrir camino",
+            "meaning": "to pave the way",
+            "example": "Sus genes podrían abrir camino a nuevos tratamientos."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué caracteriza a las personas con síndrome de Laron?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué interesan tanto a los científicos?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué beneficios futuros podría tener este estudio?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que la ciencia debería centrarse más en comunidades pequeñas y poco estudiadas? Justifica tu respuesta."
+      }
+    },
     {
       "pack_id": "feed-2026-07-27-peru-casas-inacabadas",
       "title": "\"Un país que nunca se termina de construir\": por qué en Perú hay tantas casas inacabadas",
@@ -6111,487 +6639,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que el fútbol de selecciones sigue siendo tan importante como hace veinte años, o los clubes lo han sustituido en el corazón de los aficionados? Justifica tu opinión."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-20-reino-unido-primeros-ministros",
-      "title": "7 en 10 años: por qué Reino Unido ha tenido tantos primeros ministros en la última década",
-      "source": "BBC Mundo",
-      "date": "2026-07-20",
-      "level": "B1-B2",
-      "topics": [
-        "política",
-        "reino unido"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-20-reino-unido-primeros-ministros",
-        "revision": 1,
-        "meta": {
-          "title": "7 en 10 años: por qué Reino Unido ha tenido tantos primeros ministros en la última década",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cy04vrk2d5no?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-20",
-          "date_processed": "2026-07-20",
-          "tags": [
-            "política",
-            "reino unido"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The United Kingdom welcomes its seventh prime minister in barely ten years this Monday. Andy Burnham, elected as the new leader of the Labour Party, replaces Keir Starmer, who resigned without completing his term. Burnham arrives at Downing Street with the challenge of halting the advance of Reform UK, Nigel Farage's anti-establishment, anti-immigration party, before the elections scheduled for 2029.\n\nThe figure is striking in a country that for decades prided itself on political stability. Since 2016, no British prime minister has managed to finish their term: Brexit, internal scandals and economic pressure have worn down successive governments. Analysts point out that the traditional parties, Conservative and Labour alike, face an electorate that is increasingly impatient and fragmented.",
-        "resumen_es": "Reino Unido estrena este lunes a su séptimo primer ministro en apenas diez años. Andy Burnham, elegido nuevo líder del Partido Laborista, sustituye a Keir Starmer, quien dimitió sin completar su mandato. Burnham llega a Downing Street con el reto de frenar el avance de Reform UK, el partido antisistema y antiinmigración de Nigel Farage, antes de las elecciones previstas para 2029.\n\nLa cifra llama la atención en un país que durante décadas presumió de estabilidad política. Desde 2016, ningún primer ministro británico ha logrado terminar su mandato: el Brexit, los escándalos internos y la presión económica han desgastado a los sucesivos gobiernos. Los analistas señalan que los partidos tradicionales, tanto conservadores como laboristas, se enfrentan a un electorado cada vez más impaciente y fragmentado.",
-        "vocab": [
-          {
-            "front": "estrenar",
-            "pos": "verb",
-            "back": "to have for the first time, to debut",
-            "example": "El país estrena gobierno esta semana.",
-            "tier": "B2"
-          },
-          {
-            "front": "en apenas",
-            "pos": "phrase",
-            "back": "in barely, in just",
-            "example": "Cambiaron de líder tres veces en apenas dos años.",
-            "tier": "B1"
-          },
-          {
-            "front": "sustituir",
-            "pos": "verb",
-            "back": "to replace",
-            "example": "Burnham sustituye a Starmer al frente del gobierno.",
-            "tier": "B1"
-          },
-          {
-            "front": "dimitir",
-            "pos": "verb",
-            "back": "to resign",
-            "example": "El ministro dimitió tras el escándalo.",
-            "tier": "B1"
-          },
-          {
-            "front": "el mandato",
-            "pos": "noun",
-            "back": "term of office, mandate",
-            "example": "No logró completar su mandato de cinco años.",
-            "tier": "B1"
-          },
-          {
-            "front": "el reto",
-            "pos": "noun",
-            "back": "challenge",
-            "example": "Su mayor reto será recuperar la confianza de los votantes.",
-            "tier": "B1"
-          },
-          {
-            "front": "frenar",
-            "pos": "verb",
-            "back": "to halt, to curb",
-            "example": "El gobierno quiere frenar el avance de la oposición.",
-            "tier": "B1"
-          },
-          {
-            "front": "presumir de",
-            "pos": "phrase",
-            "back": "to boast about, to pride oneself on",
-            "example": "El país presume de instituciones sólidas.",
-            "tier": "B2"
-          },
-          {
-            "front": "desgastar",
-            "pos": "verb",
-            "back": "to wear down, to erode",
-            "example": "Las crisis sucesivas han desgastado al gobierno.",
-            "tier": "B2"
-          },
-          {
-            "front": "señalar",
-            "pos": "verb",
-            "back": "to point out",
-            "example": "Los expertos señalan varias causas de la inestabilidad.",
-            "tier": "B1"
-          },
-          {
-            "front": "el electorado",
-            "pos": "noun",
-            "back": "electorate, voters",
-            "example": "El electorado se muestra cada vez más dividido.",
-            "tier": "B2"
-          },
-          {
-            "front": "fragmentado",
-            "pos": "adj",
-            "back": "fragmented",
-            "example": "El voto está muy fragmentado entre cinco partidos.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Desde 2016, ningún primer ministro británico ha logrado terminar su mandato: el Brexit, los escándalos internos y la presión económica han desgastado a los sucesivos gobiernos.",
-            "point": "Pretérito perfecto with desde",
-            "explanation": "A period starting in the past and continuing into the present (desde 2016) takes the perfecto: ha logrado, han desgastado.",
-            "why_tricky": "Learners influenced by Latin American usage or by English may reach for the indefinido; with desde + an open time frame, peninsular Spanish strongly prefers the perfecto."
-          },
-          {
-            "sentence": "Andy Burnham, elegido nuevo líder del Partido Laborista, sustituye a Keir Starmer, quien dimitió sin completar su mandato.",
-            "point": "Participle clause and the relative quien",
-            "explanation": "Elegido nuevo líder is a reduced clause (que fue elegido), and quien is the formal relative used for people after a comma.",
-            "why_tricky": "Both structures are common in journalism but rare in speech, so they read as very formal; note also sin + infinitive where English uses without + -ing."
-          },
-          {
-            "sentence": "Reino Unido estrena este lunes a su séptimo primer ministro en apenas diez años.",
-            "point": "Personal a with an institution's people",
-            "explanation": "Even though the object is a role (su séptimo primer ministro), it refers to a specific person, so the personal a is required.",
-            "why_tricky": "English has no equivalent marker, and learners often drop the a when the person is described by a title rather than a name."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "llamar la atención",
-            "meaning": "to be striking, to draw attention",
-            "example": "Llama la atención la rapidez con la que cambian los gobiernos."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿A quién sustituye Andy Burnham y en qué circunstancias?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué factores explican, según el texto, el desgaste de los gobiernos británicos desde 2016?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué desafío electoral tiene Burnham de cara a 2029?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Es la rotación frecuente de líderes un signo de democracia sana o de crisis institucional? Escribe un párrafo defendiendo tu postura con ejemplos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-20-incendios-espana",
-      "title": "España: Varios incendios arrasan miles de hectáreas y desplazan a cientos de residentes",
-      "source": "RFI Español",
-      "date": "2026-07-19",
-      "level": "B1-B2",
-      "topics": [
-        "medioambiente",
-        "españa"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-20-incendios-espana",
-        "revision": 1,
-        "meta": {
-          "title": "España: Varios incendios arrasan miles de hectáreas y desplazan a cientos de residentes",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/europa/20260719-espa%C3%B1a-varios-incendios-arrasan-miles-de-hect%C3%A1reas-y-desplazan-a-cientos-de-residentes",
-          "date_published": "2026-07-19",
-          "date_processed": "2026-07-20",
-          "tags": [
-            "medioambiente",
-            "españa"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Spain is fighting several forest fires that have devastated thousands of hectares and forced hundreds of people to evacuate. The largest blaze, active since Thursday in Castilla-La Mancha, about a hundred kilometres north of Madrid, has already burned some 13,000 hectares. Added to this is another fire near Zaragoza, which started on Wednesday and is far from being under control after devouring around 16,000 hectares.\n\nSpanish summers are increasingly prone to this kind of catastrophe. Heatwaves, prolonged drought and the abandonment of the countryside create perfect conditions for the flames to spread at great speed. Emergency services are working around the clock, while the authorities are asking the public to follow instructions and avoid approaching the affected areas.",
-        "resumen_es": "España lucha contra varios incendios forestales que han arrasado miles de hectáreas y han obligado a evacuar a cientos de personas. El fuego más extenso, activo desde el jueves en Castilla-La Mancha, a unos cien kilómetros al norte de Madrid, ha quemado ya unas 13.000 hectáreas. A este se suma otro incendio cerca de Zaragoza, que comenzó el miércoles y está lejos de ser controlado tras devorar unas 16.000 hectáreas.\n\nLos veranos españoles son cada vez más propensos a este tipo de catástrofes. Las olas de calor, la sequía prolongada y el abandono del campo crean las condiciones perfectas para que las llamas se propaguen a gran velocidad. Los servicios de emergencia trabajan sin descanso, mientras las autoridades piden a la población que siga las indicaciones y evite acercarse a las zonas afectadas.",
-        "vocab": [
-          {
-            "front": "el incendio forestal",
-            "pos": "noun",
-            "back": "forest fire, wildfire",
-            "example": "El incendio forestal obligó a cortar varias carreteras.",
-            "tier": "B1"
-          },
-          {
-            "front": "arrasar",
-            "pos": "verb",
-            "back": "to devastate, to raze",
-            "example": "Las llamas arrasaron miles de hectáreas de bosque.",
-            "tier": "B2"
-          },
-          {
-            "front": "la hectárea",
-            "pos": "noun",
-            "back": "hectare",
-            "example": "El fuego quemó más de mil hectáreas en un día.",
-            "tier": "B1"
-          },
-          {
-            "front": "evacuar",
-            "pos": "verb",
-            "back": "to evacuate",
-            "example": "Tuvieron que evacuar a los vecinos de tres pueblos.",
-            "tier": "B1"
-          },
-          {
-            "front": "devorar",
-            "pos": "verb",
-            "back": "to devour (also figurative for fire)",
-            "example": "El fuego devoró la ladera en pocas horas.",
-            "tier": "B2"
-          },
-          {
-            "front": "estar lejos de",
-            "pos": "phrase",
-            "back": "to be far from (doing something)",
-            "example": "El incendio está lejos de ser controlado.",
-            "tier": "B2"
-          },
-          {
-            "front": "propenso a",
-            "pos": "adj",
-            "back": "prone to",
-            "example": "La región es propensa a las sequías.",
-            "tier": "B2"
-          },
-          {
-            "front": "la ola de calor",
-            "pos": "noun",
-            "back": "heatwave",
-            "example": "La ola de calor durará toda la semana.",
-            "tier": "B1"
-          },
-          {
-            "front": "la sequía",
-            "pos": "noun",
-            "back": "drought",
-            "example": "La sequía ha dejado los embalses bajo mínimos.",
-            "tier": "B1"
-          },
-          {
-            "front": "propagarse",
-            "pos": "verb",
-            "back": "to spread",
-            "example": "El fuego se propagó con rapidez por el viento.",
-            "tier": "B2"
-          },
-          {
-            "front": "las indicaciones",
-            "pos": "noun",
-            "back": "instructions, guidance",
-            "example": "Sigan las indicaciones de los servicios de emergencia.",
-            "tier": "B1"
-          },
-          {
-            "front": "la zona afectada",
-            "pos": "noun",
-            "back": "affected area",
-            "example": "Nadie puede entrar en la zona afectada.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Las olas de calor, la sequía prolongada y el abandono del campo crean las condiciones perfectas para que las llamas se propaguen a gran velocidad.",
-            "point": "Para que + subjunctive",
-            "explanation": "Purpose or result clauses introduced by para que always take the subjunctive: se propaguen, not se propagan.",
-            "why_tricky": "The indicative feels natural to English speakers because the spreading is real, but the conjunction para que grammatically forces the subjunctive regardless."
-          },
-          {
-            "sentence": "A este se suma otro incendio cerca de Zaragoza, que comenzó el miércoles y está lejos de ser controlado tras devorar unas 16.000 hectáreas.",
-            "point": "Fronted pronoun with sumarse and tras + infinitive",
-            "explanation": "A este se suma inverts the usual order (otro incendio se suma a este) for emphasis, and tras + infinitive compresses after having devoured.",
-            "why_tricky": "The inversion hides the subject until after the verb, which can confuse the reader, and tras + infinitive has no direct English equivalent."
-          },
-          {
-            "sentence": "Los servicios de emergencia trabajan sin descanso, mientras las autoridades piden a la población que siga las indicaciones y evite acercarse a las zonas afectadas.",
-            "point": "Pedir que + subjunctive",
-            "explanation": "Requests with pedir trigger the subjunctive in the subordinate clause: que siga, que evite.",
-            "why_tricky": "English uses an infinitive (ask people to follow), so learners often produce pedir a la población seguir, which is ungrammatical here."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "sin descanso",
-            "meaning": "without rest, around the clock",
-            "example": "Los bomberos trabajaron sin descanso toda la noche."
-          },
-          {
-            "phrase": "bajo mínimos",
-            "meaning": "at rock bottom, critically low",
-            "example": "Los embalses están bajo mínimos tras meses sin lluvia."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Dónde se encuentran los dos incendios principales y cuándo comenzaron?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué condiciones favorecen, según el texto, la propagación de las llamas?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué piden las autoridades a la población?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Qué medidas debería tomar un país como España para adaptarse a veranos cada vez más extremos? Propón al menos tres y justifícalas."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-19-final-argentina-espana",
-      "title": "Argentina y España, dos \"enemigos íntimos\" que disputan una final de Mundial inédita",
-      "source": "BBC Mundo",
-      "date": "2026-07-19",
-      "level": "B1-B2",
-      "topics": [
-        "deporte",
-        "mundial"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-19-final-argentina-espana",
-        "revision": 1,
-        "meta": {
-          "title": "Argentina y España, dos \"enemigos íntimos\" que disputan una final de Mundial inédita",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c1j1lz2k7epo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-19",
-          "date_processed": "2026-07-19",
-          "tags": [
-            "deporte",
-            "mundial"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Argentina and Spain meet this Sunday in the final of the 2026 World Cup, an unprecedented clash between two national teams that had never faced each other at this stage. The match is being played at the New York/New Jersey stadium in front of millions of viewers around the world. Lionel Messi is looking to retain the title Argentina won in 2022, while La Roja is chasing its second World Cup star.\n\nBeyond the result, the occasion carries huge symbolic value. Spain arrives with a solid defence, having conceded just one goal in the entire tournament, while Argentina trusts the experience of its stars and its ability to compete under pressure. In addition, the meeting between Messi and the young Lamine Yamal has generated enormous anticipation, since it represents a generational handover in world football.",
-        "resumen_es": "Argentina y España disputan este domingo la final del Mundial 2026, un duelo inédito entre dos selecciones que nunca se habían cruzado en este escenario. El partido se juega en el estadio de Nueva York/Nueva Jersey ante millones de espectadores en todo el mundo. Lionel Messi busca revalidar el título que Argentina conquistó en 2022, mientras la Roja persigue su segunda estrella mundialista.\n\nMás allá del resultado, la cita tiene un valor simbólico enorme. España llega con una defensa sólida, con apenas un gol en contra en todo el torneo, y Argentina confía en la experiencia de sus figuras y en su capacidad para competir bajo presión. Además, el cruce entre Messi y el joven Lamine Yamal despierta enorme expectación, ya que representa el relevo generacional del fútbol mundial.",
-        "vocab": [
-          {
-            "front": "inédito",
-            "pos": "adj",
-            "back": "unprecedented, never seen before",
-            "example": "Es una final inédita entre las dos selecciones.",
-            "tier": "B2"
-          },
-          {
-            "front": "disputar",
-            "pos": "verb",
-            "back": "to play, to contest (a match, a title)",
-            "example": "Los dos equipos disputan el título mundial.",
-            "tier": "B1"
-          },
-          {
-            "front": "revalidar",
-            "pos": "verb",
-            "back": "to retain, to defend (a title)",
-            "example": "Argentina quiere revalidar el título logrado en 2022.",
-            "tier": "B2"
-          },
-          {
-            "front": "la cita",
-            "pos": "noun",
-            "back": "event, big occasion, fixture",
-            "example": "La final es la cita más importante del año.",
-            "tier": "B1"
-          },
-          {
-            "front": "apenas",
-            "pos": "adv",
-            "back": "barely, hardly, only just",
-            "example": "España ha recibido apenas un gol en contra.",
-            "tier": "B1"
-          },
-          {
-            "front": "la expectación",
-            "pos": "noun",
-            "back": "anticipation, excitement",
-            "example": "Hay mucha expectación antes del partido.",
-            "tier": "B2"
-          },
-          {
-            "front": "el relevo generacional",
-            "pos": "phrase",
-            "back": "generational handover",
-            "example": "El relevo generacional ya ha comenzado en la selección.",
-            "tier": "C1"
-          },
-          {
-            "front": "bajo presión",
-            "pos": "phrase",
-            "back": "under pressure",
-            "example": "Este equipo sabe competir bajo presión.",
-            "tier": "B1"
-          },
-          {
-            "front": "cruzarse",
-            "pos": "verb",
-            "back": "to cross paths, to meet",
-            "example": "Las dos selecciones nunca se habían cruzado antes.",
-            "tier": "B2"
-          },
-          {
-            "front": "perseguir",
-            "pos": "verb",
-            "back": "to pursue, to chase (a goal)",
-            "example": "La Roja persigue su segundo título mundial.",
-            "tier": "B1"
-          },
-          {
-            "front": "la estrella",
-            "pos": "noun",
-            "back": "star (championship won, star on the shirt)",
-            "example": "Cada estrella en la camiseta representa un Mundial ganado.",
-            "tier": "B1"
-          },
-          {
-            "front": "el escenario",
-            "pos": "noun",
-            "back": "stage, setting",
-            "example": "La final se juega en un escenario impresionante.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Argentina y España disputan este domingo la final del Mundial 2026, un duelo inédito entre dos selecciones que nunca se habían cruzado en este escenario.",
-            "point": "Pluscuamperfecto: se habían cruzado",
-            "explanation": "The pluperfect (haber in imperfect + participle) describes something that had (never) happened before a past reference point: until now, the teams had never met.",
-            "why_tricky": "English uses the same structure (had never crossed), but Spanish also needs the reflexive pronoun se with cruzarse, and it goes before habían, not after."
-          },
-          {
-            "sentence": "Más allá del resultado, la cita tiene un valor simbólico enorme.",
-            "point": "Más allá de + noun",
-            "explanation": "Más allá de means beyond or regardless of, and is a very common connective for introducing a bigger-picture idea. Note the contraction de + el = del.",
-            "why_tricky": "Learners often translate beyond literally with detrás or fuera; más allá de is the natural choice in opinion and analysis contexts."
-          },
-          {
-            "sentence": "Además, el cruce entre Messi y el joven Lamine Yamal despierta enorme expectación, ya que representa el relevo generacional del fútbol mundial.",
-            "point": "Causal connective: ya que",
-            "explanation": "Ya que introduces a cause or reason (since, given that) and takes the indicative. It is slightly more formal than porque and can start a sentence.",
-            "why_tricky": "Ya que looks like it should mean now that (ya = already), but it usually just means since/because; context tells you which reading applies."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "cerrar el círculo",
-            "meaning": "to come full circle",
-            "example": "Con esta final, la historia de la famosa foto cierra el círculo."
-          },
-          {
-            "phrase": "jugarse el todo por el todo",
-            "meaning": "to risk everything, to go all in",
-            "example": "En una final, los equipos se juegan el todo por el todo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué se considera inédita esta final del Mundial?",
-            "type": "open"
-          },
-          {
-            "q": "¿Con qué ventaja defensiva llega España a la final?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué simboliza el cruce entre Messi y Lamine Yamal?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que las grandes finales deportivas unen o dividen a los países? Escribe unas líneas con tu opinión y algún ejemplo."
       }
     }
   ]
