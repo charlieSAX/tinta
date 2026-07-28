@@ -1,7 +1,535 @@
 {
- "generated_at": "2026-07-28T08:13:01Z",
+ "generated_at": "2026-07-28T20:15:25Z",
  "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-07-28-marianela-nunez-ballet",
+   "title": "\"Aún me siento invencible\": Marianela Núñez, la argentina que lleva casi 3 décadas en la élite del Royal Ballet de Londres",
+   "source": "BBC Mundo",
+   "date": "2026-07-28",
+   "level": "B1-B2",
+   "topics": [
+    "cultura",
+    "danza"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-28-marianela-nunez-ballet",
+    "revision": 1,
+    "meta": {
+     "title": "\"Aún me siento invencible\": Marianela Núñez, la argentina que lleva casi 3 décadas en la élite del Royal Ballet de Londres",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/c3v0x6rr46no?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-07-28",
+     "date_processed": "2026-07-28",
+     "tags": [
+      "cultura",
+      "danza"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "The Argentine dancer Marianela Núñez has been shining at the Royal Ballet in London for almost three decades, one of the most prestigious companies in the world. She joined in 1998, when she was very young, and in 2002 she reached the rank of principal dancer. Since then she has performed the great roles of the classical repertoire and has won the affection of the British public.\n\nDespite the years, Núñez says she still feels invincible when she goes out to dance. Her longevity in such a demanding world, where careers are usually short, is unusual and admirable. The artist admits that daily discipline and the love for her craft have been the keys to staying at the top. Her story inspires many young women who dream of dedicating themselves to ballet.",
+    "resumen_es": "La bailarina argentina Marianela Núñez lleva casi tres décadas brillando en el Royal Ballet de Londres, una de las compañías más prestigiosas del mundo. Ingresó en 1998, siendo muy joven, y en 2002 alcanzó el rango de primera bailarina. Desde entonces ha interpretado los grandes papeles del repertorio clásico y se ha ganado el cariño del público británico.\n\nA pesar de los años, Núñez asegura que todavía se siente invencible cuando sale a bailar. Su longevidad en un mundo tan exigente, donde las carreras suelen ser cortas, resulta poco habitual y admirable. La artista reconoce que la disciplina diaria y el amor por su oficio han sido las claves para mantenerse en la cima. Su historia inspira a muchas jóvenes que sueñan con dedicarse al ballet.",
+    "vocab": [
+     {
+      "front": "la bailarina",
+      "pos": "noun",
+      "back": "the (female) dancer, ballerina",
+      "example": "La bailarina ensayó durante horas.",
+      "tier": "B1"
+     },
+     {
+      "front": "brillar",
+      "pos": "verb",
+      "back": "to shine, to excel",
+      "example": "Ese actor brilla en el escenario.",
+      "tier": "B1"
+     },
+     {
+      "front": "la compañía",
+      "pos": "noun",
+      "back": "the company, troupe",
+      "example": "La compañía viajó por toda Europa.",
+      "tier": "B1"
+     },
+     {
+      "front": "prestigioso",
+      "pos": "adj",
+      "back": "prestigious",
+      "example": "Estudió en una universidad prestigiosa.",
+      "tier": "B2"
+     },
+     {
+      "front": "ingresar en",
+      "pos": "verb",
+      "back": "to join, to enter",
+      "example": "Ingresó en la empresa muy joven.",
+      "tier": "B1"
+     },
+     {
+      "front": "el rango",
+      "pos": "noun",
+      "back": "the rank",
+      "example": "Alcanzó el rango de capitán.",
+      "tier": "B2"
+     },
+     {
+      "front": "el repertorio",
+      "pos": "noun",
+      "back": "the repertoire",
+      "example": "Amplió su repertorio de canciones.",
+      "tier": "B2"
+     },
+     {
+      "front": "ganarse el cariño",
+      "pos": "phrase",
+      "back": "to win the affection of",
+      "example": "Se ganó el cariño de todos.",
+      "tier": "B2"
+     },
+     {
+      "front": "exigente",
+      "pos": "adj",
+      "back": "demanding",
+      "example": "Es un trabajo muy exigente.",
+      "tier": "B1"
+     },
+     {
+      "front": "la longevidad",
+      "pos": "noun",
+      "back": "longevity",
+      "example": "Sorprende la longevidad de su carrera.",
+      "tier": "C1"
+     },
+     {
+      "front": "el oficio",
+      "pos": "noun",
+      "back": "the craft, trade",
+      "example": "Ama su oficio de carpintero.",
+      "tier": "B2"
+     },
+     {
+      "front": "mantenerse en la cima",
+      "pos": "phrase",
+      "back": "to stay at the top",
+      "example": "Es difícil mantenerse en la cima.",
+      "tier": "B2"
+     },
+     {
+      "front": "a pesar de",
+      "pos": "phrase",
+      "back": "despite, in spite of",
+      "example": "Salió a pesar de la lluvia.",
+      "tier": "B1"
+     },
+     {
+      "front": "inspirar",
+      "pos": "verb",
+      "back": "to inspire",
+      "example": "Su ejemplo inspira a los jóvenes.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Ingresó en 1998, siendo muy joven, y en 2002 alcanzó el rango de primera bailarina.",
+      "point": "Gerundio de simultaneidad",
+      "explanation": "'Siendo muy joven' es un gerundio que describe la circunstancia en que ocurre la acción principal (equivale a 'cuando era muy joven').",
+      "why_tricky": "En inglés se suele usar 'when she was young'; el español prefiere aquí el gerundio, que no lleva sujeto propio."
+     },
+     {
+      "sentence": "A pesar de los años, Núñez asegura que todavía se siente invencible cuando sale a bailar.",
+      "point": "'A pesar de' y estilo indirecto",
+      "explanation": "'A pesar de' introduce una concesión y 'asegura que' introduce discurso referido en indicativo.",
+      "why_tricky": "'A pesar de' va con sustantivo o infinitivo, mientras que 'aunque' va con verbo conjugado."
+     },
+     {
+      "sentence": "La artista reconoce que la disciplina diaria y el amor por su oficio han sido las claves para mantenerse en la cima.",
+      "point": "Pretérito perfecto y 'para' final",
+      "explanation": "'Han sido' es pretérito perfecto (resultado vigente) y 'para mantenerse' expresa finalidad con infinitivo.",
+      "why_tricky": "El sujeto es doble ('la disciplina y el amor'), por eso el verbo va en plural."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "mantenerse en la cima",
+      "meaning": "to stay at the peak of success",
+      "example": "Tras años de esfuerzo, se mantiene en la cima de su profesión."
+     },
+     {
+      "phrase": "sentirse invencible",
+      "meaning": "to feel unbeatable, invincible",
+      "example": "Cuando juega en casa, el equipo se siente invencible."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Qué logros ha alcanzado Marianela Núñez en el Royal Ballet?",
+      "type": "open"
+     },
+     {
+      "q": "¿Por qué resulta admirable su longevidad en la danza?",
+      "type": "open"
+     },
+     {
+      "q": "Según ella, ¿cuáles han sido las claves de su éxito?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Crees que la disciplina es más importante que el talento para triunfar en el arte? Escribe tu opinión y justifícala con ejemplos."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-28-humo-incendios-espana",
+   "title": "España: Autoridades alertan sobre los riesgos sanitarios debidos al humo de los incendios",
+   "source": "RFI en Español",
+   "date": "2026-07-28",
+   "level": "B1-B2",
+   "topics": [
+    "medioambiente",
+    "salud"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-28-humo-incendios-espana",
+    "revision": 1,
+    "meta": {
+     "title": "España: Autoridades alertan sobre los riesgos sanitarios debidos al humo de los incendios",
+     "source": "RFI en Español",
+     "url": "https://www.rfi.fr/es/europa/20260728-espa%C3%B1a-autoridades-alertan-sobre-los-riesgos-sanitarios-debidos-al-humo-de-los-incendios",
+     "date_published": "2026-07-28",
+     "date_processed": "2026-07-28",
+     "tags": [
+      "medioambiente",
+      "salud"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "The Spanish authorities have warned about the health risks caused by the smoke from the fires affecting the country. Although the government says the situation is starting to improve, the health consequences could be felt for days. The smoke has travelled hundreds of kilometres and has noticeably worsened air quality in several regions.\n\nExperts advise the population to limit outdoor activities and to pay special attention to the most vulnerable groups, such as children, the elderly and people with breathing problems. Breathing polluted air for a long time can cause eye irritation, coughing and difficulty breathing. The authorities ask for caution and recommend following official guidance until air quality returns to normal.",
+    "resumen_es": "Las autoridades españolas han advertido sobre los riesgos para la salud que provoca el humo de los incendios que afectan al país. Aunque el gobierno asegura que la situación empieza a mejorar, las consecuencias sanitarias podrían sentirse durante días. El humo se ha desplazado cientos de kilómetros y ha empeorado notablemente la calidad del aire en varias regiones.\n\nLos expertos recomiendan a la población limitar las actividades al aire libre y prestar especial atención a los grupos más vulnerables, como niños, ancianos y personas con problemas respiratorios. Respirar aire contaminado durante mucho tiempo puede causar molestias en los ojos, tos y dificultades para respirar. Las autoridades piden precaución y aconsejan seguir las indicaciones oficiales hasta que la calidad del aire vuelva a la normalidad.",
+    "vocab": [
+     {
+      "front": "las autoridades",
+      "pos": "noun",
+      "back": "the authorities",
+      "example": "Las autoridades cerraron la carretera.",
+      "tier": "B1"
+     },
+     {
+      "front": "advertir sobre",
+      "pos": "verb",
+      "back": "to warn about",
+      "example": "El médico advirtió sobre los peligros del tabaco.",
+      "tier": "B2"
+     },
+     {
+      "front": "el riesgo",
+      "pos": "noun",
+      "back": "the risk",
+      "example": "Fumar aumenta el riesgo de enfermedad.",
+      "tier": "B1"
+     },
+     {
+      "front": "el humo",
+      "pos": "noun",
+      "back": "the smoke",
+      "example": "El humo llenó toda la cocina.",
+      "tier": "B1"
+     },
+     {
+      "front": "el incendio",
+      "pos": "noun",
+      "back": "the fire, blaze",
+      "example": "Los bomberos apagaron el incendio.",
+      "tier": "B1"
+     },
+     {
+      "front": "desplazarse",
+      "pos": "verb",
+      "back": "to move, to travel",
+      "example": "La tormenta se desplazó hacia el norte.",
+      "tier": "B2"
+     },
+     {
+      "front": "la calidad del aire",
+      "pos": "phrase",
+      "back": "air quality",
+      "example": "La calidad del aire mejoró tras la lluvia.",
+      "tier": "B2"
+     },
+     {
+      "front": "al aire libre",
+      "pos": "phrase",
+      "back": "outdoors, in the open air",
+      "example": "Comimos al aire libre.",
+      "tier": "B1"
+     },
+     {
+      "front": "vulnerable",
+      "pos": "adj",
+      "back": "vulnerable",
+      "example": "Los ancianos son un grupo vulnerable.",
+      "tier": "B2"
+     },
+     {
+      "front": "respiratorio",
+      "pos": "adj",
+      "back": "respiratory, breathing",
+      "example": "Tiene una enfermedad respiratoria.",
+      "tier": "B2"
+     },
+     {
+      "front": "contaminado",
+      "pos": "adj",
+      "back": "polluted, contaminated",
+      "example": "El río está muy contaminado.",
+      "tier": "B1"
+     },
+     {
+      "front": "la molestia",
+      "pos": "noun",
+      "back": "discomfort, nuisance",
+      "example": "Sintió una molestia en la garganta.",
+      "tier": "B2"
+     },
+     {
+      "front": "la precaución",
+      "pos": "noun",
+      "back": "caution",
+      "example": "Conduce siempre con precaución.",
+      "tier": "B1"
+     },
+     {
+      "front": "volver a la normalidad",
+      "pos": "phrase",
+      "back": "to return to normal",
+      "example": "Tras la crisis, todo volvió a la normalidad.",
+      "tier": "B2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Las autoridades españolas han advertido sobre los riesgos para la salud que provoca el humo de los incendios que afectan al país.",
+      "point": "Oraciones de relativo encadenadas",
+      "explanation": "Hay dos oraciones de relativo con 'que': una describe los riesgos ('que provoca el humo') y otra los incendios ('que afectan al país').",
+      "why_tricky": "Cada 'que' concuerda con un antecedente distinto, por eso un verbo va en singular y otro en plural."
+     },
+     {
+      "sentence": "Aunque el gobierno asegura que la situación empieza a mejorar, las consecuencias sanitarias podrían sentirse durante días.",
+      "point": "'Aunque' con indicativo y condicional",
+      "explanation": "'Aunque' con indicativo presenta un hecho real, y 'podrían' es condicional para expresar posibilidad.",
+      "why_tricky": "'Aunque' puede ir con indicativo (hecho real) o subjuntivo (hipótesis); aquí es un hecho, por eso indicativo."
+     },
+     {
+      "sentence": "Los expertos recomiendan a la población limitar las actividades al aire libre y prestar especial atención a los grupos más vulnerables, como niños, ancianos y personas con problemas respiratorios.",
+      "point": "'Recomendar a alguien' con infinitivo",
+      "explanation": "Tras 'recomendar a la población' se usa el infinitivo ('limitar', 'prestar') porque la recomendación va dirigida a un grupo general.",
+      "why_tricky": "Con un cambio de sujeto explícito se usaría 'que' con subjuntivo; aquí el infinitivo resulta más natural."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "ver la luz al final del túnel",
+      "meaning": "to see hope after a hard period",
+      "example": "Después de meses difíciles, por fin vemos la luz al final del túnel."
+     },
+     {
+      "phrase": "prestar atención",
+      "meaning": "to pay attention",
+      "example": "Presta atención a las señales de tráfico."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Por qué han advertido las autoridades españolas a la población?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué grupos deben tener más cuidado y por qué?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué recomendaciones dan los expertos para protegerse del humo?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Qué medidas crees que deberían tomar los gobiernos para prevenir los incendios y proteger la salud de la población? Escribe tu opinión."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-28-cineasta-crater-volcan",
+   "title": "\"Me estrellé en el cráter de un volcán en erupción y sobreviví una noche\"",
+   "source": "BBC Mundo",
+   "date": "2026-07-28",
+   "level": "B1-B2",
+   "topics": [
+    "aventura",
+    "supervivencia"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-28-cineasta-crater-volcan",
+    "revision": 1,
+    "meta": {
+     "title": "\"Me estrellé en el cráter de un volcán en erupción y sobreviví una noche\"",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/c0ey712nl40o?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-07-28",
+     "date_processed": "2026-07-28",
+     "tags": [
+      "aventura",
+      "supervivencia"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "The filmmaker Chris Duddy has described how he survived a whole night inside the crater of an erupting volcano. The accident happened while he was shooting a film and his helicopter fell near the most dangerous area. Injured and surrounded by toxic gases, he had to wait for hours for rescue to arrive, without knowing whether he would make it out alive.\n\nDuddy remembers that experience as the most terrifying of his life, but also as a lesson about willpower. To stay calm, he focused on breathing and on thinking about his family. When he was finally rescued, he understood how fragile life can be in the face of nature. Today he shares his story to encourage others never to give up in the hardest moments.",
+    "resumen_es": "El cineasta Chris Duddy ha relatado cómo sobrevivió a una noche entera dentro del cráter de un volcán en erupción. El accidente ocurrió mientras rodaba una película y su helicóptero cayó cerca de la zona más peligrosa. Herido y rodeado de gases tóxicos, tuvo que esperar durante horas a que llegara el rescate, sin saber si conseguiría salir con vida.\n\nDuddy recuerda aquella experiencia como la más aterradora de su vida, pero también como una lección sobre la fuerza de voluntad. Para mantener la calma, se concentró en respirar y en pensar en su familia. Cuando por fin lo rescataron, comprendió lo frágil que puede ser la vida frente a la naturaleza. Hoy comparte su historia para animar a otros a no rendirse nunca en los momentos más difíciles.",
+    "vocab": [
+     {
+      "front": "el cineasta",
+      "pos": "noun",
+      "back": "the filmmaker",
+      "example": "El cineasta ganó un premio importante.",
+      "tier": "B2"
+     },
+     {
+      "front": "relatar",
+      "pos": "verb",
+      "back": "to recount, to tell",
+      "example": "Relató su viaje con muchos detalles.",
+      "tier": "B2"
+     },
+     {
+      "front": "estrellarse",
+      "pos": "verb",
+      "back": "to crash",
+      "example": "El avión estuvo a punto de estrellarse.",
+      "tier": "B2"
+     },
+     {
+      "front": "el cráter",
+      "pos": "noun",
+      "back": "the crater",
+      "example": "El cráter del volcán es enorme.",
+      "tier": "B2"
+     },
+     {
+      "front": "la erupción",
+      "pos": "noun",
+      "back": "the eruption",
+      "example": "La erupción cubrió el pueblo de ceniza.",
+      "tier": "B2"
+     },
+     {
+      "front": "rodar una película",
+      "pos": "verb",
+      "back": "to shoot, to film a movie",
+      "example": "Rodaron la película en México.",
+      "tier": "B2"
+     },
+     {
+      "front": "el rescate",
+      "pos": "noun",
+      "back": "the rescue",
+      "example": "El rescate duró varias horas.",
+      "tier": "B1"
+     },
+     {
+      "front": "herido",
+      "pos": "adj",
+      "back": "injured, wounded",
+      "example": "Resultó herido en el accidente.",
+      "tier": "B1"
+     },
+     {
+      "front": "la fuerza de voluntad",
+      "pos": "phrase",
+      "back": "willpower",
+      "example": "Superó la enfermedad con fuerza de voluntad.",
+      "tier": "B2"
+     },
+     {
+      "front": "mantener la calma",
+      "pos": "phrase",
+      "back": "to keep calm",
+      "example": "Es importante mantener la calma en una emergencia.",
+      "tier": "B1"
+     },
+     {
+      "front": "frágil",
+      "pos": "adj",
+      "back": "fragile",
+      "example": "La vida es más frágil de lo que pensamos.",
+      "tier": "B1"
+     },
+     {
+      "front": "rendirse",
+      "pos": "verb",
+      "back": "to give up, to surrender",
+      "example": "Nunca debes rendirte.",
+      "tier": "B1"
+     },
+     {
+      "front": "aterrador",
+      "pos": "adj",
+      "back": "terrifying",
+      "example": "Fue una experiencia aterradora.",
+      "tier": "B2"
+     },
+     {
+      "front": "salir con vida",
+      "pos": "phrase",
+      "back": "to make it out alive",
+      "example": "Pocos salieron con vida del incendio.",
+      "tier": "B2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "El accidente ocurrió mientras rodaba una película y su helicóptero cayó cerca de la zona más peligrosa.",
+      "point": "Contraste pretérito e imperfecto",
+      "explanation": "'Ocurrió' y 'cayó' (pretérito) marcan acciones puntuales; 'rodaba' (imperfecto) describe la acción de fondo con 'mientras'.",
+      "why_tricky": "El inglés usa 'was shooting' para el fondo; en español el imperfecto cumple esa función junto a 'mientras'."
+     },
+     {
+      "sentence": "Herido y rodeado de gases tóxicos, tuvo que esperar durante horas a que llegara el rescate, sin saber si conseguiría salir con vida.",
+      "point": "'Esperar a que' con subjuntivo",
+      "explanation": "Tras 'esperar a que' se usa el subjuntivo ('llegara'), y 'conseguiría' es condicional dentro de una duda del pasado.",
+      "why_tricky": "Se combinan participios como adjetivos ('herido', 'rodeado'), subjuntivo y condicional en una sola frase."
+     },
+     {
+      "sentence": "Cuando por fin lo rescataron, comprendió lo frágil que puede ser la vida frente a la naturaleza.",
+      "point": "Estructura 'lo + adjetivo + que'",
+      "explanation": "'Lo frágil que puede ser' expresa grado o intensidad, equivalente a 'how fragile it can be'.",
+      "why_tricky": "El neutro 'lo' no funciona como artículo normal; introduce una idea abstracta de cantidad o intensidad."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "salir con vida",
+      "meaning": "to survive, to make it out alive",
+      "example": "Tuvo mucha suerte de salir con vida del accidente."
+     },
+     {
+      "phrase": "no rendirse nunca",
+      "meaning": "to never give up",
+      "example": "Su lema es no rendirse nunca, pase lo que pase."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Qué le ocurrió a Chris Duddy mientras rodaba su película?",
+      "type": "open"
+     },
+     {
+      "q": "¿Cómo logró mantener la calma durante aquellas horas?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué aprendió sobre la vida gracias a esta experiencia?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Crees que vale la pena arriesgar la vida por el trabajo o por una pasión? Escribe tu opinión y da ejemplos."
+   }
+  },
   {
    "pack_id": "feed-2026-07-28-monjas-inversoras",
    "title": "Las monjas inversoras que presionan a gigantes tecnologicos y bancarios para \"proteger la creacion de Dios\"",
@@ -2507,182 +3035,6 @@
      }
     ],
     "opinion_prompt": "¿Te gustaría probar un plato preparado con flores? Describe qué flor elegirías y cómo la cocinarías."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-25-volcan-cineasta",
-   "title": "Me estrellé en el cráter de un volcán en erupción y sobreviví una noche con las burbujas de lava bajo los pies",
-   "source": "BBC Mundo",
-   "date": "2026-07-25",
-   "level": "B1-B2",
-   "topics": [
-    "cine",
-    "aventura"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-25-volcan-cineasta",
-    "revision": 1,
-    "meta": {
-     "title": "Me estrellé en el cráter de un volcán en erupción y sobreviví una noche con las burbujas de lava bajo los pies",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/c0ey712nl40o?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-07-25",
-     "date_processed": "2026-07-25",
-     "tags": [
-      "cine",
-      "aventura"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "The filmmaker Chris Duddy remembers one of the most terrifying moments of his life: an accident he suffered while shooting a film near an active volcano. During the shoot, something went wrong and he ended up trapped inside the crater, forced to spend an entire night in a place where lava kept bubbling beneath his feet. According to his account, the smoke and the uncertainty turned those hours into an experience that is almost impossible to forget.\n\nStories like this show how far some professionals will risk their safety to capture spectacular images. Although drones and remote cameras exist today, many filmmakers still get close to dangerous environments because they believe the result is worth it. The case also recalls the importance of safety protocols. Surviving a night inside a volcano depends not only on courage, but also on luck and on good preparation beforehand.",
-    "resumen_es": "El cineasta Chris Duddy recuerda uno de los momentos más aterradores de su vida: un accidente que sufrió mientras filmaba cerca de un volcán activo. Durante el rodaje, algo salió mal y él terminó atrapado dentro del cráter, obligado a pasar toda una noche en un lugar donde la lava seguía burbujeando bajo sus pies. Según su relato, el humo y la incertidumbre convirtieron esas horas en una experiencia casi imposible de olvidar.\n\nHistorias como esta muestran hasta qué punto algunos profesionales arriesgan su seguridad para captar imágenes espectaculares. Aunque hoy existen drones y cámaras a distancia, muchos cineastas todavía se acercan a entornos peligrosos porque creen que el resultado merece la pena. El caso también recuerda la importancia de los protocolos de seguridad. Sobrevivir a una noche dentro de un volcán no solo depende del valor, sino también de la suerte y de una buena preparación previa.",
-    "vocab": [
-     {
-      "front": "cineasta",
-      "pos": "noun",
-      "back": "filmmaker",
-      "example": "El cineasta trabajó durante meses en su nueva película.",
-      "tier": "B1"
-     },
-     {
-      "front": "rodaje",
-      "pos": "noun",
-      "back": "shoot, filming",
-      "example": "El rodaje tuvo lugar en un paisaje muy peligroso.",
-      "tier": "B2"
-     },
-     {
-      "front": "cráter",
-      "pos": "noun",
-      "back": "crater",
-      "example": "Se asomó al cráter para observar la lava.",
-      "tier": "B2"
-     },
-     {
-      "front": "atrapado",
-      "pos": "adj",
-      "back": "trapped",
-      "example": "Quedó atrapado dentro del edificio durante horas.",
-      "tier": "B1"
-     },
-     {
-      "front": "burbujear",
-      "pos": "verb",
-      "back": "to bubble",
-      "example": "La lava seguía burbujeando en el fondo del cráter.",
-      "tier": "B2"
-     },
-     {
-      "front": "aterrador",
-      "pos": "adj",
-      "back": "terrifying",
-      "example": "Fue una experiencia aterradora que nunca olvidará.",
-      "tier": "B2"
-     },
-     {
-      "front": "arriesgar",
-      "pos": "verb",
-      "back": "to risk",
-      "example": "Algunos periodistas arriesgan su vida por una buena historia.",
-      "tier": "B1"
-     },
-     {
-      "front": "entorno",
-      "pos": "noun",
-      "back": "environment, surroundings",
-      "example": "Trabajar en un entorno hostil requiere mucha preparación.",
-      "tier": "B2"
-     },
-     {
-      "front": "merecer la pena",
-      "pos": "phrase",
-      "back": "to be worth it",
-      "example": "El esfuerzo fue enorme, pero mereció la pena.",
-      "tier": "B1"
-     },
-     {
-      "front": "incertidumbre",
-      "pos": "noun",
-      "back": "uncertainty",
-      "example": "La incertidumbre sobre el rescate lo mantuvo despierto.",
-      "tier": "B2"
-     },
-     {
-      "front": "humo",
-      "pos": "noun",
-      "back": "smoke",
-      "example": "El humo hacía muy difícil respirar.",
-      "tier": "B1"
-     },
-     {
-      "front": "sobrevivir",
-      "pos": "verb",
-      "back": "to survive",
-      "example": "Logró sobrevivir gracias a su calma y su experiencia.",
-      "tier": "B1"
-     },
-     {
-      "front": "valor",
-      "pos": "noun",
-      "back": "courage",
-      "example": "Hizo falta mucho valor para permanecer allí toda la noche.",
-      "tier": "B1"
-     },
-     {
-      "front": "protocolo de seguridad",
-      "pos": "phrase",
-      "back": "safety protocol",
-      "example": "Cada rodaje debe seguir un protocolo de seguridad estricto.",
-      "tier": "B2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Durante el rodaje, algo salió mal y él terminó atrapado dentro del cráter, obligado a pasar toda una noche en un lugar donde la lava seguía burbujeando bajo sus pies.",
-      "point": "Contraste entre pretérito indefinido e imperfecto",
-      "explanation": "'Salió' y 'terminó' expresan acciones puntuales que hacen avanzar la historia, mientras que 'seguía burbujeando' describe una situación continua de fondo.",
-      "why_tricky": "En inglés el pasado simple cubre ambos usos; en español hay que elegir entre indefinido e imperfecto según si la acción es puntual o descriptiva."
-     },
-     {
-      "sentence": "Sobrevivir a una noche dentro de un volcán no solo depende del valor, sino también de la suerte y de una buena preparación previa.",
-      "point": "Correlación 'no solo... sino también'",
-      "explanation": "Esta estructura añade una segunda idea que refuerza la primera; 'sino' corrige o amplía lo dicho tras una negación.",
-      "why_tricky": "Los estudiantes suelen confundir 'sino' con 'si no', que introduce una condición."
-     },
-     {
-      "sentence": "Aunque hoy existen drones y cámaras a distancia, muchos cineastas todavía se acercan a entornos peligrosos porque creen que el resultado merece la pena.",
-      "point": "'Aunque' concesivo con indicativo",
-      "explanation": "'Aunque' introduce un obstáculo real y admitido; al referirse a un hecho comprobado, se usa indicativo ('existen').",
-      "why_tricky": "Con hechos hipotéticos 'aunque' pediría subjuntivo, así que hay que distinguir bien el matiz."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "merecer la pena",
-      "meaning": "to be worth it",
-      "example": "Fue un viaje muy largo, pero mereció la pena por las vistas."
-     },
-     {
-      "phrase": "salir mal",
-      "meaning": "to go wrong",
-      "example": "El plan salió mal desde el primer momento."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué le ocurrió a Chris Duddy mientras filmaba una película?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué, según el texto, algunos cineastas se acercan a lugares peligrosos?",
-      "type": "open"
-     },
-     {
-      "q": "Además del valor, ¿qué factores ayudan a sobrevivir en una situación así?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Escribe un texto breve sobre una experiencia, real o imaginada, en la que hayas sentido miedo, y explica cómo reaccionaste."
    }
   },
   {
@@ -6332,319 +6684,6 @@
      }
     ],
     "opinion_prompt": "¿Compras en plataformas de comercio electrónico como AliExpress? ¿Te parece que las autoridades deben controlarlas más? Escribe unas líneas explicando tu punto de vista."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-20-carceles-bukele",
-   "title": "Denuncian cientos de muertes y miles de arrestos arbitrarios en las cárceles de Bukele",
-   "source": "RFI",
-   "date": "2026-07-20",
-   "level": "B1-B2",
-   "topics": [
-    "derechos humanos",
-    "El Salvador"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-20-carceles-bukele",
-    "revision": 1,
-    "meta": {
-     "title": "Denuncian cientos de muertes y miles de arrestos arbitrarios en las cárceles de Bukele",
-     "source": "RFI",
-     "url": "https://www.rfi.fr/es/programas/noticias-de-am%C3%A9rica/20260720-denuncian-cientos-de-muertes-y-miles-de-arrestos-arbitrarios-en-las-c%C3%A1rceles-de-bukele",
-     "date_published": "2026-07-20",
-     "date_processed": "2026-07-20",
-     "tags": [
-      "derechos humanos",
-      "El Salvador"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "Amnesty International reports that at least 470 people deprived of their liberty died in state custody in El Salvador between the start of the state of emergency, in March 2022, and December 2025. Most of the victims had no conviction. According to the organization, more than 90,000 citizens were arrested arbitrarily and stripped of their right to a defense.\n\nThe report revives the debate about the security policy of President Nayib Bukele, who enjoys great popularity because of the fall in violence, but who receives harsh criticism from human rights bodies. Relatives of the detainees demand information and justice, while international organizations call for independent investigations into the deaths that occurred in the country's prisons.",
-    "resumen_es": "Amnistía Internacional denuncia que al menos 470 personas privadas de libertad murieron bajo custodia del Estado en El Salvador desde el inicio del régimen de excepción, en marzo de 2022, hasta diciembre de 2025. La mayoría de las víctimas no tenía condena. Según la organización, más de 90.000 ciudadanos fueron arrestados de manera arbitraria y despojados del derecho a la defensa.\n\nEl informe reaviva el debate sobre la política de seguridad del presidente Nayib Bukele, que goza de gran popularidad por la caída de la violencia, pero que recibe duras críticas de los organismos de derechos humanos. Familiares de los detenidos reclaman información y justicia, mientras las organizaciones internacionales piden investigaciones independientes sobre las muertes ocurridas en las cárceles del país.",
-    "vocab": [
-     {
-      "front": "privado de libertad",
-      "pos": "phrase",
-      "back": "deprived of liberty, imprisoned",
-      "example": "Las personas privadas de libertad conservan sus derechos.",
-      "tier": "B2"
-     },
-     {
-      "front": "bajo custodia",
-      "pos": "phrase",
-      "back": "in custody",
-      "example": "El sospechoso permanece bajo custodia policial.",
-      "tier": "B2"
-     },
-     {
-      "front": "el régimen de excepción",
-      "pos": "phrase",
-      "back": "state of emergency (legal regime)",
-      "example": "El régimen de excepción limita algunos derechos.",
-      "tier": "B2"
-     },
-     {
-      "front": "despojar",
-      "pos": "verb",
-      "back": "to strip (someone of something)",
-      "example": "Fueron despojados de sus bienes.",
-      "tier": "C1"
-     },
-     {
-      "front": "arbitrario",
-      "pos": "adj",
-      "back": "arbitrary",
-      "example": "La detención fue completamente arbitraria.",
-      "tier": "B2"
-     },
-     {
-      "front": "reavivar",
-      "pos": "verb",
-      "back": "to revive, to rekindle",
-      "example": "El caso reavivó el debate sobre la justicia.",
-      "tier": "C1"
-     },
-     {
-      "front": "gozar de",
-      "pos": "verb",
-      "back": "to enjoy (popularity, health)",
-      "example": "El alcalde goza de buena reputación.",
-      "tier": "B2"
-     },
-     {
-      "front": "duras críticas",
-      "pos": "phrase",
-      "back": "harsh criticism",
-      "example": "La ley recibió duras críticas de la oposición.",
-      "tier": "B1"
-     },
-     {
-      "front": "el organismo",
-      "pos": "noun",
-      "back": "body, organization",
-      "example": "Varios organismos internacionales firmaron el documento.",
-      "tier": "B2"
-     },
-     {
-      "front": "reclamar",
-      "pos": "verb",
-      "back": "to demand, to claim",
-      "example": "Los vecinos reclaman más seguridad.",
-      "tier": "B1"
-     },
-     {
-      "front": "el detenido",
-      "pos": "noun",
-      "back": "detainee",
-      "example": "Los detenidos esperan juicio desde hace meses.",
-      "tier": "B1"
-     },
-     {
-      "front": "la cárcel",
-      "pos": "noun",
-      "back": "prison, jail",
-      "example": "Pasó dos años en la cárcel.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "La mayoría de las víctimas no tenía condena.",
-      "point": "Singular verb agreement with collective 'la mayoría'",
-      "explanation": "'La mayoría' is grammatically singular, so the verb 'tenía' is singular even though it refers to many people. Plural agreement ('tenían') is also heard, but singular is the classic norm.",
-      "why_tricky": "English says 'most of the victims HAD', always plural, so the singular 'tenía' looks like an error to learners when it is actually standard."
-     },
-     {
-      "sentence": "Según la organización, más de 90.000 ciudadanos fueron arrestados de manera arbitraria y despojados del derecho a la defensa.",
-      "point": "Passive voice with ser + coordinated participles",
-      "explanation": "'Fueron arrestados y despojados' coordinates two past participles under one auxiliary 'fueron'. Both participles agree in gender and number with 'ciudadanos'.",
-      "why_tricky": "Learners tend to repeat the auxiliary ('fueron arrestados y fueron despojados') or forget the agreement on the second participle."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "gozar de popularidad",
-      "meaning": "to enjoy popularity",
-      "example": "La cantante goza de gran popularidad entre los jóvenes."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué cifras principales presenta Amnistía Internacional en su informe?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué es popular el presidente Bukele y quiénes lo critican?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué piden los familiares de los detenidos y las organizaciones internacionales?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Puede justificarse limitar derechos básicos para reducir la violencia, como en El Salvador? Escribe unas líneas defendiendo tu posición con argumentos."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-20-otero-alcantara-exilio",
-   "title": "Cuba: El artista Luis Manuel Otero Alcántara, figura de la disidencia cubana, se exilia en EEUU",
-   "source": "RFI en español",
-   "date": "2026-07-19",
-   "level": "B1-B2",
-   "topics": [
-    "cuba",
-    "disidencia"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-20-otero-alcantara-exilio",
-    "revision": 1,
-    "meta": {
-     "title": "Cuba: El artista Luis Manuel Otero Alcántara, figura de la disidencia cubana, se exilia en EEUU",
-     "source": "RFI en español",
-     "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260719-cuba-el-artista-luis-manuel-otero-alc%C3%A1ntara-figuera-de-la-disidencia-cubana-se-exilia-en-eeuu",
-     "date_published": "2026-07-19",
-     "date_processed": "2026-07-20",
-     "tags": [
-      "cuba",
-      "disidencia"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "The visual artist Luis Manuel Otero Alcántara, one of the most visible figures of Cuban dissidence, arrived in Miami on Saturday to begin his exile in the United States. The artist had just completed a five-year prison sentence on the island, and has announced his intention to continue his artistic work and his activism for freedom of expression from abroad.\n\nOtero Alcántara became known as a driving force behind the San Isidro Movement, a collective of artists and intellectuals that defied the Cuban government's censorship. His imprisonment sparked international campaigns calling for his release. His departure from the country revives the debate about exile as the only option for many opponents, and about the future of dissidence inside Cuba.",
-    "resumen_es": "El artista plástico Luis Manuel Otero Alcántara, una de las figuras más visibles de la disidencia cubana, llegó el sábado a Miami para iniciar su exilio en Estados Unidos. El creador acababa de cumplir una condena de cinco años de prisión en la isla, y ha anunciado su intención de continuar desde el extranjero su labor artística y su activismo por la libertad de expresión.\n\nOtero Alcántara se dio a conocer como impulsor del Movimiento San Isidro, un colectivo de artistas e intelectuales que desafió la censura del gobierno cubano. Su encarcelamiento provocó campañas internacionales que pedían su liberación. Su salida del país reaviva el debate sobre el exilio como única opción para muchos opositores, y sobre el futuro de la disidencia dentro de Cuba.",
-    "vocab": [
-     {
-      "front": "el artista plástico",
-      "pos": "noun",
-      "back": "visual artist",
-      "example": "El artista plástico expone su obra en una galería de Madrid.",
-      "tier": "B2"
-     },
-     {
-      "front": "la disidencia",
-      "pos": "noun",
-      "back": "dissidence, opposition",
-      "example": "La disidencia organizó protestas pacíficas en la capital.",
-      "tier": "B2"
-     },
-     {
-      "front": "el exilio",
-      "pos": "noun",
-      "back": "exile",
-      "example": "Muchos escritores vivieron el exilio durante la dictadura.",
-      "tier": "B2"
-     },
-     {
-      "front": "cumplir una condena",
-      "pos": "phrase",
-      "back": "to serve a sentence",
-      "example": "Cumplió una condena de tres años por un delito menor.",
-      "tier": "B2"
-     },
-     {
-      "front": "la labor",
-      "pos": "noun",
-      "back": "work, labour",
-      "example": "Su labor humanitaria fue reconocida con un premio.",
-      "tier": "B2"
-     },
-     {
-      "front": "darse a conocer",
-      "pos": "phrase",
-      "back": "to become known",
-      "example": "La cantante se dio a conocer con un video en internet.",
-      "tier": "B2"
-     },
-     {
-      "front": "el impulsor",
-      "pos": "noun",
-      "back": "driving force, promoter",
-      "example": "Fue el principal impulsor de la reforma educativa.",
-      "tier": "C1"
-     },
-     {
-      "front": "desafiar",
-      "pos": "verb",
-      "back": "to defy, to challenge",
-      "example": "El grupo desafió la prohibición y salió a la calle.",
-      "tier": "B2"
-     },
-     {
-      "front": "la censura",
-      "pos": "noun",
-      "back": "censorship",
-      "example": "La censura impidió la publicación del libro.",
-      "tier": "B1"
-     },
-     {
-      "front": "el encarcelamiento",
-      "pos": "noun",
-      "back": "imprisonment",
-      "example": "El encarcelamiento del periodista generó protestas.",
-      "tier": "C1"
-     },
-     {
-      "front": "reavivar",
-      "pos": "verb",
-      "back": "to rekindle, to revive",
-      "example": "La noticia reavivó la polémica sobre la ley.",
-      "tier": "C1"
-     },
-     {
-      "front": "el opositor",
-      "pos": "noun",
-      "back": "opponent, dissident",
-      "example": "Varios opositores fueron detenidos tras la manifestación.",
-      "tier": "B2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "El creador acababa de cumplir una condena de cinco años de prisión en la isla, y ha anunciado su intención de continuar desde el extranjero su labor artística y su activismo por la libertad de expresión.",
-      "point": "Acabar de + infinitive in the imperfect",
-      "explanation": "In the imperfect, 'acababa de cumplir' means 'had just served'. This structure places one recent past action immediately before another past moment, while the present perfect 'ha anunciado' connects the announcement to the present.",
-      "why_tricky": "English speakers often reach for 'había justo terminado'. Spanish prefers the compact 'acababa de + infinitive', and mixing it with the present perfect in one sentence requires keeping the time frames straight."
-     },
-     {
-      "sentence": "Su encarcelamiento provocó campañas internacionales que pedían su liberación.",
-      "point": "Preterite vs imperfect in the same sentence",
-      "explanation": "'Provocó' (preterite) presents the trigger as a completed event, while 'pedían' (imperfect) describes the ongoing, background activity of the campaigns.",
-      "why_tricky": "Both verbs are past, but choosing preterite for both would flatten the nuance: the campaigns were continuous, not a single finished act."
-     },
-     {
-      "sentence": "Otero Alcántara se dio a conocer como impulsor del Movimiento San Isidro, un colectivo de artistas e intelectuales que desafió la censura del gobierno cubano.",
-      "point": "Reflexive idiom 'darse a conocer'",
-      "explanation": "'Darse a conocer' literally 'to give oneself to be known' means to make a name for oneself. The reflexive pronoun is obligatory and changes the meaning of 'dar' completely.",
-      "why_tricky": "Learners may try 'hacerse conocido', which is understandable but less idiomatic in journalistic register."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "alzar la voz",
-      "meaning": "to speak out, to raise one's voice against something",
-      "example": "El artista siempre alzó la voz contra la censura."
-     },
-     {
-      "phrase": "no tener pelos en la lengua",
-      "meaning": "to speak one's mind bluntly",
-      "example": "Otero no tiene pelos en la lengua cuando habla del gobierno."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Por qué llegó Otero Alcántara a Miami y qué acababa de vivir en Cuba?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué era el Movimiento San Isidro y qué papel tuvo el artista en él?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué debate reaviva su salida del país?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "En tu opinión, ¿puede un artista influir más desde el exilio o desde dentro de su país? Justifica tu respuesta en unas 100 palabras."
    }
   }
  ]
