@@ -1,7 +1,535 @@
 {
- "generated_at": "2026-07-28T20:15:25Z",
+ "generated_at": "2026-07-29T08:16:52Z",
  "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-07-29-amiga-desaparecida-australia",
+   "title": "\"No podía aceptar que nunca encontrarían a mi amiga desaparecida y me fui al otro lado del planeta a buscarla\"",
+   "source": "BBC Mundo",
+   "date": "2026-07-21",
+   "level": "B1-B2",
+   "tags": [
+    "sociedad",
+    "amistad"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-29-amiga-desaparecida-australia",
+    "revision": 1,
+    "meta": {
+     "title": "\"No podía aceptar que nunca encontrarían a mi amiga desaparecida y me fui al otro lado del planeta a buscarla\"",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/c39en94xnmno?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-07-21",
+     "date_processed": "2026-07-29",
+     "tags": [
+      "sociedad",
+      "amistad"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "When her best friend disappeared while hiking in a tropical rainforest in Australia, Justine Ropet refused to give up. The police could not find any clue and the case seemed closed. However, she could not accept that they would never find her friend, so she decided to travel to the other side of the planet to look for her on her own.\n\nFor months, Justine walked difficult trails, spoke with witnesses and gathered all the information she could. Her tenacity finally paid off, because in the end she got the answers she had been searching for. Her story shows the power of friendship and the importance of not giving up in the face of difficulties. Many now see her as an example of courage, since she was able to do alone what others had abandoned.",
+    "resumen_es": "Cuando su mejor amiga desapareció mientras hacía senderismo en una selva tropical de Australia, Justine Ropet se negó a rendirse. La policía no lograba encontrar ninguna pista y el caso parecía cerrado. Sin embargo, ella no podía aceptar que nunca hallarían a su amiga, así que decidió viajar al otro lado del planeta para buscarla por su cuenta.\n\nDurante meses, Justine recorrió senderos difíciles, habló con testigos y reunió toda la información que pudo. Su tenacidad terminó dando frutos, porque al final consiguió las respuestas que tanto buscaba. Su historia demuestra el poder de la amistad y la importancia de no rendirse ante las dificultades. Muchos la ven ahora como un ejemplo de valentía, ya que fue capaz de hacer sola lo que otros habían abandonado.",
+    "vocab": [
+     {
+      "front": "desaparecer",
+      "pos": "verb",
+      "back": "to disappear",
+      "example": "Su amiga desapareció sin dejar rastro.",
+      "tier": "B1"
+     },
+     {
+      "front": "senderismo",
+      "pos": "noun",
+      "back": "hiking",
+      "example": "Le encanta el senderismo en la montaña.",
+      "tier": "B1"
+     },
+     {
+      "front": "selva",
+      "pos": "noun",
+      "back": "jungle, rainforest",
+      "example": "La selva tropical es muy densa.",
+      "tier": "B1"
+     },
+     {
+      "front": "rendirse",
+      "pos": "verb",
+      "back": "to give up",
+      "example": "Nunca hay que rendirse.",
+      "tier": "B1"
+     },
+     {
+      "front": "pista",
+      "pos": "noun",
+      "back": "clue, lead",
+      "example": "La policía no tenía ninguna pista.",
+      "tier": "B2"
+     },
+     {
+      "front": "por su cuenta",
+      "pos": "phrase",
+      "back": "on one's own",
+      "example": "Investigó el caso por su cuenta.",
+      "tier": "B2"
+     },
+     {
+      "front": "sendero",
+      "pos": "noun",
+      "back": "path, trail",
+      "example": "Siguieron un sendero estrecho.",
+      "tier": "B1"
+     },
+     {
+      "front": "testigo",
+      "pos": "noun",
+      "back": "witness",
+      "example": "Habló con varios testigos.",
+      "tier": "B2"
+     },
+     {
+      "front": "tenacidad",
+      "pos": "noun",
+      "back": "tenacity, persistence",
+      "example": "Su tenacidad la ayudó a lograrlo.",
+      "tier": "B2"
+     },
+     {
+      "front": "dar frutos",
+      "pos": "phrase",
+      "back": "to pay off, to bear fruit",
+      "example": "El esfuerzo dio frutos.",
+      "tier": "B2"
+     },
+     {
+      "front": "ante las dificultades",
+      "pos": "phrase",
+      "back": "in the face of difficulties",
+      "example": "No se rindió ante las dificultades.",
+      "tier": "B2"
+     },
+     {
+      "front": "valentía",
+      "pos": "noun",
+      "back": "bravery, courage",
+      "example": "Actuó con gran valentía.",
+      "tier": "B1"
+     },
+     {
+      "front": "ser capaz de",
+      "pos": "phrase",
+      "back": "to be able to",
+      "example": "Fue capaz de encontrarla.",
+      "tier": "B1"
+     },
+     {
+      "front": "reunir",
+      "pos": "verb",
+      "back": "to gather, collect",
+      "example": "Reunió mucha información.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Cuando su mejor amiga desapareció mientras hacía senderismo en una selva tropical de Australia, Justine Ropet se negó a rendirse.",
+      "point": "contraste pretérito (desapareció) e imperfecto (hacía) y negarse a + infinitivo",
+      "explanation": "'Desapareció' y 'se negó' son acciones puntuales (pretérito); 'hacía' describe la acción en curso (imperfecto). 'Negarse a' rige infinitivo.",
+      "why_tricky": "Elegir entre pretérito e imperfecto en la misma frase es uno de los mayores retos del español."
+     },
+     {
+      "sentence": "Sin embargo, ella no podía aceptar que nunca hallarían a su amiga, así que decidió viajar al otro lado del planeta para buscarla por su cuenta.",
+      "point": "conector consecutivo así que y para + infinitivo con pronombre enclítico",
+      "explanation": "'Así que' introduce una consecuencia. 'Para buscarla' expresa finalidad y une el pronombre 'la' al infinitivo.",
+      "why_tricky": "El pronombre se pega al infinitivo (buscarla), algo que no ocurre en inglés."
+     },
+     {
+      "sentence": "Su tenacidad terminó dando frutos, porque al final consiguió las respuestas que tanto buscaba.",
+      "point": "terminar + gerundio y la locución dar frutos",
+      "explanation": "'Terminar + gerundio' indica el resultado final de un proceso: terminó dando frutos. 'Dar frutos' significa producir buenos resultados.",
+      "why_tricky": "'Terminar dando' no se traduce literalmente; equivale a 'ended up paying off'."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "dar frutos",
+      "meaning": "to pay off, to bear fruit",
+      "example": "Con el tiempo, su trabajo dio frutos."
+     },
+     {
+      "phrase": "no dar el brazo a torcer",
+      "meaning": "to refuse to give in",
+      "example": "Es testaruda y no da el brazo a torcer."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Por qué decidió Justine viajar a Australia?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué hizo para intentar encontrar respuestas?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué demuestra su historia, según el texto?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Qué serías capaz de hacer por un buen amigo? Escribe tu respuesta en unas cinco frases."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-29-cucurella-autismo-hijo",
+   "title": "\"A veces no sé cómo ayudarle\": Marc Cucurella, el campeón de la selección española al que el diagnóstico de autismo de su hijo le cambió la vida",
+   "source": "BBC Mundo",
+   "date": "2026-07-19",
+   "level": "B1-B2",
+   "tags": [
+    "salud",
+    "sociedad"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-29-cucurella-autismo-hijo",
+    "revision": 1,
+    "meta": {
+     "title": "\"A veces no sé cómo ayudarle\": Marc Cucurella, el campeón de la selección española al que el diagnóstico de autismo de su hijo le cambió la vida",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/c9v4ppy92dvo?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-07-19",
+     "date_processed": "2026-07-29",
+     "tags": [
+      "salud",
+      "sociedad"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "Marc Cucurella, a defender for the Spanish national team and a world champion, has decided to speak openly about his son's autism. In an interview, the footballer admitted that sometimes he does not know how to help him, but that he learns every day together with his family. With his account, he wants to give a voice to a reality that many fathers and mothers experience in silence.\n\nThe athlete explains that accepting the diagnosis was not easy, although today he lives it naturally and with a lot of affection. Thanks to his fame, his words help to raise awareness of autism and to break down prejudices. Many families have thanked him for his honesty, because they feel less alone. Cucurella insists that every child is unique and that the most important thing is to support him with patience, love and understanding.",
+    "resumen_es": "Marc Cucurella, defensa de la selección española y campeón del mundo, ha decidido hablar abiertamente sobre el autismo de su hijo. En una entrevista, el futbolista reconoció que a veces no sabe cómo ayudarle, pero que aprende cada día junto a su familia. Con su testimonio, quiere dar voz a una realidad que viven muchos padres y madres en silencio.\n\nEl deportista explica que aceptar el diagnóstico no fue fácil, aunque hoy lo vive con naturalidad y mucho cariño. Gracias a su fama, sus palabras ayudan a visibilizar el autismo y a romper prejuicios. Muchas familias le han agradecido su sinceridad, porque se sienten menos solas. Cucurella insiste en que cada niño es único y en que lo más importante es acompañarlo con paciencia, amor y comprensión.",
+    "vocab": [
+     {
+      "front": "defensa",
+      "pos": "noun",
+      "back": "defender (in football)",
+      "example": "Juega de defensa.",
+      "tier": "B1"
+     },
+     {
+      "front": "autismo",
+      "pos": "noun",
+      "back": "autism",
+      "example": "Su hijo tiene autismo.",
+      "tier": "B1"
+     },
+     {
+      "front": "abiertamente",
+      "pos": "adv",
+      "back": "openly",
+      "example": "Habló abiertamente de su vida.",
+      "tier": "B2"
+     },
+     {
+      "front": "reconocer",
+      "pos": "verb",
+      "back": "to admit, to acknowledge",
+      "example": "Reconoció que fue difícil.",
+      "tier": "B1"
+     },
+     {
+      "front": "testimonio",
+      "pos": "noun",
+      "back": "testimony, account",
+      "example": "Su testimonio emocionó a todos.",
+      "tier": "B2"
+     },
+     {
+      "front": "dar voz a",
+      "pos": "phrase",
+      "back": "to give a voice to",
+      "example": "Quiere dar voz a los que sufren.",
+      "tier": "B2"
+     },
+     {
+      "front": "diagnóstico",
+      "pos": "noun",
+      "back": "diagnosis",
+      "example": "Recibió el diagnóstico hace un año.",
+      "tier": "B2"
+     },
+     {
+      "front": "con naturalidad",
+      "pos": "phrase",
+      "back": "naturally, matter-of-factly",
+      "example": "Habla de ello con naturalidad.",
+      "tier": "B2"
+     },
+     {
+      "front": "cariño",
+      "pos": "noun",
+      "back": "affection, love",
+      "example": "Trata a su hijo con mucho cariño.",
+      "tier": "B1"
+     },
+     {
+      "front": "visibilizar",
+      "pos": "verb",
+      "back": "to raise awareness of, to make visible",
+      "example": "Su campaña ayuda a visibilizar el problema.",
+      "tier": "C1"
+     },
+     {
+      "front": "prejuicio",
+      "pos": "noun",
+      "back": "prejudice",
+      "example": "Hay que romper los prejuicios.",
+      "tier": "B2"
+     },
+     {
+      "front": "agradecer",
+      "pos": "verb",
+      "back": "to thank",
+      "example": "Le agradecieron su ayuda.",
+      "tier": "B1"
+     },
+     {
+      "front": "acompañar",
+      "pos": "verb",
+      "back": "to support, to be with",
+      "example": "Acompaña a su hijo en todo.",
+      "tier": "B1"
+     },
+     {
+      "front": "comprensión",
+      "pos": "noun",
+      "back": "understanding",
+      "example": "Los niños necesitan comprensión.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "En una entrevista, el futbolista reconoció que a veces no sabe cómo ayudarle, pero que aprende cada día junto a su familia.",
+      "point": "estilo indirecto (reconoció que) e interrogativa indirecta (cómo)",
+      "explanation": "Tras 'reconoció que' se usa el indicativo. 'Cómo ayudarle' es una pregunta indirecta y el pronombre 'le' se une al infinitivo.",
+      "why_tricky": "El 'cómo' lleva tilde aunque no haya signos de interrogación, porque es una pregunta indirecta."
+     },
+     {
+      "sentence": "El deportista explica que aceptar el diagnóstico no fue fácil, aunque hoy lo vive con naturalidad y mucho cariño.",
+      "point": "infinitivo como sujeto (aceptar) y aunque + indicativo",
+      "explanation": "'Aceptar el diagnóstico' es el sujeto de 'no fue fácil'. 'Aunque' + indicativo expresa un contraste real.",
+      "why_tricky": "El sujeto es un infinitivo, no un gerundio; y 'aunque' aquí no lleva subjuntivo porque el hecho es real."
+     },
+     {
+      "sentence": "Cucurella insiste en que cada niño es único y en que lo más importante es acompañarlo con paciencia, amor y comprensión.",
+      "point": "insistir en que y el neutro lo más importante",
+      "explanation": "El verbo 'insistir' rige la preposición 'en'. 'Lo más importante' usa el artículo neutro 'lo' para referirse a una idea abstracta.",
+      "why_tricky": "Muchos olvidan la preposición ('insistir en que') y el uso del neutro 'lo' no existe igual en inglés."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "dar voz a",
+      "meaning": "to speak up for, to give a platform to",
+      "example": "El documental da voz a los refugiados."
+     },
+     {
+      "phrase": "romper prejuicios",
+      "meaning": "to break down prejudices",
+      "example": "El deporte ayuda a romper prejuicios."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Sobre qué ha decidido hablar Marc Cucurella?",
+      "type": "open"
+     },
+     {
+      "q": "¿Por qué son importantes sus palabras, según el texto?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué mensaje da a las familias?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Crees que los famosos deberían hablar de sus problemas personales? Da tu opinión en unas cinco frases."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-29-acuerdo-nuclear-eeuu-arabia",
+   "title": "Por qué es polémico el acuerdo nuclear que firmaron EE.UU. y Arabia Saudita",
+   "source": "BBC Mundo",
+   "date": "2026-07-22",
+   "level": "B1-B2",
+   "tags": [
+    "internacional",
+    "energía"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-29-acuerdo-nuclear-eeuu-arabia",
+    "revision": 1,
+    "meta": {
+     "title": "Por qué es polémico el acuerdo nuclear que firmaron EE.UU. y Arabia Saudita",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/cy74gdm2g3xo?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-07-22",
+     "date_processed": "2026-07-29",
+     "tags": [
+      "internacional",
+      "energía"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "The United States and Saudi Arabia have signed a nuclear energy agreement that has caused an intense debate. According to the deal, US companies will be able to build and operate nuclear power plants on Saudi territory. The official aim is to produce electricity and reduce dependence on oil. However, many experts view the operation with concern.\n\nThe reason for the controversy is that the same technology that serves to generate energy could, in theory, make other, more dangerous uses easier. For this reason, several former officials are asking for strict controls and a lot of transparency. Supporters of the agreement, on the other hand, stress the economic and energy benefits for both countries. The outcome will depend on the guarantees that are established and on the trust between the two governments in the coming years.",
+    "resumen_es": "Estados Unidos y Arabia Saudita han firmado un acuerdo de energía nuclear que ha generado un intenso debate. Según el pacto, empresas estadounidenses podrán construir y operar centrales nucleares en territorio saudí. El objetivo oficial es producir electricidad y reducir la dependencia del petróleo. Sin embargo, muchos expertos observan la operación con preocupación.\n\nEl motivo de la polémica es que la misma tecnología que sirve para generar energía podría, en teoría, facilitar otros usos más peligrosos. Por eso, varios exfuncionarios piden controles estrictos y mucha transparencia. Los defensores del acuerdo, en cambio, subrayan los beneficios económicos y energéticos para ambos países. El resultado dependerá de las garantías que se establezcan y de la confianza entre los dos gobiernos en los próximos años.",
+    "vocab": [
+     {
+      "front": "acuerdo",
+      "pos": "noun",
+      "back": "agreement",
+      "example": "Firmaron un acuerdo importante.",
+      "tier": "B1"
+     },
+     {
+      "front": "central nuclear",
+      "pos": "phrase",
+      "back": "nuclear power plant",
+      "example": "Construirán una central nuclear.",
+      "tier": "B2"
+     },
+     {
+      "front": "pacto",
+      "pos": "noun",
+      "back": "pact, deal",
+      "example": "El pacto beneficia a ambos países.",
+      "tier": "B2"
+     },
+     {
+      "front": "dependencia",
+      "pos": "noun",
+      "back": "dependence",
+      "example": "Quieren reducir la dependencia del petróleo.",
+      "tier": "B2"
+     },
+     {
+      "front": "petróleo",
+      "pos": "noun",
+      "back": "oil",
+      "example": "El país exporta petróleo.",
+      "tier": "B1"
+     },
+     {
+      "front": "polémica",
+      "pos": "noun",
+      "back": "controversy",
+      "example": "El tema genera mucha polémica.",
+      "tier": "B2"
+     },
+     {
+      "front": "tecnología",
+      "pos": "noun",
+      "back": "technology",
+      "example": "Es una tecnología muy avanzada.",
+      "tier": "B1"
+     },
+     {
+      "front": "exfuncionario",
+      "pos": "noun",
+      "back": "former official",
+      "example": "Varios exfuncionarios criticaron el plan.",
+      "tier": "B2"
+     },
+     {
+      "front": "controles estrictos",
+      "pos": "phrase",
+      "back": "strict controls",
+      "example": "Piden controles estrictos.",
+      "tier": "B2"
+     },
+     {
+      "front": "transparencia",
+      "pos": "noun",
+      "back": "transparency",
+      "example": "Exigen más transparencia.",
+      "tier": "B2"
+     },
+     {
+      "front": "subrayar",
+      "pos": "verb",
+      "back": "to stress, to underline",
+      "example": "Subrayó la importancia del acuerdo.",
+      "tier": "B2"
+     },
+     {
+      "front": "garantía",
+      "pos": "noun",
+      "back": "guarantee",
+      "example": "Ofrecen garantías de seguridad.",
+      "tier": "B1"
+     },
+     {
+      "front": "confianza",
+      "pos": "noun",
+      "back": "trust",
+      "example": "Falta confianza entre los gobiernos.",
+      "tier": "B1"
+     },
+     {
+      "front": "en cambio",
+      "pos": "phrase",
+      "back": "on the other hand",
+      "example": "Él está a favor; ella, en cambio, no.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Estados Unidos y Arabia Saudita han firmado un acuerdo de energía nuclear que ha generado un intenso debate.",
+      "point": "pretérito perfecto y oración de relativo con que",
+      "explanation": "'Han firmado' y 'ha generado' son pretéritos perfectos, que conectan el pasado con el presente. 'Que' introduce una relativa sobre el acuerdo.",
+      "why_tricky": "El pretérito perfecto se usa mucho en España para hechos recientes con consecuencias actuales."
+     },
+     {
+      "sentence": "El motivo de la polémica es que la misma tecnología que sirve para generar energía podría, en teoría, facilitar otros usos más peligrosos.",
+      "point": "condicional podría para una hipótesis y servir para + infinitivo",
+      "explanation": "'Podría facilitar' expresa una posibilidad, no un hecho. 'Servir para' introduce la función de algo.",
+      "why_tricky": "El condicional 'podría' suaviza la afirmación; confundirlo con el presente cambiaría el sentido."
+     },
+     {
+      "sentence": "El resultado dependerá de las garantías que se establezcan y de la confianza entre los dos gobiernos en los próximos años.",
+      "point": "futuro simple (dependerá) y subjuntivo en la relativa (que se establezcan)",
+      "explanation": "'Dependerá' es futuro. 'Que se establezcan' va en subjuntivo porque las garantías aún no existen; son inciertas.",
+      "why_tricky": "La relativa con antecedente incierto exige subjuntivo, algo que el inglés no marca."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "poner en tela de juicio",
+      "meaning": "to call into question",
+      "example": "Los expertos ponen en tela de juicio el acuerdo."
+     },
+     {
+      "phrase": "en teoría",
+      "meaning": "in theory",
+      "example": "En teoría, el plan funciona."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Qué permitirá el acuerdo entre Estados Unidos y Arabia Saudita?",
+      "type": "open"
+     },
+     {
+      "q": "¿Por qué preocupa este pacto a algunos expertos?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué piden los exfuncionarios?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Crees que la energía nuclear es una buena solución para el futuro? Explica tu opinión en unas cinco frases."
+   }
+  },
   {
    "pack_id": "feed-2026-07-28-marianela-nunez-ballet",
    "title": "\"Aún me siento invencible\": Marianela Núñez, la argentina que lleva casi 3 décadas en la élite del Royal Ballet de Londres",
@@ -6216,474 +6744,6 @@
      }
     ],
     "opinion_prompt": "¿Crees que la dependencia energética condiciona la política exterior de un país? Justifica tu respuesta en unas 100 palabras."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-21-polgar-presidenta-hungria",
-   "title": "Hungría: ¿quién es Judit Polgár, la genio del ajedrez que podría convertirse en la nueva presidenta?",
-   "source": "RFI",
-   "date": "2026-07-20",
-   "level": "B1-B2",
-   "topics": [
-    "política",
-    "sociedad"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-21-polgar-presidenta-hungria",
-    "revision": 1,
-    "meta": {
-     "title": "Hungría: ¿quién es Judit Polgár, la genio del ajedrez que podría convertirse en la nueva presidenta?",
-     "source": "RFI",
-     "url": "https://www.rfi.fr/es/europa/20260720-hungr%C3%ADa-qui%C3%A9n-es-judit-polg%C3%A1r-la-genio-del-ajedrez-que-podr%C3%ADa-convertirse-en-la-nueva-presidenta",
-     "date_published": "2026-07-20",
-     "date_processed": "2026-07-21",
-     "tags": [
-      "política",
-      "sociedad"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "Hungarian Prime Minister Peter Magyar has announced his intention to propose Judit Polgar, considered the best female chess player in history, as a candidate for the country's presidency. The announcement comes just days after the resignation of the previous president, who gave in to public pressure. The post is largely symbolic, since executive power rests with the government.\n\nPolgar became famous in the nineties by defeating grandmasters and breaking barriers in a sport dominated by men. Her possible appointment is being interpreted as a gesture of political renewal in Hungary. If parliament approves the proposal, she would become the first woman to hold the Hungarian head of state position, a milestone that many see as a sign of change.",
-    "resumen_es": "El primer ministro húngaro, Peter Magyar, ha anunciado su intención de proponer a Judit Polgár, considerada la mejor jugadora de ajedrez de la historia, como candidata a la presidencia del país. El anuncio llega pocos días después de la dimisión del anterior presidente, que cedió ante la presión pública. El cargo tiene un carácter sobre todo simbólico, ya que el poder ejecutivo recae en el Gobierno.\n\nPolgár se hizo famosa en los años noventa al derrotar a grandes maestros y romper barreras en un deporte dominado por hombres. Su posible nombramiento se interpreta como un gesto de renovación política en Hungría. Si el Parlamento aprueba la propuesta, se convertiría en la primera mujer en ocupar la jefatura del Estado húngaro, un hito que muchos ven como una señal de cambio.",
-    "vocab": [
-     {
-      "front": "la dimisión",
-      "pos": "noun",
-      "back": "resignation",
-      "example": "El ministro presentó su dimisión ayer.",
-      "tier": "B2"
-     },
-     {
-      "front": "ceder ante",
-      "pos": "phrase",
-      "back": "to give in to",
-      "example": "El presidente cedió ante la presión de la calle.",
-      "tier": "B2"
-     },
-     {
-      "front": "el cargo",
-      "pos": "noun",
-      "back": "post, position",
-      "example": "Ocupa el cargo de directora desde 2020.",
-      "tier": "B1"
-     },
-     {
-      "front": "recaer en",
-      "pos": "phrase",
-      "back": "to fall on, to rest with",
-      "example": "La responsabilidad recae en el consejo.",
-      "tier": "C1"
-     },
-     {
-      "front": "derrotar",
-      "pos": "verb",
-      "back": "to defeat",
-      "example": "El equipo derrotó a su gran rival.",
-      "tier": "B1"
-     },
-     {
-      "front": "romper barreras",
-      "pos": "phrase",
-      "back": "to break barriers",
-      "example": "Su carrera rompió barreras en la ciencia.",
-      "tier": "B2"
-     },
-     {
-      "front": "el nombramiento",
-      "pos": "noun",
-      "back": "appointment (to a post)",
-      "example": "El nombramiento fue aprobado por unanimidad.",
-      "tier": "B2"
-     },
-     {
-      "front": "el hito",
-      "pos": "noun",
-      "back": "milestone",
-      "example": "La llegada a la Luna fue un hito histórico.",
-      "tier": "B2"
-     },
-     {
-      "front": "la jefatura del Estado",
-      "pos": "noun",
-      "back": "head of state position",
-      "example": "La jefatura del Estado tiene funciones representativas.",
-      "tier": "C1"
-     },
-     {
-      "front": "la renovación",
-      "pos": "noun",
-      "back": "renewal",
-      "example": "El partido promete una renovación profunda.",
-      "tier": "B1"
-     },
-     {
-      "front": "el ajedrez",
-      "pos": "noun",
-      "back": "chess",
-      "example": "Aprendió a jugar al ajedrez de niña.",
-      "tier": "B1"
-     },
-     {
-      "front": "aprobar",
-      "pos": "verb",
-      "back": "to approve, to pass",
-      "example": "El Parlamento aprobó la ley sin cambios.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Si el Parlamento aprueba la propuesta, se convertiría en la primera mujer en ocupar la jefatura del Estado húngaro, un hito que muchos ven como una señal de cambio.",
-      "point": "condicional con si + presente",
-      "explanation": "Spanish here combines si + present (aprueba) with a conditional (se convertiría) to present a realistic future outcome viewed with some caution.",
-      "why_tricky": "The classic rule pairs si + present with future; the conditional adds distance or caution, a nuance journalists use often."
-     },
-     {
-      "sentence": "Polgár se hizo famosa en los años noventa al derrotar a grandes maestros y romper barreras en un deporte dominado por hombres.",
-      "point": "al + infinitivo",
-      "explanation": "Al + infinitive (al derrotar) expresses when or by doing: she became famous by defeating grandmasters.",
-      "why_tricky": "English needs a gerund (by defeating) or a clause (when she defeated); learners often miss this compact structure."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "romper barreras",
-      "meaning": "to break down barriers",
-      "example": "Ella rompió barreras en un mundo de hombres."
-     },
-     {
-      "phrase": "dar un paso al costado",
-      "meaning": "to step aside, to stand down",
-      "example": "El líder decidió dar un paso al costado tras la derrota."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Quién es Judit Polgár y por qué es famosa?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué el cargo de presidente en Hungría es sobre todo simbólico?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué pasaría si el Parlamento aprueba la propuesta?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Puede una figura no política, como una deportista, ser una buena jefa de Estado? Escribe tu opinión en unas 100 palabras."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-20-mayo-zambada-perpetua",
-   "title": "Condenan a cadena perpetua a \"El Mayo\" Zambada, exlíder del cartel de Sinaloa",
-   "source": "BBC Mundo",
-   "date": "2026-07-20",
-   "level": "B1-B2",
-   "topics": [
-    "justicia",
-    "narcotráfico"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-20-mayo-zambada-perpetua",
-    "revision": 1,
-    "meta": {
-     "title": "Condenan a cadena perpetua a \"El Mayo\" Zambada, exlíder del cartel de Sinaloa",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/c204gvxy6jvo?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-07-20",
-     "date_processed": "2026-07-20",
-     "tags": [
-      "justicia",
-      "narcotráfico"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "A federal court in Brooklyn sentenced Ismael 'El Mayo' Zambada, co-founder of the Sinaloa cartel, to life in prison on Monday. The historic Mexican drug trafficker, who had pleaded guilty before the US authorities, will spend the rest of his life behind bars. In addition, he must pay a fine of 15 billion dollars to repair the damage caused by decades of drug trafficking.\n\nThe sentence closes a whole chapter in the history of drug trafficking in Mexico. Zambada led one of the most powerful criminal organizations in the world for decades, and many analysts believe that his fall marks a change of era in organized crime. It remains to be seen how the cartel will reorganize itself and whether the sentence will have a real effect on the flow of drugs into the United States.",
-    "resumen_es": "Un tribunal federal de Brooklyn condenó este lunes a cadena perpetua a Ismael 'El Mayo' Zambada, cofundador del cartel de Sinaloa. El histórico narcotraficante mexicano, que se había declarado culpable ante las autoridades estadounidenses, pasará el resto de su vida tras las rejas. Además, deberá pagar una multa de 15.000 millones de dólares para reparar los daños causados por décadas de tráfico de drogas.\n\nLa sentencia cierra todo un capítulo en la historia del narcotráfico en México. Zambada dirigió durante décadas una de las organizaciones criminales más poderosas del mundo, y muchos analistas consideran que su caída marca un cambio de era en el crimen organizado. Queda por ver cómo se reorganizará el cartel y si la condena tendrá un efecto real sobre el flujo de drogas hacia Estados Unidos.",
-    "vocab": [
-     {
-      "front": "la cadena perpetua",
-      "pos": "phrase",
-      "back": "life sentence",
-      "example": "El tribunal lo condenó a cadena perpetua.",
-      "tier": "B1"
-     },
-     {
-      "front": "declararse culpable",
-      "pos": "verb",
-      "back": "to plead guilty",
-      "example": "El acusado decidió declararse culpable.",
-      "tier": "B2"
-     },
-     {
-      "front": "tras las rejas",
-      "pos": "phrase",
-      "back": "behind bars",
-      "example": "Pasará muchos años tras las rejas.",
-      "tier": "B2"
-     },
-     {
-      "front": "la multa",
-      "pos": "noun",
-      "back": "fine (penalty)",
-      "example": "Recibió una multa por aparcar mal.",
-      "tier": "B1"
-     },
-     {
-      "front": "reparar los daños",
-      "pos": "phrase",
-      "back": "to repair the damage",
-      "example": "La empresa prometió reparar los daños.",
-      "tier": "B1"
-     },
-     {
-      "front": "el narcotráfico",
-      "pos": "noun",
-      "back": "drug trafficking",
-      "example": "El narcotráfico es un problema grave en la región.",
-      "tier": "B1"
-     },
-     {
-      "front": "dirigir",
-      "pos": "verb",
-      "back": "to lead, to run",
-      "example": "Dirigió la organización durante décadas.",
-      "tier": "B1"
-     },
-     {
-      "front": "la caída",
-      "pos": "noun",
-      "back": "fall, downfall",
-      "example": "La caída del líder sorprendió a todos.",
-      "tier": "B1"
-     },
-     {
-      "front": "un cambio de era",
-      "pos": "phrase",
-      "back": "a change of era",
-      "example": "Su retirada supone un cambio de era en el deporte.",
-      "tier": "B2"
-     },
-     {
-      "front": "quedar por ver",
-      "pos": "phrase",
-      "back": "to remain to be seen",
-      "example": "Queda por ver si el plan funciona.",
-      "tier": "B2"
-     },
-     {
-      "front": "la condena",
-      "pos": "noun",
-      "back": "sentence, conviction",
-      "example": "La condena fue más dura de lo esperado.",
-      "tier": "B1"
-     },
-     {
-      "front": "el flujo",
-      "pos": "noun",
-      "back": "flow",
-      "example": "El flujo de mercancías no se detuvo.",
-      "tier": "B2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "El histórico narcotraficante mexicano, que se había declarado culpable ante las autoridades estadounidenses, pasará el resto de su vida tras las rejas.",
-      "point": "Pluscuamperfecto inside a relative clause, combined with future",
-      "explanation": "The relative clause 'que se había declarado culpable' uses the pluscuamperfecto (había + participle) to show an action completed before the main events, while the main verb 'pasará' is in the future.",
-      "why_tricky": "One sentence mixes three time layers: a past-before-the-past, the present of the report, and the future consequence. English does the same with 'had pleaded' and 'will spend', but learners often flatten everything into one past tense."
-     },
-     {
-      "sentence": "Queda por ver cómo se reorganizará el cartel y si la condena tendrá un efecto real sobre el flujo de drogas hacia Estados Unidos.",
-      "point": "Quedar por + infinitive and indirect questions",
-      "explanation": "'Queda por ver' means 'it remains to be seen'. It introduces two indirect questions, one with 'cómo' and one with 'si', both keeping the future tense inside them.",
-      "why_tricky": "Unlike English, Spanish keeps the future tense inside the indirect question ('cómo se reorganizará'), and 'quedar por + infinitive' has no word-for-word English equivalent."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "cerrar un capítulo",
-      "meaning": "to close a chapter, to end a period",
-      "example": "Con la venta de la casa cerramos un capítulo de nuestra vida."
-     },
-     {
-      "phrase": "tras las rejas",
-      "meaning": "behind bars, in prison",
-      "example": "Los responsables del fraude acabaron tras las rejas."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué castigo recibió El Mayo Zambada y qué tribunal lo decidió?",
-      "type": "open"
-     },
-     {
-      "q": "Además de la prisión, ¿qué otra sanción deberá cumplir y con qué objetivo?",
-      "type": "open"
-     },
-     {
-      "q": "Según el texto, ¿qué preguntas quedan abiertas después de esta condena?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Crees que condenar a los grandes líderes del narcotráfico reduce realmente el tráfico de drogas, o el problema es más profundo? Escribe unas líneas con tu opinión."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-20-ue-multa-aliexpress",
-   "title": "La Unión Europea multa a AliExpress por vender productos ilegales y falsificados",
-   "source": "RFI",
-   "date": "2026-07-20",
-   "level": "B1-B2",
-   "topics": [
-    "economía",
-    "consumo"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-20-ue-multa-aliexpress",
-    "revision": 1,
-    "meta": {
-     "title": "La Unión Europea multa a AliExpress por vender productos ilegales y falsificados",
-     "source": "RFI",
-     "url": "https://www.rfi.fr/es/europa/20260720-la-uni%C3%B3n-europea-multa-a-aliexpress-por-vender-productos-ilegales-y-falsificados",
-     "date_published": "2026-07-20",
-     "date_processed": "2026-07-20",
-     "tags": [
-      "economía",
-      "consumo"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "The European Union imposed a fine of 550 million euros on AliExpress for selling illegal and counterfeit products. According to Brussels, the Chinese company put consumers at risk by allowing the sale of items that are not safe to use or consume, despite the commitments it had previously made.\n\nThe company described the sanction as disproportionate and announced that it will consider all the options within its reach. It must also present an action plan before 20 October to correct the shortcomings in its controls. The case reflects the EU's growing pressure on large e-commerce platforms, which face increasingly strict rules designed to protect European consumers.",
-    "resumen_es": "La Unión Europea impuso una multa de 550 millones de euros a AliExpress por vender productos ilegales y falsificados. Según Bruselas, la compañía china puso en peligro a los consumidores al permitir la venta de artículos que no son seguros para el uso o el consumo, a pesar de los compromisos que había adquirido anteriormente.\n\nLa empresa calificó la sanción de desproporcionada y anunció que valorará todas las opciones a su alcance. Además, deberá presentar un plan de acción antes del 20 de octubre para corregir las carencias en sus controles. El caso refleja la presión creciente de la UE sobre las grandes plataformas de comercio electrónico, que se enfrentan a normas cada vez más estrictas para proteger a los consumidores europeos.",
-    "vocab": [
-     {
-      "front": "imponer una multa",
-      "pos": "phrase",
-      "back": "to impose a fine",
-      "example": "Las autoridades impusieron una multa a la empresa.",
-      "tier": "B2"
-     },
-     {
-      "front": "falsificado",
-      "pos": "adj",
-      "back": "counterfeit, fake",
-      "example": "Vendían bolsos falsificados en el mercado.",
-      "tier": "B2"
-     },
-     {
-      "front": "poner en peligro",
-      "pos": "phrase",
-      "back": "to endanger, to put at risk",
-      "example": "Esa decisión puso en peligro a los trabajadores.",
-      "tier": "B1"
-     },
-     {
-      "front": "el consumidor",
-      "pos": "noun",
-      "back": "consumer",
-      "example": "Los consumidores tienen derecho a reclamar.",
-      "tier": "B1"
-     },
-     {
-      "front": "el compromiso",
-      "pos": "noun",
-      "back": "commitment",
-      "example": "La empresa no cumplió sus compromisos.",
-      "tier": "B1"
-     },
-     {
-      "front": "adquirir",
-      "pos": "verb",
-      "back": "to acquire, to take on",
-      "example": "Adquirió la responsabilidad de dirigir el proyecto.",
-      "tier": "B2"
-     },
-     {
-      "front": "calificar de",
-      "pos": "verb",
-      "back": "to describe as, to label",
-      "example": "El ministro calificó la medida de necesaria.",
-      "tier": "B2"
-     },
-     {
-      "front": "desproporcionado",
-      "pos": "adj",
-      "back": "disproportionate",
-      "example": "La reacción fue totalmente desproporcionada.",
-      "tier": "B2"
-     },
-     {
-      "front": "valorar",
-      "pos": "verb",
-      "back": "to assess, to consider",
-      "example": "El gobierno valorará todas las propuestas.",
-      "tier": "B1"
-     },
-     {
-      "front": "la carencia",
-      "pos": "noun",
-      "back": "shortcoming, lack",
-      "example": "El informe señala carencias en la seguridad.",
-      "tier": "C1"
-     },
-     {
-      "front": "enfrentarse a",
-      "pos": "verb",
-      "back": "to face, to confront",
-      "example": "La empresa se enfrenta a una investigación.",
-      "tier": "B1"
-     },
-     {
-      "front": "a su alcance",
-      "pos": "phrase",
-      "back": "within its reach, available to it",
-      "example": "Usó todos los recursos a su alcance.",
-      "tier": "B2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Según Bruselas, la compañía china puso en peligro a los consumidores al permitir la venta de artículos que no son seguros para el uso o el consumo, a pesar de los compromisos que había adquirido anteriormente.",
-      "point": "Al + infinitive to express cause or simultaneity",
-      "explanation": "'Al permitir' means 'by allowing' or 'when it allowed'. The structure al + infinitive compresses a whole causal clause into two words.",
-      "why_tricky": "English needs 'by + -ing' or a full clause, so learners often miss that 'al + infinitive' can carry causal meaning, not just temporal."
-     },
-     {
-      "sentence": "La empresa calificó la sanción de desproporcionada y anunció que valorará todas las opciones a su alcance.",
-      "point": "Calificar de + adjective and reported speech with future",
-      "explanation": "'Calificar algo de + adjective' means 'to describe something as'. In the reported clause, Spanish keeps the future 'valorará' because the announcement still refers to a future action.",
-      "why_tricky": "The preposition 'de' before the adjective feels unnatural to English speakers ('described the sanction OF disproportionate'), and choosing between future and conditional in reported speech trips up many learners."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "poner en peligro",
-      "meaning": "to put at risk",
-      "example": "No quiero poner en peligro nuestra amistad."
-     },
-     {
-      "phrase": "a su alcance",
-      "meaning": "within reach, available",
-      "example": "Hizo todo lo que estaba a su alcance para ayudar."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Por qué motivo multó la Unión Europea a AliExpress y de cuánto es la multa?",
-      "type": "open"
-     },
-     {
-      "q": "¿Cómo reaccionó la empresa ante la sanción?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué deberá presentar AliExpress antes del 20 de octubre y para qué?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Compras en plataformas de comercio electrónico como AliExpress? ¿Te parece que las autoridades deben controlarlas más? Escribe unas líneas explicando tu punto de vista."
    }
   }
  ]
