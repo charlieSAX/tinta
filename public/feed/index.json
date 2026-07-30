@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-07-30T08:13:18Z",
+  "generated_at": "2026-07-30T20:15:19Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-07-30-rosalia-argentina",
+      "title": "La cantante Rosalía pide perdón tras compartir en sus redes un video considerado ofensivo en Argentina después de la final del Mundial",
+      "source": "BBC Mundo",
+      "date": "2026-07-30",
+      "level": "B1-B2",
+      "topics": [
+        "cultura",
+        "redes"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-30-rosalia-argentina",
+        "revision": 1,
+        "meta": {
+          "title": "La cantante Rosalía pide perdón tras compartir en sus redes un video considerado ofensivo en Argentina después de la final del Mundial",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cvgveekkzxpo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-07-30",
+          "date_processed": "2026-07-30",
+          "tags": [
+            "cultura",
+            "redes"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The Spanish singer Rosalia has apologised after sharing on her social media a video that many Argentine users considered offensive. The post appeared shortly after the World Cup final, in which Spain beat Argentina, and so the gesture was read as a mockery of the rival team. Within hours, the video went viral and set off a heated controversy among her followers.\n\nFaced with the criticism, the artist deleted the content and posted a message in which she admitted her mistake and clarified that she had not meant to upset anyone. This episode shows how far sporting rivalries can spread to social media and affect even very well known figures. For many, the case confirms that, in the digital age, a simple post made without thinking can turn into a far reaching problem.",
+        "resumen_es": "La cantante espanola Rosalia ha pedido perdon despues de compartir en sus redes sociales un video que muchos usuarios argentinos consideraron ofensivo. La publicacion aparecio poco despues de la final del Mundial, en la que Espana vencio a Argentina, y por eso el gesto se interpreto como una burla hacia el equipo rival. En cuestion de horas, el video se volvio viral y desato una fuerte polemica entre sus seguidores.\n\nAnte las criticas, la artista borro el contenido y publico un mensaje en el que reconocia su error y aclaraba que no habia querido molestar a nadie. Este episodio muestra hasta que punto las rivalidades deportivas pueden trasladarse a las redes y afectar incluso a figuras muy conocidas. Para muchos, el caso confirma que, en la era digital, una simple publicacion hecha sin pensar puede convertirse en un problema de gran alcance.",
+        "vocab": [
+          {
+            "front": "pedir perdon",
+            "pos": "phrase",
+            "back": "to apologise",
+            "example": "Rosalia tuvo que pedir perdon por el video.",
+            "tier": "B1"
+          },
+          {
+            "front": "las redes sociales",
+            "pos": "noun",
+            "back": "social media",
+            "example": "Publica casi todo en sus redes sociales.",
+            "tier": "B1"
+          },
+          {
+            "front": "ofensivo",
+            "pos": "adj",
+            "back": "offensive",
+            "example": "Muchos consideraron el comentario ofensivo.",
+            "tier": "B1"
+          },
+          {
+            "front": "burla",
+            "pos": "noun",
+            "back": "mockery, taunt",
+            "example": "El chiste sono como una burla.",
+            "tier": "B2"
+          },
+          {
+            "front": "volverse viral",
+            "pos": "phrase",
+            "back": "to go viral",
+            "example": "El video se volvio viral en una noche.",
+            "tier": "B1"
+          },
+          {
+            "front": "desatar",
+            "pos": "verb",
+            "back": "to unleash, set off",
+            "example": "La noticia desato una fuerte polemica.",
+            "tier": "B2"
+          },
+          {
+            "front": "polemica",
+            "pos": "noun",
+            "back": "controversy",
+            "example": "Su decision genero mucha polemica.",
+            "tier": "B1"
+          },
+          {
+            "front": "borrar",
+            "pos": "verb",
+            "back": "to delete",
+            "example": "Decidio borrar la publicacion.",
+            "tier": "B1"
+          },
+          {
+            "front": "reconocer un error",
+            "pos": "verb",
+            "back": "to admit a mistake",
+            "example": "Es dificil reconocer un error en publico.",
+            "tier": "B1"
+          },
+          {
+            "front": "trasladarse",
+            "pos": "verb",
+            "back": "to move, spread to",
+            "example": "El debate se traslado a las redes.",
+            "tier": "B2"
+          },
+          {
+            "front": "de gran alcance",
+            "pos": "phrase",
+            "back": "far-reaching",
+            "example": "Fue una decision de gran alcance.",
+            "tier": "B2"
+          },
+          {
+            "front": "figura conocida",
+            "pos": "phrase",
+            "back": "well-known figure",
+            "example": "Es una figura muy conocida en el pais.",
+            "tier": "B1"
+          },
+          {
+            "front": "rivalidad",
+            "pos": "noun",
+            "back": "rivalry",
+            "example": "La rivalidad entre los dos equipos es historica.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "En cuestion de horas, el video se volvio viral y desato una fuerte polemica entre sus seguidores.",
+            "point": "Verbos de cambio: volverse + adjetivo",
+            "explanation": "'Volverse' expresa un cambio de estado bastante rapido o involuntario. Aqui 'se volvio viral' indica que el video paso a estar en esa situacion.",
+            "why_tricky": "El ingles usa un solo verbo ('to go/become'), pero el espanol elige entre volverse, hacerse, ponerse o quedarse segun el matiz."
+          },
+          {
+            "sentence": "Ante las criticas, la artista borro el contenido y publico un mensaje en el que reconocia su error y aclaraba que no habia querido molestar a nadie.",
+            "point": "Pluscuamperfecto e imperfecto en la narracion",
+            "explanation": "'Borro' y 'publico' (indefinido) marcan acciones puntuales; 'reconocia' y 'aclaraba' (imperfecto) describen; 'habia querido' (pluscuamperfecto) senala algo anterior a esas acciones.",
+            "why_tricky": "Combinar tres tiempos del pasado en una sola frase exige tener clara la linea temporal de los hechos."
+          },
+          {
+            "sentence": "Para muchos, el caso confirma que, en la era digital, una simple publicacion hecha sin pensar puede convertirse en un problema de gran alcance.",
+            "point": "sin + infinitivo",
+            "explanation": "'Sin pensar' equivale a 'without thinking'. La estructura 'sin + infinitivo' funciona como complemento y describe el modo de la accion.",
+            "why_tricky": "Los estudiantes tienden a poner un gerundio ('sin pensando'), que es incorrecto en espanol."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "en cuestion de horas",
+            "meaning": "in a matter of hours, very quickly",
+            "example": "La foto se difundio en cuestion de horas."
+          },
+          {
+            "phrase": "sin pensar",
+            "meaning": "without thinking, impulsively",
+            "example": "Escribio el mensaje sin pensar y luego se arrepintio."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Por que muchos usuarios argentinos consideraron ofensivo el video de Rosalia?",
+            "type": "open"
+          },
+          {
+            "q": "Como reacciono la cantante ante las criticas?",
+            "type": "open"
+          },
+          {
+            "q": "Segun el texto, que demuestra este episodio sobre las redes sociales?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Crees que las figuras publicas deberian tener mas cuidado con lo que publican en redes sociales? Escribe un parrafo con tu opinion y un ejemplo."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-30-actriz-godzilla",
+      "title": "Kaylee Hottle: muere la actriz de \"Godzilla vs. Kong\" a los 18 anos",
+      "source": "BBC Mundo",
+      "date": "2026-07-30",
+      "level": "B1-B2",
+      "topics": [
+        "cine",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-30-actriz-godzilla",
+        "revision": 1,
+        "meta": {
+          "title": "Kaylee Hottle: muere la actriz de \"Godzilla vs. Kong\" a los 18 anos",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c8enw5668l6o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-07-30",
+          "date_processed": "2026-07-30",
+          "tags": [
+            "cine",
+            "cultura"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The American actress Kaylee Hottle has died at the age of eighteen, as several media outlets have confirmed. The young woman, who was deaf, became known for her role in the film 'Godzilla vs. Kong', released in 2021, and in its 2024 sequel. In both films she played Jia, an orphaned girl who formed a very special bond with the giant ape and who used sign language to communicate.\n\nHer performance was widely praised because it gave visibility to the deaf community within commercial cinema. Cast members and fans have expressed their sadness on social media and remembered her talent and her warmth. Although her career was short, many believe that Hottle opened an important door so that more actors with disabilities can reach big productions. For now, her family has not given details about the causes of her death.",
+        "resumen_es": "La actriz estadounidense Kaylee Hottle ha muerto a los dieciocho anos, segun confirmaron varios medios de comunicacion. La joven, que era sorda, se hizo conocida por su papel en la pelicula 'Godzilla vs. Kong', estrenada en 2021, y en su secuela de 2024. En ambas cintas interpreto a Jia, una nina huerfana que establecia un vinculo muy especial con el gigantesco simio y que usaba la lengua de senas para comunicarse.\n\nSu interpretacion fue muy elogiada porque dio visibilidad a la comunidad sorda dentro del cine comercial. Companeros de reparto y aficionados han expresado su tristeza en las redes y han recordado su talento y su simpatia. Aunque su carrera fue breve, muchos consideran que Hottle abrio una puerta importante para que mas actores con discapacidad puedan acceder a grandes producciones. Por ahora, su familia no ha dado detalles sobre las causas de su fallecimiento.",
+        "vocab": [
+          {
+            "front": "actriz",
+            "pos": "noun",
+            "back": "actress",
+            "example": "La actriz recibio muchos premios.",
+            "tier": "B1"
+          },
+          {
+            "front": "sordo/a",
+            "pos": "adj",
+            "back": "deaf",
+            "example": "La protagonista era sorda de nacimiento.",
+            "tier": "B1"
+          },
+          {
+            "front": "hacerse conocido/a",
+            "pos": "phrase",
+            "back": "to become known",
+            "example": "Se hizo conocida muy joven.",
+            "tier": "B1"
+          },
+          {
+            "front": "papel",
+            "pos": "noun",
+            "back": "role (in a film)",
+            "example": "Consiguio su primer papel a los diez anos.",
+            "tier": "B1"
+          },
+          {
+            "front": "estrenar",
+            "pos": "verb",
+            "back": "to release, premiere",
+            "example": "La pelicula se estreno el ano pasado.",
+            "tier": "B2"
+          },
+          {
+            "front": "secuela",
+            "pos": "noun",
+            "back": "sequel",
+            "example": "La secuela supero a la primera parte.",
+            "tier": "B1"
+          },
+          {
+            "front": "huerfano/a",
+            "pos": "noun",
+            "back": "orphan(ed)",
+            "example": "El personaje era una nina huerfana.",
+            "tier": "B2"
+          },
+          {
+            "front": "vinculo",
+            "pos": "noun",
+            "back": "bond, link",
+            "example": "Crearon un vinculo muy fuerte.",
+            "tier": "B2"
+          },
+          {
+            "front": "lengua de senas",
+            "pos": "phrase",
+            "back": "sign language",
+            "example": "Aprendio la lengua de senas de pequena.",
+            "tier": "B1"
+          },
+          {
+            "front": "elogiar",
+            "pos": "verb",
+            "back": "to praise",
+            "example": "La critica elogio su actuacion.",
+            "tier": "B2"
+          },
+          {
+            "front": "dar visibilidad",
+            "pos": "phrase",
+            "back": "to give visibility to",
+            "example": "La serie dio visibilidad a un problema real.",
+            "tier": "B2"
+          },
+          {
+            "front": "companero de reparto",
+            "pos": "phrase",
+            "back": "cast member",
+            "example": "Sus companeros de reparto la recordaron.",
+            "tier": "B2"
+          },
+          {
+            "front": "discapacidad",
+            "pos": "noun",
+            "back": "disability",
+            "example": "Trabaja por los derechos de las personas con discapacidad.",
+            "tier": "B1"
+          },
+          {
+            "front": "fallecimiento",
+            "pos": "noun",
+            "back": "passing, death",
+            "example": "La familia comunico su fallecimiento.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Su interpretacion fue muy elogiada porque dio visibilidad a la comunidad sorda dentro del cine comercial.",
+            "point": "Voz pasiva con ser + participio",
+            "explanation": "'Fue elogiada' es una pasiva formada con 'ser' + participio, que concuerda en genero y numero con el sujeto ('interpretacion').",
+            "why_tricky": "El participio debe concordar (elogiada, no elogiado), algo que el ingles no exige."
+          },
+          {
+            "sentence": "Aunque su carrera fue breve, muchos consideran que Hottle abrio una puerta importante para que mas actores con discapacidad puedan acceder a grandes producciones.",
+            "point": "para que + subjuntivo",
+            "explanation": "Cuando 'para que' introduce una finalidad con un sujeto distinto, el verbo va en subjuntivo: 'puedan'.",
+            "why_tricky": "Si el sujeto fuera el mismo se usaria 'para + infinitivo'; el cambio de sujeto obliga al subjuntivo."
+          },
+          {
+            "sentence": "Por ahora, su familia no ha dado detalles sobre las causas de su fallecimiento.",
+            "point": "Preterito perfecto (ha dado)",
+            "explanation": "'Ha dado' conecta un hecho pasado con el presente: hasta ahora no hay informacion.",
+            "why_tricky": "En muchas variedades de America se preferiria el indefinido ('no dio'), pero aqui el perfecto marca relevancia actual."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "abrir una puerta",
+            "meaning": "to open a door, create an opportunity",
+            "example": "Ese papel le abrio una puerta en Hollywood."
+          },
+          {
+            "phrase": "por ahora",
+            "meaning": "for now, for the time being",
+            "example": "Por ahora no hay mas informacion."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Por que se hizo conocida Kaylee Hottle?",
+            "type": "open"
+          },
+          {
+            "q": "Que papel interpreto en 'Godzilla vs. Kong' y que tenia de especial?",
+            "type": "open"
+          },
+          {
+            "q": "Por que muchos consideran importante su interpretacion para la comunidad sorda?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Crees que el cine deberia incluir a mas actores con discapacidad? Explica tu opinion en un breve texto."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-30-huties-mar-rojo",
+      "title": "Los huties de Yemen afirman haber atacado petroleros en el mar Rojo luego de anunciar un \"embargo maritimo\"",
+      "source": "BBC Mundo",
+      "date": "2026-07-30",
+      "level": "B1-B2",
+      "topics": [
+        "conflicto",
+        "economia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-30-huties-mar-rojo",
+        "revision": 1,
+        "meta": {
+          "title": "Los huties de Yemen afirman haber atacado petroleros en el mar Rojo luego de anunciar un \"embargo maritimo\"",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c4g3x93l39po?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-07-30",
+          "date_processed": "2026-07-30",
+          "tags": [
+            "conflicto",
+            "economia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The Houthis of Yemen claim to have attacked several oil tankers in the Red Sea, after announcing what they call a 'maritime embargo'. According to a spokesperson for the group, the ships were hit for violating the naval blockade that the movement is trying to impose in the area. The Red Sea is one of the most important trade routes in the world, and any attack in those waters raises concern about the price of oil and the safety of navigation.\n\nThese incidents come amid strong tension in the region. At the same time, Iranian state media reported the death of two people in alleged American attacks. Many analysts warn that the situation could worsen if the powers involved fail to reduce the escalation. For their part, several shipping companies are already studying alternative routes to avoid the area, although that makes transport more expensive.",
+        "resumen_es": "Los huties de Yemen afirman haber atacado varios petroleros en el mar Rojo, despues de anunciar lo que ellos llaman un 'embargo maritimo'. Segun un portavoz del grupo, los buques fueron alcanzados por violar el bloqueo naval que el movimiento intenta imponer en la zona. El mar Rojo es una de las rutas comerciales mas importantes del mundo, y cualquier ataque en esas aguas genera preocupacion por el precio del petroleo y la seguridad de la navegacion.\n\nEstos incidentes se producen en un contexto de fuerte tension en la region. Al mismo tiempo, medios estatales iranies informaron de la muerte de dos personas en supuestos ataques estadounidenses. Muchos analistas advierten de que la situacion podria agravarse si las potencias implicadas no logran reducir la escalada. Por su parte, varias companias navieras ya estudian rutas alternativas para evitar la zona, aunque eso encarece el transporte.",
+        "vocab": [
+          {
+            "front": "petrolero",
+            "pos": "noun",
+            "back": "oil tanker",
+            "example": "Un petrolero fue atacado en el mar Rojo.",
+            "tier": "B2"
+          },
+          {
+            "front": "buque",
+            "pos": "noun",
+            "back": "ship, vessel",
+            "example": "El buque cambio de rumbo.",
+            "tier": "B2"
+          },
+          {
+            "front": "bloqueo naval",
+            "pos": "phrase",
+            "back": "naval blockade",
+            "example": "Impusieron un bloqueo naval en la costa.",
+            "tier": "B2"
+          },
+          {
+            "front": "portavoz",
+            "pos": "noun",
+            "back": "spokesperson",
+            "example": "El portavoz nego las acusaciones.",
+            "tier": "B1"
+          },
+          {
+            "front": "imponer",
+            "pos": "verb",
+            "back": "to impose",
+            "example": "El grupo intenta imponer sus reglas.",
+            "tier": "B2"
+          },
+          {
+            "front": "ruta comercial",
+            "pos": "phrase",
+            "back": "trade route",
+            "example": "Es una ruta comercial clave.",
+            "tier": "B1"
+          },
+          {
+            "front": "agravarse",
+            "pos": "verb",
+            "back": "to worsen",
+            "example": "El conflicto podria agravarse.",
+            "tier": "B2"
+          },
+          {
+            "front": "escalada",
+            "pos": "noun",
+            "back": "escalation",
+            "example": "Temen una escalada militar.",
+            "tier": "B2"
+          },
+          {
+            "front": "potencia",
+            "pos": "noun",
+            "back": "power (nation)",
+            "example": "Las grandes potencias intervinieron.",
+            "tier": "B1"
+          },
+          {
+            "front": "naviero/a",
+            "pos": "adj",
+            "back": "shipping (related)",
+            "example": "Las companias navieras cambiaron de ruta.",
+            "tier": "C1"
+          },
+          {
+            "front": "encarecer",
+            "pos": "verb",
+            "back": "to make more expensive",
+            "example": "La guerra encarece el combustible.",
+            "tier": "B2"
+          },
+          {
+            "front": "supuesto/a",
+            "pos": "adj",
+            "back": "alleged, supposed",
+            "example": "Detuvieron a los supuestos responsables.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Segun un portavoz del grupo, los buques fueron alcanzados por violar el bloqueo naval que el movimiento intenta imponer en la zona.",
+            "point": "Voz pasiva con ser (fueron alcanzados)",
+            "explanation": "'Fueron alcanzados' es una pasiva de accion; el participio concuerda con 'los buques' (masculino plural).",
+            "why_tricky": "El espanol prefiere a menudo la pasiva refleja ('se alcanzaron'), asi que la pasiva con ser suena mas formal o periodistica."
+          },
+          {
+            "sentence": "Muchos analistas advierten de que la situacion podria agravarse si las potencias implicadas no logran reducir la escalada.",
+            "point": "Condicional (podria) con clausula con si",
+            "explanation": "'Podria agravarse' expresa una posibilidad; la condicion va en presente de indicativo ('no logran').",
+            "why_tricky": "Es una condicional real, por lo que NO se usa subjuntivo despues de 'si' (no 'si no lograran')."
+          },
+          {
+            "sentence": "Por su parte, varias companias navieras ya estudian rutas alternativas para evitar la zona, aunque eso encarece el transporte.",
+            "point": "aunque + indicativo",
+            "explanation": "Aqui 'aunque' introduce un hecho real y comprobado, por lo que va con indicativo ('encarece').",
+            "why_tricky": "'Aunque' puede llevar indicativo (hecho) o subjuntivo (hipotesis); elegir mal cambia el sentido."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "por su parte",
+            "meaning": "for its/their part, meanwhile",
+            "example": "Por su parte, el gobierno guardo silencio."
+          },
+          {
+            "phrase": "al mismo tiempo",
+            "meaning": "at the same time",
+            "example": "Ocurrieron dos cosas al mismo tiempo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Por que afirman los huties que atacaron los petroleros?",
+            "type": "open"
+          },
+          {
+            "q": "Por que es tan importante el mar Rojo para el comercio mundial?",
+            "type": "open"
+          },
+          {
+            "q": "Que medidas estan tomando las companias navieras y que consecuencias tienen?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Que crees que deberian hacer los paises para proteger las rutas comerciales internacionales? Da tu opinion con argumentos."
+      }
+    },
     {
       "pack_id": "feed-2026-07-30-espana-mundial-futbol",
       "title": "Análisis de la BBC: por qué el triunfo de España frente a Argentina fue una victoria para el fútbol",
@@ -5939,182 +6446,6 @@
       }
     },
     {
-      "pack_id": "feed-2026-07-23-rosalia-perdon",
-      "title": "La cantante Rosalía pide perdón tras compartir en sus redes un vídeo considerado ofensivo en Argentina después de la final del Mundial",
-      "source": "BBC Mundo",
-      "date": "2026-07-23",
-      "level": "B1-B2",
-      "topics": [
-        "cultura",
-        "música"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-23-rosalia-perdon",
-        "revision": 1,
-        "meta": {
-          "title": "La cantante Rosalía pide perdón tras compartir en sus redes un vídeo considerado ofensivo en Argentina después de la final del Mundial",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cvgveekkzxpo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-22",
-          "date_processed": "2026-07-23",
-          "tags": [
-            "cultura",
-            "música"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The Spanish singer Rosalía has apologised after sharing on her social media a video that many Argentine users considered offensive. The post appeared just after Spain's victory over Argentina in the World Cup final. What for her was an innocent joke, for others sounded like mockery towards the rival fans. Within a few hours, the message went viral and unleashed a strong controversy on social media.\n\nAware of the upset she had caused, the artist deleted the video and published a public apology. In it she explained that it was never her intention to disrespect anyone. This episode shows how quickly a simple post can become a problem for famous figures. Nowadays, any gesture on social media is analysed in detail and can have unexpected consequences. That is why many artists are increasingly careful about what they share.",
-        "resumen_es": "La cantante española Rosalía ha pedido perdón después de compartir en sus redes sociales un vídeo que muchos usuarios argentinos consideraron ofensivo. La publicación apareció justo después de la victoria de España sobre Argentina en la final del Mundial. Lo que para ella era una broma inocente, para otros sonó a burla hacia los aficionados rivales. En pocas horas, el mensaje se volvió viral y desató una fuerte polémica en las redes.\n\nConsciente del malestar que había generado, la artista borró el vídeo y publicó una disculpa pública. En ella explicó que nunca fue su intención faltar al respeto a nadie. Este episodio demuestra lo rápido que una simple publicación puede convertirse en un problema para las figuras famosas. Hoy en día, cualquier gesto en las redes se analiza al detalle y puede tener consecuencias inesperadas. Por eso, muchos artistas cuidan cada vez más lo que comparten.",
-        "vocab": [
-          {
-            "front": "pedir perdón",
-            "pos": "phrase",
-            "back": "to apologise",
-            "example": "Le pidió perdón por llegar tarde.",
-            "tier": "B1"
-          },
-          {
-            "front": "las redes sociales",
-            "pos": "noun",
-            "back": "social media",
-            "example": "Pasa demasiado tiempo en las redes sociales.",
-            "tier": "B1"
-          },
-          {
-            "front": "la publicación",
-            "pos": "noun",
-            "back": "post, publication",
-            "example": "Su publicación recibió miles de comentarios.",
-            "tier": "B1"
-          },
-          {
-            "front": "la broma",
-            "pos": "noun",
-            "back": "joke",
-            "example": "Solo era una broma, no te enfades.",
-            "tier": "B1"
-          },
-          {
-            "front": "la burla",
-            "pos": "noun",
-            "back": "mockery, taunt",
-            "example": "Sus palabras sonaron a burla.",
-            "tier": "B2"
-          },
-          {
-            "front": "el aficionado",
-            "pos": "noun",
-            "back": "fan, supporter",
-            "example": "Los aficionados celebraron el gol.",
-            "tier": "B1"
-          },
-          {
-            "front": "volverse viral",
-            "pos": "phrase",
-            "back": "to go viral",
-            "example": "El vídeo se volvió viral en un día.",
-            "tier": "B2"
-          },
-          {
-            "front": "desatar",
-            "pos": "verb",
-            "back": "to trigger, unleash",
-            "example": "La noticia desató muchas críticas.",
-            "tier": "B2"
-          },
-          {
-            "front": "la polémica",
-            "pos": "noun",
-            "back": "controversy",
-            "example": "Sus declaraciones generaron polémica.",
-            "tier": "B2"
-          },
-          {
-            "front": "el malestar",
-            "pos": "noun",
-            "back": "discomfort, upset",
-            "example": "La decisión provocó malestar entre los vecinos.",
-            "tier": "B2"
-          },
-          {
-            "front": "borrar",
-            "pos": "verb",
-            "back": "to delete",
-            "example": "Borró el mensaje enseguida.",
-            "tier": "B1"
-          },
-          {
-            "front": "la disculpa",
-            "pos": "noun",
-            "back": "apology",
-            "example": "Ofreció una disculpa sincera.",
-            "tier": "B1"
-          },
-          {
-            "front": "faltar al respeto",
-            "pos": "phrase",
-            "back": "to disrespect",
-            "example": "No quiso faltar al respeto a nadie.",
-            "tier": "B2"
-          },
-          {
-            "front": "cuidar",
-            "pos": "verb",
-            "back": "to be careful with, look after",
-            "example": "Hay que cuidar lo que se dice en público.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Lo que para ella era una broma inocente, para otros sonó a burla hacia los aficionados rivales.",
-            "point": "Imperfecto frente a pretérito y 'lo que'",
-            "explanation": "'Era' (imperfecto) describe una situación o percepción; 'sonó' (pretérito) marca un hecho puntual. 'Lo que' introduce una idea sin nombrarla directamente.",
-            "why_tricky": "Elegir entre imperfecto y pretérito depende de si describimos ('era') o narramos un momento concreto ('sonó')."
-          },
-          {
-            "sentence": "Consciente del malestar que había generado, la artista borró el vídeo y publicó una disculpa pública.",
-            "point": "Pluscuamperfecto 'había generado'",
-            "explanation": "'Había generado' expresa una acción anterior a otras acciones pasadas ('borró', 'publicó'): el malestar existía antes de borrar el vídeo.",
-            "why_tricky": "Se olvida que el pluscuamperfecto sitúa un hecho antes de otro pasado, y no se sustituye por el pretérito sin cambiar el sentido."
-          },
-          {
-            "sentence": "Este episodio demuestra lo rápido que una simple publicación puede convertirse en un problema para las figuras famosas.",
-            "point": "Estructura 'lo + adjetivo + que'",
-            "explanation": "'Lo rápido que' expresa el grado o la intensidad de algo, equivalente a 'cuán rápido'. El adjetivo concuerda con el sustantivo al que se refiere.",
-            "why_tricky": "Los aprendices suelen decir 'como de rápido' o 'qué rápido'; la forma culta es 'lo rápido que'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "faltar al respeto",
-            "meaning": "to disrespect someone",
-            "example": "Nunca le faltaría al respeto a su jefe."
-          },
-          {
-            "phrase": "hoy en día",
-            "meaning": "nowadays, these days",
-            "example": "Hoy en día casi todos usan el móvil para todo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué se molestaron muchos usuarios argentinos con Rosalía?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué hizo la cantante cuando se dio cuenta del malestar que había causado?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué enseña este episodio sobre el uso de las redes por parte de los famosos?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que las personas famosas deberían tener más cuidado con lo que publican en las redes? Explica tu opinión en un párrafo."
-      }
-    },
-    {
       "pack_id": "feed-2026-07-23-paraguay-salud",
       "title": "Cómo el sistema de salud en Paraguay lleva a los pacientes a endeudarse",
       "source": "BBC Mundo",
@@ -6457,330 +6788,6 @@
           }
         ],
         "opinion_prompt": "¿Estás de acuerdo con prohibir las redes sociales a los menores de quince años? Da dos razones a favor o en contra."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-22-iran-ormuz",
-      "title": "¿Por qué Irán está arriesgando tanto por el estrecho de Ormuz?",
-      "source": "BBC Mundo",
-      "date": "2026-07-22",
-      "level": "B1-B2",
-      "topics": [
-        "geopolítica",
-        "energía"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-22-iran-ormuz",
-        "revision": 1,
-        "meta": {
-          "title": "¿Por qué Irán está arriesgando tanto por el estrecho de Ormuz?",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c70gekd822wo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-22",
-          "date_processed": "2026-07-22",
-          "tags": [
-            "geopolítica",
-            "energía"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Iran is once again at the centre of international attention because of the Strait of Hormuz, a narrow sea route through which a large part of the world's oil flows. Faced with growing pressure, the Iranian leaders are weighing their options, but none seems to offer a clear path to victory. Closing the strait would be a risky move that would hurt both its rivals and its own economy.\n\nThe Strait of Hormuz connects the Persian Gulf with the rest of the world and is key to the energy trade. For that reason, any threat in the area immediately pushes up the price of oil and worries many countries. Analysts warn that an escalation could have unpredictable consequences for the region. Meanwhile, the international powers are following the situation closely and trying to prevent the conflict from spreading even further.",
-        "resumen_es": "Irán vuelve a estar en el centro de la atención internacional por el estrecho de Ormuz, una estrecha vía marítima por la que circula gran parte del petróleo del mundo. Ante la creciente presión, los líderes iraníes estudian sus opciones, pero ninguna parece ofrecer un camino claro hacia la victoria. Cerrar el estrecho sería una medida arriesgada que afectaría tanto a sus rivales como a su propia economía.\n\nEl estrecho de Ormuz conecta el golfo Pérsico con el resto del mundo y resulta clave para el comercio energético. Por eso, cualquier amenaza en la zona hace subir de inmediato el precio del crudo y preocupa a numerosos países. Los analistas advierten de que una escalada podría tener consecuencias imprevisibles para la región. Mientras tanto, las potencias internacionales siguen de cerca la situación e intentan evitar que el conflicto se extienda todavía más.",
-        "vocab": [
-          {
-            "front": "el estrecho",
-            "pos": "noun",
-            "back": "the strait (narrow sea passage)",
-            "example": "El barco cruzó el estrecho por la noche.",
-            "tier": "B1"
-          },
-          {
-            "front": "la vía marítima",
-            "pos": "noun",
-            "back": "sea route, shipping lane",
-            "example": "Es una vía marítima muy transitada.",
-            "tier": "B2"
-          },
-          {
-            "front": "arriesgar",
-            "pos": "verb",
-            "back": "to risk",
-            "example": "No quiero arriesgar mi trabajo por eso.",
-            "tier": "B1"
-          },
-          {
-            "front": "la creciente presión",
-            "pos": "phrase",
-            "back": "the growing pressure",
-            "example": "Cede ante la creciente presión de sus jefes.",
-            "tier": "B2"
-          },
-          {
-            "front": "un camino claro hacia",
-            "pos": "phrase",
-            "back": "a clear path towards",
-            "example": "No hay un camino claro hacia la paz.",
-            "tier": "B2"
-          },
-          {
-            "front": "la medida",
-            "pos": "noun",
-            "back": "the measure, step",
-            "example": "El gobierno tomó una medida urgente.",
-            "tier": "B1"
-          },
-          {
-            "front": "el crudo",
-            "pos": "noun",
-            "back": "crude oil",
-            "example": "El precio del crudo subió otra vez.",
-            "tier": "B2"
-          },
-          {
-            "front": "la escalada",
-            "pos": "noun",
-            "back": "escalation",
-            "example": "Temen una escalada del conflicto.",
-            "tier": "B2"
-          },
-          {
-            "front": "imprevisible",
-            "pos": "adj",
-            "back": "unpredictable",
-            "example": "El clima aquí es muy imprevisible.",
-            "tier": "B2"
-          },
-          {
-            "front": "seguir de cerca",
-            "pos": "phrase",
-            "back": "to follow closely",
-            "example": "Los medios siguen de cerca el caso.",
-            "tier": "B2"
-          },
-          {
-            "front": "resultar clave",
-            "pos": "phrase",
-            "back": "to prove crucial",
-            "example": "Su ayuda resultó clave para ganar.",
-            "tier": "B2"
-          },
-          {
-            "front": "numeroso",
-            "pos": "adj",
-            "back": "numerous, many",
-            "example": "Recibió numerosos mensajes de apoyo.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Cerrar el estrecho sería una medida arriesgada que afectaría tanto a sus rivales como a su propia economía.",
-            "point": "Condicional simple (sería, afectaría)",
-            "explanation": "El condicional expresa una situación hipotética: qué pasaría si se cerrara el estrecho.",
-            "why_tricky": "Se usa sin 'si' explícito; la hipótesis está implícita en el infinitivo 'cerrar' como sujeto."
-          },
-          {
-            "sentence": "cualquier amenaza en la zona hace subir de inmediato el precio del crudo",
-            "point": "'Hacer' + infinitivo (causativo)",
-            "explanation": "'Hacer subir' significa provocar que algo suba; hacer + infinitivo expresa causa.",
-            "why_tricky": "No se traduce literalmente al inglés: 'makes the price go up', no 'makes to go up'."
-          },
-          {
-            "sentence": "Los analistas advierten de que una escalada podría tener consecuencias imprevisibles para la región.",
-            "point": "'Advertir de que' + condicional 'podría'",
-            "explanation": "'Advertir de que' introduce una advertencia; 'podría' expresa posibilidad.",
-            "why_tricky": "La preposición 'de' es frecuente pero muchos estudiantes la omiten."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "bajar la guardia",
-            "meaning": "to let one's guard down",
-            "example": "Vamos ganando, pero no podemos bajar la guardia."
-          },
-          {
-            "phrase": "seguir de cerca",
-            "meaning": "to monitor closely",
-            "example": "El médico sigue de cerca su recuperación."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué es tan importante el estrecho de Ormuz para el mundo?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué riesgos tendría para Irán cerrar el estrecho?",
-            "type": "open"
-          },
-          {
-            "q": "¿Cómo reaccionan las potencias internacionales ante la situación?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que los países deberían depender tanto del petróleo? Escribe un párrafo con tu opinión y tus razones."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-22-amazonia-incendios",
-      "title": "Brasil: Los incendios en la Amazonía cayeron a su mínimo histórico en 2025",
-      "source": "RFI Español",
-      "date": "2026-07-22",
-      "level": "B1-B2",
-      "topics": [
-        "medioambiente",
-        "Brasil"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-22-amazonia-incendios",
-        "revision": 1,
-        "meta": {
-          "title": "Brasil: Los incendios en la Amazonía cayeron a su mínimo histórico en 2025",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260721-brasil-los-incendios-en-la-amazon%C3%ADa-cayeron-a-su-m%C3%ADnimo-hist%C3%B3rico-en-2025",
-          "date_published": "2026-07-22",
-          "date_processed": "2026-07-22",
-          "tags": [
-            "medioambiente",
-            "Brasil"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Fires in the Brazilian Amazon fell to their lowest level on record during 2025, according to the latest official data. It is a notable change, since in 2024 the region had reached its worst figure ever. This improvement has been welcomed with relief by the authorities and by the organisations that defend the environment.\n\nExperts attribute this drop to a combination of factors, among them more favourable weather conditions and greater control on the part of the Government. Even so, they warn that the rainforest is still fragile and that it is not wise to let one's guard down. The Amazon plays a fundamental role in regulating the world's climate, so its protection remains a priority for many countries. The challenge now is to maintain this positive trend in the coming years.",
-        "resumen_es": "Los incendios en la Amazonía brasileña cayeron a su mínimo histórico durante el año 2025, según los últimos datos oficiales. Se trata de un cambio notable, ya que en 2024 la región había alcanzado su peor registro. Esta mejora ha sido recibida con alivio por las autoridades y por las organizaciones que defienden el medio ambiente.\n\nLos expertos atribuyen este descenso a una combinación de factores, entre ellos las condiciones climáticas más favorables y un mayor control por parte del Gobierno. Aun así, advierten de que la selva sigue siendo frágil y que no conviene bajar la guardia. La Amazonía cumple un papel fundamental en la regulación del clima mundial, por lo que su protección continúa siendo una prioridad para muchos países. El reto ahora consiste en mantener esta tendencia positiva en los próximos años.",
-        "vocab": [
-          {
-            "front": "el incendio",
-            "pos": "noun",
-            "back": "fire (large, destructive)",
-            "example": "El incendio arrasó cientos de hectáreas.",
-            "tier": "B1"
-          },
-          {
-            "front": "el mínimo histórico",
-            "pos": "phrase",
-            "back": "record low",
-            "example": "El paro cayó a su mínimo histórico.",
-            "tier": "B2"
-          },
-          {
-            "front": "el registro",
-            "pos": "noun",
-            "back": "record, reading (of data)",
-            "example": "Fue el peor registro de la década.",
-            "tier": "B2"
-          },
-          {
-            "front": "el alivio",
-            "pos": "noun",
-            "back": "relief",
-            "example": "Sentí un gran alivio al saber la noticia.",
-            "tier": "B1"
-          },
-          {
-            "front": "atribuir",
-            "pos": "verb",
-            "back": "to attribute",
-            "example": "Atribuyen el éxito al esfuerzo del equipo.",
-            "tier": "B2"
-          },
-          {
-            "front": "el descenso",
-            "pos": "noun",
-            "back": "decrease, drop",
-            "example": "Se observa un descenso de las ventas.",
-            "tier": "B1"
-          },
-          {
-            "front": "frágil",
-            "pos": "adj",
-            "back": "fragile",
-            "example": "El ecosistema es muy frágil.",
-            "tier": "B1"
-          },
-          {
-            "front": "cumplir un papel",
-            "pos": "phrase",
-            "back": "to play a role",
-            "example": "La familia cumple un papel clave en su vida.",
-            "tier": "B2"
-          },
-          {
-            "front": "la selva",
-            "pos": "noun",
-            "back": "jungle, rainforest",
-            "example": "La selva amazónica es enorme.",
-            "tier": "B1"
-          },
-          {
-            "front": "el reto",
-            "pos": "noun",
-            "back": "challenge",
-            "example": "Aprender chino es un gran reto.",
-            "tier": "B1"
-          },
-          {
-            "front": "la tendencia",
-            "pos": "noun",
-            "back": "trend",
-            "example": "Hay una tendencia a comer más sano.",
-            "tier": "B1"
-          },
-          {
-            "front": "por parte de",
-            "pos": "phrase",
-            "back": "on the part of, by",
-            "example": "Hubo poco interés por parte del público.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Se trata de un cambio notable, ya que en 2024 la región había alcanzado su peor registro.",
-            "point": "Pluscuamperfecto (había alcanzado)",
-            "explanation": "El pluscuamperfecto sitúa una acción anterior a otra acción pasada.",
-            "why_tricky": "Combina 'haber' en imperfecto más participio; hay que distinguirlo del pretérito."
-          },
-          {
-            "sentence": "Esta mejora ha sido recibida con alivio por las autoridades y por las organizaciones que defienden el medio ambiente.",
-            "point": "Voz pasiva (ha sido recibida)",
-            "explanation": "La pasiva con 'ser' más participio destaca la acción; el agente aparece con 'por'.",
-            "why_tricky": "El participio 'recibida' concuerda en género y número con 'mejora'."
-          },
-          {
-            "sentence": "La Amazonía cumple un papel fundamental en la regulación del clima mundial, por lo que su protección continúa siendo una prioridad para muchos países.",
-            "point": "Conector 'por lo que' (consecuencia)",
-            "explanation": "'Por lo que' introduce una consecuencia lógica de lo dicho antes.",
-            "why_tricky": "Se confunde con 'por lo cual' o 'por eso'; aquí une causa y efecto."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "bajar la guardia",
-            "meaning": "to become less careful or watchful",
-            "example": "El equipo bajó la guardia y encajó un gol."
-          },
-          {
-            "phrase": "recibir con alivio",
-            "meaning": "to welcome with relief",
-            "example": "La familia recibió la noticia con alivio."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué diferencia hay entre los incendios de 2024 y los de 2025?",
-            "type": "open"
-          },
-          {
-            "q": "¿A qué factores atribuyen los expertos el descenso?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué es importante proteger la Amazonía según el texto?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Qué medidas crees que son más eficaces para proteger los bosques? Explica tu punto de vista."
       }
     }
   ]
