@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T20:15:19Z",
+  "generated_at": "2026-07-30T20:22:02Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
     {
@@ -14,7 +14,7 @@
       ],
       "pack": {
         "pack_id": "feed-2026-07-30-rosalia-argentina",
-        "revision": 1,
+        "revision": 2,
         "meta": {
           "title": "La cantante Rosalía pide perdón tras compartir en sus redes un video considerado ofensivo en Argentina después de la final del Mundial",
           "source": "BBC Mundo",
@@ -27,14 +27,14 @@
           ],
           "level": "B1-B2"
         },
-        "summary_en": "The Spanish singer Rosalia has apologised after sharing on her social media a video that many Argentine users considered offensive. The post appeared shortly after the World Cup final, in which Spain beat Argentina, and so the gesture was read as a mockery of the rival team. Within hours, the video went viral and set off a heated controversy among her followers.\n\nFaced with the criticism, the artist deleted the content and posted a message in which she admitted her mistake and clarified that she had not meant to upset anyone. This episode shows how far sporting rivalries can spread to social media and affect even very well known figures. For many, the case confirms that, in the digital age, a simple post made without thinking can turn into a far reaching problem.",
-        "resumen_es": "La cantante espanola Rosalia ha pedido perdon despues de compartir en sus redes sociales un video que muchos usuarios argentinos consideraron ofensivo. La publicacion aparecio poco despues de la final del Mundial, en la que Espana vencio a Argentina, y por eso el gesto se interpreto como una burla hacia el equipo rival. En cuestion de horas, el video se volvio viral y desato una fuerte polemica entre sus seguidores.\n\nAnte las criticas, la artista borro el contenido y publico un mensaje en el que reconocia su error y aclaraba que no habia querido molestar a nadie. Este episodio muestra hasta que punto las rivalidades deportivas pueden trasladarse a las redes y afectar incluso a figuras muy conocidas. Para muchos, el caso confirma que, en la era digital, una simple publicacion hecha sin pensar puede convertirse en un problema de gran alcance.",
+        "summary_en": "The Spanish singer Rosalía has apologised after sharing on her social media a video that many Argentine users considered offensive. The post appeared shortly after the World Cup final, in which Spain beat Argentina, and so the gesture was read as a mockery of the rival team. Within hours, the video went viral and set off a heated controversy among her followers.\n\nFaced with the criticism, the artist deleted the content and posted a message in which she admitted her mistake and clarified that she had not meant to upset anyone. This episode shows how far sporting rivalries can spread to social media and affect even very well known figures. For many, the case confirms that, in the digital age, a simple post made without thinking can turn into a far reaching problem.",
+        "resumen_es": "La cantante española Rosalía ha pedido perdón después de compartir en sus redes sociales un video que muchos usuarios argentinos consideraron ofensivo. La publicación apareció poco después de la final del Mundial, en la que España venció a Argentina, y por eso el gesto se interpretó como una burla hacia el equipo rival. En cuestión de horas, el video se volvió viral y desató una fuerte polémica entre sus seguidores.\n\nAnte las críticas, la artista borró el contenido y publicó un mensaje en el que reconocía su error y aclaraba que no había querido molestar a nadie. Este episodio muestra hasta qué punto las rivalidades deportivas pueden trasladarse a las redes y afectar incluso a figuras muy conocidas. Para muchos, el caso confirma que, en la era digital, una simple publicación hecha sin pensar puede convertirse en un problema de gran alcance.",
         "vocab": [
           {
-            "front": "pedir perdon",
+            "front": "pedir perdón",
             "pos": "phrase",
             "back": "to apologise",
-            "example": "Rosalia tuvo que pedir perdon por el video.",
+            "example": "Rosalía tuvo que pedir perdón por el video.",
             "tier": "B1"
           },
           {
@@ -55,125 +55,125 @@
             "front": "burla",
             "pos": "noun",
             "back": "mockery, taunt",
-            "example": "El chiste sono como una burla.",
+            "example": "El chiste sonó como una burla.",
             "tier": "B2"
           },
           {
             "front": "volverse viral",
             "pos": "phrase",
             "back": "to go viral",
-            "example": "El video se volvio viral en una noche.",
+            "example": "El video se volvió viral en una noche.",
             "tier": "B1"
           },
           {
             "front": "desatar",
             "pos": "verb",
             "back": "to unleash, set off",
-            "example": "La noticia desato una fuerte polemica.",
+            "example": "La noticia desató una fuerte polémica.",
             "tier": "B2"
           },
           {
-            "front": "polemica",
+            "front": "polémica",
             "pos": "noun",
             "back": "controversy",
-            "example": "Su decision genero mucha polemica.",
+            "example": "Su decisión generó mucha polémica.",
             "tier": "B1"
           },
           {
             "front": "borrar",
             "pos": "verb",
             "back": "to delete",
-            "example": "Decidio borrar la publicacion.",
+            "example": "Decidió borrar la publicación.",
             "tier": "B1"
           },
           {
             "front": "reconocer un error",
             "pos": "verb",
             "back": "to admit a mistake",
-            "example": "Es dificil reconocer un error en publico.",
+            "example": "Es difícil reconocer un error en público.",
             "tier": "B1"
           },
           {
             "front": "trasladarse",
             "pos": "verb",
             "back": "to move, spread to",
-            "example": "El debate se traslado a las redes.",
+            "example": "El debate se trasladó a las redes.",
             "tier": "B2"
           },
           {
             "front": "de gran alcance",
             "pos": "phrase",
             "back": "far-reaching",
-            "example": "Fue una decision de gran alcance.",
+            "example": "Fue una decisión de gran alcance.",
             "tier": "B2"
           },
           {
             "front": "figura conocida",
             "pos": "phrase",
             "back": "well-known figure",
-            "example": "Es una figura muy conocida en el pais.",
+            "example": "Es una figura muy conocida en el país.",
             "tier": "B1"
           },
           {
             "front": "rivalidad",
             "pos": "noun",
             "back": "rivalry",
-            "example": "La rivalidad entre los dos equipos es historica.",
+            "example": "La rivalidad entre los dos equipos es histórica.",
             "tier": "B1"
           }
         ],
         "grammar": [
           {
-            "sentence": "En cuestion de horas, el video se volvio viral y desato una fuerte polemica entre sus seguidores.",
+            "sentence": "En cuestión de horas, el video se volvió viral y desató una fuerte polémica entre sus seguidores.",
             "point": "Verbos de cambio: volverse + adjetivo",
-            "explanation": "'Volverse' expresa un cambio de estado bastante rapido o involuntario. Aqui 'se volvio viral' indica que el video paso a estar en esa situacion.",
-            "why_tricky": "El ingles usa un solo verbo ('to go/become'), pero el espanol elige entre volverse, hacerse, ponerse o quedarse segun el matiz."
+            "explanation": "'Volverse' expresa un cambio de estado bastante rápido o involuntario. Aquí 'se volvió viral' indica que el video pasó a estar en esa situación.",
+            "why_tricky": "El inglés usa un solo verbo ('to go/become'), pero el español elige entre volverse, hacerse, ponerse o quedarse según el matiz."
           },
           {
-            "sentence": "Ante las criticas, la artista borro el contenido y publico un mensaje en el que reconocia su error y aclaraba que no habia querido molestar a nadie.",
-            "point": "Pluscuamperfecto e imperfecto en la narracion",
-            "explanation": "'Borro' y 'publico' (indefinido) marcan acciones puntuales; 'reconocia' y 'aclaraba' (imperfecto) describen; 'habia querido' (pluscuamperfecto) senala algo anterior a esas acciones.",
-            "why_tricky": "Combinar tres tiempos del pasado en una sola frase exige tener clara la linea temporal de los hechos."
+            "sentence": "Ante las críticas, la artista borró el contenido y publicó un mensaje en el que reconocía su error y aclaraba que no había querido molestar a nadie.",
+            "point": "Pluscuamperfecto e imperfecto en la narración",
+            "explanation": "'Borró' y 'publicó' (indefinido) marcan acciones puntuales; 'reconocía' y 'aclaraba' (imperfecto) describen; 'había querido' (pluscuamperfecto) señala algo anterior a esas acciones.",
+            "why_tricky": "Combinar tres tiempos del pasado en una sola frase exige tener clara la línea temporal de los hechos."
           },
           {
-            "sentence": "Para muchos, el caso confirma que, en la era digital, una simple publicacion hecha sin pensar puede convertirse en un problema de gran alcance.",
+            "sentence": "Para muchos, el caso confirma que, en la era digital, una simple publicación hecha sin pensar puede convertirse en un problema de gran alcance.",
             "point": "sin + infinitivo",
-            "explanation": "'Sin pensar' equivale a 'without thinking'. La estructura 'sin + infinitivo' funciona como complemento y describe el modo de la accion.",
-            "why_tricky": "Los estudiantes tienden a poner un gerundio ('sin pensando'), que es incorrecto en espanol."
+            "explanation": "'Sin pensar' equivale a 'without thinking'. La estructura 'sin + infinitivo' funciona como complemento y describe el modo de la acción.",
+            "why_tricky": "Los estudiantes tienden a poner un gerundio ('sin pensando'), que es incorrecto en español."
           }
         ],
         "idioms": [
           {
-            "phrase": "en cuestion de horas",
+            "phrase": "en cuestión de horas",
             "meaning": "in a matter of hours, very quickly",
-            "example": "La foto se difundio en cuestion de horas."
+            "example": "La foto se difundió en cuestión de horas."
           },
           {
             "phrase": "sin pensar",
             "meaning": "without thinking, impulsively",
-            "example": "Escribio el mensaje sin pensar y luego se arrepintio."
+            "example": "Escribió el mensaje sin pensar y luego se arrepintió."
           }
         ],
         "comprehension": [
           {
-            "q": "Por que muchos usuarios argentinos consideraron ofensivo el video de Rosalia?",
+            "q": "¿Por qué muchos usuarios argentinos consideraron ofensivo el video de Rosalía?",
             "type": "open"
           },
           {
-            "q": "Como reacciono la cantante ante las criticas?",
+            "q": "¿Cómo reaccionó la cantante ante las críticas?",
             "type": "open"
           },
           {
-            "q": "Segun el texto, que demuestra este episodio sobre las redes sociales?",
+            "q": "Según el texto, ¿qué demuestra este episodio sobre las redes sociales?",
             "type": "open"
           }
         ],
-        "opinion_prompt": "Crees que las figuras publicas deberian tener mas cuidado con lo que publican en redes sociales? Escribe un parrafo con tu opinion y un ejemplo."
+        "opinion_prompt": "¿Crees que las figuras públicas deberían tener más cuidado con lo que publican en redes sociales? Escribe un párrafo con tu opinión y un ejemplo."
       }
     },
     {
       "pack_id": "feed-2026-07-30-actriz-godzilla",
-      "title": "Kaylee Hottle: muere la actriz de \"Godzilla vs. Kong\" a los 18 anos",
+      "title": "Kaylee Hottle: muere la actriz de \"Godzilla vs. Kong\" a los 18 años",
       "source": "BBC Mundo",
       "date": "2026-07-30",
       "level": "B1-B2",
@@ -183,9 +183,9 @@
       ],
       "pack": {
         "pack_id": "feed-2026-07-30-actriz-godzilla",
-        "revision": 1,
+        "revision": 2,
         "meta": {
-          "title": "Kaylee Hottle: muere la actriz de \"Godzilla vs. Kong\" a los 18 anos",
+          "title": "Kaylee Hottle: muere la actriz de \"Godzilla vs. Kong\" a los 18 años",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c8enw5668l6o?at_medium=RSS&at_campaign=rss",
           "date_published": "2026-07-30",
@@ -197,13 +197,13 @@
           "level": "B1-B2"
         },
         "summary_en": "The American actress Kaylee Hottle has died at the age of eighteen, as several media outlets have confirmed. The young woman, who was deaf, became known for her role in the film 'Godzilla vs. Kong', released in 2021, and in its 2024 sequel. In both films she played Jia, an orphaned girl who formed a very special bond with the giant ape and who used sign language to communicate.\n\nHer performance was widely praised because it gave visibility to the deaf community within commercial cinema. Cast members and fans have expressed their sadness on social media and remembered her talent and her warmth. Although her career was short, many believe that Hottle opened an important door so that more actors with disabilities can reach big productions. For now, her family has not given details about the causes of her death.",
-        "resumen_es": "La actriz estadounidense Kaylee Hottle ha muerto a los dieciocho anos, segun confirmaron varios medios de comunicacion. La joven, que era sorda, se hizo conocida por su papel en la pelicula 'Godzilla vs. Kong', estrenada en 2021, y en su secuela de 2024. En ambas cintas interpreto a Jia, una nina huerfana que establecia un vinculo muy especial con el gigantesco simio y que usaba la lengua de senas para comunicarse.\n\nSu interpretacion fue muy elogiada porque dio visibilidad a la comunidad sorda dentro del cine comercial. Companeros de reparto y aficionados han expresado su tristeza en las redes y han recordado su talento y su simpatia. Aunque su carrera fue breve, muchos consideran que Hottle abrio una puerta importante para que mas actores con discapacidad puedan acceder a grandes producciones. Por ahora, su familia no ha dado detalles sobre las causas de su fallecimiento.",
+        "resumen_es": "La actriz estadounidense Kaylee Hottle ha muerto a los dieciocho años, según confirmaron varios medios de comunicación. La joven, que era sorda, se hizo conocida por su papel en la película 'Godzilla vs. Kong', estrenada en 2021, y en su secuela de 2024. En ambas cintas interpretó a Jia, una niña huérfana que establecía un vínculo muy especial con el gigantesco simio y que usaba la lengua de señas para comunicarse.\n\nSu interpretación fue muy elogiada porque dio visibilidad a la comunidad sorda dentro del cine comercial. Compañeros de reparto y aficionados han expresado su tristeza en las redes y han recordado su talento y su simpatía. Aunque su carrera fue breve, muchos consideran que Hottle abrió una puerta importante para que más actores con discapacidad puedan acceder a grandes producciones. Por ahora, su familia no ha dado detalles sobre las causas de su fallecimiento.",
         "vocab": [
           {
             "front": "actriz",
             "pos": "noun",
             "back": "actress",
-            "example": "La actriz recibio muchos premios.",
+            "example": "La actriz recibió muchos premios.",
             "tier": "B1"
           },
           {
@@ -224,49 +224,49 @@
             "front": "papel",
             "pos": "noun",
             "back": "role (in a film)",
-            "example": "Consiguio su primer papel a los diez anos.",
+            "example": "Consiguió su primer papel a los diez años.",
             "tier": "B1"
           },
           {
             "front": "estrenar",
             "pos": "verb",
             "back": "to release, premiere",
-            "example": "La pelicula se estreno el ano pasado.",
+            "example": "La película se estrenó el año pasado.",
             "tier": "B2"
           },
           {
             "front": "secuela",
             "pos": "noun",
             "back": "sequel",
-            "example": "La secuela supero a la primera parte.",
+            "example": "La secuela superó a la primera parte.",
             "tier": "B1"
           },
           {
-            "front": "huerfano/a",
+            "front": "huérfano/a",
             "pos": "noun",
             "back": "orphan(ed)",
-            "example": "El personaje era una nina huerfana.",
+            "example": "El personaje era una niña huérfana.",
             "tier": "B2"
           },
           {
-            "front": "vinculo",
+            "front": "vínculo",
             "pos": "noun",
             "back": "bond, link",
-            "example": "Crearon un vinculo muy fuerte.",
+            "example": "Crearon un vínculo muy fuerte.",
             "tier": "B2"
           },
           {
-            "front": "lengua de senas",
+            "front": "lengua de señas",
             "pos": "phrase",
             "back": "sign language",
-            "example": "Aprendio la lengua de senas de pequena.",
+            "example": "Aprendió la lengua de señas de pequeña.",
             "tier": "B1"
           },
           {
             "front": "elogiar",
             "pos": "verb",
             "back": "to praise",
-            "example": "La critica elogio su actuacion.",
+            "example": "La crítica elogió su actuación.",
             "tier": "B2"
           },
           {
@@ -277,10 +277,10 @@
             "tier": "B2"
           },
           {
-            "front": "companero de reparto",
+            "front": "compañero de reparto",
             "pos": "phrase",
             "back": "cast member",
-            "example": "Sus companeros de reparto la recordaron.",
+            "example": "Sus compañeros de reparto la recordaron.",
             "tier": "B2"
           },
           {
@@ -294,62 +294,62 @@
             "front": "fallecimiento",
             "pos": "noun",
             "back": "passing, death",
-            "example": "La familia comunico su fallecimiento.",
+            "example": "La familia comunicó su fallecimiento.",
             "tier": "B2"
           }
         ],
         "grammar": [
           {
-            "sentence": "Su interpretacion fue muy elogiada porque dio visibilidad a la comunidad sorda dentro del cine comercial.",
+            "sentence": "Su interpretación fue muy elogiada porque dio visibilidad a la comunidad sorda dentro del cine comercial.",
             "point": "Voz pasiva con ser + participio",
-            "explanation": "'Fue elogiada' es una pasiva formada con 'ser' + participio, que concuerda en genero y numero con el sujeto ('interpretacion').",
-            "why_tricky": "El participio debe concordar (elogiada, no elogiado), algo que el ingles no exige."
+            "explanation": "'Fue elogiada' es una pasiva formada con 'ser' + participio, que concuerda en género y número con el sujeto ('interpretación').",
+            "why_tricky": "El participio debe concordar (elogiada, no elogiado), algo que el inglés no exige."
           },
           {
-            "sentence": "Aunque su carrera fue breve, muchos consideran que Hottle abrio una puerta importante para que mas actores con discapacidad puedan acceder a grandes producciones.",
+            "sentence": "Aunque su carrera fue breve, muchos consideran que Hottle abrió una puerta importante para que más actores con discapacidad puedan acceder a grandes producciones.",
             "point": "para que + subjuntivo",
             "explanation": "Cuando 'para que' introduce una finalidad con un sujeto distinto, el verbo va en subjuntivo: 'puedan'.",
-            "why_tricky": "Si el sujeto fuera el mismo se usaria 'para + infinitivo'; el cambio de sujeto obliga al subjuntivo."
+            "why_tricky": "Si el sujeto fuera el mismo se usaría 'para + infinitivo'; el cambio de sujeto obliga al subjuntivo."
           },
           {
             "sentence": "Por ahora, su familia no ha dado detalles sobre las causas de su fallecimiento.",
-            "point": "Preterito perfecto (ha dado)",
-            "explanation": "'Ha dado' conecta un hecho pasado con el presente: hasta ahora no hay informacion.",
-            "why_tricky": "En muchas variedades de America se preferiria el indefinido ('no dio'), pero aqui el perfecto marca relevancia actual."
+            "point": "Pretérito perfecto (ha dado)",
+            "explanation": "'Ha dado' conecta un hecho pasado con el presente: hasta ahora no hay información.",
+            "why_tricky": "En muchas variedades de América se preferiría el indefinido ('no dio'), pero aquí el perfecto marca relevancia actual."
           }
         ],
         "idioms": [
           {
             "phrase": "abrir una puerta",
             "meaning": "to open a door, create an opportunity",
-            "example": "Ese papel le abrio una puerta en Hollywood."
+            "example": "Ese papel le abrió una puerta en Hollywood."
           },
           {
             "phrase": "por ahora",
             "meaning": "for now, for the time being",
-            "example": "Por ahora no hay mas informacion."
+            "example": "Por ahora no hay más información."
           }
         ],
         "comprehension": [
           {
-            "q": "Por que se hizo conocida Kaylee Hottle?",
+            "q": "¿Por qué se hizo conocida Kaylee Hottle?",
             "type": "open"
           },
           {
-            "q": "Que papel interpreto en 'Godzilla vs. Kong' y que tenia de especial?",
+            "q": "¿Qué papel interpretó en 'Godzilla vs. Kong' y qué tenía de especial?",
             "type": "open"
           },
           {
-            "q": "Por que muchos consideran importante su interpretacion para la comunidad sorda?",
+            "q": "¿Por qué muchos consideran importante su interpretación para la comunidad sorda?",
             "type": "open"
           }
         ],
-        "opinion_prompt": "Crees que el cine deberia incluir a mas actores con discapacidad? Explica tu opinion en un breve texto."
+        "opinion_prompt": "¿Crees que el cine debería incluir a más actores con discapacidad? Explica tu opinión en un breve texto."
       }
     },
     {
       "pack_id": "feed-2026-07-30-huties-mar-rojo",
-      "title": "Los huties de Yemen afirman haber atacado petroleros en el mar Rojo luego de anunciar un \"embargo maritimo\"",
+      "title": "Los hutíes de Yemen afirman haber atacado petroleros en el mar Rojo luego de anunciar un \"embargo marítimo\"",
       "source": "BBC Mundo",
       "date": "2026-07-30",
       "level": "B1-B2",
@@ -359,9 +359,9 @@
       ],
       "pack": {
         "pack_id": "feed-2026-07-30-huties-mar-rojo",
-        "revision": 1,
+        "revision": 2,
         "meta": {
-          "title": "Los huties de Yemen afirman haber atacado petroleros en el mar Rojo luego de anunciar un \"embargo maritimo\"",
+          "title": "Los hutíes de Yemen afirman haber atacado petroleros en el mar Rojo luego de anunciar un \"embargo marítimo\"",
           "source": "BBC Mundo",
           "url": "https://www.bbc.com/mundo/articles/c4g3x93l39po?at_medium=RSS&at_campaign=rss",
           "date_published": "2026-07-30",
@@ -373,7 +373,7 @@
           "level": "B1-B2"
         },
         "summary_en": "The Houthis of Yemen claim to have attacked several oil tankers in the Red Sea, after announcing what they call a 'maritime embargo'. According to a spokesperson for the group, the ships were hit for violating the naval blockade that the movement is trying to impose in the area. The Red Sea is one of the most important trade routes in the world, and any attack in those waters raises concern about the price of oil and the safety of navigation.\n\nThese incidents come amid strong tension in the region. At the same time, Iranian state media reported the death of two people in alleged American attacks. Many analysts warn that the situation could worsen if the powers involved fail to reduce the escalation. For their part, several shipping companies are already studying alternative routes to avoid the area, although that makes transport more expensive.",
-        "resumen_es": "Los huties de Yemen afirman haber atacado varios petroleros en el mar Rojo, despues de anunciar lo que ellos llaman un 'embargo maritimo'. Segun un portavoz del grupo, los buques fueron alcanzados por violar el bloqueo naval que el movimiento intenta imponer en la zona. El mar Rojo es una de las rutas comerciales mas importantes del mundo, y cualquier ataque en esas aguas genera preocupacion por el precio del petroleo y la seguridad de la navegacion.\n\nEstos incidentes se producen en un contexto de fuerte tension en la region. Al mismo tiempo, medios estatales iranies informaron de la muerte de dos personas en supuestos ataques estadounidenses. Muchos analistas advierten de que la situacion podria agravarse si las potencias implicadas no logran reducir la escalada. Por su parte, varias companias navieras ya estudian rutas alternativas para evitar la zona, aunque eso encarece el transporte.",
+        "resumen_es": "Los hutíes de Yemen afirman haber atacado varios petroleros en el mar Rojo, después de anunciar lo que ellos llaman un 'embargo marítimo'. Según un portavoz del grupo, los buques fueron alcanzados por violar el bloqueo naval que el movimiento intenta imponer en la zona. El mar Rojo es una de las rutas comerciales más importantes del mundo, y cualquier ataque en esas aguas genera preocupación por el precio del petróleo y la seguridad de la navegación.\n\nEstos incidentes se producen en un contexto de fuerte tensión en la región. Al mismo tiempo, medios estatales iraníes informaron de la muerte de dos personas en supuestos ataques estadounidenses. Muchos analistas advierten de que la situación podría agravarse si las potencias implicadas no logran reducir la escalada. Por su parte, varias compañías navieras ya estudian rutas alternativas para evitar la zona, aunque eso encarece el transporte.",
         "vocab": [
           {
             "front": "petrolero",
@@ -386,7 +386,7 @@
             "front": "buque",
             "pos": "noun",
             "back": "ship, vessel",
-            "example": "El buque cambio de rumbo.",
+            "example": "El buque cambió de rumbo.",
             "tier": "B2"
           },
           {
@@ -400,7 +400,7 @@
             "front": "portavoz",
             "pos": "noun",
             "back": "spokesperson",
-            "example": "El portavoz nego las acusaciones.",
+            "example": "El portavoz negó las acusaciones.",
             "tier": "B1"
           },
           {
@@ -421,7 +421,7 @@
             "front": "agravarse",
             "pos": "verb",
             "back": "to worsen",
-            "example": "El conflicto podria agravarse.",
+            "example": "El conflicto podría agravarse.",
             "tier": "B2"
           },
           {
@@ -442,7 +442,7 @@
             "front": "naviero/a",
             "pos": "adj",
             "back": "shipping (related)",
-            "example": "Las companias navieras cambiaron de ruta.",
+            "example": "Las compañías navieras cambiaron de ruta.",
             "tier": "C1"
           },
           {
@@ -462,29 +462,29 @@
         ],
         "grammar": [
           {
-            "sentence": "Segun un portavoz del grupo, los buques fueron alcanzados por violar el bloqueo naval que el movimiento intenta imponer en la zona.",
+            "sentence": "Según un portavoz del grupo, los buques fueron alcanzados por violar el bloqueo naval que el movimiento intenta imponer en la zona.",
             "point": "Voz pasiva con ser (fueron alcanzados)",
-            "explanation": "'Fueron alcanzados' es una pasiva de accion; el participio concuerda con 'los buques' (masculino plural).",
-            "why_tricky": "El espanol prefiere a menudo la pasiva refleja ('se alcanzaron'), asi que la pasiva con ser suena mas formal o periodistica."
+            "explanation": "'Fueron alcanzados' es una pasiva de acción; el participio concuerda con 'los buques' (masculino plural).",
+            "why_tricky": "El español prefiere a menudo la pasiva refleja ('se alcanzaron'), así que la pasiva con ser suena más formal o periodística."
           },
           {
-            "sentence": "Muchos analistas advierten de que la situacion podria agravarse si las potencias implicadas no logran reducir la escalada.",
-            "point": "Condicional (podria) con clausula con si",
-            "explanation": "'Podria agravarse' expresa una posibilidad; la condicion va en presente de indicativo ('no logran').",
-            "why_tricky": "Es una condicional real, por lo que NO se usa subjuntivo despues de 'si' (no 'si no lograran')."
+            "sentence": "Muchos analistas advierten de que la situación podría agravarse si las potencias implicadas no logran reducir la escalada.",
+            "point": "Condicional (podría) con cláusula con si",
+            "explanation": "'Podría agravarse' expresa una posibilidad; la condición va en presente de indicativo ('no logran').",
+            "why_tricky": "Es una condicional real, por lo que NO se usa subjuntivo después de 'si' (no 'si no lograran')."
           },
           {
-            "sentence": "Por su parte, varias companias navieras ya estudian rutas alternativas para evitar la zona, aunque eso encarece el transporte.",
+            "sentence": "Por su parte, varias compañías navieras ya estudian rutas alternativas para evitar la zona, aunque eso encarece el transporte.",
             "point": "aunque + indicativo",
-            "explanation": "Aqui 'aunque' introduce un hecho real y comprobado, por lo que va con indicativo ('encarece').",
-            "why_tricky": "'Aunque' puede llevar indicativo (hecho) o subjuntivo (hipotesis); elegir mal cambia el sentido."
+            "explanation": "Aquí 'aunque' introduce un hecho real y comprobado, por lo que va con indicativo ('encarece').",
+            "why_tricky": "'Aunque' puede llevar indicativo (hecho) o subjuntivo (hipótesis); elegir mal cambia el sentido."
           }
         ],
         "idioms": [
           {
             "phrase": "por su parte",
             "meaning": "for its/their part, meanwhile",
-            "example": "Por su parte, el gobierno guardo silencio."
+            "example": "Por su parte, el gobierno guardó silencio."
           },
           {
             "phrase": "al mismo tiempo",
@@ -494,19 +494,19 @@
         ],
         "comprehension": [
           {
-            "q": "Por que afirman los huties que atacaron los petroleros?",
+            "q": "¿Por qué afirman los hutíes que atacaron los petroleros?",
             "type": "open"
           },
           {
-            "q": "Por que es tan importante el mar Rojo para el comercio mundial?",
+            "q": "¿Por qué es tan importante el mar Rojo para el comercio mundial?",
             "type": "open"
           },
           {
-            "q": "Que medidas estan tomando las companias navieras y que consecuencias tienen?",
+            "q": "¿Qué medidas están tomando las compañías navieras y qué consecuencias tienen?",
             "type": "open"
           }
         ],
-        "opinion_prompt": "Que crees que deberian hacer los paises para proteger las rutas comerciales internacionales? Da tu opinion con argumentos."
+        "opinion_prompt": "¿Qué crees que deberían hacer los países para proteger las rutas comerciales internacionales? Da tu opinión con argumentos."
       }
     },
     {
