@@ -1,7 +1,493 @@
 {
- "generated_at": "2026-07-31T20:11:49Z",
+ "generated_at": "2026-08-01T08:15:24Z",
  "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-08-01-milei-grillete-fiscal",
+   "title": "Qué es el \"grillete fiscal\" y otras reformas que impulsa Milei para blindar su proyecto económico en Argentina",
+   "source": "BBC Mundo",
+   "date": "2026-07-31",
+   "level": "B1-B2",
+   "topics": [
+    "Argentina",
+    "economía"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-01-milei-grillete-fiscal",
+    "revision": 1,
+    "meta": {
+     "title": "Qué es el \"grillete fiscal\" y otras reformas que impulsa Milei para blindar su proyecto económico en Argentina",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/c62908n3zd7o?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-07-31",
+     "date_processed": "2026-08-01",
+     "tags": [
+      "Argentina",
+      "economía"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "Argentina's president, Javier Milei, has presented a package of economic reforms with which he aims to protect his government project. Among the measures, the so called 'fiscal shackle' stands out, an initiative that would force the State to shut down certain activities if the deficit continues for a prolonged period. The plan also includes a reform of the Central Bank, with which the president intends to reinforce discipline in the public accounts and curb spending.\n\nThese proposals are part of Milei's strategy to consolidate the austerity that has defined his time in office. His supporters argue that stricter rules would bring stability and confidence to the markets. His critics, on the other hand, warn that tying the State's hands could leave future governments without room to move and harm public services. In the coming months, the debate in Congress and society's reaction will determine to what extent these reforms manage to move forward.",
+    "resumen_es": "El presidente de Argentina, Javier Milei, presentó un paquete de reformas económicas con el que busca blindar su proyecto de gobierno. Entre las medidas destaca el llamado 'grillete fiscal', una iniciativa que obligaría al Estado a cerrar ciertas actividades si el déficit se mantiene durante un periodo prolongado. El plan también contempla una reforma del Banco Central, con la que pretende reforzar la disciplina en las cuentas públicas.\n\nEstas propuestas se enmarcan en la estrategia de Milei para consolidar el ajuste que ha marcado su gestión. Sus partidarios sostienen que unas reglas más estrictas darían estabilidad y confianza a los mercados. Sus críticos, en cambio, advierten de que atar las manos del Estado podría dejar sin margen a futuros gobiernos y afectar a los servicios públicos. En los próximos meses, el debate en el Congreso y la reacción de la sociedad determinarán hasta qué punto estas reformas logran salir adelante.",
+    "vocab": [
+     {
+      "front": "blindar",
+      "pos": "verb",
+      "back": "to shield, to protect (something) from change",
+      "example": "El gobierno quiere blindar su reforma frente a la oposición.",
+      "tier": "B2"
+     },
+     {
+      "front": "el paquete de reformas",
+      "pos": "noun",
+      "back": "package of reforms",
+      "example": "Presentó un paquete de reformas ante el Congreso.",
+      "tier": "B1"
+     },
+     {
+      "front": "el déficit",
+      "pos": "noun",
+      "back": "deficit (shortfall in public accounts)",
+      "example": "El déficit del Estado creció el año pasado.",
+      "tier": "B1"
+     },
+     {
+      "front": "el mandatario",
+      "pos": "noun",
+      "back": "the head of state, the leader",
+      "example": "El mandatario habló en televisión sobre la crisis.",
+      "tier": "B2"
+     },
+     {
+      "front": "frenar el gasto",
+      "pos": "phrase",
+      "back": "to curb / rein in spending",
+      "example": "El ministro prometió frenar el gasto público.",
+      "tier": "B2"
+     },
+     {
+      "front": "enmarcarse en",
+      "pos": "verb",
+      "back": "to be part of / fit within (a strategy, plan)",
+      "example": "La medida se enmarca en un plan más amplio.",
+      "tier": "C1"
+     },
+     {
+      "front": "el ajuste",
+      "pos": "noun",
+      "back": "austerity, economic adjustment / cuts",
+      "example": "El ajuste afectó sobre todo a las familias.",
+      "tier": "B2"
+     },
+     {
+      "front": "los partidarios",
+      "pos": "noun",
+      "back": "supporters, backers",
+      "example": "Sus partidarios celebraron el anuncio.",
+      "tier": "B1"
+     },
+     {
+      "front": "advertir de que",
+      "pos": "verb",
+      "back": "to warn that",
+      "example": "Los expertos advierten de que el plan tiene riesgos.",
+      "tier": "B2"
+     },
+     {
+      "front": "dejar sin margen",
+      "pos": "phrase",
+      "back": "to leave no room / no leeway",
+      "example": "La deuda deja sin margen al próximo gobierno.",
+      "tier": "C1"
+     },
+     {
+      "front": "salir adelante",
+      "pos": "phrase",
+      "back": "to move forward, to succeed",
+      "example": "El proyecto logró salir adelante pese a las críticas.",
+      "tier": "B2"
+     },
+     {
+      "front": "la gestión",
+      "pos": "noun",
+      "back": "management, a leader's term/administration",
+      "example": "Su gestión ha estado marcada por los recortes.",
+      "tier": "B2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Entre las medidas destaca el llamado 'grillete fiscal', una iniciativa que obligaría al Estado a cerrar ciertas actividades si el déficit se mantiene durante un periodo prolongado.",
+      "point": "Condicional simple para consecuencias hipotéticas",
+      "explanation": "'Obligaría' es condicional: describe lo que la medida haría en un escenario todavía no real. Se combina con 'si + presente' ('se mantiene') porque la condición se presenta como posible.",
+      "why_tricky": "Los estudiantes suelen esperar 'si' + subjuntivo, pero aquí la condición es abierta y se usa el presente de indicativo."
+     },
+     {
+      "sentence": "Sus críticos, en cambio, advierten de que atar las manos del Estado podría dejar sin margen a futuros gobiernos y afectar a los servicios públicos.",
+      "point": "Infinitivo como sujeto y 'en cambio' como conector",
+      "explanation": "'Atar las manos del Estado' funciona como sujeto de 'podría'. 'En cambio' introduce un contraste con la frase anterior.",
+      "why_tricky": "El infinitivo sujeto no lleva artículo ni verbo conjugado, lo que confunde a quien traduce del inglés con un gerundio."
+     },
+     {
+      "sentence": "En los próximos meses, el debate en el Congreso y la reacción de la sociedad determinarán hasta qué punto estas reformas logran salir adelante.",
+      "point": "Futuro simple con sujeto compuesto",
+      "explanation": "El verbo 'determinarán' va en plural porque tiene dos sujetos unidos por 'y': el debate y la reacción.",
+      "why_tricky": "Es fácil concordar el verbo solo con el sustantivo más cercano y olvidar que el sujeto es doble."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "salir adelante",
+      "meaning": "superar las dificultades y lograr el objetivo",
+      "example": "Con esfuerzo, la pequeña empresa consiguió salir adelante."
+     },
+     {
+      "phrase": "atar las manos (a alguien)",
+      "meaning": "quitar a alguien la libertad de actuar",
+      "example": "Esa ley le ata las manos al futuro presidente."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿En qué consiste la iniciativa del 'grillete fiscal' que propone Milei?",
+      "type": "open"
+     },
+     {
+      "q": "¿Por qué sus críticos temen que estas reformas afecten a futuros gobiernos?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué factores decidirán si las reformas salen adelante?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Crees que un gobierno debería poder imponer reglas económicas difíciles de cambiar para los gobiernos que vengan después? Explica tu opinión con ejemplos."
+   }
+  },
+  {
+   "pack_id": "feed-2026-08-01-alimentos-huesos",
+   "title": "5 alimentos que ayudan a cuidar nuestros huesos (más allá de la leche)",
+   "source": "BBC Mundo",
+   "date": "2026-07-29",
+   "level": "B1-B2",
+   "topics": [
+    "salud",
+    "nutrición"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-01-alimentos-huesos",
+    "revision": 1,
+    "meta": {
+     "title": "5 alimentos que ayudan a cuidar nuestros huesos (más allá de la leche)",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/cy0jkg5rl16o?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-07-29",
+     "date_processed": "2026-08-01",
+     "tags": [
+      "salud",
+      "nutrición"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "Taking care of bone health is important at any age, and it does not depend only on drinking milk. Although calcium is still essential, there are many other foods that provide the nutrients needed to keep the skeleton strong. Green leafy vegetables, nuts, legumes, oily fish and certain seeds are among the options that specialists usually recommend to strengthen bone density.\n\nBesides diet, experts insist that lifestyle has a decisive influence. Regular physical activity, especially exercises that put weight on the bones, helps to keep them healthy as the years go by. Getting some sun in moderation also encourages the production of vitamin D, which the body needs in order to absorb calcium. In short, a varied diet and healthy habits are the best way to prevent bone problems in the future.",
+    "resumen_es": "Cuidar la salud de los huesos es importante a cualquier edad, y no depende únicamente de beber leche. Aunque el calcio sigue siendo fundamental, existen muchos otros alimentos que aportan los nutrientes necesarios para mantener un esqueleto fuerte. Verduras de hoja verde, frutos secos, legumbres, pescado azul y ciertas semillas figuran entre las opciones que los especialistas suelen recomendar para reforzar la densidad ósea.\n\nAdemás de la alimentación, los expertos insisten en que el estilo de vida influye de manera decisiva. La actividad física regular, sobre todo los ejercicios que ponen peso sobre los huesos, ayuda a mantenerlos sanos con el paso de los años. Tomar el sol con moderación también favorece la producción de vitamina D, que el cuerpo necesita para absorber el calcio. En definitiva, una dieta variada y unos hábitos saludables son la mejor forma de prevenir problemas óseos en el futuro.",
+    "vocab": [
+     {
+      "front": "los huesos",
+      "pos": "noun",
+      "back": "bones",
+      "example": "El calcio ayuda a fortalecer los huesos.",
+      "tier": "B1"
+     },
+     {
+      "front": "óseo / ósea",
+      "pos": "adj",
+      "back": "bone (relating to bones)",
+      "example": "La densidad ósea disminuye con la edad.",
+      "tier": "B2"
+     },
+     {
+      "front": "aportar",
+      "pos": "verb",
+      "back": "to provide, to contribute",
+      "example": "Las legumbres aportan mucha proteína.",
+      "tier": "B1"
+     },
+     {
+      "front": "el esqueleto",
+      "pos": "noun",
+      "back": "skeleton",
+      "example": "El ejercicio mantiene el esqueleto fuerte.",
+      "tier": "B1"
+     },
+     {
+      "front": "los frutos secos",
+      "pos": "noun",
+      "back": "nuts (almonds, walnuts, etc.)",
+      "example": "Un puñado de frutos secos es un buen tentempié.",
+      "tier": "B1"
+     },
+     {
+      "front": "el pescado azul",
+      "pos": "noun",
+      "back": "oily fish (sardines, salmon, etc.)",
+      "example": "El pescado azul es rico en omega 3.",
+      "tier": "B2"
+     },
+     {
+      "front": "soler + infinitivo",
+      "pos": "verb",
+      "back": "to usually do something",
+      "example": "Los médicos suelen recomendar más verdura.",
+      "tier": "B1"
+     },
+     {
+      "front": "reforzar",
+      "pos": "verb",
+      "back": "to strengthen, to reinforce",
+      "example": "Caminar ayuda a reforzar las piernas.",
+      "tier": "B2"
+     },
+     {
+      "front": "el estilo de vida",
+      "pos": "phrase",
+      "back": "lifestyle",
+      "example": "Un estilo de vida activo mejora la salud.",
+      "tier": "B1"
+     },
+     {
+      "front": "con moderación",
+      "pos": "phrase",
+      "back": "in moderation",
+      "example": "Conviene tomar el sol con moderación.",
+      "tier": "B1"
+     },
+     {
+      "front": "los hábitos saludables",
+      "pos": "noun",
+      "back": "healthy habits",
+      "example": "Los hábitos saludables previenen enfermedades.",
+      "tier": "B1"
+     },
+     {
+      "front": "en definitiva",
+      "pos": "phrase",
+      "back": "in short, ultimately",
+      "example": "En definitiva, hay que comer de todo un poco.",
+      "tier": "B2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Aunque el calcio sigue siendo fundamental, existen muchos otros alimentos que aportan los nutrientes necesarios para mantener un esqueleto fuerte.",
+      "point": "'Aunque' concesivo + 'seguir + gerundio'",
+      "explanation": "'Aunque' introduce una concesión (admite un hecho real) y va con indicativo. 'Sigue siendo' expresa que algo continúa en el tiempo.",
+      "why_tricky": "'Aunque' puede llevar indicativo o subjuntivo; aquí, al ser un hecho comprobado, se usa indicativo."
+     },
+     {
+      "sentence": "La actividad física regular, sobre todo los ejercicios que ponen peso sobre los huesos, ayuda a mantenerlos sanos con el paso de los años.",
+      "point": "'ayudar a + infinitivo' y pronombre enclítico",
+      "explanation": "'Ayudar' rige la preposición 'a' antes del infinitivo. En 'mantenerlos', el pronombre 'los' (los huesos) se une al final del infinitivo.",
+      "why_tricky": "Olvidar la 'a' de 'ayudar a' o colocar mal el pronombre son errores muy comunes."
+     },
+     {
+      "sentence": "En definitiva, una dieta variada y unos hábitos saludables son la mejor forma de prevenir problemas óseos en el futuro.",
+      "point": "Conector de cierre 'en definitiva'",
+      "explanation": "'En definitiva' resume e introduce la conclusión del texto. El verbo 'son' concuerda en plural con el sujeto doble.",
+      "why_tricky": "Se confunde con 'definitivamente' (que significa 'for good'), pero 'en definitiva' significa 'in short'."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "con el paso de los años",
+      "meaning": "a medida que pasa el tiempo",
+      "example": "Con el paso de los años aprendió a cocinar muy bien."
+     },
+     {
+      "phrase": "más allá de",
+      "meaning": "aparte de, además de",
+      "example": "Más allá del dinero, busca un trabajo con sentido."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Según el texto, ¿por qué la leche no es el único alimento importante para los huesos?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué papel juega la actividad física en la salud ósea?",
+      "type": "open"
+     },
+     {
+      "q": "¿Por qué es útil tomar el sol con moderación?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Cuánto cuidas tu alimentación y tu actividad física en el día a día? Describe tus hábitos y qué te gustaría mejorar."
+   }
+  },
+  {
+   "pack_id": "feed-2026-08-01-arboles-ola-calor",
+   "title": "¿Por qué durante las olas de calor los árboles ya no cumplen su función?",
+   "source": "RFI Español",
+   "date": "2026-07-30",
+   "level": "B1-B2",
+   "topics": [
+    "medioambiente",
+    "clima"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-01-arboles-ola-calor",
+    "revision": 1,
+    "meta": {
+     "title": "¿Por qué durante las olas de calor los árboles ya no cumplen su función?",
+     "source": "RFI Español",
+     "url": "https://www.rfi.fr/es/medioambiente/20260730-por-qu%C3%A9-durante-las-olas-de-calor-los-%C3%A1rboles-ya-no-cumplen-su-funci%C3%B3n",
+     "date_published": "2026-07-30",
+     "date_processed": "2026-08-01",
+     "tags": [
+      "medioambiente",
+      "clima"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "During the heatwave at the end of June, some forests in France emitted more carbon dioxide than they managed to absorb. This phenomenon worries scientists, because trees usually act as allies against climate change. However, when temperatures soar and water is scarce, plants become stressed, close their pores and stop capturing carbon as they would under normal conditions.\n\nThe result is a worrying vicious circle. The heat weakens the trees, which lose their ability to cool the environment and to store carbon; in turn, that released carbon helps to warm the planet even more. Experts warn that, if heatwaves become more frequent and intense, forests could go from being a solution to becoming part of the problem. For this reason they are calling for urgent measures to protect them.",
+    "resumen_es": "Durante la ola de calor de finales de junio, algunos bosques de Francia emitieron más dióxido de carbono del que lograron absorber. Este fenómeno preocupa a los científicos, porque los árboles suelen actuar como aliados frente al cambio climático. Sin embargo, cuando las temperaturas se disparan y falta el agua, las plantas se estresan, cierran sus poros y dejan de capturar el carbono como lo harían en condiciones normales.\n\nEl resultado es un círculo vicioso preocupante. El calor debilita a los árboles, que pierden su capacidad de enfriar el ambiente y de almacenar carbono; a su vez, ese carbono liberado contribuye a calentar aún más el planeta. Los expertos advierten de que, si las olas de calor se vuelven más frecuentes e intensas, los bosques podrían pasar de ser una solución a convertirse en parte del problema. Por eso reclaman medidas urgentes para protegerlos.",
+    "vocab": [
+     {
+      "front": "la ola de calor",
+      "pos": "noun",
+      "back": "heatwave",
+      "example": "La ola de calor duró casi dos semanas.",
+      "tier": "B1"
+     },
+     {
+      "front": "el dióxido de carbono",
+      "pos": "noun",
+      "back": "carbon dioxide",
+      "example": "Los coches emiten dióxido de carbono.",
+      "tier": "B2"
+     },
+     {
+      "front": "absorber",
+      "pos": "verb",
+      "back": "to absorb, to soak up",
+      "example": "Los océanos absorben gran parte del calor.",
+      "tier": "B2"
+     },
+     {
+      "front": "el aliado",
+      "pos": "noun",
+      "back": "ally",
+      "example": "El bosque es un aliado contra el cambio climático.",
+      "tier": "B2"
+     },
+     {
+      "front": "dispararse",
+      "pos": "verb",
+      "back": "to shoot up, to soar (prices, temperatures)",
+      "example": "Los precios se dispararon en verano.",
+      "tier": "B2"
+     },
+     {
+      "front": "estresarse",
+      "pos": "verb",
+      "back": "to become stressed",
+      "example": "Las plantas se estresan con la sequía.",
+      "tier": "B1"
+     },
+     {
+      "front": "dejar de + infinitivo",
+      "pos": "phrase",
+      "back": "to stop doing something",
+      "example": "Dejó de fumar hace un año.",
+      "tier": "B1"
+     },
+     {
+      "front": "debilitar",
+      "pos": "verb",
+      "back": "to weaken",
+      "example": "La falta de agua debilita al árbol.",
+      "tier": "B2"
+     },
+     {
+      "front": "almacenar",
+      "pos": "verb",
+      "back": "to store",
+      "example": "Las baterías almacenan energía.",
+      "tier": "B2"
+     },
+     {
+      "front": "a su vez",
+      "pos": "phrase",
+      "back": "in turn, at the same time",
+      "example": "Eso, a su vez, provoca más problemas.",
+      "tier": "B2"
+     },
+     {
+      "front": "el círculo vicioso",
+      "pos": "noun",
+      "back": "vicious circle",
+      "example": "La deuda creó un círculo vicioso difícil de romper.",
+      "tier": "B2"
+     },
+     {
+      "front": "reclamar",
+      "pos": "verb",
+      "back": "to demand, to call for",
+      "example": "Los vecinos reclaman más zonas verdes.",
+      "tier": "B2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Este fenómeno preocupa a los científicos, porque los árboles suelen actuar como aliados frente al cambio climático.",
+      "point": "'soler + infinitivo' para acciones habituales",
+      "explanation": "'Suelen actuar' expresa lo que los árboles hacen normalmente. 'Soler' solo se usa en presente e imperfecto.",
+      "why_tricky": "No existe en inglés un verbo equivalente; se traduce con 'usually' + verbo."
+     },
+     {
+      "sentence": "Sin embargo, cuando las temperaturas se disparan y falta el agua, las plantas se estresan, cierran sus poros y dejan de capturar el carbono como lo harían en condiciones normales.",
+      "point": "Condicional 'harían' en comparación hipotética",
+      "explanation": "'Como lo harían' compara con una situación imaginada ('en condiciones normales'), por eso va en condicional.",
+      "why_tricky": "El pronombre 'lo' sustituye a 'capturar el carbono' y hay que reconocer a qué se refiere."
+     },
+     {
+      "sentence": "Los expertos advierten de que, si las olas de calor se vuelven más frecuentes e intensas, los bosques podrían pasar de ser una solución a convertirse en parte del problema.",
+      "point": "Condicional real 'si + presente ... podrían'",
+      "explanation": "La condición 'si se vuelven' (presente) se ve como posible; la consecuencia usa condicional 'podrían'. Fijarse en 'e intensas': 'y' se convierte en 'e' ante palabra que empieza por i.",
+      "why_tricky": "El cambio de 'y' a 'e' y la mezcla presente/condicional despistan a muchos estudiantes."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "un círculo vicioso",
+      "meaning": "una situación en la que un problema provoca otro y todo empeora",
+      "example": "Comer mal y dormir poco es un círculo vicioso."
+     },
+     {
+      "phrase": "a su vez",
+      "meaning": "por su parte, al mismo tiempo",
+      "example": "El jefe informa al director y este, a su vez, al presidente."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Qué hicieron algunos bosques franceses durante la ola de calor de junio?",
+      "type": "open"
+     },
+     {
+      "q": "¿Por qué se habla de un 'círculo vicioso' en el texto?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué piden los expertos para proteger los bosques?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Qué medidas crees que deberían tomar los gobiernos y las personas para proteger los bosques frente al calor extremo? Justifica tu respuesta."
+   }
+  },
   {
    "pack_id": "feed-2026-07-31-bernarda-vera-chile",
    "title": "El polémico caso de Bernarda Vera, la chilena declarada desaparecida durante el régimen de Pinochet que hallaron viva en Argentina 5 décadas después",
@@ -6255,513 +6741,6 @@
      }
     ],
     "opinion_prompt": "¿Crees que dormir poco es una señal de compromiso o un problema de salud? Escribe tu opinión con ejemplos."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-25-medalla-fields-matematicas",
-   "title": "Los problemas centenarios que resolvieron dos profesores chinos premiados con el \"Nobel de Matemáticas\"",
-   "source": "BBC Mundo",
-   "date": "2026-07-25",
-   "level": "B1-B2",
-   "topics": [
-    "ciencia",
-    "matemáticas"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-25-medalla-fields-matematicas",
-    "revision": 1,
-    "meta": {
-     "title": "Los problemas centenarios que resolvieron dos profesores chinos premiados con el \"Nobel de Matemáticas\"",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/c62qkkrr65ko?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-07-25",
-     "date_processed": "2026-07-25",
-     "tags": [
-      "ciencia",
-      "matemáticas"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "Two professors of Chinese origin have been awarded the Fields Medal, a recognition considered the equivalent of the Nobel Prize in mathematics. This award is granted every four years to researchers under the age of forty, one of the greatest honors for a young mathematician. The two winners were recognized for solving problems that had remained unanswered for more than a century, an achievement that demands enormous patience and creativity.\n\nAlthough pure mathematics often seems far from everyday life, its advances end up influencing technology, computer security and science in general. Behind every discovery there are years of silent work, often with no guarantee of success. These stories remind us that knowledge advances thanks to people willing to devote their lives to a single question. In addition, the news puts the spotlight on Asian scientific talent, which is gaining more and more weight on the international stage.",
-    "resumen_es": "Dos profesores chinos han sido galardonados con la Medalla Fields, un reconocimiento considerado el equivalente al Nobel de las matemáticas. Este premio se concede cada cuatro años a investigadores menores de cuarenta años, uno de los mayores honores para un matemático joven. Los dos galardonados fueron reconocidos por resolver problemas que habían permanecido sin respuesta durante más de un siglo, un logro que exige enorme paciencia y creatividad.\n\nAunque las matemáticas puras suelen parecer alejadas de la vida cotidiana, sus avances acaban influyendo en la tecnología, la seguridad informática y la ciencia en general. Detrás de cada descubrimiento hay años de trabajo silencioso, muchas veces sin garantías de éxito. Estas historias recuerdan que el conocimiento avanza gracias a personas dispuestas a dedicar su vida a una sola pregunta. Además, la noticia pone el foco en el talento científico asiático, que gana cada vez más peso en el panorama internacional.",
-    "vocab": [
-     {
-      "front": "galardonar",
-      "pos": "verb",
-      "back": "to award (a prize)",
-      "example": "La fueron a galardonar por su trabajo científico.",
-      "tier": "C1"
-     },
-     {
-      "front": "reconocimiento",
-      "pos": "noun",
-      "back": "recognition, award",
-      "example": "El premio es un reconocimiento a toda una carrera.",
-      "tier": "B1"
-     },
-     {
-      "front": "conceder",
-      "pos": "verb",
-      "back": "to grant, award",
-      "example": "El jurado concede el premio cada cuatro años.",
-      "tier": "B2"
-     },
-     {
-      "front": "destacado",
-      "pos": "adj",
-      "back": "outstanding",
-      "example": "Es uno de los científicos más destacados de su generación.",
-      "tier": "B1"
-     },
-     {
-      "front": "logro",
-      "pos": "noun",
-      "back": "achievement",
-      "example": "Resolver ese problema fue un logro histórico.",
-      "tier": "B1"
-     },
-     {
-      "front": "permanecer",
-      "pos": "verb",
-      "back": "to remain",
-      "example": "El misterio permaneció sin resolver durante décadas.",
-      "tier": "B2"
-     },
-     {
-      "front": "avance",
-      "pos": "noun",
-      "back": "advance, breakthrough",
-      "example": "Cada avance abre nuevas puertas a la investigación.",
-      "tier": "B1"
-     },
-     {
-      "front": "cotidiano",
-      "pos": "adj",
-      "back": "everyday, daily",
-      "example": "La ciencia influye en nuestra vida cotidiana más de lo que creemos.",
-      "tier": "B2"
-     },
-     {
-      "front": "descubrimiento",
-      "pos": "noun",
-      "back": "discovery",
-      "example": "El descubrimiento cambió por completo su campo de estudio.",
-      "tier": "B1"
-     },
-     {
-      "front": "panorama",
-      "pos": "noun",
-      "back": "scene, landscape (figurative)",
-      "example": "El panorama científico cambia muy deprisa.",
-      "tier": "B2"
-     },
-     {
-      "front": "exigir",
-      "pos": "verb",
-      "back": "to demand, require",
-      "example": "Este trabajo exige mucha concentración.",
-      "tier": "B1"
-     },
-     {
-      "front": "silencioso",
-      "pos": "adj",
-      "back": "silent, quiet",
-      "example": "Detrás del éxito hay mucho esfuerzo silencioso.",
-      "tier": "B1"
-     },
-     {
-      "front": "talento",
-      "pos": "noun",
-      "back": "talent",
-      "example": "El país cuenta con un gran talento científico.",
-      "tier": "B1"
-     },
-     {
-      "front": "honor",
-      "pos": "noun",
-      "back": "honor",
-      "example": "Recibir ese premio es un enorme honor.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Los dos galardonados fueron reconocidos por resolver problemas que habían permanecido sin respuesta durante más de un siglo, un logro que exige enorme paciencia y creatividad.",
-      "point": "Voz pasiva y pluscuamperfecto",
-      "explanation": "'Fueron reconocidos' es una pasiva con 'ser'; 'habían permanecido' (pluscuamperfecto) marca una acción anterior a otra del pasado.",
-      "why_tricky": "Combinar pasiva y pluscuamperfecto exige controlar dos tiempos y la concordancia del participio a la vez."
-     },
-     {
-      "sentence": "Aunque las matemáticas puras suelen parecer alejadas de la vida cotidiana, sus avances acaban influyendo en la tecnología, la seguridad informática y la ciencia en general.",
-      "point": "Perífrasis 'acabar + gerundio'",
-      "explanation": "'Acaban influyendo' expresa el resultado final de un proceso: terminan por influir aunque al principio no lo pareciera.",
-      "why_tricky": "No significa 'terminar de hacer algo'; el matiz es el de un desenlace o consecuencia final."
-     },
-     {
-      "sentence": "Detrás de cada descubrimiento hay años de trabajo silencioso, muchas veces sin garantías de éxito.",
-      "point": "'Hay' impersonal",
-      "explanation": "'Hay' (del verbo haber) es invariable y expresa existencia; no concuerda con 'años' aunque sea plural.",
-      "why_tricky": "Muchos estudiantes escriben 'han' o 'hayan' por influencia del plural o del subjuntivo."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "poner el foco en",
-      "meaning": "to put the spotlight on",
-      "example": "El reportaje pone el foco en los jóvenes investigadores."
-     },
-     {
-      "phrase": "ganar peso",
-      "meaning": "to gain importance",
-      "example": "Ese sector gana peso en la economía mundial."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué es la Medalla Fields y cada cuánto tiempo se concede?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué fueron reconocidos los dos profesores?",
-      "type": "open"
-     },
-     {
-      "q": "Según el artículo, ¿cómo influyen las matemáticas puras en la vida diaria?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Escribe un texto breve sobre un tema o una materia a la que te dedicarías con pasión, y explica por qué."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-24-tipos-procrastinacion",
-   "title": "9 tipos de personas que procrastinan y cómo solucionarlo ahora (no después)",
-   "source": "BBC Mundo",
-   "date": "2026-07-24",
-   "level": "B1-B2",
-   "topics": [
-    "psicología",
-    "hábitos"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-24-tipos-procrastinacion",
-    "revision": 1,
-    "meta": {
-     "title": "9 tipos de personas que procrastinan y cómo solucionarlo ahora (no después)",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/cr594v9p22yo?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-07-24",
-     "date_processed": "2026-07-24",
-     "tags": [
-      "psicología",
-      "hábitos"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "A recent article argues that there are nine types of people who tend to put off their tasks, and that recognising our own profile can help us fight procrastination. According to the researchers it cites, leaving things for later is not always due to laziness, but often hides fears, perfectionism or a lack of motivation. Identifying the specific pattern we usually fall into would therefore be the first step to changing it.\n\nThe experts explain that each type needs a different strategy. Someone who seeks perfection, for example, should learn to accept imperfect results, while someone who gets distracted easily needs to reduce interruptions. In every case, breaking a big task into small steps and starting immediately is more effective than waiting for the ideal moment. In the end, the message is clear: the key is not to feel guilty, but to understand why we delay and act accordingly.",
-    "resumen_es": "Un artículo reciente sostiene que existen nueve tipos de personas que suelen posponer sus tareas, y que reconocer nuestro perfil puede ayudarnos a combatir la procrastinación. Según los investigadores citados, dejar las cosas para más tarde no siempre se debe a la pereza, sino que a menudo esconde miedos, perfeccionismo o falta de motivación. Identificar el patrón concreto en el que solemos caer sería, por tanto, el primer paso para cambiarlo.\n\nLos expertos explican que cada tipo requiere una estrategia distinta. Quien busca la perfección, por ejemplo, debería aprender a aceptar resultados imperfectos, mientras que quien se distrae con facilidad necesita reducir las interrupciones. En todos los casos, dividir una tarea grande en pequeños pasos y empezar de inmediato resulta más eficaz que esperar el momento ideal. Al final, el mensaje es claro: la clave no consiste en sentirse culpable, sino en entender por qué aplazamos y actuar en consecuencia.",
-    "vocab": [
-     {
-      "front": "posponer",
-      "pos": "verb",
-      "back": "to postpone, put off",
-      "example": "Suele posponer las tareas difíciles hasta el último momento.",
-      "tier": "B1"
-     },
-     {
-      "front": "la procrastinación",
-      "pos": "noun",
-      "back": "procrastination",
-      "example": "La procrastinación afecta a muchos estudiantes.",
-      "tier": "B2"
-     },
-     {
-      "front": "la pereza",
-      "pos": "noun",
-      "back": "laziness",
-      "example": "No fue por pereza, sino por miedo.",
-      "tier": "B1"
-     },
-     {
-      "front": "el perfeccionismo",
-      "pos": "noun",
-      "back": "perfectionism",
-      "example": "Su perfeccionismo le impide terminar el trabajo.",
-      "tier": "B2"
-     },
-     {
-      "front": "aplazar",
-      "pos": "verb",
-      "back": "to delay, defer",
-      "example": "Decidió aplazar la reunión hasta el lunes.",
-      "tier": "B2"
-     },
-     {
-      "front": "la tarea",
-      "pos": "noun",
-      "back": "task",
-      "example": "Divide la tarea en pasos pequeños.",
-      "tier": "B1"
-     },
-     {
-      "front": "distraerse",
-      "pos": "verb",
-      "back": "to get distracted",
-      "example": "Se distrae con cualquier ruido.",
-      "tier": "B1"
-     },
-     {
-      "front": "la interrupción",
-      "pos": "noun",
-      "back": "interruption",
-      "example": "Las interrupciones reducen la concentración.",
-      "tier": "B1"
-     },
-     {
-      "front": "eficaz",
-      "pos": "adj",
-      "back": "effective",
-      "example": "Este método es muy eficaz.",
-      "tier": "B1"
-     },
-     {
-      "front": "sentirse culpable",
-      "pos": "phrase",
-      "back": "to feel guilty",
-      "example": "No debes sentirte culpable por descansar.",
-      "tier": "B1"
-     },
-     {
-      "front": "el patrón",
-      "pos": "noun",
-      "back": "pattern",
-      "example": "Reconoció el patrón de su comportamiento.",
-      "tier": "B2"
-     },
-     {
-      "front": "en consecuencia",
-      "pos": "adv",
-      "back": "accordingly, as a result",
-      "example": "Entendió el problema y actuó en consecuencia.",
-      "tier": "B2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Identificar el patrón concreto en el que solemos caer sería, por tanto, el primer paso para cambiarlo.",
-      "point": "Condicional simple para expresar hipótesis",
-      "explanation": "El verbo 'sería' es un condicional que presenta la idea como una conclusión probable, no como un hecho seguro.",
-      "why_tricky": "En inglés se usaría 'would be'; aquí el condicional suaviza la afirmación y añade un matiz de conclusión razonada."
-     },
-     {
-      "sentence": "Quien busca la perfección, por ejemplo, debería aprender a aceptar resultados imperfectos, mientras que quien se distrae con facilidad necesita reducir las interrupciones.",
-      "point": "'Quien' como relativo sin antecedente y contraste con 'mientras que'",
-      "explanation": "'Quien' equivale a 'la persona que' y 'mientras que' opone dos casos distintos.",
-      "why_tricky": "'Quien' lleva verbo en singular aunque se refiera a un grupo general, y 'mientras que' contrasta ideas, no tiempo."
-     },
-     {
-      "sentence": "En todos los casos, dividir una tarea grande en pequeños pasos y empezar de inmediato resulta más eficaz que esperar el momento ideal.",
-      "point": "Infinitivos como sujeto y comparación con 'más... que'",
-      "explanation": "Los infinitivos 'dividir' y 'empezar' funcionan como sujeto del verbo 'resulta'.",
-      "why_tricky": "El verbo va en singular aunque haya dos infinitivos, y la comparación se cierra con otro infinitivo, 'esperar'."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "dejar las cosas para más tarde",
-      "meaning": "to put things off, leave them for later",
-      "example": "Siempre deja las cosas para más tarde y luego se estresa."
-     },
-     {
-      "phrase": "no dejes para mañana lo que puedas hacer hoy",
-      "meaning": "don't put off until tomorrow what you can do today",
-      "example": "Como dice el refrán, no dejes para mañana lo que puedas hacer hoy."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Por qué, según el artículo, posponer tareas no siempre se debe a la pereza?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué estrategia se recomienda para las personas perfeccionistas?",
-      "type": "open"
-     },
-     {
-      "q": "¿Estás de acuerdo con la idea de dividir las tareas grandes en pasos pequeños? ¿Por qué?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Escribe un texto breve sobre una situación en la que sueles procrastinar y explica qué estrategia podrías usar para evitarlo."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-24-tiburon-groenlandia-longevidad",
-   "title": "\"Nos quedamos maravillados\": lo que un tiburón que vive 400 años nos puede enseñar sobre la longevidad",
-   "source": "BBC Mundo",
-   "date": "2026-07-24",
-   "level": "B1-B2",
-   "topics": [
-    "ciencia",
-    "naturaleza"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-24-tiburon-groenlandia-longevidad",
-    "revision": 1,
-    "meta": {
-     "title": "\"Nos quedamos maravillados\": lo que un tiburón que vive 400 años nos puede enseñar sobre la longevidad",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/cp8x30929lgo?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-07-24",
-     "date_processed": "2026-07-24",
-     "tags": [
-      "ciencia",
-      "naturaleza"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "The Greenland shark has become a fascinating subject of study because it can live more than four hundred years, which places it among the longest-living vertebrates on the planet. Some individuals swimming today in Arctic waters could have been born in Shakespeare's time. Scientists are analysing its heart, which beats slowly for centuries, hoping to uncover the secrets of such an extraordinarily long life.\n\nThis animal grows very slowly and reaches maturity at an advanced age, reflecting a slow metabolism adapted to extreme cold. Researchers believe that understanding how its body withstands the passing of time could offer valuable clues about human ageing. Although much remains to be discovered, each finding raises new questions. After all, studying these silent giants reminds us how little we still know about the limits of life.",
-    "resumen_es": "El tiburón de Groenlandia se ha convertido en un fascinante objeto de estudio porque puede vivir más de cuatrocientos años, lo que lo sitúa entre los vertebrados más longevos del planeta. Algunos ejemplares que nadan hoy en aguas del Ártico podrían haber nacido en la época de Shakespeare. Los científicos analizan su corazón, que late lentamente durante siglos, con la esperanza de descubrir los secretos de una vida tan extraordinariamente larga.\n\nEste animal crece muy despacio y alcanza la madurez a una edad avanzada, lo que refleja un metabolismo pausado y adaptado al frío extremo. Los investigadores creen que entender cómo su cuerpo resiste el paso del tiempo podría ofrecer pistas valiosas sobre el envejecimiento humano. Aunque queda mucho por averiguar, cada hallazgo despierta nuevas preguntas. Al fin y al cabo, estudiar a estos gigantes silenciosos nos recuerda lo poco que sabemos todavía sobre los límites de la vida.",
-    "vocab": [
-     {
-      "front": "el tiburón",
-      "pos": "noun",
-      "back": "shark",
-      "example": "El tiburón de Groenlandia vive en aguas frías.",
-      "tier": "B1"
-     },
-     {
-      "front": "longevo",
-      "pos": "adj",
-      "back": "long-lived",
-      "example": "Es uno de los animales más longevos.",
-      "tier": "B2"
-     },
-     {
-      "front": "la longevidad",
-      "pos": "noun",
-      "back": "longevity",
-      "example": "Estudian la longevidad de esta especie.",
-      "tier": "B2"
-     },
-     {
-      "front": "el ejemplar",
-      "pos": "noun",
-      "back": "specimen, individual (animal)",
-      "example": "Capturaron un ejemplar muy antiguo.",
-      "tier": "B2"
-     },
-     {
-      "front": "el vertebrado",
-      "pos": "noun",
-      "back": "vertebrate",
-      "example": "Es el vertebrado más longevo conocido.",
-      "tier": "B2"
-     },
-     {
-      "front": "latir",
-      "pos": "verb",
-      "back": "to beat (heart)",
-      "example": "Su corazón late muy despacio.",
-      "tier": "B1"
-     },
-     {
-      "front": "el metabolismo",
-      "pos": "noun",
-      "back": "metabolism",
-      "example": "Tiene un metabolismo lento.",
-      "tier": "B2"
-     },
-     {
-      "front": "envejecer",
-      "pos": "verb",
-      "back": "to age, grow old",
-      "example": "Nos interesa saber por qué envejecemos.",
-      "tier": "B1"
-     },
-     {
-      "front": "el envejecimiento",
-      "pos": "noun",
-      "back": "ageing",
-      "example": "La ciencia estudia el envejecimiento humano.",
-      "tier": "B2"
-     },
-     {
-      "front": "la madurez",
-      "pos": "noun",
-      "back": "maturity",
-      "example": "Alcanza la madurez muy tarde.",
-      "tier": "B1"
-     },
-     {
-      "front": "el hallazgo",
-      "pos": "noun",
-      "back": "finding, discovery",
-      "example": "Cada hallazgo abre nuevas preguntas.",
-      "tier": "B2"
-     },
-     {
-      "front": "resistir",
-      "pos": "verb",
-      "back": "to withstand, resist",
-      "example": "Su cuerpo resiste el paso del tiempo.",
-      "tier": "B1"
-     },
-     {
-      "front": "despacio",
-      "pos": "adv",
-      "back": "slowly",
-      "example": "El animal crece despacio.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Algunos ejemplares que nadan hoy en aguas del Ártico podrían haber nacido en la época de Shakespeare.",
-      "point": "Condicional compuesto para conjeturas sobre el pasado",
-      "explanation": "'Podrían haber nacido' expresa una posibilidad sobre algo que quizá ocurrió hace mucho tiempo.",
-      "why_tricky": "Combina el condicional de 'poder' con el infinitivo compuesto 'haber nacido' para hablar de una hipótesis en el pasado."
-     },
-     {
-      "sentence": "Los científicos analizan su corazón, que late lentamente durante siglos, con la esperanza de descubrir los secretos de una vida tan extraordinariamente larga.",
-      "point": "Oración de relativo explicativa y estructura 'tan... larga'",
-      "explanation": "La parte entre comas añade información sobre el corazón sin definirlo, y 'tan' intensifica el adjetivo 'larga'.",
-      "why_tricky": "El relativo explicativo va entre comas y es fácil confundir 'tan' con 'tanto'; aquí acompaña a un adjetivo."
-     },
-     {
-      "sentence": "Los investigadores creen que entender cómo su cuerpo resiste el paso del tiempo podría ofrecer pistas valiosas sobre el envejecimiento humano.",
-      "point": "Infinitivo como sujeto e interrogativa indirecta con 'cómo'",
-      "explanation": "'Entender' es el sujeto del verbo 'podría' y 'cómo su cuerpo resiste...' es una pregunta indirecta.",
-      "why_tricky": "El 'cómo' lleva tilde aunque no haya signos de interrogación, porque introduce una pregunta indirecta."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "el paso del tiempo",
-      "meaning": "the passing of time",
-      "example": "Su cuerpo apenas nota el paso del tiempo."
-     },
-     {
-      "phrase": "al fin y al cabo",
-      "meaning": "after all, when all is said and done",
-      "example": "Al fin y al cabo, todos queremos vivir más años."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Por qué el tiburón de Groenlandia es tan interesante para los científicos?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué relación hay entre su metabolismo y su longevidad?",
-      "type": "open"
-     },
-     {
-      "q": "¿Crees que estudiar a estos animales puede ayudar a los humanos? Explica tu opinión.",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Te gustaría vivir muchos más años de lo normal? Escribe un texto explicando las ventajas y los inconvenientes de una vida muy larga."
    }
   }
  ]
