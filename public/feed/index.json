@@ -1,7 +1,493 @@
 {
- "generated_at": "2026-08-02T08:16:35Z",
+ "generated_at": "2026-08-02T20:12:58Z",
  "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-08-02-guerras-cristeras",
+   "title": "Qué fueron las guerras cristeras, la sangrienta confrontación que marcó la relación entre el Estado y la Iglesia en México",
+   "source": "BBC Mundo",
+   "date": "2026-08-02",
+   "level": "B1-B2",
+   "topics": [
+    "historia",
+    "México"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-02-guerras-cristeras",
+    "revision": 1,
+    "meta": {
+     "title": "Qué fueron las guerras cristeras, la sangrienta confrontación que marcó la relación entre el Estado y la Iglesia en México",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/cg4w2pe5zrro?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-08-02",
+     "date_processed": "2026-08-02",
+     "tags": [
+      "historia",
+      "México"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "A century ago, Mexico lived through a deep conflict between the State and the Catholic Church that is known today as the Cristero War. The confrontation broke out when the government applied laws that limited religious power, and many believers reacted with outrage. Within a few months, the discontent turned into an armed rebellion that spread across several regions of the country. It is estimated that the violence left around 250,000 dead.\n\nWhat is most striking is the prominent role of women, who organized support networks, carried messages and hid the fighters. Although the conflict ended with an agreement between both sides, the wounds took decades to heal. Even today, this episode helps us understand the tense relationship between politics and religion in Mexico, as well as the strength of historical memory.",
+    "resumen_es": "Hace un siglo, México vivió un conflicto profundo entre el Estado y la Iglesia católica que hoy se conoce como las guerras cristeras. El enfrentamiento estalló cuando el gobierno aplicó leyes que limitaban el poder religioso, y muchos creyentes reaccionaron con indignación. En pocos meses, el descontento se transformó en una rebelión armada que se extendió por varias regiones del país. Se calcula que la violencia dejó alrededor de 250.000 muertos.\n\nLo que más llama la atención es el papel destacado de las mujeres, que organizaron redes de apoyo, transportaron mensajes y escondieron a los combatientes. Aunque el conflicto terminó con un acuerdo entre ambas partes, las heridas tardaron décadas en cerrarse. Todavía hoy, este episodio ayuda a entender la tensa relación entre la política y la religión en México, así como la fuerza de la memoria histórica.",
+    "vocab": [
+     {
+      "front": "el enfrentamiento",
+      "pos": "noun",
+      "back": "clash, confrontation",
+      "example": "El enfrentamiento entre los dos bandos duró varios años.",
+      "tier": "B2"
+     },
+     {
+      "front": "estallar",
+      "pos": "verb",
+      "back": "to break out, erupt",
+      "example": "La guerra estalló de forma inesperada.",
+      "tier": "B2"
+     },
+     {
+      "front": "el creyente",
+      "pos": "noun",
+      "back": "believer (religious)",
+      "example": "Miles de creyentes acudieron a la iglesia.",
+      "tier": "B1"
+     },
+     {
+      "front": "la indignación",
+      "pos": "noun",
+      "back": "outrage, indignation",
+      "example": "La noticia provocó una gran indignación.",
+      "tier": "B2"
+     },
+     {
+      "front": "el descontento",
+      "pos": "noun",
+      "back": "discontent, unrest",
+      "example": "El descontento social creció con rapidez.",
+      "tier": "B2"
+     },
+     {
+      "front": "la rebelión armada",
+      "pos": "phrase",
+      "back": "armed rebellion",
+      "example": "El pueblo inició una rebelión armada contra el gobierno.",
+      "tier": "B2"
+     },
+     {
+      "front": "extenderse",
+      "pos": "verb",
+      "back": "to spread",
+      "example": "El fuego se extendió por todo el bosque.",
+      "tier": "B1"
+     },
+     {
+      "front": "el papel (destacado)",
+      "pos": "noun",
+      "back": "(prominent) role",
+      "example": "Ella tuvo un papel destacado en la reforma.",
+      "tier": "B1"
+     },
+     {
+      "front": "la red de apoyo",
+      "pos": "phrase",
+      "back": "support network",
+      "example": "Crearon una red de apoyo para las familias.",
+      "tier": "B1"
+     },
+     {
+      "front": "esconder",
+      "pos": "verb",
+      "back": "to hide (someone/something)",
+      "example": "Escondieron los documentos en el sótano.",
+      "tier": "B1"
+     },
+     {
+      "front": "la herida",
+      "pos": "noun",
+      "back": "wound (also figurative)",
+      "example": "Las heridas del pasado siguen abiertas.",
+      "tier": "B1"
+     },
+     {
+      "front": "la memoria histórica",
+      "pos": "phrase",
+      "back": "historical memory",
+      "example": "El museo defiende la memoria histórica del país.",
+      "tier": "C1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "En pocos meses, el descontento se transformó en una rebelión armada que se extendió por varias regiones del país.",
+      "point": "Pretérito indefinido para narrar hechos concluidos",
+      "explanation": "Usamos 'transformó' y 'extendió' para presentar acciones terminadas dentro de una narración histórica.",
+      "why_tricky": "Ambos verbos son reflexivos ('se transformó', 'se extendió'), por lo que el 'se' es obligatorio y cambia el sentido."
+     },
+     {
+      "sentence": "Se calcula que la violencia dejó alrededor de 250.000 muertos.",
+      "point": "'Se' impersonal con verbo de estimación",
+      "explanation": "'Se calcula que' introduce una cifra sin decir quién la calcula; equivale a 'se estima que'.",
+      "why_tricky": "El verbo va en tercera persona del singular aunque el dato sea un número grande."
+     },
+     {
+      "sentence": "Aunque el conflicto terminó con un acuerdo entre ambas partes, las heridas tardaron décadas en cerrarse.",
+      "point": "'Aunque' + indicativo y 'tardar en' + infinitivo",
+      "explanation": "'Aunque' con indicativo expresa un hecho real; 'tardar en cerrarse' indica cuánto tiempo cuesta algo.",
+      "why_tricky": "Muchos estudiantes olvidan la preposición 'en' en 'tardar en' y usan mal 'aunque' con subjuntivo."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "llamar la atención",
+      "meaning": "to be striking, to stand out",
+      "example": "Lo que más llama la atención es su valentía."
+     },
+     {
+      "phrase": "cerrar heridas",
+      "meaning": "to heal old wounds, move past pain",
+      "example": "El país necesita tiempo para cerrar heridas."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Por qué estalló el conflicto entre el Estado y la Iglesia?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué papel tuvieron las mujeres durante las guerras cristeras?",
+      "type": "open"
+     },
+     {
+      "q": "¿Por qué sigue siendo relevante hoy este episodio histórico?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Crees que la religión debería influir en las decisiones del gobierno? Explica tu opinión con ejemplos."
+   }
+  },
+  {
+   "pack_id": "feed-2026-08-02-lula-cuarto-mandato",
+   "title": "Brasil: Partido de los Trabajadores proclama a Lula como candidato para un cuarto mandato",
+   "source": "RFI Español",
+   "date": "2026-08-02",
+   "level": "B1-B2",
+   "topics": [
+    "política",
+    "Brasil"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-02-lula-cuarto-mandato",
+    "revision": 1,
+    "meta": {
+     "title": "Brasil: Partido de los Trabajadores proclama a Lula como candidato para un cuarto mandato",
+     "source": "RFI Español",
+     "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260802-brasil-partido-de-los-trabajadores-proclama-a-lula-como-candidato-para-un-cuarto-mandato",
+     "date_published": "2026-08-02",
+     "date_processed": "2026-08-02",
+     "tags": [
+      "política",
+      "Brasil"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "The Workers' Party officially confirmed this Sunday the candidacy of Luiz Inacio Lula da Silva for the presidential elections in October. With this decision, the president will seek a fourth term at the head of Brazil, something quite unusual in the country's politics. At his side, as candidate for the vice presidency, will once again be Geraldo Alckmin, an ally who represents more moderate sectors. The announcement marks the official start of a campaign that is expected to be very hard-fought.\n\nThe governing bloc will have to face the far right, embodied this time by senator Flavio Bolsonaro, son of former president Jair Bolsonaro. The contest promises to polarize even further a society that is already divided, in which the economy and security take a central place. The coming months will be decisive, because the result will not only define the direction of Brazil, but also its weight in the Latin American region.",
+    "resumen_es": "El Partido de los Trabajadores oficializó este domingo la candidatura de Luiz Inácio Lula da Silva para las elecciones presidenciales de octubre. Con esta decisión, el presidente buscará un cuarto mandato al frente de Brasil, algo poco común en la política del país. A su lado, como candidato a la vicepresidencia, estará de nuevo Geraldo Alckmin, un aliado que representa a sectores más moderados. El anuncio marca el arranque oficial de una campaña que se prevé muy disputada.\n\nEl bloque oficialista tendrá que enfrentarse a la extrema derecha, encarnada esta vez por el senador Flávio Bolsonaro, hijo del expresidente Jair Bolsonaro. La contienda promete polarizar aún más a una sociedad ya dividida, en la que la economía y la seguridad ocupan un lugar central. Los próximos meses serán decisivos, porque el resultado no solo definirá el rumbo de Brasil, sino también su peso en la región latinoamericana.",
+    "vocab": [
+     {
+      "front": "oficializar",
+      "pos": "verb",
+      "back": "to make official",
+      "example": "El club oficializó el fichaje del jugador.",
+      "tier": "B2"
+     },
+     {
+      "front": "la candidatura",
+      "pos": "noun",
+      "back": "candidacy",
+      "example": "Presentó su candidatura a la alcaldía.",
+      "tier": "B1"
+     },
+     {
+      "front": "el mandato",
+      "pos": "noun",
+      "back": "term of office",
+      "example": "Su mandato terminará el año que viene.",
+      "tier": "B2"
+     },
+     {
+      "front": "al frente de",
+      "pos": "phrase",
+      "back": "at the head of, in charge of",
+      "example": "Está al frente de una gran empresa.",
+      "tier": "B2"
+     },
+     {
+      "front": "el aliado",
+      "pos": "noun",
+      "back": "ally",
+      "example": "Buscan nuevos aliados para la votación.",
+      "tier": "B1"
+     },
+     {
+      "front": "el arranque",
+      "pos": "noun",
+      "back": "start, kick-off",
+      "example": "El arranque de la temporada fue prometedor.",
+      "tier": "B2"
+     },
+     {
+      "front": "disputado/a",
+      "pos": "adj",
+      "back": "hard-fought, closely contested",
+      "example": "Fue una final muy disputada.",
+      "tier": "B2"
+     },
+     {
+      "front": "el bloque oficialista",
+      "pos": "phrase",
+      "back": "the governing bloc",
+      "example": "El bloque oficialista aprobó la ley.",
+      "tier": "C1"
+     },
+     {
+      "front": "encarnar",
+      "pos": "verb",
+      "back": "to embody, personify",
+      "example": "Ese líder encarna las ideas del partido.",
+      "tier": "C1"
+     },
+     {
+      "front": "la contienda",
+      "pos": "noun",
+      "back": "contest, race (electoral)",
+      "example": "La contienda electoral será muy reñida.",
+      "tier": "C1"
+     },
+     {
+      "front": "polarizar",
+      "pos": "verb",
+      "back": "to polarize",
+      "example": "El debate polarizó a la opinión pública.",
+      "tier": "B2"
+     },
+     {
+      "front": "el rumbo",
+      "pos": "noun",
+      "back": "course, direction",
+      "example": "El país necesita cambiar de rumbo.",
+      "tier": "B2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Con esta decisión, el presidente buscará un cuarto mandato al frente de Brasil, algo poco común en la política del país.",
+      "point": "Futuro simple para hablar de intenciones y planes",
+      "explanation": "'Buscará' expresa una acción prevista en el futuro cercano dentro de un contexto político.",
+      "why_tricky": "El futuro simple compite con 'ir a + infinitivo'; aquí suena más formal y periodístico."
+     },
+     {
+      "sentence": "El bloque oficialista tendrá que enfrentarse a la extrema derecha, encarnada esta vez por el senador Flávio Bolsonaro, hijo del expresidente Jair Bolsonaro.",
+      "point": "'Tener que' + infinitivo y participio con valor pasivo",
+      "explanation": "'Tendrá que enfrentarse' expresa obligación; 'encarnada por' funciona como una pasiva reducida.",
+      "why_tricky": "El participio 'encarnada' concuerda con 'la extrema derecha' y omite el verbo 'ser'."
+     },
+     {
+      "sentence": "Los próximos meses serán decisivos, porque el resultado no solo definirá el rumbo de Brasil, sino también su peso en la región latinoamericana.",
+      "point": "Correlación 'no solo... sino también'",
+      "explanation": "Esta estructura añade una idea a otra y refuerza el contraste entre ambas.",
+      "why_tricky": "Debe usarse 'sino' (no 'pero') y mantener el paralelismo entre las dos partes."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "al frente de",
+      "meaning": "leading or in charge of something",
+      "example": "Lleva diez años al frente de la organización."
+     },
+     {
+      "phrase": "cambiar de rumbo",
+      "meaning": "to change direction or strategy",
+      "example": "La empresa decidió cambiar de rumbo tras las pérdidas."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Qué decisión tomó el Partido de los Trabajadores este domingo?",
+      "type": "open"
+     },
+     {
+      "q": "¿Por qué se considera poco común un cuarto mandato?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué temas ocuparán un lugar central en la campaña?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Es bueno o malo que un mismo líder gobierne durante muchos mandatos? Justifica tu respuesta."
+   }
+  },
+  {
+   "pack_id": "feed-2026-08-02-ceuta-migracion",
+   "title": "Cómo la crisis migratoria en Ceuta desató una tormenta política, avivada por las redes sociales",
+   "source": "BBC Mundo",
+   "date": "2026-08-02",
+   "level": "B1-B2",
+   "topics": [
+    "migración",
+    "Europa"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-02-ceuta-migracion",
+    "revision": 1,
+    "meta": {
+     "title": "Cómo la crisis migratoria en Ceuta desató una tormenta política, avivada por las redes sociales",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/ce8k6y8ym3no?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-08-02",
+     "date_processed": "2026-08-02",
+     "tags": [
+      "migración",
+      "Europa"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "The Spanish city of Ceuta was in the news again after many people tried to cross from Morocco into European territory. The images of crowds at the border revived a sensitive debate and sparked a strong political storm. Many citizens expressed their concern, while the parties accused each other of managing the situation badly. Social media amplified the conflict and spread messages that increased the tension.\n\nThis episode highlights the deep divisions that exist in Europe around migration. For some, more control and firmness at the borders is needed; for others, the urgent thing is to protect the rights of those who flee poverty or war. Behind every figure there are complex human stories, and finding a balance between security and solidarity remains one of the continent's biggest challenges.",
+    "resumen_es": "La ciudad española de Ceuta volvió a ser noticia después de que numerosas personas intentaran cruzar desde Marruecos hacia territorio europeo. Las imágenes de multitudes en la frontera reavivaron un debate delicado y provocaron una fuerte tormenta política. Muchos ciudadanos expresaron su preocupación, mientras los partidos se acusaban entre sí de gestionar mal la situación. Las redes sociales amplificaron el conflicto y difundieron mensajes que aumentaron la tensión.\n\nEste episodio pone de relieve las profundas divisiones que existen en Europa en torno a la migración. Para algunos, hace falta más control y firmeza en las fronteras; para otros, lo urgente es proteger los derechos de quienes huyen de la pobreza o de la guerra. Detrás de cada cifra hay historias humanas complejas, y encontrar un equilibrio entre seguridad y solidaridad sigue siendo uno de los mayores retos del continente.",
+    "vocab": [
+     {
+      "front": "volver a ser noticia",
+      "pos": "phrase",
+      "back": "to be back in the news",
+      "example": "El actor volvió a ser noticia por su nueva película.",
+      "tier": "B1"
+     },
+     {
+      "front": "la multitud",
+      "pos": "noun",
+      "back": "crowd",
+      "example": "Una multitud esperaba frente al estadio.",
+      "tier": "B1"
+     },
+     {
+      "front": "la frontera",
+      "pos": "noun",
+      "back": "border",
+      "example": "Cruzaron la frontera al amanecer.",
+      "tier": "B1"
+     },
+     {
+      "front": "reavivar",
+      "pos": "verb",
+      "back": "to reignite, revive",
+      "example": "El discurso reavivó viejas tensiones.",
+      "tier": "C1"
+     },
+     {
+      "front": "la tormenta política",
+      "pos": "phrase",
+      "back": "political storm",
+      "example": "Sus declaraciones desataron una tormenta política.",
+      "tier": "B2"
+     },
+     {
+      "front": "gestionar",
+      "pos": "verb",
+      "back": "to manage, handle",
+      "example": "El alcalde no supo gestionar la crisis.",
+      "tier": "B2"
+     },
+     {
+      "front": "amplificar",
+      "pos": "verb",
+      "back": "to amplify",
+      "example": "Internet amplifica cualquier rumor.",
+      "tier": "B2"
+     },
+     {
+      "front": "poner de relieve",
+      "pos": "phrase",
+      "back": "to highlight, underscore",
+      "example": "El informe pone de relieve un problema grave.",
+      "tier": "C1"
+     },
+     {
+      "front": "hacer falta",
+      "pos": "phrase",
+      "back": "to be needed",
+      "example": "Hace falta más personal en el hospital.",
+      "tier": "B1"
+     },
+     {
+      "front": "huir",
+      "pos": "verb",
+      "back": "to flee",
+      "example": "Muchas familias huyen de la guerra.",
+      "tier": "B1"
+     },
+     {
+      "front": "el reto",
+      "pos": "noun",
+      "back": "challenge",
+      "example": "Reducir la pobreza es un gran reto.",
+      "tier": "B1"
+     },
+     {
+      "front": "en torno a",
+      "pos": "phrase",
+      "back": "regarding, around (a topic)",
+      "example": "Hay mucho debate en torno a este tema.",
+      "tier": "B2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "La ciudad española de Ceuta volvió a ser noticia después de que numerosas personas intentaran cruzar desde Marruecos hacia territorio europeo.",
+      "point": "'Después de que' + subjuntivo",
+      "explanation": "Tras 'después de que' se usa el subjuntivo ('intentaran') para referirse a la acción subordinada.",
+      "why_tricky": "En el habla informal se oye el indicativo, pero la norma culta prefiere el subjuntivo."
+     },
+     {
+      "sentence": "Muchos ciudadanos expresaron su preocupación, mientras los partidos se acusaban entre sí de gestionar mal la situación.",
+      "point": "Contraste pretérito indefinido / imperfecto",
+      "explanation": "'Expresaron' marca un hecho puntual; 'se acusaban' describe una acción en desarrollo de fondo.",
+      "why_tricky": "Elegir entre indefinido e imperfecto según si la acción es puntual o continua confunde a menudo."
+     },
+     {
+      "sentence": "Para algunos, hace falta más control y firmeza en las fronteras; para otros, lo urgente es proteger los derechos de quienes huyen de la pobreza o de la guerra.",
+      "point": "'Hace falta' y el neutro 'lo + adjetivo'",
+      "explanation": "'Hace falta' expresa necesidad; 'lo urgente' convierte un adjetivo en una idea abstracta.",
+      "why_tricky": "El 'lo' neutro no tiene equivalente directo en inglés y cuesta usarlo con naturalidad."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "poner de relieve",
+      "meaning": "to highlight or bring attention to something",
+      "example": "La crisis puso de relieve la falta de recursos."
+     },
+     {
+      "phrase": "acusarse entre sí",
+      "meaning": "to blame one another",
+      "example": "Los socios se acusaban entre sí del fracaso."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Qué provocó la tormenta política en Ceuta?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué papel jugaron las redes sociales en el conflicto?",
+      "type": "open"
+     },
+     {
+      "q": "¿Cuáles son las dos posturas principales sobre la migración?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "En tu opinión, ¿cómo deberían equilibrar los países la seguridad de las fronteras y la solidaridad con los migrantes?"
+   }
+  },
   {
    "pack_id": "feed-2026-08-02-tornillo-estandar",
    "title": "Cómo un tornillo ayudó a EE.UU. a conquistar el mundo",
@@ -6248,499 +6734,6 @@
      }
     ],
     "opinion_prompt": "¿Crees que el Estado debería ayudar a las familias a terminar sus viviendas? Explica tu opinión con ejemplos."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-27-repartidor-poeta-china",
-   "title": "Escribía versos entre entrega y entrega: el repartidor de comida que ganó uno de los mayores premios literarios de China",
-   "source": "BBC Mundo",
-   "date": "2026-07-27",
-   "level": "B1-B2",
-   "topics": [
-    "cultura",
-    "literatura"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-27-repartidor-poeta-china",
-    "revision": 1,
-    "meta": {
-     "title": "Escribía versos entre entrega y entrega: el repartidor de comida que ganó uno de los mayores premios literarios de China",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/c8enw1n5ngjo?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-07-22",
-     "date_processed": "2026-07-27",
-     "tags": [
-      "cultura",
-      "literatura"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "A food delivery worker has become news in China after winning one of the country's most important literary prizes. Between one delivery and the next, this worker used his free moments to write verses on his phone, often while waiting for an order at a restaurant door. His story has moved thousands of people and has highlighted the talent that hides in the humblest jobs.\n\nHis victory comes at a time when more and more manual workers are leaving their mark on the Chinese literary world. Far from academic circles, these authors write about everyday life, tiredness and the dreams of ordinary people. For many readers, their poems feel more authentic precisely because they are born from daily experience. The delivery worker's success shows that literature does not belong only to an elite.",
-    "resumen_es": "Un repartidor de comida a domicilio se ha convertido en noticia en China tras ganar uno de los premios literarios más importantes del país. Entre entrega y entrega, este trabajador aprovechaba los ratos libres para escribir versos en el teléfono, muchas veces mientras esperaba un pedido en la puerta de un restaurante. Su historia ha emocionado a miles de personas y ha puesto de relieve el talento que se esconde en los oficios más humildes.\n\nSu victoria llega en un momento en el que cada vez más trabajadores manuales están dejando huella en el mundo literario chino. Lejos de los círculos académicos, estos autores escriben sobre la vida cotidiana, el cansancio y los sueños de la gente común. Para muchos lectores, sus poemas resultan más auténticos precisamente porque nacen de la experiencia diaria. El éxito del repartidor demuestra que la literatura no pertenece solo a una élite.",
-    "vocab": [
-     {
-      "front": "el repartidor",
-      "pos": "noun",
-      "back": "delivery worker",
-      "example": "El repartidor llegó con la pizza en diez minutos.",
-      "tier": "B1"
-     },
-     {
-      "front": "a domicilio",
-      "pos": "phrase",
-      "back": "home delivery, to your door",
-      "example": "Pedimos la cena a domicilio.",
-      "tier": "B1"
-     },
-     {
-      "front": "la entrega",
-      "pos": "noun",
-      "back": "delivery",
-      "example": "Tiene que hacer treinta entregas al día.",
-      "tier": "B1"
-     },
-     {
-      "front": "aprovechar",
-      "pos": "verb",
-      "back": "to make the most of",
-      "example": "Aprovecha el fin de semana para descansar.",
-      "tier": "B1"
-     },
-     {
-      "front": "los ratos libres",
-      "pos": "phrase",
-      "back": "spare moments",
-      "example": "En los ratos libres lee novelas.",
-      "tier": "B2"
-     },
-     {
-      "front": "el verso",
-      "pos": "noun",
-      "back": "verse, line of poetry",
-      "example": "Escribió unos versos para su madre.",
-      "tier": "B2"
-     },
-     {
-      "front": "poner de relieve",
-      "pos": "phrase",
-      "back": "to highlight, to bring to light",
-      "example": "El informe pone de relieve el problema.",
-      "tier": "C1"
-     },
-     {
-      "front": "el oficio",
-      "pos": "noun",
-      "back": "trade, occupation",
-      "example": "La carpintería es un oficio antiguo.",
-      "tier": "B2"
-     },
-     {
-      "front": "humilde",
-      "pos": "adj",
-      "back": "humble, modest",
-      "example": "Viene de una familia humilde.",
-      "tier": "B1"
-     },
-     {
-      "front": "dejar huella",
-      "pos": "phrase",
-      "back": "to leave a mark",
-      "example": "Ese profesor dejó huella en sus alumnos.",
-      "tier": "B2"
-     },
-     {
-      "front": "cotidiano",
-      "pos": "adj",
-      "back": "everyday, daily",
-      "example": "Escribe sobre la vida cotidiana.",
-      "tier": "B2"
-     },
-     {
-      "front": "pertenecer",
-      "pos": "verb",
-      "back": "to belong",
-      "example": "Ese libro pertenece a la biblioteca.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Su victoria llega en un momento en el que cada vez más trabajadores manuales están dejando huella en el mundo literario chino.",
-      "point": "Relativo 'en el que' y 'estar' + gerundio",
-      "explanation": "'En el que' es un relativo con preposición que se refiere a 'un momento'. 'Están dejando' expresa una acción en desarrollo.",
-      "why_tricky": "En español no se puede omitir la preposición del relativo como a veces ocurre en inglés ('a time when')."
-     },
-     {
-      "sentence": "Entre entrega y entrega, este trabajador aprovechaba los ratos libres para escribir versos en el teléfono, muchas veces mientras esperaba un pedido en la puerta de un restaurante.",
-      "point": "Imperfecto para acciones habituales",
-      "explanation": "'Aprovechaba' y 'esperaba' están en imperfecto porque describen acciones repetidas y habituales en el pasado.",
-      "why_tricky": "El imperfecto no marca un momento concreto, sino una costumbre; con indefinido cambiaría el sentido."
-     },
-     {
-      "sentence": "Para muchos lectores, sus poemas resultan más auténticos precisamente porque nacen de la experiencia diaria.",
-      "point": "El verbo 'resultar' + adjetivo",
-      "explanation": "'Resultar' aquí significa 'parecer' o 'ser percibido como', seguido de un adjetivo que concuerda con el sujeto.",
-      "why_tricky": "'Resultar' no siempre indica resultado; a menudo expresa una impresión o valoración."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "dejar huella",
-      "meaning": "causar una impresión duradera en alguien o algo",
-      "example": "Su primer disco dejó huella en toda una generación."
-     },
-     {
-      "phrase": "entre entrega y entrega",
-      "meaning": "en los momentos libres entre una tarea y otra",
-      "example": "Entre reunión y reunión, contestaba correos."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Cómo y cuándo escribía sus poemas el repartidor?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué tienen en común los nuevos autores de los que habla el texto?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué demuestra, según el artículo, el éxito de este repartidor?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Crees que la experiencia de la vida diaria hace mejor a un escritor? Justifica tu respuesta."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-27-dientes-vuelven-crecer",
-   "title": "Los científicos que buscan que los dientes que perdemos vuelvan a crecer",
-   "source": "BBC Mundo",
-   "date": "2026-07-27",
-   "level": "B1-B2",
-   "topics": [
-    "ciencia",
-    "salud"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-27-dientes-vuelven-crecer",
-    "revision": 1,
-    "meta": {
-     "title": "Los científicos que buscan que los dientes que perdemos vuelvan a crecer",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/c8enwyp2374o?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-07-22",
-     "date_processed": "2026-07-27",
-     "tags": [
-      "ciencia",
-      "salud"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "A group of scientists is working on a goal that until recently seemed like science fiction: getting the teeth we lose to grow back naturally. Although teeth play a more important role in health than many people think, current solutions, such as implants or false teeth, tend to be temporary and unsatisfactory. For this reason, the idea of regenerating dental pieces arouses so much interest among doctors and patients.\n\nThe most recent research focuses on certain drugs capable of triggering the growth of new teeth in animals. If these experiments came to work in humans, they could completely change the dentistry of the future. For now, experts urge caution, since there is a long way to go before applying the treatment to patients. Even so, many trust that within a few years going to the dentist will be a very different experience.",
-    "resumen_es": "Un grupo de científicos trabaja en un objetivo que hasta hace poco parecía ciencia ficción: lograr que los dientes que perdemos vuelvan a crecer de forma natural. Aunque los dientes cumplen un papel más importante en la salud de lo que mucha gente cree, las soluciones actuales, como los implantes o las dentaduras postizas, suelen ser temporales y poco satisfactorias. Por eso, la idea de regenerar piezas dentales despierta tanto interés entre médicos y pacientes.\n\nLas investigaciones más recientes se centran en ciertos fármacos capaces de activar el crecimiento de nuevos dientes en animales. Si estos experimentos llegaran a funcionar en humanos, podrían cambiar por completo la odontología del futuro. De momento, los expertos piden cautela, ya que queda un largo camino por recorrer antes de aplicar el tratamiento en pacientes. Aun así, muchos confían en que dentro de unos años ir al dentista sea una experiencia muy distinta.",
-    "vocab": [
-     {
-      "front": "lograr",
-      "pos": "verb",
-      "back": "to achieve, to manage to",
-      "example": "Logró aprobar todos los exámenes.",
-      "tier": "B1"
-     },
-     {
-      "front": "el diente",
-      "pos": "noun",
-      "back": "tooth",
-      "example": "Me duele un diente desde ayer.",
-      "tier": "B1"
-     },
-     {
-      "front": "volver a crecer",
-      "pos": "phrase",
-      "back": "to grow back",
-      "example": "El pelo le volvió a crecer tras el tratamiento.",
-      "tier": "B1"
-     },
-     {
-      "front": "cumplir un papel",
-      "pos": "phrase",
-      "back": "to play a role",
-      "example": "El sueño cumple un papel clave en la memoria.",
-      "tier": "B2"
-     },
-     {
-      "front": "el implante",
-      "pos": "noun",
-      "back": "implant",
-      "example": "Le pusieron un implante dental.",
-      "tier": "B2"
-     },
-     {
-      "front": "la dentadura postiza",
-      "pos": "phrase",
-      "back": "false teeth, dentures",
-      "example": "Mi abuelo usa dentadura postiza.",
-      "tier": "B2"
-     },
-     {
-      "front": "regenerar",
-      "pos": "verb",
-      "back": "to regenerate",
-      "example": "La piel es capaz de regenerarse sola.",
-      "tier": "B2"
-     },
-     {
-      "front": "el fármaco",
-      "pos": "noun",
-      "back": "drug, medication",
-      "example": "Están probando un nuevo fármaco contra la gripe.",
-      "tier": "B2"
-     },
-     {
-      "front": "pedir cautela",
-      "pos": "phrase",
-      "back": "to urge caution",
-      "example": "Los médicos piden cautela con los resultados.",
-      "tier": "B2"
-     },
-     {
-      "front": "quedar un largo camino por recorrer",
-      "pos": "phrase",
-      "back": "to have a long way to go",
-      "example": "Queda un largo camino por recorrer hasta la igualdad.",
-      "tier": "C1"
-     },
-     {
-      "front": "la odontología",
-      "pos": "noun",
-      "back": "dentistry",
-      "example": "Estudia odontología en la universidad.",
-      "tier": "B2"
-     },
-     {
-      "front": "aun así",
-      "pos": "adv",
-      "back": "even so",
-      "example": "Estaba cansado; aun así, terminó el trabajo.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Si estos experimentos llegaran a funcionar en humanos, podrían cambiar por completo la odontología del futuro.",
-      "point": "Condicional irreal (imperfecto de subjuntivo + condicional)",
-      "explanation": "'Si + imperfecto de subjuntivo' ('llegaran') más 'condicional simple' ('podrían') expresa una situación hipotética y poco probable en el presente o futuro.",
-      "why_tricky": "No se puede usar el futuro tras 'si'; hay que usar el subjuntivo en la condición."
-     },
-     {
-      "sentence": "De momento, los expertos piden cautela, ya que queda un largo camino por recorrer antes de aplicar el tratamiento en pacientes.",
-      "point": "'Ya que' causal y 'por' + infinitivo",
-      "explanation": "'Ya que' introduce una causa conocida. 'Por recorrer' indica algo que todavía no se ha hecho pero está pendiente.",
-      "why_tricky": "La estructura 'quedar + por + infinitivo' expresa tareas pendientes, distinta de 'para + infinitivo'."
-     },
-     {
-      "sentence": "Aun así, muchos confían en que dentro de unos años ir al dentista sea una experiencia muy distinta.",
-      "point": "Subjuntivo tras 'confiar en que'",
-      "explanation": "'Confiar en que' expresa deseo o esperanza, por lo que el verbo siguiente va en subjuntivo ('sea').",
-      "why_tricky": "Aunque parece una afirmación, la esperanza sobre el futuro pide subjuntivo, no indicativo."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "quedar un largo camino por recorrer",
-      "meaning": "faltar todavía mucho trabajo para conseguir algo",
-      "example": "Hemos avanzado, pero queda un largo camino por recorrer."
-     },
-     {
-      "phrase": "hasta hace poco",
-      "meaning": "hace muy poco tiempo, recientemente",
-      "example": "Hasta hace poco vivía en Madrid."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué objetivo persiguen los científicos del artículo?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué las soluciones actuales no convencen del todo?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué piden cautela los expertos?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Te gustaría que existiera un tratamiento para regenerar los dientes? Explica qué ventajas y riesgos verías."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-26-fisica-mexicana",
-   "title": "Alejandra Jáidar, la primera física mexicana y su rol clave para que México albergara uno de los aceleradores de partículas en operación \"más antiguos del mundo\"",
-   "source": "BBC Mundo",
-   "date": "2026-07-17",
-   "level": "B1-B2",
-   "topics": [
-    "ciencia",
-    "historia"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-26-fisica-mexicana",
-    "revision": 1,
-    "meta": {
-     "title": "Alejandra Jáidar, la primera física mexicana y su rol clave para que México albergara uno de los aceleradores de partículas en operación \"más antiguos del mundo\"",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/ckg429098vyo?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-07-17",
-     "date_processed": "2026-07-26",
-     "tags": [
-      "ciencia",
-      "historia"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "Alejandra Jáidar was a pioneer of science in Mexico. She became the first woman to graduate as a physicist in the country and, throughout her career, she opened the way for many other researchers. Beyond her work in the laboratory, she played a decisive role in helping Mexico obtain one of the oldest particle accelerators still in operation in the world.\n\nHowever, her legacy is not limited to research. Jáidar devoted much of her energy to science communication and worked hard to bring physics closer to the general public in Spanish. Thanks to this effort, science stopped being a field reserved for a few people and became more accessible to students and curious minds. Today her name is remembered as a symbol of perseverance and of the struggle to open up spaces for women in science.",
-    "resumen_es": "Alejandra Jáidar fue una pionera de la ciencia en México. Se convirtió en la primera mujer que se graduó como física en el país y, a lo largo de su carrera, abrió camino para muchas otras investigadoras. Además de su labor en el laboratorio, desempeñó un papel decisivo en que México pudiera contar con uno de los aceleradores de partículas más antiguos que siguen en funcionamiento en el mundo.\n\nSin embargo, su legado no se limita a la investigación. Jáidar dedicó buena parte de su energía a la divulgación científica y trabajó con empeño para acercar la física al público general en español. Gracias a este esfuerzo, la ciencia dejó de ser un terreno reservado a unos pocos y se volvió más accesible para estudiantes y curiosos. Hoy su nombre se recuerda como símbolo de constancia y de la lucha por abrir espacios a las mujeres en la ciencia.",
-    "vocab": [
-     {
-      "front": "pionera",
-      "pos": "noun",
-      "back": "pioneer (female)",
-      "example": "Fue una pionera en su campo.",
-      "tier": "B1"
-     },
-     {
-      "front": "graduarse",
-      "pos": "verb",
-      "back": "to graduate",
-      "example": "Se graduó como física.",
-      "tier": "B1"
-     },
-     {
-      "front": "abrir camino",
-      "pos": "phrase",
-      "back": "to pave the way",
-      "example": "Su trabajo abrió camino para otras mujeres.",
-      "tier": "B2"
-     },
-     {
-      "front": "desempeñar un papel",
-      "pos": "phrase",
-      "back": "to play a role",
-      "example": "Desempeñó un papel clave en el proyecto.",
-      "tier": "B2"
-     },
-     {
-      "front": "acelerador de partículas",
-      "pos": "noun",
-      "back": "particle accelerator",
-      "example": "El país construyó un acelerador de partículas.",
-      "tier": "C1"
-     },
-     {
-      "front": "en funcionamiento",
-      "pos": "phrase",
-      "back": "in operation, working",
-      "example": "La máquina sigue en funcionamiento.",
-      "tier": "B2"
-     },
-     {
-      "front": "legado",
-      "pos": "noun",
-      "back": "legacy",
-      "example": "Dejó un gran legado científico.",
-      "tier": "B2"
-     },
-     {
-      "front": "divulgación",
-      "pos": "noun",
-      "back": "outreach, popularization",
-      "example": "Se dedicó a la divulgación de la ciencia.",
-      "tier": "B2"
-     },
-     {
-      "front": "con empeño",
-      "pos": "phrase",
-      "back": "with determination",
-      "example": "Trabajó con empeño toda su vida.",
-      "tier": "B2"
-     },
-     {
-      "front": "acercar",
-      "pos": "verb",
-      "back": "to bring closer",
-      "example": "Quiso acercar la física al público.",
-      "tier": "B1"
-     },
-     {
-      "front": "terreno reservado a",
-      "pos": "phrase",
-      "back": "field reserved for",
-      "example": "La ciencia era un terreno reservado a unos pocos.",
-      "tier": "C1"
-     },
-     {
-      "front": "constancia",
-      "pos": "noun",
-      "back": "perseverance",
-      "example": "Logró su meta gracias a su constancia.",
-      "tier": "B2"
-     },
-     {
-      "front": "volverse",
-      "pos": "verb",
-      "back": "to become",
-      "example": "El tema se volvió más accesible.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Alejandra Jáidar fue una pionera de la ciencia en México.",
-      "point": "Pretérito indefinido con 'ser'",
-      "explanation": "Se usa 'fue' (pretérito de 'ser') para definir el papel o la identidad de alguien en el pasado, visto como un hecho completo.",
-      "why_tricky": "En inglés se dice 'was', pero el español distingue entre 'fue' (indefinido) y 'era' (imperfecto); aquí se elige el indefinido porque describe su papel global ya cerrado."
-     },
-     {
-      "sentence": "Gracias a este esfuerzo, la ciencia dejó de ser un terreno reservado a unos pocos y se volvió más accesible para estudiantes y curiosos.",
-      "point": "'dejar de + infinitivo' y 'volverse'",
-      "explanation": "'dejar de + infinitivo' expresa que una acción termina; 'volverse + adjetivo' expresa un cambio de estado más o menos permanente.",
-      "why_tricky": "Hay varios verbos de cambio en español (volverse, hacerse, ponerse) y elegir el correcto no es evidente para un anglohablante."
-     },
-     {
-      "sentence": "Jáidar dedicó buena parte de su energía a la divulgación científica y trabajó con empeño para acercar la física al público general en español.",
-      "point": "'para + infinitivo' de finalidad",
-      "explanation": "'para acercar' introduce el propósito de la acción: trabajó con un objetivo concreto.",
-      "why_tricky": "Se confunde a menudo 'para' con 'por'; aquí es 'para' porque indica finalidad, no causa."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "abrir camino",
-      "meaning": "allanar el terreno para que otros puedan seguir",
-      "example": "Con su esfuerzo abrió camino a toda una generación."
-     },
-     {
-      "phrase": "dejar huella",
-      "meaning": "tener un impacto duradero",
-      "example": "Su labor dejó huella en la ciencia mexicana."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Por qué se considera a Alejandra Jáidar una pionera en la ciencia mexicana?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué importancia tuvo su trabajo en la divulgación científica?",
-      "type": "open"
-     },
-     {
-      "q": "¿Cómo crees que su ejemplo puede influir en las jóvenes que quieren estudiar ciencia hoy?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Crees que la divulgación científica es tan importante como la investigación? Escribe un párrafo explicando tu opinión con ejemplos."
    }
   }
  ]
