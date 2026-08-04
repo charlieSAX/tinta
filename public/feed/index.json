@@ -1,167 +1,174 @@
 {
-  "generated_at": "2026-08-04T20:11:37.876979Z",
+  "generated_at": "2026-08-04T20:17:30.976481Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
     {
-      "pack_id": "feed-2026-08-04-ceuta-crisis-migratoria",
-      "title": "Ceuta: Marruecos culpa a la desinformación y al tráfico de personas por la ola migratoria",
+      "pack_id": "feed-2026-08-04-reino-unido-constitucion-escrita",
+      "title": "Andy Burnham quiere dotar al Reino Unido de una Constitución escrita",
       "source": "RFI Español",
       "date": "2026-08-04",
       "level": "B1-B2",
       "topics": [
-        "migración",
-        "fronteras"
+        "política",
+        "Reino Unido"
       ],
       "pack": {
-        "pack_id": "feed-2026-08-04-ceuta-crisis-migratoria",
+        "pack_id": "feed-2026-08-04-reino-unido-constitucion-escrita",
         "revision": 1,
         "meta": {
-          "title": "Ceuta: Marruecos culpa a la desinformación y al tráfico de personas por la ola migratoria",
+          "title": "Andy Burnham quiere dotar al Reino Unido de una Constitución escrita",
           "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/europa/20260803-ceuta-marruecos-culpa-a-la-desinformaci%C3%B3n-y-al-tr%C3%A1fico-de-personas-por-la-ola-migratoria",
+          "url": "https://www.rfi.fr/es/europa/20260803-andy-burnham-quiere-dotar-al-reino-unido-de-una-constituci%C3%B3n-escrita",
           "date_published": "2026-08-03",
           "date_processed": "2026-08-04",
           "tags": [
-            "migración",
-            "fronteras"
+            "política",
+            "Reino Unido"
           ],
           "level": "B1-B2"
         },
-        "summary_en": "Almost five days after the start of an unprecedented migration crisis in the north of Morocco, the Interior Ministry broke its silence. According to the statement, the wave of young people who tried to reach Ceuta is explained above all by disinformation spread on social media and by people-trafficking networks.\n\nThe episode once again brings up the fragility of the border between Morocco and Spain. Ceuta, a Spanish city located in the north of Africa, has functioned for years as a gateway into the European Union, and every crisis of this kind tends to result in diplomatic meetings and police reinforcements. Meanwhile, the families affected are still waiting for clear explanations about what happened.",
-        "resumen_es": "Casi cinco días después del inicio de una crisis migratoria sin precedentes en el norte de Marruecos, el Ministerio del Interior rompió su silencio. Según el comunicado, la ola de jóvenes que intentó llegar a Ceuta se explica sobre todo por la desinformación difundida en las redes sociales y por las redes de tráfico de personas.\n\nEl episodio vuelve a poner sobre la mesa la fragilidad de la frontera entre Marruecos y España. Ceuta, ciudad española situada en el norte de África, funciona desde hace años como puerta de entrada a la Unión Europea, y cada crisis de este tipo suele traducirse en reuniones diplomáticas y en refuerzos policiales. Mientras tanto, las familias afectadas siguen esperando explicaciones claras sobre lo ocurrido.",
+        "summary_en": "The United Kingdom is one of the oldest democracies in the world, but it lacks a founding text. Instead it relies on a set of precedents, laws and traditions that have gradually built up over centuries. The prime minister, Andy Burnham, believes the moment has come to change that model and give the country a written constitution.\n\nThe proposal is not straightforward. Those who defend it argue that a clear text would better protect citizens' rights and would limit the power of whichever government is in office. Its critics reply that the current flexibility allows the system to adapt without deadlock, and that drafting a constitution would open an endless debate about the monarchy, the role of judges and the relationship with Scotland and Wales. Whatever the outcome, the discussion has already begun.",
+        "resumen_es": "El Reino Unido es una de las democracias más antiguas del mundo, pero carece de un texto fundacional. En su lugar se apoya en un conjunto de precedentes, leyes y tradiciones que se han ido acumulando durante siglos. El primer ministro, Andy Burnham, considera que ha llegado el momento de cambiar ese modelo y de dotar al país de una Constitución escrita.\n\nLa propuesta no es sencilla. Quienes la defienden sostienen que un texto claro protegería mejor los derechos de los ciudadanos y limitaría el poder del Gobierno de turno. Sus críticos responden que la flexibilidad actual permite adaptarse sin bloqueos y que redactar una Constitución abriría un debate interminable sobre la monarquía, el papel de los jueces y la relación con Escocia y Gales. Sea cual sea el resultado, la discusión ya ha empezado.",
         "vocab": [
           {
-            "front": "la ola migratoria",
-            "pos": "phrase",
-            "back": "wave of migration, surge of arrivals",
-            "example": "La ola migratoria sorprendió a las autoridades locales.",
-            "tier": "B2"
-          },
-          {
-            "front": "sin precedentes",
-            "pos": "phrase",
-            "back": "unprecedented",
-            "example": "Fue una protesta sin precedentes en la región.",
-            "tier": "B2"
-          },
-          {
-            "front": "el comunicado",
-            "pos": "noun",
-            "back": "official statement, press release",
-            "example": "El ministerio publicó un comunicado muy breve.",
-            "tier": "B1"
-          },
-          {
-            "front": "la desinformación",
-            "pos": "noun",
-            "back": "disinformation, false information",
-            "example": "La desinformación circula más rápido que los datos reales.",
-            "tier": "B2"
-          },
-          {
-            "front": "difundir",
+            "front": "carecer de",
             "pos": "verb",
-            "back": "to spread, to circulate (news, rumours)",
-            "example": "Alguien difundió un vídeo falso en el grupo.",
-            "tier": "B2"
-          },
-          {
-            "front": "el tráfico de personas",
-            "pos": "phrase",
-            "back": "people trafficking, human smuggling",
-            "example": "La policía investiga una red de tráfico de personas.",
-            "tier": "B2"
-          },
-          {
-            "front": "la fragilidad",
-            "pos": "noun",
-            "back": "fragility, weakness",
-            "example": "La crisis mostró la fragilidad del acuerdo.",
-            "tier": "B2"
-          },
-          {
-            "front": "la puerta de entrada",
-            "pos": "phrase",
-            "back": "gateway, point of entry",
-            "example": "El puerto es la puerta de entrada del comercio.",
-            "tier": "B1"
-          },
-          {
-            "front": "traducirse en",
-            "pos": "verb",
-            "back": "to result in, to translate into",
-            "example": "El acuerdo se tradujo en más controles en la frontera.",
+            "back": "to lack, to be without",
+            "example": "El informe carece de datos concretos.",
             "tier": "C1"
           },
           {
-            "front": "los refuerzos",
-            "pos": "noun",
-            "back": "reinforcements (police, troops)",
-            "example": "Enviaron refuerzos a la zona esa misma noche.",
+            "front": "el texto fundacional",
+            "pos": "phrase",
+            "back": "founding document",
+            "example": "Cada república tiene su texto fundacional.",
             "tier": "B2"
           },
           {
-            "front": "soler + infinitivo",
+            "front": "apoyarse en",
             "pos": "verb",
-            "back": "to usually do something",
-            "example": "Estas crisis suelen durar varios días.",
+            "back": "to rely on, to rest on",
+            "example": "El sistema se apoya en la confianza mutua.",
+            "tier": "B2"
+          },
+          {
+            "front": "el precedente",
+            "pos": "noun",
+            "back": "precedent, earlier case",
+            "example": "El tribunal citó un precedente de 1998.",
+            "tier": "B2"
+          },
+          {
+            "front": "dotar a alguien de algo",
+            "pos": "verb",
+            "back": "to provide someone with something",
+            "example": "Quieren dotar al hospital de más camas.",
+            "tier": "C1"
+          },
+          {
+            "front": "sostener",
+            "pos": "verb",
+            "back": "to argue, to maintain (a view)",
+            "example": "Los expertos sostienen que la reforma es urgente.",
+            "tier": "B2"
+          },
+          {
+            "front": "el derecho",
+            "pos": "noun",
+            "back": "right (legal entitlement)",
+            "example": "La ley protege el derecho a la vivienda.",
             "tier": "B1"
           },
           {
-            "front": "lo ocurrido",
+            "front": "el Gobierno de turno",
             "pos": "phrase",
-            "back": "what happened, the events",
-            "example": "Nadie quiso comentar lo ocurrido esa madrugada.",
+            "back": "whichever government happens to be in power",
+            "example": "La norma no depende del Gobierno de turno.",
+            "tier": "C1"
+          },
+          {
+            "front": "el bloqueo",
+            "pos": "noun",
+            "back": "deadlock, blockage",
+            "example": "El bloqueo político duró tres meses.",
             "tier": "B2"
+          },
+          {
+            "front": "redactar",
+            "pos": "verb",
+            "back": "to draft, to write up (a formal text)",
+            "example": "Un comité redactará el nuevo reglamento.",
+            "tier": "B2"
+          },
+          {
+            "front": "interminable",
+            "pos": "adj",
+            "back": "endless, interminable",
+            "example": "Fue una reunión interminable.",
+            "tier": "B2"
+          },
+          {
+            "front": "el papel",
+            "pos": "noun",
+            "back": "role, part played by someone",
+            "example": "El papel de los jueces es decisivo aquí.",
+            "tier": "B1"
+          },
+          {
+            "front": "sea cual sea",
+            "pos": "phrase",
+            "back": "whatever it may be",
+            "example": "Sea cual sea tu decisión, la respetaré.",
+            "tier": "C1"
           }
         ],
         "grammar": [
           {
-            "sentence": "Casi cinco días después del inicio de una crisis migratoria sin precedentes en el norte de Marruecos, el Ministerio del Interior rompió su silencio.",
-            "point": "después de + noun phrase to frame a time reference",
-            "explanation": "Spanish uses 'después de' with a noun or an infinitive, never with a conjugated verb. Here the whole block 'del inicio de una crisis migratoria' is the noun phrase, and 'casi' softens the number to mean 'almost five days'.",
-            "why_tricky": "English says 'after the crisis started' with a full clause. In Spanish you would need 'después de que empezara' with the subjunctive, so writers usually nominalise it instead: 'después del inicio de'."
+            "sentence": "El Reino Unido es una de las democracias más antiguas del mundo, pero carece de un texto fundacional.",
+            "point": "carecer de + bare noun, and the superlative pattern uno de los más",
+            "explanation": "'Carecer' always takes 'de' and the noun that follows usually goes without an article: 'carece de un texto fundacional' keeps 'un' only because the text is being counted as one specific thing. 'Una de las democracias más antiguas' places 'más antiguas' after the noun inside the group.",
+            "why_tricky": "Learners drop the 'de' by analogy with 'no tener', and they often write 'una de las más antiguas democracias', copying the English word order."
           },
           {
-            "sentence": "Según el comunicado, la ola de jóvenes que intentó llegar a Ceuta se explica sobre todo por la desinformación difundida en las redes sociales y por las redes de tráfico de personas.",
-            "point": "impersonal se + reduced relative clause with a past participle",
-            "explanation": "'Se explica' is the reflexive passive: the event is explained, with no agent named. 'Difundida en las redes sociales' is a shortened relative clause standing for 'que fue difundida', and it agrees in gender and number with 'la desinformación'.",
-            "why_tricky": "Two compressions stack up in one sentence, and the participle must agree with a noun several words earlier, which is easy to miss when reading fast."
+            "sentence": "Quienes la defienden sostienen que un texto claro protegería mejor los derechos de los ciudadanos y limitaría el poder del Gobierno de turno.",
+            "point": "quienes as a headless relative, plus the conditional for a hypothetical result",
+            "explanation": "'Quienes la defienden' means 'those who defend it' with no antecedent noun, and it takes a plural verb. 'Protegería' and 'limitaría' are conditionals because the constitution does not exist yet, so the effect is hypothetical.",
+            "why_tricky": "Learners write 'los que' where 'quienes' is more idiomatic in formal register, and they slip into the future 'protegerá', which would claim the change is already agreed."
           },
           {
-            "sentence": "Ceuta, ciudad española situada en el norte de África, funciona desde hace años como puerta de entrada a la Unión Europea, y cada crisis de este tipo suele traducirse en reuniones diplomáticas y en refuerzos policiales.",
-            "point": "desde hace + time with the present tense",
-            "explanation": "'Funciona desde hace años' describes an action that started in the past and is still true now. Spanish keeps the present tense here where English switches to the present perfect.",
-            "why_tricky": "English speakers instinctively write 'ha funcionado desde hace años', which sounds wrong to a native ear. Present tense is the natural choice with 'desde hace'."
+            "sentence": "Sea cual sea el resultado, la discusión ya ha empezado.",
+            "point": "the reduplicated subjunctive sea cual sea",
+            "explanation": "Spanish expresses 'whatever' by repeating the subjunctive around the question word: sea cual sea, pase lo que pase, digan lo que digan. Both verbs are subjunctive and the structure is fixed.",
+            "why_tricky": "There is nothing like it in English, so learners produce 'cualquier sea el resultado' or use the indicative, and the doubling feels redundant until you meet the whole family of expressions."
           }
         ],
         "idioms": [
           {
-            "phrase": "romper el silencio",
-            "meaning": "to finally speak after refusing to comment",
-            "example": "El presidente rompió el silencio tres días después del escándalo."
+            "phrase": "ha llegado el momento de",
+            "meaning": "the time has come to do something",
+            "example": "Ha llegado el momento de tomar una decisión."
           },
           {
-            "phrase": "poner sobre la mesa",
-            "meaning": "to raise an issue for open discussion",
-            "example": "El informe puso sobre la mesa un problema que nadie quería tocar."
+            "phrase": "sea cual sea el resultado",
+            "meaning": "whatever the outcome turns out to be",
+            "example": "Sea cual sea el resultado, habrá aprendido mucho."
           }
         ],
         "comprehension": [
           {
-            "q": "¿Por qué critican muchos observadores la reacción inicial de las autoridades marroquíes?",
+            "q": "¿En qué se apoya hoy el sistema constitucional británico si no existe un texto único?",
             "type": "open"
           },
           {
-            "q": "Según el comunicado, ¿qué dos factores explican la ola de jóvenes que intentó llegar a Ceuta?",
+            "q": "¿Qué dos ventajas señalan quienes defienden una Constitución escrita?",
             "type": "open"
           },
           {
-            "q": "¿Qué papel geográfico y político tiene Ceuta dentro de la Unión Europea?",
+            "q": "¿Qué tres temas incómodos podría abrir, según los críticos, el proceso de redacción?",
             "type": "open"
           }
         ],
-        "opinion_prompt": "¿Crees que la desinformación en redes sociales explica de verdad una crisis migratoria, o sirve para desviar la atención de causas más profundas? Escribe unas 120 palabras."
+        "opinion_prompt": "¿Te parece que una Constitución escrita protege mejor a los ciudadanos, o que la flexibilidad británica es una ventaja que no conviene perder? Escribe unas 120 palabras."
       }
     },
     {
