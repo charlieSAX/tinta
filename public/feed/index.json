@@ -1,7 +1,528 @@
 {
-  "generated_at": "2026-08-03T08:11:47Z",
+  "generated_at": "2026-08-04T08:10:38Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-04-ue-normas-ia",
+      "title": "UE: Entran en vigor nuevas medidas para regular la inteligencia artificial",
+      "source": "RFI Español",
+      "date": "2026-08-04",
+      "level": "B1-B2",
+      "topics": [
+        "tecnología",
+        "Europa"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-04-ue-normas-ia",
+        "revision": 1,
+        "meta": {
+          "title": "UE: Entran en vigor nuevas medidas para regular la inteligencia artificial",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/europa/20260803-ue-entran-en-vigor-nuevas-medidas-para-regular-la-inteligencia-artificial",
+          "date_published": "2026-08-03",
+          "date_processed": "2026-08-04",
+          "tags": [
+            "tecnología",
+            "Europa"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "New provisions of the European regulation on artificial intelligence, known as the AI Act, came into force on Sunday. With this pioneering law, the European Union is testing its ability to set the pace for a technology that is moving much faster than the rules. The new obligations mainly affect systems considered to carry the greatest risk, and the companies that develop them or place them on the European market.\n\nThe debate, however, is far from settled. On the one hand, a large part of the tech sector warns that excessive bureaucracy may hold back innovation and drive investment away. On the other, digital rights organisations argue that without clear rules it is impossible to protect citizens from opaque automated decisions. Over the coming months we will see to what extent the member states are capable of applying the regulation in a consistent way.",
+        "resumen_es": "Desde este domingo han entrado en vigor nuevas disposiciones del reglamento europeo sobre inteligencia artificial, conocido como AI Act. Con esta ley pionera, la Unión Europea pone a prueba su capacidad para marcar el ritmo de una tecnología que avanza mucho más rápido que las normas. Las nuevas obligaciones afectan sobre todo a los sistemas considerados de mayor riesgo y a las empresas que los desarrollan o los ponen en el mercado europeo.\n\nEl debate, sin embargo, dista de estar cerrado. Por un lado, buena parte del sector tecnológico advierte de que un exceso de burocracia puede frenar la innovación y alejar inversiones. Por otro, las organizaciones de derechos digitales sostienen que sin reglas claras resulta imposible proteger a los ciudadanos frente a decisiones automatizadas opacas. En los próximos meses se verá hasta qué punto los Estados miembros son capaces de aplicar el reglamento de manera coherente.",
+        "vocab": [
+          {
+            "front": "entrar en vigor",
+            "pos": "phrase",
+            "back": "to come into force, to take effect",
+            "example": "La nueva normativa entrará en vigor el mes que viene.",
+            "tier": "B2"
+          },
+          {
+            "front": "disposición",
+            "pos": "noun",
+            "back": "provision, clause (in a law)",
+            "example": "Las disposiciones del contrato son muy claras.",
+            "tier": "B2"
+          },
+          {
+            "front": "reglamento",
+            "pos": "noun",
+            "back": "regulation, set of rules",
+            "example": "El reglamento europeo obliga a informar al usuario.",
+            "tier": "B1"
+          },
+          {
+            "front": "pionero",
+            "pos": "adj",
+            "back": "pioneering, groundbreaking",
+            "example": "Fue un proyecto pionero en su sector.",
+            "tier": "B2"
+          },
+          {
+            "front": "poner a prueba",
+            "pos": "phrase",
+            "back": "to put to the test",
+            "example": "La crisis puso a prueba al equipo entero.",
+            "tier": "B1"
+          },
+          {
+            "front": "marcar el ritmo",
+            "pos": "phrase",
+            "back": "to set the pace",
+            "example": "China quiere marcar el ritmo en energías limpias.",
+            "tier": "B2"
+          },
+          {
+            "front": "distar de",
+            "pos": "verb",
+            "back": "to be far from (being something)",
+            "example": "El acuerdo dista de ser perfecto.",
+            "tier": "C1"
+          },
+          {
+            "front": "advertir de",
+            "pos": "verb",
+            "back": "to warn about",
+            "example": "Los médicos advierten del riesgo de deshidratación.",
+            "tier": "B2"
+          },
+          {
+            "front": "frenar",
+            "pos": "verb",
+            "back": "to slow down, to hold back",
+            "example": "Los impuestos podrían frenar el consumo.",
+            "tier": "B1"
+          },
+          {
+            "front": "sostener (que)",
+            "pos": "verb",
+            "back": "to maintain, to argue (that)",
+            "example": "El abogado sostiene que su cliente es inocente.",
+            "tier": "B2"
+          },
+          {
+            "front": "opaco",
+            "pos": "adj",
+            "back": "opaque, not transparent",
+            "example": "El proceso de selección fue bastante opaco.",
+            "tier": "B2"
+          },
+          {
+            "front": "Estado miembro",
+            "pos": "noun",
+            "back": "member state (of the EU)",
+            "example": "Cada Estado miembro aplica la directiva a su manera.",
+            "tier": "B2"
+          },
+          {
+            "front": "de manera coherente",
+            "pos": "phrase",
+            "back": "in a consistent way",
+            "example": "Hay que actuar de manera coherente con lo prometido.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Desde este domingo han entrado en vigor nuevas disposiciones del reglamento europeo sobre inteligencia artificial, conocido como AI Act.",
+            "point": "Pretérito perfecto with 'desde' plus inverted word order",
+            "explanation": "Spanish uses the present perfect for events in a period that reaches the present, and here the subject 'nuevas disposiciones' comes after the verb, which is normal when new information is introduced.",
+            "why_tricky": "English would say 'came into force on Sunday' with a simple past and subject first, so learners often produce 'entraron' and put the subject before the verb."
+          },
+          {
+            "sentence": "Por otro, las organizaciones de derechos digitales sostienen que sin reglas claras resulta imposible proteger a los ciudadanos frente a decisiones automatizadas opacas.",
+            "point": "Impersonal 'resulta imposible' plus infinitive",
+            "explanation": "With expressions like resulta imposible, es difícil or es necesario, Spanish uses a bare infinitive when there is no specific subject.",
+            "why_tricky": "Learners often insert 'que' and a subjunctive clause, which is only needed when a subject is named."
+          },
+          {
+            "sentence": "En los próximos meses se verá hasta qué punto los Estados miembros son capaces de aplicar el reglamento de manera coherente.",
+            "point": "Impersonal 'se' with future tense",
+            "explanation": "'Se verá' means 'it will be seen' or 'we shall see', with no stated agent, a very common register in news writing.",
+            "why_tricky": "The English equivalent needs a subject ('we will see'), so learners are tempted to write 'veremos' and lose the neutral tone."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "poner a prueba",
+            "meaning": "to test something or someone under real pressure",
+            "example": "El viaje puso a prueba nuestra paciencia."
+          },
+          {
+            "phrase": "distar mucho de",
+            "meaning": "to be nowhere near, to fall well short of",
+            "example": "El resultado dista mucho de lo que esperábamos."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué pone a prueba la Unión Europea con el AI Act, según el texto?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué argumentos enfrentan al sector tecnológico y a las organizaciones de derechos digitales?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué crees que el texto dice que el debate no está cerrado?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que regular la inteligencia artificial protege a los ciudadanos o frena la innovación? Escribe unas 120 palabras defendiendo tu postura con al menos dos argumentos."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-04-unam-examenes-memoria",
+      "title": "\"El escándalo de los exámenes de la UNAM es una oportunidad para abandonar la escuela tradicional basada en la memoria\"",
+      "source": "BBC Mundo",
+      "date": "2026-08-04",
+      "level": "B1-B2",
+      "topics": [
+        "educación",
+        "México"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-04-unam-examenes-memoria",
+        "revision": 1,
+        "meta": {
+          "title": "\"El escándalo de los exámenes de la UNAM es una oportunidad para abandonar la escuela tradicional basada en la memoria\"",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c330rvm4xpzo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-03",
+          "date_processed": "2026-08-04",
+          "tags": [
+            "educación",
+            "México"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The Colombian educationalist Julián de Zubiría argues that the scandal over the UNAM entrance exams should be used to rethink the education model. In an interview with BBC Mundo, he says that a school built around memorising facts no longer makes sense when any student can turn to artificial intelligence to answer closed questions. In his view, the real problem is not only the cheating, but the kind of knowledge that gets assessed.\n\nHis proposal is to assess skills such as critical thinking, argument and the ability to solve unfamiliar problems. Changing the exams of such a large university, however, is not at all simple: it means training teachers, redesigning tests and persuading families used to a highly competitive system. De Zubiría admits that this is a slow process, but he insists that the arrival of artificial intelligence has made the reform more urgent.",
+        "resumen_es": "El pedagogo colombiano Julián de Zubiría sostiene que el escándalo de los exámenes de admisión de la UNAM debería servir para replantear el modelo educativo. En una entrevista con BBC Mundo, defiende que una escuela centrada en memorizar datos ya no tiene sentido cuando cualquier estudiante puede recurrir a la inteligencia artificial para responder preguntas cerradas. A su juicio, el problema no es solo el fraude, sino el tipo de conocimiento que se evalúa.\n\nSu propuesta apunta a evaluar competencias como el pensamiento crítico, la argumentación y la capacidad de resolver problemas nuevos. Cambiar los exámenes de una universidad tan grande, sin embargo, no resulta nada sencillo: implica formar profesores, rediseñar pruebas y convencer a familias acostumbradas a un sistema muy competitivo. De Zubiría reconoce que se trata de un proceso lento, pero insiste en que la inteligencia artificial ha vuelto la reforma más urgente.",
+        "vocab": [
+          {
+            "front": "pedagogo",
+            "pos": "noun",
+            "back": "educationalist, education expert",
+            "example": "El pedagogo lleva treinta años formando profesores.",
+            "tier": "B2"
+          },
+          {
+            "front": "examen de admisión",
+            "pos": "noun",
+            "back": "entrance exam",
+            "example": "Se presentaron miles de jóvenes al examen de admisión.",
+            "tier": "B1"
+          },
+          {
+            "front": "replantear",
+            "pos": "verb",
+            "back": "to rethink, to reconsider from scratch",
+            "example": "Tuvimos que replantear todo el proyecto.",
+            "tier": "B2"
+          },
+          {
+            "front": "centrado en",
+            "pos": "adj",
+            "back": "focused on, centred on",
+            "example": "Es un curso centrado en la conversación.",
+            "tier": "B1"
+          },
+          {
+            "front": "recurrir a",
+            "pos": "verb",
+            "back": "to resort to, to turn to",
+            "example": "Muchos alumnos recurren a vídeos para estudiar.",
+            "tier": "B2"
+          },
+          {
+            "front": "a su juicio",
+            "pos": "phrase",
+            "back": "in his or her view",
+            "example": "A su juicio, la medida llega tarde.",
+            "tier": "B2"
+          },
+          {
+            "front": "el problema de fondo",
+            "pos": "phrase",
+            "back": "the underlying problem",
+            "example": "El problema de fondo es la falta de inversión.",
+            "tier": "B2"
+          },
+          {
+            "front": "evaluar",
+            "pos": "verb",
+            "back": "to assess, to evaluate",
+            "example": "El profesor evalúa el proceso, no solo el resultado.",
+            "tier": "B1"
+          },
+          {
+            "front": "competencia",
+            "pos": "noun",
+            "back": "skill, competence (in education)",
+            "example": "El currículo se organiza por competencias.",
+            "tier": "B2"
+          },
+          {
+            "front": "pensamiento crítico",
+            "pos": "noun",
+            "back": "critical thinking",
+            "example": "La escuela debería enseñar pensamiento crítico.",
+            "tier": "B2"
+          },
+          {
+            "front": "no resultar nada sencillo",
+            "pos": "phrase",
+            "back": "to be far from easy",
+            "example": "Encontrar piso en agosto no resulta nada sencillo.",
+            "tier": "B2"
+          },
+          {
+            "front": "estar acostumbrado a",
+            "pos": "phrase",
+            "back": "to be used to",
+            "example": "Están acostumbrados a trabajar bajo presión.",
+            "tier": "B1"
+          },
+          {
+            "front": "tratarse de",
+            "pos": "verb",
+            "back": "to be a matter of, to be about",
+            "example": "Se trata de una decisión muy delicada.",
+            "tier": "B2"
+          },
+          {
+            "front": "insistir en que",
+            "pos": "verb",
+            "back": "to insist that",
+            "example": "Insiste en que no hubo ningún error.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "A su juicio, el problema no es solo el fraude, sino el tipo de conocimiento que se evalúa.",
+            "point": "no solo... sino (not just... but rather)",
+            "explanation": "'Sino' corrects or replaces a previous negative statement, unlike 'pero', which simply adds a contrast.",
+            "why_tricky": "English uses 'but' for both, so learners write 'pero' where Spanish demands 'sino'."
+          },
+          {
+            "sentence": "Cambiar los exámenes de una universidad tan grande, sin embargo, no resulta nada sencillo: implica formar profesores, rediseñar pruebas y convencer a familias acostumbradas a un sistema muy competitivo.",
+            "point": "Infinitive as subject and 'nada' as an intensifier",
+            "explanation": "The infinitive 'cambiar' works as the subject of the sentence, and 'nada' after a negative verb strengthens it to mean 'not at all'.",
+            "why_tricky": "English uses a gerund ('changing the exams') and learners tend to translate 'nada' as 'nothing' instead of reading it as emphasis."
+          },
+          {
+            "sentence": "De Zubiría reconoce que se trata de un proceso lento, pero insiste en que la inteligencia artificial ha vuelto la reforma más urgente.",
+            "point": "Impersonal 'se trata de' and 'volver' meaning 'to make'",
+            "explanation": "'Se trata de' has no personal subject and means 'it is a case of'; 'volver algo + adjective' means to turn something into that state.",
+            "why_tricky": "Learners try to give 'se trata de' a subject, and confuse 'volver' (to make) with 'volver a' (to do again)."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "aprender de memoria",
+            "meaning": "to learn by heart, to memorise without understanding",
+            "example": "Se aprendió las fechas de memoria y las olvidó en una semana."
+          },
+          {
+            "phrase": "el problema de fondo",
+            "meaning": "the real, underlying issue behind the visible one",
+            "example": "Discutimos por el horario, pero el problema de fondo era otro."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué considera De Zubiría que la escuela basada en la memoria ya no tiene sentido?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué tipo de competencias propone evaluar y por qué?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué dificultades prácticas menciona el texto para reformar los exámenes?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Debería prohibirse la inteligencia artificial en los exámenes o habría que cambiar los exámenes? Escribe unas 120 palabras explicando tu opinión con ejemplos concretos."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-04-luana-lopes-lara-kalshi",
+      "title": "Luana Lopes Lara, la bailarina de ballet que se convirtió en la multimillonaria más joven del mundo con una empresa muy controvertida",
+      "source": "BBC Mundo",
+      "date": "2026-08-04",
+      "level": "B1-B2",
+      "topics": [
+        "negocios",
+        "tecnología"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-04-luana-lopes-lara-kalshi",
+        "revision": 1,
+        "meta": {
+          "title": "Luana Lopes Lara, la bailarina de ballet que se convirtió en la multimillonaria más joven del mundo con una empresa muy controvertida",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cj635znkreyo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-02",
+          "date_processed": "2026-08-04",
+          "tags": [
+            "negocios",
+            "tecnología"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Luana Lopes Lara has gone from ballet classes to topping the list of the world's youngest female billionaires. The Brazilian gave up dance in order to study and ended up co-founding Kalshi, a prediction markets platform where users bet on future events, from election results to economic figures. Her company had to fight in the courts to make that kind of contract legal in the United States.\n\nThe case is striking for two reasons. On the one hand, it shows how far a well-argued regulatory battle can go towards opening up an entire market and multiplying a company's value. On the other, it feeds an uncomfortable debate: some people believe these markets provide valuable information about the future, while others see them as gambling dressed up as finance. The discussion about how to regulate them is only just beginning.",
+        "resumen_es": "Luana Lopes Lara ha pasado de las clases de ballet a encabezar la lista de las multimillonarias más jóvenes del mundo. La brasileña dejó la danza para estudiar y acabó cofundando Kalshi, una plataforma de mercados de predicción en la que los usuarios apuestan sobre acontecimientos futuros, desde resultados electorales hasta datos económicos. Su empresa tuvo que pelear en los tribunales para que ese tipo de contratos fuera legal en Estados Unidos.\n\nEl caso resulta llamativo por dos motivos. Por un lado, muestra hasta qué punto una batalla regulatoria bien planteada puede abrir un mercado entero y multiplicar el valor de una compañía. Por otro, alimenta un debate incómodo: hay quien considera que estos mercados aportan información valiosa sobre el futuro, mientras que otros los ven como apuestas disfrazadas de finanzas. La discusión sobre cómo regularlos apenas está empezando.",
+        "vocab": [
+          {
+            "front": "encabezar",
+            "pos": "verb",
+            "back": "to head, to top (a list)",
+            "example": "Su canción encabeza las listas desde junio.",
+            "tier": "B2"
+          },
+          {
+            "front": "multimillonario",
+            "pos": "noun",
+            "back": "billionaire",
+            "example": "Es uno de los multimillonarios más discretos del país.",
+            "tier": "B1"
+          },
+          {
+            "front": "acabar + gerundio",
+            "pos": "phrase",
+            "back": "to end up doing something",
+            "example": "Acabó trabajando en la empresa de su padre.",
+            "tier": "B2"
+          },
+          {
+            "front": "cofundar",
+            "pos": "verb",
+            "back": "to co-found",
+            "example": "Cofundó la empresa con dos compañeros de clase.",
+            "tier": "B2"
+          },
+          {
+            "front": "mercado de predicción",
+            "pos": "noun",
+            "back": "prediction market",
+            "example": "Los mercados de predicción anticiparon el resultado.",
+            "tier": "C1"
+          },
+          {
+            "front": "apostar sobre",
+            "pos": "verb",
+            "back": "to bet on",
+            "example": "Mucha gente apuesta sobre el resultado del partido.",
+            "tier": "B1"
+          },
+          {
+            "front": "acontecimiento",
+            "pos": "noun",
+            "back": "event, occurrence",
+            "example": "Fue el acontecimiento del año en la ciudad.",
+            "tier": "B2"
+          },
+          {
+            "front": "los tribunales",
+            "pos": "noun",
+            "back": "the courts (legal)",
+            "example": "El conflicto acabó en los tribunales.",
+            "tier": "B1"
+          },
+          {
+            "front": "llamativo",
+            "pos": "adj",
+            "back": "striking, eye-catching",
+            "example": "El dato más llamativo es la edad media.",
+            "tier": "B2"
+          },
+          {
+            "front": "hasta qué punto",
+            "pos": "phrase",
+            "back": "to what extent, how far",
+            "example": "No sabemos hasta qué punto influyó la publicidad.",
+            "tier": "B2"
+          },
+          {
+            "front": "bien planteada",
+            "pos": "adj",
+            "back": "well framed, well set out",
+            "example": "Fue una pregunta muy bien planteada.",
+            "tier": "B2"
+          },
+          {
+            "front": "alimentar un debate",
+            "pos": "phrase",
+            "back": "to fuel a debate",
+            "example": "El informe alimentó el debate sobre los sueldos.",
+            "tier": "B2"
+          },
+          {
+            "front": "disfrazado de",
+            "pos": "adj",
+            "back": "disguised as, dressed up as",
+            "example": "Es publicidad disfrazada de información.",
+            "tier": "B2"
+          },
+          {
+            "front": "apenas",
+            "pos": "adv",
+            "back": "barely, only just",
+            "example": "Apenas hemos empezado a estudiar el caso.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Su empresa tuvo que pelear en los tribunales para que ese tipo de contratos fuera legal en Estados Unidos.",
+            "point": "para que plus imperfect subjunctive",
+            "explanation": "When the purpose clause has a different subject from the main verb, Spanish requires 'para que' plus subjunctive, and a past main verb pulls the subjunctive into the imperfect ('fuera').",
+            "why_tricky": "Learners default to 'para ser legal' with an infinitive, which is only correct when both verbs share the same subject."
+          },
+          {
+            "sentence": "Por otro, alimenta un debate incómodo: hay quien considera que estos mercados aportan información valiosa sobre el futuro, mientras que otros los ven como apuestas disfrazadas de finanzas.",
+            "point": "hay quien plus singular verb",
+            "explanation": "'Hay quien' means 'there are people who' but takes a singular verb, and it contrasts naturally with 'otros' plus a plural verb later in the sentence.",
+            "why_tricky": "The meaning is plural in English, so learners write 'hay quienes consideran' or 'hay quien consideran' by mistake."
+          },
+          {
+            "sentence": "La discusión sobre cómo regularlos apenas está empezando.",
+            "point": "Attached object pronoun on the infinitive",
+            "explanation": "After a preposition Spanish uses the infinitive, and object pronouns attach to the end of it, giving 'regularlos'.",
+            "why_tricky": "Learners often place the pronoun before the verb, as they would with a conjugated form."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "cambiar los tutús por los libros",
+            "meaning": "to swap one world for a completely different one, as used in the original headline coverage",
+            "example": "Cambió los tutús por los libros y nunca volvió a bailar."
+          },
+          {
+            "phrase": "apenas está empezando",
+            "meaning": "it is only just getting started",
+            "example": "La temporada apenas está empezando y ya hay sorpresas."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué es exactamente Kalshi y qué hacen sus usuarios en la plataforma?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué fue importante la batalla legal de la empresa en Estados Unidos?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué dos visiones opuestas existen sobre los mercados de predicción?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Son los mercados de predicción una herramienta útil de información o simplemente apuestas? Escribe unas 120 palabras justificando tu respuesta."
+      }
+    },
     {
       "pack_id": "feed-2026-08-03-cancer-adolescente-medica",
       "title": "\"Tuve cáncer en estadio cuatro a los 14 años y ahora soy médico\"",
@@ -6206,506 +6727,6 @@
           }
         ],
         "opinion_prompt": "Crees que los pequenos inversores deberian influir en las decisiones eticas de las empresas? Escribe tu opinion en un parrafo."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-28-edad-media-agotamiento",
-      "title": "Lo que la Edad Media puede ensenarnos para prevenir el agotamiento extremo",
-      "source": "BBC Mundo",
-      "date": "2026-07-28",
-      "level": "B1-B2",
-      "topics": [
-        "historia",
-        "bienestar"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-28-edad-media-agotamiento",
-        "revision": 1,
-        "meta": {
-          "title": "Lo que la Edad Media puede ensenarnos para prevenir el agotamiento extremo",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/czded0074m6o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-28",
-          "date_processed": "2026-07-28",
-          "tags": [
-            "historia",
-            "bienestar"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Can the Middle Ages teach us something about extreme burnout? According to several historians, the answer is yes. In that era, life followed the rhythm of the seasons and of natural light, with moments of intense work but also long pauses for rest. Monasteries, for example, organised the day around prayer, study and rest, creating a balance that many of us have lost today.\n\nAlthough it is not wise to idealise those centuries, which were hard and often harsh, some of their customs turn out to be surprisingly modern. The idea of stopping, of respecting sleep and of not filling every hour with tasks matches what mental health experts recommend today. Faced with a culture that rewards haste, looking to the past can offer us clues for living in a slower and healthier way. Sometimes, ancient wisdom still has a lot to say.",
-        "resumen_es": "Puede la Edad Media ensenarnos algo sobre el agotamiento extremo? Segun varios historiadores, la respuesta es si. En aquella epoca, la vida seguia el ritmo de las estaciones y de la luz natural, con momentos de trabajo intenso pero tambien con largas pausas de descanso. Los monasterios, por ejemplo, organizaban el dia en torno a la oracion, el estudio y el reposo, creando un equilibrio que hoy muchos hemos perdido.\n\nAunque no conviene idealizar aquellos siglos, dificiles y a menudo duros, algunas de sus costumbres resultan sorprendentemente modernas. La idea de parar, de respetar el sueno y de no llenar cada hora con tareas coincide con lo que hoy recomiendan los expertos en salud mental. Frente a una cultura que premia la prisa, mirar hacia el pasado puede ofrecernos pistas para vivir de forma mas lenta y sana. A veces, la sabiduria antigua todavia tiene mucho que decir.",
-        "vocab": [
-          {
-            "front": "el agotamiento",
-            "pos": "noun",
-            "back": "exhaustion, burnout",
-            "example": "El agotamiento extremo afecta a muchos trabajadores.",
-            "tier": "B2"
-          },
-          {
-            "front": "la Edad Media",
-            "pos": "noun",
-            "back": "the Middle Ages",
-            "example": "En la Edad Media el reloj era el sol.",
-            "tier": "B1"
-          },
-          {
-            "front": "seguir el ritmo de",
-            "pos": "phrase",
-            "back": "to follow the rhythm of",
-            "example": "Antes la vida seguia el ritmo de las estaciones.",
-            "tier": "B2"
-          },
-          {
-            "front": "el reposo",
-            "pos": "noun",
-            "back": "rest, repose",
-            "example": "El cuerpo necesita reposo para recuperarse.",
-            "tier": "B2"
-          },
-          {
-            "front": "el equilibrio",
-            "pos": "noun",
-            "back": "balance",
-            "example": "Buscar el equilibrio entre trabajo y descanso es clave.",
-            "tier": "B1"
-          },
-          {
-            "front": "idealizar",
-            "pos": "verb",
-            "back": "to idealise",
-            "example": "No conviene idealizar el pasado.",
-            "tier": "B2"
-          },
-          {
-            "front": "la costumbre",
-            "pos": "noun",
-            "back": "custom, habit",
-            "example": "Algunas costumbres antiguas siguen vigentes.",
-            "tier": "B1"
-          },
-          {
-            "front": "premiar",
-            "pos": "verb",
-            "back": "to reward",
-            "example": "La sociedad premia la prisa y el exito rapido.",
-            "tier": "B2"
-          },
-          {
-            "front": "la prisa",
-            "pos": "noun",
-            "back": "haste, hurry",
-            "example": "Vivimos siempre con prisa.",
-            "tier": "B1"
-          },
-          {
-            "front": "la pista",
-            "pos": "noun",
-            "back": "clue, hint",
-            "example": "El libro ofrece pistas para descansar mejor.",
-            "tier": "B1"
-          },
-          {
-            "front": "la sabiduria",
-            "pos": "noun",
-            "back": "wisdom",
-            "example": "La sabiduria antigua nos sorprende.",
-            "tier": "B2"
-          },
-          {
-            "front": "en torno a",
-            "pos": "phrase",
-            "back": "around, centred on",
-            "example": "Organizaban el dia en torno al descanso.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "la vida seguia el ritmo de las estaciones y de la luz natural",
-            "point": "Imperfecto para describir el pasado habitual",
-            "explanation": "El imperfecto ('seguia') describe una situacion habitual o repetida en el pasado, sin marcar cuando empezo o termino.",
-            "why_tricky": "El estudiante suele elegir el preterito ('siguio'), que implica una accion puntual y acabada."
-          },
-          {
-            "sentence": "Aunque no conviene idealizar aquellos siglos, dificiles y a menudo duros, algunas de sus costumbres resultan sorprendentemente modernas",
-            "point": "'convenir' impersonal + infinitivo",
-            "explanation": "'Conviene' se usa de forma impersonal ('it is advisable') y va seguido de infinitivo: 'conviene idealizar'.",
-            "why_tricky": "Se traduce con una estructura distinta en ingles ('it is not wise to...'), lo que confunde la construccion."
-          },
-          {
-            "sentence": "mirar hacia el pasado puede ofrecernos pistas para vivir de forma mas lenta y sana",
-            "point": "Infinitivo como sujeto + pronombre enclitico",
-            "explanation": "El infinitivo 'mirar' funciona como sujeto de la frase. El pronombre 'nos' se une al infinitivo 'ofrecer' formando 'ofrecernos'.",
-            "why_tricky": "Colocar el pronombre pegado al infinitivo (enclisis) no existe igual en ingles."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "a menudo",
-            "meaning": "often, frequently",
-            "example": "A menudo trabajamos demasiadas horas."
-          },
-          {
-            "phrase": "tener mucho que decir",
-            "meaning": "to have a lot to say / offer",
-            "example": "La historia todavia tiene mucho que decir."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Como organizaban el tiempo los monasterios medievales?",
-            "type": "open"
-          },
-          {
-            "q": "Por que el autor pide no idealizar la Edad Media?",
-            "type": "open"
-          },
-          {
-            "q": "Que costumbres antiguas coinciden con los consejos actuales de salud mental?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Que habito del pasado te gustaria recuperar para descansar mejor? Explica por que en un parrafo."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-28-cxmt-chips-bolsa",
-      "title": "Fabricante chino de chips CXMT se valorizo mas del 500% al entrar en bolsa",
-      "source": "RFI Espanol",
-      "date": "2026-07-28",
-      "level": "B1-B2",
-      "topics": [
-        "economia",
-        "tecnologia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-28-cxmt-chips-bolsa",
-        "revision": 1,
-        "meta": {
-          "title": "Fabricante chino de chips CXMT se valorizo mas del 500% al entrar en bolsa",
-          "source": "RFI Espanol",
-          "url": "https://www.rfi.fr/es/economia/20260727-fabricante-chino-de-chips-cxmt-se-valoriz%C3%B3-m%C3%A1s-del-500-al-entrar-en-bolsa",
-          "date_published": "2026-07-28",
-          "date_processed": "2026-07-28",
-          "tags": [
-            "economia",
-            "tecnologia"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The main Chinese maker of memory chips, CXMT, staged a spectacular debut on the Shanghai stock exchange. On its first day of trading, the company's value shot up more than 500%, a rise that surprised even the most optimistic analysts. This enthusiasm reflects the huge interest that semiconductors attract at a time marked by the rise of artificial intelligence.\n\nMemory chips are essential components for storing data and running artificial intelligence systems, whose demand keeps on growing. China is seeking to reduce its dependence on foreign technology and is betting strongly on developing its own industry. However, some experts warn that such rapid growth can also hide risks if expectations are not met. For now, the success of CXMT confirms that the global race for semiconductors is only just beginning.",
-        "resumen_es": "El principal fabricante chino de chips de memoria, CXMT, protagonizo un debut espectacular en la bolsa de Shanghai. En su primer dia de cotizacion, el valor de la empresa se disparo mas del 500%, una subida que sorprendio incluso a los analistas mas optimistas. Este entusiasmo refleja el enorme interes que despiertan los semiconductores en un momento marcado por el auge de la inteligencia artificial.\n\nLos chips de memoria son componentes esenciales para almacenar datos y hacer funcionar los sistemas de inteligencia artificial, cuya demanda no deja de crecer. China busca reducir su dependencia de la tecnologia extranjera y apuesta con fuerza por desarrollar su propia industria. Sin embargo, algunos expertos advierten de que un crecimiento tan rapido tambien puede esconder riesgos si las expectativas no se cumplen. Por ahora, el exito de CXMT confirma que la carrera mundial por los semiconductores apenas esta comenzando.",
-        "vocab": [
-          {
-            "front": "el fabricante",
-            "pos": "noun",
-            "back": "manufacturer, maker",
-            "example": "Es el mayor fabricante de chips del pais.",
-            "tier": "B1"
-          },
-          {
-            "front": "la bolsa",
-            "pos": "noun",
-            "back": "stock exchange, stock market",
-            "example": "La empresa salio a bolsa el lunes.",
-            "tier": "B2"
-          },
-          {
-            "front": "dispararse",
-            "pos": "verb",
-            "back": "to shoot up, soar",
-            "example": "El precio se disparo en pocas horas.",
-            "tier": "B2"
-          },
-          {
-            "front": "la cotizacion",
-            "pos": "noun",
-            "back": "trading, share price",
-            "example": "La cotizacion subio desde el primer minuto.",
-            "tier": "B2"
-          },
-          {
-            "front": "el semiconductor",
-            "pos": "noun",
-            "back": "semiconductor",
-            "example": "Los semiconductores mueven la economia digital.",
-            "tier": "B2"
-          },
-          {
-            "front": "el auge",
-            "pos": "noun",
-            "back": "boom, surge",
-            "example": "Vivimos el auge de la inteligencia artificial.",
-            "tier": "B2"
-          },
-          {
-            "front": "almacenar",
-            "pos": "verb",
-            "back": "to store",
-            "example": "Estos chips sirven para almacenar datos.",
-            "tier": "B1"
-          },
-          {
-            "front": "la demanda",
-            "pos": "noun",
-            "back": "demand",
-            "example": "La demanda de chips no deja de crecer.",
-            "tier": "B1"
-          },
-          {
-            "front": "apostar por",
-            "pos": "phrase",
-            "back": "to bet on, back",
-            "example": "El pais apuesta por su propia tecnologia.",
-            "tier": "B2"
-          },
-          {
-            "front": "advertir",
-            "pos": "verb",
-            "back": "to warn",
-            "example": "Los expertos advierten de posibles riesgos.",
-            "tier": "B2"
-          },
-          {
-            "front": "la expectativa",
-            "pos": "noun",
-            "back": "expectation",
-            "example": "Las expectativas eran muy altas.",
-            "tier": "B2"
-          },
-          {
-            "front": "esconder",
-            "pos": "verb",
-            "back": "to hide, conceal",
-            "example": "Un exito rapido puede esconder peligros.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "el valor de la empresa se disparo mas del 500%",
-            "point": "Verbo pronominal 'dispararse' en preterito",
-            "explanation": "'Dispararse' es pronominal y expresa un aumento brusco. En preterito ('se disparo') marca un hecho puntual y acabado.",
-            "why_tricky": "El pronombre 'se' es obligatorio; sin el, 'disparar' significa 'to shoot (a weapon)'."
-          },
-          {
-            "sentence": "China busca reducir su dependencia de la tecnologia extranjera y apuesta con fuerza por desarrollar su propia industria",
-            "point": "'apostar por' + infinitivo",
-            "explanation": "'Apostar por' rige la preposicion 'por', y aqui va seguida del infinitivo 'desarrollar' para expresar en que se invierte el esfuerzo.",
-            "why_tricky": "El estudiante suele omitir 'por' o usar 'para', que cambiaria el matiz."
-          },
-          {
-            "sentence": "algunos expertos advierten de que un crecimiento tan rapido tambien puede esconder riesgos si las expectativas no se cumplen",
-            "point": "Condicional real con 'si' + presente",
-            "explanation": "Para una condicion posible y realista se usa 'si' + presente de indicativo ('no se cumplen'), no el subjuntivo.",
-            "why_tricky": "Muchos ponen subjuntivo tras 'si', pero en las condiciones reales va el indicativo."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "no dejar de",
-            "meaning": "to keep on (doing), not stop",
-            "example": "La demanda no deja de crecer."
-          },
-          {
-            "phrase": "por ahora",
-            "meaning": "for now, for the time being",
-            "example": "Por ahora los resultados son buenos."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Que ocurrio con el valor de CXMT en su primer dia en bolsa?",
-            "type": "open"
-          },
-          {
-            "q": "Por que son tan importantes los chips de memoria para la inteligencia artificial?",
-            "type": "open"
-          },
-          {
-            "q": "Que riesgo senalan algunos expertos ante un crecimiento tan rapido?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Crees que los paises deberian producir su propia tecnologia en vez de depender de otros? Justifica tu respuesta."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-27-cuatrillizas-australia",
-      "title": "El extraordinario nacimiento en Australia de cuatrillizas idénticas concebidas de forma natural",
-      "source": "BBC Mundo",
-      "date": "2026-07-27",
-      "level": "B1-B2",
-      "topics": [
-        "sociedad",
-        "ciencia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-27-cuatrillizas-australia",
-        "revision": 1,
-        "meta": {
-          "title": "El extraordinario nacimiento en Australia de cuatrillizas idénticas concebidas de forma natural",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cwymxl3pewxo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-20",
-          "date_processed": "2026-07-27",
-          "tags": [
-            "sociedad",
-            "ciencia"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "In Australia, a couple has received news that is as surprising as it is rare: the birth of identical quadruplets conceived naturally. According to the hospital, the parents were enormously surprised when they found out about the pregnancy, because they did not expect to have four babies at once. The four girls share the same genetic information, something specialists consider extremely rare.\n\nThat four identical sisters are born without any fertility treatment is an extraordinary phenomenon, because it happens when a single fertilized egg divides several times. Doctors usually monitor this kind of pregnancy closely, given that it involves more risks for the mother and the babies. From now on, the family will have to adapt to a very different life, with demanding schedules and a lot of support. Even so, many parents describe these situations as an unexpected gift that completely transforms the home.",
-        "resumen_es": "En Australia, una pareja ha recibido una noticia tan sorprendente como poco frecuente: el nacimiento de cuatrillizas idénticas concebidas de forma natural. Según informó el hospital, los padres se mostraron enormemente sorprendidos al enterarse del embarazo, porque no esperaban tener cuatro bebés a la vez. Las cuatro niñas comparten la misma información genética, algo que los especialistas consideran rarísimo.\n\nQue cuatro hermanas idénticas nazcan sin ningún tratamiento de fertilidad es un fenómeno extraordinario, porque ocurre cuando un solo óvulo fecundado se divide varias veces. Los médicos suelen seguir de cerca este tipo de embarazos, dado que implican más riesgos para la madre y para los bebés. A partir de ahora, la familia tendrá que adaptarse a una vida muy distinta, con horarios exigentes y mucho apoyo. Aun así, muchos padres describen estas situaciones como un regalo inesperado que transforma por completo el hogar.",
-        "vocab": [
-          {
-            "front": "las cuatrillizas",
-            "pos": "noun",
-            "back": "quadruplets (girls)",
-            "example": "Las cuatrillizas nacieron el mismo día.",
-            "tier": "B2"
-          },
-          {
-            "front": "concebir",
-            "pos": "verb",
-            "back": "to conceive",
-            "example": "Las niñas fueron concebidas de forma natural.",
-            "tier": "B2"
-          },
-          {
-            "front": "el embarazo",
-            "pos": "noun",
-            "back": "pregnancy",
-            "example": "El embarazo fue una gran sorpresa.",
-            "tier": "B1"
-          },
-          {
-            "front": "óvulo fecundado",
-            "pos": "phrase",
-            "back": "fertilized egg",
-            "example": "Un óvulo fecundado se dividió varias veces.",
-            "tier": "C1"
-          },
-          {
-            "front": "tratamiento de fertilidad",
-            "pos": "phrase",
-            "back": "fertility treatment",
-            "example": "No usaron ningún tratamiento de fertilidad.",
-            "tier": "B2"
-          },
-          {
-            "front": "rarísimo",
-            "pos": "adj",
-            "back": "extremely rare",
-            "example": "Es un caso rarísimo en medicina.",
-            "tier": "B2"
-          },
-          {
-            "front": "seguir de cerca",
-            "pos": "phrase",
-            "back": "to monitor closely",
-            "example": "Los médicos siguen de cerca el embarazo.",
-            "tier": "B2"
-          },
-          {
-            "front": "dado que",
-            "pos": "phrase",
-            "back": "given that",
-            "example": "Hay riesgos, dado que son cuatro bebés.",
-            "tier": "B2"
-          },
-          {
-            "front": "exigente",
-            "pos": "adj",
-            "back": "demanding",
-            "example": "Tienen horarios muy exigentes.",
-            "tier": "B1"
-          },
-          {
-            "front": "inesperado",
-            "pos": "adj",
-            "back": "unexpected",
-            "example": "Fue una noticia inesperada.",
-            "tier": "B1"
-          },
-          {
-            "front": "transformar",
-            "pos": "verb",
-            "back": "to transform",
-            "example": "La llegada de los bebés transforma el hogar.",
-            "tier": "B1"
-          },
-          {
-            "front": "el hogar",
-            "pos": "noun",
-            "back": "the home, household",
-            "example": "El nuevo hogar está lleno de alegría.",
-            "tier": "B1"
-          },
-          {
-            "front": "enterarse de",
-            "pos": "phrase",
-            "back": "to find out about",
-            "example": "Se enteraron del embarazo en el hospital.",
-            "tier": "B1"
-          },
-          {
-            "front": "a la vez",
-            "pos": "phrase",
-            "back": "at the same time",
-            "example": "Cuidan a cuatro bebés a la vez.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "En Australia, una pareja ha recibido una noticia tan sorprendente como poco frecuente: el nacimiento de cuatrillizas idénticas concebidas de forma natural.",
-            "point": "Pretérito perfecto compuesto y comparación de igualdad",
-            "explanation": "'Ha recibido' usa haber más participio para un hecho reciente con efecto en el presente. 'Tan ... como' compara dos cualidades: aquí 'sorprendente' y 'poco frecuente'.",
-            "why_tricky": "En muchos países de América Latina se prefiere el pretérito simple ('recibió'), así que el perfecto puede sonar más español peninsular."
-          },
-          {
-            "sentence": "Los médicos suelen seguir de cerca este tipo de embarazos, dado que implican más riesgos para la madre y para los bebés.",
-            "point": "Soler más infinitivo y conector causal 'dado que'",
-            "explanation": "'Suelen seguir' expresa una acción habitual. 'Dado que' introduce una causa, como 'porque' pero más formal.",
-            "why_tricky": "'Soler' no tiene un equivalente directo en inglés; se traduce con 'usually' más el verbo principal."
-          },
-          {
-            "sentence": "Que cuatro hermanas idénticas nazcan sin ningún tratamiento de fertilidad es un fenómeno extraordinario, porque ocurre cuando un solo óvulo fecundado se divide varias veces.",
-            "point": "Subjuntivo en sujeto con 'que'",
-            "explanation": "Cuando una oración con 'que' funciona como sujeto y se valora ('es extraordinario'), el verbo va en subjuntivo: 'nazcan'.",
-            "why_tricky": "Es fácil poner el indicativo 'nacen', pero la valoración exige subjuntivo."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "venir al mundo",
-            "meaning": "to be born",
-            "example": "Las cuatro niñas vinieron al mundo el mismo día."
-          },
-          {
-            "phrase": "un regalo caído del cielo",
-            "meaning": "an unexpected blessing",
-            "example": "Para ellos, las cuatrillizas fueron un regalo caído del cielo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué se considera tan raro el nacimiento de cuatrillizas idénticas de forma natural?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué reacción tuvieron los padres al conocer la noticia?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué retos crees que enfrentará la familia a partir de ahora?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que las familias con partos múltiples deberían recibir ayuda especial del Estado? Escribe tu opinión en un párrafo."
       }
     }
   ]
