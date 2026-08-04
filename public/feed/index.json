@@ -1,7 +1,507 @@
 {
-  "generated_at": "2026-08-04T08:10:38Z",
+  "generated_at": "2026-08-04T20:11:37.876979Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-04-ceuta-crisis-migratoria",
+      "title": "Ceuta: Marruecos culpa a la desinformación y al tráfico de personas por la ola migratoria",
+      "source": "RFI Español",
+      "date": "2026-08-04",
+      "level": "B1-B2",
+      "topics": [
+        "migración",
+        "fronteras"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-04-ceuta-crisis-migratoria",
+        "revision": 1,
+        "meta": {
+          "title": "Ceuta: Marruecos culpa a la desinformación y al tráfico de personas por la ola migratoria",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/europa/20260803-ceuta-marruecos-culpa-a-la-desinformaci%C3%B3n-y-al-tr%C3%A1fico-de-personas-por-la-ola-migratoria",
+          "date_published": "2026-08-03",
+          "date_processed": "2026-08-04",
+          "tags": [
+            "migración",
+            "fronteras"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Almost five days after the start of an unprecedented migration crisis in the north of Morocco, the Interior Ministry broke its silence. According to the statement, the wave of young people who tried to reach Ceuta is explained above all by disinformation spread on social media and by people-trafficking networks.\n\nThe episode once again brings up the fragility of the border between Morocco and Spain. Ceuta, a Spanish city located in the north of Africa, has functioned for years as a gateway into the European Union, and every crisis of this kind tends to result in diplomatic meetings and police reinforcements. Meanwhile, the families affected are still waiting for clear explanations about what happened.",
+        "resumen_es": "Casi cinco días después del inicio de una crisis migratoria sin precedentes en el norte de Marruecos, el Ministerio del Interior rompió su silencio. Según el comunicado, la ola de jóvenes que intentó llegar a Ceuta se explica sobre todo por la desinformación difundida en las redes sociales y por las redes de tráfico de personas.\n\nEl episodio vuelve a poner sobre la mesa la fragilidad de la frontera entre Marruecos y España. Ceuta, ciudad española situada en el norte de África, funciona desde hace años como puerta de entrada a la Unión Europea, y cada crisis de este tipo suele traducirse en reuniones diplomáticas y en refuerzos policiales. Mientras tanto, las familias afectadas siguen esperando explicaciones claras sobre lo ocurrido.",
+        "vocab": [
+          {
+            "front": "la ola migratoria",
+            "pos": "phrase",
+            "back": "wave of migration, surge of arrivals",
+            "example": "La ola migratoria sorprendió a las autoridades locales.",
+            "tier": "B2"
+          },
+          {
+            "front": "sin precedentes",
+            "pos": "phrase",
+            "back": "unprecedented",
+            "example": "Fue una protesta sin precedentes en la región.",
+            "tier": "B2"
+          },
+          {
+            "front": "el comunicado",
+            "pos": "noun",
+            "back": "official statement, press release",
+            "example": "El ministerio publicó un comunicado muy breve.",
+            "tier": "B1"
+          },
+          {
+            "front": "la desinformación",
+            "pos": "noun",
+            "back": "disinformation, false information",
+            "example": "La desinformación circula más rápido que los datos reales.",
+            "tier": "B2"
+          },
+          {
+            "front": "difundir",
+            "pos": "verb",
+            "back": "to spread, to circulate (news, rumours)",
+            "example": "Alguien difundió un vídeo falso en el grupo.",
+            "tier": "B2"
+          },
+          {
+            "front": "el tráfico de personas",
+            "pos": "phrase",
+            "back": "people trafficking, human smuggling",
+            "example": "La policía investiga una red de tráfico de personas.",
+            "tier": "B2"
+          },
+          {
+            "front": "la fragilidad",
+            "pos": "noun",
+            "back": "fragility, weakness",
+            "example": "La crisis mostró la fragilidad del acuerdo.",
+            "tier": "B2"
+          },
+          {
+            "front": "la puerta de entrada",
+            "pos": "phrase",
+            "back": "gateway, point of entry",
+            "example": "El puerto es la puerta de entrada del comercio.",
+            "tier": "B1"
+          },
+          {
+            "front": "traducirse en",
+            "pos": "verb",
+            "back": "to result in, to translate into",
+            "example": "El acuerdo se tradujo en más controles en la frontera.",
+            "tier": "C1"
+          },
+          {
+            "front": "los refuerzos",
+            "pos": "noun",
+            "back": "reinforcements (police, troops)",
+            "example": "Enviaron refuerzos a la zona esa misma noche.",
+            "tier": "B2"
+          },
+          {
+            "front": "soler + infinitivo",
+            "pos": "verb",
+            "back": "to usually do something",
+            "example": "Estas crisis suelen durar varios días.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo ocurrido",
+            "pos": "phrase",
+            "back": "what happened, the events",
+            "example": "Nadie quiso comentar lo ocurrido esa madrugada.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Casi cinco días después del inicio de una crisis migratoria sin precedentes en el norte de Marruecos, el Ministerio del Interior rompió su silencio.",
+            "point": "después de + noun phrase to frame a time reference",
+            "explanation": "Spanish uses 'después de' with a noun or an infinitive, never with a conjugated verb. Here the whole block 'del inicio de una crisis migratoria' is the noun phrase, and 'casi' softens the number to mean 'almost five days'.",
+            "why_tricky": "English says 'after the crisis started' with a full clause. In Spanish you would need 'después de que empezara' with the subjunctive, so writers usually nominalise it instead: 'después del inicio de'."
+          },
+          {
+            "sentence": "Según el comunicado, la ola de jóvenes que intentó llegar a Ceuta se explica sobre todo por la desinformación difundida en las redes sociales y por las redes de tráfico de personas.",
+            "point": "impersonal se + reduced relative clause with a past participle",
+            "explanation": "'Se explica' is the reflexive passive: the event is explained, with no agent named. 'Difundida en las redes sociales' is a shortened relative clause standing for 'que fue difundida', and it agrees in gender and number with 'la desinformación'.",
+            "why_tricky": "Two compressions stack up in one sentence, and the participle must agree with a noun several words earlier, which is easy to miss when reading fast."
+          },
+          {
+            "sentence": "Ceuta, ciudad española situada en el norte de África, funciona desde hace años como puerta de entrada a la Unión Europea, y cada crisis de este tipo suele traducirse en reuniones diplomáticas y en refuerzos policiales.",
+            "point": "desde hace + time with the present tense",
+            "explanation": "'Funciona desde hace años' describes an action that started in the past and is still true now. Spanish keeps the present tense here where English switches to the present perfect.",
+            "why_tricky": "English speakers instinctively write 'ha funcionado desde hace años', which sounds wrong to a native ear. Present tense is the natural choice with 'desde hace'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "romper el silencio",
+            "meaning": "to finally speak after refusing to comment",
+            "example": "El presidente rompió el silencio tres días después del escándalo."
+          },
+          {
+            "phrase": "poner sobre la mesa",
+            "meaning": "to raise an issue for open discussion",
+            "example": "El informe puso sobre la mesa un problema que nadie quería tocar."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué critican muchos observadores la reacción inicial de las autoridades marroquíes?",
+            "type": "open"
+          },
+          {
+            "q": "Según el comunicado, ¿qué dos factores explican la ola de jóvenes que intentó llegar a Ceuta?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué papel geográfico y político tiene Ceuta dentro de la Unión Europea?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que la desinformación en redes sociales explica de verdad una crisis migratoria, o sirve para desviar la atención de causas más profundas? Escribe unas 120 palabras."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-04-infantino-fifa-poder",
+      "title": "Quién es Gianni Infantino y cómo llegó a ser el hombre más poderoso (y polémico) del fútbol mundial",
+      "source": "BBC Mundo",
+      "date": "2026-08-04",
+      "level": "B1-B2",
+      "topics": [
+        "fútbol",
+        "poder"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-04-infantino-fifa-poder",
+        "revision": 1,
+        "meta": {
+          "title": "Quién es Gianni Infantino y cómo llegó a ser el hombre más poderoso (y polémico) del fútbol mundial",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cwy0yvdzzyvo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-03",
+          "date_processed": "2026-08-04",
+          "tags": [
+            "fútbol",
+            "poder"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "After ten years at the head of FIFA, Gianni Infantino still holds a position that is practically unassailable in world football. His time in charge has been marked by friction with players' unions and with European football, which blame him for expanding the tournaments and loading the calendar even further. Even so, no serious rival has managed to challenge him for the job.\n\nTo understand his strength it helps to look at how the organisation works. FIFA brings together more than two hundred federations and each one has a vote, so the support of small countries weighs as much as that of the big footballing powers. Infantino has cultivated those relationships patiently and through development programmes handed out all over the world. The question now is how long that balance can last.",
+        "resumen_es": "Después de diez años al frente de la FIFA, Gianni Infantino sigue ocupando una posición prácticamente inexpugnable en el fútbol mundial. Su mandato ha estado marcado por los roces con los sindicatos de jugadores y con el fútbol europeo, que le reprochan haber ampliado los torneos y cargado todavía más el calendario. Aun así, ningún rival serio ha logrado disputarle el cargo.\n\nPara entender su fuerza conviene mirar cómo funciona la organización. La FIFA reúne a más de doscientas federaciones y cada una tiene un voto, de modo que el apoyo de los países pequeños pesa tanto como el de las grandes potencias futbolísticas. Infantino ha cultivado esas relaciones con paciencia y con programas de desarrollo repartidos por todo el mundo. La pregunta ahora es hasta cuándo puede durar ese equilibrio.",
+        "vocab": [
+          {
+            "front": "estar al frente de",
+            "pos": "phrase",
+            "back": "to be in charge of, to head",
+            "example": "Lleva seis años al frente del departamento.",
+            "tier": "B2"
+          },
+          {
+            "front": "inexpugnable",
+            "pos": "adj",
+            "back": "unassailable, impregnable",
+            "example": "Su liderazgo parecía inexpugnable hasta el año pasado.",
+            "tier": "C1"
+          },
+          {
+            "front": "el mandato",
+            "pos": "noun",
+            "back": "term of office",
+            "example": "Su segundo mandato terminó sin grandes reformas.",
+            "tier": "B2"
+          },
+          {
+            "front": "el roce",
+            "pos": "noun",
+            "back": "friction, minor clash",
+            "example": "Hubo roces entre los dos directores desde el principio.",
+            "tier": "B2"
+          },
+          {
+            "front": "reprochar",
+            "pos": "verb",
+            "back": "to reproach, to blame someone for something",
+            "example": "Le reprochan no haber consultado a nadie.",
+            "tier": "B2"
+          },
+          {
+            "front": "ampliar",
+            "pos": "verb",
+            "back": "to expand, to enlarge",
+            "example": "Quieren ampliar el torneo a cuarenta equipos.",
+            "tier": "B1"
+          },
+          {
+            "front": "cargar el calendario",
+            "pos": "phrase",
+            "back": "to overload the schedule",
+            "example": "Cargar el calendario aumenta el riesgo de lesiones.",
+            "tier": "B2"
+          },
+          {
+            "front": "aun así",
+            "pos": "adv",
+            "back": "even so, nevertheless",
+            "example": "Perdió el apoyo del club y aun así siguió jugando.",
+            "tier": "B1"
+          },
+          {
+            "front": "disputar el cargo",
+            "pos": "phrase",
+            "back": "to challenge someone for the post",
+            "example": "Nadie se atrevió a disputarle el cargo.",
+            "tier": "B2"
+          },
+          {
+            "front": "de modo que",
+            "pos": "phrase",
+            "back": "so that, with the result that",
+            "example": "Llegó tarde, de modo que perdió el turno.",
+            "tier": "B1"
+          },
+          {
+            "front": "pesar",
+            "pos": "verb",
+            "back": "to carry weight, to count (figuratively)",
+            "example": "En esa votación pesa mucho la opinión de los socios.",
+            "tier": "B2"
+          },
+          {
+            "front": "cultivar una relación",
+            "pos": "phrase",
+            "back": "to build and maintain a relationship",
+            "example": "Cultivó esa amistad durante años antes de pedir nada.",
+            "tier": "B2"
+          },
+          {
+            "front": "el equilibrio",
+            "pos": "noun",
+            "back": "balance, equilibrium",
+            "example": "El equilibrio dentro del comité es muy frágil.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Su mandato ha estado marcado por los roces con los sindicatos de jugadores y con el fútbol europeo, que le reprochan haber ampliado los torneos y cargado todavía más el calendario.",
+            "point": "haber + participle after a verb, sharing one auxiliary",
+            "explanation": "'Le reprochan haber ampliado los torneos y cargado el calendario' uses the perfect infinitive to talk about a completed past action. The auxiliary 'haber' appears once and covers both participles, so 'cargado' does not need its own 'haber'.",
+            "why_tricky": "The shared auxiliary is invisible, so learners often insert a second 'haber' or switch to a finite verb, which breaks the parallel structure."
+          },
+          {
+            "sentence": "Para entender su fuerza conviene mirar cómo funciona la organización.",
+            "point": "impersonal 'conviene + infinitivo'",
+            "explanation": "'Conviene mirar' means 'it is worth looking' or 'one should look'. The verb stays in the third person singular with no subject, and the infinitive carries the real action.",
+            "why_tricky": "There is no equivalent single verb in English, so learners reach for 'es bueno mirar' or an awkward 'debemos mirar' and lose the neutral, editorial tone."
+          },
+          {
+            "sentence": "La FIFA reúne a más de doscientas federaciones y cada una tiene un voto, de modo que el apoyo de los países pequeños pesa tanto como el de las grandes potencias futbolísticas.",
+            "point": "comparison of equality with tanto como and a pronoun standing in for a noun",
+            "explanation": "'Pesa tanto como el de las grandes potencias' compares two amounts of support. 'El' replaces 'el apoyo' so the noun is not repeated, and it must match the gender and number of what it stands for.",
+            "why_tricky": "English says 'as much as that of', and learners either repeat the full noun or drop the article, producing 'tanto como de las grandes potencias', which is ungrammatical."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "estar en una posición inexpugnable",
+            "meaning": "to be so well protected that nobody can remove you",
+            "example": "Tras ganar las elecciones internas quedó en una posición inexpugnable."
+          },
+          {
+            "phrase": "hasta cuándo",
+            "meaning": "how long, until what point (used to question the future of a situation)",
+            "example": "Nadie sabe hasta cuándo aguantará este acuerdo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué le reprochan a Infantino los sindicatos de jugadores y el fútbol europeo?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué el sistema de un voto por federación favorece a quien dirige la FIFA?",
+            "type": "open"
+          },
+          {
+            "q": "En tus palabras, ¿cómo ha construido Infantino su base de apoyo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Debería el fútbol mundial cambiar su sistema de votación para que las grandes ligas tengan más peso, o es más justo que cada federación valga lo mismo? Argumenta en unas 120 palabras."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-04-rata-topo-reina-fertilidad",
+      "title": "El \"super anticonceptivo\" con el que una rata topo vuelve infértiles a las hembras rivales",
+      "source": "BBC Mundo",
+      "date": "2026-08-04",
+      "level": "B1-B2",
+      "topics": [
+        "ciencia",
+        "animales"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-04-rata-topo-reina-fertilidad",
+        "revision": 1,
+        "meta": {
+          "title": "El \"super anticonceptivo\" con el que una rata topo vuelve infértiles a las hembras rivales",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cgq57g3y11wo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-03",
+          "date_processed": "2026-08-04",
+          "tags": [
+            "ciencia",
+            "animales"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "For decades, scientists did not understand how naked mole rat queens manage to keep control of their colony. A new piece of work points to a kind of natural super-contraceptive: the dominant female gets the other females to stop reproducing, so that she keeps the role of the only mother in the group.\n\nThe finding is of interest well beyond zoology. These rodents live underground in highly hierarchical societies, age slowly and almost never develop cancer, so they have been in the sights of biomedical research for years. Understanding which mechanisms switch off the fertility of the other females could open up leads about human reproduction and about ageing itself. For now, this is a first step.",
+        "resumen_es": "Durante décadas, los científicos no entendían cómo las reinas de la rata topo desnuda logran mantener el control de su colonia. Un nuevo trabajo apunta a una especie de superanticonceptivo natural: la hembra dominante consigue que las demás hembras dejen de reproducirse, de manera que ella se queda con el papel de única madre del grupo.\n\nEl hallazgo interesa mucho más allá de la zoología. Estos roedores viven bajo tierra en sociedades muy jerárquicas, envejecen despacio y casi nunca desarrollan cáncer, así que llevan años en el punto de mira de la investigación biomédica. Entender qué mecanismos apagan la fertilidad de las demás hembras podría abrir pistas sobre la reproducción humana y sobre el propio envejecimiento. Por ahora, se trata de un primer paso.",
+        "vocab": [
+          {
+            "front": "la hembra",
+            "pos": "noun",
+            "back": "female (animal)",
+            "example": "La hembra defiende el nido durante semanas.",
+            "tier": "B1"
+          },
+          {
+            "front": "dominante",
+            "pos": "adj",
+            "back": "dominant, leading",
+            "example": "En el grupo hay siempre un macho dominante.",
+            "tier": "B1"
+          },
+          {
+            "front": "reproducirse",
+            "pos": "verb",
+            "back": "to reproduce, to breed",
+            "example": "Estas aves solo se reproducen en primavera.",
+            "tier": "B2"
+          },
+          {
+            "front": "el hallazgo",
+            "pos": "noun",
+            "back": "finding, discovery",
+            "example": "El hallazgo se publicó en una revista científica.",
+            "tier": "B2"
+          },
+          {
+            "front": "más allá de",
+            "pos": "phrase",
+            "back": "beyond, further than",
+            "example": "El problema va más allá de un simple error técnico.",
+            "tier": "B1"
+          },
+          {
+            "front": "el roedor",
+            "pos": "noun",
+            "back": "rodent",
+            "example": "Los roedores son animales muy usados en los laboratorios.",
+            "tier": "B2"
+          },
+          {
+            "front": "jerárquico",
+            "pos": "adj",
+            "back": "hierarchical",
+            "example": "Es una empresa muy jerárquica y poco flexible.",
+            "tier": "B2"
+          },
+          {
+            "front": "envejecer",
+            "pos": "verb",
+            "back": "to age, to grow old",
+            "example": "Nadie sabe todavía por qué unas especies envejecen más despacio.",
+            "tier": "B2"
+          },
+          {
+            "front": "estar en el punto de mira",
+            "pos": "phrase",
+            "back": "to be under scrutiny, to be a focus of attention",
+            "example": "Esa empresa está en el punto de mira de los inspectores.",
+            "tier": "C1"
+          },
+          {
+            "front": "el mecanismo",
+            "pos": "noun",
+            "back": "mechanism",
+            "example": "Aún no conocemos el mecanismo exacto de la enfermedad.",
+            "tier": "B1"
+          },
+          {
+            "front": "abrir pistas",
+            "pos": "phrase",
+            "back": "to open up leads or clues",
+            "example": "El estudio abre pistas sobre el origen del virus.",
+            "tier": "B2"
+          },
+          {
+            "front": "el envejecimiento",
+            "pos": "noun",
+            "back": "ageing (the process)",
+            "example": "El envejecimiento de la población preocupa a los gobiernos.",
+            "tier": "B2"
+          },
+          {
+            "front": "tratarse de",
+            "pos": "verb",
+            "back": "to be a matter of, to be (impersonal)",
+            "example": "No se trata de dinero, sino de tiempo.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Un nuevo trabajo apunta a una especie de superanticonceptivo natural: la hembra dominante consigue que las demás hembras dejen de reproducirse, de manera que ella se queda con el papel de única madre del grupo.",
+            "point": "conseguir que + subjunctive",
+            "explanation": "Verbs of influence such as conseguir, lograr and hacer take 'que' plus the subjunctive when there are two different subjects. Here the queen is the subject of 'consigue' and the other females are the subject of 'dejen', so 'dejen' must be subjunctive.",
+            "why_tricky": "English uses an infinitive, 'gets the other females to stop', so learners write 'consigue que las hembras dejan', using the indicative by mistake."
+          },
+          {
+            "sentence": "Durante décadas, los científicos no entendían cómo las reinas de la rata topo desnuda logran mantener el control de su colonia.",
+            "point": "indirect question with cómo after a verb of understanding",
+            "explanation": "'No entendían cómo las reinas logran mantener el control' embeds a question inside a statement. The word 'cómo' keeps its written accent even though there is no question mark, and the word order stays subject then verb.",
+            "why_tricky": "Learners drop the accent on 'cómo' in embedded questions, and some invert the subject as if it were a direct question."
+          },
+          {
+            "sentence": "Estos roedores viven bajo tierra en sociedades muy jerárquicas, envejecen despacio y casi nunca desarrollan cáncer, así que llevan años en el punto de mira de la investigación biomédica.",
+            "point": "así que introducing a consequence, plus llevar + years + gerund",
+            "explanation": "'Así que' links a result to what came before, unlike 'para que', which introduces a purpose. 'Llevan años en el punto de mira' uses llevar with a time expression to say how long a situation has been going on.",
+            "why_tricky": "Learners confuse 'así que' with 'así' or 'para que', and they translate 'they have been' literally with 'han sido' instead of the natural 'llevan'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "estar en el punto de mira",
+            "meaning": "to be closely watched or targeted",
+            "example": "Desde el escándalo, el club está en el punto de mira de la prensa."
+          },
+          {
+            "phrase": "dar un primer paso",
+            "meaning": "to make an initial move in a long process",
+            "example": "El acuerdo es solo un primer paso, pero es importante."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué consigue la hembra dominante dentro de la colonia y cómo cambia eso al resto del grupo?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué la rata topo desnuda interesa tanto a la investigación biomédica?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué límites reconoce el texto sobre el alcance actual de este hallazgo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Hasta qué punto te parece razonable invertir dinero público en estudiar animales tan poco conocidos como la rata topo desnuda? Escribe unas 120 palabras con tu opinión."
+      }
+    },
     {
       "pack_id": "feed-2026-08-04-ue-normas-ia",
       "title": "UE: Entran en vigor nuevas medidas para regular la inteligencia artificial",
@@ -6213,520 +6713,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que la disciplina es más importante que el talento para triunfar en el arte? Escribe tu opinión y justifícala con ejemplos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-28-humo-incendios-espana",
-      "title": "España: Autoridades alertan sobre los riesgos sanitarios debidos al humo de los incendios",
-      "source": "RFI en Español",
-      "date": "2026-07-28",
-      "level": "B1-B2",
-      "topics": [
-        "medioambiente",
-        "salud"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-28-humo-incendios-espana",
-        "revision": 1,
-        "meta": {
-          "title": "España: Autoridades alertan sobre los riesgos sanitarios debidos al humo de los incendios",
-          "source": "RFI en Español",
-          "url": "https://www.rfi.fr/es/europa/20260728-espa%C3%B1a-autoridades-alertan-sobre-los-riesgos-sanitarios-debidos-al-humo-de-los-incendios",
-          "date_published": "2026-07-28",
-          "date_processed": "2026-07-28",
-          "tags": [
-            "medioambiente",
-            "salud"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The Spanish authorities have warned about the health risks caused by the smoke from the fires affecting the country. Although the government says the situation is starting to improve, the health consequences could be felt for days. The smoke has travelled hundreds of kilometres and has noticeably worsened air quality in several regions.\n\nExperts advise the population to limit outdoor activities and to pay special attention to the most vulnerable groups, such as children, the elderly and people with breathing problems. Breathing polluted air for a long time can cause eye irritation, coughing and difficulty breathing. The authorities ask for caution and recommend following official guidance until air quality returns to normal.",
-        "resumen_es": "Las autoridades españolas han advertido sobre los riesgos para la salud que provoca el humo de los incendios que afectan al país. Aunque el gobierno asegura que la situación empieza a mejorar, las consecuencias sanitarias podrían sentirse durante días. El humo se ha desplazado cientos de kilómetros y ha empeorado notablemente la calidad del aire en varias regiones.\n\nLos expertos recomiendan a la población limitar las actividades al aire libre y prestar especial atención a los grupos más vulnerables, como niños, ancianos y personas con problemas respiratorios. Respirar aire contaminado durante mucho tiempo puede causar molestias en los ojos, tos y dificultades para respirar. Las autoridades piden precaución y aconsejan seguir las indicaciones oficiales hasta que la calidad del aire vuelva a la normalidad.",
-        "vocab": [
-          {
-            "front": "las autoridades",
-            "pos": "noun",
-            "back": "the authorities",
-            "example": "Las autoridades cerraron la carretera.",
-            "tier": "B1"
-          },
-          {
-            "front": "advertir sobre",
-            "pos": "verb",
-            "back": "to warn about",
-            "example": "El médico advirtió sobre los peligros del tabaco.",
-            "tier": "B2"
-          },
-          {
-            "front": "el riesgo",
-            "pos": "noun",
-            "back": "the risk",
-            "example": "Fumar aumenta el riesgo de enfermedad.",
-            "tier": "B1"
-          },
-          {
-            "front": "el humo",
-            "pos": "noun",
-            "back": "the smoke",
-            "example": "El humo llenó toda la cocina.",
-            "tier": "B1"
-          },
-          {
-            "front": "el incendio",
-            "pos": "noun",
-            "back": "the fire, blaze",
-            "example": "Los bomberos apagaron el incendio.",
-            "tier": "B1"
-          },
-          {
-            "front": "desplazarse",
-            "pos": "verb",
-            "back": "to move, to travel",
-            "example": "La tormenta se desplazó hacia el norte.",
-            "tier": "B2"
-          },
-          {
-            "front": "la calidad del aire",
-            "pos": "phrase",
-            "back": "air quality",
-            "example": "La calidad del aire mejoró tras la lluvia.",
-            "tier": "B2"
-          },
-          {
-            "front": "al aire libre",
-            "pos": "phrase",
-            "back": "outdoors, in the open air",
-            "example": "Comimos al aire libre.",
-            "tier": "B1"
-          },
-          {
-            "front": "vulnerable",
-            "pos": "adj",
-            "back": "vulnerable",
-            "example": "Los ancianos son un grupo vulnerable.",
-            "tier": "B2"
-          },
-          {
-            "front": "respiratorio",
-            "pos": "adj",
-            "back": "respiratory, breathing",
-            "example": "Tiene una enfermedad respiratoria.",
-            "tier": "B2"
-          },
-          {
-            "front": "contaminado",
-            "pos": "adj",
-            "back": "polluted, contaminated",
-            "example": "El río está muy contaminado.",
-            "tier": "B1"
-          },
-          {
-            "front": "la molestia",
-            "pos": "noun",
-            "back": "discomfort, nuisance",
-            "example": "Sintió una molestia en la garganta.",
-            "tier": "B2"
-          },
-          {
-            "front": "la precaución",
-            "pos": "noun",
-            "back": "caution",
-            "example": "Conduce siempre con precaución.",
-            "tier": "B1"
-          },
-          {
-            "front": "volver a la normalidad",
-            "pos": "phrase",
-            "back": "to return to normal",
-            "example": "Tras la crisis, todo volvió a la normalidad.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Las autoridades españolas han advertido sobre los riesgos para la salud que provoca el humo de los incendios que afectan al país.",
-            "point": "Oraciones de relativo encadenadas",
-            "explanation": "Hay dos oraciones de relativo con 'que': una describe los riesgos ('que provoca el humo') y otra los incendios ('que afectan al país').",
-            "why_tricky": "Cada 'que' concuerda con un antecedente distinto, por eso un verbo va en singular y otro en plural."
-          },
-          {
-            "sentence": "Aunque el gobierno asegura que la situación empieza a mejorar, las consecuencias sanitarias podrían sentirse durante días.",
-            "point": "'Aunque' con indicativo y condicional",
-            "explanation": "'Aunque' con indicativo presenta un hecho real, y 'podrían' es condicional para expresar posibilidad.",
-            "why_tricky": "'Aunque' puede ir con indicativo (hecho real) o subjuntivo (hipótesis); aquí es un hecho, por eso indicativo."
-          },
-          {
-            "sentence": "Los expertos recomiendan a la población limitar las actividades al aire libre y prestar especial atención a los grupos más vulnerables, como niños, ancianos y personas con problemas respiratorios.",
-            "point": "'Recomendar a alguien' con infinitivo",
-            "explanation": "Tras 'recomendar a la población' se usa el infinitivo ('limitar', 'prestar') porque la recomendación va dirigida a un grupo general.",
-            "why_tricky": "Con un cambio de sujeto explícito se usaría 'que' con subjuntivo; aquí el infinitivo resulta más natural."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "ver la luz al final del túnel",
-            "meaning": "to see hope after a hard period",
-            "example": "Después de meses difíciles, por fin vemos la luz al final del túnel."
-          },
-          {
-            "phrase": "prestar atención",
-            "meaning": "to pay attention",
-            "example": "Presta atención a las señales de tráfico."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué han advertido las autoridades españolas a la población?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué grupos deben tener más cuidado y por qué?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué recomendaciones dan los expertos para protegerse del humo?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Qué medidas crees que deberían tomar los gobiernos para prevenir los incendios y proteger la salud de la población? Escribe tu opinión."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-28-cineasta-crater-volcan",
-      "title": "\"Me estrellé en el cráter de un volcán en erupción y sobreviví una noche\"",
-      "source": "BBC Mundo",
-      "date": "2026-07-28",
-      "level": "B1-B2",
-      "topics": [
-        "aventura",
-        "supervivencia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-28-cineasta-crater-volcan",
-        "revision": 1,
-        "meta": {
-          "title": "\"Me estrellé en el cráter de un volcán en erupción y sobreviví una noche\"",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c0ey712nl40o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-28",
-          "date_processed": "2026-07-28",
-          "tags": [
-            "aventura",
-            "supervivencia"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The filmmaker Chris Duddy has described how he survived a whole night inside the crater of an erupting volcano. The accident happened while he was shooting a film and his helicopter fell near the most dangerous area. Injured and surrounded by toxic gases, he had to wait for hours for rescue to arrive, without knowing whether he would make it out alive.\n\nDuddy remembers that experience as the most terrifying of his life, but also as a lesson about willpower. To stay calm, he focused on breathing and on thinking about his family. When he was finally rescued, he understood how fragile life can be in the face of nature. Today he shares his story to encourage others never to give up in the hardest moments.",
-        "resumen_es": "El cineasta Chris Duddy ha relatado cómo sobrevivió a una noche entera dentro del cráter de un volcán en erupción. El accidente ocurrió mientras rodaba una película y su helicóptero cayó cerca de la zona más peligrosa. Herido y rodeado de gases tóxicos, tuvo que esperar durante horas a que llegara el rescate, sin saber si conseguiría salir con vida.\n\nDuddy recuerda aquella experiencia como la más aterradora de su vida, pero también como una lección sobre la fuerza de voluntad. Para mantener la calma, se concentró en respirar y en pensar en su familia. Cuando por fin lo rescataron, comprendió lo frágil que puede ser la vida frente a la naturaleza. Hoy comparte su historia para animar a otros a no rendirse nunca en los momentos más difíciles.",
-        "vocab": [
-          {
-            "front": "el cineasta",
-            "pos": "noun",
-            "back": "the filmmaker",
-            "example": "El cineasta ganó un premio importante.",
-            "tier": "B2"
-          },
-          {
-            "front": "relatar",
-            "pos": "verb",
-            "back": "to recount, to tell",
-            "example": "Relató su viaje con muchos detalles.",
-            "tier": "B2"
-          },
-          {
-            "front": "estrellarse",
-            "pos": "verb",
-            "back": "to crash",
-            "example": "El avión estuvo a punto de estrellarse.",
-            "tier": "B2"
-          },
-          {
-            "front": "el cráter",
-            "pos": "noun",
-            "back": "the crater",
-            "example": "El cráter del volcán es enorme.",
-            "tier": "B2"
-          },
-          {
-            "front": "la erupción",
-            "pos": "noun",
-            "back": "the eruption",
-            "example": "La erupción cubrió el pueblo de ceniza.",
-            "tier": "B2"
-          },
-          {
-            "front": "rodar una película",
-            "pos": "verb",
-            "back": "to shoot, to film a movie",
-            "example": "Rodaron la película en México.",
-            "tier": "B2"
-          },
-          {
-            "front": "el rescate",
-            "pos": "noun",
-            "back": "the rescue",
-            "example": "El rescate duró varias horas.",
-            "tier": "B1"
-          },
-          {
-            "front": "herido",
-            "pos": "adj",
-            "back": "injured, wounded",
-            "example": "Resultó herido en el accidente.",
-            "tier": "B1"
-          },
-          {
-            "front": "la fuerza de voluntad",
-            "pos": "phrase",
-            "back": "willpower",
-            "example": "Superó la enfermedad con fuerza de voluntad.",
-            "tier": "B2"
-          },
-          {
-            "front": "mantener la calma",
-            "pos": "phrase",
-            "back": "to keep calm",
-            "example": "Es importante mantener la calma en una emergencia.",
-            "tier": "B1"
-          },
-          {
-            "front": "frágil",
-            "pos": "adj",
-            "back": "fragile",
-            "example": "La vida es más frágil de lo que pensamos.",
-            "tier": "B1"
-          },
-          {
-            "front": "rendirse",
-            "pos": "verb",
-            "back": "to give up, to surrender",
-            "example": "Nunca debes rendirte.",
-            "tier": "B1"
-          },
-          {
-            "front": "aterrador",
-            "pos": "adj",
-            "back": "terrifying",
-            "example": "Fue una experiencia aterradora.",
-            "tier": "B2"
-          },
-          {
-            "front": "salir con vida",
-            "pos": "phrase",
-            "back": "to make it out alive",
-            "example": "Pocos salieron con vida del incendio.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "El accidente ocurrió mientras rodaba una película y su helicóptero cayó cerca de la zona más peligrosa.",
-            "point": "Contraste pretérito e imperfecto",
-            "explanation": "'Ocurrió' y 'cayó' (pretérito) marcan acciones puntuales; 'rodaba' (imperfecto) describe la acción de fondo con 'mientras'.",
-            "why_tricky": "El inglés usa 'was shooting' para el fondo; en español el imperfecto cumple esa función junto a 'mientras'."
-          },
-          {
-            "sentence": "Herido y rodeado de gases tóxicos, tuvo que esperar durante horas a que llegara el rescate, sin saber si conseguiría salir con vida.",
-            "point": "'Esperar a que' con subjuntivo",
-            "explanation": "Tras 'esperar a que' se usa el subjuntivo ('llegara'), y 'conseguiría' es condicional dentro de una duda del pasado.",
-            "why_tricky": "Se combinan participios como adjetivos ('herido', 'rodeado'), subjuntivo y condicional en una sola frase."
-          },
-          {
-            "sentence": "Cuando por fin lo rescataron, comprendió lo frágil que puede ser la vida frente a la naturaleza.",
-            "point": "Estructura 'lo + adjetivo + que'",
-            "explanation": "'Lo frágil que puede ser' expresa grado o intensidad, equivalente a 'how fragile it can be'.",
-            "why_tricky": "El neutro 'lo' no funciona como artículo normal; introduce una idea abstracta de cantidad o intensidad."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "salir con vida",
-            "meaning": "to survive, to make it out alive",
-            "example": "Tuvo mucha suerte de salir con vida del accidente."
-          },
-          {
-            "phrase": "no rendirse nunca",
-            "meaning": "to never give up",
-            "example": "Su lema es no rendirse nunca, pase lo que pase."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué le ocurrió a Chris Duddy mientras rodaba su película?",
-            "type": "open"
-          },
-          {
-            "q": "¿Cómo logró mantener la calma durante aquellas horas?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué aprendió sobre la vida gracias a esta experiencia?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que vale la pena arriesgar la vida por el trabajo o por una pasión? Escribe tu opinión y da ejemplos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-28-monjas-inversoras",
-      "title": "Las monjas inversoras que presionan a gigantes tecnologicos y bancarios para \"proteger la creacion de Dios\"",
-      "source": "BBC Mundo",
-      "date": "2026-07-28",
-      "level": "B1-B2",
-      "topics": [
-        "finanzas",
-        "activismo"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-28-monjas-inversoras",
-        "revision": 1,
-        "meta": {
-          "title": "Las monjas inversoras que presionan a gigantes tecnologicos y bancarios para \"proteger la creacion de Dios\"",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cn7ng522mdeo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-28",
-          "date_processed": "2026-07-28",
-          "tags": [
-            "finanzas",
-            "activismo"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "A group of nuns has become an unexpected voice within the financial world. Thanks to their shareholdings in tech giants such as Palantir and in several banks, these religious women can attend shareholder meetings and formally question the companies' practices. Their goal, as they explain, is to protect God's creation and to defend human rights against corporate power.\n\nThis strategy is known as shareholder activism, a tool that lets small investors apply pressure from the inside instead of protesting from the outside. By presenting proposals and asking uncomfortable questions, the nuns want the companies to be held accountable on ethical and environmental issues. Although they rarely win the votes, their presence forces executives to listen to other voices and to remember that ethics matter too.",
-        "resumen_es": "Un grupo de monjas se ha convertido en una voz inesperada dentro del mundo financiero. Gracias a su participacion accionarial en gigantes tecnologicos como Palantir y en varios bancos, estas religiosas pueden asistir a las juntas de accionistas y cuestionar formalmente las practicas de las empresas. Su objetivo, segun explican, es proteger la creacion de Dios y defender los derechos humanos frente al poder empresarial.\n\nEsta estrategia se conoce como activismo accionarial, una herramienta que permite a los pequenos inversores presionar desde dentro en lugar de protestar desde fuera. Al presentar propuestas y hacer preguntas incomodas, las monjas buscan que las companias rindan cuentas sobre cuestiones eticas y medioambientales. Aunque rara vez ganan las votaciones, su presencia obliga a los directivos a escuchar otras voces y recordar que la etica tambien importa.",
-        "vocab": [
-          {
-            "front": "la participacion accionarial",
-            "pos": "noun",
-            "back": "shareholding, equity stake",
-            "example": "Su participacion accionarial les da voz en la empresa.",
-            "tier": "C1"
-          },
-          {
-            "front": "la junta de accionistas",
-            "pos": "noun",
-            "back": "shareholders' meeting",
-            "example": "Cada ano asisten a la junta de accionistas.",
-            "tier": "B2"
-          },
-          {
-            "front": "rendir cuentas",
-            "pos": "phrase",
-            "back": "to be accountable, answer for",
-            "example": "Los directivos deben rendir cuentas a los inversores.",
-            "tier": "B2"
-          },
-          {
-            "front": "el activismo accionarial",
-            "pos": "noun",
-            "back": "shareholder activism",
-            "example": "El activismo accionarial cambia las empresas desde dentro.",
-            "tier": "C1"
-          },
-          {
-            "front": "cuestionar",
-            "pos": "verb",
-            "back": "to question, challenge",
-            "example": "Prefieren cuestionar las decisiones en publico.",
-            "tier": "B2"
-          },
-          {
-            "front": "presionar",
-            "pos": "verb",
-            "back": "to pressure, push",
-            "example": "Buscan presionar a las grandes empresas.",
-            "tier": "B1"
-          },
-          {
-            "front": "los directivos",
-            "pos": "noun",
-            "back": "executives, managers",
-            "example": "Los directivos escucharon la propuesta con atencion.",
-            "tier": "B2"
-          },
-          {
-            "front": "la votacion",
-            "pos": "noun",
-            "back": "vote, ballot",
-            "example": "Perdieron la votacion por poco.",
-            "tier": "B1"
-          },
-          {
-            "front": "la herramienta",
-            "pos": "noun",
-            "back": "tool, instrument",
-            "example": "El dialogo es una herramienta muy util.",
-            "tier": "B1"
-          },
-          {
-            "front": "incomodo",
-            "pos": "adj",
-            "back": "awkward, uncomfortable",
-            "example": "Hicieron una pregunta incomoda al director.",
-            "tier": "B1"
-          },
-          {
-            "front": "medioambiental",
-            "pos": "adj",
-            "back": "environmental",
-            "example": "Defienden causas medioambientales.",
-            "tier": "B2"
-          },
-          {
-            "front": "en lugar de",
-            "pos": "phrase",
-            "back": "instead of",
-            "example": "Actuan desde dentro en lugar de protestar fuera.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "las monjas buscan que las companias rindan cuentas sobre cuestiones eticas y medioambientales",
-            "point": "Subjuntivo tras verbo de influencia (buscar que)",
-            "explanation": "Cuando un verbo como 'buscar', 'querer' o 'pedir' introduce lo que se desea que haga otro sujeto, el segundo verbo va en subjuntivo: 'rindan', no 'rinden'.",
-            "why_tricky": "En ingles se usa un infinitivo ('want the companies to be accountable'), asi que el estudiante olvida el subjuntivo."
-          },
-          {
-            "sentence": "Aunque rara vez ganan las votaciones, su presencia obliga a los directivos a escuchar otras voces",
-            "point": "'Aunque' + indicativo (concesion real)",
-            "explanation": "Cuando el hecho es real y conocido, 'aunque' se combina con indicativo: 'ganan'. Ademas, 'obligar a' rige la preposicion 'a' antes del infinitivo.",
-            "why_tricky": "Muchos usan subjuntivo con 'aunque' por defecto, aunque aqui el hecho es real."
-          },
-          {
-            "sentence": "estas religiosas pueden asistir a las juntas de accionistas y cuestionar formalmente las practicas de las empresas",
-            "point": "'poder' + infinitivo y 'asistir a'",
-            "explanation": "Tras 'poder' va directamente el infinitivo. El verbo 'asistir' se construye con 'a' cuando significa acudir a un evento.",
-            "why_tricky": "'Asistir' parece 'to assist', pero aqui significa 'to attend', y pide la preposicion 'a'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "desde dentro",
-            "meaning": "from within, from the inside",
-            "example": "Prefieren cambiar el sistema desde dentro."
-          },
-          {
-            "phrase": "rara vez",
-            "meaning": "rarely, seldom",
-            "example": "Rara vez consiguen la mayoria de los votos."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Como consiguen las monjas influir en las grandes empresas?",
-            "type": "open"
-          },
-          {
-            "q": "Que significa el activismo accionarial segun el texto?",
-            "type": "open"
-          },
-          {
-            "q": "Por que su presencia sigue siendo importante aunque pierdan las votaciones?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Crees que los pequenos inversores deberian influir en las decisiones eticas de las empresas? Escribe tu opinion en un parrafo."
       }
     }
   ]
