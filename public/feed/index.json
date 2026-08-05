@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-08-05T08:10:55.002794Z",
+  "generated_at": "2026-08-05T20:09:58.394159Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-05-pix-brasil-pagos",
+      "title": "Cómo funciona Pix, el sistema brasileño de pagos que Trump ve como una amenaza (y por qué es diferente a otros)",
+      "source": "BBC Mundo",
+      "date": "2026-08-05",
+      "level": "B1-B2",
+      "topics": [
+        "economía",
+        "tecnología"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-05-pix-brasil-pagos",
+        "revision": 1,
+        "meta": {
+          "title": "Cómo funciona Pix, el sistema brasileño de pagos que Trump ve como una amenaza (y por qué es diferente a otros)",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c98vj2g5npjo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-05",
+          "date_processed": "2026-08-05",
+          "tags": [
+            "economía",
+            "tecnología"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Pix, the instant payment system created by Brazil's central bank, has become an everyday tool for millions of people. It lets users send and receive money in seconds, at any time and with no fees, both between individuals and in small shops. Since its launch its use has soared, and today it competes head to head with bank cards. Donald Trump's government, however, views it with suspicion and sees it as a threat to American companies in the sector.\n\nThe row raises a wider debate: who should control the infrastructure of digital payments. Supporters of the system stress that it has opened up financial access to people who used to be left outside the banking system. Critics, on the other hand, warn of the risk of a public service pushing private competition aside. For now, other countries are watching the Brazilian case closely.",
+        "resumen_es": "Pix, el sistema de pagos instantáneos creado por el banco central de Brasil, se ha convertido en una herramienta cotidiana para millones de personas. Permite enviar y recibir dinero en segundos, a cualquier hora y sin comisiones, tanto entre particulares como en comercios pequeños. Desde su lanzamiento, su uso se ha disparado y hoy compite de tú a tú con las tarjetas bancarias. El gobierno de Donald Trump, sin embargo, lo ve con recelo y lo considera una amenaza para las empresas estadounidenses del sector.\n\nLa polémica pone sobre la mesa un debate más amplio: quién debe controlar la infraestructura de los pagos digitales. Los defensores del sistema subrayan que ha facilitado el acceso financiero a quienes antes quedaban al margen de los bancos. Los críticos advierten del riesgo de que un servicio público desplace a la competencia privada. Otros países siguen el caso de cerca.",
+        "vocab": [
+          {
+            "front": "pagos instantáneos",
+            "pos": "noun",
+            "back": "instant payments",
+            "example": "Los pagos instantáneos han cambiado la forma de comprar.",
+            "tier": "B1"
+          },
+          {
+            "front": "banco central",
+            "pos": "noun",
+            "back": "central bank",
+            "example": "El banco central fijó una nueva tasa de interés.",
+            "tier": "B1"
+          },
+          {
+            "front": "comisión",
+            "pos": "noun",
+            "back": "fee, commission charged by a bank",
+            "example": "Este banco cobra una comisión por cada transferencia.",
+            "tier": "B1"
+          },
+          {
+            "front": "dispararse",
+            "pos": "verb",
+            "back": "to shoot up, to soar",
+            "example": "El precio del alquiler se ha disparado este año.",
+            "tier": "B2"
+          },
+          {
+            "front": "ver algo con recelo",
+            "pos": "phrase",
+            "back": "to view something with suspicion",
+            "example": "Los vecinos ven el proyecto con recelo.",
+            "tier": "B2"
+          },
+          {
+            "front": "amenaza",
+            "pos": "noun",
+            "back": "threat",
+            "example": "La sequía es una amenaza para los agricultores.",
+            "tier": "B1"
+          },
+          {
+            "front": "polémica",
+            "pos": "noun",
+            "back": "controversy, row",
+            "example": "Sus palabras desataron una polémica enorme.",
+            "tier": "B1"
+          },
+          {
+            "front": "poner sobre la mesa",
+            "pos": "phrase",
+            "back": "to raise, to put (an issue) on the table",
+            "example": "El informe puso sobre la mesa un problema antiguo.",
+            "tier": "B2"
+          },
+          {
+            "front": "subrayar",
+            "pos": "verb",
+            "back": "to stress, to underline (a point)",
+            "example": "La ministra subrayó la importancia del acuerdo.",
+            "tier": "B2"
+          },
+          {
+            "front": "quedar al margen de",
+            "pos": "phrase",
+            "back": "to be left out of, on the sidelines of",
+            "example": "Muchos jóvenes quedan al margen del mercado laboral.",
+            "tier": "B2"
+          },
+          {
+            "front": "desplazar",
+            "pos": "verb",
+            "back": "to push aside, to displace",
+            "example": "El coche eléctrico empieza a desplazar al de gasolina.",
+            "tier": "B2"
+          },
+          {
+            "front": "competencia",
+            "pos": "noun",
+            "back": "competition (in business)",
+            "example": "La competencia entre aerolíneas bajó los precios.",
+            "tier": "B1"
+          },
+          {
+            "front": "de tú a tú",
+            "pos": "phrase",
+            "back": "on equal terms, head to head",
+            "example": "El equipo pequeño jugó de tú a tú con el campeón.",
+            "tier": "C1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Desde su lanzamiento, su uso se ha disparado y hoy compite de tú a tú con las tarjetas bancarias.",
+            "point": "Pretérito perfecto con 'desde' para un proceso que llega al presente",
+            "explanation": "'Desde su lanzamiento' abre un periodo que sigue abierto, así que el español usa 'se ha disparado' y no 'se disparó'. Después se cambia al presente ('compite') para describir la situación actual.",
+            "why_tricky": "En inglés se diría 'its use has soared' pero muchos hispanohablantes de América usarían el indefinido; en registro periodístico peninsular el perfecto es la opción natural."
+          },
+          {
+            "sentence": "Los críticos advierten del riesgo de que un servicio público desplace a la competencia privada.",
+            "point": "Subjuntivo tras 'el riesgo de que'",
+            "explanation": "Los sustantivos que expresan posibilidad o temor ('el riesgo de que', 'el miedo a que') exigen subjuntivo en la subordinada: 'desplace', no 'desplaza'.",
+            "why_tricky": "El verbo principal 'advierten' está en indicativo, así que es fácil olvidar que el cambio de modo lo provoca el sustantivo 'riesgo', no el verbo."
+          },
+          {
+            "sentence": "La polémica pone sobre la mesa un debate más amplio: quién debe controlar la infraestructura de los pagos digitales.",
+            "point": "Interrogativa indirecta con tilde en 'quién'",
+            "explanation": "Aunque no hay signos de interrogación, 'quién' mantiene la tilde porque introduce una pregunta indirecta incrustada en la frase.",
+            "why_tricky": "Se confunde con el relativo 'quien' sin tilde ('la persona quien...'), que funciona de otra manera."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "de tú a tú",
+            "meaning": "en igualdad de condiciones, sin complejos ante alguien más grande",
+            "example": "Esa marca pequeña ya compite de tú a tú con las multinacionales."
+          },
+          {
+            "phrase": "poner sobre la mesa",
+            "meaning": "sacar un tema a la discusión pública",
+            "example": "La huelga puso sobre la mesa los sueldos del sector."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué ventajas ofrece Pix frente a las tarjetas bancarias tradicionales?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué el gobierno estadounidense considera que Pix puede ser una amenaza?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué argumentos dan los defensores y los críticos del sistema?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Debería el Estado ofrecer un sistema de pagos gratuito que compita con los bancos privados? Escribe unas 120 palabras defendiendo tu postura con dos argumentos."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-05-despertarse-sin-alarmas",
+      "title": "Los curiosos métodos que usaba la gente para despertarse antes de que existieran las alarmas (y el celular)",
+      "source": "BBC Mundo",
+      "date": "2026-08-05",
+      "level": "B1-B2",
+      "topics": [
+        "historia",
+        "vida cotidiana"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-05-despertarse-sin-alarmas",
+        "revision": 1,
+        "meta": {
+          "title": "Los curiosos métodos que usaba la gente para despertarse antes de que existieran las alarmas (y el celular)",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c4g8y90g513o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-05",
+          "date_processed": "2026-08-05",
+          "tags": [
+            "historia",
+            "vida cotidiana"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Before alarm clocks and mobile phones, people had to find ways of getting up on time. In some industrial cities there was a curious job: men and women who walked the streets at dawn and tapped on windows with a long pole until the workers woke up. Others were guided by the crowing of the cockerel, by church bells or by the light coming through the window.\n\nOver time mechanical clocks became cheaper and the alarm clock slipped into almost every bedroom. Today the mobile has inherited that role, although many sleep experts recommend leaving it far from the bed. What has not changed is the feeling of fighting with the clock every morning: the devices change, but not the urge to sleep five more minutes.",
+        "resumen_es": "Antes de los despertadores y de los teléfonos móviles, la gente tenía que ingeniárselas para levantarse a tiempo. En algunas ciudades industriales existía un oficio curioso: hombres y mujeres que recorrían las calles al amanecer y golpeaban las ventanas con una vara larga hasta despertar a los obreros. Otros se guiaban por el canto del gallo, por las campanas de la iglesia o por la luz que entraba por la ventana.\n\nCon el tiempo, los relojes mecánicos se abarataron y el despertador se coló en casi todos los dormitorios. Hoy el móvil ha heredado esa función, aunque muchos expertos en sueño recomiendan dejarlo lejos de la cama. Lo que no ha cambiado es la sensación de pelearse con el reloj cada mañana: cambian los aparatos, pero no las ganas de dormir cinco minutos más.",
+        "vocab": [
+          {
+            "front": "despertador",
+            "pos": "noun",
+            "back": "alarm clock",
+            "example": "Puse el despertador a las seis y no lo oí.",
+            "tier": "B1"
+          },
+          {
+            "front": "ingeniárselas",
+            "pos": "verb",
+            "back": "to manage, to find a way (with cleverness)",
+            "example": "Siempre se las ingenia para llegar el primero.",
+            "tier": "B2"
+          },
+          {
+            "front": "oficio",
+            "pos": "noun",
+            "back": "trade, occupation",
+            "example": "El de zapatero es un oficio casi perdido.",
+            "tier": "B1"
+          },
+          {
+            "front": "al amanecer",
+            "pos": "phrase",
+            "back": "at dawn",
+            "example": "Salimos de casa al amanecer para evitar el calor.",
+            "tier": "B1"
+          },
+          {
+            "front": "vara",
+            "pos": "noun",
+            "back": "rod, long stick",
+            "example": "Bajaba las aceitunas con una vara larga.",
+            "tier": "B2"
+          },
+          {
+            "front": "obrero",
+            "pos": "noun",
+            "back": "worker, labourer",
+            "example": "Los obreros entraban en la fábrica a las seis.",
+            "tier": "B1"
+          },
+          {
+            "front": "guiarse por",
+            "pos": "verb",
+            "back": "to be guided by, to go by",
+            "example": "Me guío por el mapa, no por la intuición.",
+            "tier": "B2"
+          },
+          {
+            "front": "el canto del gallo",
+            "pos": "phrase",
+            "back": "the crowing of the cockerel",
+            "example": "En el pueblo me despierta el canto del gallo.",
+            "tier": "B2"
+          },
+          {
+            "front": "abaratarse",
+            "pos": "verb",
+            "back": "to become cheaper",
+            "example": "Los billetes de avión se abarataron en otoño.",
+            "tier": "B2"
+          },
+          {
+            "front": "colarse",
+            "pos": "verb",
+            "back": "to slip in, to sneak in",
+            "example": "Se coló en el concierto sin entrada.",
+            "tier": "B2"
+          },
+          {
+            "front": "heredar",
+            "pos": "verb",
+            "back": "to inherit (also a role or habit)",
+            "example": "Ha heredado el carácter tranquilo de su padre.",
+            "tier": "B1"
+          },
+          {
+            "front": "pelearse con",
+            "pos": "verb",
+            "back": "to fight with, to struggle against",
+            "example": "Cada mañana me peleo con el tráfico.",
+            "tier": "B1"
+          },
+          {
+            "front": "aparato",
+            "pos": "noun",
+            "back": "device, gadget",
+            "example": "En casa hay demasiados aparatos enchufados.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Antes de los despertadores y de los teléfonos móviles, la gente tenía que ingeniárselas para levantarse a tiempo.",
+            "point": "Imperfecto para hábitos del pasado y perífrasis 'tener que'",
+            "explanation": "'Tenía que' describe una obligación repetida y sin final concreto en el pasado, por eso va en imperfecto y no en indefinido. 'Ingeniárselas' lleva pronombres fijos que no cambian de significado literal.",
+            "why_tricky": "El pronombre doble de 'ingeniárselas' es opaco: 'se' y 'las' no se refieren a nada concreto, hay que memorizar la expresión entera."
+          },
+          {
+            "sentence": "Otros se guiaban por el canto del gallo, por las campanas de la iglesia o por la luz que entraba por la ventana.",
+            "point": "Repetición obligatoria de la preposición 'por' en una enumeración",
+            "explanation": "En español, cuando se enumeran complementos introducidos por preposición, lo habitual es repetirla delante de cada elemento: 'por el canto', 'por las campanas', 'por la luz'.",
+            "why_tricky": "En inglés la preposición se dice una sola vez ('by the crowing, the bells and the light'), así que suena redundante repetirla."
+          },
+          {
+            "sentence": "Lo que no ha cambiado es la sensación de pelearse con el reloj cada mañana: cambian los aparatos, pero no las ganas de dormir cinco minutos más.",
+            "point": "Estructura enfática con 'lo que'",
+            "explanation": "'Lo que no ha cambiado es...' es una oración hendida que sirve para destacar el elemento nuevo de la frase. El neutro 'lo' sustituye a una idea completa, no a un sustantivo concreto.",
+            "why_tricky": "Se confunde con 'el que' o 'la que', que sí se refieren a personas o cosas con género."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "ingeniárselas",
+            "meaning": "arreglárselas con imaginación para conseguir algo",
+            "example": "Sin dinero, se las ingenió para viajar por todo el país."
+          },
+          {
+            "phrase": "pegarse las sábanas",
+            "meaning": "quedarse dormido y levantarse tarde",
+            "example": "Llegué tarde a la reunión porque se me pegaron las sábanas."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿En qué consistía el oficio que se describe en el primer párrafo?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué señales naturales usaba la gente para despertarse?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué recomiendan los expertos dejar el móvil lejos de la cama?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Describe tu rutina de las mañanas y explica si crees que el móvil te ayuda o te perjudica a la hora de levantarte. Escribe unas 120 palabras."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-05-volcan-fuego-guatemala",
+      "title": "Guatemala: Evacuación y alerta roja por la erupción del volcán de Fuego",
+      "source": "RFI Español",
+      "date": "2026-08-05",
+      "level": "B1-B2",
+      "topics": [
+        "desastres",
+        "Guatemala"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-05-volcan-fuego-guatemala",
+        "revision": 1,
+        "meta": {
+          "title": "Guatemala: Evacuación y alerta roja por la erupción del volcán de Fuego",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260805-guatemala-evacuaci%C3%B3n-y-alerta-roja-por-la-erupci%C3%B3n-del-volc%C3%A1n-de-fuego",
+          "date_published": "2026-08-05",
+          "date_processed": "2026-08-05",
+          "tags": [
+            "desastres",
+            "Guatemala"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Guatemala has declared a red alert after a powerful eruption of the Fuego volcano, one of the most active in Latin America. At least 1,500 residents of the villages near the crater were evacuated on Tuesday, and the departments of Sacatepequez, Chimaltenango and Escuintla, home to 1.6 million people, remain on maximum alert. The authorities have opened shelters and asked people not to go near the area.\n\nThe Fuego volcano is part of everyday life in the country and its eruptions come round every few years. The danger lies not only in the lava but in the ash and in the pyroclastic flows, which race down the slopes at great speed. Emergency teams are monitoring the behaviour of the crater and do not rule out further evacuations if the activity continues.",
+        "resumen_es": "Guatemala ha decretado la alerta roja tras una potente erupción del volcán de Fuego, uno de los más activos de América Latina. Al menos 1.500 vecinos de las aldeas cercanas al cráter fueron evacuados el martes, y los departamentos de Sacatepéquez, Chimaltenango y Escuintla, donde viven 1,6 millones de personas, permanecen en máxima alerta. Las autoridades han habilitado albergues y han pedido a la población que no se acerque a la zona.\n\nEl volcán de Fuego forma parte de la vida cotidiana del país y sus erupciones se repiten cada pocos años. El peligro no está solo en la lava, sino en la ceniza y en los flujos piroclásticos, que bajan por las laderas a gran velocidad. Los equipos de emergencia vigilan el comportamiento del cráter y no descartan nuevas evacuaciones.",
+        "vocab": [
+          {
+            "front": "decretar la alerta roja",
+            "pos": "phrase",
+            "back": "to declare a red alert",
+            "example": "El gobierno decretó la alerta roja por las lluvias.",
+            "tier": "B2"
+          },
+          {
+            "front": "erupción",
+            "pos": "noun",
+            "back": "eruption",
+            "example": "La erupción cubrió de ceniza los campos.",
+            "tier": "B1"
+          },
+          {
+            "front": "cráter",
+            "pos": "noun",
+            "back": "crater",
+            "example": "El humo salía sin parar del cráter.",
+            "tier": "B1"
+          },
+          {
+            "front": "aldea",
+            "pos": "noun",
+            "back": "small village, hamlet",
+            "example": "En la aldea viven apenas doscientas personas.",
+            "tier": "B1"
+          },
+          {
+            "front": "evacuar",
+            "pos": "verb",
+            "back": "to evacuate",
+            "example": "Evacuaron el edificio en diez minutos.",
+            "tier": "B1"
+          },
+          {
+            "front": "albergue",
+            "pos": "noun",
+            "back": "shelter",
+            "example": "Los vecinos pasaron la noche en un albergue municipal.",
+            "tier": "B2"
+          },
+          {
+            "front": "habilitar",
+            "pos": "verb",
+            "back": "to set up, to make available",
+            "example": "Han habilitado un pabellón para los afectados.",
+            "tier": "B2"
+          },
+          {
+            "front": "ceniza",
+            "pos": "noun",
+            "back": "ash",
+            "example": "La ceniza cubrió los coches del pueblo.",
+            "tier": "B1"
+          },
+          {
+            "front": "ladera",
+            "pos": "noun",
+            "back": "slope, hillside",
+            "example": "Las casas están construidas en la ladera del monte.",
+            "tier": "B2"
+          },
+          {
+            "front": "flujo piroclástico",
+            "pos": "noun",
+            "back": "pyroclastic flow",
+            "example": "El flujo piroclástico arrasó los cultivos.",
+            "tier": "C1"
+          },
+          {
+            "front": "no descartar",
+            "pos": "verb",
+            "back": "not to rule out",
+            "example": "El ministro no descarta nuevas medidas.",
+            "tier": "B2"
+          },
+          {
+            "front": "vida cotidiana",
+            "pos": "noun",
+            "back": "everyday life",
+            "example": "El ruido forma parte de la vida cotidiana en la ciudad.",
+            "tier": "B1"
+          },
+          {
+            "front": "vigilar",
+            "pos": "verb",
+            "back": "to monitor, to keep watch on",
+            "example": "Los científicos vigilan la actividad sísmica.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Las autoridades han habilitado albergues y han pedido a la población que no se acerque a la zona.",
+            "point": "Subjuntivo tras verbo de petición",
+            "explanation": "Verbos como 'pedir', 'rogar' o 'exigir' introducen una subordinada en subjuntivo cuando hay cambio de sujeto: 'han pedido... que no se acerque'.",
+            "why_tricky": "En inglés se usa un infinitivo ('asked people not to go near'), estructura imposible aquí porque el sujeto cambia."
+          },
+          {
+            "sentence": "El peligro no está solo en la lava, sino en la ceniza y en los flujos piroclásticos, que bajan por las laderas a gran velocidad.",
+            "point": "La correlación 'no solo... sino'",
+            "explanation": "'Sino' corrige o amplía una idea negativa anterior; no se puede sustituir por 'pero'. Aquí añade información en lugar de oponerse a ella.",
+            "why_tricky": "'Pero' y 'sino' se traducen los dos como 'but', pero solo 'sino' sirve después de una negación que se corrige."
+          },
+          {
+            "sentence": "Al menos 1.500 vecinos de las aldeas cercanas al cráter fueron evacuados el martes, y los departamentos de Sacatepéquez, Chimaltenango y Escuintla, donde viven 1,6 millones de personas, permanecen en máxima alerta.",
+            "point": "Pasiva con 'ser' en el lenguaje periodístico",
+            "explanation": "'Fueron evacuados' es una pasiva perifrástica, frecuente en prensa cuando el agente no importa. En la lengua hablada se preferiría 'evacuaron a 1.500 vecinos'.",
+            "why_tricky": "El español evita la pasiva mucho más que el inglés, así que hay que reconocerla al leer aunque casi no se use al hablar."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "estar en alerta máxima",
+            "meaning": "estar preparado ante un peligro inminente",
+            "example": "Los hospitales están en alerta máxima por la ola de calor."
+          },
+          {
+            "phrase": "curarse en salud",
+            "meaning": "tomar precauciones por adelantado para evitar un problema",
+            "example": "Evacuaron antes de tiempo para curarse en salud."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué medidas han tomado las autoridades guatemaltecas tras la erupción?",
+            "type": "open"
+          },
+          {
+            "q": "Según el texto, ¿por qué la ceniza y los flujos piroclásticos son tan peligrosos?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué significa que el volcán 'forma parte de la vida cotidiana del país'?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Deberían prohibirse las viviendas en las zonas cercanas a un volcán activo? Escribe unas 120 palabras con tu opinión y un argumento en contra."
+      }
+    },
     {
       "pack_id": "feed-2026-08-05-miami-ultrarricos",
       "title": "Cómo Miami se convirtió en el hogar de los ultrarricos en EE.UU. (y el efecto que tiene en que la vida sea más cara que en Nueva York)",
@@ -6171,534 +6678,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que los beneficios de la inteligencia artificial compensan sus riesgos? Escribe un párrafo con tu opinión y algunos ejemplos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-29-nicaragua-ortega-elecciones",
-      "title": "\"Nicaragua se ha convertido en la Corea del Norte de América Latina\": la oposición condena la intención de Ortega de cancelar las elecciones",
-      "source": "BBC Mundo",
-      "date": "2026-07-22",
-      "level": "B1-B2",
-      "topics": [
-        "política",
-        "Nicaragua"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-29-nicaragua-ortega-elecciones",
-        "revision": 1,
-        "meta": {
-          "title": "\"Nicaragua se ha convertido en la Corea del Norte de América Latina\": la oposición condena la intención de Ortega de cancelar las elecciones",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/ce3ql18yd8ko?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-22",
-          "date_processed": "2026-07-29",
-          "tags": [
-            "política",
-            "Nicaragua"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The Nicaraguan opposition has firmly rejected Daniel Ortega's suggestion that elections will not be held again in the country. Several critical voices now compare Nicaragua to North Korea and warn that democracy is hitting rock bottom. For many opponents, the announcement confirms an authoritarian drift that has been intensifying over recent years.\n\nThe presidential elections were due to be held this year, but a highly disputed constitutional reform postponed them and now their future is uncertain. The international community is watching the situation with concern, because the room for dissent is shrinking more and more. Meanwhile, a large part of the opposition lives in exile and is calling for diplomatic pressure so that the political rights of the population are respected.",
-        "resumen_es": "La oposición nicaragüense ha rechazado con firmeza la insinuación de Daniel Ortega de que en el país no se volverán a celebrar elecciones. Varias voces críticas comparan ahora a Nicaragua con Corea del Norte y alertan de que la democracia está tocando fondo. Para muchos opositores, el anuncio confirma una deriva autoritaria que se ha ido acentuando durante los últimos años.\n\nLas elecciones presidenciales debían celebrarse este año, pero una reforma constitucional muy cuestionada las aplazó y ahora su futuro es incierto. La comunidad internacional observa la situación con preocupación, ya que el margen para la disidencia se reduce cada vez más. Mientras tanto, buena parte de la oposición vive en el exilio y reclama presión diplomática para que se respeten los derechos políticos de la población.",
-        "vocab": [
-          {
-            "front": "rechazar",
-            "pos": "verb",
-            "back": "to reject",
-            "example": "El gobierno rechazó la propuesta de la oposición.",
-            "tier": "B1"
-          },
-          {
-            "front": "con firmeza",
-            "pos": "phrase",
-            "back": "firmly",
-            "example": "Defendió su idea con firmeza.",
-            "tier": "B2"
-          },
-          {
-            "front": "la insinuación",
-            "pos": "noun",
-            "back": "hint, insinuation",
-            "example": "No me gustaron sus insinuaciones.",
-            "tier": "B2"
-          },
-          {
-            "front": "tocar fondo",
-            "pos": "phrase",
-            "back": "to hit rock bottom",
-            "example": "La economía tocó fondo el año pasado.",
-            "tier": "B2"
-          },
-          {
-            "front": "la deriva autoritaria",
-            "pos": "phrase",
-            "back": "authoritarian drift",
-            "example": "Los analistas denuncian una deriva autoritaria.",
-            "tier": "C1"
-          },
-          {
-            "front": "acentuarse",
-            "pos": "verb",
-            "back": "to intensify, become more marked",
-            "example": "Las diferencias se han acentuado con el tiempo.",
-            "tier": "B2"
-          },
-          {
-            "front": "aplazar",
-            "pos": "verb",
-            "back": "to postpone",
-            "example": "Tuvieron que aplazar la reunión.",
-            "tier": "B1"
-          },
-          {
-            "front": "cuestionado",
-            "pos": "adj",
-            "back": "disputed, questioned",
-            "example": "Fue una decisión muy cuestionada.",
-            "tier": "B2"
-          },
-          {
-            "front": "incierto",
-            "pos": "adj",
-            "back": "uncertain",
-            "example": "El futuro del proyecto es incierto.",
-            "tier": "B2"
-          },
-          {
-            "front": "el margen",
-            "pos": "noun",
-            "back": "room, margin",
-            "example": "Hay poco margen para negociar.",
-            "tier": "B2"
-          },
-          {
-            "front": "la disidencia",
-            "pos": "noun",
-            "back": "dissent",
-            "example": "El régimen no tolera la disidencia.",
-            "tier": "C1"
-          },
-          {
-            "front": "el exilio",
-            "pos": "noun",
-            "back": "exile",
-            "example": "Muchos artistas viven en el exilio.",
-            "tier": "B2"
-          },
-          {
-            "front": "reclamar",
-            "pos": "verb",
-            "back": "to demand, call for",
-            "example": "Los vecinos reclaman más seguridad.",
-            "tier": "B1"
-          },
-          {
-            "front": "cada vez más",
-            "pos": "phrase",
-            "back": "increasingly, more and more",
-            "example": "El problema es cada vez más grave.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La oposición nicaragüense ha rechazado con firmeza la insinuación de Daniel Ortega de que en el país no se volverán a celebrar elecciones.",
-            "point": "'volver a + infinitivo' para expresar repetición",
-            "explanation": "'Volver a celebrar' significa 'celebrar de nuevo'; aquí en futuro y con 'se' pasivo: 'no se volverán a celebrar'.",
-            "why_tricky": "El estudiante traduce 'again' con una palabra suelta y olvida la estructura 'volver a + infinitivo'."
-          },
-          {
-            "sentence": "Las elecciones presidenciales debían celebrarse este año, pero una reforma constitucional muy cuestionada las aplazó y ahora su futuro es incierto.",
-            "point": "'debían celebrarse': imperfecto de 'deber' + infinitivo pronominal",
-            "explanation": "'Debían' (imperfecto) expresa una obligación o un plan previsto en el pasado que luego no se cumplió.",
-            "why_tricky": "Se confunde 'debían' (obligación pasada) con 'debieron' o con 'deber de' (probabilidad)."
-          },
-          {
-            "sentence": "La comunidad internacional observa la situación con preocupación, ya que el margen para la disidencia se reduce cada vez más.",
-            "point": "Intensificador 'cada vez más'",
-            "explanation": "'Cada vez más' indica un aumento gradual y continuo, equivalente a 'increasingly'.",
-            "why_tricky": "Los estudiantes lo traducen palabra por palabra y no lo reconocen como una expresión fija."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "tocar fondo",
-            "meaning": "llegar al peor momento posible de una situación",
-            "example": "Cuando tocó fondo, decidió pedir ayuda."
-          },
-          {
-            "phrase": "quedarse de brazos cruzados",
-            "meaning": "no hacer nada ante un problema",
-            "example": "La comunidad internacional no quiere quedarse de brazos cruzados."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Cómo ha reaccionado la oposición ante las palabras de Ortega?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué el futuro de las elecciones es incierto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué reclama la oposición a la comunidad internacional?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Qué papel debería tener la comunidad internacional cuando un gobierno limita las elecciones? Razona tu respuesta con ejemplos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-29-fifa-argentina-mundial",
-      "title": "La FIFA abre una investigación contra Argentina por los incidentes tras la derrota en la final del Mundial 2026",
-      "source": "BBC Mundo",
-      "date": "2026-07-21",
-      "level": "B1-B2",
-      "topics": [
-        "deporte",
-        "fútbol"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-29-fifa-argentina-mundial",
-        "revision": 1,
-        "meta": {
-          "title": "La FIFA abre una investigación contra Argentina por los incidentes tras la derrota en la final del Mundial 2026",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cwye8j2yq83o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-21",
-          "date_processed": "2026-07-29",
-          "tags": [
-            "deporte",
-            "fútbol"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "FIFA has opened an investigation into the Argentine national team over the incidents that took place at the end of the 2026 World Cup final, which Spain ended up winning. The body wants to clarify what happened in the minutes after the final whistle, when tension soared on and off the field of play. For now, the specific details of the case have not been made public.\n\nThe result left a bitter taste for the Argentine side, which had arrived at the event as one of the big favourites. Now, besides the sporting disappointment, the team is exposed to possible sanctions if the investigation confirms inappropriate behaviour. The Argentine federation has not yet commented, but it is expected to cooperate with FIFA to clarify the facts and prevent them from happening again in the future.",
-        "resumen_es": "La FIFA ha abierto una investigación contra la selección de Argentina por los incidentes ocurridos al término de la final del Mundial 2026, que España terminó ganando. El organismo quiere aclarar qué sucedió en los minutos posteriores al pitido final, cuando la tensión se disparó dentro y fuera del terreno de juego. De momento no se han hecho públicos los detalles concretos del expediente.\n\nEl resultado dejó un sabor amargo en el conjunto argentino, que llegaba a la cita como uno de los grandes favoritos. Ahora, además de la decepción deportiva, el equipo se expone a posibles sanciones si la investigación confirma un comportamiento inapropiado. La federación argentina todavía no se ha pronunciado, pero se espera que colabore con la FIFA para esclarecer los hechos y evitar que se repitan en el futuro.",
-        "vocab": [
-          {
-            "front": "abrir una investigación",
-            "pos": "phrase",
-            "back": "to open an investigation",
-            "example": "La policía abrió una investigación sobre el caso.",
-            "tier": "B1"
-          },
-          {
-            "front": "el incidente",
-            "pos": "noun",
-            "back": "incident",
-            "example": "Hubo varios incidentes durante el partido.",
-            "tier": "B1"
-          },
-          {
-            "front": "al término de",
-            "pos": "phrase",
-            "back": "at the end of",
-            "example": "Al término de la reunión, firmaron el acuerdo.",
-            "tier": "B2"
-          },
-          {
-            "front": "el pitido final",
-            "pos": "phrase",
-            "back": "the final whistle",
-            "example": "Celebraron el gol tras el pitido final.",
-            "tier": "B2"
-          },
-          {
-            "front": "dispararse",
-            "pos": "verb",
-            "back": "to soar, shoot up",
-            "example": "Los precios se dispararon en verano.",
-            "tier": "B2"
-          },
-          {
-            "front": "el terreno de juego",
-            "pos": "phrase",
-            "back": "the field of play",
-            "example": "Los jugadores saltaron al terreno de juego.",
-            "tier": "B2"
-          },
-          {
-            "front": "el expediente",
-            "pos": "noun",
-            "back": "case file, dossier",
-            "example": "Abrieron un expediente disciplinario.",
-            "tier": "B2"
-          },
-          {
-            "front": "dejar un sabor amargo",
-            "pos": "phrase",
-            "back": "to leave a bitter taste",
-            "example": "La derrota dejó un sabor amargo.",
-            "tier": "B2"
-          },
-          {
-            "front": "el conjunto",
-            "pos": "noun",
-            "back": "team, side",
-            "example": "El conjunto local jugó muy bien.",
-            "tier": "B2"
-          },
-          {
-            "front": "el favorito",
-            "pos": "noun",
-            "back": "favourite (to win)",
-            "example": "Brasil era el gran favorito.",
-            "tier": "B1"
-          },
-          {
-            "front": "exponerse a",
-            "pos": "verb",
-            "back": "to be exposed to, to risk",
-            "example": "Se expone a una fuerte multa.",
-            "tier": "B2"
-          },
-          {
-            "front": "la sanción",
-            "pos": "noun",
-            "back": "sanction, penalty",
-            "example": "El club recibió una sanción económica.",
-            "tier": "B1"
-          },
-          {
-            "front": "pronunciarse",
-            "pos": "verb",
-            "back": "to comment, to make a statement",
-            "example": "El presidente aún no se ha pronunciado.",
-            "tier": "B2"
-          },
-          {
-            "front": "esclarecer",
-            "pos": "verb",
-            "back": "to clarify, to shed light on",
-            "example": "Quieren esclarecer lo que pasó.",
-            "tier": "C1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La FIFA ha abierto una investigación contra la selección de Argentina por los incidentes ocurridos al término de la final del Mundial 2026, que España terminó ganando.",
-            "point": "'terminar + gerundio' (acabar haciendo algo)",
-            "explanation": "'Terminó ganando' significa que, al final, España ganó; 'terminar/acabar + gerundio' expresa el resultado final de un proceso.",
-            "why_tricky": "Se confunde con 'terminar de + infinitivo', que significa acabar una acción, no el resultado final."
-          },
-          {
-            "sentence": "Ahora, además de la decepción deportiva, el equipo se expone a posibles sanciones si la investigación confirma un comportamiento inapropiado.",
-            "point": "Condicional real con 'si' + presente",
-            "explanation": "'Si la investigación confirma' usa presente de indicativo para una condición posible y real.",
-            "why_tricky": "Es un error frecuente usar el subjuntivo tras 'si' en las condiciones reales."
-          },
-          {
-            "sentence": "La federación argentina todavía no se ha pronunciado, pero se espera que colabore con la FIFA para esclarecer los hechos y evitar que se repitan en el futuro.",
-            "point": "Subjuntivo tras 'se espera que'",
-            "explanation": "Las expresiones de deseo o expectativa como 'se espera que' piden subjuntivo: 'colabore', no 'colabora'.",
-            "why_tricky": "El estudiante usa el indicativo por costumbre y olvida el cambio al subjuntivo."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "dejar un sabor amargo",
-            "meaning": "provocar una sensación de decepción o tristeza",
-            "example": "El final de la película me dejó un sabor amargo."
-          },
-          {
-            "phrase": "estar en el punto de mira",
-            "meaning": "ser objeto de atención o de sospecha",
-            "example": "El árbitro está en el punto de mira tras el partido."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué ha abierto la FIFA una investigación contra Argentina?",
-            "type": "open"
-          },
-          {
-            "q": "¿Cómo llegaba Argentina a la final del Mundial?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué podría pasar si se confirma un comportamiento inapropiado?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Cómo se debería sancionar el mal comportamiento en el deporte de élite? Da tu opinión con ejemplos concretos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-29-amiga-desaparecida-australia",
-      "title": "\"No podía aceptar que nunca encontrarían a mi amiga desaparecida y me fui al otro lado del planeta a buscarla\"",
-      "source": "BBC Mundo",
-      "date": "2026-07-21",
-      "level": "B1-B2",
-      "tags": [
-        "sociedad",
-        "amistad"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-29-amiga-desaparecida-australia",
-        "revision": 1,
-        "meta": {
-          "title": "\"No podía aceptar que nunca encontrarían a mi amiga desaparecida y me fui al otro lado del planeta a buscarla\"",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c39en94xnmno?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-21",
-          "date_processed": "2026-07-29",
-          "tags": [
-            "sociedad",
-            "amistad"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "When her best friend disappeared while hiking in a tropical rainforest in Australia, Justine Ropet refused to give up. The police could not find any clue and the case seemed closed. However, she could not accept that they would never find her friend, so she decided to travel to the other side of the planet to look for her on her own.\n\nFor months, Justine walked difficult trails, spoke with witnesses and gathered all the information she could. Her tenacity finally paid off, because in the end she got the answers she had been searching for. Her story shows the power of friendship and the importance of not giving up in the face of difficulties. Many now see her as an example of courage, since she was able to do alone what others had abandoned.",
-        "resumen_es": "Cuando su mejor amiga desapareció mientras hacía senderismo en una selva tropical de Australia, Justine Ropet se negó a rendirse. La policía no lograba encontrar ninguna pista y el caso parecía cerrado. Sin embargo, ella no podía aceptar que nunca hallarían a su amiga, así que decidió viajar al otro lado del planeta para buscarla por su cuenta.\n\nDurante meses, Justine recorrió senderos difíciles, habló con testigos y reunió toda la información que pudo. Su tenacidad terminó dando frutos, porque al final consiguió las respuestas que tanto buscaba. Su historia demuestra el poder de la amistad y la importancia de no rendirse ante las dificultades. Muchos la ven ahora como un ejemplo de valentía, ya que fue capaz de hacer sola lo que otros habían abandonado.",
-        "vocab": [
-          {
-            "front": "desaparecer",
-            "pos": "verb",
-            "back": "to disappear",
-            "example": "Su amiga desapareció sin dejar rastro.",
-            "tier": "B1"
-          },
-          {
-            "front": "senderismo",
-            "pos": "noun",
-            "back": "hiking",
-            "example": "Le encanta el senderismo en la montaña.",
-            "tier": "B1"
-          },
-          {
-            "front": "selva",
-            "pos": "noun",
-            "back": "jungle, rainforest",
-            "example": "La selva tropical es muy densa.",
-            "tier": "B1"
-          },
-          {
-            "front": "rendirse",
-            "pos": "verb",
-            "back": "to give up",
-            "example": "Nunca hay que rendirse.",
-            "tier": "B1"
-          },
-          {
-            "front": "pista",
-            "pos": "noun",
-            "back": "clue, lead",
-            "example": "La policía no tenía ninguna pista.",
-            "tier": "B2"
-          },
-          {
-            "front": "por su cuenta",
-            "pos": "phrase",
-            "back": "on one's own",
-            "example": "Investigó el caso por su cuenta.",
-            "tier": "B2"
-          },
-          {
-            "front": "sendero",
-            "pos": "noun",
-            "back": "path, trail",
-            "example": "Siguieron un sendero estrecho.",
-            "tier": "B1"
-          },
-          {
-            "front": "testigo",
-            "pos": "noun",
-            "back": "witness",
-            "example": "Habló con varios testigos.",
-            "tier": "B2"
-          },
-          {
-            "front": "tenacidad",
-            "pos": "noun",
-            "back": "tenacity, persistence",
-            "example": "Su tenacidad la ayudó a lograrlo.",
-            "tier": "B2"
-          },
-          {
-            "front": "dar frutos",
-            "pos": "phrase",
-            "back": "to pay off, to bear fruit",
-            "example": "El esfuerzo dio frutos.",
-            "tier": "B2"
-          },
-          {
-            "front": "ante las dificultades",
-            "pos": "phrase",
-            "back": "in the face of difficulties",
-            "example": "No se rindió ante las dificultades.",
-            "tier": "B2"
-          },
-          {
-            "front": "valentía",
-            "pos": "noun",
-            "back": "bravery, courage",
-            "example": "Actuó con gran valentía.",
-            "tier": "B1"
-          },
-          {
-            "front": "ser capaz de",
-            "pos": "phrase",
-            "back": "to be able to",
-            "example": "Fue capaz de encontrarla.",
-            "tier": "B1"
-          },
-          {
-            "front": "reunir",
-            "pos": "verb",
-            "back": "to gather, collect",
-            "example": "Reunió mucha información.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Cuando su mejor amiga desapareció mientras hacía senderismo en una selva tropical de Australia, Justine Ropet se negó a rendirse.",
-            "point": "contraste pretérito (desapareció) e imperfecto (hacía) y negarse a + infinitivo",
-            "explanation": "'Desapareció' y 'se negó' son acciones puntuales (pretérito); 'hacía' describe la acción en curso (imperfecto). 'Negarse a' rige infinitivo.",
-            "why_tricky": "Elegir entre pretérito e imperfecto en la misma frase es uno de los mayores retos del español."
-          },
-          {
-            "sentence": "Sin embargo, ella no podía aceptar que nunca hallarían a su amiga, así que decidió viajar al otro lado del planeta para buscarla por su cuenta.",
-            "point": "conector consecutivo así que y para + infinitivo con pronombre enclítico",
-            "explanation": "'Así que' introduce una consecuencia. 'Para buscarla' expresa finalidad y une el pronombre 'la' al infinitivo.",
-            "why_tricky": "El pronombre se pega al infinitivo (buscarla), algo que no ocurre en inglés."
-          },
-          {
-            "sentence": "Su tenacidad terminó dando frutos, porque al final consiguió las respuestas que tanto buscaba.",
-            "point": "terminar + gerundio y la locución dar frutos",
-            "explanation": "'Terminar + gerundio' indica el resultado final de un proceso: terminó dando frutos. 'Dar frutos' significa producir buenos resultados.",
-            "why_tricky": "'Terminar dando' no se traduce literalmente; equivale a 'ended up paying off'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "dar frutos",
-            "meaning": "to pay off, to bear fruit",
-            "example": "Con el tiempo, su trabajo dio frutos."
-          },
-          {
-            "phrase": "no dar el brazo a torcer",
-            "meaning": "to refuse to give in",
-            "example": "Es testaruda y no da el brazo a torcer."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué decidió Justine viajar a Australia?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué hizo para intentar encontrar respuestas?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué demuestra su historia, según el texto?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Qué serías capaz de hacer por un buen amigo? Escribe tu respuesta en unas cinco frases."
       }
     }
   ]
