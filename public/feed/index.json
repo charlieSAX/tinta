@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-08-04T20:17:30.976481Z",
+  "generated_at": "2026-08-05T08:10:55.002794Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-05-miami-ultrarricos",
+      "title": "Cómo Miami se convirtió en el hogar de los ultrarricos en EE.UU. (y el efecto que tiene en que la vida sea más cara que en Nueva York)",
+      "source": "BBC Mundo",
+      "date": "2026-08-05",
+      "level": "B1-B2",
+      "topics": [
+        "economía",
+        "vivienda"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-05-miami-ultrarricos",
+        "revision": 1,
+        "meta": {
+          "title": "Cómo Miami se convirtió en el hogar de los ultrarricos en EE.UU. (y el efecto que tiene en que la vida sea más cara que en Nueva York)",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cwylrx2rw8no?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-04",
+          "date_processed": "2026-08-05",
+          "tags": [
+            "economía",
+            "vivienda"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Since the end of the pandemic, Miami has become one of the most sought after property markets in the United States and in the world. Many families with large fortunes, along with investment funds and financial firms, have moved their home or their headquarters there, drawn by the climate, by low taxes and by the closeness to Latin America. The result is that housing prices have shot up and that, in some neighbourhoods, living in Miami now works out more expensive than living in New York.\n\nThis boom, however, has a less pleasant side. As rents go up, many lifelong residents are forced to move out to the outskirts, and local salaries are not keeping pace with the cost of living. Experts warn that the city will have to decide who it wants to house in the long term.",
+        "resumen_es": "Desde el final de la pandemia, Miami se ha convertido en uno de los mercados inmobiliarios más codiciados de Estados Unidos y del mundo. Muchas familias con grandes fortunas, además de fondos de inversión y empresas financieras, han trasladado allí su residencia o su sede, atraídas por el clima, por los impuestos bajos y por la cercanía con América Latina. El resultado es que los precios de la vivienda se han disparado y que, en algunos barrios, vivir en Miami ya sale más caro que vivir en Nueva York.\n\nEste auge, sin embargo, tiene una cara menos amable. A medida que suben los alquileres, muchos residentes de toda la vida se ven obligados a mudarse a las afueras, y los sueldos locales no siguen el ritmo del coste de la vida. Los expertos advierten de que la ciudad tendrá que decidir a quién quiere alojar a largo plazo.",
+        "vocab": [
+          {
+            "front": "codiciado",
+            "pos": "adj",
+            "back": "sought after, coveted",
+            "example": "Es uno de los barrios más codiciados de la ciudad.",
+            "tier": "B2"
+          },
+          {
+            "front": "el mercado inmobiliario",
+            "pos": "noun",
+            "back": "the property market",
+            "example": "El mercado inmobiliario se ha enfriado este año.",
+            "tier": "B1"
+          },
+          {
+            "front": "dispararse",
+            "pos": "verb",
+            "back": "to shoot up, to soar (prices)",
+            "example": "Los alquileres se dispararon después del verano.",
+            "tier": "B2"
+          },
+          {
+            "front": "trasladar",
+            "pos": "verb",
+            "back": "to move, to relocate (something or someone)",
+            "example": "La empresa trasladó su sede a Valencia.",
+            "tier": "B1"
+          },
+          {
+            "front": "la sede",
+            "pos": "noun",
+            "back": "headquarters, head office",
+            "example": "La sede del banco está en el centro.",
+            "tier": "B1"
+          },
+          {
+            "front": "el alquiler",
+            "pos": "noun",
+            "back": "rent",
+            "example": "Pago el alquiler el día uno de cada mes.",
+            "tier": "B1"
+          },
+          {
+            "front": "verse obligado a",
+            "pos": "phrase",
+            "back": "to be forced to",
+            "example": "Se vio obligado a vender el piso.",
+            "tier": "B2"
+          },
+          {
+            "front": "las afueras",
+            "pos": "noun",
+            "back": "the outskirts, the suburbs",
+            "example": "Viven en las afueras y vienen en tren.",
+            "tier": "B1"
+          },
+          {
+            "front": "seguir el ritmo",
+            "pos": "phrase",
+            "back": "to keep pace, to keep up",
+            "example": "Los sueldos no siguen el ritmo de los precios.",
+            "tier": "B2"
+          },
+          {
+            "front": "el auge",
+            "pos": "noun",
+            "back": "boom, peak",
+            "example": "El turismo vive un auge sin precedentes.",
+            "tier": "B2"
+          },
+          {
+            "front": "el coste de la vida",
+            "pos": "noun",
+            "back": "the cost of living",
+            "example": "El coste de la vida ha subido mucho.",
+            "tier": "B1"
+          },
+          {
+            "front": "advertir",
+            "pos": "verb",
+            "back": "to warn",
+            "example": "Los economistas advierten de una crisis.",
+            "tier": "B1"
+          },
+          {
+            "front": "a largo plazo",
+            "pos": "phrase",
+            "back": "in the long term",
+            "example": "Hay que pensar a largo plazo.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El resultado es que los precios de la vivienda se han disparado y que, en algunos barrios, vivir en Miami ya sale más caro que vivir en Nueva York.",
+            "point": "El infinitivo como sujeto y la comparación de superioridad",
+            "explanation": "En español el infinitivo funciona como un sustantivo: 'vivir en Miami' es el sujeto del verbo 'sale'. La estructura 'más + adjetivo + que' compara dos elementos, y aquí compara dos infinitivos.",
+            "why_tricky": "En inglés se usaría el gerundio ('living in Miami'), no el infinitivo. Traducir literalmente el gerundio inglés al español produce errores muy frecuentes."
+          },
+          {
+            "sentence": "A medida que suben los alquileres, muchos residentes de toda la vida se ven obligados a mudarse a las afueras, y los sueldos locales no siguen el ritmo del coste de la vida.",
+            "point": "'A medida que' con indicativo para dos procesos simultáneos",
+            "explanation": "'A medida que' introduce una acción que avanza al mismo tiempo que otra. Cuando los dos hechos son reales y actuales, va con indicativo ('suben'), no con subjuntivo.",
+            "why_tricky": "Otras expresiones temporales parecidas, como 'cuando' o 'en cuanto', piden subjuntivo si hablan del futuro, así que es fácil generalizar la regla mal."
+          },
+          {
+            "sentence": "Muchas familias con grandes fortunas, además de fondos de inversión y empresas financieras, han trasladado allí su residencia o su sede, atraídas por el clima, por los impuestos bajos y por la cercanía con América Latina.",
+            "point": "Participio en cláusula reducida y concordancia",
+            "explanation": "'Atraídas' es un participio que equivale a 'porque estaban atraídas' y concuerda en género y número con 'familias'. Es una forma económica de dar la causa sin abrir otra oración.",
+            "why_tricky": "El participio está lejos del sustantivo con el que concuerda, y hay otros sustantivos masculinos por medio ('fondos', 'impuestos') que pueden confundir la concordancia."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "salir caro",
+            "meaning": "resultar más costoso de lo esperado",
+            "example": "Comprar el billete a última hora te va a salir caro."
+          },
+          {
+            "phrase": "de toda la vida",
+            "meaning": "de siempre, de mucho tiempo atrás",
+            "example": "Es una panadería de toda la vida en el centro del pueblo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué razones se dan para explicar la llegada de grandes fortunas a Miami?",
+            "type": "open"
+          },
+          {
+            "q": "¿Cómo afecta la subida de los alquileres a los residentes de toda la vida?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué dice el texto que el auge de la ciudad tiene una cara menos amable?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Debería una ciudad limitar la compra de viviendas por parte de inversores extranjeros? Escribe entre 120 y 150 palabras defendiendo tu postura con dos argumentos."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-05-cohete-spacex-luna",
+      "title": "Qué pasará cuando el cohete a la deriva de SpaceX choque contra la Luna (y por qué puede ser una buena noticia para la ciencia)",
+      "source": "BBC Mundo",
+      "date": "2026-08-05",
+      "level": "B1-B2",
+      "topics": [
+        "ciencia",
+        "espacio"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-05-cohete-spacex-luna",
+        "revision": 1,
+        "meta": {
+          "title": "Qué pasará cuando el cohete a la deriva de SpaceX choque contra la Luna (y por qué puede ser una buena noticia para la ciencia)",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c4g3764dm5do?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-04",
+          "date_processed": "2026-08-05",
+          "tags": [
+            "ciencia",
+            "espacio"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "A SpaceX rocket that had been drifting in space for years is going to crash into the Moon this Wednesday. It is a launch stage that ran out of fuel after a mission and that, since then, has followed an orbit which is hard to predict. Astronomers have spent months tracking its path with telescopes and they calculate that the impact will happen on the far side of our satellite, out of sight from Earth.\n\nAlthough it sounds alarming, experts insist that there is no danger: the Moon has withstood countless collisions over millions of years. In fact, this case could turn out to be useful for science, because for the first time we know in advance where and when a crater is going to form. The probes orbiting the Moon will be able to compare the terrain before and after the collision.",
+        "resumen_es": "Un cohete de SpaceX que llevaba años a la deriva en el espacio va a estrellarse contra la Luna este miércoles. Se trata de una etapa de lanzamiento que se quedó sin combustible después de una misión y que, desde entonces, ha seguido una órbita difícil de predecir. Los astrónomos llevan meses siguiendo su trayectoria con telescopios y calculan que el impacto se producirá en la cara oculta de nuestro satélite, lejos de la vista desde la Tierra.\n\nAunque suene alarmante, los expertos insisten en que no hay peligro: la Luna ha soportado incontables choques durante millones de años. De hecho, este caso podría resultar provechoso para la ciencia, porque por primera vez se conoce de antemano dónde y cuándo se va a formar un cráter. Las sondas que orbitan la Luna podrán comparar el terreno antes y después del choque.",
+        "vocab": [
+          {
+            "front": "a la deriva",
+            "pos": "phrase",
+            "back": "adrift, drifting",
+            "example": "El barco quedó a la deriva sin motor.",
+            "tier": "B2"
+          },
+          {
+            "front": "estrellarse contra",
+            "pos": "verb",
+            "back": "to crash into",
+            "example": "El coche se estrelló contra un muro.",
+            "tier": "B1"
+          },
+          {
+            "front": "la etapa de lanzamiento",
+            "pos": "noun",
+            "back": "launch stage (of a rocket)",
+            "example": "La primera etapa de lanzamiento cayó al mar.",
+            "tier": "B2"
+          },
+          {
+            "front": "quedarse sin",
+            "pos": "verb",
+            "back": "to run out of",
+            "example": "Nos quedamos sin gasolina en la autopista.",
+            "tier": "B1"
+          },
+          {
+            "front": "el combustible",
+            "pos": "noun",
+            "back": "fuel",
+            "example": "El avión cargó combustible antes de despegar.",
+            "tier": "B1"
+          },
+          {
+            "front": "la trayectoria",
+            "pos": "noun",
+            "back": "path, trajectory",
+            "example": "Siguieron la trayectoria del cometa toda la noche.",
+            "tier": "B2"
+          },
+          {
+            "front": "la cara oculta",
+            "pos": "noun",
+            "back": "the far side, the hidden side",
+            "example": "La cara oculta de la Luna no se ve desde aquí.",
+            "tier": "B2"
+          },
+          {
+            "front": "soportar",
+            "pos": "verb",
+            "back": "to withstand, to endure",
+            "example": "El puente soporta mucho peso.",
+            "tier": "B1"
+          },
+          {
+            "front": "incontable",
+            "pos": "adj",
+            "back": "countless",
+            "example": "Recibió incontables mensajes de apoyo.",
+            "tier": "B2"
+          },
+          {
+            "front": "provechoso",
+            "pos": "adj",
+            "back": "useful, beneficial",
+            "example": "Fue una reunión corta pero provechosa.",
+            "tier": "C1"
+          },
+          {
+            "front": "de antemano",
+            "pos": "phrase",
+            "back": "in advance, beforehand",
+            "example": "Te lo agradezco de antemano.",
+            "tier": "B2"
+          },
+          {
+            "front": "la sonda",
+            "pos": "noun",
+            "back": "probe (spacecraft)",
+            "example": "La sonda envió las primeras imágenes.",
+            "tier": "B2"
+          },
+          {
+            "front": "el cráter",
+            "pos": "noun",
+            "back": "crater",
+            "example": "El meteorito dejó un cráter enorme.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Los astrónomos llevan meses siguiendo su trayectoria con telescopios y calculan que el impacto se producirá en la cara oculta de nuestro satélite, lejos de la vista desde la Tierra.",
+            "point": "'Llevar + periodo + gerundio' para acciones que continúan",
+            "explanation": "Esta perífrasis expresa cuánto tiempo lleva ocurriendo algo que todavía sigue. Equivale a 'han seguido su trayectoria durante meses y siguen haciéndolo'.",
+            "why_tricky": "El inglés usa el present perfect continuous ('have been tracking'), pero el español usa presente. Poner 'han llevado' o un pretérito perfecto aquí suena mal."
+          },
+          {
+            "sentence": "Aunque suene alarmante, los expertos insisten en que no hay peligro: la Luna ha soportado incontables choques durante millones de años.",
+            "point": "'Aunque' + subjuntivo para conceder algo sin afirmarlo",
+            "explanation": "Con subjuntivo, 'aunque suene' presenta la idea como una concesión o una posibilidad, no como un hecho que el autor confirma. Con indicativo ('aunque suena') el autor afirmaría que realmente suena alarmante.",
+            "why_tricky": "La misma conjunción admite los dos modos y el significado cambia sutilmente, algo que no se marca en inglés, donde 'although' es siempre igual."
+          },
+          {
+            "sentence": "Se trata de una etapa de lanzamiento que se quedó sin combustible después de una misión y que, desde entonces, ha seguido una órbita difícil de predecir.",
+            "point": "Contraste entre pretérito indefinido y pretérito perfecto",
+            "explanation": "'Se quedó' marca un hecho puntual y cerrado en el pasado; 'ha seguido' conecta ese pasado con el presente, porque la órbita continúa hasta hoy.",
+            "why_tricky": "Ambos se traducen a menudo con el pasado simple inglés, así que el contraste hay que deducirlo del contexto temporal, no de la traducción."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "a la deriva",
+            "meaning": "sin rumbo ni control, dejándose llevar",
+            "example": "Sin liderazgo, el proyecto quedó a la deriva."
+          },
+          {
+            "phrase": "de hecho",
+            "meaning": "en realidad, para reforzar lo que se acaba de decir",
+            "example": "No me molesta; de hecho, me viene bien."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué el cohete lleva años a la deriva en el espacio?",
+            "type": "open"
+          },
+          {
+            "q": "¿Dónde se producirá el impacto y por qué no se podrá ver desde la Tierra?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué podrían aprender los científicos gracias a este choque?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Quién debería responsabilizarse de la basura espacial que dejan las empresas privadas? Escribe entre 120 y 150 palabras explicando tu opinión."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-05-suu-kyi-cruz-roja",
+      "title": "Birmania: Aung San Suu Kyi ha recibido la visita de la Cruz Roja por primera vez en cinco años",
+      "source": "RFI Español",
+      "date": "2026-08-05",
+      "level": "B1-B2",
+      "topics": [
+        "política",
+        "derechos humanos"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-05-suu-kyi-cruz-roja",
+        "revision": 1,
+        "meta": {
+          "title": "Birmania: Aung San Suu Kyi ha recibido la visita de la Cruz Roja por primera vez en cinco años",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/asia-pacifico/20260803-birmania-aung-san-suu-kyi-ha-recibido-la-visita-de-la-cruz-roja-por-primera-vez-en-cinco-a%C3%B1os",
+          "date_published": "2026-08-03",
+          "date_processed": "2026-08-05",
+          "tags": [
+            "política",
+            "derechos humanos"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Aung San Suu Kyi, the Burmese opposition leader and Nobel Peace Prize winner, has received a visit from a foreign official of the International Committee of the Red Cross. It is the first meeting of this kind since the 2021 coup, when the military took power and detained her. Since then she has remained under arrest and hardly any details about her state of health are known, which has worried her supporters and human rights organisations.\n\nThe visit comes at a delicate moment. The government backed by the army is trying to normalise its relations with neighbouring countries in Southeast Asia and to present itself as a reliable partner. For many analysts, gestures like this one are aimed above all at improving the image of the regime abroad, rather than opening the door to real change. Meanwhile, the armed conflict continues in several regions of the country.",
+        "resumen_es": "Aung San Suu Kyi, la líder opositora birmana y premio Nobel de la Paz, ha recibido la visita de un responsable extranjero del Comité Internacional de la Cruz Roja. Es el primer encuentro de este tipo desde el golpe de Estado de 2021, cuando los militares tomaron el poder y la detuvieron. Desde entonces permanece bajo arresto y apenas se conocen detalles sobre su estado de salud, lo que ha inquietado a sus seguidores y a las organizaciones de derechos humanos.\n\nLa visita llega en un momento delicado. El Gobierno respaldado por el Ejército intenta normalizar sus relaciones con los países vecinos del sudeste asiático y presentarse como un interlocutor fiable. Para muchos analistas, gestos como este buscan sobre todo mejorar la imagen del régimen en el exterior, más que abrir la puerta a un cambio real. Mientras tanto, el conflicto armado continúa en varias regiones del país.",
+        "vocab": [
+          {
+            "front": "el líder opositor / la líder opositora",
+            "pos": "noun",
+            "back": "opposition leader",
+            "example": "La líder opositora pidió elecciones libres.",
+            "tier": "B1"
+          },
+          {
+            "front": "el golpe de Estado",
+            "pos": "noun",
+            "back": "coup d'état",
+            "example": "El golpe de Estado duró apenas unas horas.",
+            "tier": "B1"
+          },
+          {
+            "front": "tomar el poder",
+            "pos": "phrase",
+            "back": "to seize power",
+            "example": "Los militares tomaron el poder en pocas horas.",
+            "tier": "B1"
+          },
+          {
+            "front": "detener",
+            "pos": "verb",
+            "back": "to detain, to arrest",
+            "example": "La policía detuvo a tres personas.",
+            "tier": "B1"
+          },
+          {
+            "front": "permanecer",
+            "pos": "verb",
+            "back": "to remain, to stay",
+            "example": "Permaneció callado toda la reunión.",
+            "tier": "B2"
+          },
+          {
+            "front": "apenas",
+            "pos": "adv",
+            "back": "hardly, barely",
+            "example": "Apenas se sabe nada del caso.",
+            "tier": "B1"
+          },
+          {
+            "front": "inquietar",
+            "pos": "verb",
+            "back": "to worry, to unsettle",
+            "example": "La noticia inquietó a toda la familia.",
+            "tier": "B2"
+          },
+          {
+            "front": "respaldado por",
+            "pos": "phrase",
+            "back": "backed by, supported by",
+            "example": "Es un plan respaldado por los sindicatos.",
+            "tier": "B2"
+          },
+          {
+            "front": "el interlocutor",
+            "pos": "noun",
+            "back": "counterpart, party in a dialogue",
+            "example": "Buscan un interlocutor fiable en la región.",
+            "tier": "C1"
+          },
+          {
+            "front": "fiable",
+            "pos": "adj",
+            "back": "reliable, trustworthy",
+            "example": "No es una fuente fiable.",
+            "tier": "B2"
+          },
+          {
+            "front": "el gesto",
+            "pos": "noun",
+            "back": "gesture, symbolic move",
+            "example": "Fue un gesto de buena voluntad.",
+            "tier": "B1"
+          },
+          {
+            "front": "sobre todo",
+            "pos": "phrase",
+            "back": "above all, mainly",
+            "example": "Me preocupa sobre todo el precio.",
+            "tier": "B1"
+          },
+          {
+            "front": "mientras tanto",
+            "pos": "phrase",
+            "back": "meanwhile",
+            "example": "Mientras tanto, nadie hacía nada.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Desde entonces permanece bajo arresto y apenas se conocen detalles sobre su estado de salud, lo que ha inquietado a sus seguidores y a las organizaciones de derechos humanos.",
+            "point": "El relativo neutro 'lo que' y el 'se' impersonal",
+            "explanation": "'Lo que' se refiere a toda la idea anterior, no a un sustantivo concreto. 'Se conocen detalles' es una construcción con 'se' que evita decir quién conoce esos detalles.",
+            "why_tricky": "Si se usa 'que' o 'el cual' en lugar de 'lo que', la frase parece referirse solo al último sustantivo, y el sentido cambia por completo."
+          },
+          {
+            "sentence": "Para muchos analistas, gestos como este buscan sobre todo mejorar la imagen del régimen en el exterior, más que abrir la puerta a un cambio real.",
+            "point": "Comparación con 'más que' entre dos infinitivos",
+            "explanation": "'Más que' compara aquí dos acciones, expresadas ambas con infinitivo: 'mejorar' frente a 'abrir'. Es una manera concisa de decir que un objetivo pesa más que el otro.",
+            "why_tricky": "Es fácil confundir 'más que' con 'más de', que se usa con cantidades, y también olvidar que después de 'que' hace falta un infinitivo, no un verbo conjugado."
+          },
+          {
+            "sentence": "Es el primer encuentro de este tipo desde el golpe de Estado de 2021, cuando los militares tomaron el poder y la detuvieron.",
+            "point": "'Desde' con un punto de partida y el pretérito indefinido",
+            "explanation": "'Desde' marca el inicio de un periodo que llega hasta ahora. Los verbos que describen ese momento inicial ('tomaron', 'detuvieron') van en indefinido porque son hechos acabados.",
+            "why_tricky": "Los estudiantes suelen mezclar 'desde' con 'desde hace': 'desde' pide un momento concreto, 'desde hace' pide una duración."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "abrir la puerta a algo",
+            "meaning": "hacer posible algo, dar paso a ello",
+            "example": "El acuerdo abre la puerta a nuevas negociaciones."
+          },
+          {
+            "phrase": "en un momento delicado",
+            "meaning": "en una situación difícil o sensible",
+            "example": "La empresa llega a la feria en un momento delicado."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué es significativa esta visita de la Cruz Roja?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué busca el Gobierno birmano en su relación con los países vecinos?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué son escépticos algunos analistas ante este tipo de gestos?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Sirven de algo los premios internacionales, como el Nobel de la Paz, para proteger a quienes los reciben? Escribe entre 120 y 150 palabras con tu punto de vista."
+      }
+    },
     {
       "pack_id": "feed-2026-08-04-reino-unido-constitucion-escrita",
       "title": "Andy Burnham quiere dotar al Reino Unido de una Constitución escrita",
@@ -6192,534 +6699,6 @@
           }
         ],
         "opinion_prompt": "¿Qué serías capaz de hacer por un buen amigo? Escribe tu respuesta en unas cinco frases."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-29-cucurella-autismo-hijo",
-      "title": "\"A veces no sé cómo ayudarle\": Marc Cucurella, el campeón de la selección española al que el diagnóstico de autismo de su hijo le cambió la vida",
-      "source": "BBC Mundo",
-      "date": "2026-07-19",
-      "level": "B1-B2",
-      "tags": [
-        "salud",
-        "sociedad"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-29-cucurella-autismo-hijo",
-        "revision": 1,
-        "meta": {
-          "title": "\"A veces no sé cómo ayudarle\": Marc Cucurella, el campeón de la selección española al que el diagnóstico de autismo de su hijo le cambió la vida",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c9v4ppy92dvo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-19",
-          "date_processed": "2026-07-29",
-          "tags": [
-            "salud",
-            "sociedad"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Marc Cucurella, a defender for the Spanish national team and a world champion, has decided to speak openly about his son's autism. In an interview, the footballer admitted that sometimes he does not know how to help him, but that he learns every day together with his family. With his account, he wants to give a voice to a reality that many fathers and mothers experience in silence.\n\nThe athlete explains that accepting the diagnosis was not easy, although today he lives it naturally and with a lot of affection. Thanks to his fame, his words help to raise awareness of autism and to break down prejudices. Many families have thanked him for his honesty, because they feel less alone. Cucurella insists that every child is unique and that the most important thing is to support him with patience, love and understanding.",
-        "resumen_es": "Marc Cucurella, defensa de la selección española y campeón del mundo, ha decidido hablar abiertamente sobre el autismo de su hijo. En una entrevista, el futbolista reconoció que a veces no sabe cómo ayudarle, pero que aprende cada día junto a su familia. Con su testimonio, quiere dar voz a una realidad que viven muchos padres y madres en silencio.\n\nEl deportista explica que aceptar el diagnóstico no fue fácil, aunque hoy lo vive con naturalidad y mucho cariño. Gracias a su fama, sus palabras ayudan a visibilizar el autismo y a romper prejuicios. Muchas familias le han agradecido su sinceridad, porque se sienten menos solas. Cucurella insiste en que cada niño es único y en que lo más importante es acompañarlo con paciencia, amor y comprensión.",
-        "vocab": [
-          {
-            "front": "defensa",
-            "pos": "noun",
-            "back": "defender (in football)",
-            "example": "Juega de defensa.",
-            "tier": "B1"
-          },
-          {
-            "front": "autismo",
-            "pos": "noun",
-            "back": "autism",
-            "example": "Su hijo tiene autismo.",
-            "tier": "B1"
-          },
-          {
-            "front": "abiertamente",
-            "pos": "adv",
-            "back": "openly",
-            "example": "Habló abiertamente de su vida.",
-            "tier": "B2"
-          },
-          {
-            "front": "reconocer",
-            "pos": "verb",
-            "back": "to admit, to acknowledge",
-            "example": "Reconoció que fue difícil.",
-            "tier": "B1"
-          },
-          {
-            "front": "testimonio",
-            "pos": "noun",
-            "back": "testimony, account",
-            "example": "Su testimonio emocionó a todos.",
-            "tier": "B2"
-          },
-          {
-            "front": "dar voz a",
-            "pos": "phrase",
-            "back": "to give a voice to",
-            "example": "Quiere dar voz a los que sufren.",
-            "tier": "B2"
-          },
-          {
-            "front": "diagnóstico",
-            "pos": "noun",
-            "back": "diagnosis",
-            "example": "Recibió el diagnóstico hace un año.",
-            "tier": "B2"
-          },
-          {
-            "front": "con naturalidad",
-            "pos": "phrase",
-            "back": "naturally, matter-of-factly",
-            "example": "Habla de ello con naturalidad.",
-            "tier": "B2"
-          },
-          {
-            "front": "cariño",
-            "pos": "noun",
-            "back": "affection, love",
-            "example": "Trata a su hijo con mucho cariño.",
-            "tier": "B1"
-          },
-          {
-            "front": "visibilizar",
-            "pos": "verb",
-            "back": "to raise awareness of, to make visible",
-            "example": "Su campaña ayuda a visibilizar el problema.",
-            "tier": "C1"
-          },
-          {
-            "front": "prejuicio",
-            "pos": "noun",
-            "back": "prejudice",
-            "example": "Hay que romper los prejuicios.",
-            "tier": "B2"
-          },
-          {
-            "front": "agradecer",
-            "pos": "verb",
-            "back": "to thank",
-            "example": "Le agradecieron su ayuda.",
-            "tier": "B1"
-          },
-          {
-            "front": "acompañar",
-            "pos": "verb",
-            "back": "to support, to be with",
-            "example": "Acompaña a su hijo en todo.",
-            "tier": "B1"
-          },
-          {
-            "front": "comprensión",
-            "pos": "noun",
-            "back": "understanding",
-            "example": "Los niños necesitan comprensión.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "En una entrevista, el futbolista reconoció que a veces no sabe cómo ayudarle, pero que aprende cada día junto a su familia.",
-            "point": "estilo indirecto (reconoció que) e interrogativa indirecta (cómo)",
-            "explanation": "Tras 'reconoció que' se usa el indicativo. 'Cómo ayudarle' es una pregunta indirecta y el pronombre 'le' se une al infinitivo.",
-            "why_tricky": "El 'cómo' lleva tilde aunque no haya signos de interrogación, porque es una pregunta indirecta."
-          },
-          {
-            "sentence": "El deportista explica que aceptar el diagnóstico no fue fácil, aunque hoy lo vive con naturalidad y mucho cariño.",
-            "point": "infinitivo como sujeto (aceptar) y aunque + indicativo",
-            "explanation": "'Aceptar el diagnóstico' es el sujeto de 'no fue fácil'. 'Aunque' + indicativo expresa un contraste real.",
-            "why_tricky": "El sujeto es un infinitivo, no un gerundio; y 'aunque' aquí no lleva subjuntivo porque el hecho es real."
-          },
-          {
-            "sentence": "Cucurella insiste en que cada niño es único y en que lo más importante es acompañarlo con paciencia, amor y comprensión.",
-            "point": "insistir en que y el neutro lo más importante",
-            "explanation": "El verbo 'insistir' rige la preposición 'en'. 'Lo más importante' usa el artículo neutro 'lo' para referirse a una idea abstracta.",
-            "why_tricky": "Muchos olvidan la preposición ('insistir en que') y el uso del neutro 'lo' no existe igual en inglés."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "dar voz a",
-            "meaning": "to speak up for, to give a platform to",
-            "example": "El documental da voz a los refugiados."
-          },
-          {
-            "phrase": "romper prejuicios",
-            "meaning": "to break down prejudices",
-            "example": "El deporte ayuda a romper prejuicios."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Sobre qué ha decidido hablar Marc Cucurella?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué son importantes sus palabras, según el texto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué mensaje da a las familias?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que los famosos deberían hablar de sus problemas personales? Da tu opinión en unas cinco frases."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-29-acuerdo-nuclear-eeuu-arabia",
-      "title": "Por qué es polémico el acuerdo nuclear que firmaron EE.UU. y Arabia Saudita",
-      "source": "BBC Mundo",
-      "date": "2026-07-22",
-      "level": "B1-B2",
-      "tags": [
-        "internacional",
-        "energía"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-29-acuerdo-nuclear-eeuu-arabia",
-        "revision": 1,
-        "meta": {
-          "title": "Por qué es polémico el acuerdo nuclear que firmaron EE.UU. y Arabia Saudita",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cy74gdm2g3xo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-22",
-          "date_processed": "2026-07-29",
-          "tags": [
-            "internacional",
-            "energía"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The United States and Saudi Arabia have signed a nuclear energy agreement that has caused an intense debate. According to the deal, US companies will be able to build and operate nuclear power plants on Saudi territory. The official aim is to produce electricity and reduce dependence on oil. However, many experts view the operation with concern.\n\nThe reason for the controversy is that the same technology that serves to generate energy could, in theory, make other, more dangerous uses easier. For this reason, several former officials are asking for strict controls and a lot of transparency. Supporters of the agreement, on the other hand, stress the economic and energy benefits for both countries. The outcome will depend on the guarantees that are established and on the trust between the two governments in the coming years.",
-        "resumen_es": "Estados Unidos y Arabia Saudita han firmado un acuerdo de energía nuclear que ha generado un intenso debate. Según el pacto, empresas estadounidenses podrán construir y operar centrales nucleares en territorio saudí. El objetivo oficial es producir electricidad y reducir la dependencia del petróleo. Sin embargo, muchos expertos observan la operación con preocupación.\n\nEl motivo de la polémica es que la misma tecnología que sirve para generar energía podría, en teoría, facilitar otros usos más peligrosos. Por eso, varios exfuncionarios piden controles estrictos y mucha transparencia. Los defensores del acuerdo, en cambio, subrayan los beneficios económicos y energéticos para ambos países. El resultado dependerá de las garantías que se establezcan y de la confianza entre los dos gobiernos en los próximos años.",
-        "vocab": [
-          {
-            "front": "acuerdo",
-            "pos": "noun",
-            "back": "agreement",
-            "example": "Firmaron un acuerdo importante.",
-            "tier": "B1"
-          },
-          {
-            "front": "central nuclear",
-            "pos": "phrase",
-            "back": "nuclear power plant",
-            "example": "Construirán una central nuclear.",
-            "tier": "B2"
-          },
-          {
-            "front": "pacto",
-            "pos": "noun",
-            "back": "pact, deal",
-            "example": "El pacto beneficia a ambos países.",
-            "tier": "B2"
-          },
-          {
-            "front": "dependencia",
-            "pos": "noun",
-            "back": "dependence",
-            "example": "Quieren reducir la dependencia del petróleo.",
-            "tier": "B2"
-          },
-          {
-            "front": "petróleo",
-            "pos": "noun",
-            "back": "oil",
-            "example": "El país exporta petróleo.",
-            "tier": "B1"
-          },
-          {
-            "front": "polémica",
-            "pos": "noun",
-            "back": "controversy",
-            "example": "El tema genera mucha polémica.",
-            "tier": "B2"
-          },
-          {
-            "front": "tecnología",
-            "pos": "noun",
-            "back": "technology",
-            "example": "Es una tecnología muy avanzada.",
-            "tier": "B1"
-          },
-          {
-            "front": "exfuncionario",
-            "pos": "noun",
-            "back": "former official",
-            "example": "Varios exfuncionarios criticaron el plan.",
-            "tier": "B2"
-          },
-          {
-            "front": "controles estrictos",
-            "pos": "phrase",
-            "back": "strict controls",
-            "example": "Piden controles estrictos.",
-            "tier": "B2"
-          },
-          {
-            "front": "transparencia",
-            "pos": "noun",
-            "back": "transparency",
-            "example": "Exigen más transparencia.",
-            "tier": "B2"
-          },
-          {
-            "front": "subrayar",
-            "pos": "verb",
-            "back": "to stress, to underline",
-            "example": "Subrayó la importancia del acuerdo.",
-            "tier": "B2"
-          },
-          {
-            "front": "garantía",
-            "pos": "noun",
-            "back": "guarantee",
-            "example": "Ofrecen garantías de seguridad.",
-            "tier": "B1"
-          },
-          {
-            "front": "confianza",
-            "pos": "noun",
-            "back": "trust",
-            "example": "Falta confianza entre los gobiernos.",
-            "tier": "B1"
-          },
-          {
-            "front": "en cambio",
-            "pos": "phrase",
-            "back": "on the other hand",
-            "example": "Él está a favor; ella, en cambio, no.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Estados Unidos y Arabia Saudita han firmado un acuerdo de energía nuclear que ha generado un intenso debate.",
-            "point": "pretérito perfecto y oración de relativo con que",
-            "explanation": "'Han firmado' y 'ha generado' son pretéritos perfectos, que conectan el pasado con el presente. 'Que' introduce una relativa sobre el acuerdo.",
-            "why_tricky": "El pretérito perfecto se usa mucho en España para hechos recientes con consecuencias actuales."
-          },
-          {
-            "sentence": "El motivo de la polémica es que la misma tecnología que sirve para generar energía podría, en teoría, facilitar otros usos más peligrosos.",
-            "point": "condicional podría para una hipótesis y servir para + infinitivo",
-            "explanation": "'Podría facilitar' expresa una posibilidad, no un hecho. 'Servir para' introduce la función de algo.",
-            "why_tricky": "El condicional 'podría' suaviza la afirmación; confundirlo con el presente cambiaría el sentido."
-          },
-          {
-            "sentence": "El resultado dependerá de las garantías que se establezcan y de la confianza entre los dos gobiernos en los próximos años.",
-            "point": "futuro simple (dependerá) y subjuntivo en la relativa (que se establezcan)",
-            "explanation": "'Dependerá' es futuro. 'Que se establezcan' va en subjuntivo porque las garantías aún no existen; son inciertas.",
-            "why_tricky": "La relativa con antecedente incierto exige subjuntivo, algo que el inglés no marca."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "poner en tela de juicio",
-            "meaning": "to call into question",
-            "example": "Los expertos ponen en tela de juicio el acuerdo."
-          },
-          {
-            "phrase": "en teoría",
-            "meaning": "in theory",
-            "example": "En teoría, el plan funciona."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué permitirá el acuerdo entre Estados Unidos y Arabia Saudita?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué preocupa este pacto a algunos expertos?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué piden los exfuncionarios?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que la energía nuclear es una buena solución para el futuro? Explica tu opinión en unas cinco frases."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-28-marianela-nunez-ballet",
-      "title": "\"Aún me siento invencible\": Marianela Núñez, la argentina que lleva casi 3 décadas en la élite del Royal Ballet de Londres",
-      "source": "BBC Mundo",
-      "date": "2026-07-28",
-      "level": "B1-B2",
-      "topics": [
-        "cultura",
-        "danza"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-28-marianela-nunez-ballet",
-        "revision": 1,
-        "meta": {
-          "title": "\"Aún me siento invencible\": Marianela Núñez, la argentina que lleva casi 3 décadas en la élite del Royal Ballet de Londres",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c3v0x6rr46no?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-28",
-          "date_processed": "2026-07-28",
-          "tags": [
-            "cultura",
-            "danza"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The Argentine dancer Marianela Núñez has been shining at the Royal Ballet in London for almost three decades, one of the most prestigious companies in the world. She joined in 1998, when she was very young, and in 2002 she reached the rank of principal dancer. Since then she has performed the great roles of the classical repertoire and has won the affection of the British public.\n\nDespite the years, Núñez says she still feels invincible when she goes out to dance. Her longevity in such a demanding world, where careers are usually short, is unusual and admirable. The artist admits that daily discipline and the love for her craft have been the keys to staying at the top. Her story inspires many young women who dream of dedicating themselves to ballet.",
-        "resumen_es": "La bailarina argentina Marianela Núñez lleva casi tres décadas brillando en el Royal Ballet de Londres, una de las compañías más prestigiosas del mundo. Ingresó en 1998, siendo muy joven, y en 2002 alcanzó el rango de primera bailarina. Desde entonces ha interpretado los grandes papeles del repertorio clásico y se ha ganado el cariño del público británico.\n\nA pesar de los años, Núñez asegura que todavía se siente invencible cuando sale a bailar. Su longevidad en un mundo tan exigente, donde las carreras suelen ser cortas, resulta poco habitual y admirable. La artista reconoce que la disciplina diaria y el amor por su oficio han sido las claves para mantenerse en la cima. Su historia inspira a muchas jóvenes que sueñan con dedicarse al ballet.",
-        "vocab": [
-          {
-            "front": "la bailarina",
-            "pos": "noun",
-            "back": "the (female) dancer, ballerina",
-            "example": "La bailarina ensayó durante horas.",
-            "tier": "B1"
-          },
-          {
-            "front": "brillar",
-            "pos": "verb",
-            "back": "to shine, to excel",
-            "example": "Ese actor brilla en el escenario.",
-            "tier": "B1"
-          },
-          {
-            "front": "la compañía",
-            "pos": "noun",
-            "back": "the company, troupe",
-            "example": "La compañía viajó por toda Europa.",
-            "tier": "B1"
-          },
-          {
-            "front": "prestigioso",
-            "pos": "adj",
-            "back": "prestigious",
-            "example": "Estudió en una universidad prestigiosa.",
-            "tier": "B2"
-          },
-          {
-            "front": "ingresar en",
-            "pos": "verb",
-            "back": "to join, to enter",
-            "example": "Ingresó en la empresa muy joven.",
-            "tier": "B1"
-          },
-          {
-            "front": "el rango",
-            "pos": "noun",
-            "back": "the rank",
-            "example": "Alcanzó el rango de capitán.",
-            "tier": "B2"
-          },
-          {
-            "front": "el repertorio",
-            "pos": "noun",
-            "back": "the repertoire",
-            "example": "Amplió su repertorio de canciones.",
-            "tier": "B2"
-          },
-          {
-            "front": "ganarse el cariño",
-            "pos": "phrase",
-            "back": "to win the affection of",
-            "example": "Se ganó el cariño de todos.",
-            "tier": "B2"
-          },
-          {
-            "front": "exigente",
-            "pos": "adj",
-            "back": "demanding",
-            "example": "Es un trabajo muy exigente.",
-            "tier": "B1"
-          },
-          {
-            "front": "la longevidad",
-            "pos": "noun",
-            "back": "longevity",
-            "example": "Sorprende la longevidad de su carrera.",
-            "tier": "C1"
-          },
-          {
-            "front": "el oficio",
-            "pos": "noun",
-            "back": "the craft, trade",
-            "example": "Ama su oficio de carpintero.",
-            "tier": "B2"
-          },
-          {
-            "front": "mantenerse en la cima",
-            "pos": "phrase",
-            "back": "to stay at the top",
-            "example": "Es difícil mantenerse en la cima.",
-            "tier": "B2"
-          },
-          {
-            "front": "a pesar de",
-            "pos": "phrase",
-            "back": "despite, in spite of",
-            "example": "Salió a pesar de la lluvia.",
-            "tier": "B1"
-          },
-          {
-            "front": "inspirar",
-            "pos": "verb",
-            "back": "to inspire",
-            "example": "Su ejemplo inspira a los jóvenes.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Ingresó en 1998, siendo muy joven, y en 2002 alcanzó el rango de primera bailarina.",
-            "point": "Gerundio de simultaneidad",
-            "explanation": "'Siendo muy joven' es un gerundio que describe la circunstancia en que ocurre la acción principal (equivale a 'cuando era muy joven').",
-            "why_tricky": "En inglés se suele usar 'when she was young'; el español prefiere aquí el gerundio, que no lleva sujeto propio."
-          },
-          {
-            "sentence": "A pesar de los años, Núñez asegura que todavía se siente invencible cuando sale a bailar.",
-            "point": "'A pesar de' y estilo indirecto",
-            "explanation": "'A pesar de' introduce una concesión y 'asegura que' introduce discurso referido en indicativo.",
-            "why_tricky": "'A pesar de' va con sustantivo o infinitivo, mientras que 'aunque' va con verbo conjugado."
-          },
-          {
-            "sentence": "La artista reconoce que la disciplina diaria y el amor por su oficio han sido las claves para mantenerse en la cima.",
-            "point": "Pretérito perfecto y 'para' final",
-            "explanation": "'Han sido' es pretérito perfecto (resultado vigente) y 'para mantenerse' expresa finalidad con infinitivo.",
-            "why_tricky": "El sujeto es doble ('la disciplina y el amor'), por eso el verbo va en plural."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "mantenerse en la cima",
-            "meaning": "to stay at the peak of success",
-            "example": "Tras años de esfuerzo, se mantiene en la cima de su profesión."
-          },
-          {
-            "phrase": "sentirse invencible",
-            "meaning": "to feel unbeatable, invincible",
-            "example": "Cuando juega en casa, el equipo se siente invencible."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué logros ha alcanzado Marianela Núñez en el Royal Ballet?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué resulta admirable su longevidad en la danza?",
-            "type": "open"
-          },
-          {
-            "q": "Según ella, ¿cuáles han sido las claves de su éxito?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que la disciplina es más importante que el talento para triunfar en el arte? Escribe tu opinión y justifícala con ejemplos."
       }
     }
   ]
