@@ -1,7 +1,493 @@
 {
- "generated_at": "2026-08-07T08:10:21.176745Z",
+ "generated_at": "2026-08-07T20:10:24.781318Z",
  "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-08-07-marruecos-eeuu-alianza",
+   "title": "Cuál es el origen de la histórica alianza entre EE.UU. y Marruecos y qué papel juega en la crisis migratoria en el enclave español de Ceuta",
+   "source": "BBC Mundo",
+   "date": "2026-08-07",
+   "level": "B1-B2",
+   "topics": [
+    "geopolítica",
+    "historia"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-07-marruecos-eeuu-alianza",
+    "revision": 1,
+    "meta": {
+     "title": "Cuál es el origen de la histórica alianza entre EE.UU. y Marruecos y qué papel juega en la crisis migratoria en el enclave español de Ceuta",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/c23515gx482o?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-08-07",
+     "date_processed": "2026-08-07",
+     "tags": [
+      "geopolítica",
+      "historia"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "A BBC report looks back at the origins of the long alliance between the United States and Morocco, a bond that goes back to a treaty signed in the eighteenth century. Since then, the two countries have kept up a diplomatic relationship that is unusual for how long it has lasted, holding together through wars, changes of government and deep transformations in the region. The article also examines what role that historic tie plays today in the migration crisis.\n\nToday the alliance rests above all on security cooperation and on the control of migration routes towards Europe. For Rabat, Washington's backing strengthens its diplomatic weight; for the United States, Morocco works as a stable partner in a complicated environment. Looking ahead, everything suggests the relationship will continue to be shaped by that exchange of interests, although regional tensions could put it to the test.",
+    "resumen_es": "Un reportaje de la BBC repasa el origen de la larga alianza entre Estados Unidos y Marruecos, un vínculo que se remonta a un tratado firmado en el siglo XVIII. Desde entonces, ambos países han mantenido una relación diplomática poco habitual por su duración, sostenida a lo largo de guerras, cambios de gobierno y transformaciones profundas en la región. El artículo analiza además qué papel desempeña hoy ese lazo histórico en la crisis migratoria.\n\nEn la actualidad, la alianza se apoya sobre todo en la cooperación en materia de seguridad y en el control de las rutas migratorias hacia Europa. Para Rabat, el respaldo de Washington refuerza su peso diplomático; para Estados Unidos, Marruecos funciona como un socio estable en un entorno complicado. De cara al futuro, todo apunta a que la relación seguirá marcada por ese intercambio de intereses, aunque las tensiones regionales podrían ponerla a prueba.",
+    "vocab": [
+     {
+      "front": "el vínculo",
+      "pos": "noun",
+      "back": "bond, link",
+      "example": "El vínculo entre los dos países es muy antiguo.",
+      "tier": "B1"
+     },
+     {
+      "front": "remontarse a",
+      "pos": "verb",
+      "back": "to date back to",
+      "example": "La costumbre se remonta al siglo XIX.",
+      "tier": "B2"
+     },
+     {
+      "front": "el lazo",
+      "pos": "noun",
+      "back": "tie, connection",
+      "example": "Los lazos familiares siguen siendo fuertes.",
+      "tier": "B2"
+     },
+     {
+      "front": "desempeñar un papel",
+      "pos": "phrase",
+      "back": "to play a role",
+      "example": "España desempeña un papel clave en la negociación.",
+      "tier": "B2"
+     },
+     {
+      "front": "el respaldo",
+      "pos": "noun",
+      "back": "backing, support",
+      "example": "El proyecto cuenta con el respaldo del gobierno.",
+      "tier": "B2"
+     },
+     {
+      "front": "reforzar",
+      "pos": "verb",
+      "back": "to strengthen, to reinforce",
+      "example": "La visita reforzó la confianza entre los dos gobiernos.",
+      "tier": "B1"
+     },
+     {
+      "front": "de cara al futuro",
+      "pos": "phrase",
+      "back": "looking ahead",
+      "example": "De cara al futuro, habrá que invertir más.",
+      "tier": "B2"
+     },
+     {
+      "front": "la ruta migratoria",
+      "pos": "noun",
+      "back": "migration route",
+      "example": "Las rutas migratorias cambian cada año.",
+      "tier": "B2"
+     },
+     {
+      "front": "el socio",
+      "pos": "noun",
+      "back": "partner (business or political)",
+      "example": "Alemania es su principal socio comercial.",
+      "tier": "B1"
+     },
+     {
+      "front": "sostenido",
+      "pos": "adj",
+      "back": "sustained, kept up over time",
+      "example": "Ha sido un esfuerzo sostenido durante meses.",
+      "tier": "B2"
+     },
+     {
+      "front": "el entorno",
+      "pos": "noun",
+      "back": "environment, surroundings",
+      "example": "Trabajan en un entorno muy competitivo.",
+      "tier": "B1"
+     },
+     {
+      "front": "el peso diplomático",
+      "pos": "phrase",
+      "back": "diplomatic weight, influence",
+      "example": "El acuerdo aumenta su peso diplomático en la zona.",
+      "tier": "C1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Desde entonces, ambos países han mantenido una relación diplomática poco habitual por su duración, sostenida a lo largo de guerras, cambios de gobierno y transformaciones profundas en la región.",
+      "point": "Pretérito perfecto compuesto y participio en función de adjetivo",
+      "explanation": "'Han mantenido' conecta el pasado con el presente: la relación sigue viva hoy. 'Sostenida' es un participio que funciona como adjetivo y equivale a 'que se ha sostenido'.",
+      "why_tricky": "En inglés se usaría a menudo un pasado simple ('kept'), y el participio 'sostenida' se puede confundir con un verbo conjugado."
+     },
+     {
+      "sentence": "Para Rabat, el respaldo de Washington refuerza su peso diplomático; para Estados Unidos, Marruecos funciona como un socio estable en un entorno complicado.",
+      "point": "Estructura paralela con punto y coma",
+      "explanation": "El punto y coma une dos ideas simétricas: primero el punto de vista de un país, después el del otro. El verbo no se repite por elipsis en la segunda parte.",
+      "why_tricky": "El punto y coma es mucho más frecuente en la prensa española que en inglés, y hay que leer las dos mitades como una sola idea."
+     },
+     {
+      "sentence": "De cara al futuro, todo apunta a que la relación seguirá marcada por ese intercambio de intereses, aunque las tensiones regionales podrían ponerla a prueba.",
+      "point": "'Todo apunta a que' + indicativo y 'aunque' + indicativo",
+      "explanation": "'Todo apunta a que' introduce una previsión y va con indicativo ('seguirá'). 'Aunque' aquí presenta información real o probable, por eso lleva indicativo o condicional, no subjuntivo.",
+      "why_tricky": "Muchos estudiantes ponen subjuntivo automáticamente después de 'aunque', pero el modo depende de si la información es nueva y real o ya conocida."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "poner a prueba",
+      "meaning": "to test something, to put it to the test",
+      "example": "La crisis puso a prueba la amistad entre los dos países."
+     },
+     {
+      "phrase": "todo apunta a que",
+      "meaning": "everything suggests that",
+      "example": "Todo apunta a que el acuerdo se firmará en otoño."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Desde cuándo existe la relación entre Estados Unidos y Marruecos, según el texto?",
+      "type": "open"
+     },
+     {
+      "q": "¿En qué dos ámbitos se apoya hoy esa alianza?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué podría poner a prueba la relación en el futuro?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Crees que las alianzas entre países deben basarse en intereses prácticos o en valores compartidos? Escribe unas 120 palabras con un ejemplo concreto."
+   }
+  },
+  {
+   "pack_id": "feed-2026-08-07-virus-ia-diseno",
+   "title": "El revolucionario diseño de virus completamente nuevos mediante inteligencia artificial",
+   "source": "BBC Mundo",
+   "date": "2026-08-07",
+   "level": "B1-B2",
+   "topics": [
+    "ciencia",
+    "tecnología"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-07-virus-ia-diseno",
+    "revision": 1,
+    "meta": {
+     "title": "El revolucionario diseño de virus completamente nuevos mediante inteligencia artificial",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/cgk4ek6xke3o?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-08-06",
+     "date_processed": "2026-08-07",
+     "tags": [
+      "ciencia",
+      "tecnología"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "A team of scientists has managed to design completely new viruses with the help of artificial intelligence. According to the published information, sixteen of those viruses turned out to be viable, that is, they worked exactly as expected once they were created in the laboratory. Their genetic code did not come from nature, but from a computer model trained to propose sequences that had never existed before.\n\nThe advance opens up enormous possibilities in medicine, above all against bacteria that no longer respond to antibiotics. At the same time, it raises uncomfortable questions about safety: if a machine can design a useful virus, it could also design a dangerous one. For that reason, many researchers are calling for clear rules and strict controls before this technology spreads. The debate, in any case, has only just begun.",
+    "resumen_es": "Un equipo de científicos ha logrado diseñar virus completamente nuevos con ayuda de la inteligencia artificial. Según la información publicada, dieciséis de esos virus resultaron viables, es decir, funcionaron tal y como se esperaba una vez creados en el laboratorio. Su código genético no salió de la naturaleza, sino de un modelo informático entrenado para proponer secuencias que nunca habían existido.\n\nEl avance abre posibilidades enormes en medicina, sobre todo frente a bacterias que ya no responden a los antibióticos. Al mismo tiempo, plantea preguntas incómodas sobre seguridad: si una máquina puede diseñar un virus útil, también podría diseñar uno peligroso. Por eso, muchos investigadores piden normas claras y controles estrictos antes de que esta tecnología se extienda. El debate, en cualquier caso, no ha hecho más que empezar.",
+    "vocab": [
+     {
+      "front": "el avance",
+      "pos": "noun",
+      "back": "advance, breakthrough",
+      "example": "El avance médico sorprendió a toda la comunidad científica.",
+      "tier": "B1"
+     },
+     {
+      "front": "plantear (una pregunta)",
+      "pos": "verb",
+      "back": "to raise (a question or problem)",
+      "example": "El informe plantea dudas sobre el método usado.",
+      "tier": "B2"
+     },
+     {
+      "front": "viable",
+      "pos": "adj",
+      "back": "viable, workable",
+      "example": "La propuesta no parece económicamente viable.",
+      "tier": "B2"
+     },
+     {
+      "front": "la secuencia",
+      "pos": "noun",
+      "back": "sequence",
+      "example": "Analizaron la secuencia genética del virus.",
+      "tier": "B2"
+     },
+     {
+      "front": "entrenar (un modelo)",
+      "pos": "verb",
+      "back": "to train (a model)",
+      "example": "Han entrenado el modelo con millones de textos.",
+      "tier": "B2"
+     },
+     {
+      "front": "frente a",
+      "pos": "phrase",
+      "back": "against, faced with",
+      "example": "No tenemos defensas frente a esa bacteria.",
+      "tier": "B1"
+     },
+     {
+      "front": "extenderse",
+      "pos": "verb",
+      "back": "to spread",
+      "example": "El rumor se extendió muy rápido por la ciudad.",
+      "tier": "B1"
+     },
+     {
+      "front": "incómodo",
+      "pos": "adj",
+      "back": "uncomfortable, awkward",
+      "example": "Hizo una pregunta incómoda en plena rueda de prensa.",
+      "tier": "B1"
+     },
+     {
+      "front": "resultar",
+      "pos": "verb",
+      "back": "to turn out to be",
+      "example": "El experimento resultó más caro de lo previsto.",
+      "tier": "B1"
+     },
+     {
+      "front": "la norma",
+      "pos": "noun",
+      "back": "rule, regulation",
+      "example": "Las nuevas normas entran en vigor en enero.",
+      "tier": "B1"
+     },
+     {
+      "front": "el laboratorio",
+      "pos": "noun",
+      "back": "laboratory",
+      "example": "Pasa muchas horas en el laboratorio.",
+      "tier": "B1"
+     },
+     {
+      "front": "el código genético",
+      "pos": "phrase",
+      "back": "genetic code",
+      "example": "Modificaron el código genético de la planta.",
+      "tier": "B2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Su código genético no salió de la naturaleza, sino de un modelo informático entrenado para proponer secuencias que nunca habían existido.",
+      "point": "'No... sino' y pluscuamperfecto",
+      "explanation": "'No... sino' corrige una idea y propone otra en su lugar. 'Habían existido' es pluscuamperfecto: acción anterior a otro momento del pasado.",
+      "why_tricky": "Se confunde 'sino' con 'pero' y con 'si no' (dos palabras), que significa 'if not'."
+     },
+     {
+      "sentence": "Por eso, muchos investigadores piden normas claras y controles estrictos antes de que esta tecnología se extienda.",
+      "point": "'Antes de que' + subjuntivo",
+      "explanation": "'Antes de que' siempre exige subjuntivo, porque presenta una acción todavía no realizada: 'se extienda'.",
+      "why_tricky": "Si el sujeto es el mismo en las dos partes, se usa 'antes de' + infinitivo, sin 'que' y sin subjuntivo."
+     },
+     {
+      "sentence": "El debate, en cualquier caso, no ha hecho más que empezar.",
+      "point": "'No hacer más que' + infinitivo",
+      "explanation": "Esta perífrasis significa 'solo ha empezado' o 'acaba de empezar'. Enfatiza que la acción está en su fase inicial.",
+      "why_tricky": "La traducción literal al inglés no funciona; hay que reconocer la estructura completa como una sola unidad."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "no haber hecho más que empezar",
+      "meaning": "to have only just begun",
+      "example": "La temporada no ha hecho más que empezar y ya hay lesiones."
+     },
+     {
+      "phrase": "tal y como",
+      "meaning": "just as, exactly as",
+      "example": "Todo salió tal y como lo habíamos planeado."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Cómo se diseñaron los virus de los que habla el texto?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué posible aplicación médica se menciona?",
+      "type": "open"
+     },
+     {
+      "q": "¿Por qué piden algunos investigadores normas más claras?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Deberían existir límites legales al uso de la inteligencia artificial en biología? Justifica tu respuesta en unas 120 palabras."
+   }
+  },
+  {
+   "pack_id": "feed-2026-08-07-plagio-cambridge",
+   "title": "El escándalo por acusaciones de plagio que llevó a la renuncia de un profesor estrella de la Universidad de Cambridge",
+   "source": "BBC Mundo",
+   "date": "2026-08-07",
+   "level": "B1-B2",
+   "topics": [
+    "educación",
+    "ética"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-07-plagio-cambridge",
+    "revision": 1,
+    "meta": {
+     "title": "El escándalo por acusaciones de plagio que llevó a la renuncia de un profesor estrella de la Universidad de Cambridge",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/cn9n8pxgy1go?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-08-06",
+     "date_processed": "2026-08-07",
+     "tags": [
+      "educación",
+      "ética"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "Jason Arday, one of the youngest professors ever to reach the University of Cambridge, has resigned from his post in the middle of a scandal over plagiarism accusations. Three years ago his appointment grabbed headlines and was presented as an example of overcoming obstacles within an academic world that is not very diverse. Now, by contrast, his career is marked by doubts about the originality of his work.\n\nThe case reopens an old debate in universities: how what gets published is really checked, and what happens when the pressure to produce articles outweighs rigour. Institutions tend to investigate quietly, and sanctions arrive late, once the reputational damage is already done. For the moment it is not clear what measures Cambridge will take, but the episode will probably serve to tighten internal procedures.",
+    "resumen_es": "Jason Arday, uno de los profesores más jóvenes en llegar a la Universidad de Cambridge, ha renunciado a su puesto en medio de un escándalo por acusaciones de plagio. Hace tres años, su nombramiento acaparó titulares y fue presentado como un ejemplo de superación dentro de un mundo académico poco diverso. Ahora, en cambio, su carrera queda marcada por las dudas sobre la originalidad de su trabajo.\n\nEl caso reabre un debate viejo en las universidades: cómo se controla realmente lo que se publica y qué ocurre cuando la presión por producir artículos supera al rigor. Las instituciones suelen investigar en silencio, y las sanciones llegan tarde, cuando el prestigio ya está dañado. De momento, no está claro qué medidas tomará Cambridge, pero el episodio servirá seguramente para endurecer los procedimientos internos.",
+    "vocab": [
+     {
+      "front": "renunciar a",
+      "pos": "verb",
+      "back": "to resign from, to give up",
+      "example": "Renunció a su cargo tras las críticas.",
+      "tier": "B1"
+     },
+     {
+      "front": "el puesto",
+      "pos": "noun",
+      "back": "post, position, job",
+      "example": "Consiguió un puesto en la universidad.",
+      "tier": "B1"
+     },
+     {
+      "front": "el nombramiento",
+      "pos": "noun",
+      "back": "appointment (to a post)",
+      "example": "El nombramiento se anunció por sorpresa.",
+      "tier": "B2"
+     },
+     {
+      "front": "la superación",
+      "pos": "noun",
+      "back": "overcoming difficulties, self-improvement",
+      "example": "Su historia de superación inspiró a muchos.",
+      "tier": "B2"
+     },
+     {
+      "front": "el rigor",
+      "pos": "noun",
+      "back": "rigour, thoroughness",
+      "example": "Trabaja siempre con mucho rigor.",
+      "tier": "B2"
+     },
+     {
+      "front": "la sanción",
+      "pos": "noun",
+      "back": "penalty, sanction",
+      "example": "La sanción llegó dos años después.",
+      "tier": "B2"
+     },
+     {
+      "front": "endurecer",
+      "pos": "verb",
+      "back": "to toughen, to tighten",
+      "example": "El gobierno quiere endurecer las multas.",
+      "tier": "B2"
+     },
+     {
+      "front": "el procedimiento",
+      "pos": "noun",
+      "back": "procedure, process",
+      "example": "El procedimiento interno duró seis meses.",
+      "tier": "B2"
+     },
+     {
+      "front": "reabrir un debate",
+      "pos": "phrase",
+      "back": "to reopen a debate",
+      "example": "La noticia reabre un debate que parecía cerrado.",
+      "tier": "B2"
+     },
+     {
+      "front": "soler",
+      "pos": "verb",
+      "back": "to usually do something",
+      "example": "Suele llegar tarde a las reuniones.",
+      "tier": "B1"
+     },
+     {
+      "front": "el plagio",
+      "pos": "noun",
+      "back": "plagiarism",
+      "example": "Lo acusaron de plagio en su tesis.",
+      "tier": "B2"
+     },
+     {
+      "front": "el prestigio",
+      "pos": "noun",
+      "back": "prestige, reputation",
+      "example": "La universidad teme perder prestigio.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Hace tres años, su nombramiento acaparó titulares y fue presentado como un ejemplo de superación dentro de un mundo académico poco diverso.",
+      "point": "'Hace' + tiempo y pasiva con 'ser'",
+      "explanation": "'Hace tres años' sitúa la acción en un punto cerrado del pasado, por eso el verbo va en indefinido. 'Fue presentado' es una pasiva con 'ser', típica del registro periodístico.",
+      "why_tricky": "'Hace' aquí no es el verbo 'hacer' con sujeto, sino una expresión temporal fija; además la pasiva con 'ser' es rara en el español hablado."
+     },
+     {
+      "sentence": "El caso reabre un debate viejo en las universidades: cómo se controla realmente lo que se publica y qué ocurre cuando la presión por producir artículos supera al rigor.",
+      "point": "'Se' impersonal y el neutro 'lo que'",
+      "explanation": "'Se controla' y 'se publica' son construcciones impersonales: no interesa quién hace la acción. 'Lo que' se refiere a una idea completa, no a un sustantivo concreto.",
+      "why_tricky": "El 'se' impersonal se confunde con el reflexivo, y 'lo que' se traduce mal como 'the that'."
+     },
+     {
+      "sentence": "De momento, no está claro qué medidas tomará Cambridge, pero el episodio servirá seguramente para endurecer los procedimientos internos.",
+      "point": "Futuro simple para predicción",
+      "explanation": "'Tomará' y 'servirá' expresan aquí una previsión sobre lo que va a pasar, reforzada por el adverbio 'seguramente'.",
+      "why_tricky": "En español coloquial se prefiere 'ir a' + infinitivo; el futuro simple suena más formal y periodístico."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "acaparar titulares",
+      "meaning": "to grab headlines, to dominate the news",
+      "example": "El escándalo acaparó titulares durante una semana."
+     },
+     {
+      "phrase": "de momento",
+      "meaning": "for the time being, so far",
+      "example": "De momento no hay ninguna decisión oficial."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Por qué era conocido Jason Arday antes de este escándalo?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué problema más amplio revela el caso, según el texto?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué se espera que haga la universidad a partir de ahora?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Crees que la presión por publicar perjudica la calidad de la investigación universitaria? Escribe unas 120 palabras."
+   }
+  },
   {
    "pack_id": "feed-2026-08-07-sequia-rin-danubio",
    "title": "La histórica sequía que afecta al Rin y al Danubio, los principales ríos de Europa (y que amenaza con provocar un shock económico y energético)",
@@ -6232,499 +6718,6 @@
      }
     ],
     "opinion_prompt": "¿Por qué es importante para un país esclarecer los hechos de su pasado? Escribe un párrafo con tu opinión."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-31-ceuta-melilla-espana",
-   "title": "Por qué Ceuta y Melilla pertenecen a España si están en África",
-   "source": "BBC Mundo",
-   "date": "2026-07-31",
-   "level": "B1-B2",
-   "topics": [
-    "migración",
-    "España"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-31-ceuta-melilla-espana",
-    "revision": 1,
-    "meta": {
-     "title": "Por qué Ceuta y Melilla pertenecen a España si están en África",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/cdj0xv1l8vro?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-07-30",
-     "date_processed": "2026-07-31",
-     "tags": [
-      "migración",
-      "España"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "Ceuta and Melilla are two Spanish cities located in the north of Africa, right on the border with Morocco. Although they sit on African soil, they have belonged to Spain for centuries and form part of the European Union. For that reason, they return to the headlines from time to time, above all when thousands of migrants try to cross their borders in order to reach European territory. The recent migratory crisis has revived an old debate about their past and their present situation.\n\nMorocco, for its part, claims sovereignty over both enclaves and believes that they should belong to its territory. Spain, on the other hand, argues that they are Spanish for historical reasons and because of the will of their inhabitants. This disagreement generates diplomatic tensions that resurface frequently. Meanwhile, the two cities remain a sensitive point in relations between Europe and North Africa, and a symbol of the continent's complicated borders.",
-    "resumen_es": "Ceuta y Melilla son dos ciudades españolas situadas en el norte de África, en la frontera con Marruecos. Aunque se encuentran en suelo africano, pertenecen a España desde hace siglos y forman parte de la Unión Europea. Por eso, cada cierto tiempo vuelven a ser noticia, sobre todo cuando miles de migrantes intentan cruzar sus fronteras para llegar a territorio europeo. La reciente crisis migratoria ha reavivado un viejo debate sobre su pasado y su situación actual.\n\nMarruecos, por su parte, reclama la soberanía de ambos enclaves y considera que deberían pertenecer a su territorio. España, en cambio, defiende que son españolas por razones históricas y por la voluntad de sus habitantes. Este desacuerdo genera tensiones diplomáticas que resurgen con frecuencia. Mientras tanto, las dos ciudades siguen siendo un punto delicado en las relaciones entre Europa y el norte de África, y un símbolo de las complejas fronteras del continente.",
-    "vocab": [
-     {
-      "front": "la frontera",
-      "pos": "noun",
-      "back": "the border",
-      "example": "Cruzaron la frontera de noche para no ser vistos.",
-      "tier": "B1"
-     },
-     {
-      "front": "el enclave",
-      "pos": "noun",
-      "back": "the enclave (territory surrounded by another state)",
-      "example": "Ceuta es un enclave español en el norte de África.",
-      "tier": "B2"
-     },
-     {
-      "front": "la soberanía",
-      "pos": "noun",
-      "back": "sovereignty",
-      "example": "Ambos países discuten la soberanía de la isla.",
-      "tier": "B2"
-     },
-     {
-      "front": "reclamar",
-      "pos": "verb",
-      "back": "to claim, to demand",
-      "example": "Marruecos reclama esos territorios desde hace décadas.",
-      "tier": "B2"
-     },
-     {
-      "front": "pertenecer a",
-      "pos": "verb",
-      "back": "to belong to",
-      "example": "Esta región pertenece al estado vecino.",
-      "tier": "B1"
-     },
-     {
-      "front": "el suelo",
-      "pos": "noun",
-      "back": "soil, ground (here: territory)",
-      "example": "Pisaron por fin suelo europeo.",
-      "tier": "B1"
-     },
-     {
-      "front": "reavivar",
-      "pos": "verb",
-      "back": "to rekindle, to revive",
-      "example": "La noticia reavivó viejas tensiones.",
-      "tier": "C1"
-     },
-     {
-      "front": "el desacuerdo",
-      "pos": "noun",
-      "back": "the disagreement",
-      "example": "Hubo un fuerte desacuerdo entre los dos gobiernos.",
-      "tier": "B2"
-     },
-     {
-      "front": "resurgir",
-      "pos": "verb",
-      "back": "to resurface, to re-emerge",
-      "example": "El conflicto resurge cada verano.",
-      "tier": "C1"
-     },
-     {
-      "front": "delicado",
-      "pos": "adj",
-      "back": "sensitive, delicate",
-      "example": "Es un tema delicado que hay que tratar con cuidado.",
-      "tier": "B2"
-     },
-     {
-      "front": "la voluntad",
-      "pos": "noun",
-      "back": "the will, the wish",
-      "example": "Se respetó la voluntad de los habitantes.",
-      "tier": "B2"
-     },
-     {
-      "front": "cada cierto tiempo",
-      "pos": "phrase",
-      "back": "every so often",
-      "example": "Cada cierto tiempo vuelve a surgir el debate.",
-      "tier": "B2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Aunque se encuentran en suelo africano, pertenecen a España desde hace siglos y forman parte de la Unión Europea.",
-      "point": "'aunque' + indicative for a real, factual concession",
-      "explanation": "When the concession describes a fact the speaker treats as true, 'aunque' takes the indicative ('se encuentran'), not the subjunctive.",
-      "why_tricky": "English learners often expect the subjunctive after 'aunque', but here it means 'although' about something real, so the indicative is correct."
-     },
-     {
-      "sentence": "Marruecos, por su parte, reclama la soberanía de ambos enclaves y considera que deberían pertenecer a su territorio.",
-      "point": "conditional 'deberían' for softened obligation/opinion",
-      "explanation": "'Deberían' (conditional of deber) expresses what should happen according to someone's view, softer than the present 'deben'.",
-      "why_tricky": "The conditional here is not about an 'if' clause; it signals a claim or opinion, which learners may miss."
-     },
-     {
-      "sentence": "Mientras tanto, las dos ciudades siguen siendo un punto delicado en las relaciones entre Europa y el norte de África, y un símbolo de las complejas fronteras del continente.",
-      "point": "'seguir + gerundio' to express continuity",
-      "explanation": "'Siguen siendo' means 'they continue to be', using seguir plus the gerund to stress an ongoing state.",
-      "why_tricky": "Learners tend to translate 'still are' literally; Spanish prefers 'seguir siendo' over 'todavía son'."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "por su parte",
-      "meaning": "for its/their part; as for",
-      "example": "El gobierno, por su parte, negó cualquier responsabilidad."
-     },
-     {
-      "phrase": "cada cierto tiempo",
-      "meaning": "every so often, periodically",
-      "example": "Cada cierto tiempo repasamos el vocabulario antiguo."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Por qué Ceuta y Melilla vuelven a ser noticia cada cierto tiempo?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué postura defiende Marruecos respecto a los dos enclaves?",
-      "type": "open"
-     },
-     {
-      "q": "¿Con qué argumentos justifica España que las ciudades son suyas?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Crees que las fronteras heredadas de la historia deberían revisarse hoy? Escribe un párrafo explicando tu opinión."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-31-unam-examen-ia",
-   "title": "El escándalo por los buenos resultados en las pruebas de admisión de la UNAM, la universidad más grande de América Latina",
-   "source": "BBC Mundo",
-   "date": "2026-07-31",
-   "level": "B1-B2",
-   "topics": [
-    "educación",
-    "tecnología"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-31-unam-examen-ia",
-    "revision": 1,
-    "meta": {
-     "title": "El escándalo por los buenos resultados en las pruebas de admisión de la UNAM, la universidad más grande de América Latina",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/c6298jjnyz4o?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-07-30",
-     "date_processed": "2026-07-31",
-     "tags": [
-      "educación",
-      "tecnología"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "The University's admission exam has caused a stir in Mexico after several candidates obtained unusually high results. The UNAM is the largest university in Latin America, and getting a place there is very difficult, so the marks surprised many people. Some voices suspect that a few students may have used artificial intelligence to answer the questions during the test. The case has opened a debate about honesty and control in these exams.\n\nThe issue goes beyond a single university, because more and more institutions are wondering how to prevent this kind of cheating. New technologies offer great advantages, but they also create fresh challenges for teachers and examiners. For that reason, many experts ask for clearer rules and better supervision systems. In the end, the debate is not only about technology, but about the value we place on a fair and honest education.",
-    "resumen_es": "El examen de admisión de la universidad ha causado un gran revuelo en México después de que varios aspirantes obtuvieran resultados muy altos. La UNAM es la universidad más grande de América Latina, y entrar allí es muy difícil, así que las notas sorprendieron a mucha gente. Algunas voces sospechan que unos pocos estudiantes pudieron usar inteligencia artificial para responder las preguntas durante la prueba. El caso ha abierto un debate sobre la honestidad y el control en estos exámenes.\n\nEl problema va más allá de una sola universidad, porque cada vez más instituciones se preguntan cómo evitar este tipo de trampas. Las nuevas tecnologías ofrecen grandes ventajas, pero también crean nuevos retos para los examinadores. Por eso, muchos expertos piden reglas más claras y mejores sistemas de supervisión. Al final, el debate no trata solo de tecnología, sino del valor que damos a una educación justa y honesta.",
-    "vocab": [
-     {
-      "front": "la prueba de admisión",
-      "pos": "phrase",
-      "back": "the entrance/admission exam",
-      "example": "Se presentó a la prueba de admisión de medicina.",
-      "tier": "B1"
-     },
-     {
-      "front": "el revuelo",
-      "pos": "noun",
-      "back": "the stir, commotion",
-      "example": "La noticia causó un gran revuelo en redes.",
-      "tier": "C1"
-     },
-     {
-      "front": "el aspirante",
-      "pos": "noun",
-      "back": "the applicant, candidate",
-      "example": "Miles de aspirantes compiten por pocas plazas.",
-      "tier": "B2"
-     },
-     {
-      "front": "la plaza",
-      "pos": "noun",
-      "back": "the place, spot (in a course/job)",
-      "example": "Solo hay treinta plazas disponibles.",
-      "tier": "B2"
-     },
-     {
-      "front": "sospechar",
-      "pos": "verb",
-      "back": "to suspect",
-      "example": "Sospechan que hubo un error en las notas.",
-      "tier": "B2"
-     },
-     {
-      "front": "la trampa",
-      "pos": "noun",
-      "back": "the cheating, the trick",
-      "example": "Hacer trampa en un examen tiene consecuencias.",
-      "tier": "B1"
-     },
-     {
-      "front": "el reto",
-      "pos": "noun",
-      "back": "the challenge",
-      "example": "La inteligencia artificial plantea nuevos retos.",
-      "tier": "B2"
-     },
-     {
-      "front": "la supervisión",
-      "pos": "noun",
-      "back": "the supervision, monitoring",
-      "example": "El examen se hizo bajo estricta supervisión.",
-      "tier": "B2"
-     },
-     {
-      "front": "la honestidad",
-      "pos": "noun",
-      "back": "honesty",
-      "example": "Valoramos la honestidad por encima de todo.",
-      "tier": "B2"
-     },
-     {
-      "front": "ir más allá de",
-      "pos": "phrase",
-      "back": "to go beyond",
-      "example": "El asunto va más allá de un simple error.",
-      "tier": "B2"
-     },
-     {
-      "front": "cada vez más",
-      "pos": "phrase",
-      "back": "more and more",
-      "example": "Cada vez más jóvenes estudian en línea.",
-      "tier": "B1"
-     },
-     {
-      "front": "justo",
-      "pos": "adj",
-      "back": "fair, just",
-      "example": "Todos quieren un sistema más justo.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "El examen de admisión de la universidad ha causado un gran revuelo en México después de que varios aspirantes obtuvieran resultados muy altos.",
-      "point": "subjunctive after 'después de que' with a past reference",
-      "explanation": "'Después de que' triggers the subjunctive 'obtuvieran' (past subjunctive) here, viewing the event within a reported, non-asserted frame.",
-      "why_tricky": "Learners expect the indicative for something that really happened, but 'después de que' commonly takes the subjunctive, especially in careful writing."
-     },
-     {
-      "sentence": "Algunas voces sospechan que unos pocos estudiantes pudieron usar inteligencia artificial para responder las preguntas durante la prueba.",
-      "point": "'poder' in the preterite ('pudieron') for a completed possibility",
-      "explanation": "'Pudieron usar' expresses that they were able to / may have used AI, a possibility located in the past.",
-      "why_tricky": "The preterite of 'poder' shifts meaning towards 'managed to' or 'may have', unlike the imperfect 'podían'."
-     },
-     {
-      "sentence": "Al final, el debate no trata solo de tecnología, sino del valor que damos a una educación justa y honesta.",
-      "point": "'no ... sino' for correction/contrast",
-      "explanation": "'No trata solo de X, sino de Y' corrects one idea with another; 'sino' (not 'pero') is required after a negative.",
-      "why_tricky": "Learners often use 'pero' where Spanish needs 'sino' to contrast with a preceding negation."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "ir más allá de",
-      "meaning": "to go beyond something",
-      "example": "Su ayuda fue más allá de lo esperado."
-     },
-     {
-      "phrase": "no ... sino",
-      "meaning": "not ... but rather",
-      "example": "No es pereza, sino cansancio."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Por qué sorprendieron los resultados del examen de la UNAM?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué sospechan algunas voces sobre ciertos estudiantes?",
-      "type": "open"
-     },
-     {
-      "q": "Según el texto, ¿qué piden muchos expertos para el futuro?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Debería permitirse el uso de la inteligencia artificial en los exámenes? Escribe un párrafo defendiendo tu postura."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-31-gusano-diablo",
-   "title": "El \"gusano del diablo\" que acecha en las profundidades de la Tierra",
-   "source": "BBC Mundo",
-   "date": "2026-07-31",
-   "level": "B1-B2",
-   "topics": [
-    "ciencia",
-    "naturaleza"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-31-gusano-diablo",
-    "revision": 1,
-    "meta": {
-     "title": "El \"gusano del diablo\" que acecha en las profundidades de la Tierra",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/cwyrxk58xq0o?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-07-30",
-     "date_processed": "2026-07-31",
-     "tags": [
-      "ciencia",
-      "naturaleza"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "For a long time, scientists believed that nothing could survive deep inside the Earth's crust. However, the discovery of a tiny animal, nicknamed the 'devil worm', has cast doubt on that old certainty. This tough creature lives several kilometres underground, where the heat is intense and oxygen is scarce. Its discovery shows that life is able to adapt to conditions that once seemed impossible.\n\nThe case has sparked great interest among researchers, since it opens new questions about the limits of life. If an organism can thrive in such a hostile environment, perhaps similar life forms exist on other planets. For that reason, this small worm not only changes what we knew about the underground, but also fuels the search for life beyond the Earth.",
-    "resumen_es": "Durante mucho tiempo, los científicos creyeron que nada podía sobrevivir en las profundidades de la corteza terrestre. Sin embargo, el hallazgo de un diminuto animal, apodado el 'gusano del diablo', ha puesto en duda esa vieja certeza. Esta criatura resistente vive a varios kilómetros bajo tierra, donde el calor es intenso y el oxígeno escasea. Su descubrimiento demuestra que la vida es capaz de adaptarse a condiciones que antes parecían imposibles.\n\nEl caso ha despertado un gran interés entre los investigadores, ya que abre nuevas preguntas sobre los límites de la vida. Si un organismo puede prosperar en un entorno tan hostil, quizá existan formas de vida parecidas en otros planetas. Por ello, este pequeño gusano no solo cambia lo que sabíamos del subsuelo, sino que también alimenta la búsqueda de vida más allá de la Tierra.",
-    "vocab": [
-     {
-      "front": "acechar",
-      "pos": "verb",
-      "back": "to lurk, to stalk",
-      "example": "Un peligro puede acechar donde menos lo esperas.",
-      "tier": "B2"
-     },
-     {
-      "front": "corteza terrestre",
-      "pos": "noun",
-      "back": "the Earth's crust",
-      "example": "La corteza terrestre tiene varios kilómetros de grosor.",
-      "tier": "B2"
-     },
-     {
-      "front": "hallazgo",
-      "pos": "noun",
-      "back": "finding, discovery",
-      "example": "El hallazgo sorprendió a toda la comunidad científica.",
-      "tier": "B1"
-     },
-     {
-      "front": "diminuto",
-      "pos": "adj",
-      "back": "tiny",
-      "example": "Encontraron un insecto diminuto entre las rocas.",
-      "tier": "B1"
-     },
-     {
-      "front": "apodado",
-      "pos": "adj",
-      "back": "nicknamed",
-      "example": "El animal, apodado \"el rey\", vive solo.",
-      "tier": "B2"
-     },
-     {
-      "front": "poner en duda",
-      "pos": "phrase",
-      "back": "to cast doubt on",
-      "example": "El estudio pone en duda una teoría antigua.",
-      "tier": "B2"
-     },
-     {
-      "front": "criatura",
-      "pos": "noun",
-      "back": "creature",
-      "example": "Es una criatura muy resistente al calor.",
-      "tier": "B1"
-     },
-     {
-      "front": "escasear",
-      "pos": "verb",
-      "back": "to be scarce",
-      "example": "En verano el agua suele escasear.",
-      "tier": "B2"
-     },
-     {
-      "front": "adaptarse",
-      "pos": "verb",
-      "back": "to adapt",
-      "example": "Las especies deben adaptarse al clima.",
-      "tier": "B1"
-     },
-     {
-      "front": "prosperar",
-      "pos": "verb",
-      "back": "to thrive",
-      "example": "Pocas plantas prosperan en el desierto.",
-      "tier": "B2"
-     },
-     {
-      "front": "entorno",
-      "pos": "noun",
-      "back": "environment, surroundings",
-      "example": "El entorno afecta al comportamiento de los animales.",
-      "tier": "B1"
-     },
-     {
-      "front": "subsuelo",
-      "pos": "noun",
-      "back": "subsoil, underground",
-      "example": "El agua se acumula en el subsuelo.",
-      "tier": "B2"
-     },
-     {
-      "front": "más allá de",
-      "pos": "phrase",
-      "back": "beyond",
-      "example": "Quieren buscar vida más allá de la Tierra.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Su descubrimiento demuestra que la vida es capaz de adaptarse a condiciones que antes parecían imposibles.",
-      "point": "ser capaz de + infinitivo",
-      "explanation": "'Ser capaz de' expresa la capacidad o posibilidad de hacer algo. Va seguido de un infinitivo: 'es capaz de adaptarse'.",
-      "why_tricky": "En inglés se dice 'to be able to', pero en español no se usa 'poder' aquí, sino la estructura fija 'ser capaz de'."
-     },
-     {
-      "sentence": "Si un organismo puede prosperar en un entorno tan hostil, quizá existan formas de vida parecidas en otros planetas.",
-      "point": "quizá + subjuntivo",
-      "explanation": "Tras 'quizá' se usa a menudo el subjuntivo ('existan') para marcar duda o posibilidad.",
-      "why_tricky": "El indicativo también es posible, pero el subjuntivo subraya que es solo una hipótesis, algo que el inglés no distingue."
-     },
-     {
-      "sentence": "Por ello, este pequeño gusano no solo cambia lo que sabíamos del subsuelo, sino que también alimenta la búsqueda de vida más allá de la Tierra.",
-      "point": "no solo... sino que también",
-      "explanation": "Esta correlación une dos ideas y añade información. Cuando hay un verbo conjugado después, se usa 'sino que', no solo 'sino'.",
-      "why_tricky": "Los estudiantes suelen olvidar el 'que' y escribir 'sino también', que aquí sería incorrecto."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "poner en duda",
-      "meaning": "to call something into question",
-      "example": "Los nuevos datos ponen en duda la vieja teoría."
-     },
-     {
-      "phrase": "dar que hablar",
-      "meaning": "to get people talking, to cause a stir",
-      "example": "El descubrimiento dio mucho que hablar entre los científicos."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Por qué el descubrimiento del \"gusano del diablo\" sorprendió a los científicos?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué condiciones difíciles soporta esta criatura bajo tierra?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué relación tiene este hallazgo con la búsqueda de vida en otros planetas?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Crees que deberíamos invertir más dinero en explorar la vida en las profundidades de la Tierra o en el espacio? Escribe un párrafo con tu opinión."
    }
   }
  ]

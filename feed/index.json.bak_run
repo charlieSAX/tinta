@@ -1,7 +1,535 @@
 {
- "generated_at": "2026-08-06T20:10:17.852775Z",
+ "generated_at": "2026-08-07T08:10:21.176745Z",
  "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-08-07-sequia-rin-danubio",
+   "title": "La histórica sequía que afecta al Rin y al Danubio, los principales ríos de Europa (y que amenaza con provocar un shock económico y energético)",
+   "source": "BBC Mundo",
+   "date": "2026-08-07",
+   "level": "B1-B2",
+   "topics": [
+    "clima",
+    "economía"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-07-sequia-rin-danubio",
+    "revision": 1,
+    "meta": {
+     "title": "La histórica sequía que afecta al Rin y al Danubio, los principales ríos de Europa (y que amenaza con provocar un shock económico y energético)",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/cj639737zyeo?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-08-05",
+     "date_processed": "2026-08-07",
+     "tags": [
+      "clima",
+      "economía"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "The Rhine and the Danube, two of Europe's most important rivers, are going through a historic drought. Water levels have dropped so far that many barges cannot sail with a full load and are forced to travel half empty. River transport moves coal, grain, chemicals and fuel, so any disruption is felt straight away in factories and in prices.\n\nThe authorities warn that episodes like this one will happen more often as summers become drier and hotter. In the short term, companies are looking for alternatives by road and by rail, although these are more expensive and more polluting. In the longer term, there is talk of dredging certain stretches of the riverbed and of building vessels that need less depth. For now, almost everything depends on the rain that arrives in autumn.",
+    "resumen_es": "El Rin y el Danubio, dos de los ríos más importantes de Europa, atraviesan una sequía histórica. El nivel del agua ha bajado tanto que muchas barcazas no pueden navegar con la carga completa y se ven obligadas a viajar medio vacías. El transporte fluvial mueve carbón, cereales, productos químicos y combustible, de modo que cualquier interrupción se nota enseguida en las fábricas y en los precios.\n\nLas autoridades advierten de que este tipo de episodios se repetirá con más frecuencia a medida que los veranos sean más secos y calurosos. A corto plazo, las empresas buscan alternativas por carretera y por tren, aunque resultan más caras y más contaminantes. A largo plazo, se habla de dragar ciertos tramos del cauce y de construir barcos que necesiten menos profundidad. Por ahora, casi todo depende de las lluvias que lleguen en otoño.",
+    "vocab": [
+     {
+      "front": "la sequía",
+      "pos": "noun",
+      "back": "drought",
+      "example": "La sequía de este verano ha vaciado los embalses.",
+      "tier": "B1"
+     },
+     {
+      "front": "el cauce",
+      "pos": "noun",
+      "back": "riverbed, channel of a river",
+      "example": "El cauce del río está casi seco.",
+      "tier": "B2"
+     },
+     {
+      "front": "la barcaza",
+      "pos": "noun",
+      "back": "barge",
+      "example": "Las barcazas transportan cereales río abajo.",
+      "tier": "B2"
+     },
+     {
+      "front": "el calado",
+      "pos": "noun",
+      "back": "draught (depth a ship sits in water)",
+      "example": "Ese barco tiene demasiado calado para el canal.",
+      "tier": "C1"
+     },
+     {
+      "front": "dragar",
+      "pos": "verb",
+      "back": "to dredge",
+      "example": "Van a dragar el puerto para que entren barcos grandes.",
+      "tier": "C1"
+     },
+     {
+      "front": "el transporte fluvial",
+      "pos": "phrase",
+      "back": "river transport",
+      "example": "El transporte fluvial es más barato que el camión.",
+      "tier": "B2"
+     },
+     {
+      "front": "la carga",
+      "pos": "noun",
+      "back": "cargo, load",
+      "example": "El camión llegó con media carga.",
+      "tier": "B1"
+     },
+     {
+      "front": "el combustible",
+      "pos": "noun",
+      "back": "fuel",
+      "example": "El precio del combustible ha subido otra vez.",
+      "tier": "B1"
+     },
+     {
+      "front": "verse obligado a",
+      "pos": "phrase",
+      "back": "to be forced to",
+      "example": "Nos vimos obligados a cancelar el viaje.",
+      "tier": "B2"
+     },
+     {
+      "front": "a corto plazo",
+      "pos": "phrase",
+      "back": "in the short term",
+      "example": "A corto plazo no habrá soluciones fáciles.",
+      "tier": "B1"
+     },
+     {
+      "front": "a largo plazo",
+      "pos": "phrase",
+      "back": "in the long term",
+      "example": "A largo plazo la inversión saldrá rentable.",
+      "tier": "B1"
+     },
+     {
+      "front": "advertir",
+      "pos": "verb",
+      "back": "to warn",
+      "example": "Los expertos advierten de un otoño muy seco.",
+      "tier": "B1"
+     },
+     {
+      "front": "contaminante",
+      "pos": "adj",
+      "back": "polluting",
+      "example": "El transporte por carretera es más contaminante.",
+      "tier": "B2"
+     },
+     {
+      "front": "enseguida",
+      "pos": "adv",
+      "back": "straight away, immediately",
+      "example": "El efecto se notó enseguida en los precios.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "El nivel del agua ha bajado tanto que muchas barcazas no pueden navegar con la carga completa y se ven obligadas a viajar medio vacías.",
+      "point": "tanto que + consequence clause",
+      "explanation": "\"tanto que\" links a degree to its result: something happened to such a degree that something else followed. Note that \"tanto\" here modifies the verb \"ha bajado\", so it does not change form.",
+      "why_tricky": "English uses \"so much that\", and learners often reach for \"tan que\". Use \"tan\" only before an adjective or adverb (tan seco que), and \"tanto que\" after a verb."
+     },
+     {
+      "sentence": "Las autoridades advierten de que este tipo de episodios se repetirá con más frecuencia a medida que los veranos sean más secos y calurosos.",
+      "point": "a medida que + subjunctive for a future process",
+      "explanation": "\"a medida que\" means \"as / in step with\". Because the process is still in the future here, the verb after it goes into the present subjunctive: sean, not son.",
+      "why_tricky": "The same connector takes the indicative when it describes something habitual or already happening: \"a medida que subían los precios\". The tense choice, not the connector, carries the meaning."
+     },
+     {
+      "sentence": "A largo plazo, se habla de dragar ciertos tramos del cauce y de construir barcos que necesiten menos profundidad.",
+      "point": "impersonal \"se habla de\" plus subjunctive in a relative clause",
+      "explanation": "\"se habla de\" hides the agent: people talk about it, nobody in particular. And \"barcos que necesiten\" uses the subjunctive because these boats do not exist yet; they are a wished-for type, not specific ones.",
+      "why_tricky": "Swap in \"barcos que necesitan\" and the meaning shifts to particular boats that already exist. Spanish marks the difference with mood alone."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "estar a merced de algo",
+      "meaning": "to be at the mercy of something, to depend entirely on it",
+      "example": "Los agricultores están a merced del clima."
+     },
+     {
+      "phrase": "quedarse en agua de borrajas",
+      "meaning": "to come to nothing, to fizzle out",
+      "example": "El plan de inversión se quedó en agua de borrajas."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Por qué la sequía afecta a las fábricas y no solo a los ríos?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué alternativas al transporte fluvial mencionan las empresas y qué problema tienen?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué soluciones se plantean a largo plazo?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Crees que los gobiernos deberían limitar el transporte por carretera aunque suban los precios? Escribe unas 120 palabras defendiendo tu postura."
+   }
+  },
+  {
+   "pack_id": "feed-2026-08-07-meta-multa-menores",
+   "title": "Multan a Meta con US$567 millones en el mayor fallo sobre seguridad infantil contra el gigante de las redes sociales",
+   "source": "BBC Mundo",
+   "date": "2026-08-07",
+   "level": "B1-B2",
+   "topics": [
+    "tecnología",
+    "justicia"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-07-meta-multa-menores",
+    "revision": 1,
+    "meta": {
+     "title": "Multan a Meta con US$567 millones en el mayor fallo sobre seguridad infantil contra el gigante de las redes sociales",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/cd7lzn00vd8o?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-08-07",
+     "date_processed": "2026-08-07",
+     "tags": [
+      "tecnología",
+      "justicia"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "A judge in the state of New Mexico has ordered Meta, the company that owns Facebook, Instagram and WhatsApp, to pay 567 million dollars for the harm caused to the minors who use its platforms. This is the largest ruling to date on child safety against the company. The judgment holds that the firm knew the risks of its products and that, even so, it went on designing features intended to make teenagers spend more and more time online.\n\nThe decision comes at a moment when several governments are tightening the rules on social media and minimum age. Meta has argued that it offers parental control tools and has announced that it will appeal the ruling. Whatever the outcome of that appeal, the case opens the door to new lawsuits in other states.",
+    "resumen_es": "Un juez del estado de Nuevo México ha condenado a Meta, la empresa propietaria de Facebook, Instagram y WhatsApp, a pagar 567 millones de dólares por el daño causado a los menores que usan sus plataformas. Se trata del mayor fallo hasta la fecha en materia de seguridad infantil contra la compañía. La sentencia sostiene que la empresa conocía los riesgos de sus productos y que, aun así, siguió diseñando funciones pensadas para que los adolescentes pasaran cada vez más tiempo conectados.\n\nLa decisión llega en un momento en el que varios gobiernos están endureciendo las normas sobre redes sociales y edad mínima. Meta ha defendido que ofrece herramientas de control parental y ha anunciado que recurrirá la sentencia. Sea cual sea el resultado del recurso, el caso abre la puerta a nuevas demandas en otros estados.",
+    "vocab": [
+     {
+      "front": "la multa",
+      "pos": "noun",
+      "back": "fine",
+      "example": "Le pusieron una multa por aparcar mal.",
+      "tier": "B1"
+     },
+     {
+      "front": "el fallo",
+      "pos": "noun",
+      "back": "ruling, verdict",
+      "example": "El fallo del juez sorprendió a todos.",
+      "tier": "B2"
+     },
+     {
+      "front": "la sentencia",
+      "pos": "noun",
+      "back": "judgment, sentence",
+      "example": "La sentencia se conocerá el lunes.",
+      "tier": "B1"
+     },
+     {
+      "front": "recurrir",
+      "pos": "verb",
+      "back": "to appeal (a decision)",
+      "example": "La empresa recurrirá la sentencia.",
+      "tier": "B2"
+     },
+     {
+      "front": "el recurso",
+      "pos": "noun",
+      "back": "appeal",
+      "example": "El recurso se presentó fuera de plazo.",
+      "tier": "B2"
+     },
+     {
+      "front": "la demanda",
+      "pos": "noun",
+      "back": "lawsuit",
+      "example": "Han presentado una demanda colectiva.",
+      "tier": "B2"
+     },
+     {
+      "front": "el menor",
+      "pos": "noun",
+      "back": "minor, child under 18",
+      "example": "La ley protege a los menores en internet.",
+      "tier": "B1"
+     },
+     {
+      "front": "endurecer",
+      "pos": "verb",
+      "back": "to tighten, to toughen",
+      "example": "El gobierno quiere endurecer las normas.",
+      "tier": "B2"
+     },
+     {
+      "front": "la herramienta",
+      "pos": "noun",
+      "back": "tool",
+      "example": "La aplicación ofrece herramientas de control.",
+      "tier": "B1"
+     },
+     {
+      "front": "el daño",
+      "pos": "noun",
+      "back": "harm, damage",
+      "example": "El daño ya estaba hecho.",
+      "tier": "B1"
+     },
+     {
+      "front": "aun así",
+      "pos": "phrase",
+      "back": "even so",
+      "example": "Sabía el riesgo y aun así siguió.",
+      "tier": "B1"
+     },
+     {
+      "front": "sea cual sea",
+      "pos": "phrase",
+      "back": "whatever it may be",
+      "example": "Sea cual sea tu decisión, te apoyaré.",
+      "tier": "B2"
+     },
+     {
+      "front": "abrir la puerta a",
+      "pos": "phrase",
+      "back": "to open the door to",
+      "example": "La reforma abre la puerta a más cambios.",
+      "tier": "B2"
+     },
+     {
+      "front": "propietario",
+      "pos": "adj",
+      "back": "owning, proprietary",
+      "example": "La empresa propietaria del edificio no responde.",
+      "tier": "B2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "La sentencia sostiene que la empresa conocía los riesgos de sus productos y que, aun así, siguió diseñando funciones pensadas para que los adolescentes pasaran cada vez más tiempo conectados.",
+      "point": "para que + imperfect subjunctive after a past main verb",
+      "explanation": "\"para que\" always takes the subjunctive because it expresses purpose, not fact. Since the main verb \"siguió\" is in the past, the subjunctive shifts back to the imperfect: pasaran.",
+      "why_tricky": "Learners often keep the present subjunctive (pasen) after a past verb. Spanish requires the sequence of tenses: past main verb pulls the subordinate verb into the imperfect subjunctive."
+     },
+     {
+      "sentence": "Sea cual sea el resultado del recurso, el caso abre la puerta a nuevas demandas en otros estados.",
+      "point": "reduplicated subjunctive for concession",
+      "explanation": "Repeating the subjunctive around a relative word (\"sea cual sea\", \"pase lo que pase\", \"digan lo que digan\") means \"no matter what\". It is a fixed pattern, always in the subjunctive.",
+      "why_tricky": "There is no article or \"que\" between the two verbs, and the pattern cannot be translated word for word. Learn the shape whole."
+     },
+     {
+      "sentence": "La decisión llega en un momento en el que varios gobiernos están endureciendo las normas sobre redes sociales y edad mínima.",
+      "point": "relative clause with preposition plus article: en el que",
+      "explanation": "When a relative clause needs a preposition, Spanish keeps it in front and adds the article: \"en el que\", \"con la que\", \"de los que\". You cannot strand the preposition at the end as English does.",
+      "why_tricky": "English says \"a moment governments are tightening rules in\". Spanish must say \"en el que\", and the article agrees with \"momento\" (masculine singular)."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "poner coto a algo",
+      "meaning": "to put a stop to something, to rein it in",
+      "example": "La nueva ley pretende poner coto a los abusos."
+     },
+     {
+      "phrase": "salir caro",
+      "meaning": "to prove costly",
+      "example": "Ignorar las advertencias le ha salido caro."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Por qué el juez consideró responsable a la empresa?",
+      "type": "open"
+     },
+     {
+      "q": "¿Cómo ha respondido Meta a la sentencia?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué consecuencias podría tener este caso para otras empresas del sector?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿A partir de qué edad crees que se debería permitir el uso de las redes sociales, y quién debería vigilarlo? Escribe unas 120 palabras."
+   }
+  },
+  {
+   "pack_id": "feed-2026-08-07-francia-fast-fashion",
+   "title": "Francia endurece su lucha contra la fast fashion con una ley histórica",
+   "source": "RFI Español",
+   "date": "2026-08-07",
+   "level": "B1-B2",
+   "topics": [
+    "consumo",
+    "medio ambiente"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-07-francia-fast-fashion",
+    "revision": 1,
+    "meta": {
+     "title": "Francia endurece su lucha contra la fast fashion con una ley histórica",
+     "source": "RFI Español",
+     "url": "https://www.rfi.fr/es/programas/enfoque-internacional/20260806-francia-endurece-su-lucha-contra-la-fast-fashion-con-una-ley-hist%C3%B3rica",
+     "date_published": "2026-08-06",
+     "date_processed": "2026-08-07",
+     "tags": [
+      "consumo",
+      "medio ambiente"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "The French Parliament has approved a pioneering law against ultra-fast fashion, better known simply as fast fashion. The rules provide for financial penalties for brands that launch thousands of new models every week at very low prices, and they also restrict their advertising. The aim is to slow down a model of consumption that generates mountains of textile waste and that, according to the supporters of the text, competes unfairly with European industry.\n\nFrance thus becomes one of the first countries to legislate on this issue, and several European partners are following the debate closely. The platforms affected argue that the law will make clothes more expensive for families with fewer resources. Environmental groups, by contrast, welcome the measure, although they point out that real enforcement will be needed so that it does not end up as a dead letter.",
+    "resumen_es": "El Parlamento francés ha aprobado una ley pionera contra la moda ultrarrápida, más conocida como fast fashion. La norma prevé penalizaciones económicas para las marcas que lanzan miles de modelos nuevos cada semana a precios muy bajos, y además limita su publicidad. El objetivo es frenar un modelo de consumo que genera montañas de residuos textiles y que, según los defensores del texto, compite de forma desleal con la industria europea.\n\nFrancia se convierte así en uno de los primeros países en legislar sobre este asunto, y varios socios europeos siguen el debate de cerca. Las plataformas afectadas alegan que la ley encarecerá la ropa para las familias con menos recursos. Las asociaciones ecologistas, en cambio, celebran la medida, aunque recuerdan que hará falta un control real para que no se quede en papel mojado.",
+    "vocab": [
+     {
+      "front": "la ley",
+      "pos": "noun",
+      "back": "law, act",
+      "example": "La ley entra en vigor en enero.",
+      "tier": "B1"
+     },
+     {
+      "front": "aprobar una ley",
+      "pos": "phrase",
+      "back": "to pass a law",
+      "example": "El Parlamento aprobó la ley por amplia mayoría.",
+      "tier": "B1"
+     },
+     {
+      "front": "pionero",
+      "pos": "adj",
+      "back": "pioneering, first of its kind",
+      "example": "Es una medida pionera en Europa.",
+      "tier": "B2"
+     },
+     {
+      "front": "la norma",
+      "pos": "noun",
+      "back": "rule, regulation",
+      "example": "La norma afecta a todas las tiendas.",
+      "tier": "B1"
+     },
+     {
+      "front": "los residuos",
+      "pos": "noun",
+      "back": "waste",
+      "example": "Los residuos textiles acaban en vertederos.",
+      "tier": "B2"
+     },
+     {
+      "front": "frenar",
+      "pos": "verb",
+      "back": "to slow down, to curb",
+      "example": "Quieren frenar el consumo excesivo.",
+      "tier": "B1"
+     },
+     {
+      "front": "desleal",
+      "pos": "adj",
+      "back": "unfair (competition)",
+      "example": "Lo acusaron de competencia desleal.",
+      "tier": "B2"
+     },
+     {
+      "front": "encarecer",
+      "pos": "verb",
+      "back": "to make more expensive",
+      "example": "El impuesto encarecerá los billetes.",
+      "tier": "B2"
+     },
+     {
+      "front": "alegar",
+      "pos": "verb",
+      "back": "to claim, to argue (formally)",
+      "example": "Las empresas alegan que perderán empleos.",
+      "tier": "B2"
+     },
+     {
+      "front": "la medida",
+      "pos": "noun",
+      "back": "measure",
+      "example": "La medida se aplicará el año que viene.",
+      "tier": "B1"
+     },
+     {
+      "front": "en cambio",
+      "pos": "phrase",
+      "back": "on the other hand, by contrast",
+      "example": "Él protestó; ella, en cambio, calló.",
+      "tier": "B1"
+     },
+     {
+      "front": "hacer falta",
+      "pos": "phrase",
+      "back": "to be necessary",
+      "example": "Hace falta más personal en verano.",
+      "tier": "B1"
+     },
+     {
+      "front": "el asunto",
+      "pos": "noun",
+      "back": "issue, matter",
+      "example": "Es un asunto complicado.",
+      "tier": "B1"
+     },
+     {
+      "front": "seguir de cerca",
+      "pos": "phrase",
+      "back": "to follow closely",
+      "example": "Los socios siguen de cerca el debate.",
+      "tier": "B2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "La norma prevé penalizaciones económicas para las marcas que lanzan miles de modelos nuevos cada semana a precios muy bajos, y además limita su publicidad.",
+      "point": "indicative in a defining relative clause about real, existing brands",
+      "explanation": "\"que lanzan\" is indicative because these brands actually exist and are identifiable. The relative clause narrows down which brands the law targets.",
+      "why_tricky": "If the law had described a hypothetical category (\"marcas que lancen\"), Spanish would switch to the subjunctive. The verb ending alone tells you whether the group is real or imagined."
+     },
+     {
+      "sentence": "Francia se convierte así en uno de los primeros países en legislar sobre este asunto, y varios socios europeos siguen el debate de cerca.",
+      "point": "convertirse en + noun",
+      "explanation": "Spanish has several verbs for \"to become\". \"Convertirse en\" is used for a change of category or role and always needs the preposition \"en\" before a noun.",
+      "why_tricky": "Compare \"hacerse rico\" (gradual, often chosen), \"ponerse nervioso\" (temporary state) and \"volverse desconfiado\" (involuntary change). Dropping the \"en\" after convertirse is the most common slip."
+     },
+     {
+      "sentence": "Las asociaciones ecologistas, en cambio, celebran la medida, aunque recuerdan que hará falta un control real para que no se quede en papel mojado.",
+      "point": "aunque + indicative, and impersonal \"hará falta\"",
+      "explanation": "\"aunque\" with the indicative presents the contrast as a known fact: they really do point this out. \"Hará falta\" is impersonal, so it agrees with what is needed, not with a person.",
+      "why_tricky": "With the subjunctive, \"aunque recuerden\" would mean \"even if they were to point it out\", a hypothetical. And learners often write \"harán falta un control\": the verb must agree with \"un control\", singular."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "quedarse en papel mojado",
+      "meaning": "to be worthless in practice, to be a dead letter",
+      "example": "Sin sanciones, el acuerdo se quedará en papel mojado."
+     },
+     {
+      "phrase": "costar un ojo de la cara",
+      "meaning": "to cost a fortune",
+      "example": "Ese abrigo cuesta un ojo de la cara."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Qué medidas concretas incluye la ley francesa?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué argumento utilizan las plataformas afectadas para oponerse?",
+      "type": "open"
+     },
+     {
+      "q": "¿Por qué las asociaciones ecologistas se muestran prudentes a pesar de apoyar la ley?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Comprarías menos ropa si fuera más cara pero durara el doble? Escribe unas 120 palabras explicando tus hábitos de consumo."
+   }
+  },
   {
    "pack_id": "feed-2026-08-06-imagenes-sol-detalle",
    "title": "Las inéditas imágenes del Sol en movimiento que muestran un nivel de detalle jamás visto",
@@ -6197,501 +6725,6 @@
      }
     ],
     "opinion_prompt": "¿Crees que deberíamos invertir más dinero en explorar la vida en las profundidades de la Tierra o en el espacio? Escribe un párrafo con tu opinión."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-31-vacuna-ebola",
-   "title": "Una nueva vacuna contra el ébola \"más prometedora\", desarrollada en Singapur",
-   "source": "RFI Español",
-   "date": "2026-07-31",
-   "level": "B1-B2",
-   "topics": [
-    "salud",
-    "ciencia"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-31-vacuna-ebola",
-    "revision": 1,
-    "meta": {
-     "title": "Una nueva vacuna contra el ébola \"más prometedora\", desarrollada en Singapur",
-     "source": "RFI Español",
-     "url": "https://www.rfi.fr/es/salud/20260730-una-nueva-vacuna-contra-el-%C3%A9bola-m%C3%A1s-prometedora-desarrollada-en-singapur",
-     "date_published": "2026-07-30",
-     "date_processed": "2026-07-31",
-     "tags": [
-      "salud",
-      "ciencia"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "A laboratory based in Singapore has presented a new Ebola vaccine that, according to those in charge, is more promising than earlier ones. The project has just entered the clinical trial phase, a key step to check whether the product is safe and effective in people. Ebola is a serious disease that causes deadly outbreaks, especially in several African countries, so having better medical tools represents great hope.\n\nThe World Health Organization believes that this line of research deserves full attention. Although there is still a long way to go, experts are confident that the vaccine may reduce the number of infections in the future. In the meantime, scientists will keep gathering data to make sure the treatment works before distributing it on a large scale.",
-    "resumen_es": "Un laboratorio con sede en Singapur ha presentado una nueva vacuna contra el ébola que, según sus responsables, resulta más prometedora que las anteriores. El proyecto acaba de entrar en la fase de ensayos clínicos, un paso clave para comprobar si el producto es seguro y eficaz en las personas. El ébola es una enfermedad grave que provoca brotes mortales, sobre todo en varios países de África, por lo que contar con mejores herramientas médicas supone una gran esperanza.\n\nLa Organización Mundial de la Salud considera que esta línea de investigación merece toda la atención. Aunque todavía queda un largo camino por recorrer, los expertos confían en que la vacuna pueda reducir el número de contagios en el futuro. Mientras tanto, los científicos seguirán reuniendo datos para asegurarse de que el tratamiento funcione antes de distribuirlo a gran escala.",
-    "vocab": [
-     {
-      "front": "con sede en",
-      "pos": "phrase",
-      "back": "based in, headquartered in",
-      "example": "Es una empresa con sede en Madrid.",
-      "tier": "B1"
-     },
-     {
-      "front": "prometedor",
-      "pos": "adj",
-      "back": "promising",
-      "example": "Los resultados son muy prometedores.",
-      "tier": "B1"
-     },
-     {
-      "front": "ensayo clínico",
-      "pos": "noun",
-      "back": "clinical trial",
-      "example": "El fármaco está en fase de ensayo clínico.",
-      "tier": "B2"
-     },
-     {
-      "front": "eficaz",
-      "pos": "adj",
-      "back": "effective",
-      "example": "Buscan un tratamiento más eficaz.",
-      "tier": "B1"
-     },
-     {
-      "front": "brote",
-      "pos": "noun",
-      "back": "outbreak",
-      "example": "Hubo un brote de gripe en la ciudad.",
-      "tier": "B2"
-     },
-     {
-      "front": "herramienta",
-      "pos": "noun",
-      "back": "tool",
-      "example": "La vacuna es una herramienta clave contra la enfermedad.",
-      "tier": "B1"
-     },
-     {
-      "front": "reducir",
-      "pos": "verb",
-      "back": "to reduce",
-      "example": "Quieren reducir el número de contagios.",
-      "tier": "B1"
-     },
-     {
-      "front": "contagio",
-      "pos": "noun",
-      "back": "infection, contagion",
-      "example": "Las medidas evitan nuevos contagios.",
-      "tier": "B2"
-     },
-     {
-      "front": "reunir datos",
-      "pos": "phrase",
-      "back": "to gather data",
-      "example": "Los científicos siguen reuniendo datos.",
-      "tier": "B1"
-     },
-     {
-      "front": "a gran escala",
-      "pos": "phrase",
-      "back": "on a large scale",
-      "example": "Producirán la vacuna a gran escala.",
-      "tier": "B2"
-     },
-     {
-      "front": "tratamiento",
-      "pos": "noun",
-      "back": "treatment",
-      "example": "El tratamiento aún está en pruebas.",
-      "tier": "B1"
-     },
-     {
-      "front": "suponer",
-      "pos": "verb",
-      "back": "to represent, to mean",
-      "example": "Esto supone una gran esperanza.",
-      "tier": "B2"
-     },
-     {
-      "front": "enfermedad",
-      "pos": "noun",
-      "back": "disease, illness",
-      "example": "El ébola es una enfermedad grave.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Aunque todavía queda un largo camino por recorrer, los expertos confían en que la vacuna pueda reducir el número de contagios en el futuro.",
-      "point": "confiar en que + subjuntivo",
-      "explanation": "Tras 'confiar en que', cuando se expresa un deseo o una esperanza sobre algo incierto, se usa el subjuntivo: 'pueda'.",
-      "why_tricky": "El inglés usa indicativo ('will be able to'), pero el español elige el subjuntivo porque el resultado no es seguro."
-     },
-     {
-      "sentence": "Mientras tanto, los científicos seguirán reuniendo datos para asegurarse de que el tratamiento funcione antes de distribuirlo a gran escala.",
-      "point": "seguir + gerundio y 'para que' implícito",
-      "explanation": "'Seguir + gerundio' expresa una acción que continúa ('seguirán reuniendo'). Además, 'asegurarse de que' pide subjuntivo: 'funcione'.",
-      "why_tricky": "Hay que combinar dos estructuras: la perífrasis de gerundio y el subjuntivo tras una expresión de finalidad y control."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "poner en marcha",
-      "meaning": "to launch, to get something going",
-      "example": "El laboratorio puso en marcha un nuevo ensayo clínico."
-     },
-     {
-      "phrase": "dar sus frutos",
-      "meaning": "to pay off, to bear fruit",
-      "example": "Los expertos esperan que la investigación dé sus frutos pronto."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Dónde se ha desarrollado la nueva vacuna contra el ébola?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué es importante la fase de ensayos clínicos?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué opina la Organización Mundial de la Salud sobre esta investigación?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Crees que los países ricos deberían financiar las vacunas contra enfermedades que afectan sobre todo a países pobres? Justifica tu respuesta."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-31-aerolineas-crisis",
-   "title": "Qué significa para los precios de los vuelos que las aerolíneas de bajo costo estén en crisis",
-   "source": "BBC Mundo",
-   "date": "2026-07-31",
-   "level": "B1-B2",
-   "topics": [
-    "economía",
-    "viajes"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-31-aerolineas-crisis",
-    "revision": 1,
-    "meta": {
-     "title": "Qué significa para los precios de los vuelos que las aerolíneas de bajo costo estén en crisis",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/cgewgz9249po?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-07-30",
-     "date_processed": "2026-07-31",
-     "tags": [
-      "economía",
-      "viajes"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "Several low-cost airlines are going through difficult times on both sides of the Atlantic. The disappearance of some companies in the United States and the financial problems of others in Europe have set off alarms in the sector. For years, these firms allowed people to fly at very low prices, which completely changed the way millions of people travel. Now, however, that model seems to be wobbling.\n\nExperts warn that, if competition falls, tickets could become more expensive in the coming years. With fewer cheap options, passengers would have to pay more or give up some trips. Even so, the future is not written: new companies could fill the gap left by those that fail. For now, anyone who wants to save money would do well to book their flights well in advance.",
-    "resumen_es": "Varias aerolíneas de bajo costo atraviesan momentos difíciles a ambos lados del Atlántico. La desaparición de algunas compañías en Estados Unidos y los problemas financieros de otras en Europa han encendido las alarmas en el sector. Durante años, estas empresas permitieron viajar en avión a precios muy bajos, lo que cambió por completo la forma en que millones de personas se desplazan. Ahora, sin embargo, ese modelo parece tambalearse.\n\nLos expertos advierten de que, si la competencia disminuye, los billetes podrían encarecerse en los próximos años. Con menos opciones baratas, los pasajeros tendrían que pagar más o renunciar a algunos viajes. Aun así, el futuro no está escrito: nuevas compañías podrían ocupar el hueco que dejen las que fracasen. De momento, quien quiera ahorrar hará bien en reservar sus vuelos con bastante antelación.",
-    "vocab": [
-     {
-      "front": "aerolínea de bajo costo",
-      "pos": "noun",
-      "back": "low-cost airline",
-      "example": "Viajó con una aerolínea de bajo costo.",
-      "tier": "B1"
-     },
-     {
-      "front": "atravesar",
-      "pos": "verb",
-      "back": "to go through (a period)",
-      "example": "La empresa atraviesa una crisis difícil.",
-      "tier": "B2"
-     },
-     {
-      "front": "desaparición",
-      "pos": "noun",
-      "back": "disappearance",
-      "example": "La desaparición de la marca sorprendió a todos.",
-      "tier": "B1"
-     },
-     {
-      "front": "encender las alarmas",
-      "pos": "phrase",
-      "back": "to set off alarms, to raise concern",
-      "example": "Los datos encendieron las alarmas en el sector.",
-      "tier": "B2"
-     },
-     {
-      "front": "desplazarse",
-      "pos": "verb",
-      "back": "to travel, to move around",
-      "example": "Mucha gente se desplaza en avión cada día.",
-      "tier": "B2"
-     },
-     {
-      "front": "tambalearse",
-      "pos": "verb",
-      "back": "to wobble, to falter",
-      "example": "El modelo de negocio empieza a tambalearse.",
-      "tier": "C1"
-     },
-     {
-      "front": "competencia",
-      "pos": "noun",
-      "back": "competition",
-      "example": "Hay mucha competencia entre las aerolíneas.",
-      "tier": "B1"
-     },
-     {
-      "front": "encarecerse",
-      "pos": "verb",
-      "back": "to become more expensive",
-      "example": "Los billetes podrían encarecerse pronto.",
-      "tier": "B2"
-     },
-     {
-      "front": "billete",
-      "pos": "noun",
-      "back": "ticket",
-      "example": "Compró un billete muy barato.",
-      "tier": "B1"
-     },
-     {
-      "front": "renunciar a",
-      "pos": "verb",
-      "back": "to give up, to forgo",
-      "example": "Tuvo que renunciar a algunos viajes.",
-      "tier": "B1"
-     },
-     {
-      "front": "ocupar el hueco",
-      "pos": "phrase",
-      "back": "to fill the gap",
-      "example": "Otra empresa ocupó el hueco que dejó la anterior.",
-      "tier": "B2"
-     },
-     {
-      "front": "fracasar",
-      "pos": "verb",
-      "back": "to fail",
-      "example": "Varias compañías pequeñas fracasaron.",
-      "tier": "B1"
-     },
-     {
-      "front": "con antelación",
-      "pos": "phrase",
-      "back": "in advance",
-      "example": "Reserva tus vuelos con antelación.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Los expertos advierten de que, si la competencia disminuye, los billetes podrían encarecerse en los próximos años.",
-      "point": "condicional para expresar probabilidad",
-      "explanation": "El condicional 'podrían' expresa una posibilidad futura. Aquí acompaña a una condición real con presente ('si... disminuye').",
-      "why_tricky": "Se mezcla el presente en la condición con el condicional en el resultado, algo que confunde a quien espera 'si + pasado'."
-     },
-     {
-      "sentence": "De momento, quien quiera ahorrar hará bien en reservar sus vuelos con bastante antelación.",
-      "point": "quien + subjuntivo",
-      "explanation": "'Quien' con valor general ('cualquiera que') pide subjuntivo: 'quiera'. El verbo principal va en futuro: 'hará'.",
-      "why_tricky": "El antecedente es indefinido, no una persona concreta, por eso se usa subjuntivo y no indicativo."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "encender las alarmas",
-      "meaning": "to raise the alarm, to cause worry",
-      "example": "La caída de ventas encendió las alarmas."
-     },
-     {
-      "phrase": "el futuro no está escrito",
-      "meaning": "the future is not set, anything can happen",
-      "example": "El futuro no está escrito y todo puede cambiar."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué problemas viven actualmente las aerolíneas de bajo costo?",
-      "type": "open"
-     },
-     {
-      "q": "¿Cómo podrían cambiar los precios de los billetes según los expertos?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué consejo se da a quienes quieren ahorrar en sus vuelos?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Prefieres viajar barato aunque el servicio sea básico, o pagar más por mayor comodidad? Explica por qué."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-30-rosalia-argentina",
-   "title": "La cantante Rosalía pide perdón tras compartir en sus redes un video considerado ofensivo en Argentina después de la final del Mundial",
-   "source": "BBC Mundo",
-   "date": "2026-07-30",
-   "level": "B1-B2",
-   "topics": [
-    "cultura",
-    "redes"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-30-rosalia-argentina",
-    "revision": 2,
-    "meta": {
-     "title": "La cantante Rosalía pide perdón tras compartir en sus redes un video considerado ofensivo en Argentina después de la final del Mundial",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/cvgveekkzxpo?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-07-30",
-     "date_processed": "2026-07-30",
-     "tags": [
-      "cultura",
-      "redes"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "The Spanish singer Rosalía has apologised after sharing on her social media a video that many Argentine users considered offensive. The post appeared shortly after the World Cup final, in which Spain beat Argentina, and so the gesture was read as a mockery of the rival team. Within hours, the video went viral and set off a heated controversy among her followers.\n\nFaced with the criticism, the artist deleted the content and posted a message in which she admitted her mistake and clarified that she had not meant to upset anyone. This episode shows how far sporting rivalries can spread to social media and affect even very well known figures. For many, the case confirms that, in the digital age, a simple post made without thinking can turn into a far reaching problem.",
-    "resumen_es": "La cantante española Rosalía ha pedido perdón después de compartir en sus redes sociales un video que muchos usuarios argentinos consideraron ofensivo. La publicación apareció poco después de la final del Mundial, en la que España venció a Argentina, y por eso el gesto se interpretó como una burla hacia el equipo rival. En cuestión de horas, el video se volvió viral y desató una fuerte polémica entre sus seguidores.\n\nAnte las críticas, la artista borró el contenido y publicó un mensaje en el que reconocía su error y aclaraba que no había querido molestar a nadie. Este episodio muestra hasta qué punto las rivalidades deportivas pueden trasladarse a las redes y afectar incluso a figuras muy conocidas. Para muchos, el caso confirma que, en la era digital, una simple publicación hecha sin pensar puede convertirse en un problema de gran alcance.",
-    "vocab": [
-     {
-      "front": "pedir perdón",
-      "pos": "phrase",
-      "back": "to apologise",
-      "example": "Rosalía tuvo que pedir perdón por el video.",
-      "tier": "B1"
-     },
-     {
-      "front": "las redes sociales",
-      "pos": "noun",
-      "back": "social media",
-      "example": "Publica casi todo en sus redes sociales.",
-      "tier": "B1"
-     },
-     {
-      "front": "ofensivo",
-      "pos": "adj",
-      "back": "offensive",
-      "example": "Muchos consideraron el comentario ofensivo.",
-      "tier": "B1"
-     },
-     {
-      "front": "burla",
-      "pos": "noun",
-      "back": "mockery, taunt",
-      "example": "El chiste sonó como una burla.",
-      "tier": "B2"
-     },
-     {
-      "front": "volverse viral",
-      "pos": "phrase",
-      "back": "to go viral",
-      "example": "El video se volvió viral en una noche.",
-      "tier": "B1"
-     },
-     {
-      "front": "desatar",
-      "pos": "verb",
-      "back": "to unleash, set off",
-      "example": "La noticia desató una fuerte polémica.",
-      "tier": "B2"
-     },
-     {
-      "front": "polémica",
-      "pos": "noun",
-      "back": "controversy",
-      "example": "Su decisión generó mucha polémica.",
-      "tier": "B1"
-     },
-     {
-      "front": "borrar",
-      "pos": "verb",
-      "back": "to delete",
-      "example": "Decidió borrar la publicación.",
-      "tier": "B1"
-     },
-     {
-      "front": "reconocer un error",
-      "pos": "verb",
-      "back": "to admit a mistake",
-      "example": "Es difícil reconocer un error en público.",
-      "tier": "B1"
-     },
-     {
-      "front": "trasladarse",
-      "pos": "verb",
-      "back": "to move, spread to",
-      "example": "El debate se trasladó a las redes.",
-      "tier": "B2"
-     },
-     {
-      "front": "de gran alcance",
-      "pos": "phrase",
-      "back": "far-reaching",
-      "example": "Fue una decisión de gran alcance.",
-      "tier": "B2"
-     },
-     {
-      "front": "figura conocida",
-      "pos": "phrase",
-      "back": "well-known figure",
-      "example": "Es una figura muy conocida en el país.",
-      "tier": "B1"
-     },
-     {
-      "front": "rivalidad",
-      "pos": "noun",
-      "back": "rivalry",
-      "example": "La rivalidad entre los dos equipos es histórica.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "En cuestión de horas, el video se volvió viral y desató una fuerte polémica entre sus seguidores.",
-      "point": "Verbos de cambio: volverse + adjetivo",
-      "explanation": "'Volverse' expresa un cambio de estado bastante rápido o involuntario. Aquí 'se volvió viral' indica que el video pasó a estar en esa situación.",
-      "why_tricky": "El inglés usa un solo verbo ('to go/become'), pero el español elige entre volverse, hacerse, ponerse o quedarse según el matiz."
-     },
-     {
-      "sentence": "Ante las críticas, la artista borró el contenido y publicó un mensaje en el que reconocía su error y aclaraba que no había querido molestar a nadie.",
-      "point": "Pluscuamperfecto e imperfecto en la narración",
-      "explanation": "'Borró' y 'publicó' (indefinido) marcan acciones puntuales; 'reconocía' y 'aclaraba' (imperfecto) describen; 'había querido' (pluscuamperfecto) señala algo anterior a esas acciones.",
-      "why_tricky": "Combinar tres tiempos del pasado en una sola frase exige tener clara la línea temporal de los hechos."
-     },
-     {
-      "sentence": "Para muchos, el caso confirma que, en la era digital, una simple publicación hecha sin pensar puede convertirse en un problema de gran alcance.",
-      "point": "sin + infinitivo",
-      "explanation": "'Sin pensar' equivale a 'without thinking'. La estructura 'sin + infinitivo' funciona como complemento y describe el modo de la acción.",
-      "why_tricky": "Los estudiantes tienden a poner un gerundio ('sin pensando'), que es incorrecto en español."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "en cuestión de horas",
-      "meaning": "in a matter of hours, very quickly",
-      "example": "La foto se difundió en cuestión de horas."
-     },
-     {
-      "phrase": "sin pensar",
-      "meaning": "without thinking, impulsively",
-      "example": "Escribió el mensaje sin pensar y luego se arrepintió."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Por qué muchos usuarios argentinos consideraron ofensivo el video de Rosalía?",
-      "type": "open"
-     },
-     {
-      "q": "¿Cómo reaccionó la cantante ante las críticas?",
-      "type": "open"
-     },
-     {
-      "q": "Según el texto, ¿qué demuestra este episodio sobre las redes sociales?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Crees que las figuras públicas deberían tener más cuidado con lo que publican en redes sociales? Escribe un párrafo con tu opinión y un ejemplo."
    }
   }
  ]
