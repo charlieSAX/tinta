@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-08-08T08:10:53.375854Z",
+  "generated_at": "2026-08-08T08:14:55.335297Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-08-bunker-lujo-nueva-escocia",
+      "title": "El búnker de la Guerra Fría reconvertido en apartamentos de lujo para \"sobrevivir al fin del mundo\"",
+      "source": "BBC Mundo",
+      "date": "2026-08-08",
+      "level": "B1-B2",
+      "topics": [
+        "sociedad",
+        "vivienda"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-08-bunker-lujo-nueva-escocia",
+        "revision": 1,
+        "meta": {
+          "title": "El búnker de la Guerra Fría reconvertido en apartamentos de lujo para \"sobrevivir al fin del mundo\"",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c7vg5qp28e0o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-07",
+          "date_processed": "2026-08-08",
+          "tags": [
+            "sociedad",
+            "vivienda"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "A former nuclear shelter belonging to the Canadian government, built in the middle of the Cold War in a rural area of Nova Scotia, is about to be turned into a complex of luxury flats. The developer wants to transform it into the country's first large-scale survival shelter, designed for wealthy clients who fear a catastrophe. Behind the armoured doors there will be homes, communal areas and reserves of water and food.\n\nThe project fits into a trend that has been growing for years among the very rich: buying a safe place in case the world breaks down. Critics point out that these shelters sell fear and that they would solve nothing in a real crisis, because nobody can live underground for a long time. Their defenders reply that it is a property investment like any other. Meanwhile, other abandoned military bunkers are waiting for a similar fate.",
+        "resumen_es": "Un antiguo refugio nuclear del gobierno canadiense, construido en plena Guerra Fría en una zona rural de Nueva Escocia, está a punto de convertirse en un complejo de apartamentos de lujo. El promotor quiere transformarlo en el primer refugio de supervivencia a gran escala del país, pensado para clientes con mucho dinero que temen una catástrofe. Detrás de las puertas blindadas habrá viviendas, zonas comunes y reservas de agua y de comida.\n\nEl proyecto encaja en una moda que crece desde hace años entre los más ricos: comprar un lugar seguro por si el mundo se rompe. Los críticos señalan que estos refugios venden miedo y que no resolverían nada en una crisis real, porque nadie puede vivir bajo tierra durante mucho tiempo. Sus defensores responden que se trata de una inversión inmobiliaria como cualquier otra. Mientras tanto, otros búnkeres militares abandonados esperan un destino parecido.",
+        "vocab": [
+          {
+            "front": "el refugio",
+            "pos": "noun",
+            "back": "shelter",
+            "example": "Construyeron un refugio subterráneo para el personal.",
+            "tier": "B1"
+          },
+          {
+            "front": "el búnker",
+            "pos": "noun",
+            "back": "bunker",
+            "example": "El búnker lleva cincuenta años cerrado.",
+            "tier": "B1"
+          },
+          {
+            "front": "blindado",
+            "pos": "adj",
+            "back": "armoured, reinforced",
+            "example": "La entrada tiene una puerta blindada de acero.",
+            "tier": "B2"
+          },
+          {
+            "front": "estar a punto de",
+            "pos": "phrase",
+            "back": "to be about to",
+            "example": "El edificio está a punto de cambiar de dueño.",
+            "tier": "B1"
+          },
+          {
+            "front": "el promotor",
+            "pos": "noun",
+            "back": "property developer",
+            "example": "El promotor busca inversores extranjeros.",
+            "tier": "B2"
+          },
+          {
+            "front": "la supervivencia",
+            "pos": "noun",
+            "back": "survival",
+            "example": "Hizo un curso de supervivencia en la montaña.",
+            "tier": "B2"
+          },
+          {
+            "front": "a gran escala",
+            "pos": "phrase",
+            "back": "on a large scale",
+            "example": "Es el primer proyecto de este tipo a gran escala.",
+            "tier": "B2"
+          },
+          {
+            "front": "la catástrofe",
+            "pos": "noun",
+            "back": "catastrophe, disaster",
+            "example": "Temen una catástrofe que nadie pueda controlar.",
+            "tier": "B1"
+          },
+          {
+            "front": "encajar en",
+            "pos": "verb",
+            "back": "to fit into",
+            "example": "La idea encaja en la estrategia de la empresa.",
+            "tier": "B2"
+          },
+          {
+            "front": "por si",
+            "pos": "phrase",
+            "back": "in case",
+            "example": "Llevo dinero en efectivo por si falla la tarjeta.",
+            "tier": "B1"
+          },
+          {
+            "front": "señalar",
+            "pos": "verb",
+            "back": "to point out",
+            "example": "Los expertos señalan varios errores en el plan.",
+            "tier": "B1"
+          },
+          {
+            "front": "inmobiliario",
+            "pos": "adj",
+            "back": "property, real estate (adj)",
+            "example": "El mercado inmobiliario está muy caro este año.",
+            "tier": "B2"
+          },
+          {
+            "front": "bajo tierra",
+            "pos": "phrase",
+            "back": "underground",
+            "example": "Vivir bajo tierra durante meses es muy duro.",
+            "tier": "B1"
+          },
+          {
+            "front": "la vivienda",
+            "pos": "noun",
+            "back": "home, housing unit",
+            "example": "El complejo tendrá cuarenta viviendas.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Un antiguo refugio nuclear del gobierno canadiense, construido en plena Guerra Fría en una zona rural de Nueva Escocia, está a punto de convertirse en un complejo de apartamentos de lujo.",
+            "point": "Participio en aposición y la perífrasis 'estar a punto de'",
+            "explanation": "'Construido' funciona como una oración de relativo abreviada, equivalente a 'que fue construido', y concuerda con 'refugio'; 'estar a punto de' más infinitivo indica una acción inminente.",
+            "why_tricky": "El participio suelto entre comas se parece a un verbo principal, y el aprendiz a menudo añade 'que fue', lo que suena pesado en español escrito."
+          },
+          {
+            "sentence": "El proyecto encaja en una moda que crece desde hace años entre los más ricos: comprar un lugar seguro por si el mundo se rompe.",
+            "point": "'Desde hace' con presente y el conector 'por si'",
+            "explanation": "El español usa el presente con 'desde hace' para algo que empezó antes y sigue ocurriendo; 'por si' introduce una precaución y aquí va con indicativo.",
+            "why_tricky": "El inglés usa el presente perfecto continuo, así que se cae en 'ha estado creciendo', y 'por si' se confunde con 'si' condicional."
+          },
+          {
+            "sentence": "Los críticos señalan que estos refugios venden miedo y que no resolverían nada en una crisis real, porque nadie puede vivir bajo tierra durante mucho tiempo.",
+            "point": "El condicional para una hipótesis",
+            "explanation": "'Resolverían' presenta un resultado imaginado en una situación que no ha ocurrido, mientras que 'venden' describe un hecho actual.",
+            "why_tricky": "Mezclar presente y condicional dentro de la misma frase es correcto aquí, pero suele parecer un error de concordancia temporal."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "por si acaso",
+            "meaning": "como precaución, por si ocurre algo",
+            "example": "Guarda agua en casa por si acaso."
+          },
+          {
+            "phrase": "vender miedo",
+            "meaning": "aprovechar la inseguridad de la gente para ganar dinero",
+            "example": "Muchas campañas publicitarias venden miedo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué era antes el edificio y en qué se va a convertir?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué argumento usan los críticos contra este tipo de refugios?",
+            "type": "open"
+          },
+          {
+            "q": "¿Cómo defienden el proyecto sus partidarios?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Comprarías un sitio en un refugio de lujo si tuvieras el dinero? Escribe unas 120 palabras explicando qué harías tú y por qué."
+      }
+    },
     {
       "pack_id": "feed-2026-08-08-ceuta-controles-fronterizos",
       "title": "España impone controles fronterizos a Italia y se agudiza la tensión entre Sánchez y Meloni por la llegada de migrantes a Ceuta",
@@ -345,182 +521,6 @@
           }
         ],
         "opinion_prompt": "¿Te gustaría que un aparato te diera información sobre tu salud antes que un médico? Escribe unas 120 palabras explicando qué ventajas y qué riesgos ves."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-08-supermercados-publicos-nueva-york",
-      "title": "Los comerciantes locales rechazan los supermercados públicos de Mamdani",
-      "source": "RFI Español",
-      "date": "2026-08-08",
-      "level": "B1-B2",
-      "topics": [
-        "economía",
-        "ciudades"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-08-supermercados-publicos-nueva-york",
-        "revision": 1,
-        "meta": {
-          "title": "Los comerciantes locales rechazan los supermercados públicos de Mamdani",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260807-los-comerciantes-locales-rechazan-los-supermercados-p%C3%BAblicos-de-mamdani",
-          "date_published": "2026-08-07",
-          "date_processed": "2026-08-08",
-          "tags": [
-            "economía",
-            "ciudades"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The mayor of New York has opened the first supermarket financed by the city council and in this way has kept one of his campaign promises. In that shop, local residents can buy food up to thirty per cent cheaper than in private outlets, because the premises pay no rent and seek no profit. The small shopkeepers of the neighbourhood, on the other hand, have received the news with anger, since they cannot match those prices.\n\nThe project raises a deeper question: how far should the state go to guarantee access to food? Those who defend it recall that in many poor neighbourhoods there are hardly any fruit shops or butchers. Those who criticise it warn that a subsidised shop can sink the businesses of a whole street. The council insists that this is an experiment and that it will assess the results before opening new branches.",
-        "resumen_es": "El alcalde de Nueva York ha inaugurado el primer supermercado financiado por el ayuntamiento y así ha cumplido una de sus promesas de campaña. En esa tienda los vecinos pueden comprar alimentos hasta un treinta por ciento más baratos que en los establecimientos privados, porque el local no paga alquiler ni busca beneficios. Los pequeños comerciantes del barrio, en cambio, han recibido la noticia con enfado, ya que no pueden igualar esos precios.\n\nEl proyecto plantea una pregunta de fondo: ¿hasta dónde debe llegar el Estado para garantizar el acceso a la comida? Quienes lo defienden recuerdan que en muchos barrios pobres apenas hay fruterías ni carnicerías. Quienes lo critican advierten de que una tienda subvencionada puede hundir a los negocios de toda una calle. El ayuntamiento asegura que se trata de un experimento y que evaluará los resultados antes de abrir nuevas sucursales.",
-        "vocab": [
-          {
-            "front": "el ayuntamiento",
-            "pos": "noun",
-            "back": "city council, town hall",
-            "example": "El ayuntamiento financia el proyecto con fondos propios.",
-            "tier": "B1"
-          },
-          {
-            "front": "inaugurar",
-            "pos": "verb",
-            "back": "to open, to inaugurate",
-            "example": "Inauguraron la tienda en un barrio del norte de la ciudad.",
-            "tier": "B1"
-          },
-          {
-            "front": "cumplir una promesa",
-            "pos": "phrase",
-            "back": "to keep a promise",
-            "example": "Pocos políticos cumplen todas sus promesas de campaña.",
-            "tier": "B1"
-          },
-          {
-            "front": "el establecimiento",
-            "pos": "noun",
-            "back": "shop, business premises",
-            "example": "Los establecimientos privados no pueden bajar tanto los precios.",
-            "tier": "B2"
-          },
-          {
-            "front": "el alquiler",
-            "pos": "noun",
-            "back": "rent",
-            "example": "El alquiler del local se lleva la mitad de los ingresos.",
-            "tier": "B1"
-          },
-          {
-            "front": "el beneficio",
-            "pos": "noun",
-            "back": "profit",
-            "example": "La cooperativa no reparte beneficios entre los socios.",
-            "tier": "B1"
-          },
-          {
-            "front": "igualar",
-            "pos": "verb",
-            "back": "to match, to equal",
-            "example": "Ningún comercio del barrio puede igualar esa oferta.",
-            "tier": "B2"
-          },
-          {
-            "front": "de fondo",
-            "pos": "adj",
-            "back": "underlying, fundamental",
-            "example": "El debate de fondo es el papel del Estado en la economía.",
-            "tier": "B2"
-          },
-          {
-            "front": "apenas",
-            "pos": "adv",
-            "back": "hardly, barely",
-            "example": "En ese barrio apenas quedan tiendas de alimentación.",
-            "tier": "B1"
-          },
-          {
-            "front": "la frutería",
-            "pos": "noun",
-            "back": "greengrocer's",
-            "example": "Cerró la última frutería de la calle el año pasado.",
-            "tier": "B1"
-          },
-          {
-            "front": "subvencionado",
-            "pos": "adj",
-            "back": "subsidised",
-            "example": "El transporte subvencionado cuesta la mitad.",
-            "tier": "B2"
-          },
-          {
-            "front": "hundir",
-            "pos": "verb",
-            "back": "to sink, to ruin",
-            "example": "La competencia hundió a los pequeños negocios.",
-            "tier": "B2"
-          },
-          {
-            "front": "la sucursal",
-            "pos": "noun",
-            "back": "branch (of a shop or bank)",
-            "example": "El banco cerró tres sucursales en el centro.",
-            "tier": "B2"
-          },
-          {
-            "front": "tratarse de",
-            "pos": "verb",
-            "back": "to be a question of, to be about",
-            "example": "Se trata de una prueba, no de un plan definitivo.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Los pequeños comerciantes del barrio, en cambio, han recibido la noticia con enfado, ya que no pueden igualar esos precios.",
-            "point": "Conectores de contraste y de causa",
-            "explanation": "'En cambio' marca el contraste con el grupo anterior y 'ya que' introduce la causa, con un registro algo más formal que 'porque'.",
-            "why_tricky": "'Ya que' se confunde con 'ya' temporal, y a diferencia de 'porque' puede colocarse también al principio de la frase."
-          },
-          {
-            "sentence": "Quienes lo defienden recuerdan que en muchos barrios pobres apenas hay fruterías ni carnicerías.",
-            "point": "'Quienes' como pronombre relativo sin antecedente",
-            "explanation": "'Quienes' equivale a 'las personas que' y funciona como sujeto en plural, sin necesidad de un sustantivo previo.",
-            "why_tricky": "El aprendiz suele escribir 'los que' o añadir un antecedente innecesario, y a veces olvida el plural."
-          },
-          {
-            "sentence": "El ayuntamiento asegura que se trata de un experimento y que evaluará los resultados antes de abrir nuevas sucursales.",
-            "point": "'Se trata de' impersonal y 'antes de' con infinitivo",
-            "explanation": "'Se trata de' no admite sujeto personal y significa 'es'; 'antes de abrir' lleva infinitivo porque el sujeto de las dos acciones es el mismo.",
-            "why_tricky": "Es tentador decir 'se trata un experimento' o 'antes de que abra', pero ninguna de las dos formas funciona aquí."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "una pregunta de fondo",
-            "meaning": "la cuestión esencial que hay detrás de un debate",
-            "example": "La pregunta de fondo es quién paga al final."
-          },
-          {
-            "phrase": "hasta dónde llegar",
-            "meaning": "cuál es el límite razonable de una acción",
-            "example": "Nadie sabe hasta dónde llegar con las ayudas públicas."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué los precios del supermercado municipal son más bajos?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué temen los pequeños comerciantes del barrio?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué argumento usan quienes defienden el proyecto?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Debería un ayuntamiento vender comida más barata que las tiendas privadas? Escribe unas 120 palabras con tu opinión y al menos un argumento en contra."
       }
     },
     {
