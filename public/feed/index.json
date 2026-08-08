@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T20:10:00.398979Z",
+ "generated_at": "2026-08-08T20:14:11.563189Z",
  "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
  "packs": [
   {
@@ -165,168 +165,6 @@
    }
   },
   {
-   "pack_id": "feed-2026-08-08-infantino-final-mundial-2030",
-   "title": "Gianni Infantino, acusado de haber prometido la final del Mundial 2030 a Marruecos",
-   "source": "RFI Español",
-   "date": "2026-08-08",
-   "level": "B1-B2",
-   "topics": [
-    "deporte",
-    "polemica"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-08-08-infantino-final-mundial-2030",
-    "revision": 1,
-    "meta": {
-     "title": "Gianni Infantino, acusado de haber prometido la final del Mundial 2030 a Marruecos",
-     "source": "RFI Español",
-     "url": "https://www.rfi.fr/es/deportes/20260806-gianni-infantino-acusado-de-haber-prometido-la-final-del-mundial-2030-a-marruecos",
-     "date_published": "2026-08-06",
-     "date_processed": "2026-08-08",
-     "tags": [
-      "deporte",
-      "polemica"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "The president of FIFA, Gianni Infantino, is at the centre of a controversy over the venue for the 2030 World Cup final. According to the reports that have been published, he is accused of having promised that match to Morocco, one of the host countries, without respecting the usual procedures. The official called an emergency meeting on Moroccan soil with senior figures from the organisation in order to try to calm things down.\n\nThe 2030 World Cup will be the first one shared between several continents, with Spain, Portugal and Morocco as the main hosts. Choosing the venue for the final is no small detail: it involves revenue, prestige and huge investment in stadiums and infrastructure. If the accusations are confirmed, FIFA will once again face the criticism over lack of transparency that has followed it for years. For now, the organisation has not set a date for taking the final decision.",
-    "resumen_es": "El presidente de la FIFA, Gianni Infantino, está en el centro de una polémica por la sede de la final del Mundial de 2030. Según las informaciones publicadas, se le acusa de haber prometido ese partido a Marruecos, uno de los países organizadores, sin respetar los procedimientos habituales. El dirigente convocó una reunión de urgencia en territorio marroquí con altos cargos de la organización para tratar de calmar las aguas.\n\nEl Mundial de 2030 será el primero repartido entre varios continentes, con España, Portugal y Marruecos como anfitriones principales. Elegir la sede de la final no es un detalle menor: implica ingresos, prestigio e inversiones enormes en estadios e infraestructuras. Si las acusaciones se confirman, la FIFA volverá a enfrentarse a las críticas por falta de transparencia que la persiguen desde hace años. De momento, la organización no ha fijado una fecha para tomar la decisión definitiva.",
-    "vocab": [
-     {
-      "front": "la sede",
-      "pos": "noun",
-      "back": "venue, headquarters",
-      "example": "La sede de la cumbre todavía no está decidida.",
-      "tier": "B1"
-     },
-     {
-      "front": "acusar a alguien de algo",
-      "pos": "verb",
-      "back": "to accuse someone of something",
-      "example": "Lo acusan de haber falsificado las facturas.",
-      "tier": "B1"
-     },
-     {
-      "front": "el dirigente",
-      "pos": "noun",
-      "back": "leader, senior official",
-      "example": "Los dirigentes del partido se reunieron a puerta cerrada.",
-      "tier": "B2"
-     },
-     {
-      "front": "convocar",
-      "pos": "verb",
-      "back": "to call, to convene",
-      "example": "El sindicato convocó una huelga para el lunes.",
-      "tier": "B2"
-     },
-     {
-      "front": "los altos cargos",
-      "pos": "phrase",
-      "back": "senior officials",
-      "example": "Los altos cargos cobraron primas millonarias.",
-      "tier": "B2"
-     },
-     {
-      "front": "el anfitrión",
-      "pos": "noun",
-      "back": "host",
-      "example": "El país anfitrión asume gran parte de los gastos.",
-      "tier": "B1"
-     },
-     {
-      "front": "los ingresos",
-      "pos": "noun",
-      "back": "income, revenue",
-      "example": "Los ingresos por publicidad cayeron un diez por ciento.",
-      "tier": "B1"
-     },
-     {
-      "front": "la falta de transparencia",
-      "pos": "phrase",
-      "back": "lack of transparency",
-      "example": "La falta de transparencia alimenta las sospechas.",
-      "tier": "B2"
-     },
-     {
-      "front": "perseguir",
-      "pos": "verb",
-      "back": "to chase, to dog someone",
-      "example": "Esa fama lo persigue desde su primer disco.",
-      "tier": "B2"
-     },
-     {
-      "front": "fijar una fecha",
-      "pos": "phrase",
-      "back": "to set a date",
-      "example": "Todavía no han fijado una fecha para el juicio.",
-      "tier": "B1"
-     },
-     {
-      "front": "el procedimiento",
-      "pos": "noun",
-      "back": "procedure",
-      "example": "El procedimiento habitual exige tres presupuestos.",
-      "tier": "B1"
-     },
-     {
-      "front": "de momento",
-      "pos": "phrase",
-      "back": "for the time being",
-      "example": "De momento no hay novedades.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Según las informaciones publicadas, se le acusa de haber prometido ese partido a Marruecos, uno de los países organizadores, sin respetar los procedimientos habituales.",
-      "point": "Impersonal se plus perfect infinitive",
-      "explanation": "Se le acusa is an impersonal construction: someone accuses him, without naming who. Haber prometido is the perfect infinitive and places the action before the accusation.",
-      "why_tricky": "Learners often write se acusa a él or use the simple infinitive prometer, which loses the sense that the promise happened earlier."
-     },
-     {
-      "sentence": "Si las acusaciones se confirman, la FIFA volverá a enfrentarse a las críticas por falta de transparencia que la persiguen desde hace años.",
-      "point": "Real conditional plus volver a plus infinitive",
-      "explanation": "The first type conditional pairs a present tense in the si clause with a future in the main clause. Volver a enfrentarse means to face something again.",
-      "why_tricky": "Spanish never uses the future after si here, and volver a plus infinitive has no direct English equivalent, so learners reach for otra vez instead."
-     },
-     {
-      "sentence": "De momento, la organización no ha fijado una fecha para tomar la decisión definitiva.",
-      "point": "Present perfect for an open period",
-      "explanation": "No ha fijado uses the present perfect because the time frame, up to now, is still open and connected to the present.",
-      "why_tricky": "In much of Latin America the simple past would be normal here, so learners get mixed signals about when to use ha fijado versus fijó."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "calmar las aguas",
-      "meaning": "to calm things down after a row",
-      "example": "El entrenador salió a calmar las aguas tras la derrota."
-     },
-     {
-      "phrase": "no ser un detalle menor",
-      "meaning": "to be far from a minor issue",
-      "example": "El precio no es un detalle menor en esta negociación."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿De qué se acusa exactamente a Gianni Infantino?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué es importante para un país acoger la final de un Mundial?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué tendría que pasar para que la FIFA volviera a ser criticada, según el texto?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Escribe unas 120 palabras: ¿deberían los grandes torneos deportivos repartirse entre varios países? Da al menos dos argumentos a favor y uno en contra."
-   }
-  },
-  {
    "pack_id": "feed-2026-08-08-ley-medios-mexico-audiencias",
    "title": "Ley de medios en México: ¿Defensa de la audiencia o intento de censura?",
    "source": "RFI Español",
@@ -486,6 +324,168 @@
      }
     ],
     "opinion_prompt": "Escribe unas 120 palabras: ¿cómo se puede proteger al público de la desinformación sin poner en riesgo la libertad de expresión? Propón una medida concreta y justifícala."
+   }
+  },
+  {
+   "pack_id": "feed-2026-08-08-dron-aeropuerto-leipzig",
+   "title": "Alemania investiga el origen del dron explosivo que paralizó el aeropuerto de Leipzig",
+   "source": "RFI Español",
+   "date": "2026-08-08",
+   "level": "B1-B2",
+   "topics": [
+    "seguridad",
+    "europa"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-08-dron-aeropuerto-leipzig",
+    "revision": 1,
+    "meta": {
+     "title": "Alemania investiga el origen del dron explosivo que paralizó el aeropuerto de Leipzig",
+     "source": "RFI Español",
+     "url": "https://www.rfi.fr/es/europa/20260806-alemania-investiga-el-origen-del-dron-explosivo-que-paraliz%C3%B3-el-aeropuerto-de-leipzig",
+     "date_published": "2026-08-06",
+     "date_processed": "2026-08-08",
+     "tags": [
+      "seguridad",
+      "europa"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "The German authorities are investigating who sent the explosive drone that forced Leipzig airport to close for hours. According to the police, the device was next to four Ukrainian cargo planes and was blown up in a controlled way by the bomb squad. The closure of the airfield caused delays and diversions, and for now nobody has claimed responsibility for the action.\n\nThe case is worrying because Leipzig is a key logistics hub for the transport of goods in Europe. In recent years drone sightings over airports, military bases and industrial sites have multiplied, and European police forces admit that detecting them in time is still difficult. Several governments are looking at extending anti drone systems and toughening the penalties for flying in restricted areas. In the meantime, investigators are trying to reconstruct where the device came from and who was operating it.",
+    "resumen_es": "Las autoridades alemanas investigan quién envió el dron explosivo que obligó a cerrar durante horas el aeropuerto de Leipzig. Según la policía, el aparato se encontraba junto a cuatro aviones de carga ucranianos y fue detonado de forma controlada por los artificieros. El cierre del aeródromo provocó retrasos y desvíos, y por ahora nadie ha reivindicado la acción.\n\nEl caso preocupa porque Leipzig es un nudo logístico clave para el transporte de mercancías en Europa. En los últimos años se han multiplicado los avistamientos de drones sobre aeropuertos, bases militares e instalaciones industriales, y las policías europeas reconocen que detectarlos a tiempo sigue siendo difícil. Varios gobiernos estudian ampliar los sistemas antidrón y endurecer las penas por volar en zonas prohibidas. Mientras tanto, los investigadores intentan reconstruir de dónde salió el aparato y quién lo manejaba.",
+    "vocab": [
+     {
+      "front": "el aparato",
+      "pos": "noun",
+      "back": "device, machine",
+      "example": "El aparato dejó de funcionar a los dos días.",
+      "tier": "B1"
+     },
+     {
+      "front": "obligar a",
+      "pos": "verb",
+      "back": "to force to",
+      "example": "La niebla obligó a suspender los vuelos.",
+      "tier": "B1"
+     },
+     {
+      "front": "el retraso",
+      "pos": "noun",
+      "back": "delay",
+      "example": "El tren lleva veinte minutos de retraso.",
+      "tier": "B1"
+     },
+     {
+      "front": "el desvío",
+      "pos": "noun",
+      "back": "diversion, detour",
+      "example": "Hay un desvío por obras en la carretera.",
+      "tier": "B2"
+     },
+     {
+      "front": "reivindicar",
+      "pos": "verb",
+      "back": "to claim responsibility for, to demand",
+      "example": "Ningún grupo reivindicó el atentado.",
+      "tier": "B2"
+     },
+     {
+      "front": "el nudo logístico",
+      "pos": "phrase",
+      "back": "logistics hub",
+      "example": "El puerto es un nudo logístico para toda la región.",
+      "tier": "B2"
+     },
+     {
+      "front": "las mercancías",
+      "pos": "noun",
+      "back": "goods, freight",
+      "example": "El tren de mercancías pasa de madrugada.",
+      "tier": "B1"
+     },
+     {
+      "front": "el avistamiento",
+      "pos": "noun",
+      "back": "sighting",
+      "example": "Hubo varios avistamientos de ballenas esta semana.",
+      "tier": "B2"
+     },
+     {
+      "front": "endurecer",
+      "pos": "verb",
+      "back": "to toughen, to tighten",
+      "example": "El Gobierno quiere endurecer las multas de tráfico.",
+      "tier": "B2"
+     },
+     {
+      "front": "la pena",
+      "pos": "noun",
+      "back": "penalty, sentence",
+      "example": "La pena puede llegar a cinco años de cárcel.",
+      "tier": "B1"
+     },
+     {
+      "front": "manejar",
+      "pos": "verb",
+      "back": "to operate, to handle",
+      "example": "No sé manejar esta máquina.",
+      "tier": "B1"
+     },
+     {
+      "front": "a tiempo",
+      "pos": "phrase",
+      "back": "in time",
+      "example": "Llegamos a tiempo de coger el último tren.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Según la policía, el aparato se encontraba junto a cuatro aviones de carga ucranianos y fue detonado de forma controlada por los artificieros.",
+      "point": "Passive with ser plus por",
+      "explanation": "Fue detonado is the true passive: ser plus participle, with the agent introduced by por. The participle agrees with el aparato.",
+      "why_tricky": "Spanish prefers the reflexive passive in speech, so learners rarely produce fue detonado, yet it is standard in news writing."
+     },
+     {
+      "sentence": "En los últimos años se han multiplicado los avistamientos de drones sobre aeropuertos, bases militares e instalaciones industriales, y las policías europeas reconocen que detectarlos a tiempo sigue siendo difícil.",
+      "point": "Reflexive passive plus e before i",
+      "explanation": "Se han multiplicado is a passive with se, and the subject is los avistamientos, so the verb is plural. Y becomes e before a word starting with i sound: bases militares e instalaciones.",
+      "why_tricky": "Learners keep y before instalaciones and make the verb singular because se looks like a singular marker."
+     },
+     {
+      "sentence": "Mientras tanto, los investigadores intentan reconstruir de dónde salió el aparato y quién lo manejaba.",
+      "point": "Indirect questions with written accent",
+      "explanation": "Dónde and quién keep their accent inside an indirect question. The preposition de comes before dónde because salir de is the natural pair.",
+      "why_tricky": "Learners drop the accents once the question mark disappears, but in Spanish the accent marks the question word, not the punctuation."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "a tiempo",
+      "meaning": "early enough to avoid a problem",
+      "example": "Si lo detectamos a tiempo, no pasa nada."
+     },
+     {
+      "phrase": "por ahora",
+      "meaning": "for the time being",
+      "example": "Por ahora no hay ningún detenido."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Qué ocurrió en el aeropuerto de Leipzig y cómo actuó la policía?",
+      "type": "open"
+     },
+     {
+      "q": "¿Por qué es especialmente delicado que el incidente ocurriera en Leipzig?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué medidas estudian varios gobiernos europeos frente a los drones?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Escribe unas 120 palabras: ¿hasta dónde deberían llegar las restricciones al uso de drones civiles? Da dos argumentos y pon un ejemplo concreto."
    }
   },
   {
