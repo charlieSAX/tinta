@@ -1,167 +1,174 @@
 {
- "generated_at": "2026-08-09T08:12:28.636Z",
+ "generated_at": "2026-08-09T08:15:55.577Z",
  "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
  "packs": [
   {
-   "pack_id": "feed-2026-08-09-kalshi-multimillonaria-ballet",
-   "title": "Luana Lopes Lara, la bailarina de ballet que se convirtió en la multimillonaria más joven del mundo con una empresa muy controvertida",
+   "pack_id": "feed-2026-08-09-soldados-heridos-rusia-frente",
+   "title": "Atrapados en la guerra: los soldados heridos que Rusia vuelve a enviar al frente de batalla con Ucrania",
    "source": "BBC Mundo",
    "date": "2026-08-09",
    "level": "B1-B2",
    "topics": [
-    "negocios",
-    "tecnología"
+    "guerra",
+    "derechos"
    ],
    "pack": {
-    "pack_id": "feed-2026-08-09-kalshi-multimillonaria-ballet",
+    "pack_id": "feed-2026-08-09-soldados-heridos-rusia-frente",
     "revision": 1,
     "meta": {
-     "title": "Luana Lopes Lara, la bailarina de ballet que se convirtió en la multimillonaria más joven del mundo con una empresa muy controvertida",
+     "title": "Atrapados en la guerra: los soldados heridos que Rusia vuelve a enviar al frente de batalla con Ucrania",
      "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/cj635znkreyo?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-08-02",
+     "url": "https://www.bbc.com/mundo/articles/c74gjmm9gdro?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-08-06",
      "date_processed": "2026-08-09",
      "tags": [
-      "negocios",
-      "tecnología"
+      "guerra",
+      "derechos"
      ],
      "level": "B1-B2"
     },
-    "summary_en": "Luana Lopes Lara has become the youngest billionaire in the world thanks to Kalshi, the prediction markets platform she co-founded. Before going into business she trained as a ballet dancer, a discipline she left behind in order to study and, soon afterwards, to launch a company that has turned out to be as profitable as it is controversial. Her idea was to let people bet on future events, something that initially clashed with the rules in force.\n\nTo get it off the ground, the company had to fight in the courts until it won a legal change that opened the door to this kind of market in the United States. Since then the business has grown quickly, although not everyone approves of it: some argue that it looks too much like a bookmaker and warn of the risk of trivialising gambling. What is clear is that her path, from the stage to the boardroom, has become a much discussed case.",
-    "resumen_es": "Luana Lopes Lara se ha convertido en la multimillonaria más joven del mundo gracias a Kalshi, la plataforma de mercados de predicción que cofundó. Antes de dedicarse a los negocios se formó como bailarina de ballet, una disciplina que dejó atrás para lanzar una empresa tan rentable como polémica. Su idea consistía en permitir que la gente apostara sobre acontecimientos futuros, algo que al principio chocaba con la normativa vigente.\n\nPara sacarla adelante, la empresa tuvo que pelear en los tribunales hasta lograr un cambio legal que abrió la puerta a estos mercados en Estados Unidos. Desde entonces el negocio ha crecido muy rápido, aunque no todo el mundo lo ve con buenos ojos: hay quienes sostienen que se parece demasiado a las casas de apuestas y advierten del riesgo de banalizar el juego. Su trayectoria, del escenario a la sala de juntas, ya es un caso muy comentado.",
+    "summary_en": "BBC News Russia has had access to court documents that reveal repeated accusations against the Russian army: wounded soldiers were sent back into combat in Ukraine instead of undergoing the medical assessments the law requires. The papers describe men who complained of injuries that had not healed and who were ordered back to their units anyway, sometimes under threat of being treated as deserters.\n\nThe cases have reached the courts because some of those soldiers refused to obey and were prosecuted. Their lawyers argue that without a proper medical report no one can decide whether a soldier is fit to fight, and that skipping that step turns a legal right into a formality. For the families, the hardest part is the feeling of being trapped: complaining is risky, keeping quiet means going back to the front. The outcome of these trials could set a precedent for many more.",
+    "resumen_es": "BBC News Rusia ha tenido acceso a documentos judiciales que revelan acusaciones reiteradas contra el ejército ruso: soldados heridos fueron devueltos al combate en Ucrania en lugar de pasar las evaluaciones médicas que exige la ley. Los papeles describen a hombres que se quejaban de lesiones mal curadas y a los que se ordenaba regresar igualmente a su unidad, a veces bajo la amenaza de ser tratados como desertores.\n\nLos casos han llegado a los tribunales porque algunos de esos soldados se negaron a obedecer y acabaron procesados. Sus abogados sostienen que sin un informe médico nadie puede decidir si un soldado está en condiciones de combatir, y que saltarse ese paso convierte un derecho en un simple trámite. Para las familias, lo más duro es la sensación de estar atrapadas: quejarse resulta arriesgado y callar significa volver al frente. El resultado de estos juicios podría sentar un precedente.",
     "vocab": [
      {
-      "front": "la cofundadora",
+      "front": "el frente",
       "pos": "noun",
-      "back": "co-founder (female)",
-      "example": "La cofundadora explicó el proyecto ante los inversores.",
-      "tier": "B2"
+      "back": "the front line",
+      "example": "Lo enviaron al frente después de dos semanas.",
+      "tier": "B1"
      },
      {
-      "front": "rentable",
+      "front": "la lesión",
+      "pos": "noun",
+      "back": "injury",
+      "example": "La lesión no le permitía caminar bien.",
+      "tier": "B1"
+     },
+     {
+      "front": "mal curado",
       "pos": "adj",
-      "back": "profitable",
-      "example": "El negocio se volvió rentable en menos de dos años.",
-      "tier": "B1"
+      "back": "badly healed, not properly treated",
+      "example": "Volvió a trabajar con el brazo mal curado.",
+      "tier": "B2"
      },
      {
-      "front": "apostar",
+      "front": "el desertor",
+      "pos": "noun",
+      "back": "deserter",
+      "example": "Lo acusaron de desertor sin pruebas.",
+      "tier": "B2"
+     },
+     {
+      "front": "procesar a alguien",
       "pos": "verb",
-      "back": "to bet",
-      "example": "Mucha gente apuesta sobre el resultado de las elecciones.",
+      "back": "to prosecute someone",
+      "example": "Fue procesado por desobedecer una orden.",
+      "tier": "B2"
+     },
+     {
+      "front": "negarse a",
+      "pos": "verb",
+      "back": "to refuse to",
+      "example": "Se negó a firmar el documento.",
       "tier": "B1"
      },
      {
-      "front": "la normativa vigente",
+      "front": "el informe médico",
+      "pos": "noun",
+      "back": "medical report",
+      "example": "Sin informe médico no puede salir del hospital.",
+      "tier": "B1"
+     },
+     {
+      "front": "estar en condiciones de",
       "pos": "phrase",
-      "back": "the rules currently in force",
-      "example": "El proyecto no encajaba en la normativa vigente.",
+      "back": "to be fit to, to be in a position to",
+      "example": "No está en condiciones de viajar.",
+      "tier": "B2"
+     },
+     {
+      "front": "saltarse un paso",
+      "pos": "phrase",
+      "back": "to skip a step",
+      "example": "Se saltaron un paso del procedimiento.",
+      "tier": "B2"
+     },
+     {
+      "front": "el trámite",
+      "pos": "noun",
+      "back": "formality, paperwork step",
+      "example": "Es solo un trámite, no tardará nada.",
+      "tier": "B2"
+     },
+     {
+      "front": "sentar un precedente",
+      "pos": "phrase",
+      "back": "to set a precedent",
+      "example": "La sentencia puede sentar un precedente importante.",
       "tier": "C1"
      },
      {
-      "front": "sacar adelante",
-      "pos": "phrase",
-      "back": "to get something off the ground, to make it work",
-      "example": "Costó mucho sacar adelante la empresa familiar.",
-      "tier": "B2"
-     },
-     {
-      "front": "los tribunales",
-      "pos": "noun",
-      "back": "the courts",
-      "example": "El caso terminó en los tribunales.",
-      "tier": "B1"
-     },
-     {
-      "front": "chocar con",
-      "pos": "verb",
-      "back": "to clash with",
-      "example": "La propuesta choca con la ley actual.",
-      "tier": "B2"
-     },
-     {
-      "front": "banalizar",
-      "pos": "verb",
-      "back": "to trivialise",
-      "example": "No conviene banalizar un problema tan serio.",
+      "front": "reiterado",
+      "pos": "adj",
+      "back": "repeated",
+      "example": "Recibió avisos reiterados de la empresa.",
       "tier": "C1"
      },
      {
-      "front": "la casa de apuestas",
-      "pos": "noun",
-      "back": "betting shop, bookmaker",
-      "example": "Las casas de apuestas se han multiplicado en el barrio.",
-      "tier": "B2"
-     },
-     {
-      "front": "la trayectoria",
-      "pos": "noun",
-      "back": "career path, track record",
-      "example": "Su trayectoria profesional sorprende a todos.",
-      "tier": "B1"
-     },
-     {
-      "front": "la sala de juntas",
-      "pos": "noun",
-      "back": "boardroom",
-      "example": "La decisión se tomó en la sala de juntas.",
-      "tier": "B2"
-     },
-     {
-      "front": "advertir de",
+      "front": "quejarse de",
       "pos": "verb",
-      "back": "to warn about",
-      "example": "Los expertos advierten del riesgo de invertir sin información.",
-      "tier": "B2"
+      "back": "to complain about",
+      "example": "Los vecinos se quejan del ruido.",
+      "tier": "B1"
      }
     ],
     "grammar": [
      {
-      "sentence": "Su idea consistía en permitir que la gente apostara sobre acontecimientos futuros",
-      "point": "consistir en + infinitivo, y permitir que + imperfecto de subjuntivo",
-      "explanation": "Consistir siempre lleva la preposición en delante del infinitivo. Como el verbo principal está en pasado (consistía), la subordinada introducida por permitir que exige el imperfecto de subjuntivo: apostara.",
-      "why_tricky": "En inglés se dice to allow people to bet, con infinitivo. En español, cuando hay dos sujetos distintos, es obligatorio usar que y subjuntivo, y el tiempo se ajusta al del verbo principal."
+      "sentence": "soldados heridos fueron devueltos al combate en Ucrania en lugar de pasar las evaluaciones médicas que exige la ley",
+      "point": "pasiva con ser y en lugar de + infinitivo",
+      "explanation": "Fueron devueltos es una pasiva perifrástica: ser más participio, concordado con el sujeto plural masculino. En lugar de introduce siempre un infinitivo cuando el sujeto se sobreentiende.",
+      "why_tricky": "El español prefiere normalmente la pasiva refleja (se devolvió a los soldados). La pasiva con ser suena formal y aparece sobre todo en la prensa escrita."
      },
      {
-      "sentence": "Para sacarla adelante, la empresa tuvo que pelear en los tribunales",
-      "point": "pronombre de objeto dentro de una locución verbal",
-      "explanation": "Sacar adelante es una locución de dos piezas. El pronombre la se coloca pegado al infinitivo y antes del adverbio: sacarla adelante, nunca sacar la adelante.",
-      "why_tricky": "El estudiante tiende a separar la locución o a poner el pronombre delante del grupo entero. Con infinitivo, el pronombre va enclítico al verbo, no a la locución completa."
+      "sentence": "a los que se ordenaba regresar igualmente a su unidad",
+      "point": "relativo con preposición y pasiva refleja impersonal",
+      "explanation": "A los que combina la preposición que pide ordenar (ordenar algo a alguien) con el relativo. Se ordenaba no dice quién da la orden y funciona como impersonal.",
+      "why_tricky": "El estudiante suele escribir que se ordenaba, olvidando la preposición a, que aquí es obligatoria porque los soldados son el destinatario de la orden."
      },
      {
-      "sentence": "hay quienes sostienen que se parece demasiado a las casas de apuestas",
-      "point": "hay quienes + indicativo",
-      "explanation": "Hay quienes equivale a there are people who. Cuando el hablante presenta esa opinión como un hecho constatado, el verbo va en indicativo: sostienen.",
-      "why_tricky": "Con expresiones indefinidas parecidas (busco a alguien que sostenga...) se usa subjuntivo, así que la elección depende de si el grupo existe realmente o solo se imagina."
+      "sentence": "sin un informe médico nadie puede decidir si un soldado está en condiciones de combatir",
+      "point": "sin + sustantivo con valor condicional e interrogativa indirecta con si",
+      "explanation": "Sin un informe médico equivale a si no hay un informe médico. El si posterior introduce una pregunta indirecta y va en indicativo: está.",
+      "why_tricky": "Aparecen dos valores distintos en la misma frase: una condición implícita y una pregunta indirecta, y solo el segundo si se traduce por whether."
      }
     ],
     "idioms": [
      {
-      "phrase": "ver algo con buenos ojos",
-      "meaning": "to approve of something, to look kindly on it",
-      "example": "Los vecinos no ven con buenos ojos la nueva ordenanza."
+      "phrase": "sentar un precedente",
+      "meaning": "to set a precedent for future cases",
+      "example": "El fallo sentó un precedente en todo el país."
      },
      {
-      "phrase": "abrir la puerta a algo",
-      "meaning": "to pave the way for something",
-      "example": "La sentencia abrió la puerta a decenas de demandas similares."
+      "phrase": "estar atrapado",
+      "meaning": "to be trapped, with no good option",
+      "example": "Se sintió atrapado entre el trabajo y la familia."
      }
     ],
     "comprehension": [
      {
-      "q": "¿Por qué resulta polémica la empresa que cofundó Luana Lopes Lara?",
+      "q": "¿Qué revelan los documentos judiciales a los que tuvo acceso la BBC?",
       "type": "open"
      },
      {
-      "q": "¿Qué papel tuvieron los tribunales en el crecimiento del negocio?",
+      "q": "¿Por qué algunos soldados acabaron procesados?",
       "type": "open"
      },
      {
-      "q": "¿Qué contraste ve el texto entre su formación y su vida actual?",
+      "q": "¿Qué argumento utilizan los abogados de los soldados?",
       "type": "open"
      }
     ],
-    "opinion_prompt": "¿Crees que los mercados de predicción deberían regularse igual que las casas de apuestas? Escribe unas 120 palabras defendiendo tu postura con al menos dos argumentos."
+    "opinion_prompt": "¿Qué garantías debería tener un soldado herido antes de volver al servicio activo? Escribe unas 120 palabras explicando tu postura."
    }
   },
   {
