@@ -1,7 +1,500 @@
 {
- "generated_at": "2026-08-08T20:14:11.563189Z",
+ "generated_at": "2026-08-09T08:12:28.636Z",
  "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-08-09-kalshi-multimillonaria-ballet",
+   "title": "Luana Lopes Lara, la bailarina de ballet que se convirtió en la multimillonaria más joven del mundo con una empresa muy controvertida",
+   "source": "BBC Mundo",
+   "date": "2026-08-09",
+   "level": "B1-B2",
+   "topics": [
+    "negocios",
+    "tecnología"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-09-kalshi-multimillonaria-ballet",
+    "revision": 1,
+    "meta": {
+     "title": "Luana Lopes Lara, la bailarina de ballet que se convirtió en la multimillonaria más joven del mundo con una empresa muy controvertida",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/cj635znkreyo?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-08-02",
+     "date_processed": "2026-08-09",
+     "tags": [
+      "negocios",
+      "tecnología"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "Luana Lopes Lara has become the youngest billionaire in the world thanks to Kalshi, the prediction markets platform she co-founded. Before going into business she trained as a ballet dancer, a discipline she left behind in order to study and, soon afterwards, to launch a company that has turned out to be as profitable as it is controversial. Her idea was to let people bet on future events, something that initially clashed with the rules in force.\n\nTo get it off the ground, the company had to fight in the courts until it won a legal change that opened the door to this kind of market in the United States. Since then the business has grown quickly, although not everyone approves of it: some argue that it looks too much like a bookmaker and warn of the risk of trivialising gambling. What is clear is that her path, from the stage to the boardroom, has become a much discussed case.",
+    "resumen_es": "Luana Lopes Lara se ha convertido en la multimillonaria más joven del mundo gracias a Kalshi, la plataforma de mercados de predicción que cofundó. Antes de dedicarse a los negocios se formó como bailarina de ballet, una disciplina que dejó atrás para lanzar una empresa tan rentable como polémica. Su idea consistía en permitir que la gente apostara sobre acontecimientos futuros, algo que al principio chocaba con la normativa vigente.\n\nPara sacarla adelante, la empresa tuvo que pelear en los tribunales hasta lograr un cambio legal que abrió la puerta a estos mercados en Estados Unidos. Desde entonces el negocio ha crecido muy rápido, aunque no todo el mundo lo ve con buenos ojos: hay quienes sostienen que se parece demasiado a las casas de apuestas y advierten del riesgo de banalizar el juego. Su trayectoria, del escenario a la sala de juntas, ya es un caso muy comentado.",
+    "vocab": [
+     {
+      "front": "la cofundadora",
+      "pos": "noun",
+      "back": "co-founder (female)",
+      "example": "La cofundadora explicó el proyecto ante los inversores.",
+      "tier": "B2"
+     },
+     {
+      "front": "rentable",
+      "pos": "adj",
+      "back": "profitable",
+      "example": "El negocio se volvió rentable en menos de dos años.",
+      "tier": "B1"
+     },
+     {
+      "front": "apostar",
+      "pos": "verb",
+      "back": "to bet",
+      "example": "Mucha gente apuesta sobre el resultado de las elecciones.",
+      "tier": "B1"
+     },
+     {
+      "front": "la normativa vigente",
+      "pos": "phrase",
+      "back": "the rules currently in force",
+      "example": "El proyecto no encajaba en la normativa vigente.",
+      "tier": "C1"
+     },
+     {
+      "front": "sacar adelante",
+      "pos": "phrase",
+      "back": "to get something off the ground, to make it work",
+      "example": "Costó mucho sacar adelante la empresa familiar.",
+      "tier": "B2"
+     },
+     {
+      "front": "los tribunales",
+      "pos": "noun",
+      "back": "the courts",
+      "example": "El caso terminó en los tribunales.",
+      "tier": "B1"
+     },
+     {
+      "front": "chocar con",
+      "pos": "verb",
+      "back": "to clash with",
+      "example": "La propuesta choca con la ley actual.",
+      "tier": "B2"
+     },
+     {
+      "front": "banalizar",
+      "pos": "verb",
+      "back": "to trivialise",
+      "example": "No conviene banalizar un problema tan serio.",
+      "tier": "C1"
+     },
+     {
+      "front": "la casa de apuestas",
+      "pos": "noun",
+      "back": "betting shop, bookmaker",
+      "example": "Las casas de apuestas se han multiplicado en el barrio.",
+      "tier": "B2"
+     },
+     {
+      "front": "la trayectoria",
+      "pos": "noun",
+      "back": "career path, track record",
+      "example": "Su trayectoria profesional sorprende a todos.",
+      "tier": "B1"
+     },
+     {
+      "front": "la sala de juntas",
+      "pos": "noun",
+      "back": "boardroom",
+      "example": "La decisión se tomó en la sala de juntas.",
+      "tier": "B2"
+     },
+     {
+      "front": "advertir de",
+      "pos": "verb",
+      "back": "to warn about",
+      "example": "Los expertos advierten del riesgo de invertir sin información.",
+      "tier": "B2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Su idea consistía en permitir que la gente apostara sobre acontecimientos futuros",
+      "point": "consistir en + infinitivo, y permitir que + imperfecto de subjuntivo",
+      "explanation": "Consistir siempre lleva la preposición en delante del infinitivo. Como el verbo principal está en pasado (consistía), la subordinada introducida por permitir que exige el imperfecto de subjuntivo: apostara.",
+      "why_tricky": "En inglés se dice to allow people to bet, con infinitivo. En español, cuando hay dos sujetos distintos, es obligatorio usar que y subjuntivo, y el tiempo se ajusta al del verbo principal."
+     },
+     {
+      "sentence": "Para sacarla adelante, la empresa tuvo que pelear en los tribunales",
+      "point": "pronombre de objeto dentro de una locución verbal",
+      "explanation": "Sacar adelante es una locución de dos piezas. El pronombre la se coloca pegado al infinitivo y antes del adverbio: sacarla adelante, nunca sacar la adelante.",
+      "why_tricky": "El estudiante tiende a separar la locución o a poner el pronombre delante del grupo entero. Con infinitivo, el pronombre va enclítico al verbo, no a la locución completa."
+     },
+     {
+      "sentence": "hay quienes sostienen que se parece demasiado a las casas de apuestas",
+      "point": "hay quienes + indicativo",
+      "explanation": "Hay quienes equivale a there are people who. Cuando el hablante presenta esa opinión como un hecho constatado, el verbo va en indicativo: sostienen.",
+      "why_tricky": "Con expresiones indefinidas parecidas (busco a alguien que sostenga...) se usa subjuntivo, así que la elección depende de si el grupo existe realmente o solo se imagina."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "ver algo con buenos ojos",
+      "meaning": "to approve of something, to look kindly on it",
+      "example": "Los vecinos no ven con buenos ojos la nueva ordenanza."
+     },
+     {
+      "phrase": "abrir la puerta a algo",
+      "meaning": "to pave the way for something",
+      "example": "La sentencia abrió la puerta a decenas de demandas similares."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Por qué resulta polémica la empresa que cofundó Luana Lopes Lara?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué papel tuvieron los tribunales en el crecimiento del negocio?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué contraste ve el texto entre su formación y su vida actual?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Crees que los mercados de predicción deberían regularse igual que las casas de apuestas? Escribe unas 120 palabras defendiendo tu postura con al menos dos argumentos."
+   }
+  },
+  {
+   "pack_id": "feed-2026-08-09-cohete-spacex-luna",
+   "title": "Qué puede aprender la ciencia del choque contra la Luna de un cohete de SpaceX que estaba a la deriva",
+   "source": "BBC Mundo",
+   "date": "2026-08-09",
+   "level": "B1-B2",
+   "topics": [
+    "ciencia",
+    "espacio"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-09-cohete-spacex-luna",
+    "revision": 1,
+    "meta": {
+     "title": "Qué puede aprender la ciencia del choque contra la Luna de un cohete de SpaceX que estaba a la deriva",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/c4g3764dm5do?at_medium=RSS&at_campaign=rss",
+     "date_published": "2026-08-05",
+     "date_processed": "2026-08-09",
+     "tags": [
+      "ciencia",
+      "espacio"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "A SpaceX rocket that had spent years adrift in space finally crashed into the Moon on Wednesday. The impact poses no danger to Earth, but it has aroused enormous interest among astronomers, who had been tracking the object for months. Unlike the countless meteorite strikes the Moon has suffered over millions of years, in this case scientists knew beforehand where and when it was going to happen.\n\nThat advantage turns the event into a kind of open air experiment. By observing the freshly formed crater, researchers can check how the lunar soil behaves under a high speed blow and fine tune the models used to calculate the age of other surfaces in the solar system. The episode also revives the debate about space junk, since there are more and more pieces of rockets and satellites still going round out of control.",
+    "resumen_es": "Un cohete de SpaceX que llevaba años a la deriva terminó estrellándose contra la Luna este miércoles. El impacto no supone ningún peligro para la Tierra, pero ha despertado un enorme interés entre los astrónomos, que llevaban meses siguiendo el objeto. A diferencia de los innumerables choques de meteoritos que ha sufrido la Luna, esta vez los científicos sabían de antemano dónde y cuándo se iba a producir.\n\nEsa ventaja convierte el suceso en una especie de experimento a cielo abierto. Al observar el cráter recién formado, los investigadores pueden comprobar cómo se comporta el suelo lunar ante un golpe de gran velocidad y afinar los modelos que sirven para calcular la edad de otras superficies del sistema solar. El episodio también reaviva el debate sobre la basura espacial, ya que cada vez son más los restos de cohetes y satélites que siguen dando vueltas sin control.",
+    "vocab": [
+     {
+      "front": "a la deriva",
+      "pos": "phrase",
+      "back": "adrift, drifting without control",
+      "example": "La barca quedó a la deriva durante toda la noche.",
+      "tier": "B2"
+     },
+     {
+      "front": "estrellarse contra",
+      "pos": "verb",
+      "back": "to crash into",
+      "example": "El coche se estrelló contra un muro.",
+      "tier": "B1"
+     },
+     {
+      "front": "de antemano",
+      "pos": "adv",
+      "back": "beforehand, in advance",
+      "example": "Conviene reservar de antemano.",
+      "tier": "B2"
+     },
+     {
+      "front": "el cráter",
+      "pos": "noun",
+      "back": "crater",
+      "example": "El cráter mide varios metros de diámetro.",
+      "tier": "B1"
+     },
+     {
+      "front": "el suceso",
+      "pos": "noun",
+      "back": "event, incident",
+      "example": "El suceso ocurrió de madrugada.",
+      "tier": "B1"
+     },
+     {
+      "front": "afinar",
+      "pos": "verb",
+      "back": "to fine tune, to refine",
+      "example": "Los ingenieros afinaron el cálculo con datos nuevos.",
+      "tier": "B2"
+     },
+     {
+      "front": "reavivar",
+      "pos": "verb",
+      "back": "to revive, to rekindle",
+      "example": "La noticia reavivó viejas polémicas.",
+      "tier": "C1"
+     },
+     {
+      "front": "la basura espacial",
+      "pos": "noun",
+      "back": "space junk",
+      "example": "La basura espacial preocupa a las agencias espaciales.",
+      "tier": "B2"
+     },
+     {
+      "front": "los restos",
+      "pos": "noun",
+      "back": "remains, debris",
+      "example": "Los restos del satélite cayeron en el océano.",
+      "tier": "B1"
+     },
+     {
+      "front": "innumerable",
+      "pos": "adj",
+      "back": "countless",
+      "example": "Recibió innumerables mensajes de apoyo.",
+      "tier": "B2"
+     },
+     {
+      "front": "suponer un peligro",
+      "pos": "phrase",
+      "back": "to pose a danger",
+      "example": "El escape no supone un peligro para los vecinos.",
+      "tier": "B2"
+     },
+     {
+      "front": "dar vueltas",
+      "pos": "phrase",
+      "back": "to go round, to orbit",
+      "example": "El satélite da vueltas alrededor de la Tierra.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "El impacto no supone ningún peligro para la Tierra, pero ha despertado un enorme interés entre los astrónomos",
+      "point": "doble negación con ningún y uso del pretérito perfecto",
+      "explanation": "En español la negación se refuerza: no + verbo + ningún. Además, ha despertado es pretérito perfecto porque el efecto sigue vigente en el presente periodístico.",
+      "why_tricky": "En inglés no se admite la doble negación, y el present perfect tiene reglas distintas. Aquí ningún pierde la o final delante de un sustantivo masculino singular."
+     },
+     {
+      "sentence": "los científicos sabían de antemano dónde y cuándo se iba a producir",
+      "point": "interrogativas indirectas con tilde e ir a + infinitivo en pasado",
+      "explanation": "Dónde y cuándo llevan tilde también dentro de una oración enunciativa, porque siguen siendo interrogativos. Iba a producirse expresa un futuro visto desde el pasado.",
+      "why_tricky": "Es fácil quitar la tilde al no haber signos de interrogación, y confundir iba a producirse con se produciría, que suena más formal y distante."
+     },
+     {
+      "sentence": "cada vez son más los restos de cohetes y satélites que siguen dando vueltas sin control",
+      "point": "cada vez más y seguir + gerundio",
+      "explanation": "Cada vez más indica progresión creciente. Seguir + gerundio expresa que una acción continúa: siguen dando vueltas, no siguen dar vueltas.",
+      "why_tricky": "El inglés usa to keep + ing pero también still + verbo, y el estudiante suele poner infinitivo detrás de seguir."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "a cielo abierto",
+      "meaning": "in the open air, out in the open",
+      "example": "Trabajan en una mina a cielo abierto."
+     },
+     {
+      "phrase": "quedar a la deriva",
+      "meaning": "to be left drifting, with no direction",
+      "example": "Sin financiación, el proyecto quedó a la deriva."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Por qué este choque interesa tanto a los astrónomos?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué información pueden obtener los investigadores al estudiar el cráter?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué problema más amplio recuerda el texto al final?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Quién debería pagar la limpieza de la basura espacial: las empresas privadas, los Estados o los dos? Escribe unas 120 palabras justificando tu respuesta."
+   }
+  },
+  {
+   "pack_id": "feed-2026-08-09-volcan-fuego-guatemala",
+   "title": "Guatemala: Evacuación y alerta roja por la erupción del volcán de Fuego",
+   "source": "RFI en español",
+   "date": "2026-08-09",
+   "level": "B1-B2",
+   "topics": [
+    "desastres",
+    "Guatemala"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-09-volcan-fuego-guatemala",
+    "revision": 1,
+    "meta": {
+     "title": "Guatemala: Evacuación y alerta roja por la erupción del volcán de Fuego",
+     "source": "RFI en español",
+     "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260805-guatemala-evacuaci%C3%B3n-y-alerta-roja-por-la-erupci%C3%B3n-del-volc%C3%A1n-de-fuego",
+     "date_published": "2026-08-05",
+     "date_processed": "2026-08-09",
+     "tags": [
+      "desastres",
+      "Guatemala"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "Guatemala has declared a red alert after a powerful eruption of the Volcan de Fuego, one of the most active volcanoes in Latin America. At least 1,500 people were evacuated from the villages near the crater and taken to shelters, while the authorities kept watch on falling ash and on the hot material coming down the slopes. The alert covers the departments of Sacatepequez, Chimaltenango and Escuintla, where some 1.6 million people live.\n\nThe volcano is part of daily life for the communities around it, which have spent generations farming on its lower slopes despite the risk. Earlier eruptions left a deep mark on the country and explain why evacuations are now ordered so quickly. In the coming days civil protection teams will follow activity at the crater closely and will decide whether residents can go back to their homes or whether it is better to widen the safety zone.",
+    "resumen_es": "Guatemala ha decretado la alerta roja tras una potente erupción del volcán de Fuego, uno de los más activos de América Latina. Al menos 1.500 personas fueron evacuadas de las aldeas cercanas al cráter y trasladadas a albergues, mientras las autoridades vigilaban la ceniza y el material caliente que bajaba por las laderas. La alerta afecta a los departamentos de Sacatepéquez, Chimaltenango y Escuintla, donde viven 1,6 millones de personas.\n\nEl volcán forma parte de la vida cotidiana de las comunidades que lo rodean, que llevan generaciones cultivando en sus faldas pese al riesgo. Las erupciones anteriores dejaron una huella profunda en el país y explican la rapidez de las evacuaciones actuales. En los próximos días, los equipos de protección civil seguirán de cerca la actividad del cráter y decidirán si los vecinos pueden regresar a sus casas o si conviene ampliar la zona de seguridad.",
+    "vocab": [
+     {
+      "front": "decretar la alerta roja",
+      "pos": "phrase",
+      "back": "to declare a red alert",
+      "example": "El gobierno decretó la alerta roja en toda la costa.",
+      "tier": "B2"
+     },
+     {
+      "front": "la erupción",
+      "pos": "noun",
+      "back": "eruption",
+      "example": "La erupción duró varias horas.",
+      "tier": "B1"
+     },
+     {
+      "front": "evacuar",
+      "pos": "verb",
+      "back": "to evacuate",
+      "example": "Evacuaron el edificio en diez minutos.",
+      "tier": "B1"
+     },
+     {
+      "front": "el albergue",
+      "pos": "noun",
+      "back": "shelter",
+      "example": "Las familias pasaron la noche en un albergue municipal.",
+      "tier": "B1"
+     },
+     {
+      "front": "la ceniza",
+      "pos": "noun",
+      "back": "ash",
+      "example": "La ceniza cubrió los tejados del pueblo.",
+      "tier": "B1"
+     },
+     {
+      "front": "la ladera",
+      "pos": "noun",
+      "back": "hillside, slope",
+      "example": "Bajaron por la ladera con mucho cuidado.",
+      "tier": "B2"
+     },
+     {
+      "front": "las faldas del volcán",
+      "pos": "phrase",
+      "back": "the lower slopes of the volcano",
+      "example": "Cultivan café en las faldas del volcán.",
+      "tier": "B2"
+     },
+     {
+      "front": "la aldea",
+      "pos": "noun",
+      "back": "village, hamlet",
+      "example": "La aldea tiene menos de cien habitantes.",
+      "tier": "B1"
+     },
+     {
+      "front": "dejar una huella",
+      "pos": "phrase",
+      "back": "to leave a mark",
+      "example": "Aquella tragedia dejó una huella profunda en la región.",
+      "tier": "B2"
+     },
+     {
+      "front": "pese a",
+      "pos": "phrase",
+      "back": "despite, in spite of",
+      "example": "Salieron a trabajar pese a la lluvia.",
+      "tier": "B2"
+     },
+     {
+      "front": "seguir de cerca",
+      "pos": "phrase",
+      "back": "to monitor closely",
+      "example": "Los expertos siguen de cerca la evolución del terremoto.",
+      "tier": "B2"
+     },
+     {
+      "front": "la protección civil",
+      "pos": "noun",
+      "back": "civil protection, emergency services",
+      "example": "La protección civil repartió agua y mantas.",
+      "tier": "B1"
+     },
+     {
+      "front": "convenir",
+      "pos": "verb",
+      "back": "to be advisable",
+      "example": "Conviene esperar antes de volver a casa.",
+      "tier": "B2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Guatemala ha decretado la alerta roja tras una potente erupción del volcán de Fuego",
+      "point": "pretérito perfecto para noticias recientes y tras como preposición culta",
+      "explanation": "El pretérito perfecto conecta el hecho con el presente, algo típico del lenguaje periodístico peninsular. Tras equivale a después de, pero es más breve y formal.",
+      "why_tricky": "En gran parte de América se preferiría decretó, en pretérito indefinido, y tras se sustituiría por después de en el registro hablado."
+     },
+     {
+      "sentence": "que llevan generaciones cultivando en sus faldas pese al riesgo",
+      "point": "llevar + expresión de tiempo + gerundio",
+      "explanation": "Esta estructura mide cuánto tiempo dura una acción que sigue viva. Llevan generaciones cultivando equivale a han cultivado durante generaciones y siguen haciéndolo.",
+      "why_tricky": "El inglés usa el present perfect continuous (have been farming for generations), sin ningún verbo equivalente a llevar, así que la construcción no se traduce palabra por palabra."
+     },
+     {
+      "sentence": "decidirán si los vecinos pueden regresar a sus casas o si conviene ampliar la zona de seguridad",
+      "point": "interrogativa indirecta con si y verbo impersonal convenir",
+      "explanation": "Si introduce una pregunta indirecta de respuesta cerrada y va seguido de indicativo, nunca de subjuntivo. Convenir funciona aquí sin sujeto personal: conviene ampliar.",
+      "why_tricky": "El estudiante suele poner subjuntivo detrás de si por analogía con las oraciones condicionales irreales, donde sí aparece (si tuviera...)."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "estar en alerta roja",
+      "meaning": "to be on maximum alert",
+      "example": "Tres provincias siguen en alerta roja por el temporal."
+     },
+     {
+      "phrase": "dejar una huella profunda",
+      "meaning": "to leave a lasting mark",
+      "example": "Aquel invierno dejó una huella profunda en el pueblo."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Qué medidas tomaron las autoridades tras la erupción?",
+      "type": "open"
+     },
+     {
+      "q": "¿Por qué sigue viviendo tanta gente cerca del volcán?",
+      "type": "open"
+     },
+     {
+      "q": "¿De qué dependerá el regreso de los vecinos a sus casas?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Se debería prohibir vivir en zonas de alto riesgo volcánico o basta con mejorar los sistemas de alerta? Escribe unas 120 palabras con tu opinión."
+   }
+  },
   {
    "pack_id": "feed-2026-08-08-super-el-nino-america-latina",
    "title": "Los graves efectos que los científicos pronostican en América Latina por el fenómeno del \"Súper El Niño\"",
@@ -3383,175 +3876,6 @@
    }
   },
   {
-   "pack_id": "feed-2026-08-05-volcan-fuego-guatemala",
-   "title": "Guatemala: Evacuación y alerta roja por la erupción del volcán de Fuego",
-   "source": "RFI Español",
-   "date": "2026-08-05",
-   "level": "B1-B2",
-   "topics": [
-    "desastres",
-    "Guatemala"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-08-05-volcan-fuego-guatemala",
-    "revision": 1,
-    "meta": {
-     "title": "Guatemala: Evacuación y alerta roja por la erupción del volcán de Fuego",
-     "source": "RFI Español",
-     "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260805-guatemala-evacuaci%C3%B3n-y-alerta-roja-por-la-erupci%C3%B3n-del-volc%C3%A1n-de-fuego",
-     "date_published": "2026-08-05",
-     "date_processed": "2026-08-05",
-     "tags": [
-      "desastres",
-      "Guatemala"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "Guatemala has declared a red alert after a powerful eruption of the Fuego volcano, one of the most active in Latin America. At least 1,500 residents of the villages near the crater were evacuated on Tuesday, and the departments of Sacatepequez, Chimaltenango and Escuintla, home to 1.6 million people, remain on maximum alert. The authorities have opened shelters and asked people not to go near the area.\n\nThe Fuego volcano is part of everyday life in the country and its eruptions come round every few years. The danger lies not only in the lava but in the ash and in the pyroclastic flows, which race down the slopes at great speed. Emergency teams are monitoring the behaviour of the crater and do not rule out further evacuations if the activity continues.",
-    "resumen_es": "Guatemala ha decretado la alerta roja tras una potente erupción del volcán de Fuego, uno de los más activos de América Latina. Al menos 1.500 vecinos de las aldeas cercanas al cráter fueron evacuados el martes, y los departamentos de Sacatepéquez, Chimaltenango y Escuintla, donde viven 1,6 millones de personas, permanecen en máxima alerta. Las autoridades han habilitado albergues y han pedido a la población que no se acerque a la zona.\n\nEl volcán de Fuego forma parte de la vida cotidiana del país y sus erupciones se repiten cada pocos años. El peligro no está solo en la lava, sino en la ceniza y en los flujos piroclásticos, que bajan por las laderas a gran velocidad. Los equipos de emergencia vigilan el comportamiento del cráter y no descartan nuevas evacuaciones.",
-    "vocab": [
-     {
-      "front": "decretar la alerta roja",
-      "pos": "phrase",
-      "back": "to declare a red alert",
-      "example": "El gobierno decretó la alerta roja por las lluvias.",
-      "tier": "B2"
-     },
-     {
-      "front": "erupción",
-      "pos": "noun",
-      "back": "eruption",
-      "example": "La erupción cubrió de ceniza los campos.",
-      "tier": "B1"
-     },
-     {
-      "front": "cráter",
-      "pos": "noun",
-      "back": "crater",
-      "example": "El humo salía sin parar del cráter.",
-      "tier": "B1"
-     },
-     {
-      "front": "aldea",
-      "pos": "noun",
-      "back": "small village, hamlet",
-      "example": "En la aldea viven apenas doscientas personas.",
-      "tier": "B1"
-     },
-     {
-      "front": "evacuar",
-      "pos": "verb",
-      "back": "to evacuate",
-      "example": "Evacuaron el edificio en diez minutos.",
-      "tier": "B1"
-     },
-     {
-      "front": "albergue",
-      "pos": "noun",
-      "back": "shelter",
-      "example": "Los vecinos pasaron la noche en un albergue municipal.",
-      "tier": "B2"
-     },
-     {
-      "front": "habilitar",
-      "pos": "verb",
-      "back": "to set up, to make available",
-      "example": "Han habilitado un pabellón para los afectados.",
-      "tier": "B2"
-     },
-     {
-      "front": "ceniza",
-      "pos": "noun",
-      "back": "ash",
-      "example": "La ceniza cubrió los coches del pueblo.",
-      "tier": "B1"
-     },
-     {
-      "front": "ladera",
-      "pos": "noun",
-      "back": "slope, hillside",
-      "example": "Las casas están construidas en la ladera del monte.",
-      "tier": "B2"
-     },
-     {
-      "front": "flujo piroclástico",
-      "pos": "noun",
-      "back": "pyroclastic flow",
-      "example": "El flujo piroclástico arrasó los cultivos.",
-      "tier": "C1"
-     },
-     {
-      "front": "no descartar",
-      "pos": "verb",
-      "back": "not to rule out",
-      "example": "El ministro no descarta nuevas medidas.",
-      "tier": "B2"
-     },
-     {
-      "front": "vida cotidiana",
-      "pos": "noun",
-      "back": "everyday life",
-      "example": "El ruido forma parte de la vida cotidiana en la ciudad.",
-      "tier": "B1"
-     },
-     {
-      "front": "vigilar",
-      "pos": "verb",
-      "back": "to monitor, to keep watch on",
-      "example": "Los científicos vigilan la actividad sísmica.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Las autoridades han habilitado albergues y han pedido a la población que no se acerque a la zona.",
-      "point": "Subjuntivo tras verbo de petición",
-      "explanation": "Verbos como 'pedir', 'rogar' o 'exigir' introducen una subordinada en subjuntivo cuando hay cambio de sujeto: 'han pedido... que no se acerque'.",
-      "why_tricky": "En inglés se usa un infinitivo ('asked people not to go near'), estructura imposible aquí porque el sujeto cambia."
-     },
-     {
-      "sentence": "El peligro no está solo en la lava, sino en la ceniza y en los flujos piroclásticos, que bajan por las laderas a gran velocidad.",
-      "point": "La correlación 'no solo... sino'",
-      "explanation": "'Sino' corrige o amplía una idea negativa anterior; no se puede sustituir por 'pero'. Aquí añade información en lugar de oponerse a ella.",
-      "why_tricky": "'Pero' y 'sino' se traducen los dos como 'but', pero solo 'sino' sirve después de una negación que se corrige."
-     },
-     {
-      "sentence": "Al menos 1.500 vecinos de las aldeas cercanas al cráter fueron evacuados el martes, y los departamentos de Sacatepéquez, Chimaltenango y Escuintla, donde viven 1,6 millones de personas, permanecen en máxima alerta.",
-      "point": "Pasiva con 'ser' en el lenguaje periodístico",
-      "explanation": "'Fueron evacuados' es una pasiva perifrástica, frecuente en prensa cuando el agente no importa. En la lengua hablada se preferiría 'evacuaron a 1.500 vecinos'.",
-      "why_tricky": "El español evita la pasiva mucho más que el inglés, así que hay que reconocerla al leer aunque casi no se use al hablar."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "estar en alerta máxima",
-      "meaning": "estar preparado ante un peligro inminente",
-      "example": "Los hospitales están en alerta máxima por la ola de calor."
-     },
-     {
-      "phrase": "curarse en salud",
-      "meaning": "tomar precauciones por adelantado para evitar un problema",
-      "example": "Evacuaron antes de tiempo para curarse en salud."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué medidas han tomado las autoridades guatemaltecas tras la erupción?",
-      "type": "open"
-     },
-     {
-      "q": "Según el texto, ¿por qué la ceniza y los flujos piroclásticos son tan peligrosos?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué significa que el volcán 'forma parte de la vida cotidiana del país'?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Deberían prohibirse las viviendas en las zonas cercanas a un volcán activo? Escribe unas 120 palabras con tu opinión y un argumento en contra."
-   }
-  },
-  {
    "pack_id": "feed-2026-08-05-miami-ultrarricos",
    "title": "Cómo Miami se convirtió en el hogar de los ultrarricos en EE.UU. (y el efecto que tiene en que la vida sea más cara que en Nueva York)",
    "source": "BBC Mundo",
@@ -3718,175 +4042,6 @@
      }
     ],
     "opinion_prompt": "¿Debería una ciudad limitar la compra de viviendas por parte de inversores extranjeros? Escribe entre 120 y 150 palabras defendiendo tu postura con dos argumentos."
-   }
-  },
-  {
-   "pack_id": "feed-2026-08-05-cohete-spacex-luna",
-   "title": "Qué pasará cuando el cohete a la deriva de SpaceX choque contra la Luna (y por qué puede ser una buena noticia para la ciencia)",
-   "source": "BBC Mundo",
-   "date": "2026-08-05",
-   "level": "B1-B2",
-   "topics": [
-    "ciencia",
-    "espacio"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-08-05-cohete-spacex-luna",
-    "revision": 1,
-    "meta": {
-     "title": "Qué pasará cuando el cohete a la deriva de SpaceX choque contra la Luna (y por qué puede ser una buena noticia para la ciencia)",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/c4g3764dm5do?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-08-04",
-     "date_processed": "2026-08-05",
-     "tags": [
-      "ciencia",
-      "espacio"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "A SpaceX rocket that had been drifting in space for years is going to crash into the Moon this Wednesday. It is a launch stage that ran out of fuel after a mission and that, since then, has followed an orbit which is hard to predict. Astronomers have spent months tracking its path with telescopes and they calculate that the impact will happen on the far side of our satellite, out of sight from Earth.\n\nAlthough it sounds alarming, experts insist that there is no danger: the Moon has withstood countless collisions over millions of years. In fact, this case could turn out to be useful for science, because for the first time we know in advance where and when a crater is going to form. The probes orbiting the Moon will be able to compare the terrain before and after the collision.",
-    "resumen_es": "Un cohete de SpaceX que llevaba años a la deriva en el espacio va a estrellarse contra la Luna este miércoles. Se trata de una etapa de lanzamiento que se quedó sin combustible después de una misión y que, desde entonces, ha seguido una órbita difícil de predecir. Los astrónomos llevan meses siguiendo su trayectoria con telescopios y calculan que el impacto se producirá en la cara oculta de nuestro satélite, lejos de la vista desde la Tierra.\n\nAunque suene alarmante, los expertos insisten en que no hay peligro: la Luna ha soportado incontables choques durante millones de años. De hecho, este caso podría resultar provechoso para la ciencia, porque por primera vez se conoce de antemano dónde y cuándo se va a formar un cráter. Las sondas que orbitan la Luna podrán comparar el terreno antes y después del choque.",
-    "vocab": [
-     {
-      "front": "a la deriva",
-      "pos": "phrase",
-      "back": "adrift, drifting",
-      "example": "El barco quedó a la deriva sin motor.",
-      "tier": "B2"
-     },
-     {
-      "front": "estrellarse contra",
-      "pos": "verb",
-      "back": "to crash into",
-      "example": "El coche se estrelló contra un muro.",
-      "tier": "B1"
-     },
-     {
-      "front": "la etapa de lanzamiento",
-      "pos": "noun",
-      "back": "launch stage (of a rocket)",
-      "example": "La primera etapa de lanzamiento cayó al mar.",
-      "tier": "B2"
-     },
-     {
-      "front": "quedarse sin",
-      "pos": "verb",
-      "back": "to run out of",
-      "example": "Nos quedamos sin gasolina en la autopista.",
-      "tier": "B1"
-     },
-     {
-      "front": "el combustible",
-      "pos": "noun",
-      "back": "fuel",
-      "example": "El avión cargó combustible antes de despegar.",
-      "tier": "B1"
-     },
-     {
-      "front": "la trayectoria",
-      "pos": "noun",
-      "back": "path, trajectory",
-      "example": "Siguieron la trayectoria del cometa toda la noche.",
-      "tier": "B2"
-     },
-     {
-      "front": "la cara oculta",
-      "pos": "noun",
-      "back": "the far side, the hidden side",
-      "example": "La cara oculta de la Luna no se ve desde aquí.",
-      "tier": "B2"
-     },
-     {
-      "front": "soportar",
-      "pos": "verb",
-      "back": "to withstand, to endure",
-      "example": "El puente soporta mucho peso.",
-      "tier": "B1"
-     },
-     {
-      "front": "incontable",
-      "pos": "adj",
-      "back": "countless",
-      "example": "Recibió incontables mensajes de apoyo.",
-      "tier": "B2"
-     },
-     {
-      "front": "provechoso",
-      "pos": "adj",
-      "back": "useful, beneficial",
-      "example": "Fue una reunión corta pero provechosa.",
-      "tier": "C1"
-     },
-     {
-      "front": "de antemano",
-      "pos": "phrase",
-      "back": "in advance, beforehand",
-      "example": "Te lo agradezco de antemano.",
-      "tier": "B2"
-     },
-     {
-      "front": "la sonda",
-      "pos": "noun",
-      "back": "probe (spacecraft)",
-      "example": "La sonda envió las primeras imágenes.",
-      "tier": "B2"
-     },
-     {
-      "front": "el cráter",
-      "pos": "noun",
-      "back": "crater",
-      "example": "El meteorito dejó un cráter enorme.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Los astrónomos llevan meses siguiendo su trayectoria con telescopios y calculan que el impacto se producirá en la cara oculta de nuestro satélite, lejos de la vista desde la Tierra.",
-      "point": "'Llevar + periodo + gerundio' para acciones que continúan",
-      "explanation": "Esta perífrasis expresa cuánto tiempo lleva ocurriendo algo que todavía sigue. Equivale a 'han seguido su trayectoria durante meses y siguen haciéndolo'.",
-      "why_tricky": "El inglés usa el present perfect continuous ('have been tracking'), pero el español usa presente. Poner 'han llevado' o un pretérito perfecto aquí suena mal."
-     },
-     {
-      "sentence": "Aunque suene alarmante, los expertos insisten en que no hay peligro: la Luna ha soportado incontables choques durante millones de años.",
-      "point": "'Aunque' + subjuntivo para conceder algo sin afirmarlo",
-      "explanation": "Con subjuntivo, 'aunque suene' presenta la idea como una concesión o una posibilidad, no como un hecho que el autor confirma. Con indicativo ('aunque suena') el autor afirmaría que realmente suena alarmante.",
-      "why_tricky": "La misma conjunción admite los dos modos y el significado cambia sutilmente, algo que no se marca en inglés, donde 'although' es siempre igual."
-     },
-     {
-      "sentence": "Se trata de una etapa de lanzamiento que se quedó sin combustible después de una misión y que, desde entonces, ha seguido una órbita difícil de predecir.",
-      "point": "Contraste entre pretérito indefinido y pretérito perfecto",
-      "explanation": "'Se quedó' marca un hecho puntual y cerrado en el pasado; 'ha seguido' conecta ese pasado con el presente, porque la órbita continúa hasta hoy.",
-      "why_tricky": "Ambos se traducen a menudo con el pasado simple inglés, así que el contraste hay que deducirlo del contexto temporal, no de la traducción."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "a la deriva",
-      "meaning": "sin rumbo ni control, dejándose llevar",
-      "example": "Sin liderazgo, el proyecto quedó a la deriva."
-     },
-     {
-      "phrase": "de hecho",
-      "meaning": "en realidad, para reforzar lo que se acaba de decir",
-      "example": "No me molesta; de hecho, me viene bien."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Por qué el cohete lleva años a la deriva en el espacio?",
-      "type": "open"
-     },
-     {
-      "q": "¿Dónde se producirá el impacto y por qué no se podrá ver desde la Tierra?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué podrían aprender los científicos gracias a este choque?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Quién debería responsabilizarse de la basura espacial que dejan las empresas privadas? Escribe entre 120 y 150 palabras explicando tu opinión."
    }
   },
   {
@@ -4908,182 +5063,6 @@
      }
     ],
     "opinion_prompt": "¿Debería prohibirse la inteligencia artificial en los exámenes o habría que cambiar los exámenes? Escribe unas 120 palabras explicando tu opinión con ejemplos concretos."
-   }
-  },
-  {
-   "pack_id": "feed-2026-08-04-luana-lopes-lara-kalshi",
-   "title": "Luana Lopes Lara, la bailarina de ballet que se convirtió en la multimillonaria más joven del mundo con una empresa muy controvertida",
-   "source": "BBC Mundo",
-   "date": "2026-08-04",
-   "level": "B1-B2",
-   "topics": [
-    "negocios",
-    "tecnología"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-08-04-luana-lopes-lara-kalshi",
-    "revision": 1,
-    "meta": {
-     "title": "Luana Lopes Lara, la bailarina de ballet que se convirtió en la multimillonaria más joven del mundo con una empresa muy controvertida",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/cj635znkreyo?at_medium=RSS&at_campaign=rss",
-     "date_published": "2026-08-02",
-     "date_processed": "2026-08-04",
-     "tags": [
-      "negocios",
-      "tecnología"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "Luana Lopes Lara has gone from ballet classes to topping the list of the world's youngest female billionaires. The Brazilian gave up dance in order to study and ended up co-founding Kalshi, a prediction markets platform where users bet on future events, from election results to economic figures. Her company had to fight in the courts to make that kind of contract legal in the United States.\n\nThe case is striking for two reasons. On the one hand, it shows how far a well-argued regulatory battle can go towards opening up an entire market and multiplying a company's value. On the other, it feeds an uncomfortable debate: some people believe these markets provide valuable information about the future, while others see them as gambling dressed up as finance. The discussion about how to regulate them is only just beginning.",
-    "resumen_es": "Luana Lopes Lara ha pasado de las clases de ballet a encabezar la lista de las multimillonarias más jóvenes del mundo. La brasileña dejó la danza para estudiar y acabó cofundando Kalshi, una plataforma de mercados de predicción en la que los usuarios apuestan sobre acontecimientos futuros, desde resultados electorales hasta datos económicos. Su empresa tuvo que pelear en los tribunales para que ese tipo de contratos fuera legal en Estados Unidos.\n\nEl caso resulta llamativo por dos motivos. Por un lado, muestra hasta qué punto una batalla regulatoria bien planteada puede abrir un mercado entero y multiplicar el valor de una compañía. Por otro, alimenta un debate incómodo: hay quien considera que estos mercados aportan información valiosa sobre el futuro, mientras que otros los ven como apuestas disfrazadas de finanzas. La discusión sobre cómo regularlos apenas está empezando.",
-    "vocab": [
-     {
-      "front": "encabezar",
-      "pos": "verb",
-      "back": "to head, to top (a list)",
-      "example": "Su canción encabeza las listas desde junio.",
-      "tier": "B2"
-     },
-     {
-      "front": "multimillonario",
-      "pos": "noun",
-      "back": "billionaire",
-      "example": "Es uno de los multimillonarios más discretos del país.",
-      "tier": "B1"
-     },
-     {
-      "front": "acabar + gerundio",
-      "pos": "phrase",
-      "back": "to end up doing something",
-      "example": "Acabó trabajando en la empresa de su padre.",
-      "tier": "B2"
-     },
-     {
-      "front": "cofundar",
-      "pos": "verb",
-      "back": "to co-found",
-      "example": "Cofundó la empresa con dos compañeros de clase.",
-      "tier": "B2"
-     },
-     {
-      "front": "mercado de predicción",
-      "pos": "noun",
-      "back": "prediction market",
-      "example": "Los mercados de predicción anticiparon el resultado.",
-      "tier": "C1"
-     },
-     {
-      "front": "apostar sobre",
-      "pos": "verb",
-      "back": "to bet on",
-      "example": "Mucha gente apuesta sobre el resultado del partido.",
-      "tier": "B1"
-     },
-     {
-      "front": "acontecimiento",
-      "pos": "noun",
-      "back": "event, occurrence",
-      "example": "Fue el acontecimiento del año en la ciudad.",
-      "tier": "B2"
-     },
-     {
-      "front": "los tribunales",
-      "pos": "noun",
-      "back": "the courts (legal)",
-      "example": "El conflicto acabó en los tribunales.",
-      "tier": "B1"
-     },
-     {
-      "front": "llamativo",
-      "pos": "adj",
-      "back": "striking, eye-catching",
-      "example": "El dato más llamativo es la edad media.",
-      "tier": "B2"
-     },
-     {
-      "front": "hasta qué punto",
-      "pos": "phrase",
-      "back": "to what extent, how far",
-      "example": "No sabemos hasta qué punto influyó la publicidad.",
-      "tier": "B2"
-     },
-     {
-      "front": "bien planteada",
-      "pos": "adj",
-      "back": "well framed, well set out",
-      "example": "Fue una pregunta muy bien planteada.",
-      "tier": "B2"
-     },
-     {
-      "front": "alimentar un debate",
-      "pos": "phrase",
-      "back": "to fuel a debate",
-      "example": "El informe alimentó el debate sobre los sueldos.",
-      "tier": "B2"
-     },
-     {
-      "front": "disfrazado de",
-      "pos": "adj",
-      "back": "disguised as, dressed up as",
-      "example": "Es publicidad disfrazada de información.",
-      "tier": "B2"
-     },
-     {
-      "front": "apenas",
-      "pos": "adv",
-      "back": "barely, only just",
-      "example": "Apenas hemos empezado a estudiar el caso.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Su empresa tuvo que pelear en los tribunales para que ese tipo de contratos fuera legal en Estados Unidos.",
-      "point": "para que plus imperfect subjunctive",
-      "explanation": "When the purpose clause has a different subject from the main verb, Spanish requires 'para que' plus subjunctive, and a past main verb pulls the subjunctive into the imperfect ('fuera').",
-      "why_tricky": "Learners default to 'para ser legal' with an infinitive, which is only correct when both verbs share the same subject."
-     },
-     {
-      "sentence": "Por otro, alimenta un debate incómodo: hay quien considera que estos mercados aportan información valiosa sobre el futuro, mientras que otros los ven como apuestas disfrazadas de finanzas.",
-      "point": "hay quien plus singular verb",
-      "explanation": "'Hay quien' means 'there are people who' but takes a singular verb, and it contrasts naturally with 'otros' plus a plural verb later in the sentence.",
-      "why_tricky": "The meaning is plural in English, so learners write 'hay quienes consideran' or 'hay quien consideran' by mistake."
-     },
-     {
-      "sentence": "La discusión sobre cómo regularlos apenas está empezando.",
-      "point": "Attached object pronoun on the infinitive",
-      "explanation": "After a preposition Spanish uses the infinitive, and object pronouns attach to the end of it, giving 'regularlos'.",
-      "why_tricky": "Learners often place the pronoun before the verb, as they would with a conjugated form."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "cambiar los tutús por los libros",
-      "meaning": "to swap one world for a completely different one, as used in the original headline coverage",
-      "example": "Cambió los tutús por los libros y nunca volvió a bailar."
-     },
-     {
-      "phrase": "apenas está empezando",
-      "meaning": "it is only just getting started",
-      "example": "La temporada apenas está empezando y ya hay sorpresas."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué es exactamente Kalshi y qué hacen sus usuarios en la plataforma?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué fue importante la batalla legal de la empresa en Estados Unidos?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué dos visiones opuestas existen sobre los mercados de predicción?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Son los mercados de predicción una herramienta útil de información o simplemente apuestas? Escribe unas 120 palabras justificando tu respuesta."
    }
   },
   {
