@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-08-09T20:12:41.775Z",
+  "generated_at": "2026-08-10T08:12:22Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-10-fenya-jerga-carcelaria",
+      "title": "Fenya, la jerga clandestina de las prisiones soviéticas que ahora usan ciberdelincuentes y políticos como Putin",
+      "source": "BBC Mundo",
+      "date": "2026-08-10",
+      "level": "B1-B2",
+      "topics": [
+        "lengua",
+        "historia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-10-fenya-jerga-carcelaria",
+        "revision": 1,
+        "meta": {
+          "title": "Fenya, la jerga clandestina de las prisiones soviéticas que ahora usan ciberdelincuentes y políticos como Putin",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/clyxgzk6e4jo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-10",
+          "date_processed": "2026-08-10",
+          "tags": [
+            "lengua",
+            "historia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Fenya is the underground slang that grew up inside Soviet prisons and is now turning up in unexpected places. According to the BBC, prisoners in Stalin's gulags used it to talk among themselves without the guards understanding a word. Over the decades, that prison code left the camps behind and slipped into everyday speech, into the criminal underworld and, later on, into the forums where Russian cybercriminals operate.\n\nWhat stands out is that certain fenya expressions have even reached political discourse, and some people are struck to hear them coming from figures such as Vladimir Putin. For linguists, the phenomenon shows that no slang stays locked away for long: sooner or later it filters upwards. It remains to be seen whether this language of the margins will keep growing or will end up dissolving into ordinary Russian.",
+        "resumen_es": "La fenya es la jerga clandestina que nació en las cárceles soviéticas y que hoy reaparece en lugares insospechados. Según la BBC, los presos de los gulags de Stalin la utilizaban para hablar entre ellos sin que los guardias entendieran nada. Con el paso de las décadas, ese código carcelario salió de los campos y se coló en el habla cotidiana, en el mundo del hampa y, más tarde, en los foros donde se mueven los ciberdelincuentes rusos.\n\nLo llamativo es que ciertas expresiones de la fenya han llegado incluso al discurso político, y a algunos les sorprende escucharlas en boca de figuras como Vladímir Putin. Para los lingüistas, el fenómeno demuestra que ninguna jerga permanece encerrada mucho tiempo: tarde o temprano se filtra hacia arriba. Queda por ver si esta lengua de los márgenes seguirá creciendo o acabará diluyéndose en el ruso común.",
+        "vocab": [
+          {
+            "front": "la jerga",
+            "pos": "noun",
+            "back": "slang, jargon",
+            "example": "Cada oficio tiene su propia jerga.",
+            "tier": "B2"
+          },
+          {
+            "front": "clandestino",
+            "pos": "adj",
+            "back": "clandestine, underground",
+            "example": "Se reunían en un local clandestino.",
+            "tier": "B2"
+          },
+          {
+            "front": "el preso / la presa",
+            "pos": "noun",
+            "back": "prisoner, inmate",
+            "example": "Los presos salían al patio una hora al día.",
+            "tier": "B1"
+          },
+          {
+            "front": "insospechado",
+            "pos": "adj",
+            "back": "unsuspected, unexpected",
+            "example": "El mapa reveló detalles insospechados.",
+            "tier": "C1"
+          },
+          {
+            "front": "colarse en",
+            "pos": "verb",
+            "back": "to slip into, sneak into",
+            "example": "Una errata se coló en la primera página.",
+            "tier": "B2"
+          },
+          {
+            "front": "el habla cotidiana",
+            "pos": "phrase",
+            "back": "everyday speech",
+            "example": "Esa palabra ya forma parte del habla cotidiana.",
+            "tier": "B2"
+          },
+          {
+            "front": "el hampa",
+            "pos": "noun",
+            "back": "the criminal underworld",
+            "example": "La novela retrata el hampa de los años treinta.",
+            "tier": "C1"
+          },
+          {
+            "front": "llamativo",
+            "pos": "adj",
+            "back": "striking, eye-catching",
+            "example": "Lo más llamativo fue el silencio del público.",
+            "tier": "B1"
+          },
+          {
+            "front": "en boca de",
+            "pos": "phrase",
+            "back": "in the mouth of, coming from",
+            "example": "La frase suena rara en boca de un ministro.",
+            "tier": "B2"
+          },
+          {
+            "front": "filtrarse",
+            "pos": "verb",
+            "back": "to leak, filter through",
+            "example": "La noticia se filtró antes del anuncio.",
+            "tier": "B2"
+          },
+          {
+            "front": "tarde o temprano",
+            "pos": "phrase",
+            "back": "sooner or later",
+            "example": "Tarde o temprano tendrás que decidirte.",
+            "tier": "B1"
+          },
+          {
+            "front": "diluirse",
+            "pos": "verb",
+            "back": "to dissolve, become diluted",
+            "example": "Su acento se diluyó tras años fuera.",
+            "tier": "C1"
+          },
+          {
+            "front": "quedar por ver",
+            "pos": "phrase",
+            "back": "to remain to be seen",
+            "example": "Queda por ver cómo reaccionará el mercado.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Según la BBC, los presos de los gulags de Stalin la utilizaban para hablar entre ellos sin que los guardias entendieran nada.",
+            "point": "sin que + imperfecto de subjuntivo",
+            "explanation": "After 'sin que' Spanish always takes the subjunctive. Because the main verb 'utilizaban' is in the past, the subordinate verb moves to the imperfect subjunctive: 'entendieran'.",
+            "why_tricky": "English says 'without the guards understanding', with no mood change at all, so learners often write 'sin que entendían'."
+          },
+          {
+            "sentence": "Con el paso de las décadas, ese código carcelario salió de los campos y se coló en el habla cotidiana, en el mundo del hampa y, más tarde, en los foros donde se mueven los ciberdelincuentes rusos.",
+            "point": "pretérito indefinido for a completed chain of events",
+            "explanation": "'Salió' and 'se coló' present the whole historical movement as one finished sequence, while 'se mueven' stays in the present because it describes today's situation.",
+            "why_tricky": "The sentence mixes past and present tenses on purpose, and learners tend to level everything to the imperfect."
+          },
+          {
+            "sentence": "Queda por ver si esta lengua de los márgenes seguirá creciendo o acabará diluyéndose en el ruso común.",
+            "point": "quedar por + infinitivo and verbal periphrases with gerund",
+            "explanation": "'Quedar por + infinitivo' means something is still pending. 'Seguir + gerundio' means to keep doing something and 'acabar + gerundio' means to end up doing it.",
+            "why_tricky": "Learners reach for 'continuar a' or 'terminar de', copying English or French structures that do not work here."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "hablar en clave",
+            "meaning": "to speak in code so outsiders do not understand",
+            "example": "En la oficina hablaban en clave para que nadie se enterara."
+          },
+          {
+            "phrase": "salir a la luz",
+            "meaning": "to come to light, be revealed",
+            "example": "Los documentos salieron a la luz treinta años después."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué usaban la fenya los presos de los gulags?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué camino ha seguido esta jerga desde la cárcel hasta hoy?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué demuestra este fenómeno, según los lingüistas?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Existe en tu idioma alguna jerga que haya pasado de un grupo cerrado al habla general? Describe de dónde viene y por qué crees que se popularizó."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-10-consuelo-velazquez-besame-mucho",
+      "title": "Consuelo Velázquez, la compositora mexicana que creó el éxito mundial \"Bésame mucho\" (e intentó mantenerse anónima)",
+      "source": "BBC Mundo",
+      "date": "2026-08-10",
+      "level": "B1-B2",
+      "topics": [
+        "música",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-10-consuelo-velazquez-besame-mucho",
+        "revision": 1,
+        "meta": {
+          "title": "Consuelo Velázquez, la compositora mexicana que creó el éxito mundial \"Bésame mucho\" (e intentó mantenerse anónima)",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c0km5jpvm4po?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-10",
+          "date_processed": "2026-08-10",
+          "tags": [
+            "música",
+            "cultura"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Few Latin American songs have travelled around the world the way \"Besame mucho\" has. It was written by Consuelo Velazquez, a Mexican pianist who, as her son tells the BBC, tried at first to stay anonymous. Trained in classical music, she feared that a romantic bolero would not fit the serious image expected of a concert performer. The piece, however, made its own way and before long half the continent was singing it.\n\nOver the years the song became a universal standard, covered in dozens of languages and recorded by artists of every style. Its journey is a neat illustration of how a melody written in one particular city can end up belonging to everyone. Today the story of its author is remembered not only for the success, but for the modesty with which she chose to carry it.",
+        "resumen_es": "Pocas canciones latinoamericanas han dado la vuelta al mundo como \"Bésame mucho\". La compuso Consuelo Velázquez, una pianista mexicana que, según cuenta su hijo a la BBC, intentó al principio mantenerse en el anonimato. Formada en la música clásica, temía que un bolero romántico no encajara con la imagen seria que se esperaba de una intérprete de concierto. La pieza, sin embargo, se abrió camino sola y pronto la cantaba medio continente.\n\nCon los años, la canción se convirtió en un clásico universal, versionado en decenas de idiomas y grabado por artistas de todos los estilos. Su recorrido explica muy bien cómo una melodía escrita en una ciudad concreta puede acabar perteneciendo a todo el mundo. Hoy la historia de su autora se recuerda no solo por el éxito, sino por la modestia con la que quiso llevarlo.",
+        "vocab": [
+          {
+            "front": "dar la vuelta al mundo",
+            "pos": "phrase",
+            "back": "to go around the world",
+            "example": "El vídeo dio la vuelta al mundo en pocas horas.",
+            "tier": "B1"
+          },
+          {
+            "front": "componer",
+            "pos": "verb",
+            "back": "to compose (music)",
+            "example": "Compuso su primera pieza a los quince años.",
+            "tier": "B1"
+          },
+          {
+            "front": "el anonimato",
+            "pos": "noun",
+            "back": "anonymity",
+            "example": "Pidió mantener el anonimato en la entrevista.",
+            "tier": "B2"
+          },
+          {
+            "front": "formado en",
+            "pos": "phrase",
+            "back": "trained in",
+            "example": "Está formada en derecho internacional.",
+            "tier": "B2"
+          },
+          {
+            "front": "encajar con",
+            "pos": "verb",
+            "back": "to fit with, match",
+            "example": "Su versión no encaja con los hechos.",
+            "tier": "B2"
+          },
+          {
+            "front": "el intérprete / la intérprete",
+            "pos": "noun",
+            "back": "performer, player",
+            "example": "Es una intérprete muy respetada en su país.",
+            "tier": "B1"
+          },
+          {
+            "front": "abrirse camino",
+            "pos": "phrase",
+            "back": "to make one's way, break through",
+            "example": "Se abrió camino sin ayuda de nadie.",
+            "tier": "B2"
+          },
+          {
+            "front": "versionar",
+            "pos": "verb",
+            "back": "to cover (a song)",
+            "example": "Han versionado el tema en cinco idiomas.",
+            "tier": "C1"
+          },
+          {
+            "front": "grabar",
+            "pos": "verb",
+            "back": "to record",
+            "example": "Grabaron el disco en dos semanas.",
+            "tier": "B1"
+          },
+          {
+            "front": "el recorrido",
+            "pos": "noun",
+            "back": "journey, trajectory",
+            "example": "El recorrido del proyecto ha sido largo.",
+            "tier": "B2"
+          },
+          {
+            "front": "acabar + gerundio",
+            "pos": "phrase",
+            "back": "to end up doing something",
+            "example": "Acabó viviendo en la costa.",
+            "tier": "B2"
+          },
+          {
+            "front": "la modestia",
+            "pos": "noun",
+            "back": "modesty",
+            "example": "Habló de su premio con mucha modestia.",
+            "tier": "B2"
+          },
+          {
+            "front": "no solo... sino",
+            "pos": "phrase",
+            "back": "not only... but",
+            "example": "No solo escribe, sino que también traduce.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Formada en la música clásica, temía que un bolero romántico no encajara con la imagen seria que se esperaba de una intérprete de concierto.",
+            "point": "participial clause plus imperfect subjunctive after a verb of fear",
+            "explanation": "'Formada en...' is a reduced clause meaning 'since she had been trained in...'. 'Temer que' triggers the subjunctive, and the past main verb 'temía' pulls it into the imperfect subjunctive 'encajara'.",
+            "why_tricky": "Two structures stack in one sentence, and the participle agrees in gender with the subject, so it is 'formada', not 'formado'."
+          },
+          {
+            "sentence": "La pieza, sin embargo, se abrió camino sola y pronto la cantaba medio continente.",
+            "point": "indefinido versus imperfecto in the same sentence",
+            "explanation": "'Se abrió camino' is a single completed event; 'cantaba' describes an ongoing background situation that lasted for a while.",
+            "why_tricky": "Both would be simple past in English, so there is no signal telling you which Spanish tense to pick."
+          },
+          {
+            "sentence": "Hoy la historia de su autora se recuerda no solo por el éxito, sino por la modestia con la que quiso llevarlo.",
+            "point": "impersonal 'se' plus a relative with a preposition",
+            "explanation": "'Se recuerda' avoids naming who remembers. In 'con la que', the preposition comes before the relative pronoun and can never be stranded at the end.",
+            "why_tricky": "English happily says 'the modesty she carried it with', which tempts learners to leave the preposition dangling."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "pasar a la historia",
+            "meaning": "to go down in history",
+            "example": "Esa grabación pasó a la historia de la música popular."
+          },
+          {
+            "phrase": "quedarse en la sombra",
+            "meaning": "to stay out of the spotlight",
+            "example": "Prefirió quedarse en la sombra mientras otros recogían el premio."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué quiso Consuelo Velázquez mantenerse en el anonimato al principio?",
+            "type": "open"
+          },
+          {
+            "q": "¿Cómo se convirtió la canción en un clásico universal?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué se recuerda hoy a su autora, según el texto?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que una canción puede representar a todo un país? Escribe un texto breve sobre una canción que, para ti, dice algo sobre el lugar de donde vienes."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-10-economia-siria-recuperacion",
+      "title": "La economía de Siria vuelve a tomar aire tras quince años de guerra civil",
+      "source": "RFI Español",
+      "date": "2026-08-10",
+      "level": "B1-B2",
+      "topics": [
+        "economía",
+        "Oriente Medio"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-10-economia-siria-recuperacion",
+        "revision": 1,
+        "meta": {
+          "title": "La economía de Siria vuelve a tomar aire tras quince años de guerra civil",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/oriente-medio/20260808-la-econom%C3%ADa-de-siria-vuelve-a-tomar-aire-tras-quince-a%C3%B1os-de-guerra-civil",
+          "date_published": "2026-08-10",
+          "date_processed": "2026-08-10",
+          "tags": [
+            "economía",
+            "Oriente Medio"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The Syrian economy is starting to breathe again after fifteen years of civil war and crisis. According to RFI, growth of at least ten percent is expected in 2026, with encouraging prospects for 2027 as well. After years of destruction, sanctions and a drain of skilled workers, any sign of recovery is received cautiously, but the change of direction is hard to ignore.\n\nBehind those figures lies a more complicated reality. Rebuilding roads, hospitals and electricity networks demands enormous investment and a political stability that is still not guaranteed. On top of that, a large part of the population continues to depend on humanitarian aid, and many refugees are hesitating over whether to return. The coming months will show whether this momentum takes hold or turns out to be no more than a passing breather.",
+        "resumen_es": "La economía siria empieza a respirar de nuevo después de quince años de guerra civil y crisis. Según RFI, se espera un crecimiento de al menos el diez por ciento en 2026, con perspectivas alentadoras también para 2027. Tras años de destrucción, sanciones y fuga de mano de obra cualificada, cualquier señal de recuperación se recibe con cautela, pero el cambio de tendencia resulta difícil de ignorar.\n\nDetrás de esas cifras hay una realidad más complicada. Reconstruir carreteras, hospitales y redes eléctricas exige una inversión enorme y una estabilidad política que todavía no está garantizada. Además, buena parte de la población sigue dependiendo de la ayuda humanitaria y muchos refugiados dudan si volver o quedarse fuera. Los próximos meses dirán si este impulso se consolida o si se queda en un simple respiro pasajero.",
+        "vocab": [
+          {
+            "front": "tomar aire",
+            "pos": "phrase",
+            "back": "to catch one's breath, get some respite",
+            "example": "La empresa por fin tomó aire tras un año duro.",
+            "tier": "B2"
+          },
+          {
+            "front": "el crecimiento",
+            "pos": "noun",
+            "back": "growth",
+            "example": "El crecimiento se frenó en el segundo trimestre.",
+            "tier": "B1"
+          },
+          {
+            "front": "alentador",
+            "pos": "adj",
+            "back": "encouraging",
+            "example": "Los primeros datos son alentadores.",
+            "tier": "B2"
+          },
+          {
+            "front": "las sanciones",
+            "pos": "noun",
+            "back": "sanctions",
+            "example": "Las sanciones afectaron sobre todo a la banca.",
+            "tier": "B2"
+          },
+          {
+            "front": "la mano de obra cualificada",
+            "pos": "phrase",
+            "back": "skilled labour",
+            "example": "Falta mano de obra cualificada en el sector.",
+            "tier": "C1"
+          },
+          {
+            "front": "con cautela",
+            "pos": "phrase",
+            "back": "cautiously",
+            "example": "El gobierno respondió con cautela.",
+            "tier": "B2"
+          },
+          {
+            "front": "el cambio de tendencia",
+            "pos": "phrase",
+            "back": "change of trend, turnaround",
+            "example": "Los analistas ven un cambio de tendencia claro.",
+            "tier": "B2"
+          },
+          {
+            "front": "la cifra",
+            "pos": "noun",
+            "back": "figure, number",
+            "example": "Las cifras oficiales no coinciden con las suyas.",
+            "tier": "B1"
+          },
+          {
+            "front": "reconstruir",
+            "pos": "verb",
+            "back": "to rebuild",
+            "example": "Van a reconstruir el puente este año.",
+            "tier": "B1"
+          },
+          {
+            "front": "la red eléctrica",
+            "pos": "noun",
+            "back": "electricity grid",
+            "example": "La red eléctrica falla casi todos los días.",
+            "tier": "B2"
+          },
+          {
+            "front": "la ayuda humanitaria",
+            "pos": "phrase",
+            "back": "humanitarian aid",
+            "example": "La ayuda humanitaria llegó por carretera.",
+            "tier": "B1"
+          },
+          {
+            "front": "consolidarse",
+            "pos": "verb",
+            "back": "to become established, take hold",
+            "example": "La marca se consolidó en tres años.",
+            "tier": "B2"
+          },
+          {
+            "front": "pasajero",
+            "pos": "adj",
+            "back": "passing, temporary",
+            "example": "Fue solo un problema pasajero.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Tras años de destrucción, sanciones y fuga de mano de obra cualificada, cualquier señal de recuperación se recibe con cautela, pero el cambio de tendencia resulta difícil de ignorar.",
+            "point": "impersonal 'se' and the pattern 'difícil de + infinitivo'",
+            "explanation": "'Se recibe' hides the agent: nobody in particular does the receiving. In 'difícil de ignorar' the infinitive is passive in meaning, so it is 'de', not 'para'.",
+            "why_tricky": "Learners often write 'difícil para ignorar' or add a subject that Spanish deliberately leaves out."
+          },
+          {
+            "sentence": "Reconstruir carreteras, hospitales y redes eléctricas exige una inversión enorme y una estabilidad política que todavía no está garantizada.",
+            "point": "infinitive as subject of the sentence",
+            "explanation": "The bare infinitive 'reconstruir' works as a singular noun, so the verb is 'exige' and not 'exigen', despite the three plural objects.",
+            "why_tricky": "The nearby plurals pull learners towards a plural verb, and English would use a gerund, 'rebuilding'."
+          },
+          {
+            "sentence": "Los próximos meses dirán si este impulso se consolida o si se queda en un simple respiro pasajero.",
+            "point": "indirect question with 'si' after a future verb",
+            "explanation": "'Si' introduces an embedded yes or no question. Spanish keeps the present indicative inside it even though the main verb 'dirán' is future.",
+            "why_tricky": "Learners either use the subjunctive here or copy the future into the subordinate clause."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "salir a flote",
+            "meaning": "to stay afloat, pull through",
+            "example": "El negocio logró salir a flote tras la pandemia."
+          },
+          {
+            "phrase": "tirar de la ayuda",
+            "meaning": "to rely on outside help",
+            "example": "Muchas familias todavía tienen que tirar de la ayuda pública."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué previsión de crecimiento se menciona para 2026?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué la recuperación se recibe con cautela?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué obstáculos quedan para la reconstrucción del país?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Qué debería priorizar un país que sale de una guerra larga: la economía, los servicios públicos o el regreso de los refugiados? Justifica tu respuesta."
+      }
+    },
     {
       "pack_id": "feed-2026-08-09-proyecto-panama-libros-ia",
       "title": "Qué es el \"Proyecto Panamá\" y cómo reveló la destrucción de miles de libros antiguos para entrenar a la IA",
@@ -6230,492 +6737,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que la religión debería influir en las decisiones del gobierno? Explica tu opinión con ejemplos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-02-lula-cuarto-mandato",
-      "title": "Brasil: Partido de los Trabajadores proclama a Lula como candidato para un cuarto mandato",
-      "source": "RFI Español",
-      "date": "2026-08-02",
-      "level": "B1-B2",
-      "topics": [
-        "política",
-        "Brasil"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-02-lula-cuarto-mandato",
-        "revision": 1,
-        "meta": {
-          "title": "Brasil: Partido de los Trabajadores proclama a Lula como candidato para un cuarto mandato",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260802-brasil-partido-de-los-trabajadores-proclama-a-lula-como-candidato-para-un-cuarto-mandato",
-          "date_published": "2026-08-02",
-          "date_processed": "2026-08-02",
-          "tags": [
-            "política",
-            "Brasil"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The Workers' Party officially confirmed this Sunday the candidacy of Luiz Inacio Lula da Silva for the presidential elections in October. With this decision, the president will seek a fourth term at the head of Brazil, something quite unusual in the country's politics. At his side, as candidate for the vice presidency, will once again be Geraldo Alckmin, an ally who represents more moderate sectors. The announcement marks the official start of a campaign that is expected to be very hard-fought.\n\nThe governing bloc will have to face the far right, embodied this time by senator Flavio Bolsonaro, son of former president Jair Bolsonaro. The contest promises to polarize even further a society that is already divided, in which the economy and security take a central place. The coming months will be decisive, because the result will not only define the direction of Brazil, but also its weight in the Latin American region.",
-        "resumen_es": "El Partido de los Trabajadores oficializó este domingo la candidatura de Luiz Inácio Lula da Silva para las elecciones presidenciales de octubre. Con esta decisión, el presidente buscará un cuarto mandato al frente de Brasil, algo poco común en la política del país. A su lado, como candidato a la vicepresidencia, estará de nuevo Geraldo Alckmin, un aliado que representa a sectores más moderados. El anuncio marca el arranque oficial de una campaña que se prevé muy disputada.\n\nEl bloque oficialista tendrá que enfrentarse a la extrema derecha, encarnada esta vez por el senador Flávio Bolsonaro, hijo del expresidente Jair Bolsonaro. La contienda promete polarizar aún más a una sociedad ya dividida, en la que la economía y la seguridad ocupan un lugar central. Los próximos meses serán decisivos, porque el resultado no solo definirá el rumbo de Brasil, sino también su peso en la región latinoamericana.",
-        "vocab": [
-          {
-            "front": "oficializar",
-            "pos": "verb",
-            "back": "to make official",
-            "example": "El club oficializó el fichaje del jugador.",
-            "tier": "B2"
-          },
-          {
-            "front": "la candidatura",
-            "pos": "noun",
-            "back": "candidacy",
-            "example": "Presentó su candidatura a la alcaldía.",
-            "tier": "B1"
-          },
-          {
-            "front": "el mandato",
-            "pos": "noun",
-            "back": "term of office",
-            "example": "Su mandato terminará el año que viene.",
-            "tier": "B2"
-          },
-          {
-            "front": "al frente de",
-            "pos": "phrase",
-            "back": "at the head of, in charge of",
-            "example": "Está al frente de una gran empresa.",
-            "tier": "B2"
-          },
-          {
-            "front": "el aliado",
-            "pos": "noun",
-            "back": "ally",
-            "example": "Buscan nuevos aliados para la votación.",
-            "tier": "B1"
-          },
-          {
-            "front": "el arranque",
-            "pos": "noun",
-            "back": "start, kick-off",
-            "example": "El arranque de la temporada fue prometedor.",
-            "tier": "B2"
-          },
-          {
-            "front": "disputado/a",
-            "pos": "adj",
-            "back": "hard-fought, closely contested",
-            "example": "Fue una final muy disputada.",
-            "tier": "B2"
-          },
-          {
-            "front": "el bloque oficialista",
-            "pos": "phrase",
-            "back": "the governing bloc",
-            "example": "El bloque oficialista aprobó la ley.",
-            "tier": "C1"
-          },
-          {
-            "front": "encarnar",
-            "pos": "verb",
-            "back": "to embody, personify",
-            "example": "Ese líder encarna las ideas del partido.",
-            "tier": "C1"
-          },
-          {
-            "front": "la contienda",
-            "pos": "noun",
-            "back": "contest, race (electoral)",
-            "example": "La contienda electoral será muy reñida.",
-            "tier": "C1"
-          },
-          {
-            "front": "polarizar",
-            "pos": "verb",
-            "back": "to polarize",
-            "example": "El debate polarizó a la opinión pública.",
-            "tier": "B2"
-          },
-          {
-            "front": "el rumbo",
-            "pos": "noun",
-            "back": "course, direction",
-            "example": "El país necesita cambiar de rumbo.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Con esta decisión, el presidente buscará un cuarto mandato al frente de Brasil, algo poco común en la política del país.",
-            "point": "Futuro simple para hablar de intenciones y planes",
-            "explanation": "'Buscará' expresa una acción prevista en el futuro cercano dentro de un contexto político.",
-            "why_tricky": "El futuro simple compite con 'ir a + infinitivo'; aquí suena más formal y periodístico."
-          },
-          {
-            "sentence": "El bloque oficialista tendrá que enfrentarse a la extrema derecha, encarnada esta vez por el senador Flávio Bolsonaro, hijo del expresidente Jair Bolsonaro.",
-            "point": "'Tener que' + infinitivo y participio con valor pasivo",
-            "explanation": "'Tendrá que enfrentarse' expresa obligación; 'encarnada por' funciona como una pasiva reducida.",
-            "why_tricky": "El participio 'encarnada' concuerda con 'la extrema derecha' y omite el verbo 'ser'."
-          },
-          {
-            "sentence": "Los próximos meses serán decisivos, porque el resultado no solo definirá el rumbo de Brasil, sino también su peso en la región latinoamericana.",
-            "point": "Correlación 'no solo... sino también'",
-            "explanation": "Esta estructura añade una idea a otra y refuerza el contraste entre ambas.",
-            "why_tricky": "Debe usarse 'sino' (no 'pero') y mantener el paralelismo entre las dos partes."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "al frente de",
-            "meaning": "leading or in charge of something",
-            "example": "Lleva diez años al frente de la organización."
-          },
-          {
-            "phrase": "cambiar de rumbo",
-            "meaning": "to change direction or strategy",
-            "example": "La empresa decidió cambiar de rumbo tras las pérdidas."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué decisión tomó el Partido de los Trabajadores este domingo?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué se considera poco común un cuarto mandato?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué temas ocuparán un lugar central en la campaña?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Es bueno o malo que un mismo líder gobierne durante muchos mandatos? Justifica tu respuesta."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-02-ceuta-migracion",
-      "title": "Cómo la crisis migratoria en Ceuta desató una tormenta política, avivada por las redes sociales",
-      "source": "BBC Mundo",
-      "date": "2026-08-02",
-      "level": "B1-B2",
-      "topics": [
-        "migración",
-        "Europa"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-02-ceuta-migracion",
-        "revision": 1,
-        "meta": {
-          "title": "Cómo la crisis migratoria en Ceuta desató una tormenta política, avivada por las redes sociales",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/ce8k6y8ym3no?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-02",
-          "date_processed": "2026-08-02",
-          "tags": [
-            "migración",
-            "Europa"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The Spanish city of Ceuta was in the news again after many people tried to cross from Morocco into European territory. The images of crowds at the border revived a sensitive debate and sparked a strong political storm. Many citizens expressed their concern, while the parties accused each other of managing the situation badly. Social media amplified the conflict and spread messages that increased the tension.\n\nThis episode highlights the deep divisions that exist in Europe around migration. For some, more control and firmness at the borders is needed; for others, the urgent thing is to protect the rights of those who flee poverty or war. Behind every figure there are complex human stories, and finding a balance between security and solidarity remains one of the continent's biggest challenges.",
-        "resumen_es": "La ciudad española de Ceuta volvió a ser noticia después de que numerosas personas intentaran cruzar desde Marruecos hacia territorio europeo. Las imágenes de multitudes en la frontera reavivaron un debate delicado y provocaron una fuerte tormenta política. Muchos ciudadanos expresaron su preocupación, mientras los partidos se acusaban entre sí de gestionar mal la situación. Las redes sociales amplificaron el conflicto y difundieron mensajes que aumentaron la tensión.\n\nEste episodio pone de relieve las profundas divisiones que existen en Europa en torno a la migración. Para algunos, hace falta más control y firmeza en las fronteras; para otros, lo urgente es proteger los derechos de quienes huyen de la pobreza o de la guerra. Detrás de cada cifra hay historias humanas complejas, y encontrar un equilibrio entre seguridad y solidaridad sigue siendo uno de los mayores retos del continente.",
-        "vocab": [
-          {
-            "front": "volver a ser noticia",
-            "pos": "phrase",
-            "back": "to be back in the news",
-            "example": "El actor volvió a ser noticia por su nueva película.",
-            "tier": "B1"
-          },
-          {
-            "front": "la multitud",
-            "pos": "noun",
-            "back": "crowd",
-            "example": "Una multitud esperaba frente al estadio.",
-            "tier": "B1"
-          },
-          {
-            "front": "la frontera",
-            "pos": "noun",
-            "back": "border",
-            "example": "Cruzaron la frontera al amanecer.",
-            "tier": "B1"
-          },
-          {
-            "front": "reavivar",
-            "pos": "verb",
-            "back": "to reignite, revive",
-            "example": "El discurso reavivó viejas tensiones.",
-            "tier": "C1"
-          },
-          {
-            "front": "la tormenta política",
-            "pos": "phrase",
-            "back": "political storm",
-            "example": "Sus declaraciones desataron una tormenta política.",
-            "tier": "B2"
-          },
-          {
-            "front": "gestionar",
-            "pos": "verb",
-            "back": "to manage, handle",
-            "example": "El alcalde no supo gestionar la crisis.",
-            "tier": "B2"
-          },
-          {
-            "front": "amplificar",
-            "pos": "verb",
-            "back": "to amplify",
-            "example": "Internet amplifica cualquier rumor.",
-            "tier": "B2"
-          },
-          {
-            "front": "poner de relieve",
-            "pos": "phrase",
-            "back": "to highlight, underscore",
-            "example": "El informe pone de relieve un problema grave.",
-            "tier": "C1"
-          },
-          {
-            "front": "hacer falta",
-            "pos": "phrase",
-            "back": "to be needed",
-            "example": "Hace falta más personal en el hospital.",
-            "tier": "B1"
-          },
-          {
-            "front": "huir",
-            "pos": "verb",
-            "back": "to flee",
-            "example": "Muchas familias huyen de la guerra.",
-            "tier": "B1"
-          },
-          {
-            "front": "el reto",
-            "pos": "noun",
-            "back": "challenge",
-            "example": "Reducir la pobreza es un gran reto.",
-            "tier": "B1"
-          },
-          {
-            "front": "en torno a",
-            "pos": "phrase",
-            "back": "regarding, around (a topic)",
-            "example": "Hay mucho debate en torno a este tema.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La ciudad española de Ceuta volvió a ser noticia después de que numerosas personas intentaran cruzar desde Marruecos hacia territorio europeo.",
-            "point": "'Después de que' + subjuntivo",
-            "explanation": "Tras 'después de que' se usa el subjuntivo ('intentaran') para referirse a la acción subordinada.",
-            "why_tricky": "En el habla informal se oye el indicativo, pero la norma culta prefiere el subjuntivo."
-          },
-          {
-            "sentence": "Muchos ciudadanos expresaron su preocupación, mientras los partidos se acusaban entre sí de gestionar mal la situación.",
-            "point": "Contraste pretérito indefinido / imperfecto",
-            "explanation": "'Expresaron' marca un hecho puntual; 'se acusaban' describe una acción en desarrollo de fondo.",
-            "why_tricky": "Elegir entre indefinido e imperfecto según si la acción es puntual o continua confunde a menudo."
-          },
-          {
-            "sentence": "Para algunos, hace falta más control y firmeza en las fronteras; para otros, lo urgente es proteger los derechos de quienes huyen de la pobreza o de la guerra.",
-            "point": "'Hace falta' y el neutro 'lo + adjetivo'",
-            "explanation": "'Hace falta' expresa necesidad; 'lo urgente' convierte un adjetivo en una idea abstracta.",
-            "why_tricky": "El 'lo' neutro no tiene equivalente directo en inglés y cuesta usarlo con naturalidad."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "poner de relieve",
-            "meaning": "to highlight or bring attention to something",
-            "example": "La crisis puso de relieve la falta de recursos."
-          },
-          {
-            "phrase": "acusarse entre sí",
-            "meaning": "to blame one another",
-            "example": "Los socios se acusaban entre sí del fracaso."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué provocó la tormenta política en Ceuta?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué papel jugaron las redes sociales en el conflicto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Cuáles son las dos posturas principales sobre la migración?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "En tu opinión, ¿cómo deberían equilibrar los países la seguridad de las fronteras y la solidaridad con los migrantes?"
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-02-tornillo-estandar",
-      "title": "Cómo un tornillo ayudó a EE.UU. a conquistar el mundo",
-      "source": "BBC Mundo",
-      "date": "2026-08-02",
-      "level": "B1-B2",
-      "topics": [
-        "historia",
-        "industria"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-02-tornillo-estandar",
-        "revision": 1,
-        "meta": {
-          "title": "Cómo un tornillo ayudó a EE.UU. a conquistar el mundo",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c5y4vdwk401o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-02",
-          "date_processed": "2026-08-02",
-          "tags": [
-            "historia",
-            "industria"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "At the start of the 20th century, making objects was a headache because every workshop produced screws with different measurements. A screw from one factory did not fit the part of another, and that made repairs more expensive. Faced with that chaos, the United States decided to bring order and set up a system of common measurements for threads and screws. Thanks to that standardization, machines began to speak the same language and parts became interchangeable.\n\nOver time, that small technical detail had enormous consequences. By imposing its standards, the country got much of the world to adapt to its measurements and so reinforced its industrial influence. Today we use many of those norms without realizing it, every time we assemble a piece of furniture. The story of the screw shows that power often is not born from grand gestures, but from boring decisions that end up shaping everyday life.",
-        "resumen_es": "A principios del siglo XX, fabricar objetos era un dolor de cabeza porque cada taller producía tornillos con medidas distintas. Un tornillo de una fábrica no encajaba en la pieza de otra, y eso encarecía las reparaciones. Ante ese caos, Estados Unidos decidió poner orden y estableció un sistema de medidas comunes para las roscas y los tornillos. Gracias a esa normalización, las máquinas empezaron a hablar el mismo idioma y las piezas se volvieron intercambiables.\n\nCon el tiempo, aquel pequeño detalle técnico tuvo consecuencias enormes. Al imponer sus estándares, el país logró que buena parte del mundo se adaptara a sus medidas y reforzó así su influencia industrial. Hoy usamos muchas de aquellas normas sin darnos cuenta, cada vez que montamos un mueble. La historia del tornillo demuestra que, a menudo, el poder no nace de grandes gestos, sino de decisiones aburridas que terminan moldeando la vida cotidiana.",
-        "vocab": [
-          {
-            "front": "el tornillo",
-            "pos": "noun",
-            "back": "screw",
-            "example": "Necesito un tornillo más largo para esta estantería.",
-            "tier": "B1"
-          },
-          {
-            "front": "la rosca",
-            "pos": "noun",
-            "back": "thread (of a screw)",
-            "example": "La rosca de este tapón está gastada.",
-            "tier": "B2"
-          },
-          {
-            "front": "encajar",
-            "pos": "verb",
-            "back": "to fit together",
-            "example": "Las dos piezas encajan a la perfección.",
-            "tier": "B1"
-          },
-          {
-            "front": "la medida",
-            "pos": "noun",
-            "back": "measurement",
-            "example": "Tomamos las medidas antes de comprar la mesa.",
-            "tier": "B1"
-          },
-          {
-            "front": "la normalización",
-            "pos": "noun",
-            "back": "standardization",
-            "example": "La normalización facilitó el comercio internacional.",
-            "tier": "B2"
-          },
-          {
-            "front": "intercambiable",
-            "pos": "adj",
-            "back": "interchangeable",
-            "example": "Las baterías de estos móviles no son intercambiables.",
-            "tier": "B2"
-          },
-          {
-            "front": "encarecer",
-            "pos": "verb",
-            "back": "to make more expensive",
-            "example": "La subida del combustible encarece el transporte.",
-            "tier": "B2"
-          },
-          {
-            "front": "el taller",
-            "pos": "noun",
-            "back": "workshop",
-            "example": "Llevé el coche al taller por un ruido raro.",
-            "tier": "B1"
-          },
-          {
-            "front": "imponer",
-            "pos": "verb",
-            "back": "to impose",
-            "example": "Nadie puede imponerte una decisión así.",
-            "tier": "B2"
-          },
-          {
-            "front": "moldear",
-            "pos": "verb",
-            "back": "to shape, to mould",
-            "example": "Las lecturas de la infancia moldean nuestro carácter.",
-            "tier": "B2"
-          },
-          {
-            "front": "un dolor de cabeza",
-            "pos": "phrase",
-            "back": "a headache, a hassle",
-            "example": "Organizar la mudanza fue un dolor de cabeza.",
-            "tier": "B1"
-          },
-          {
-            "front": "cotidiano",
-            "pos": "adj",
-            "back": "everyday, daily",
-            "example": "El móvil se ha vuelto un objeto cotidiano.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Ante ese caos, Estados Unidos decidió poner orden y estableció un sistema de medidas comunes para las roscas y los tornillos.",
-            "point": "Pretérito indefinido para acciones puntuales del pasado",
-            "explanation": "Los verbos 'decidió' y 'estableció' están en pretérito indefinido porque describen acciones concretas y terminadas en el pasado.",
-            "why_tricky": "Los estudiantes suelen dudar entre indefinido e imperfecto; aquí son hechos únicos, no descripciones ni costumbres."
-          },
-          {
-            "sentence": "Al imponer sus estándares, el país logró que buena parte del mundo se adaptara a sus medidas y reforzó así su influencia industrial.",
-            "point": "Subjuntivo tras 'lograr que'",
-            "explanation": "'lograr que' expresa influencia sobre otra acción, por eso el segundo verbo va en subjuntivo: 'se adaptara' (imperfecto de subjuntivo).",
-            "why_tricky": "En inglés se usa un infinitivo ('got the world to adapt'), lo que hace que muchos olviden el subjuntivo en español."
-          },
-          {
-            "sentence": "La historia del tornillo demuestra que, a menudo, el poder no nace de grandes gestos, sino de decisiones aburridas que terminan moldeando la vida cotidiana.",
-            "point": "'no... sino' para contraponer ideas",
-            "explanation": "La estructura 'no A, sino B' corrige o contrapone: no nace de una cosa, sino de otra.",
-            "why_tricky": "Se confunde 'sino' (contraste) con 'si no' (condición negativa), que se escriben distinto."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "un dolor de cabeza",
-            "meaning": "algo que causa muchas molestias o problemas",
-            "example": "El papeleo de la herencia fue un verdadero dolor de cabeza."
-          },
-          {
-            "phrase": "hablar el mismo idioma",
-            "meaning": "entenderse o funcionar con los mismos criterios",
-            "example": "Cuando por fin hablamos el mismo idioma, el proyecto avanzó rápido."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué problema causaban los tornillos con medidas distintas a principios del siglo XX?",
-            "type": "open"
-          },
-          {
-            "q": "¿Cómo ayudó la normalización de las medidas a Estados Unidos?",
-            "type": "open"
-          },
-          {
-            "q": "Según el texto, ¿por qué a veces el poder nace de decisiones aburridas?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Estás de acuerdo con que los pequeños detalles técnicos pueden cambiar la historia? Escribe tu opinión con un ejemplo."
       }
     }
   ]
