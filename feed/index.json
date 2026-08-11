@@ -1,7 +1,528 @@
 {
-  "generated_at": "2026-08-10T08:12:22Z",
+  "generated_at": "2026-08-11T08:17:59Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-11-terremoto-colombia-choco",
+      "title": "Qué se sabe del terremoto de magnitud 7,4 que causó más de un centenar de muertos y graves daños en Colombia",
+      "source": "BBC Mundo",
+      "date": "2026-08-11",
+      "level": "B1-B2",
+      "topics": [
+        "desastres",
+        "Colombia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-11-terremoto-colombia-choco",
+        "revision": 1,
+        "meta": {
+          "title": "Qué se sabe del terremoto de magnitud 7,4 que causó más de un centenar de muertos y graves daños en Colombia",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cjd4824d9ljo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-11",
+          "date_processed": "2026-08-11",
+          "tags": [
+            "desastres",
+            "Colombia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "An earthquake of magnitude 7.4 shook western Colombia and left more than a hundred people dead, as well as considerable material damage. The epicentre was located in the department of Chocó, although the tremor was felt strongly in cities such as Cali, Manizales, Pereira and Quibdó. Many residents spent the night out in the open, for fear that the damaged buildings might end up collapsing.\n\nColombia sits on a very active seismic zone, where several plates are constantly rubbing against each other, so tremors are part of everyday life. However, a quake of this size puts building regulations and the response capacity of the emergency services to the test. Over the coming days, the authorities will have to assess the affected buildings, house those who have lost their homes and prepare for the aftershocks, which usually drag on for weeks.",
+        "resumen_es": "Un terremoto de magnitud 7,4 sacudió el occidente de Colombia y dejó más de un centenar de muertos, además de cuantiosos daños materiales. El epicentro se situó en el departamento del Chocó, aunque el temblor se sintió con fuerza en ciudades como Cali, Manizales, Pereira y Quibdó. Muchos vecinos pasaron la noche a la intemperie, por miedo a que los edificios dañados acabaran derrumbándose.\n\nColombia se asienta sobre una zona sísmica muy activa, donde varias placas se rozan constantemente, de modo que los temblores forman parte de la vida cotidiana. Sin embargo, un sismo de esta envergadura pone a prueba las normas de construcción y la capacidad de respuesta de los servicios de emergencia. En los próximos días, las autoridades tendrán que evaluar los edificios afectados, alojar a los damnificados y prepararse para las réplicas, que suelen prolongarse durante semanas.",
+        "vocab": [
+          {
+            "front": "el terremoto",
+            "pos": "noun",
+            "back": "earthquake",
+            "example": "El terremoto se sintió incluso en los países vecinos.",
+            "tier": "B1"
+          },
+          {
+            "front": "el sismo",
+            "pos": "noun",
+            "back": "quake, seismic event (common in Latin America)",
+            "example": "El sismo tuvo su epicentro a casi cien kilómetros de profundidad.",
+            "tier": "B2"
+          },
+          {
+            "front": "la réplica",
+            "pos": "noun",
+            "back": "aftershock",
+            "example": "Tras el temblor principal se registraron decenas de réplicas.",
+            "tier": "B2"
+          },
+          {
+            "front": "el epicentro",
+            "pos": "noun",
+            "back": "epicentre",
+            "example": "El epicentro se situó en una zona rural poco poblada.",
+            "tier": "B2"
+          },
+          {
+            "front": "sacudir",
+            "pos": "verb",
+            "back": "to shake, to rock",
+            "example": "Un fuerte temblor sacudió la ciudad de madrugada.",
+            "tier": "B1"
+          },
+          {
+            "front": "derrumbarse",
+            "pos": "verb",
+            "back": "to collapse, to come down",
+            "example": "El edificio se derrumbó en cuestión de segundos.",
+            "tier": "B2"
+          },
+          {
+            "front": "a la intemperie",
+            "pos": "phrase",
+            "back": "out in the open, exposed to the elements",
+            "example": "Cientos de familias durmieron a la intemperie en el parque.",
+            "tier": "B2"
+          },
+          {
+            "front": "el damnificado",
+            "pos": "noun",
+            "back": "person affected by a disaster",
+            "example": "El gobierno prometió ayuda urgente para los damnificados.",
+            "tier": "B2"
+          },
+          {
+            "front": "los daños materiales",
+            "pos": "phrase",
+            "back": "material damage, property damage",
+            "example": "Los daños materiales se cuentan por millones.",
+            "tier": "B1"
+          },
+          {
+            "front": "cuantioso",
+            "pos": "adj",
+            "back": "considerable, substantial",
+            "example": "Las lluvias provocaron pérdidas cuantiosas en el campo.",
+            "tier": "C1"
+          },
+          {
+            "front": "poner a prueba",
+            "pos": "phrase",
+            "back": "to put to the test",
+            "example": "La crisis puso a prueba la paciencia de todos.",
+            "tier": "B2"
+          },
+          {
+            "front": "asentarse sobre",
+            "pos": "verb",
+            "back": "to sit on, to be built on",
+            "example": "La ciudad se asienta sobre terreno blando.",
+            "tier": "C1"
+          },
+          {
+            "front": "alojar",
+            "pos": "verb",
+            "back": "to house, to put up (someone)",
+            "example": "Alojaron a los evacuados en un polideportivo.",
+            "tier": "B2"
+          },
+          {
+            "front": "prolongarse",
+            "pos": "verb",
+            "back": "to drag on, to go on for",
+            "example": "La búsqueda de supervivientes puede prolongarse varios días.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Muchos vecinos pasaron la noche a la intemperie, por miedo a que los edificios dañados acabaran derrumbándose.",
+            "point": "por miedo a que + imperfect subjunctive",
+            "explanation": "Expressions of fear such as por miedo a que, temer que or tener miedo de que always take the subjunctive. Because the main verb pasaron is in the past, the subordinate verb moves back to the imperfect subjunctive acabaran.",
+            "why_tricky": "In English you can say for fear that the buildings would collapse with an ordinary conditional. Spanish will not accept acababan or acabarían here, and learners often reach for the indicative because the fear feels like a plain fact."
+          },
+          {
+            "sentence": "Colombia se asienta sobre una zona sísmica muy activa, donde varias placas se rozan constantemente, de modo que los temblores forman parte de la vida cotidiana.",
+            "point": "de modo que + indicative for real results",
+            "explanation": "De modo que takes the indicative when it introduces a result that actually happens, as here. With the subjunctive it would mean so that, expressing a purpose rather than a consequence.",
+            "why_tricky": "The same connector flips meaning with the mood: de modo que forman means so tremors are part of daily life, while de modo que formen would mean so that they become part of daily life."
+          },
+          {
+            "sentence": "En los próximos días, las autoridades tendrán que evaluar los edificios afectados, alojar a los damnificados y prepararse para las réplicas, que suelen prolongarse durante semanas.",
+            "point": "tener que + a chain of infinitives, plus personal a",
+            "explanation": "One tendrán que governs three infinitives in a row: evaluar, alojar and prepararse. Note the personal a in alojar a los damnificados, because the direct object is a group of people.",
+            "why_tricky": "Learners tend to repeat tendrán que before each verb, which sounds heavy, and they routinely drop the personal a in front of a human direct object."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "estar en vilo",
+            "meaning": "to be on tenterhooks, anxiously waiting",
+            "example": "El país entero estuvo en vilo mientras buscaban a los desaparecidos."
+          },
+          {
+            "phrase": "no pegar ojo",
+            "meaning": "not to sleep a wink",
+            "example": "Con las réplicas no pegué ojo en toda la noche."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué muchos vecinos prefirieron pasar la noche fuera de sus casas?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué relación hay entre la geología de Colombia y la frecuencia de los temblores?",
+            "type": "open"
+          },
+          {
+            "q": "Según el texto, ¿qué tres tareas tendrán que afrontar las autoridades en los próximos días?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Qué debería hacer un país sísmico para reducir el número de víctimas: invertir en normas de construcción más estrictas o en servicios de emergencia más rápidos? Escribe unas 120 palabras justificando tu elección."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-11-tiburones-tigre-dieta",
+      "title": "\"Los contenedores de basura del océano\": la dieta salvaje de los tiburones más temibles",
+      "source": "BBC Mundo",
+      "date": "2026-08-11",
+      "level": "B1-B2",
+      "topics": [
+        "ciencia",
+        "naturaleza"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-11-tiburones-tigre-dieta",
+        "revision": 1,
+        "meta": {
+          "title": "\"Los contenedores de basura del océano\": la dieta salvaje de los tiburones más temibles",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c629njdr2ypo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-10",
+          "date_processed": "2026-08-11",
+          "tags": [
+            "ciencia",
+            "naturaleza"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Tiger sharks have earned the nickname rubbish bins of the ocean because they are not remotely fussy about food. They feed on almost anything they come across, from turtles and seabirds to waste that ends up in the sea because of human beings, and they are capable of covering enormous distances in order to have a feast.\n\nThat very varied diet, which at first sight looks disgusting, performs an important function in the balance of marine ecosystems. By eating sick or dead animals, these predators clean the water and prevent the spread of disease. Scientists warn, however, that the rubbish they swallow may take its toll on them, which is why studying what they eat also serves as a way of measuring the health of the ocean.",
+        "resumen_es": "Los tiburones tigre se han ganado el apodo de contenedores de basura del océano porque no son nada quisquillosos con la comida. Se alimentan de casi cualquier cosa que encuentren a su paso, desde tortugas y aves marinas hasta restos que acaban en el mar por culpa del ser humano, y son capaces de recorrer distancias enormes para darse un festín.\n\nEsa dieta tan variada, que a primera vista resulta repugnante, cumple una función importante en el equilibrio de los ecosistemas marinos. Al comerse a los animales enfermos o muertos, estos depredadores limpian el agua y frenan la propagación de enfermedades. Los científicos advierten, sin embargo, de que la basura que ingieren puede pasarles factura, de ahí que estudiar su alimentación sirva también para medir la salud del océano.",
+        "vocab": [
+          {
+            "front": "quisquilloso",
+            "pos": "adj",
+            "back": "fussy, picky",
+            "example": "Mi hermano es muy quisquilloso con la comida.",
+            "tier": "C1"
+          },
+          {
+            "front": "darse un festín",
+            "pos": "phrase",
+            "back": "to have a feast, to gorge oneself",
+            "example": "Las gaviotas se dieron un festín con los restos del barco.",
+            "tier": "B2"
+          },
+          {
+            "front": "el apodo",
+            "pos": "noun",
+            "back": "nickname",
+            "example": "Le pusieron un apodo que ya no se le quita.",
+            "tier": "B1"
+          },
+          {
+            "front": "a su paso",
+            "pos": "phrase",
+            "back": "in its path, as it goes",
+            "example": "El río arrastró todo lo que encontró a su paso.",
+            "tier": "B2"
+          },
+          {
+            "front": "alimentarse de",
+            "pos": "verb",
+            "back": "to feed on",
+            "example": "Estas aves se alimentan de insectos y semillas.",
+            "tier": "B1"
+          },
+          {
+            "front": "el depredador",
+            "pos": "noun",
+            "back": "predator",
+            "example": "Sin depredadores, la población de peces crece sin control.",
+            "tier": "B2"
+          },
+          {
+            "front": "la propagación",
+            "pos": "noun",
+            "back": "spread (of disease, fire)",
+            "example": "El viento favoreció la propagación del incendio.",
+            "tier": "B2"
+          },
+          {
+            "front": "pasar factura",
+            "pos": "phrase",
+            "back": "to take its toll",
+            "example": "Tantas horas de trabajo acaban pasando factura.",
+            "tier": "B2"
+          },
+          {
+            "front": "de ahí que",
+            "pos": "phrase",
+            "back": "hence, which is why (+ subjunctive)",
+            "example": "Llovió sin parar, de ahí que se cancelara el partido.",
+            "tier": "C1"
+          },
+          {
+            "front": "a primera vista",
+            "pos": "phrase",
+            "back": "at first sight",
+            "example": "A primera vista parece un problema sencillo.",
+            "tier": "B1"
+          },
+          {
+            "front": "repugnante",
+            "pos": "adj",
+            "back": "disgusting, revolting",
+            "example": "El olor del puerto era repugnante en verano.",
+            "tier": "B2"
+          },
+          {
+            "front": "ingerir",
+            "pos": "verb",
+            "back": "to ingest, to swallow",
+            "example": "Las tortugas ingieren plástico creyendo que son medusas.",
+            "tier": "C1"
+          },
+          {
+            "front": "frenar",
+            "pos": "verb",
+            "back": "to curb, to slow down",
+            "example": "Las nuevas medidas buscan frenar la contaminación.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Se alimentan de casi cualquier cosa que encuentren a su paso, desde tortugas y aves marinas hasta restos que acaban en el mar por culpa del ser humano, y son capaces de recorrer distancias enormes para darse un festín.",
+            "point": "subjunctive in relative clauses with an indefinite antecedent",
+            "explanation": "Cualquier cosa is not a specific thing, so the relative clause takes the subjunctive encuentren. The second relative clause, restos que acaban, refers to real waste that does exist, so it stays in the indicative.",
+            "why_tricky": "Both clauses look identical in shape, yet one needs the subjunctive and the other does not. The trigger is whether the thing referred to is identified or merely hypothetical."
+          },
+          {
+            "sentence": "Al comerse a los animales enfermos o muertos, estos depredadores limpian el agua y frenan la propagación de enfermedades.",
+            "point": "al + infinitive, and the reflexive comerse",
+            "explanation": "Al plus an infinitive means when or by doing something. It is very common in written Spanish, where it sounds tighter than cuando plus a conjugated verb. Comerse with the reflexive pronoun adds the idea of consuming something completely.",
+            "why_tricky": "English speakers say cuando comen, which is correct but flatter, and they drop the se on comerse, losing the sense of eating the whole thing up."
+          },
+          {
+            "sentence": "Los científicos advierten, sin embargo, de que la basura que ingieren puede pasarles factura, de ahí que estudiar su alimentación sirva también para medir la salud del océano.",
+            "point": "de ahí que + subjunctive",
+            "explanation": "De ahí que introduces a consequence and always takes the subjunctive, here sirva. Notice also advertir de que, which keeps the preposition de when the verb means to warn about something.",
+            "why_tricky": "The meaning is a plain result, so learners expect the indicative sirve. The fixed expression requires the subjunctive regardless of how factual the consequence is."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "comer como una lima",
+            "meaning": "to eat a huge amount",
+            "example": "Después de nadar dos horas, come como una lima."
+          },
+          {
+            "phrase": "hacer la vista gorda",
+            "meaning": "to turn a blind eye",
+            "example": "Las autoridades hicieron la vista gorda con los vertidos al mar."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué se les llama a los tiburones tigre contenedores de basura del océano?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué beneficio aporta su dieta al ecosistema marino?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué preocupa a los científicos sobre lo que comen estos animales?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Muchas campañas ambientales se centran en animales bonitos, como los delfines o los osos polares. ¿Crees que los tiburones merecen la misma protección? Escribe unas 120 palabras con tu opinión y un ejemplo."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-11-hermanos-batista-imperio-carnico",
+      "title": "Cómo los hermanos Batista levantaron el mayor imperio cárnico del mundo, cayeron en desgracia y volvieron a la cima",
+      "source": "BBC Mundo",
+      "date": "2026-08-11",
+      "level": "B1-B2",
+      "topics": [
+        "negocios",
+        "Brasil"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-11-hermanos-batista-imperio-carnico",
+        "revision": 1,
+        "meta": {
+          "title": "Cómo los hermanos Batista levantaron el mayor imperio cárnico del mundo, cayeron en desgracia y volvieron a la cima",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cy07klle5nzo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-08",
+          "date_processed": "2026-08-11",
+          "tags": [
+            "negocios",
+            "Brasil"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The story of the brothers Wesley and Joesley Batista sounds like something out of a film. Starting from a small Brazilian butcher's shop, the family gradually built up the largest meat producer in the world, with plants and customers spread across dozens of countries. Then came the fall: the two businessmen found themselves caught up in one of the biggest corruption scandals in Brazil, and their name was tarnished for years.\n\nThe striking thing is that this did not mean the end of the business. As the years went by, the Batistas have returned to the top and their group is still a key player in world food trade. Their career raises uncomfortable questions about the power of big companies and about how much a scandal really weighs when there is so much money at stake.",
+        "resumen_es": "La historia de los hermanos Wesley y Joesley Batista parece sacada de una película. A partir de una pequeña carnicería brasileña, la familia fue levantando poco a poco la mayor productora de carne del mundo, con plantas y clientes repartidos por decenas de países. Luego llegó la caída: los dos empresarios se vieron envueltos en uno de los mayores escándalos de corrupción de Brasil y su nombre quedó manchado durante años.\n\nLo llamativo es que aquello no supuso el final del negocio. Con el paso de los años, los Batista han vuelto a la cima y su grupo sigue siendo un actor clave del comercio mundial de alimentos. Su trayectoria plantea preguntas incómodas sobre el poder de las grandes empresas y sobre hasta qué punto un escándalo pesa de verdad cuando hay tanto dinero en juego.",
+        "vocab": [
+          {
+            "front": "la carnicería",
+            "pos": "noun",
+            "back": "butcher's shop",
+            "example": "Compra la carne en la carnicería de la esquina.",
+            "tier": "B1"
+          },
+          {
+            "front": "levantar (un negocio)",
+            "pos": "verb",
+            "back": "to build up, to get (a business) off the ground",
+            "example": "Levantó la empresa con muy poco dinero.",
+            "tier": "B2"
+          },
+          {
+            "front": "caer en desgracia",
+            "pos": "phrase",
+            "back": "to fall from grace",
+            "example": "El ministro cayó en desgracia tras el escándalo.",
+            "tier": "B2"
+          },
+          {
+            "front": "verse envuelto en",
+            "pos": "phrase",
+            "back": "to get caught up in",
+            "example": "Se vio envuelto en una polémica que no buscaba.",
+            "tier": "B2"
+          },
+          {
+            "front": "entre rejas",
+            "pos": "phrase",
+            "back": "behind bars",
+            "example": "Pasó tres años entre rejas antes del indulto.",
+            "tier": "B2"
+          },
+          {
+            "front": "la multa",
+            "pos": "noun",
+            "back": "fine",
+            "example": "La empresa pagó una multa de varios millones.",
+            "tier": "B1"
+          },
+          {
+            "front": "pactar con la justicia",
+            "pos": "phrase",
+            "back": "to reach a plea deal",
+            "example": "Pactaron con la justicia para reducir la condena.",
+            "tier": "C1"
+          },
+          {
+            "front": "repartido por",
+            "pos": "adj",
+            "back": "spread across, scattered around",
+            "example": "Tiene oficinas repartidas por toda Europa.",
+            "tier": "B2"
+          },
+          {
+            "front": "llamativo",
+            "pos": "adj",
+            "back": "striking, eye-catching",
+            "example": "Lo más llamativo del informe son las cifras.",
+            "tier": "B2"
+          },
+          {
+            "front": "plantear preguntas",
+            "pos": "phrase",
+            "back": "to raise questions",
+            "example": "El caso plantea preguntas sobre la transparencia del sector.",
+            "tier": "B2"
+          },
+          {
+            "front": "hasta qué punto",
+            "pos": "phrase",
+            "back": "to what extent",
+            "example": "No sabemos hasta qué punto influyó la presión política.",
+            "tier": "B2"
+          },
+          {
+            "front": "en juego",
+            "pos": "phrase",
+            "back": "at stake",
+            "example": "Hay miles de empleos en juego.",
+            "tier": "B2"
+          },
+          {
+            "front": "la trayectoria",
+            "pos": "noun",
+            "back": "career, track record",
+            "example": "Su trayectoria profesional impresiona a cualquiera.",
+            "tier": "B2"
+          },
+          {
+            "front": "volver a la cima",
+            "pos": "phrase",
+            "back": "to get back to the top",
+            "example": "Nadie esperaba que volvieran a la cima tan rápido.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "A partir de una pequeña carnicería brasileña, la familia fue levantando poco a poco la mayor productora de carne del mundo, con plantas y clientes repartidos por decenas de países.",
+            "point": "ir + gerund for gradual progress",
+            "explanation": "Fue levantando does not simply mean built. The periphrasis ir plus a gerund presents the action as unfolding step by step over time, which is why poco a poco fits so naturally alongside it.",
+            "why_tricky": "Learners translate the English past simple with levantó, which is grammatical but loses the sense of a slow accumulation that the original conveys."
+          },
+          {
+            "sentence": "Lo llamativo es que aquello no supuso el final del negocio.",
+            "point": "lo + adjective as an abstract noun",
+            "explanation": "Lo plus a masculine singular adjective creates an abstract noun: lo llamativo means the striking thing or what is striking. The same pattern gives lo importante, lo mejor and lo curioso.",
+            "why_tricky": "There is no article like this in English, so learners write el llamativo or la cosa llamativa. Note too that the adjective never agrees with anything, it stays masculine singular."
+          },
+          {
+            "sentence": "Su trayectoria plantea preguntas incómodas sobre el poder de las grandes empresas y sobre hasta qué punto un escándalo pesa de verdad cuando hay tanto dinero en juego.",
+            "point": "embedded questions keep their written accent",
+            "explanation": "Hasta qué punto is an indirect question inside a statement, so qué keeps its accent even though there is no question mark. Word order is flexible here: both un escándalo pesa and pesa un escándalo sound natural.",
+            "why_tricky": "The accent disappears in learners' writing precisely because the sentence is not a question. But qué, cómo, cuánto and the rest keep it whenever they introduce an indirect question."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "hacer su agosto",
+            "meaning": "to make a killing, to cash in",
+            "example": "Los hoteles hicieron su agosto durante el festival."
+          },
+          {
+            "phrase": "borrón y cuenta nueva",
+            "meaning": "a clean slate, let bygones be bygones",
+            "example": "Tras el juicio, la empresa quiso hacer borrón y cuenta nueva."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Cómo empezó el negocio de la familia Batista y en qué se convirtió?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué ocurrió con los dos hermanos durante el escándalo de corrupción?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué dice el texto que su trayectoria plantea preguntas incómodas?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Debería una empresa condenada por corrupción poder seguir creciendo después de pagar sus multas? Escribe unas 120 palabras defendiendo tu postura con al menos un argumento en contra."
+      }
+    },
     {
       "pack_id": "feed-2026-08-10-fenya-jerga-carcelaria",
       "title": "Fenya, la jerga clandestina de las prisiones soviéticas que ahora usan ciberdelincuentes y políticos como Putin",
@@ -6251,492 +6772,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que vivir una enfermedad grave puede hacer a alguien mejor profesional de la salud? Escribe tu opinión con ejemplos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-03-supermercados-publicos-nueva-york",
-      "title": "Cómo son los supermercados con precios baratos del gobierno del socialista Mamdani en Nueva York",
-      "source": "BBC Mundo",
-      "date": "2026-08-03",
-      "level": "B1-B2",
-      "topics": [
-        "economía",
-        "política"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-03-supermercados-publicos-nueva-york",
-        "revision": 1,
-        "meta": {
-          "title": "Cómo son los supermercados con precios baratos del gobierno del socialista Mamdani en Nueva York",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/ckg4rp22ze7o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-01",
-          "date_processed": "2026-08-03",
-          "tags": [
-            "economía",
-            "política"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The mayor of New York announced this week the opening of five municipal supermarkets that will offer basic products with a discount of close to thirty per cent. The measure, promoted by the city's socialist-leaning government, seeks to ease families' finances in the face of the high cost of living.\n\nThe proposal has sparked an intense debate. Its supporters argue that the state must step in when prices shoot up and many households can barely make ends meet. Its critics, on the other hand, warn that competing with private business can prove costly for the public purse and discourage investment. Either way, the New York experiment will be watched closely in other large cities that face similar problems with inflation.",
-        "resumen_es": "El alcalde de Nueva York anunció esta semana la apertura de cinco supermercados municipales que ofrecerán productos básicos con un descuento cercano al treinta por ciento. La medida, impulsada por el gobierno de corte socialista de la ciudad, busca aliviar el bolsillo de las familias frente al elevado coste de la vida.\n\nLa propuesta ha generado un intenso debate. Sus defensores sostienen que el Estado debe intervenir cuando los precios se disparan y muchos hogares apenas llegan a fin de mes. Sus críticos, en cambio, advierten de que competir con el comercio privado puede resultar caro para las arcas públicas y desincentivar la inversión. Sea como sea, el experimento neoyorquino se seguirá de cerca en otras grandes ciudades que enfrentan problemas parecidos con la inflación.",
-        "vocab": [
-          {
-            "front": "alcalde",
-            "pos": "noun",
-            "back": "mayor",
-            "example": "El alcalde presentó el nuevo plan.",
-            "tier": "B1"
-          },
-          {
-            "front": "apertura",
-            "pos": "noun",
-            "back": "opening",
-            "example": "La apertura de la tienda será en agosto.",
-            "tier": "B1"
-          },
-          {
-            "front": "municipal",
-            "pos": "adj",
-            "back": "municipal, city-run",
-            "example": "El mercado municipal abre los sábados.",
-            "tier": "B1"
-          },
-          {
-            "front": "descuento",
-            "pos": "noun",
-            "back": "discount",
-            "example": "Ofrecen un descuento del treinta por ciento.",
-            "tier": "B1"
-          },
-          {
-            "front": "aliviar el bolsillo",
-            "pos": "phrase",
-            "back": "to ease someone's finances",
-            "example": "La ayuda alivia el bolsillo de las familias.",
-            "tier": "B2"
-          },
-          {
-            "front": "coste de la vida",
-            "pos": "phrase",
-            "back": "cost of living",
-            "example": "El coste de la vida ha subido mucho.",
-            "tier": "B1"
-          },
-          {
-            "front": "dispararse",
-            "pos": "verb",
-            "back": "to shoot up (prices)",
-            "example": "Los precios se dispararon este año.",
-            "tier": "B2"
-          },
-          {
-            "front": "llegar a fin de mes",
-            "pos": "phrase",
-            "back": "to make ends meet",
-            "example": "Muchos apenas llegan a fin de mes.",
-            "tier": "B1"
-          },
-          {
-            "front": "arcas públicas",
-            "pos": "phrase",
-            "back": "public coffers",
-            "example": "El plan pesa sobre las arcas públicas.",
-            "tier": "C1"
-          },
-          {
-            "front": "desincentivar",
-            "pos": "verb",
-            "back": "to discourage",
-            "example": "Los impuestos altos desincentivan la inversión.",
-            "tier": "C1"
-          },
-          {
-            "front": "inversión",
-            "pos": "noun",
-            "back": "investment",
-            "example": "La empresa busca nueva inversión.",
-            "tier": "B1"
-          },
-          {
-            "front": "inflación",
-            "pos": "noun",
-            "back": "inflation",
-            "example": "La inflación afecta a los productos básicos.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La medida, impulsada por el gobierno de corte socialista de la ciudad, busca aliviar el bolsillo de las familias frente al elevado coste de la vida.",
-            "point": "participio como cláusula de relativo reducida",
-            "explanation": "'Impulsada por...' equivale a 'que ha sido impulsada por...'. El participio, entre comas, añade información sobre el sustantivo.",
-            "why_tricky": "El participio concuerda en género y número con el sustantivo ('medida' -> 'impulsada')."
-          },
-          {
-            "sentence": "Sus defensores sostienen que el Estado debe intervenir cuando los precios se disparan y muchos hogares apenas llegan a fin de mes.",
-            "point": "'cuando' + indicativo (acción habitual)",
-            "explanation": "Cuando se habla de algo real y habitual, 'cuando' va con indicativo ('se disparan', 'llegan'), no con subjuntivo.",
-            "why_tricky": "Con acciones futuras 'cuando' pediría subjuntivo, así que hay que fijarse en el sentido."
-          },
-          {
-            "sentence": "Sea como sea, el experimento neoyorquino se seguirá de cerca en otras grandes ciudades que enfrentan problemas parecidos con la inflación.",
-            "point": "'sea como sea' + futuro reflexivo pasivo",
-            "explanation": "'Sea como sea' es una expresión concesiva fija en subjuntivo; 'se seguirá' es una pasiva refleja en futuro.",
-            "why_tricky": "La construcción con 'se' esconde quién hace la acción, algo habitual en el registro periodístico."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "sea como sea",
-            "meaning": "one way or another, whatever happens",
-            "example": "Sea como sea, el plan seguirá adelante."
-          },
-          {
-            "phrase": "apretarse el cinturón",
-            "meaning": "to tighten one's belt, cut spending",
-            "example": "Con la crisis, muchas familias se aprietan el cinturón."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué anunció el alcalde de Nueva York y qué descuento ofrecerán los supermercados?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué argumentos dan quienes están a favor de la medida?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué algunos críticos se oponen a los supermercados municipales?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Debería el gobierno abrir supermercados públicos para bajar los precios? Explica tu postura con argumentos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-03-incendios-canicula-europa",
-      "title": "Macroincendios y canículas: la emergencia climática asola Europa",
-      "source": "RFI en Español",
-      "date": "2026-08-03",
-      "level": "B1-B2",
-      "topics": [
-        "medioambiente",
-        "clima"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-03-incendios-canicula-europa",
-        "revision": 1,
-        "meta": {
-          "title": "Macroincendios y canículas: la emergencia climática asola Europa",
-          "source": "RFI en Español",
-          "url": "https://www.rfi.fr/es/programas/en-primera-plana/20260731-macroincendios-y-can%C3%ADculas-la-emergencia-clim%C3%A1tica-asola-europa",
-          "date_published": "2026-07-31",
-          "date_processed": "2026-08-03",
-          "tags": [
-            "medioambiente",
-            "clima"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Europe is living through a summer marked by huge forest fires and heat waves. In France, the flames have devastated an area of forest rarely seen before, while Spain has also suffered fires of great scale. High temperatures and drought turn any spark into a threat that is hard to control.\n\nExperts link these phenomena to climate change, which makes heat waves longer and more intense. As well as destroying nature, the fire endangers entire communities and forces thousands of people to evacuate. Faced with this outlook, many governments are calling for more prevention resources and a common European response, since borders stop neither the smoke nor the heat.",
-        "resumen_es": "Europa vive un verano marcado por los grandes incendios forestales y las olas de calor. En Francia, las llamas han arrasado una superficie de bosque como pocas veces se recordaba, mientras que España también ha sufrido incendios de gran magnitud. Las altas temperaturas y la sequía convierten cualquier chispa en una amenaza difícil de controlar.\n\nLos expertos vinculan estos fenómenos con el cambio climático, que hace que las canículas sean más largas e intensas. Además de destruir la naturaleza, el fuego pone en peligro a poblaciones enteras y obliga a evacuar a miles de personas. Frente a este panorama, muchos gobiernos reclaman más medios de prevención y una respuesta común europea, ya que las fronteras no detienen ni al humo ni al calor.",
-        "vocab": [
-          {
-            "front": "incendio forestal",
-            "pos": "noun",
-            "back": "forest fire, wildfire",
-            "example": "El incendio forestal duró varios días.",
-            "tier": "B1"
-          },
-          {
-            "front": "ola de calor",
-            "pos": "phrase",
-            "back": "heat wave",
-            "example": "La ola de calor batió récords en julio.",
-            "tier": "B1"
-          },
-          {
-            "front": "arrasar",
-            "pos": "verb",
-            "back": "to devastate, wipe out",
-            "example": "El fuego arrasó miles de hectáreas.",
-            "tier": "B2"
-          },
-          {
-            "front": "sequía",
-            "pos": "noun",
-            "back": "drought",
-            "example": "La sequía dejó los campos secos.",
-            "tier": "B1"
-          },
-          {
-            "front": "chispa",
-            "pos": "noun",
-            "back": "spark",
-            "example": "Una simple chispa provocó el incendio.",
-            "tier": "B2"
-          },
-          {
-            "front": "amenaza",
-            "pos": "noun",
-            "back": "threat",
-            "example": "El calor extremo es una amenaza real.",
-            "tier": "B1"
-          },
-          {
-            "front": "vincular",
-            "pos": "verb",
-            "back": "to link, connect",
-            "example": "Los científicos vinculan la sequía con el clima.",
-            "tier": "B2"
-          },
-          {
-            "front": "canícula",
-            "pos": "noun",
-            "back": "heat wave, dog days",
-            "example": "Durante la canícula es mejor no salir al mediodía.",
-            "tier": "B2"
-          },
-          {
-            "front": "evacuar",
-            "pos": "verb",
-            "back": "to evacuate",
-            "example": "Tuvieron que evacuar el pueblo entero.",
-            "tier": "B1"
-          },
-          {
-            "front": "reclamar",
-            "pos": "verb",
-            "back": "to demand, call for",
-            "example": "Los vecinos reclaman más ayuda.",
-            "tier": "B1"
-          },
-          {
-            "front": "prevención",
-            "pos": "noun",
-            "back": "prevention",
-            "example": "La prevención evita muchos incendios.",
-            "tier": "B1"
-          },
-          {
-            "front": "panorama",
-            "pos": "noun",
-            "back": "outlook, situation",
-            "example": "El panorama climático es preocupante.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Las altas temperaturas y la sequía convierten cualquier chispa en una amenaza difícil de controlar.",
-            "point": "convertir algo en algo",
-            "explanation": "La estructura 'convertir A en B' expresa transformación; la preposición 'en' es obligatoria.",
-            "why_tricky": "El estudiante tiende a usar 'a' en lugar de 'en' por influencia del inglés 'into'."
-          },
-          {
-            "sentence": "Los expertos vinculan estos fenómenos con el cambio climático, que hace que las canículas sean más largas e intensas.",
-            "point": "hacer que + subjuntivo",
-            "explanation": "'Hacer que' expresa causa e influencia, por eso el verbo siguiente va en subjuntivo ('sean').",
-            "why_tricky": "Es fácil poner el indicativo 'son'; además 'y' se convierte en 'e' antes de i-."
-          },
-          {
-            "sentence": "Frente a este panorama, muchos gobiernos reclaman más medios de prevención y una respuesta común europea, ya que las fronteras no detienen ni al humo ni al calor.",
-            "point": "'ya que' causal y doble negación 'ni... ni'",
-            "explanation": "'Ya que' introduce la causa; 'no... ni... ni...' enlaza dos elementos negados.",
-            "why_tricky": "La doble negación es correcta en español, aunque en inglés sonaría redundante."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "poner en peligro",
-            "meaning": "to endanger, put at risk",
-            "example": "El humo pone en peligro la salud de todos."
-          },
-          {
-            "phrase": "ser pasto de las llamas",
-            "meaning": "to be consumed by fire",
-            "example": "Varias casas fueron pasto de las llamas."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué dos fenómenos afectan a Europa este verano según el texto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué las altas temperaturas y la sequía agravan los incendios?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué piden muchos gobiernos frente a esta situación?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Qué medidas crees que son más eficaces para prevenir los incendios forestales? Da tu opinión."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-02-guerras-cristeras",
-      "title": "Qué fueron las guerras cristeras, la sangrienta confrontación que marcó la relación entre el Estado y la Iglesia en México",
-      "source": "BBC Mundo",
-      "date": "2026-08-02",
-      "level": "B1-B2",
-      "topics": [
-        "historia",
-        "México"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-02-guerras-cristeras",
-        "revision": 1,
-        "meta": {
-          "title": "Qué fueron las guerras cristeras, la sangrienta confrontación que marcó la relación entre el Estado y la Iglesia en México",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cg4w2pe5zrro?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-02",
-          "date_processed": "2026-08-02",
-          "tags": [
-            "historia",
-            "México"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "A century ago, Mexico lived through a deep conflict between the State and the Catholic Church that is known today as the Cristero War. The confrontation broke out when the government applied laws that limited religious power, and many believers reacted with outrage. Within a few months, the discontent turned into an armed rebellion that spread across several regions of the country. It is estimated that the violence left around 250,000 dead.\n\nWhat is most striking is the prominent role of women, who organized support networks, carried messages and hid the fighters. Although the conflict ended with an agreement between both sides, the wounds took decades to heal. Even today, this episode helps us understand the tense relationship between politics and religion in Mexico, as well as the strength of historical memory.",
-        "resumen_es": "Hace un siglo, México vivió un conflicto profundo entre el Estado y la Iglesia católica que hoy se conoce como las guerras cristeras. El enfrentamiento estalló cuando el gobierno aplicó leyes que limitaban el poder religioso, y muchos creyentes reaccionaron con indignación. En pocos meses, el descontento se transformó en una rebelión armada que se extendió por varias regiones del país. Se calcula que la violencia dejó alrededor de 250.000 muertos.\n\nLo que más llama la atención es el papel destacado de las mujeres, que organizaron redes de apoyo, transportaron mensajes y escondieron a los combatientes. Aunque el conflicto terminó con un acuerdo entre ambas partes, las heridas tardaron décadas en cerrarse. Todavía hoy, este episodio ayuda a entender la tensa relación entre la política y la religión en México, así como la fuerza de la memoria histórica.",
-        "vocab": [
-          {
-            "front": "el enfrentamiento",
-            "pos": "noun",
-            "back": "clash, confrontation",
-            "example": "El enfrentamiento entre los dos bandos duró varios años.",
-            "tier": "B2"
-          },
-          {
-            "front": "estallar",
-            "pos": "verb",
-            "back": "to break out, erupt",
-            "example": "La guerra estalló de forma inesperada.",
-            "tier": "B2"
-          },
-          {
-            "front": "el creyente",
-            "pos": "noun",
-            "back": "believer (religious)",
-            "example": "Miles de creyentes acudieron a la iglesia.",
-            "tier": "B1"
-          },
-          {
-            "front": "la indignación",
-            "pos": "noun",
-            "back": "outrage, indignation",
-            "example": "La noticia provocó una gran indignación.",
-            "tier": "B2"
-          },
-          {
-            "front": "el descontento",
-            "pos": "noun",
-            "back": "discontent, unrest",
-            "example": "El descontento social creció con rapidez.",
-            "tier": "B2"
-          },
-          {
-            "front": "la rebelión armada",
-            "pos": "phrase",
-            "back": "armed rebellion",
-            "example": "El pueblo inició una rebelión armada contra el gobierno.",
-            "tier": "B2"
-          },
-          {
-            "front": "extenderse",
-            "pos": "verb",
-            "back": "to spread",
-            "example": "El fuego se extendió por todo el bosque.",
-            "tier": "B1"
-          },
-          {
-            "front": "el papel (destacado)",
-            "pos": "noun",
-            "back": "(prominent) role",
-            "example": "Ella tuvo un papel destacado en la reforma.",
-            "tier": "B1"
-          },
-          {
-            "front": "la red de apoyo",
-            "pos": "phrase",
-            "back": "support network",
-            "example": "Crearon una red de apoyo para las familias.",
-            "tier": "B1"
-          },
-          {
-            "front": "esconder",
-            "pos": "verb",
-            "back": "to hide (someone/something)",
-            "example": "Escondieron los documentos en el sótano.",
-            "tier": "B1"
-          },
-          {
-            "front": "la herida",
-            "pos": "noun",
-            "back": "wound (also figurative)",
-            "example": "Las heridas del pasado siguen abiertas.",
-            "tier": "B1"
-          },
-          {
-            "front": "la memoria histórica",
-            "pos": "phrase",
-            "back": "historical memory",
-            "example": "El museo defiende la memoria histórica del país.",
-            "tier": "C1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "En pocos meses, el descontento se transformó en una rebelión armada que se extendió por varias regiones del país.",
-            "point": "Pretérito indefinido para narrar hechos concluidos",
-            "explanation": "Usamos 'transformó' y 'extendió' para presentar acciones terminadas dentro de una narración histórica.",
-            "why_tricky": "Ambos verbos son reflexivos ('se transformó', 'se extendió'), por lo que el 'se' es obligatorio y cambia el sentido."
-          },
-          {
-            "sentence": "Se calcula que la violencia dejó alrededor de 250.000 muertos.",
-            "point": "'Se' impersonal con verbo de estimación",
-            "explanation": "'Se calcula que' introduce una cifra sin decir quién la calcula; equivale a 'se estima que'.",
-            "why_tricky": "El verbo va en tercera persona del singular aunque el dato sea un número grande."
-          },
-          {
-            "sentence": "Aunque el conflicto terminó con un acuerdo entre ambas partes, las heridas tardaron décadas en cerrarse.",
-            "point": "'Aunque' + indicativo y 'tardar en' + infinitivo",
-            "explanation": "'Aunque' con indicativo expresa un hecho real; 'tardar en cerrarse' indica cuánto tiempo cuesta algo.",
-            "why_tricky": "Muchos estudiantes olvidan la preposición 'en' en 'tardar en' y usan mal 'aunque' con subjuntivo."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "llamar la atención",
-            "meaning": "to be striking, to stand out",
-            "example": "Lo que más llama la atención es su valentía."
-          },
-          {
-            "phrase": "cerrar heridas",
-            "meaning": "to heal old wounds, move past pain",
-            "example": "El país necesita tiempo para cerrar heridas."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué estalló el conflicto entre el Estado y la Iglesia?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué papel tuvieron las mujeres durante las guerras cristeras?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué sigue siendo relevante hoy este episodio histórico?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que la religión debería influir en las decisiones del gobierno? Explica tu opinión con ejemplos."
       }
     }
   ]
