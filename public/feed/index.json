@@ -1,7 +1,528 @@
 {
-  "generated_at": "2026-08-11T08:17:59Z",
+  "generated_at": "2026-08-11T20:17:32Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-11-crisis-agua-puerto-rico",
+      "title": "Crisis del agua en Puerto Rico: por qué a cientos de miles de personas se les está racionando el suministro en la isla",
+      "source": "BBC Mundo",
+      "date": "2026-08-11",
+      "level": "B1-B2",
+      "topics": [
+        "agua",
+        "Puerto Rico"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-11-crisis-agua-puerto-rico",
+        "revision": 1,
+        "meta": {
+          "title": "Crisis del agua en Puerto Rico: por qué a cientos de miles de personas se les está racionando el suministro en la isla",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c5ydjegg35xo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-10",
+          "date_processed": "2026-08-11",
+          "tags": [
+            "agua",
+            "Puerto Rico"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Hundreds of thousands of people in Puerto Rico have been living for weeks with their water supply rationed. The authorities have imposed cuts by rota, so that many families only receive water for a few hours a day. Behind the measure there are two factors that reinforce each other: very high temperatures, which have emptied the reservoirs, and ageing infrastructure that loses a good part of the water before it reaches homes.\n\nThe rationing mainly affects vulnerable neighbourhoods, where there are no tanks to store water. Experts warn that the problem will not be solved by occasional rain, since the pipes are still deteriorating and repairs are moving slowly. Meanwhile, the government is calling for responsible consumption and is looking at long-term investment. For many residents, however, the urgent thing is to know when water will come out of the tap normally again.",
+        "resumen_es": "Cientos de miles de personas en Puerto Rico viven desde hace semanas con el suministro de agua racionado. Las autoridades han impuesto cortes por turnos, de modo que muchas familias solo reciben agua unas horas al día. Detrás de la medida hay dos factores que se refuerzan entre sí: unas temperaturas muy altas, que han vaciado los embalses, y unas infraestructuras envejecidas que pierden buena parte del agua antes de que llegue a los hogares.\n\nEl racionamiento afecta sobre todo a los barrios vulnerables, donde no hay depósitos para almacenar agua. Los expertos advierten de que el problema no se resolverá con lluvias puntuales, ya que las tuberías siguen deteriorándose y las reparaciones avanzan despacio. Mientras tanto, el gobierno pide un consumo responsable y estudia inversiones a largo plazo. Para muchos habitantes, sin embargo, lo urgente es saber cuándo volverá a salir agua del grifo con normalidad.",
+        "vocab": [
+          {
+            "front": "el suministro",
+            "pos": "noun",
+            "back": "supply (of water, power, food)",
+            "example": "El suministro de agua se cortó a las diez de la noche.",
+            "tier": "B1"
+          },
+          {
+            "front": "racionar",
+            "pos": "verb",
+            "back": "to ration",
+            "example": "Han decidido racionar el agua hasta que suban los embalses.",
+            "tier": "B2"
+          },
+          {
+            "front": "por turnos",
+            "pos": "phrase",
+            "back": "in shifts, on a rota basis",
+            "example": "Los barrios reciben agua por turnos, dos horas cada uno.",
+            "tier": "B1"
+          },
+          {
+            "front": "el embalse",
+            "pos": "noun",
+            "back": "reservoir",
+            "example": "El embalse está al treinta por ciento de su capacidad.",
+            "tier": "B2"
+          },
+          {
+            "front": "envejecido",
+            "pos": "adj",
+            "back": "aged, worn out with time",
+            "example": "La red envejecida provoca fugas constantes.",
+            "tier": "B2"
+          },
+          {
+            "front": "la tubería",
+            "pos": "noun",
+            "back": "pipe, piping",
+            "example": "Una tubería rota dejó sin agua a todo el edificio.",
+            "tier": "B1"
+          },
+          {
+            "front": "el grifo",
+            "pos": "noun",
+            "back": "tap, faucet",
+            "example": "Abrí el grifo y no salió ni una gota.",
+            "tier": "B1"
+          },
+          {
+            "front": "deteriorarse",
+            "pos": "verb",
+            "back": "to deteriorate, to get worse",
+            "example": "La situación se ha deteriorado mucho este verano.",
+            "tier": "B2"
+          },
+          {
+            "front": "puntual",
+            "pos": "adj",
+            "back": "one-off, occasional (not only punctual)",
+            "example": "Fue una avería puntual, no un problema de fondo.",
+            "tier": "B2"
+          },
+          {
+            "front": "almacenar",
+            "pos": "verb",
+            "back": "to store",
+            "example": "Muchos vecinos almacenan agua en garrafas.",
+            "tier": "B1"
+          },
+          {
+            "front": "a largo plazo",
+            "pos": "phrase",
+            "back": "in the long term",
+            "example": "Es una solución a largo plazo, no para esta semana.",
+            "tier": "B1"
+          },
+          {
+            "front": "advertir de que",
+            "pos": "verb",
+            "back": "to warn that",
+            "example": "Los técnicos advierten de que el corte puede durar meses.",
+            "tier": "B2"
+          },
+          {
+            "front": "el consumo responsable",
+            "pos": "phrase",
+            "back": "responsible consumption",
+            "example": "La campaña pide consumo responsable en toda la isla.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Detrás de la medida hay dos factores que se refuerzan entre sí: unas temperaturas muy altas, que han vaciado los embalses, y unas infraestructuras envejecidas que pierden buena parte del agua antes de que llegue a los hogares.",
+            "point": "antes de que + subjuntivo",
+            "explanation": "After antes de que the verb always goes in the subjunctive, here llegue rather than llega, because the action is presented as not yet realised.",
+            "why_tricky": "English uses a plain present after before, so learners write antes de que llega. If the subject is the same in both clauses, Spanish prefers the infinitive instead: antes de llegar."
+          },
+          {
+            "sentence": "Los expertos advierten de que el problema no se resolverá con lluvias puntuales, ya que las tuberías siguen deteriorándose y las reparaciones avanzan despacio.",
+            "point": "seguir + gerundio and the pronoun attached to it",
+            "explanation": "Seguir + gerundio means to keep on doing something. With a reflexive verb the pronoun can attach to the gerund, siguen deteriorándose, which then needs a written accent.",
+            "why_tricky": "The alternative se siguen deteriorando is equally correct, and learners often forget the accent on deteriorándose once the pronoun is attached."
+          },
+          {
+            "sentence": "Para muchos habitantes, sin embargo, lo urgente es saber cuándo volverá a salir agua del grifo con normalidad.",
+            "point": "lo + adjective and volver a + infinitivo",
+            "explanation": "Lo urgente turns an adjective into an abstract noun, the urgent thing. Volver a + infinitivo means to do something again, so volverá a salir is will come out again.",
+            "why_tricky": "There is no article el or la with lo, and volver a is not about returning here, which makes it easy to translate literally and lose the meaning of again."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "reforzarse entre sí",
+            "meaning": "to reinforce one another, said of two causes acting together",
+            "example": "La sequía y las fugas se refuerzan entre sí y agravan la crisis."
+          },
+          {
+            "phrase": "quedarse sin agua",
+            "meaning": "to run out of water, to be left without a supply",
+            "example": "El barrio se quedó sin agua durante tres días seguidos."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué muchas familias de Puerto Rico solo reciben agua unas horas al día?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué papel juegan las infraestructuras antiguas en esta crisis?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué dicen los expertos que la lluvia no basta para resolver el problema?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Debería el Estado invertir primero en reparar las tuberías o en construir nuevos embalses? Escribe unas 120 palabras defendiendo tu postura con dos argumentos."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-11-eclipse-avellanosa-muno",
+      "title": "Eclipse solar total: Avellanosa de Muñó, el pequeño pueblo de España que por una noche será el lugar más fascinante del planeta",
+      "source": "BBC Mundo",
+      "date": "2026-08-11",
+      "level": "B1-B2",
+      "topics": [
+        "astronomía",
+        "España"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-11-eclipse-avellanosa-muno",
+        "revision": 1,
+        "meta": {
+          "title": "Eclipse solar total: Avellanosa de Muñó, el pequeño pueblo de España que por una noche será el lugar más fascinante del planeta",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cwymvm84p9ko?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-09",
+          "date_processed": "2026-08-11",
+          "tags": [
+            "astronomía",
+            "España"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Avellanosa de Muñó is a village in northern Spain that barely appears on maps and receives almost no visitors during the year. For a few hours, however, it will become one of the most sought-after places on the planet, because it lies right inside the band from which the total solar eclipse will be seen. The few residents who are left are getting ready to welcome curious visitors, amateur astronomers and television crews.\n\nThe event has stirred up enormous interest in the area, where hotels and rural guest houses have had no rooms free for months. For many villages in what is called emptied Spain, the occasion is an unusual chance to make themselves known and to leave some money in the district. Astronomers, for their part, remind everyone that it is wise to look at the sun only with certified glasses. Once the eclipse is over, the village will return to its usual silence.",
+        "resumen_es": "Avellanosa de Muñó es una aldea del norte de España que apenas aparece en los mapas y casi no recibe visitantes a lo largo del año. Sin embargo, durante unas horas se convertirá en uno de los lugares más codiciados del planeta, porque queda justo en la franja desde la que se verá el eclipse solar total. Los pocos vecinos que quedan se preparan para recibir a curiosos, astrónomos aficionados y equipos de televisión.\n\nEl fenómeno ha despertado un interés enorme en la zona, donde hoteles y casas rurales llevan meses sin habitaciones libres. Para muchos pueblos de la llamada España vaciada, la cita supone una oportunidad poco habitual de darse a conocer y de dejar algo de dinero en la comarca. Los astrónomos, por su parte, recuerdan que conviene mirar el sol solo con gafas homologadas. Pasado el eclipse, la aldea volverá a su silencio de siempre.",
+        "vocab": [
+          {
+            "front": "la aldea",
+            "pos": "noun",
+            "back": "small village, hamlet",
+            "example": "En la aldea viven apenas veinte personas todo el año.",
+            "tier": "B1"
+          },
+          {
+            "front": "apenas",
+            "pos": "adv",
+            "back": "barely, hardly",
+            "example": "Apenas se ven coches por la carretera.",
+            "tier": "B1"
+          },
+          {
+            "front": "codiciado",
+            "pos": "adj",
+            "back": "coveted, much sought after",
+            "example": "Es el destino más codiciado del verano.",
+            "tier": "C1"
+          },
+          {
+            "front": "la franja",
+            "pos": "noun",
+            "back": "strip, band (of land or time)",
+            "example": "El eclipse solo será total en una franja estrecha.",
+            "tier": "B2"
+          },
+          {
+            "front": "el vecino",
+            "pos": "noun",
+            "back": "resident, local (not only neighbour)",
+            "example": "Los vecinos del pueblo han organizado un mirador.",
+            "tier": "B1"
+          },
+          {
+            "front": "aficionado a",
+            "pos": "phrase",
+            "back": "keen on, an enthusiast of",
+            "example": "Es muy aficionado a la astronomía desde niño.",
+            "tier": "B1"
+          },
+          {
+            "front": "la casa rural",
+            "pos": "noun",
+            "back": "country guest house, rural B and B",
+            "example": "Reservamos una casa rural con seis meses de antelación.",
+            "tier": "B1"
+          },
+          {
+            "front": "la comarca",
+            "pos": "noun",
+            "back": "district, local area of several villages",
+            "example": "Toda la comarca espera una avalancha de visitantes.",
+            "tier": "B2"
+          },
+          {
+            "front": "homologado",
+            "pos": "adj",
+            "back": "certified, officially approved",
+            "example": "Solo sirven las gafas homologadas para mirar el sol.",
+            "tier": "C1"
+          },
+          {
+            "front": "darse a conocer",
+            "pos": "phrase",
+            "back": "to make oneself known, to get noticed",
+            "example": "El pueblo quiere darse a conocer más allá de la provincia.",
+            "tier": "B2"
+          },
+          {
+            "front": "la España vaciada",
+            "pos": "phrase",
+            "back": "emptied Spain, the depopulated rural interior",
+            "example": "La España vaciada pierde habitantes cada año.",
+            "tier": "C1"
+          },
+          {
+            "front": "suponer",
+            "pos": "verb",
+            "back": "to represent, to amount to",
+            "example": "La visita supone un ingreso importante para los bares.",
+            "tier": "B2"
+          },
+          {
+            "front": "convenir + infinitivo",
+            "pos": "verb",
+            "back": "to be advisable to do something",
+            "example": "Conviene llegar temprano si quieres aparcar.",
+            "tier": "B2"
+          },
+          {
+            "front": "el silencio de siempre",
+            "pos": "phrase",
+            "back": "the usual silence, the quiet of always",
+            "example": "Tras la fiesta, el pueblo recuperó el silencio de siempre.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Sin embargo, durante unas horas se convertirá en uno de los lugares más codiciados del planeta, porque queda justo en la franja desde la que se verá el eclipse solar total.",
+            "point": "preposition + article + que in relative clauses",
+            "explanation": "When a relative clause needs a preposition, Spanish puts the article between them and the antecedent decides the gender and number: la franja desde la que.",
+            "why_tricky": "English can strand the preposition at the end, the strip the eclipse will be seen from. Spanish cannot, and desde que would change the meaning to since."
+          },
+          {
+            "sentence": "Para muchos pueblos de la llamada España vaciada, la cita supone una oportunidad poco habitual de darse a conocer y de dejar algo de dinero en la comarca.",
+            "point": "reflexive infinitive with the pronoun attached",
+            "explanation": "In darse a conocer the pronoun se stays attached to the infinitive because the infinitive is the complement of oportunidad de, not of a conjugated verb.",
+            "why_tricky": "Learners often detach the pronoun and write se dar a conocer, which is impossible; the pronoun only moves in front of a conjugated verb."
+          },
+          {
+            "sentence": "Pasado el eclipse, la aldea volverá a su silencio de siempre.",
+            "point": "absolute participle construction",
+            "explanation": "A participle plus a noun with no verb, Pasado el eclipse, means once the eclipse is over. The participle agrees with the noun that follows it.",
+            "why_tricky": "It looks like a missing verb, and the word order participle before noun feels backwards; the equivalent full clause would be Cuando haya pasado el eclipse."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "a lo largo del año",
+            "meaning": "throughout the year, over the course of the year",
+            "example": "A lo largo del año casi no pasa nadie por allí."
+          },
+          {
+            "phrase": "por su parte",
+            "meaning": "for their part, as for them",
+            "example": "Los hosteleros, por su parte, no dan abasto con las reservas."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué esta aldea se convertirá en un lugar tan codiciado durante unas horas?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué puede ganar la comarca con la llegada de tantos visitantes?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué recomiendan los astrónomos a quienes quieran ver el eclipse?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Puede un acontecimiento como un eclipse ayudar de verdad a los pueblos pequeños, o el efecto dura solo un día? Escribe unas 120 palabras con tu opinión."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-11-ecuador-imputacion-villavicencio",
+      "title": "Ecuador imputa a un exministro y otras 6 personas en el caso del asesinato del candidato presidencial Fernando Villavicencio",
+      "source": "BBC Mundo",
+      "date": "2026-08-11",
+      "level": "B1-B2",
+      "topics": [
+        "justicia",
+        "Ecuador"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-11-ecuador-imputacion-villavicencio",
+        "revision": 1,
+        "meta": {
+          "title": "Ecuador imputa a un exministro y otras 6 personas en el caso del asesinato del candidato presidencial Fernando Villavicencio",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/ckgdlp0rn0do?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-09",
+          "date_processed": "2026-08-11",
+          "tags": [
+            "justicia",
+            "Ecuador"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The public prosecutor in Ecuador has charged a former minister and six other people over the murder of the presidential candidate Fernando Villavicencio, which happened during the election campaign. According to the accusation, those charged are said to have played an indirect role in the crime, either by passing on information or by withdrawing protection measures. None of them is said to have fired a shot, but the prosecutor argues that without their involvement the attack could not have been carried out.\n\nThe case has shaped political life in Ecuador, because it laid bare how far organised crime has got inside the institutions. Lawyers for the accused deny the charges and say they will appeal. The family of the victim, by contrast, has spent years demanding that the people who gave the order be investigated, and not only the gunmen. The trial will be a real test for the justice system of the country.",
+        "resumen_es": "La fiscalía de Ecuador ha imputado a un exministro y a otras seis personas por el asesinato del candidato presidencial Fernando Villavicencio, ocurrido durante la campaña electoral. Según la acusación, los procesados habrían tenido un papel indirecto en el crimen, ya sea facilitando información o retirando medidas de protección. Ninguno de ellos habría disparado, pero la fiscalía sostiene que sin esa colaboración el ataque no se habría podido llevar a cabo.\n\nEl caso ha marcado la vida política ecuatoriana, porque puso de manifiesto hasta qué punto el crimen organizado se ha infiltrado en las instituciones. Los abogados de los imputados niegan las acusaciones y anuncian que recurrirán la decisión. La familia de la víctima, en cambio, lleva años reclamando que se investigue a quienes dieron la orden y no solo a los autores materiales. El juicio será una prueba de fuego para la justicia del país.",
+        "vocab": [
+          {
+            "front": "la fiscalía",
+            "pos": "noun",
+            "back": "the public prosecutor's office",
+            "example": "La fiscalía pidió tres años más de investigación.",
+            "tier": "B2"
+          },
+          {
+            "front": "imputar",
+            "pos": "verb",
+            "back": "to charge, to formally accuse",
+            "example": "Han imputado a siete personas en el mismo caso.",
+            "tier": "C1"
+          },
+          {
+            "front": "el procesado",
+            "pos": "noun",
+            "back": "the accused, the person on trial",
+            "example": "Los procesados llegaron al juzgado con abogados propios.",
+            "tier": "C1"
+          },
+          {
+            "front": "el papel",
+            "pos": "noun",
+            "back": "role, part played",
+            "example": "Nadie ha aclarado todavía su papel en los hechos.",
+            "tier": "B1"
+          },
+          {
+            "front": "retirar",
+            "pos": "verb",
+            "back": "to withdraw, to remove",
+            "example": "Le retiraron la escolta dos semanas antes.",
+            "tier": "B1"
+          },
+          {
+            "front": "llevar a cabo",
+            "pos": "phrase",
+            "back": "to carry out",
+            "example": "El plan se llevó a cabo en pocos minutos.",
+            "tier": "B2"
+          },
+          {
+            "front": "poner de manifiesto",
+            "pos": "phrase",
+            "back": "to bring to light, to make evident",
+            "example": "El informe pone de manifiesto graves fallos de seguridad.",
+            "tier": "C1"
+          },
+          {
+            "front": "infiltrarse",
+            "pos": "verb",
+            "back": "to infiltrate, to get inside",
+            "example": "Las bandas se han infiltrado en varias alcaldías.",
+            "tier": "B2"
+          },
+          {
+            "front": "recurrir",
+            "pos": "verb",
+            "back": "to appeal a legal decision",
+            "example": "La defensa recurrirá el auto ante otro tribunal.",
+            "tier": "C1"
+          },
+          {
+            "front": "reclamar",
+            "pos": "verb",
+            "back": "to demand, to call for",
+            "example": "La familia reclama justicia desde hace tres años.",
+            "tier": "B2"
+          },
+          {
+            "front": "el autor material",
+            "pos": "phrase",
+            "back": "the person who physically carried out a crime",
+            "example": "Los autores materiales ya fueron condenados.",
+            "tier": "C1"
+          },
+          {
+            "front": "en cambio",
+            "pos": "phrase",
+            "back": "on the other hand, by contrast",
+            "example": "Él calla; ella, en cambio, habla con la prensa.",
+            "tier": "B1"
+          },
+          {
+            "front": "ya sea... o",
+            "pos": "phrase",
+            "back": "whether... or",
+            "example": "Ya sea por miedo o por dinero, nadie declaró.",
+            "tier": "B2"
+          },
+          {
+            "front": "la prueba de fuego",
+            "pos": "phrase",
+            "back": "acid test, decisive test",
+            "example": "Este juicio es la prueba de fuego del nuevo fiscal.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Según la acusación, los procesados habrían tenido un papel indirecto en el crimen, ya sea facilitando información o retirando medidas de protección.",
+            "point": "condicional compuesto for unconfirmed information",
+            "explanation": "Habrían tenido does not express a condition here. Journalists use the conditional to report something that is alleged but not proven, roughly they are said to have had.",
+            "why_tricky": "Learners read it as an if sentence and look for a missing si clause. The giveaway is a source phrase such as según la acusación."
+          },
+          {
+            "sentence": "La familia de la víctima, en cambio, lleva años reclamando que se investigue a quienes dieron la orden y no solo a los autores materiales.",
+            "point": "llevar + time + gerundio, and subjunctive after reclamar",
+            "explanation": "Llevar años reclamando means has spent years demanding, the standard way to express duration. Reclamar que expresses a demand, so the next verb goes in the subjunctive: se investigue.",
+            "why_tricky": "There is no verb for have been in this structure, and the impersonal se investigue hides the agent, which learners often replace with a wrong indicative se investiga."
+          },
+          {
+            "sentence": "El caso ha marcado la vida política ecuatoriana, porque puso de manifiesto hasta qué punto el crimen organizado se ha infiltrado en las instituciones.",
+            "point": "pretérito perfecto against pretérito indefinido",
+            "explanation": "Ha marcado and se ha infiltrado describe effects that are still felt now, while puso refers to the closed moment when the case brought that infiltration to light.",
+            "why_tricky": "Both translate as a simple past in English, and Latin American Spanish often prefers the indefinido where Spain would use the perfecto."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "hasta qué punto",
+            "meaning": "how far, to what extent",
+            "example": "Nadie sabe hasta qué punto estaban implicados los policías."
+          },
+          {
+            "phrase": "dar la orden",
+            "meaning": "to give the order, to be the one behind a decision",
+            "example": "Buscan a quien dio la orden, no solo a quien disparó."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿De qué acusa la fiscalía al exministro y a las otras seis personas?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué diferencia hay entre los autores materiales y los procesados en este caso?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué dice el texto que el caso ha marcado la vida política del país?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Debe castigarse igual a quien da una orden criminal que a quien la ejecuta? Escribe unas 120 palabras justificando tu respuesta."
+      }
+    },
     {
       "pack_id": "feed-2026-08-11-terremoto-colombia-choco",
       "title": "Qué se sabe del terremoto de magnitud 7,4 que causó más de un centenar de muertos y graves daños en Colombia",
@@ -6265,513 +6786,6 @@
           }
         ],
         "opinion_prompt": "¿Hasta qué punto te parece razonable invertir dinero público en estudiar animales tan poco conocidos como la rata topo desnuda? Escribe unas 120 palabras con tu opinión."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-04-ue-normas-ia",
-      "title": "UE: Entran en vigor nuevas medidas para regular la inteligencia artificial",
-      "source": "RFI Español",
-      "date": "2026-08-04",
-      "level": "B1-B2",
-      "topics": [
-        "tecnología",
-        "Europa"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-04-ue-normas-ia",
-        "revision": 1,
-        "meta": {
-          "title": "UE: Entran en vigor nuevas medidas para regular la inteligencia artificial",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/europa/20260803-ue-entran-en-vigor-nuevas-medidas-para-regular-la-inteligencia-artificial",
-          "date_published": "2026-08-03",
-          "date_processed": "2026-08-04",
-          "tags": [
-            "tecnología",
-            "Europa"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "New provisions of the European regulation on artificial intelligence, known as the AI Act, came into force on Sunday. With this pioneering law, the European Union is testing its ability to set the pace for a technology that is moving much faster than the rules. The new obligations mainly affect systems considered to carry the greatest risk, and the companies that develop them or place them on the European market.\n\nThe debate, however, is far from settled. On the one hand, a large part of the tech sector warns that excessive bureaucracy may hold back innovation and drive investment away. On the other, digital rights organisations argue that without clear rules it is impossible to protect citizens from opaque automated decisions. Over the coming months we will see to what extent the member states are capable of applying the regulation in a consistent way.",
-        "resumen_es": "Desde este domingo han entrado en vigor nuevas disposiciones del reglamento europeo sobre inteligencia artificial, conocido como AI Act. Con esta ley pionera, la Unión Europea pone a prueba su capacidad para marcar el ritmo de una tecnología que avanza mucho más rápido que las normas. Las nuevas obligaciones afectan sobre todo a los sistemas considerados de mayor riesgo y a las empresas que los desarrollan o los ponen en el mercado europeo.\n\nEl debate, sin embargo, dista de estar cerrado. Por un lado, buena parte del sector tecnológico advierte de que un exceso de burocracia puede frenar la innovación y alejar inversiones. Por otro, las organizaciones de derechos digitales sostienen que sin reglas claras resulta imposible proteger a los ciudadanos frente a decisiones automatizadas opacas. En los próximos meses se verá hasta qué punto los Estados miembros son capaces de aplicar el reglamento de manera coherente.",
-        "vocab": [
-          {
-            "front": "entrar en vigor",
-            "pos": "phrase",
-            "back": "to come into force, to take effect",
-            "example": "La nueva normativa entrará en vigor el mes que viene.",
-            "tier": "B2"
-          },
-          {
-            "front": "disposición",
-            "pos": "noun",
-            "back": "provision, clause (in a law)",
-            "example": "Las disposiciones del contrato son muy claras.",
-            "tier": "B2"
-          },
-          {
-            "front": "reglamento",
-            "pos": "noun",
-            "back": "regulation, set of rules",
-            "example": "El reglamento europeo obliga a informar al usuario.",
-            "tier": "B1"
-          },
-          {
-            "front": "pionero",
-            "pos": "adj",
-            "back": "pioneering, groundbreaking",
-            "example": "Fue un proyecto pionero en su sector.",
-            "tier": "B2"
-          },
-          {
-            "front": "poner a prueba",
-            "pos": "phrase",
-            "back": "to put to the test",
-            "example": "La crisis puso a prueba al equipo entero.",
-            "tier": "B1"
-          },
-          {
-            "front": "marcar el ritmo",
-            "pos": "phrase",
-            "back": "to set the pace",
-            "example": "China quiere marcar el ritmo en energías limpias.",
-            "tier": "B2"
-          },
-          {
-            "front": "distar de",
-            "pos": "verb",
-            "back": "to be far from (being something)",
-            "example": "El acuerdo dista de ser perfecto.",
-            "tier": "C1"
-          },
-          {
-            "front": "advertir de",
-            "pos": "verb",
-            "back": "to warn about",
-            "example": "Los médicos advierten del riesgo de deshidratación.",
-            "tier": "B2"
-          },
-          {
-            "front": "frenar",
-            "pos": "verb",
-            "back": "to slow down, to hold back",
-            "example": "Los impuestos podrían frenar el consumo.",
-            "tier": "B1"
-          },
-          {
-            "front": "sostener (que)",
-            "pos": "verb",
-            "back": "to maintain, to argue (that)",
-            "example": "El abogado sostiene que su cliente es inocente.",
-            "tier": "B2"
-          },
-          {
-            "front": "opaco",
-            "pos": "adj",
-            "back": "opaque, not transparent",
-            "example": "El proceso de selección fue bastante opaco.",
-            "tier": "B2"
-          },
-          {
-            "front": "Estado miembro",
-            "pos": "noun",
-            "back": "member state (of the EU)",
-            "example": "Cada Estado miembro aplica la directiva a su manera.",
-            "tier": "B2"
-          },
-          {
-            "front": "de manera coherente",
-            "pos": "phrase",
-            "back": "in a consistent way",
-            "example": "Hay que actuar de manera coherente con lo prometido.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Desde este domingo han entrado en vigor nuevas disposiciones del reglamento europeo sobre inteligencia artificial, conocido como AI Act.",
-            "point": "Pretérito perfecto with 'desde' plus inverted word order",
-            "explanation": "Spanish uses the present perfect for events in a period that reaches the present, and here the subject 'nuevas disposiciones' comes after the verb, which is normal when new information is introduced.",
-            "why_tricky": "English would say 'came into force on Sunday' with a simple past and subject first, so learners often produce 'entraron' and put the subject before the verb."
-          },
-          {
-            "sentence": "Por otro, las organizaciones de derechos digitales sostienen que sin reglas claras resulta imposible proteger a los ciudadanos frente a decisiones automatizadas opacas.",
-            "point": "Impersonal 'resulta imposible' plus infinitive",
-            "explanation": "With expressions like resulta imposible, es difícil or es necesario, Spanish uses a bare infinitive when there is no specific subject.",
-            "why_tricky": "Learners often insert 'que' and a subjunctive clause, which is only needed when a subject is named."
-          },
-          {
-            "sentence": "En los próximos meses se verá hasta qué punto los Estados miembros son capaces de aplicar el reglamento de manera coherente.",
-            "point": "Impersonal 'se' with future tense",
-            "explanation": "'Se verá' means 'it will be seen' or 'we shall see', with no stated agent, a very common register in news writing.",
-            "why_tricky": "The English equivalent needs a subject ('we will see'), so learners are tempted to write 'veremos' and lose the neutral tone."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "poner a prueba",
-            "meaning": "to test something or someone under real pressure",
-            "example": "El viaje puso a prueba nuestra paciencia."
-          },
-          {
-            "phrase": "distar mucho de",
-            "meaning": "to be nowhere near, to fall well short of",
-            "example": "El resultado dista mucho de lo que esperábamos."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué pone a prueba la Unión Europea con el AI Act, según el texto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué argumentos enfrentan al sector tecnológico y a las organizaciones de derechos digitales?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué crees que el texto dice que el debate no está cerrado?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que regular la inteligencia artificial protege a los ciudadanos o frena la innovación? Escribe unas 120 palabras defendiendo tu postura con al menos dos argumentos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-04-unam-examenes-memoria",
-      "title": "\"El escándalo de los exámenes de la UNAM es una oportunidad para abandonar la escuela tradicional basada en la memoria\"",
-      "source": "BBC Mundo",
-      "date": "2026-08-04",
-      "level": "B1-B2",
-      "topics": [
-        "educación",
-        "México"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-04-unam-examenes-memoria",
-        "revision": 1,
-        "meta": {
-          "title": "\"El escándalo de los exámenes de la UNAM es una oportunidad para abandonar la escuela tradicional basada en la memoria\"",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c330rvm4xpzo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-03",
-          "date_processed": "2026-08-04",
-          "tags": [
-            "educación",
-            "México"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The Colombian educationalist Julián de Zubiría argues that the scandal over the UNAM entrance exams should be used to rethink the education model. In an interview with BBC Mundo, he says that a school built around memorising facts no longer makes sense when any student can turn to artificial intelligence to answer closed questions. In his view, the real problem is not only the cheating, but the kind of knowledge that gets assessed.\n\nHis proposal is to assess skills such as critical thinking, argument and the ability to solve unfamiliar problems. Changing the exams of such a large university, however, is not at all simple: it means training teachers, redesigning tests and persuading families used to a highly competitive system. De Zubiría admits that this is a slow process, but he insists that the arrival of artificial intelligence has made the reform more urgent.",
-        "resumen_es": "El pedagogo colombiano Julián de Zubiría sostiene que el escándalo de los exámenes de admisión de la UNAM debería servir para replantear el modelo educativo. En una entrevista con BBC Mundo, defiende que una escuela centrada en memorizar datos ya no tiene sentido cuando cualquier estudiante puede recurrir a la inteligencia artificial para responder preguntas cerradas. A su juicio, el problema no es solo el fraude, sino el tipo de conocimiento que se evalúa.\n\nSu propuesta apunta a evaluar competencias como el pensamiento crítico, la argumentación y la capacidad de resolver problemas nuevos. Cambiar los exámenes de una universidad tan grande, sin embargo, no resulta nada sencillo: implica formar profesores, rediseñar pruebas y convencer a familias acostumbradas a un sistema muy competitivo. De Zubiría reconoce que se trata de un proceso lento, pero insiste en que la inteligencia artificial ha vuelto la reforma más urgente.",
-        "vocab": [
-          {
-            "front": "pedagogo",
-            "pos": "noun",
-            "back": "educationalist, education expert",
-            "example": "El pedagogo lleva treinta años formando profesores.",
-            "tier": "B2"
-          },
-          {
-            "front": "examen de admisión",
-            "pos": "noun",
-            "back": "entrance exam",
-            "example": "Se presentaron miles de jóvenes al examen de admisión.",
-            "tier": "B1"
-          },
-          {
-            "front": "replantear",
-            "pos": "verb",
-            "back": "to rethink, to reconsider from scratch",
-            "example": "Tuvimos que replantear todo el proyecto.",
-            "tier": "B2"
-          },
-          {
-            "front": "centrado en",
-            "pos": "adj",
-            "back": "focused on, centred on",
-            "example": "Es un curso centrado en la conversación.",
-            "tier": "B1"
-          },
-          {
-            "front": "recurrir a",
-            "pos": "verb",
-            "back": "to resort to, to turn to",
-            "example": "Muchos alumnos recurren a vídeos para estudiar.",
-            "tier": "B2"
-          },
-          {
-            "front": "a su juicio",
-            "pos": "phrase",
-            "back": "in his or her view",
-            "example": "A su juicio, la medida llega tarde.",
-            "tier": "B2"
-          },
-          {
-            "front": "el problema de fondo",
-            "pos": "phrase",
-            "back": "the underlying problem",
-            "example": "El problema de fondo es la falta de inversión.",
-            "tier": "B2"
-          },
-          {
-            "front": "evaluar",
-            "pos": "verb",
-            "back": "to assess, to evaluate",
-            "example": "El profesor evalúa el proceso, no solo el resultado.",
-            "tier": "B1"
-          },
-          {
-            "front": "competencia",
-            "pos": "noun",
-            "back": "skill, competence (in education)",
-            "example": "El currículo se organiza por competencias.",
-            "tier": "B2"
-          },
-          {
-            "front": "pensamiento crítico",
-            "pos": "noun",
-            "back": "critical thinking",
-            "example": "La escuela debería enseñar pensamiento crítico.",
-            "tier": "B2"
-          },
-          {
-            "front": "no resultar nada sencillo",
-            "pos": "phrase",
-            "back": "to be far from easy",
-            "example": "Encontrar piso en agosto no resulta nada sencillo.",
-            "tier": "B2"
-          },
-          {
-            "front": "estar acostumbrado a",
-            "pos": "phrase",
-            "back": "to be used to",
-            "example": "Están acostumbrados a trabajar bajo presión.",
-            "tier": "B1"
-          },
-          {
-            "front": "tratarse de",
-            "pos": "verb",
-            "back": "to be a matter of, to be about",
-            "example": "Se trata de una decisión muy delicada.",
-            "tier": "B2"
-          },
-          {
-            "front": "insistir en que",
-            "pos": "verb",
-            "back": "to insist that",
-            "example": "Insiste en que no hubo ningún error.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "A su juicio, el problema no es solo el fraude, sino el tipo de conocimiento que se evalúa.",
-            "point": "no solo... sino (not just... but rather)",
-            "explanation": "'Sino' corrects or replaces a previous negative statement, unlike 'pero', which simply adds a contrast.",
-            "why_tricky": "English uses 'but' for both, so learners write 'pero' where Spanish demands 'sino'."
-          },
-          {
-            "sentence": "Cambiar los exámenes de una universidad tan grande, sin embargo, no resulta nada sencillo: implica formar profesores, rediseñar pruebas y convencer a familias acostumbradas a un sistema muy competitivo.",
-            "point": "Infinitive as subject and 'nada' as an intensifier",
-            "explanation": "The infinitive 'cambiar' works as the subject of the sentence, and 'nada' after a negative verb strengthens it to mean 'not at all'.",
-            "why_tricky": "English uses a gerund ('changing the exams') and learners tend to translate 'nada' as 'nothing' instead of reading it as emphasis."
-          },
-          {
-            "sentence": "De Zubiría reconoce que se trata de un proceso lento, pero insiste en que la inteligencia artificial ha vuelto la reforma más urgente.",
-            "point": "Impersonal 'se trata de' and 'volver' meaning 'to make'",
-            "explanation": "'Se trata de' has no personal subject and means 'it is a case of'; 'volver algo + adjective' means to turn something into that state.",
-            "why_tricky": "Learners try to give 'se trata de' a subject, and confuse 'volver' (to make) with 'volver a' (to do again)."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "aprender de memoria",
-            "meaning": "to learn by heart, to memorise without understanding",
-            "example": "Se aprendió las fechas de memoria y las olvidó en una semana."
-          },
-          {
-            "phrase": "el problema de fondo",
-            "meaning": "the real, underlying issue behind the visible one",
-            "example": "Discutimos por el horario, pero el problema de fondo era otro."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué considera De Zubiría que la escuela basada en la memoria ya no tiene sentido?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué tipo de competencias propone evaluar y por qué?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué dificultades prácticas menciona el texto para reformar los exámenes?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Debería prohibirse la inteligencia artificial en los exámenes o habría que cambiar los exámenes? Escribe unas 120 palabras explicando tu opinión con ejemplos concretos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-03-cancer-adolescente-medica",
-      "title": "\"Tuve cáncer en estadio cuatro a los 14 años y ahora soy médico\"",
-      "source": "BBC Mundo",
-      "date": "2026-08-03",
-      "level": "B1-B2",
-      "topics": [
-        "salud",
-        "superación"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-03-cancer-adolescente-medica",
-        "revision": 1,
-        "meta": {
-          "title": "\"Tuve cáncer en estadio cuatro a los 14 años y ahora soy médico\"",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cp3ryev5022o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-07-31",
-          "date_processed": "2026-08-03",
-          "tags": [
-            "salud",
-            "superación"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Ellie Waters-Barnes was diagnosed with stage four cancer when she was barely fourteen years old. For eighteen months she underwent an exhausting treatment that tested her life to the limit. Against all odds, she managed to overcome the illness and, years later, decided to study medicine in order to care for other patients.\n\nHer story shows how such a hard experience can completely transform the course of a person's life. Many survivors of childhood cancer carry physical and emotional scars, but they also develop uncommon strength and empathy. Ellie says that having been on the other side of the bed helps her understand what those who are fighting the illness today feel, and she hopes to be an example for people going through similar moments.",
-        "resumen_es": "Ellie Waters-Barnes recibió un diagnóstico de cáncer en estadio cuatro cuando apenas tenía catorce años. Durante dieciocho meses se sometió a un tratamiento agotador que puso su vida a prueba. Contra todo pronóstico, logró superar la enfermedad y, años después, decidió estudiar medicina para dedicarse a cuidar a otros pacientes.\n\nSu historia refleja cómo una experiencia tan dura puede transformar por completo el rumbo de una persona. Muchos supervivientes de cáncer infantil arrastran secuelas físicas y emocionales, pero también desarrollan una fuerza y una empatía poco comunes. Ellie asegura que haber estado del otro lado de la cama le ayuda a entender lo que sienten quienes hoy luchan contra la enfermedad, y espera servir de ejemplo para quienes atraviesan momentos parecidos.",
-        "vocab": [
-          {
-            "front": "diagnóstico",
-            "pos": "noun",
-            "back": "diagnosis",
-            "example": "El médico le comunicó el diagnóstico con calma.",
-            "tier": "B1"
-          },
-          {
-            "front": "someterse a",
-            "pos": "verb",
-            "back": "to undergo (a treatment)",
-            "example": "Tuvo que someterse a una operación urgente.",
-            "tier": "B2"
-          },
-          {
-            "front": "agotador",
-            "pos": "adj",
-            "back": "exhausting",
-            "example": "Fue un día agotador en el hospital.",
-            "tier": "B1"
-          },
-          {
-            "front": "contra todo pronóstico",
-            "pos": "phrase",
-            "back": "against all odds",
-            "example": "Contra todo pronóstico, se recuperó por completo.",
-            "tier": "B2"
-          },
-          {
-            "front": "superar",
-            "pos": "verb",
-            "back": "to overcome",
-            "example": "Logró superar una enfermedad muy grave.",
-            "tier": "B1"
-          },
-          {
-            "front": "rumbo",
-            "pos": "noun",
-            "back": "course, direction",
-            "example": "Aquel día cambió el rumbo de su vida.",
-            "tier": "B2"
-          },
-          {
-            "front": "superviviente",
-            "pos": "noun",
-            "back": "survivor",
-            "example": "Los supervivientes se apoyan entre ellos.",
-            "tier": "B2"
-          },
-          {
-            "front": "secuela",
-            "pos": "noun",
-            "back": "after-effect",
-            "example": "La enfermedad le dejó algunas secuelas.",
-            "tier": "B2"
-          },
-          {
-            "front": "arrastrar",
-            "pos": "verb",
-            "back": "to carry (a burden)",
-            "example": "Arrastra un cansancio de meses.",
-            "tier": "B2"
-          },
-          {
-            "front": "empatía",
-            "pos": "noun",
-            "back": "empathy",
-            "example": "Trata a los pacientes con mucha empatía.",
-            "tier": "B1"
-          },
-          {
-            "front": "atravesar",
-            "pos": "verb",
-            "back": "to go through",
-            "example": "Está atravesando un momento difícil.",
-            "tier": "B1"
-          },
-          {
-            "front": "servir de ejemplo",
-            "pos": "phrase",
-            "back": "to serve as an example",
-            "example": "Su valentía sirve de ejemplo a otros jóvenes.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Contra todo pronóstico, logró superar la enfermedad y, años después, decidió estudiar medicina para dedicarse a cuidar a otros pacientes.",
-            "point": "lograr / decidir + infinitivo",
-            "explanation": "Verbos como 'lograr' y 'decidir' van seguidos directamente de infinitivo, sin preposición, para expresar un logro o una decisión.",
-            "why_tricky": "El estudiante suele añadir 'a' o 'de' por influencia de otros verbos, pero aquí no llevan preposición."
-          },
-          {
-            "sentence": "Muchos supervivientes de cáncer infantil arrastran secuelas físicas y emocionales, pero también desarrollan una fuerza y una empatía poco comunes.",
-            "point": "contraste con 'pero también'",
-            "explanation": "'Pero también' introduce una idea que matiza o equilibra la anterior: junto a lo negativo aparece algo positivo.",
-            "why_tricky": "Es fácil usar solo 'pero' y perder el matiz aditivo que aporta 'también'."
-          },
-          {
-            "sentence": "Ellie asegura que haber estado del otro lado de la cama le ayuda a entender lo que sienten quienes hoy luchan contra la enfermedad, y espera servir de ejemplo para quienes atraviesan momentos parecidos.",
-            "point": "infinitivo compuesto 'haber estado' y relativo 'quienes'",
-            "explanation": "'Haber + participio' expresa una acción anterior a la del verbo principal; 'quienes' equivale a 'las personas que'.",
-            "why_tricky": "El infinitivo compuesto se confunde con el simple, y 'quienes' solo se usa para personas."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "poner la vida a prueba",
-            "meaning": "to test someone's endurance to the limit",
-            "example": "La enfermedad puso su vida a prueba durante meses."
-          },
-          {
-            "phrase": "estar del otro lado de la cama",
-            "meaning": "to be the patient instead of the doctor",
-            "example": "Haber estado del otro lado de la cama la hizo más humana."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué edad tenía Ellie cuando le diagnosticaron cáncer y cuánto duró su tratamiento?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué decidió estudiar medicina después de superar la enfermedad?",
-            "type": "open"
-          },
-          {
-            "q": "Según el texto, ¿qué cualidades pueden desarrollar los supervivientes de cáncer infantil?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que vivir una enfermedad grave puede hacer a alguien mejor profesional de la salud? Escribe tu opinión con ejemplos."
       }
     }
   ]
