@@ -1,7 +1,521 @@
 {
-  "generated_at": "2026-08-12T08:22:28Z",
+  "generated_at": "2026-08-12T20:11:27Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-12-avion-c919-china",
+      "title": "Con el avión C919, China busca imponerse frente a Airbus y Boeing",
+      "source": "RFI Español",
+      "date": "2026-08-12",
+      "level": "B1-B2",
+      "topics": [
+        "aviación",
+        "economía"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-12-avion-c919-china",
+        "revision": 1,
+        "meta": {
+          "title": "Con el avión C919, China busca imponerse frente a Airbus y Boeing",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/asia-pacifico/20260812-con-el-avi%C3%B3n-c919-china-busca-imponerse-frente-a-airbus-y-boeing",
+          "date_published": "2026-08-12",
+          "date_processed": "2026-08-12",
+          "tags": [
+            "aviación",
+            "economía"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The C919, the passenger aircraft built by the Chinese state company Comac, has made its first scheduled international flight, between Beijing and Ulaanbaatar, the capital of Mongolia. Although the route is short and the number of passengers modest, the trip carries strong symbolic weight: for the first time, a commercial aircraft designed in China is carrying travellers beyond its borders. Beijing has spent years trying to reduce its dependence on Airbus and Boeing, which for decades have shared almost the entire world market between them.\n\nThe stated goal is for a third big aircraft manufacturer to emerge, one able to compete on equal terms. The road ahead, however, will not be easy. The C919 still relies on many foreign components, above all American ones, and it needs European and North American certification in order to fly in those markets. In the short term, then, the plane will establish itself mainly in Asia, while China builds up industrial experience and the trust of airlines.",
+        "resumen_es": "El C919, el avión de pasajeros fabricado por la empresa estatal china Comac, ha realizado su primer vuelo internacional regular entre Pekín y Ulán Bator, en Mongolia. Aunque la ruta es corta y el número de pasajeros modesto, el viaje tiene un fuerte valor simbólico: por primera vez, un avión comercial diseñado en China transporta viajeros más allá de sus fronteras. Pekín lleva años intentando reducir su dependencia de Airbus y Boeing, que se reparten desde hace décadas casi todo el mercado mundial.\n\nEl objetivo declarado es que surja un tercer gran fabricante aeronáutico capaz de competir en igualdad de condiciones. El camino, sin embargo, no será sencillo. El C919 depende todavía de muchos componentes extranjeros, sobre todo estadounidenses, y necesita certificaciones europeas y estadounidenses para volar allí. A corto plazo, el avión se consolidará sobre todo en Asia, mientras China acumula experiencia industrial y confianza entre las aerolíneas.",
+        "vocab": [
+          {
+            "front": "el fabricante",
+            "pos": "noun",
+            "back": "manufacturer, maker",
+            "example": "Es el mayor fabricante de coches del país.",
+            "tier": "B1"
+          },
+          {
+            "front": "estatal",
+            "pos": "adj",
+            "back": "state-owned, state (adj.)",
+            "example": "La empresa estatal controla los trenes.",
+            "tier": "B1"
+          },
+          {
+            "front": "el vuelo regular",
+            "pos": "phrase",
+            "back": "scheduled flight",
+            "example": "No hay vuelos regulares a esa isla.",
+            "tier": "B1"
+          },
+          {
+            "front": "el hito",
+            "pos": "noun",
+            "back": "milestone",
+            "example": "Aquel acuerdo fue un hito en su carrera.",
+            "tier": "B2"
+          },
+          {
+            "front": "imponerse frente a",
+            "pos": "verb",
+            "back": "to prevail over, to get the upper hand on",
+            "example": "Le costó imponerse frente a rivales más grandes.",
+            "tier": "B2"
+          },
+          {
+            "front": "reducir la dependencia de",
+            "pos": "phrase",
+            "back": "to reduce dependence on",
+            "example": "Europa quiere reducir su dependencia del gas importado.",
+            "tier": "B2"
+          },
+          {
+            "front": "repartirse",
+            "pos": "verb",
+            "back": "to share out, to divide between them",
+            "example": "Dos empresas se reparten todo el mercado.",
+            "tier": "B2"
+          },
+          {
+            "front": "en igualdad de condiciones",
+            "pos": "phrase",
+            "back": "on an equal footing",
+            "example": "Quieren competir en igualdad de condiciones.",
+            "tier": "B2"
+          },
+          {
+            "front": "el componente",
+            "pos": "noun",
+            "back": "component, part",
+            "example": "Muchos componentes vienen de Asia.",
+            "tier": "B1"
+          },
+          {
+            "front": "la certificación",
+            "pos": "noun",
+            "back": "certification, approval",
+            "example": "Sin certificación no puede volar aquí.",
+            "tier": "B2"
+          },
+          {
+            "front": "consolidarse",
+            "pos": "verb",
+            "back": "to become established, to consolidate its position",
+            "example": "La marca se consolidó en pocos años.",
+            "tier": "B2"
+          },
+          {
+            "front": "a corto plazo",
+            "pos": "phrase",
+            "back": "in the short term",
+            "example": "A corto plazo no habrá cambios.",
+            "tier": "B1"
+          },
+          {
+            "front": "la aerolínea",
+            "pos": "noun",
+            "back": "airline",
+            "example": "La aerolínea canceló varios vuelos.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Pekín lleva años intentando reducir su dependencia de Airbus y Boeing, que se reparten desde hace décadas casi todo el mercado mundial.",
+            "point": "llevar + periodo de tiempo + gerundio",
+            "explanation": "Para expresar una acción que empezó en el pasado y continúa, el español usa 'llevar' con una expresión de tiempo y un gerundio: 'lleva años intentando' equivale al inglés 'has spent years trying'.",
+            "why_tricky": "El inglés usa un tiempo perfecto ('has been trying for years'), así que el estudiante tiende a decir 'ha estado intentando por años', que suena mucho menos natural."
+          },
+          {
+            "sentence": "El objetivo declarado es que surja un tercer gran fabricante aeronáutico capaz de competir en igualdad de condiciones.",
+            "point": "subjuntivo tras 'el objetivo es que'",
+            "explanation": "Cuando la oración principal expresa una finalidad, un deseo o una intención, el verbo subordinado va en subjuntivo: 'es que surja', no 'es que surge'.",
+            "why_tricky": "El verbo 'ser' parece neutral y muchos estudiantes ponen indicativo; la clave está en el sustantivo 'objetivo', que introduce una idea todavía no realizada."
+          },
+          {
+            "sentence": "A corto plazo, el avión se consolidará sobre todo en Asia, mientras China acumula experiencia industrial y confianza entre las aerolíneas.",
+            "point": "futuro simple + 'mientras' con indicativo",
+            "explanation": "'Mientras' lleva indicativo cuando indica simultaneidad real ('acumula'); llevaría subjuntivo solo si expresara una condición futura o una restricción.",
+            "why_tricky": "El futuro de la oración principal ('se consolidará') empuja al estudiante a poner también subjuntivo detrás de 'mientras', lo cual aquí es incorrecto."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "a duras penas",
+            "meaning": "barely, only with great difficulty",
+            "example": "La compañía a duras penas logró certificar el avión."
+          },
+          {
+            "phrase": "llevar la delantera",
+            "meaning": "to be ahead, to have the lead",
+            "example": "Airbus y Boeing todavía llevan la delantera."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué se considera simbólico el primer vuelo internacional del C919?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué obstáculos debe superar China para vender el avión en Europa y Estados Unidos?",
+            "type": "open"
+          },
+          {
+            "q": "¿En qué mercados crees que se consolidará primero el C919 y por qué?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que es bueno para los pasajeros que exista un tercer gran fabricante de aviones? Escribe unas 120 palabras explicando tu opinión con dos argumentos."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-12-daniel-kinahan-cartel",
+      "title": "Quién es Daniel Kinahan, el hombre al que Irlanda acusa de ser el líder de uno de los carteles más peligrosos del mundo",
+      "source": "BBC Mundo",
+      "date": "2026-08-11",
+      "level": "B1-B2",
+      "topics": [
+        "crimen",
+        "Irlanda"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-12-daniel-kinahan-cartel",
+        "revision": 1,
+        "meta": {
+          "title": "Quién es Daniel Kinahan, el hombre al que Irlanda acusa de ser el líder de uno de los carteles más peligrosos del mundo",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c935eyvy0plo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-11",
+          "date_processed": "2026-08-12",
+          "tags": [
+            "crimen",
+            "Irlanda"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Ireland has once again turned the spotlight on Daniel Kinahan, a 49-year-old man whom the authorities identify as the head of one of the most powerful criminal organisations in the world. According to investigators, the network moves more than a billion dollars and deals above all in drug and arms trafficking across Europe. For years Kinahan tried to present himself as a boxing businessman, while the police described him as the brains behind a family cartel.\n\nThe case shows just how international organised crime has become. The Irish authorities work with European and American partners, and rewards have been offered for information leading to his arrest. Even so, following the money is complicated, because the profits are laundered through legitimate businesses and through countries with weak controls. Meanwhile, in Dublin, violence between rival gangs has left a long list of victims over the past decade and a fear that still has not gone away.",
+        "resumen_es": "Irlanda ha vuelto a poner el foco sobre Daniel Kinahan, un hombre de 49 años al que las autoridades señalan como líder de una de las organizaciones criminales más poderosas del mundo. Según las investigaciones, la red mueve más de mil millones de dólares y se dedica sobre todo al tráfico de drogas y de armas en Europa. Durante años, Kinahan intentó presentarse como un empresario del boxeo, mientras la policía lo describía como el cerebro de un cartel familiar.\n\nEl caso muestra hasta qué punto el crimen organizado se ha vuelto internacional. Las autoridades irlandesas trabajan con socios extranjeros y se han ofrecido recompensas por información que permita detenerlo. Aun así, seguir el rastro del dinero resulta complicado, porque los beneficios se blanquean a través de negocios legales y de países con controles débiles. En Dublín, la violencia entre bandas rivales ha dejado una larga lista de víctimas.",
+        "vocab": [
+          {
+            "front": "poner el foco sobre",
+            "pos": "phrase",
+            "back": "to put the spotlight on",
+            "example": "La prensa puso el foco sobre el caso.",
+            "tier": "B2"
+          },
+          {
+            "front": "señalar a alguien como",
+            "pos": "verb",
+            "back": "to name/point to someone as",
+            "example": "Lo señalan como responsable del fraude.",
+            "tier": "B2"
+          },
+          {
+            "front": "la red",
+            "pos": "noun",
+            "back": "network, ring",
+            "example": "Desmantelaron una red de contrabando.",
+            "tier": "B1"
+          },
+          {
+            "front": "dedicarse a",
+            "pos": "verb",
+            "back": "to be engaged in, to work in",
+            "example": "Se dedica al comercio de repuestos.",
+            "tier": "B1"
+          },
+          {
+            "front": "el tráfico de drogas",
+            "pos": "phrase",
+            "back": "drug trafficking",
+            "example": "Lo detuvieron por tráfico de drogas.",
+            "tier": "B1"
+          },
+          {
+            "front": "el cerebro (de una operación)",
+            "pos": "noun",
+            "back": "the mastermind",
+            "example": "La policía busca al cerebro del robo.",
+            "tier": "B2"
+          },
+          {
+            "front": "el crimen organizado",
+            "pos": "phrase",
+            "back": "organised crime",
+            "example": "El crimen organizado controla varios puertos.",
+            "tier": "B1"
+          },
+          {
+            "front": "la recompensa",
+            "pos": "noun",
+            "back": "reward",
+            "example": "Ofrecieron una recompensa a los testigos.",
+            "tier": "B1"
+          },
+          {
+            "front": "detener",
+            "pos": "verb",
+            "back": "to arrest, to detain",
+            "example": "Lo detuvieron en la frontera.",
+            "tier": "B1"
+          },
+          {
+            "front": "seguir el rastro",
+            "pos": "phrase",
+            "back": "to follow the trail",
+            "example": "Es difícil seguir el rastro de esas cuentas.",
+            "tier": "B2"
+          },
+          {
+            "front": "blanquear (dinero)",
+            "pos": "verb",
+            "back": "to launder (money)",
+            "example": "Blanqueaban el dinero en restaurantes.",
+            "tier": "C1"
+          },
+          {
+            "front": "los beneficios",
+            "pos": "noun",
+            "back": "profits",
+            "example": "Los beneficios crecieron un poco este año.",
+            "tier": "B1"
+          },
+          {
+            "front": "la banda",
+            "pos": "noun",
+            "back": "gang",
+            "example": "Dos bandas rivales se disputan el barrio.",
+            "tier": "B1"
+          },
+          {
+            "front": "aun así",
+            "pos": "phrase",
+            "back": "even so, nevertheless",
+            "example": "Llovía; aun así, salimos a caminar.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Según las investigaciones, la red mueve más de mil millones de dólares y se dedica sobre todo al tráfico de drogas y de armas en Europa.",
+            "point": "'dedicarse a' con contracción 'al'",
+            "explanation": "'Dedicarse' exige siempre la preposición 'a', y ante el artículo 'el' se contrae en 'al': 'se dedica al tráfico'. Sin la preposición la frase es agramatical.",
+            "why_tricky": "En inglés el verbo equivalente no lleva preposición ('deals in' / 'is engaged in'), así que se olvida la 'a' o se elige la preposición equivocada."
+          },
+          {
+            "sentence": "Durante años, Kinahan intentó presentarse como un empresario del boxeo, mientras la policía lo describía como el cerebro de un cartel familiar.",
+            "point": "contraste pretérito indefinido / imperfecto",
+            "explanation": "'Intentó' presenta la acción como un bloque cerrado en el pasado; 'describía' presenta la acción de fondo, repetida y sin límite claro. El contraste crea la escena.",
+            "why_tricky": "'Durante años' parece pedir imperfecto, pero el indefinido es correcto porque el periodo se ve como terminado y completo."
+          },
+          {
+            "sentence": "Aun así, seguir el rastro del dinero resulta complicado, porque los beneficios se blanquean a través de negocios legales y de países con controles débiles.",
+            "point": "pasiva refleja con 'se'",
+            "explanation": "'Se blanquean' es una pasiva refleja: el sujeto gramatical es 'los beneficios' y el verbo concuerda en plural, sin mencionar quién realiza la acción.",
+            "why_tricky": "El estudiante suele traducir la pasiva inglesa con 'ser + participio' ('son blanqueados'), correcto pero mucho menos frecuente en prensa que la forma con 'se'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "estar en el punto de mira",
+            "meaning": "to be in the crosshairs, under scrutiny",
+            "example": "El empresario está en el punto de mira de la policía."
+          },
+          {
+            "phrase": "salir a la luz",
+            "meaning": "to come to light",
+            "example": "Han salido a la luz nuevos documentos del caso."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué papel dice la policía que tiene Daniel Kinahan dentro de la organización?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué resulta difícil seguir el dinero del crimen organizado?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué efecto ha tenido la violencia entre bandas en la ciudad de Dublín?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Qué medidas te parecen más eficaces contra el crimen organizado: perseguir a los jefes o cortar el dinero? Escribe unas 120 palabras justificando tu respuesta."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-12-jorge-messi-servilleta",
+      "title": "Muere Jorge Messi: la historia de la servilleta en la que el padre de Messi firmó con el Barcelona el acuerdo que cambió el fútbol",
+      "source": "BBC Mundo",
+      "date": "2026-08-09",
+      "level": "B1-B2",
+      "topics": [
+        "fútbol",
+        "historia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-12-jorge-messi-servilleta",
+        "revision": 1,
+        "meta": {
+          "title": "Muere Jorge Messi: la historia de la servilleta en la que el padre de Messi firmó con el Barcelona el acuerdo que cambió el fútbol",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c5y6g9dxww4o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-09",
+          "date_processed": "2026-08-12",
+          "tags": [
+            "fútbol",
+            "historia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Jorge Messi, the father and agent of Lionel Messi, has died at the age of 68. His name is tied to one of the most famous anecdotes in modern football: the paper napkin on which a Barcelona director wrote down the commitment to sign his son, then a thirteen-year-old boy newly arrived from Rosario. That improvised gesture, made in a tennis club in the city, ended up being the starting point of a career like no other.\n\nBeyond the anecdote, the story is a reminder of the decisive part the family played. The Messis moved to Barcelona so that the boy could continue an expensive course of medical treatment and settle into a new country. Jorge later took charge of contracts and sponsorship deals, and went with his son through every transfer, including the years in France and in the United States. His death closes an important chapter in the life of one of the most admired sportsmen on the planet.",
+        "resumen_es": "Ha muerto Jorge Messi, padre y representante de Lionel Messi, a los 68 años. Su nombre está unido a una de las anécdotas más famosas del fútbol moderno: la servilleta en la que un directivo del Barcelona escribió el compromiso de fichar a su hijo, entonces un niño de trece años llegado de Rosario. Aquel gesto improvisado, hecho en un club de tenis de la ciudad, terminó siendo el punto de partida de una carrera irrepetible.\n\nMás allá de la anécdota, la historia recuerda el papel decisivo que tuvo la familia. Los Messi se mudaron a Barcelona para que el niño pudiera seguir un tratamiento médico costoso y adaptarse a un país nuevo. Jorge se ocupó después de los contratos y los patrocinios, y acompañó a su hijo en cada traspaso, incluidos los años en Francia y Estados Unidos. Su muerte cierra un capítulo importante de esa historia.",
+        "vocab": [
+          {
+            "front": "el representante",
+            "pos": "noun",
+            "back": "agent, representative",
+            "example": "Su representante negoció el contrato.",
+            "tier": "B1"
+          },
+          {
+            "front": "la servilleta",
+            "pos": "noun",
+            "back": "napkin",
+            "example": "Apuntó el número en una servilleta.",
+            "tier": "B1"
+          },
+          {
+            "front": "el directivo",
+            "pos": "noun",
+            "back": "executive, board member",
+            "example": "Los directivos se reunieron en Barcelona.",
+            "tier": "B2"
+          },
+          {
+            "front": "fichar (a alguien)",
+            "pos": "verb",
+            "back": "to sign (a player)",
+            "example": "El club fichó a tres jugadores jóvenes.",
+            "tier": "B2"
+          },
+          {
+            "front": "el compromiso",
+            "pos": "noun",
+            "back": "commitment, pledge",
+            "example": "Firmaron un compromiso por escrito.",
+            "tier": "B1"
+          },
+          {
+            "front": "el punto de partida",
+            "pos": "phrase",
+            "back": "starting point",
+            "example": "Aquella beca fue su punto de partida.",
+            "tier": "B1"
+          },
+          {
+            "front": "irrepetible",
+            "pos": "adj",
+            "back": "unrepeatable, one of a kind",
+            "example": "Vivió una temporada irrepetible.",
+            "tier": "B2"
+          },
+          {
+            "front": "mudarse",
+            "pos": "verb",
+            "back": "to move house, to relocate",
+            "example": "Se mudaron a otra ciudad por trabajo.",
+            "tier": "B1"
+          },
+          {
+            "front": "el tratamiento",
+            "pos": "noun",
+            "back": "medical treatment",
+            "example": "El tratamiento duró varios años.",
+            "tier": "B1"
+          },
+          {
+            "front": "ocuparse de",
+            "pos": "verb",
+            "back": "to take care of, to handle",
+            "example": "Ella se ocupa de la contabilidad.",
+            "tier": "B1"
+          },
+          {
+            "front": "el patrocinio",
+            "pos": "noun",
+            "back": "sponsorship",
+            "example": "El equipo perdió un patrocinio importante.",
+            "tier": "B2"
+          },
+          {
+            "front": "el traspaso",
+            "pos": "noun",
+            "back": "transfer (of a player)",
+            "example": "El traspaso costó una cifra récord.",
+            "tier": "B2"
+          },
+          {
+            "front": "más allá de",
+            "pos": "phrase",
+            "back": "beyond, over and above",
+            "example": "Más allá del dinero, buscaba estabilidad.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Aquel gesto improvisado, hecho en un club de tenis de la ciudad, terminó siendo el punto de partida de una carrera irrepetible.",
+            "point": "'terminar' + gerundio",
+            "explanation": "'Terminar siendo' expresa el resultado final de un proceso, equivalente al inglés 'ended up being'. La misma estructura funciona con otros verbos: 'terminó trabajando allí'.",
+            "why_tricky": "En inglés se usa una partícula ('end up'), y el estudiante suele calcar 'terminó ser' o 'acabó a ser', ambas incorrectas."
+          },
+          {
+            "sentence": "Los Messi se mudaron a Barcelona para que el niño pudiera seguir un tratamiento médico costoso y adaptarse a un país nuevo.",
+            "point": "'para que' + imperfecto de subjuntivo",
+            "explanation": "Cuando hay dos sujetos distintos, la finalidad se expresa con 'para que' y subjuntivo. Como el verbo principal está en pasado, el subjuntivo va en imperfecto: 'pudiera'.",
+            "why_tricky": "Si el sujeto fuera el mismo, se usaría el infinitivo ('se mudaron para seguir'). Elegir entre las dos formas es un error muy frecuente."
+          },
+          {
+            "sentence": "Más allá de la anécdota, la historia recuerda el papel decisivo que tuvo la familia.",
+            "point": "oración de relativo con 'que' + indefinido",
+            "explanation": "'Que' introduce aquí una relativa especificativa sobre 'el papel', y el indefinido 'tuvo' presenta ese papel como algo cerrado en el pasado.",
+            "why_tricky": "El orden 'que tuvo la familia' invierte sujeto y verbo respecto al inglés, y el estudiante tiende a escribir 'que la familia tuvo', menos natural aquí."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "de tal palo, tal astilla",
+            "meaning": "a chip off the old block",
+            "example": "Juega como su padre: de tal palo, tal astilla."
+          },
+          {
+            "phrase": "cerrar un capítulo",
+            "meaning": "to close a chapter",
+            "example": "Con esa despedida cerró un capítulo de su vida."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué es famosa la servilleta que se menciona en el texto?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué razones llevaron a la familia Messi a mudarse a Barcelona?",
+            "type": "open"
+          },
+          {
+            "q": "¿De qué se encargó Jorge Messi durante la carrera de su hijo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Debería un familiar ser también el representante de un deportista profesional? Escribe unas 120 palabras con ventajas e inconvenientes."
+      }
+    },
     {
       "pack_id": "feed-2026-08-12-familia-biologica-65-anos",
       "title": "\"Siento compasión por mi madre, hizo lo que pudo\": el hombre abandonado al nacer que encontró a su familia biológica 65 años después",
@@ -6260,513 +6774,6 @@
           }
         ],
         "opinion_prompt": "¿Debería el Estado ofrecer un sistema de pagos gratuito que compita con los bancos privados? Escribe unas 120 palabras defendiendo tu postura con dos argumentos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-05-despertarse-sin-alarmas",
-      "title": "Los curiosos métodos que usaba la gente para despertarse antes de que existieran las alarmas (y el celular)",
-      "source": "BBC Mundo",
-      "date": "2026-08-05",
-      "level": "B1-B2",
-      "topics": [
-        "historia",
-        "vida cotidiana"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-05-despertarse-sin-alarmas",
-        "revision": 1,
-        "meta": {
-          "title": "Los curiosos métodos que usaba la gente para despertarse antes de que existieran las alarmas (y el celular)",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c4g8y90g513o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-05",
-          "date_processed": "2026-08-05",
-          "tags": [
-            "historia",
-            "vida cotidiana"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Before alarm clocks and mobile phones, people had to find ways of getting up on time. In some industrial cities there was a curious job: men and women who walked the streets at dawn and tapped on windows with a long pole until the workers woke up. Others were guided by the crowing of the cockerel, by church bells or by the light coming through the window.\n\nOver time mechanical clocks became cheaper and the alarm clock slipped into almost every bedroom. Today the mobile has inherited that role, although many sleep experts recommend leaving it far from the bed. What has not changed is the feeling of fighting with the clock every morning: the devices change, but not the urge to sleep five more minutes.",
-        "resumen_es": "Antes de los despertadores y de los teléfonos móviles, la gente tenía que ingeniárselas para levantarse a tiempo. En algunas ciudades industriales existía un oficio curioso: hombres y mujeres que recorrían las calles al amanecer y golpeaban las ventanas con una vara larga hasta despertar a los obreros. Otros se guiaban por el canto del gallo, por las campanas de la iglesia o por la luz que entraba por la ventana.\n\nCon el tiempo, los relojes mecánicos se abarataron y el despertador se coló en casi todos los dormitorios. Hoy el móvil ha heredado esa función, aunque muchos expertos en sueño recomiendan dejarlo lejos de la cama. Lo que no ha cambiado es la sensación de pelearse con el reloj cada mañana: cambian los aparatos, pero no las ganas de dormir cinco minutos más.",
-        "vocab": [
-          {
-            "front": "despertador",
-            "pos": "noun",
-            "back": "alarm clock",
-            "example": "Puse el despertador a las seis y no lo oí.",
-            "tier": "B1"
-          },
-          {
-            "front": "ingeniárselas",
-            "pos": "verb",
-            "back": "to manage, to find a way (with cleverness)",
-            "example": "Siempre se las ingenia para llegar el primero.",
-            "tier": "B2"
-          },
-          {
-            "front": "oficio",
-            "pos": "noun",
-            "back": "trade, occupation",
-            "example": "El de zapatero es un oficio casi perdido.",
-            "tier": "B1"
-          },
-          {
-            "front": "al amanecer",
-            "pos": "phrase",
-            "back": "at dawn",
-            "example": "Salimos de casa al amanecer para evitar el calor.",
-            "tier": "B1"
-          },
-          {
-            "front": "vara",
-            "pos": "noun",
-            "back": "rod, long stick",
-            "example": "Bajaba las aceitunas con una vara larga.",
-            "tier": "B2"
-          },
-          {
-            "front": "obrero",
-            "pos": "noun",
-            "back": "worker, labourer",
-            "example": "Los obreros entraban en la fábrica a las seis.",
-            "tier": "B1"
-          },
-          {
-            "front": "guiarse por",
-            "pos": "verb",
-            "back": "to be guided by, to go by",
-            "example": "Me guío por el mapa, no por la intuición.",
-            "tier": "B2"
-          },
-          {
-            "front": "el canto del gallo",
-            "pos": "phrase",
-            "back": "the crowing of the cockerel",
-            "example": "En el pueblo me despierta el canto del gallo.",
-            "tier": "B2"
-          },
-          {
-            "front": "abaratarse",
-            "pos": "verb",
-            "back": "to become cheaper",
-            "example": "Los billetes de avión se abarataron en otoño.",
-            "tier": "B2"
-          },
-          {
-            "front": "colarse",
-            "pos": "verb",
-            "back": "to slip in, to sneak in",
-            "example": "Se coló en el concierto sin entrada.",
-            "tier": "B2"
-          },
-          {
-            "front": "heredar",
-            "pos": "verb",
-            "back": "to inherit (also a role or habit)",
-            "example": "Ha heredado el carácter tranquilo de su padre.",
-            "tier": "B1"
-          },
-          {
-            "front": "pelearse con",
-            "pos": "verb",
-            "back": "to fight with, to struggle against",
-            "example": "Cada mañana me peleo con el tráfico.",
-            "tier": "B1"
-          },
-          {
-            "front": "aparato",
-            "pos": "noun",
-            "back": "device, gadget",
-            "example": "En casa hay demasiados aparatos enchufados.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Antes de los despertadores y de los teléfonos móviles, la gente tenía que ingeniárselas para levantarse a tiempo.",
-            "point": "Imperfecto para hábitos del pasado y perífrasis 'tener que'",
-            "explanation": "'Tenía que' describe una obligación repetida y sin final concreto en el pasado, por eso va en imperfecto y no en indefinido. 'Ingeniárselas' lleva pronombres fijos que no cambian de significado literal.",
-            "why_tricky": "El pronombre doble de 'ingeniárselas' es opaco: 'se' y 'las' no se refieren a nada concreto, hay que memorizar la expresión entera."
-          },
-          {
-            "sentence": "Otros se guiaban por el canto del gallo, por las campanas de la iglesia o por la luz que entraba por la ventana.",
-            "point": "Repetición obligatoria de la preposición 'por' en una enumeración",
-            "explanation": "En español, cuando se enumeran complementos introducidos por preposición, lo habitual es repetirla delante de cada elemento: 'por el canto', 'por las campanas', 'por la luz'.",
-            "why_tricky": "En inglés la preposición se dice una sola vez ('by the crowing, the bells and the light'), así que suena redundante repetirla."
-          },
-          {
-            "sentence": "Lo que no ha cambiado es la sensación de pelearse con el reloj cada mañana: cambian los aparatos, pero no las ganas de dormir cinco minutos más.",
-            "point": "Estructura enfática con 'lo que'",
-            "explanation": "'Lo que no ha cambiado es...' es una oración hendida que sirve para destacar el elemento nuevo de la frase. El neutro 'lo' sustituye a una idea completa, no a un sustantivo concreto.",
-            "why_tricky": "Se confunde con 'el que' o 'la que', que sí se refieren a personas o cosas con género."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "ingeniárselas",
-            "meaning": "arreglárselas con imaginación para conseguir algo",
-            "example": "Sin dinero, se las ingenió para viajar por todo el país."
-          },
-          {
-            "phrase": "pegarse las sábanas",
-            "meaning": "quedarse dormido y levantarse tarde",
-            "example": "Llegué tarde a la reunión porque se me pegaron las sábanas."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿En qué consistía el oficio que se describe en el primer párrafo?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué señales naturales usaba la gente para despertarse?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué recomiendan los expertos dejar el móvil lejos de la cama?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Describe tu rutina de las mañanas y explica si crees que el móvil te ayuda o te perjudica a la hora de levantarte. Escribe unas 120 palabras."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-05-miami-ultrarricos",
-      "title": "Cómo Miami se convirtió en el hogar de los ultrarricos en EE.UU. (y el efecto que tiene en que la vida sea más cara que en Nueva York)",
-      "source": "BBC Mundo",
-      "date": "2026-08-05",
-      "level": "B1-B2",
-      "topics": [
-        "economía",
-        "vivienda"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-05-miami-ultrarricos",
-        "revision": 1,
-        "meta": {
-          "title": "Cómo Miami se convirtió en el hogar de los ultrarricos en EE.UU. (y el efecto que tiene en que la vida sea más cara que en Nueva York)",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cwylrx2rw8no?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-04",
-          "date_processed": "2026-08-05",
-          "tags": [
-            "economía",
-            "vivienda"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Since the end of the pandemic, Miami has become one of the most sought after property markets in the United States and in the world. Many families with large fortunes, along with investment funds and financial firms, have moved their home or their headquarters there, drawn by the climate, by low taxes and by the closeness to Latin America. The result is that housing prices have shot up and that, in some neighbourhoods, living in Miami now works out more expensive than living in New York.\n\nThis boom, however, has a less pleasant side. As rents go up, many lifelong residents are forced to move out to the outskirts, and local salaries are not keeping pace with the cost of living. Experts warn that the city will have to decide who it wants to house in the long term.",
-        "resumen_es": "Desde el final de la pandemia, Miami se ha convertido en uno de los mercados inmobiliarios más codiciados de Estados Unidos y del mundo. Muchas familias con grandes fortunas, además de fondos de inversión y empresas financieras, han trasladado allí su residencia o su sede, atraídas por el clima, por los impuestos bajos y por la cercanía con América Latina. El resultado es que los precios de la vivienda se han disparado y que, en algunos barrios, vivir en Miami ya sale más caro que vivir en Nueva York.\n\nEste auge, sin embargo, tiene una cara menos amable. A medida que suben los alquileres, muchos residentes de toda la vida se ven obligados a mudarse a las afueras, y los sueldos locales no siguen el ritmo del coste de la vida. Los expertos advierten de que la ciudad tendrá que decidir a quién quiere alojar a largo plazo.",
-        "vocab": [
-          {
-            "front": "codiciado",
-            "pos": "adj",
-            "back": "sought after, coveted",
-            "example": "Es uno de los barrios más codiciados de la ciudad.",
-            "tier": "B2"
-          },
-          {
-            "front": "el mercado inmobiliario",
-            "pos": "noun",
-            "back": "the property market",
-            "example": "El mercado inmobiliario se ha enfriado este año.",
-            "tier": "B1"
-          },
-          {
-            "front": "dispararse",
-            "pos": "verb",
-            "back": "to shoot up, to soar (prices)",
-            "example": "Los alquileres se dispararon después del verano.",
-            "tier": "B2"
-          },
-          {
-            "front": "trasladar",
-            "pos": "verb",
-            "back": "to move, to relocate (something or someone)",
-            "example": "La empresa trasladó su sede a Valencia.",
-            "tier": "B1"
-          },
-          {
-            "front": "la sede",
-            "pos": "noun",
-            "back": "headquarters, head office",
-            "example": "La sede del banco está en el centro.",
-            "tier": "B1"
-          },
-          {
-            "front": "el alquiler",
-            "pos": "noun",
-            "back": "rent",
-            "example": "Pago el alquiler el día uno de cada mes.",
-            "tier": "B1"
-          },
-          {
-            "front": "verse obligado a",
-            "pos": "phrase",
-            "back": "to be forced to",
-            "example": "Se vio obligado a vender el piso.",
-            "tier": "B2"
-          },
-          {
-            "front": "las afueras",
-            "pos": "noun",
-            "back": "the outskirts, the suburbs",
-            "example": "Viven en las afueras y vienen en tren.",
-            "tier": "B1"
-          },
-          {
-            "front": "seguir el ritmo",
-            "pos": "phrase",
-            "back": "to keep pace, to keep up",
-            "example": "Los sueldos no siguen el ritmo de los precios.",
-            "tier": "B2"
-          },
-          {
-            "front": "el auge",
-            "pos": "noun",
-            "back": "boom, peak",
-            "example": "El turismo vive un auge sin precedentes.",
-            "tier": "B2"
-          },
-          {
-            "front": "el coste de la vida",
-            "pos": "noun",
-            "back": "the cost of living",
-            "example": "El coste de la vida ha subido mucho.",
-            "tier": "B1"
-          },
-          {
-            "front": "advertir",
-            "pos": "verb",
-            "back": "to warn",
-            "example": "Los economistas advierten de una crisis.",
-            "tier": "B1"
-          },
-          {
-            "front": "a largo plazo",
-            "pos": "phrase",
-            "back": "in the long term",
-            "example": "Hay que pensar a largo plazo.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "El resultado es que los precios de la vivienda se han disparado y que, en algunos barrios, vivir en Miami ya sale más caro que vivir en Nueva York.",
-            "point": "El infinitivo como sujeto y la comparación de superioridad",
-            "explanation": "En español el infinitivo funciona como un sustantivo: 'vivir en Miami' es el sujeto del verbo 'sale'. La estructura 'más + adjetivo + que' compara dos elementos, y aquí compara dos infinitivos.",
-            "why_tricky": "En inglés se usaría el gerundio ('living in Miami'), no el infinitivo. Traducir literalmente el gerundio inglés al español produce errores muy frecuentes."
-          },
-          {
-            "sentence": "A medida que suben los alquileres, muchos residentes de toda la vida se ven obligados a mudarse a las afueras, y los sueldos locales no siguen el ritmo del coste de la vida.",
-            "point": "'A medida que' con indicativo para dos procesos simultáneos",
-            "explanation": "'A medida que' introduce una acción que avanza al mismo tiempo que otra. Cuando los dos hechos son reales y actuales, va con indicativo ('suben'), no con subjuntivo.",
-            "why_tricky": "Otras expresiones temporales parecidas, como 'cuando' o 'en cuanto', piden subjuntivo si hablan del futuro, así que es fácil generalizar la regla mal."
-          },
-          {
-            "sentence": "Muchas familias con grandes fortunas, además de fondos de inversión y empresas financieras, han trasladado allí su residencia o su sede, atraídas por el clima, por los impuestos bajos y por la cercanía con América Latina.",
-            "point": "Participio en cláusula reducida y concordancia",
-            "explanation": "'Atraídas' es un participio que equivale a 'porque estaban atraídas' y concuerda en género y número con 'familias'. Es una forma económica de dar la causa sin abrir otra oración.",
-            "why_tricky": "El participio está lejos del sustantivo con el que concuerda, y hay otros sustantivos masculinos por medio ('fondos', 'impuestos') que pueden confundir la concordancia."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "salir caro",
-            "meaning": "resultar más costoso de lo esperado",
-            "example": "Comprar el billete a última hora te va a salir caro."
-          },
-          {
-            "phrase": "de toda la vida",
-            "meaning": "de siempre, de mucho tiempo atrás",
-            "example": "Es una panadería de toda la vida en el centro del pueblo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué razones se dan para explicar la llegada de grandes fortunas a Miami?",
-            "type": "open"
-          },
-          {
-            "q": "¿Cómo afecta la subida de los alquileres a los residentes de toda la vida?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué dice el texto que el auge de la ciudad tiene una cara menos amable?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Debería una ciudad limitar la compra de viviendas por parte de inversores extranjeros? Escribe entre 120 y 150 palabras defendiendo tu postura con dos argumentos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-05-suu-kyi-cruz-roja",
-      "title": "Birmania: Aung San Suu Kyi ha recibido la visita de la Cruz Roja por primera vez en cinco años",
-      "source": "RFI Español",
-      "date": "2026-08-05",
-      "level": "B1-B2",
-      "topics": [
-        "política",
-        "derechos humanos"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-05-suu-kyi-cruz-roja",
-        "revision": 1,
-        "meta": {
-          "title": "Birmania: Aung San Suu Kyi ha recibido la visita de la Cruz Roja por primera vez en cinco años",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/asia-pacifico/20260803-birmania-aung-san-suu-kyi-ha-recibido-la-visita-de-la-cruz-roja-por-primera-vez-en-cinco-a%C3%B1os",
-          "date_published": "2026-08-03",
-          "date_processed": "2026-08-05",
-          "tags": [
-            "política",
-            "derechos humanos"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Aung San Suu Kyi, the Burmese opposition leader and Nobel Peace Prize winner, has received a visit from a foreign official of the International Committee of the Red Cross. It is the first meeting of this kind since the 2021 coup, when the military took power and detained her. Since then she has remained under arrest and hardly any details about her state of health are known, which has worried her supporters and human rights organisations.\n\nThe visit comes at a delicate moment. The government backed by the army is trying to normalise its relations with neighbouring countries in Southeast Asia and to present itself as a reliable partner. For many analysts, gestures like this one are aimed above all at improving the image of the regime abroad, rather than opening the door to real change. Meanwhile, the armed conflict continues in several regions of the country.",
-        "resumen_es": "Aung San Suu Kyi, la líder opositora birmana y premio Nobel de la Paz, ha recibido la visita de un responsable extranjero del Comité Internacional de la Cruz Roja. Es el primer encuentro de este tipo desde el golpe de Estado de 2021, cuando los militares tomaron el poder y la detuvieron. Desde entonces permanece bajo arresto y apenas se conocen detalles sobre su estado de salud, lo que ha inquietado a sus seguidores y a las organizaciones de derechos humanos.\n\nLa visita llega en un momento delicado. El Gobierno respaldado por el Ejército intenta normalizar sus relaciones con los países vecinos del sudeste asiático y presentarse como un interlocutor fiable. Para muchos analistas, gestos como este buscan sobre todo mejorar la imagen del régimen en el exterior, más que abrir la puerta a un cambio real. Mientras tanto, el conflicto armado continúa en varias regiones del país.",
-        "vocab": [
-          {
-            "front": "el líder opositor / la líder opositora",
-            "pos": "noun",
-            "back": "opposition leader",
-            "example": "La líder opositora pidió elecciones libres.",
-            "tier": "B1"
-          },
-          {
-            "front": "el golpe de Estado",
-            "pos": "noun",
-            "back": "coup d'état",
-            "example": "El golpe de Estado duró apenas unas horas.",
-            "tier": "B1"
-          },
-          {
-            "front": "tomar el poder",
-            "pos": "phrase",
-            "back": "to seize power",
-            "example": "Los militares tomaron el poder en pocas horas.",
-            "tier": "B1"
-          },
-          {
-            "front": "detener",
-            "pos": "verb",
-            "back": "to detain, to arrest",
-            "example": "La policía detuvo a tres personas.",
-            "tier": "B1"
-          },
-          {
-            "front": "permanecer",
-            "pos": "verb",
-            "back": "to remain, to stay",
-            "example": "Permaneció callado toda la reunión.",
-            "tier": "B2"
-          },
-          {
-            "front": "apenas",
-            "pos": "adv",
-            "back": "hardly, barely",
-            "example": "Apenas se sabe nada del caso.",
-            "tier": "B1"
-          },
-          {
-            "front": "inquietar",
-            "pos": "verb",
-            "back": "to worry, to unsettle",
-            "example": "La noticia inquietó a toda la familia.",
-            "tier": "B2"
-          },
-          {
-            "front": "respaldado por",
-            "pos": "phrase",
-            "back": "backed by, supported by",
-            "example": "Es un plan respaldado por los sindicatos.",
-            "tier": "B2"
-          },
-          {
-            "front": "el interlocutor",
-            "pos": "noun",
-            "back": "counterpart, party in a dialogue",
-            "example": "Buscan un interlocutor fiable en la región.",
-            "tier": "C1"
-          },
-          {
-            "front": "fiable",
-            "pos": "adj",
-            "back": "reliable, trustworthy",
-            "example": "No es una fuente fiable.",
-            "tier": "B2"
-          },
-          {
-            "front": "el gesto",
-            "pos": "noun",
-            "back": "gesture, symbolic move",
-            "example": "Fue un gesto de buena voluntad.",
-            "tier": "B1"
-          },
-          {
-            "front": "sobre todo",
-            "pos": "phrase",
-            "back": "above all, mainly",
-            "example": "Me preocupa sobre todo el precio.",
-            "tier": "B1"
-          },
-          {
-            "front": "mientras tanto",
-            "pos": "phrase",
-            "back": "meanwhile",
-            "example": "Mientras tanto, nadie hacía nada.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Desde entonces permanece bajo arresto y apenas se conocen detalles sobre su estado de salud, lo que ha inquietado a sus seguidores y a las organizaciones de derechos humanos.",
-            "point": "El relativo neutro 'lo que' y el 'se' impersonal",
-            "explanation": "'Lo que' se refiere a toda la idea anterior, no a un sustantivo concreto. 'Se conocen detalles' es una construcción con 'se' que evita decir quién conoce esos detalles.",
-            "why_tricky": "Si se usa 'que' o 'el cual' en lugar de 'lo que', la frase parece referirse solo al último sustantivo, y el sentido cambia por completo."
-          },
-          {
-            "sentence": "Para muchos analistas, gestos como este buscan sobre todo mejorar la imagen del régimen en el exterior, más que abrir la puerta a un cambio real.",
-            "point": "Comparación con 'más que' entre dos infinitivos",
-            "explanation": "'Más que' compara aquí dos acciones, expresadas ambas con infinitivo: 'mejorar' frente a 'abrir'. Es una manera concisa de decir que un objetivo pesa más que el otro.",
-            "why_tricky": "Es fácil confundir 'más que' con 'más de', que se usa con cantidades, y también olvidar que después de 'que' hace falta un infinitivo, no un verbo conjugado."
-          },
-          {
-            "sentence": "Es el primer encuentro de este tipo desde el golpe de Estado de 2021, cuando los militares tomaron el poder y la detuvieron.",
-            "point": "'Desde' con un punto de partida y el pretérito indefinido",
-            "explanation": "'Desde' marca el inicio de un periodo que llega hasta ahora. Los verbos que describen ese momento inicial ('tomaron', 'detuvieron') van en indefinido porque son hechos acabados.",
-            "why_tricky": "Los estudiantes suelen mezclar 'desde' con 'desde hace': 'desde' pide un momento concreto, 'desde hace' pide una duración."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "abrir la puerta a algo",
-            "meaning": "hacer posible algo, dar paso a ello",
-            "example": "El acuerdo abre la puerta a nuevas negociaciones."
-          },
-          {
-            "phrase": "en un momento delicado",
-            "meaning": "en una situación difícil o sensible",
-            "example": "La empresa llega a la feria en un momento delicado."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué es significativa esta visita de la Cruz Roja?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué busca el Gobierno birmano en su relación con los países vecinos?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué son escépticos algunos analistas ante este tipo de gestos?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Sirven de algo los premios internacionales, como el Nobel de la Paz, para proteger a quienes los reciben? Escribe entre 120 y 150 palabras con tu punto de vista."
       }
     }
   ]
