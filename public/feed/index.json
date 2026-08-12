@@ -1,7 +1,495 @@
 {
-  "generated_at": "2026-08-11T20:17:32Z",
+  "generated_at": "2026-08-12T08:22:28Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-12-familia-biologica-65-anos",
+      "title": "\"Siento compasión por mi madre, hizo lo que pudo\": el hombre abandonado al nacer que encontró a su familia biológica 65 años después",
+      "source": "BBC Mundo",
+      "date": "2026-08-04",
+      "level": "B1-B2",
+      "topics": [
+        "sociedad",
+        "familia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-12-familia-biologica-65-anos",
+        "revision": 1,
+        "meta": {
+          "title": "\"Siento compasión por mi madre, hizo lo que pudo\": el hombre abandonado al nacer que encontró a su familia biológica 65 años después",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c141ppn38vvo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-04",
+          "date_processed": "2026-08-12",
+          "tags": [
+            "sociedad",
+            "familia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "David Stevenson was abandoned at birth in a London building in 1960 and was later adopted by a family. Sixty-five years later he has managed to track down his biological family and finally find out where he comes from. Far from bitterness, he sums up his story with a sentence that comes as a surprise: he feels compassion for his mother, because he believes she did what she could.\n\nHis story is not an isolated case. In those years, many single women faced a strong social stigma and a lack of support, so adoption was often presented as the only way out. Today, by contrast, access to records and the spread of genetic testing allow more and more adoptees to piece together their origins, even if the reunion does not always turn out to be easy: alongside the joy, awkward questions and very long silences tend to appear.",
+        "resumen_es": "David Stevenson fue abandonado al nacer en un edificio de Londres en 1960 y más tarde lo adoptó una familia. Sesenta y cinco años más tarde ha conseguido dar con su familia biológica y saber, por fin, de dónde viene. Lejos de guardar rencor, resume su historia con una frase que sorprende: siente compasión por su madre, porque cree que hizo lo que pudo.\n\nSu historia no es un caso aislado. En aquellos años, muchas mujeres solteras se enfrentaban a un fuerte estigma social y a la falta de ayudas, de modo que la adopción se presentaba a menudo como la única salida. Hoy, en cambio, el acceso a los registros y la difusión de las pruebas genéticas permiten que cada vez más adoptados reconstruyan su origen, aunque el reencuentro no siempre resulte fácil: junto a la alegría suelen aparecer preguntas incómodas y silencios muy largos.",
+        "vocab": [
+          {
+            "front": "abandonar al nacer",
+            "pos": "phrase",
+            "back": "to abandon at birth",
+            "example": "Fue abandonado al nacer y creció con otra familia.",
+            "tier": "B1"
+          },
+          {
+            "front": "adoptar",
+            "pos": "verb",
+            "back": "to adopt",
+            "example": "La pareja decidió adoptar a dos hermanos.",
+            "tier": "B1"
+          },
+          {
+            "front": "dar con",
+            "pos": "phrase",
+            "back": "to track down, to find after searching",
+            "example": "Tardó meses en dar con la dirección correcta.",
+            "tier": "B2"
+          },
+          {
+            "front": "el rencor",
+            "pos": "noun",
+            "back": "resentment, bitterness",
+            "example": "Habla de su pasado sin rencor.",
+            "tier": "B2"
+          },
+          {
+            "front": "la compasión",
+            "pos": "noun",
+            "back": "compassion, pity",
+            "example": "Siente compasión por quien lo trató mal.",
+            "tier": "B1"
+          },
+          {
+            "front": "aislado",
+            "pos": "adj",
+            "back": "isolated, one-off",
+            "example": "No es un caso aislado, se repite cada año.",
+            "tier": "B1"
+          },
+          {
+            "front": "enfrentarse a",
+            "pos": "verb",
+            "back": "to face, to confront",
+            "example": "Se enfrentaron a críticas muy duras.",
+            "tier": "B1"
+          },
+          {
+            "front": "el estigma",
+            "pos": "noun",
+            "back": "stigma",
+            "example": "El estigma social pesaba más que la ley.",
+            "tier": "B2"
+          },
+          {
+            "front": "la única salida",
+            "pos": "phrase",
+            "back": "the only way out",
+            "example": "Vender la casa parecía la única salida.",
+            "tier": "B1"
+          },
+          {
+            "front": "reconstruir",
+            "pos": "verb",
+            "back": "to piece together, to rebuild",
+            "example": "Quiere reconstruir la historia de su familia.",
+            "tier": "B2"
+          },
+          {
+            "front": "el reencuentro",
+            "pos": "noun",
+            "back": "reunion, meeting again",
+            "example": "El reencuentro fue emotivo y algo incómodo.",
+            "tier": "B2"
+          },
+          {
+            "front": "incómodo",
+            "pos": "adj",
+            "back": "awkward, uncomfortable",
+            "example": "Hizo una pregunta muy incómoda.",
+            "tier": "B1"
+          },
+          {
+            "front": "de modo que",
+            "pos": "phrase",
+            "back": "so, with the result that (+ indicative)",
+            "example": "Llovía mucho, de modo que nos quedamos en casa.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "David Stevenson fue abandonado al nacer en un edificio de Londres en 1960 y más tarde lo adoptó una familia.",
+            "point": "Pasiva con ser frente a la voz activa",
+            "explanation": "La primera parte usa la pasiva (fue abandonado) porque no sabemos quién lo abandonó; la segunda vuelve a la activa (lo adoptó una familia) porque ahí el agente sí se conoce y es la información nueva, por eso aparece al final.",
+            "why_tricky": "En español la pasiva con ser es mucho menos frecuente que en inglés, y aquí conviven las dos estructuras en una misma frase, cada una por un motivo distinto."
+          },
+          {
+            "sentence": "Hoy, en cambio, el acceso a los registros y la difusión de las pruebas genéticas permiten que cada vez más adoptados reconstruyan su origen, aunque el reencuentro no siempre resulte fácil",
+            "point": "Subjuntivo después de permitir que y de aunque",
+            "explanation": "Permitir que exige subjuntivo (reconstruyan). Con aunque, el subjuntivo (resulte) presenta el dato como algo ya admitido o previsible, no como una novedad que se afirma.",
+            "why_tricky": "Con aunque son posibles el indicativo y el subjuntivo, y la elección depende de cómo se presenta la información: con indicativo se afirma como dato nuevo; con subjuntivo se da por sabida o se plantea como hipótesis."
+          },
+          {
+            "sentence": "junto a la alegría suelen aparecer preguntas incómodas y silencios muy largos",
+            "point": "soler + infinitivo para lo habitual",
+            "explanation": "Soler expresa lo que ocurre habitualmente y siempre va seguido de infinitivo; aquí el sujeto es plural (preguntas y silencios), por eso suelen y no suele.",
+            "why_tricky": "Soler no tiene un equivalente directo en inglés y además diptonga en presente (suelo, sueles, suele), así que es fácil olvidarlo y traducir con normalmente."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "hacer lo que uno puede",
+            "meaning": "to do the best you can with what you have",
+            "example": "No fue perfecto, pero hizo lo que pudo."
+          },
+          {
+            "phrase": "no ser un caso aislado",
+            "meaning": "to be far from unique, to happen to many others",
+            "example": "Su historia no es un caso aislado en aquella generación."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué crees que David siente compasión por su madre en lugar de rencor?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué factores sociales explican, según el texto, tantas adopciones en aquella época?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué dificultades pueden aparecer después de un reencuentro familiar?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Buscarías a tu familia biológica si estuvieras en su lugar? Escribe unas 120 palabras explicando qué ganarías y qué arriesgarías."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-12-tierras-extranjeros-argentina",
+      "title": "\"Querían vender Argentina\": 3 claves de la polémica reforma sobre la venta de tierras a extranjeros que el gobierno de Milei se vio obligado a retirar",
+      "source": "BBC Mundo",
+      "date": "2026-08-05",
+      "level": "B1-B2",
+      "topics": [
+        "política",
+        "economía"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-12-tierras-extranjeros-argentina",
+        "revision": 1,
+        "meta": {
+          "title": "\"Querían vender Argentina\": 3 claves de la polémica reforma sobre la venta de tierras a extranjeros que el gobierno de Milei se vio obligado a retirar",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cx2v5yzvee9o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-05",
+          "date_processed": "2026-08-12",
+          "tags": [
+            "política",
+            "economía"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Javier Milei's government has withdrawn, at least temporarily, its reform of the rule governing the sale of land to foreigners in Argentina. The decision comes after a tough political battle in Congress, where the opposition accused the government of wanting to sell off the country. The executive has not said whether it will bring the text back later on.\n\nThe argument goes back a long way. The current rule has for years limited how much rural land can end up in foreign hands, especially near borders and major watercourses, an issue that goes straight to the idea of sovereignty. Whether the bill returns to Congress or not will depend on the support the government manages to gather and on the political climate of the coming months. In the meantime, the episode leaves a lesson: land still unites opponents who almost never agree.",
+        "resumen_es": "El gobierno de Javier Milei ha retirado, al menos de forma temporal, su reforma de la norma que regula la venta de tierras a extranjeros en Argentina. La decisión llega tras una dura batalla política en el Congreso, donde la oposición acusó al gobierno de querer vender el país. El Ejecutivo no ha precisado si volverá a presentar el texto más adelante.\n\nEl debate viene de lejos. La norma vigente limita desde hace años cuánta tierra rural puede quedar en manos extranjeras, sobre todo cerca de las fronteras y de los grandes cursos de agua, un asunto que toca de lleno la idea de soberanía. Que el proyecto vuelva o no al Congreso dependerá de los apoyos que el gobierno logre reunir y del clima político de los próximos meses. Mientras tanto, el episodio deja una lección: la tierra sigue uniendo a adversarios que casi nunca se ponen de acuerdo.",
+        "vocab": [
+          {
+            "front": "retirar un proyecto",
+            "pos": "phrase",
+            "back": "to withdraw a bill",
+            "example": "El gobierno decidió retirar la reforma.",
+            "tier": "B1"
+          },
+          {
+            "front": "la norma",
+            "pos": "noun",
+            "back": "rule, regulation",
+            "example": "La norma vigente no ha cambiado.",
+            "tier": "B1"
+          },
+          {
+            "front": "vigente",
+            "pos": "adj",
+            "back": "in force, current",
+            "example": "El contrato sigue vigente hasta diciembre.",
+            "tier": "B2"
+          },
+          {
+            "front": "la batalla política",
+            "pos": "phrase",
+            "back": "political battle",
+            "example": "Fue una batalla política de varias semanas.",
+            "tier": "B1"
+          },
+          {
+            "front": "la oposición",
+            "pos": "noun",
+            "back": "the opposition parties",
+            "example": "La oposición votó en contra en bloque.",
+            "tier": "B1"
+          },
+          {
+            "front": "el Ejecutivo",
+            "pos": "noun",
+            "back": "the government, the executive branch",
+            "example": "El Ejecutivo defendió su propuesta.",
+            "tier": "B2"
+          },
+          {
+            "front": "precisar",
+            "pos": "verb",
+            "back": "to specify, to state precisely",
+            "example": "No precisó cuándo se votará la ley.",
+            "tier": "B2"
+          },
+          {
+            "front": "el clima político",
+            "pos": "phrase",
+            "back": "the political climate",
+            "example": "El clima político no ayuda a negociar.",
+            "tier": "B1"
+          },
+          {
+            "front": "la soberanía",
+            "pos": "noun",
+            "back": "sovereignty",
+            "example": "Hablan de soberanía sobre los recursos naturales.",
+            "tier": "B2"
+          },
+          {
+            "front": "reunir apoyos",
+            "pos": "phrase",
+            "back": "to gather support",
+            "example": "No consiguió reunir los apoyos necesarios.",
+            "tier": "B2"
+          },
+          {
+            "front": "venir de lejos",
+            "pos": "phrase",
+            "back": "to go back a long way",
+            "example": "Este conflicto viene de lejos.",
+            "tier": "B2"
+          },
+          {
+            "front": "tocar de lleno",
+            "pos": "phrase",
+            "back": "to affect something or someone directly and fully",
+            "example": "La reforma toca de lleno al sector agrícola.",
+            "tier": "B2"
+          },
+          {
+            "front": "ponerse de acuerdo",
+            "pos": "phrase",
+            "back": "to reach an agreement",
+            "example": "Nunca se ponen de acuerdo en nada.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El gobierno de Javier Milei ha retirado, al menos de forma temporal, su reforma de la norma que regula la venta de tierras a extranjeros en Argentina.",
+            "point": "Pretérito perfecto para noticias recientes",
+            "explanation": "Ha retirado conecta el hecho con el presente: la reforma sigue fuera del Congreso ahora mismo. En un relato ya cerrado se usaría el indefinido (retiró).",
+            "why_tricky": "El uso del perfecto varía por región: en gran parte de América Latina se preferiría retiró, mientras que en España el perfecto es la opción normal para lo ocurrido hoy o esta semana."
+          },
+          {
+            "sentence": "Que el proyecto vuelva o no al Congreso dependerá de los apoyos que el gobierno logre reunir y del clima político de los próximos meses.",
+            "point": "Oración sustantiva de sujeto con que + subjuntivo",
+            "explanation": "Todo el bloque que el proyecto vuelva o no al Congreso funciona como sujeto del verbo dependerá, y por eso lleva subjuntivo: no se afirma que vuelva, se plantea como posibilidad.",
+            "why_tricky": "Es fácil leer ese que inicial como un relativo y perder el hilo de la frase; además logre reunir va en subjuntivo porque es una relativa con antecedente no identificado y orientada al futuro: no se sabe qué apoyos serán."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "verse obligado a",
+            "meaning": "to be forced to do something",
+            "example": "Se vio obligado a pedir disculpas en público."
+          },
+          {
+            "phrase": "quedar en manos de alguien",
+            "meaning": "to end up under someone's control or ownership",
+            "example": "Media provincia quedó en manos de dos empresas."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué argumentos da el gobierno para defender la reforma y qué teme la oposición?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué la venta de tierras se relaciona con la idea de soberanía?",
+            "type": "open"
+          },
+          {
+            "q": "¿De qué dependerá, según el texto, que la reforma vuelva al Congreso?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Debería un país poner límites a la compra de tierras por parte de extranjeros? Escribe unas 120 palabras con dos argumentos a favor y uno en contra."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-12-proyectiles-incendios-burdeos",
+      "title": "Hallan más de 75 proyectiles de la Segunda Guerra Mundial tras los incendios en la región de Burdeos",
+      "source": "RFI Español",
+      "date": "2026-08-04",
+      "level": "B1-B2",
+      "topics": [
+        "sucesos",
+        "historia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-12-proyectiles-incendios-burdeos",
+        "revision": 1,
+        "meta": {
+          "title": "Hallan más de 75 proyectiles de la Segunda Guerra Mundial tras los incendios en la región de Burdeos",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/francia/20260804-hallan-m%C3%A1s-de-75-proyectiles-de-la-segunda-guerra-mundial-tras-los-incendios-en-la-regi%C3%B3n-de-burdeos",
+          "date_published": "2026-08-04",
+          "date_processed": "2026-08-12",
+          "tags": [
+            "sucesos",
+            "historia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The huge forest fire that swept through more than 40,000 hectares in the Bordeaux region, in south-western France, has exposed an unexpected danger. More than 75 Second World War artillery shells have turned up in the burnt area. The residents of Le Porge, one of the worst affected towns, have already been able to return to their homes, but two other places remain closed to the public.\n\nThe French Atlantic coast was heavily militarised during the German occupation, so the discovery does not entirely surprise the experts. What is striking is the role of the fire: by burning the vegetation and disturbing the soil, the blazes bring to the surface munitions that had spent eighty years buried. With summers that are drier and drier, this kind of surprise could happen again. For now, the authorities are urging caution and recalling a basic rule: if a suspicious metal object appears, you must not touch it.",
+        "resumen_es": "El gran incendio forestal que arrasó más de 40.000 hectáreas en la región de Burdeos, en el suroeste de Francia, ha dejado al descubierto un peligro inesperado. En la zona quemada han aparecido más de 75 proyectiles de artillería de la Segunda Guerra Mundial. Los habitantes de Le Porge, una de las localidades más afectadas, ya han podido regresar a sus casas, pero otras dos siguen cerradas al público.\n\nLa costa atlántica francesa estuvo muy militarizada durante la ocupación alemana, así que el hallazgo no sorprende del todo a los expertos. Lo llamativo es el papel del fuego: al quemar la vegetación y remover el suelo, los incendios sacan a la superficie municiones que llevaban ochenta años enterradas. Con veranos cada vez más secos, este tipo de sorpresas podría repetirse. De momento, las autoridades piden prudencia y recuerdan una regla básica: si aparece un objeto metálico sospechoso, no hay que tocarlo.",
+        "vocab": [
+          {
+            "front": "arrasar",
+            "pos": "verb",
+            "back": "to devastate, to sweep through",
+            "example": "El fuego arrasó varios pueblos de la costa.",
+            "tier": "B2"
+          },
+          {
+            "front": "la hectárea",
+            "pos": "noun",
+            "back": "hectare",
+            "example": "El parque ocupa mil hectáreas.",
+            "tier": "B1"
+          },
+          {
+            "front": "dejar al descubierto",
+            "pos": "phrase",
+            "back": "to expose, to bring to light",
+            "example": "La crisis dejó al descubierto muchos problemas.",
+            "tier": "B2"
+          },
+          {
+            "front": "la zona quemada",
+            "pos": "phrase",
+            "back": "the burnt area",
+            "example": "En la zona quemada no queda un árbol en pie.",
+            "tier": "B1"
+          },
+          {
+            "front": "el proyectil",
+            "pos": "noun",
+            "back": "shell, projectile",
+            "example": "Los artificieros retiraron el proyectil sin problemas.",
+            "tier": "B2"
+          },
+          {
+            "front": "el hallazgo",
+            "pos": "noun",
+            "back": "find, discovery",
+            "example": "El hallazgo sorprendió a los arqueólogos.",
+            "tier": "B2"
+          },
+          {
+            "front": "llamativo",
+            "pos": "adj",
+            "back": "striking, eye-catching",
+            "example": "Lo más llamativo fue la reacción del público.",
+            "tier": "B2"
+          },
+          {
+            "front": "remover",
+            "pos": "verb",
+            "back": "to disturb, to stir up soil",
+            "example": "La máquina removió la tierra del jardín.",
+            "tier": "B2"
+          },
+          {
+            "front": "enterrado",
+            "pos": "adj",
+            "back": "buried",
+            "example": "El tesoro llevaba siglos enterrado.",
+            "tier": "B1"
+          },
+          {
+            "front": "sacar a la superficie",
+            "pos": "phrase",
+            "back": "to bring to the surface",
+            "example": "El debate sacó a la superficie viejas tensiones.",
+            "tier": "B2"
+          },
+          {
+            "front": "la prudencia",
+            "pos": "noun",
+            "back": "caution, prudence",
+            "example": "Las autoridades piden prudencia en la carretera.",
+            "tier": "B1"
+          },
+          {
+            "front": "sospechoso",
+            "pos": "adj",
+            "back": "suspicious",
+            "example": "Avisaron a la policía por un paquete sospechoso.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Lo llamativo es el papel del fuego: al quemar la vegetación y remover el suelo, los incendios sacan a la superficie municiones que llevaban ochenta años enterradas.",
+            "point": "al + infinitivo y lo + adjetivo",
+            "explanation": "Al quemar equivale a cuando queman y expresa la causa o el momento de la acción. Lo llamativo convierte un adjetivo en idea abstracta: aquello que resulta llamativo.",
+            "why_tricky": "Ese lo no es el artículo masculino: no acompaña a un nombre, sino que crea un concepto general, y por eso el adjetivo va siempre en masculino singular."
+          },
+          {
+            "sentence": "Con veranos cada vez más secos, este tipo de sorpresas podría repetirse.",
+            "point": "podría + infinitivo para la posibilidad, y cada vez más",
+            "explanation": "Podría no marca aquí una condición, sino una posibilidad abierta: puede volver a ocurrir, sin afirmar que vaya a ocurrir. Cada vez más + adjetivo expresa una progresión continua.",
+            "why_tricky": "El condicional sirve tanto para la hipótesis como para atenuar una afirmación, y sin contexto cuesta saber cuál de los dos valores está en juego."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "de momento",
+            "meaning": "for the time being, for now",
+            "example": "De momento no hay heridos que lamentar."
+          },
+          {
+            "phrase": "no del todo",
+            "meaning": "not entirely",
+            "example": "La explicación no me convence del todo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué relación hay entre el incendio y la aparición de los proyectiles?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué los expertos no están del todo sorprendidos por el hallazgo?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué recomiendan las autoridades a los vecinos de la zona?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Qué deberían hacer los gobiernos con los restos de guerra que siguen enterrados en zonas habitadas? Escribe unas 120 palabras."
+      }
+    },
     {
       "pack_id": "feed-2026-08-11-crisis-agua-puerto-rico",
       "title": "Crisis del agua en Puerto Rico: por qué a cientos de miles de personas se les está racionando el suministro en la isla",
@@ -6279,513 +6767,6 @@
           }
         ],
         "opinion_prompt": "¿Sirven de algo los premios internacionales, como el Nobel de la Paz, para proteger a quienes los reciben? Escribe entre 120 y 150 palabras con tu punto de vista."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-04-reino-unido-constitucion-escrita",
-      "title": "Andy Burnham quiere dotar al Reino Unido de una Constitución escrita",
-      "source": "RFI Español",
-      "date": "2026-08-04",
-      "level": "B1-B2",
-      "topics": [
-        "política",
-        "Reino Unido"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-04-reino-unido-constitucion-escrita",
-        "revision": 1,
-        "meta": {
-          "title": "Andy Burnham quiere dotar al Reino Unido de una Constitución escrita",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/europa/20260803-andy-burnham-quiere-dotar-al-reino-unido-de-una-constituci%C3%B3n-escrita",
-          "date_published": "2026-08-03",
-          "date_processed": "2026-08-04",
-          "tags": [
-            "política",
-            "Reino Unido"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The United Kingdom is one of the oldest democracies in the world, but it lacks a founding text. Instead it relies on a set of precedents, laws and traditions that have gradually built up over centuries. The prime minister, Andy Burnham, believes the moment has come to change that model and give the country a written constitution.\n\nThe proposal is not straightforward. Those who defend it argue that a clear text would better protect citizens' rights and would limit the power of whichever government is in office. Its critics reply that the current flexibility allows the system to adapt without deadlock, and that drafting a constitution would open an endless debate about the monarchy, the role of judges and the relationship with Scotland and Wales. Whatever the outcome, the discussion has already begun.",
-        "resumen_es": "El Reino Unido es una de las democracias más antiguas del mundo, pero carece de un texto fundacional. En su lugar se apoya en un conjunto de precedentes, leyes y tradiciones que se han ido acumulando durante siglos. El primer ministro, Andy Burnham, considera que ha llegado el momento de cambiar ese modelo y de dotar al país de una Constitución escrita.\n\nLa propuesta no es sencilla. Quienes la defienden sostienen que un texto claro protegería mejor los derechos de los ciudadanos y limitaría el poder del Gobierno de turno. Sus críticos responden que la flexibilidad actual permite adaptarse sin bloqueos y que redactar una Constitución abriría un debate interminable sobre la monarquía, el papel de los jueces y la relación con Escocia y Gales. Sea cual sea el resultado, la discusión ya ha empezado.",
-        "vocab": [
-          {
-            "front": "carecer de",
-            "pos": "verb",
-            "back": "to lack, to be without",
-            "example": "El informe carece de datos concretos.",
-            "tier": "C1"
-          },
-          {
-            "front": "el texto fundacional",
-            "pos": "phrase",
-            "back": "founding document",
-            "example": "Cada república tiene su texto fundacional.",
-            "tier": "B2"
-          },
-          {
-            "front": "apoyarse en",
-            "pos": "verb",
-            "back": "to rely on, to rest on",
-            "example": "El sistema se apoya en la confianza mutua.",
-            "tier": "B2"
-          },
-          {
-            "front": "el precedente",
-            "pos": "noun",
-            "back": "precedent, earlier case",
-            "example": "El tribunal citó un precedente de 1998.",
-            "tier": "B2"
-          },
-          {
-            "front": "dotar a alguien de algo",
-            "pos": "verb",
-            "back": "to provide someone with something",
-            "example": "Quieren dotar al hospital de más camas.",
-            "tier": "C1"
-          },
-          {
-            "front": "sostener",
-            "pos": "verb",
-            "back": "to argue, to maintain (a view)",
-            "example": "Los expertos sostienen que la reforma es urgente.",
-            "tier": "B2"
-          },
-          {
-            "front": "el derecho",
-            "pos": "noun",
-            "back": "right (legal entitlement)",
-            "example": "La ley protege el derecho a la vivienda.",
-            "tier": "B1"
-          },
-          {
-            "front": "el Gobierno de turno",
-            "pos": "phrase",
-            "back": "whichever government happens to be in power",
-            "example": "La norma no depende del Gobierno de turno.",
-            "tier": "C1"
-          },
-          {
-            "front": "el bloqueo",
-            "pos": "noun",
-            "back": "deadlock, blockage",
-            "example": "El bloqueo político duró tres meses.",
-            "tier": "B2"
-          },
-          {
-            "front": "redactar",
-            "pos": "verb",
-            "back": "to draft, to write up (a formal text)",
-            "example": "Un comité redactará el nuevo reglamento.",
-            "tier": "B2"
-          },
-          {
-            "front": "interminable",
-            "pos": "adj",
-            "back": "endless, interminable",
-            "example": "Fue una reunión interminable.",
-            "tier": "B2"
-          },
-          {
-            "front": "el papel",
-            "pos": "noun",
-            "back": "role, part played by someone",
-            "example": "El papel de los jueces es decisivo aquí.",
-            "tier": "B1"
-          },
-          {
-            "front": "sea cual sea",
-            "pos": "phrase",
-            "back": "whatever it may be",
-            "example": "Sea cual sea tu decisión, la respetaré.",
-            "tier": "C1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "El Reino Unido es una de las democracias más antiguas del mundo, pero carece de un texto fundacional.",
-            "point": "carecer de + bare noun, and the superlative pattern uno de los más",
-            "explanation": "'Carecer' always takes 'de' and the noun that follows usually goes without an article: 'carece de un texto fundacional' keeps 'un' only because the text is being counted as one specific thing. 'Una de las democracias más antiguas' places 'más antiguas' after the noun inside the group.",
-            "why_tricky": "Learners drop the 'de' by analogy with 'no tener', and they often write 'una de las más antiguas democracias', copying the English word order."
-          },
-          {
-            "sentence": "Quienes la defienden sostienen que un texto claro protegería mejor los derechos de los ciudadanos y limitaría el poder del Gobierno de turno.",
-            "point": "quienes as a headless relative, plus the conditional for a hypothetical result",
-            "explanation": "'Quienes la defienden' means 'those who defend it' with no antecedent noun, and it takes a plural verb. 'Protegería' and 'limitaría' are conditionals because the constitution does not exist yet, so the effect is hypothetical.",
-            "why_tricky": "Learners write 'los que' where 'quienes' is more idiomatic in formal register, and they slip into the future 'protegerá', which would claim the change is already agreed."
-          },
-          {
-            "sentence": "Sea cual sea el resultado, la discusión ya ha empezado.",
-            "point": "the reduplicated subjunctive sea cual sea",
-            "explanation": "Spanish expresses 'whatever' by repeating the subjunctive around the question word: sea cual sea, pase lo que pase, digan lo que digan. Both verbs are subjunctive and the structure is fixed.",
-            "why_tricky": "There is nothing like it in English, so learners produce 'cualquier sea el resultado' or use the indicative, and the doubling feels redundant until you meet the whole family of expressions."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "ha llegado el momento de",
-            "meaning": "the time has come to do something",
-            "example": "Ha llegado el momento de tomar una decisión."
-          },
-          {
-            "phrase": "sea cual sea el resultado",
-            "meaning": "whatever the outcome turns out to be",
-            "example": "Sea cual sea el resultado, habrá aprendido mucho."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿En qué se apoya hoy el sistema constitucional británico si no existe un texto único?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué dos ventajas señalan quienes defienden una Constitución escrita?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué tres temas incómodos podría abrir, según los críticos, el proceso de redacción?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Te parece que una Constitución escrita protege mejor a los ciudadanos, o que la flexibilidad británica es una ventaja que no conviene perder? Escribe unas 120 palabras."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-04-infantino-fifa-poder",
-      "title": "Quién es Gianni Infantino y cómo llegó a ser el hombre más poderoso (y polémico) del fútbol mundial",
-      "source": "BBC Mundo",
-      "date": "2026-08-04",
-      "level": "B1-B2",
-      "topics": [
-        "fútbol",
-        "poder"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-04-infantino-fifa-poder",
-        "revision": 1,
-        "meta": {
-          "title": "Quién es Gianni Infantino y cómo llegó a ser el hombre más poderoso (y polémico) del fútbol mundial",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cwy0yvdzzyvo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-03",
-          "date_processed": "2026-08-04",
-          "tags": [
-            "fútbol",
-            "poder"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "After ten years at the head of FIFA, Gianni Infantino still holds a position that is practically unassailable in world football. His time in charge has been marked by friction with players' unions and with European football, which blame him for expanding the tournaments and loading the calendar even further. Even so, no serious rival has managed to challenge him for the job.\n\nTo understand his strength it helps to look at how the organisation works. FIFA brings together more than two hundred federations and each one has a vote, so the support of small countries weighs as much as that of the big footballing powers. Infantino has cultivated those relationships patiently and through development programmes handed out all over the world. The question now is how long that balance can last.",
-        "resumen_es": "Después de diez años al frente de la FIFA, Gianni Infantino sigue ocupando una posición prácticamente inexpugnable en el fútbol mundial. Su mandato ha estado marcado por los roces con los sindicatos de jugadores y con el fútbol europeo, que le reprochan haber ampliado los torneos y cargado todavía más el calendario. Aun así, ningún rival serio ha logrado disputarle el cargo.\n\nPara entender su fuerza conviene mirar cómo funciona la organización. La FIFA reúne a más de doscientas federaciones y cada una tiene un voto, de modo que el apoyo de los países pequeños pesa tanto como el de las grandes potencias futbolísticas. Infantino ha cultivado esas relaciones con paciencia y con programas de desarrollo repartidos por todo el mundo. La pregunta ahora es hasta cuándo puede durar ese equilibrio.",
-        "vocab": [
-          {
-            "front": "estar al frente de",
-            "pos": "phrase",
-            "back": "to be in charge of, to head",
-            "example": "Lleva seis años al frente del departamento.",
-            "tier": "B2"
-          },
-          {
-            "front": "inexpugnable",
-            "pos": "adj",
-            "back": "unassailable, impregnable",
-            "example": "Su liderazgo parecía inexpugnable hasta el año pasado.",
-            "tier": "C1"
-          },
-          {
-            "front": "el mandato",
-            "pos": "noun",
-            "back": "term of office",
-            "example": "Su segundo mandato terminó sin grandes reformas.",
-            "tier": "B2"
-          },
-          {
-            "front": "el roce",
-            "pos": "noun",
-            "back": "friction, minor clash",
-            "example": "Hubo roces entre los dos directores desde el principio.",
-            "tier": "B2"
-          },
-          {
-            "front": "reprochar",
-            "pos": "verb",
-            "back": "to reproach, to blame someone for something",
-            "example": "Le reprochan no haber consultado a nadie.",
-            "tier": "B2"
-          },
-          {
-            "front": "ampliar",
-            "pos": "verb",
-            "back": "to expand, to enlarge",
-            "example": "Quieren ampliar el torneo a cuarenta equipos.",
-            "tier": "B1"
-          },
-          {
-            "front": "cargar el calendario",
-            "pos": "phrase",
-            "back": "to overload the schedule",
-            "example": "Cargar el calendario aumenta el riesgo de lesiones.",
-            "tier": "B2"
-          },
-          {
-            "front": "aun así",
-            "pos": "adv",
-            "back": "even so, nevertheless",
-            "example": "Perdió el apoyo del club y aun así siguió jugando.",
-            "tier": "B1"
-          },
-          {
-            "front": "disputar el cargo",
-            "pos": "phrase",
-            "back": "to challenge someone for the post",
-            "example": "Nadie se atrevió a disputarle el cargo.",
-            "tier": "B2"
-          },
-          {
-            "front": "de modo que",
-            "pos": "phrase",
-            "back": "so that, with the result that",
-            "example": "Llegó tarde, de modo que perdió el turno.",
-            "tier": "B1"
-          },
-          {
-            "front": "pesar",
-            "pos": "verb",
-            "back": "to carry weight, to count (figuratively)",
-            "example": "En esa votación pesa mucho la opinión de los socios.",
-            "tier": "B2"
-          },
-          {
-            "front": "cultivar una relación",
-            "pos": "phrase",
-            "back": "to build and maintain a relationship",
-            "example": "Cultivó esa amistad durante años antes de pedir nada.",
-            "tier": "B2"
-          },
-          {
-            "front": "el equilibrio",
-            "pos": "noun",
-            "back": "balance, equilibrium",
-            "example": "El equilibrio dentro del comité es muy frágil.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Su mandato ha estado marcado por los roces con los sindicatos de jugadores y con el fútbol europeo, que le reprochan haber ampliado los torneos y cargado todavía más el calendario.",
-            "point": "haber + participle after a verb, sharing one auxiliary",
-            "explanation": "'Le reprochan haber ampliado los torneos y cargado el calendario' uses the perfect infinitive to talk about a completed past action. The auxiliary 'haber' appears once and covers both participles, so 'cargado' does not need its own 'haber'.",
-            "why_tricky": "The shared auxiliary is invisible, so learners often insert a second 'haber' or switch to a finite verb, which breaks the parallel structure."
-          },
-          {
-            "sentence": "Para entender su fuerza conviene mirar cómo funciona la organización.",
-            "point": "impersonal 'conviene + infinitivo'",
-            "explanation": "'Conviene mirar' means 'it is worth looking' or 'one should look'. The verb stays in the third person singular with no subject, and the infinitive carries the real action.",
-            "why_tricky": "There is no equivalent single verb in English, so learners reach for 'es bueno mirar' or an awkward 'debemos mirar' and lose the neutral, editorial tone."
-          },
-          {
-            "sentence": "La FIFA reúne a más de doscientas federaciones y cada una tiene un voto, de modo que el apoyo de los países pequeños pesa tanto como el de las grandes potencias futbolísticas.",
-            "point": "comparison of equality with tanto como and a pronoun standing in for a noun",
-            "explanation": "'Pesa tanto como el de las grandes potencias' compares two amounts of support. 'El' replaces 'el apoyo' so the noun is not repeated, and it must match the gender and number of what it stands for.",
-            "why_tricky": "English says 'as much as that of', and learners either repeat the full noun or drop the article, producing 'tanto como de las grandes potencias', which is ungrammatical."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "estar en una posición inexpugnable",
-            "meaning": "to be so well protected that nobody can remove you",
-            "example": "Tras ganar las elecciones internas quedó en una posición inexpugnable."
-          },
-          {
-            "phrase": "hasta cuándo",
-            "meaning": "how long, until what point (used to question the future of a situation)",
-            "example": "Nadie sabe hasta cuándo aguantará este acuerdo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué le reprochan a Infantino los sindicatos de jugadores y el fútbol europeo?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué el sistema de un voto por federación favorece a quien dirige la FIFA?",
-            "type": "open"
-          },
-          {
-            "q": "En tus palabras, ¿cómo ha construido Infantino su base de apoyo?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Debería el fútbol mundial cambiar su sistema de votación para que las grandes ligas tengan más peso, o es más justo que cada federación valga lo mismo? Argumenta en unas 120 palabras."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-04-rata-topo-reina-fertilidad",
-      "title": "El \"super anticonceptivo\" con el que una rata topo vuelve infértiles a las hembras rivales",
-      "source": "BBC Mundo",
-      "date": "2026-08-04",
-      "level": "B1-B2",
-      "topics": [
-        "ciencia",
-        "animales"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-04-rata-topo-reina-fertilidad",
-        "revision": 1,
-        "meta": {
-          "title": "El \"super anticonceptivo\" con el que una rata topo vuelve infértiles a las hembras rivales",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cgq57g3y11wo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-03",
-          "date_processed": "2026-08-04",
-          "tags": [
-            "ciencia",
-            "animales"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "For decades, scientists did not understand how naked mole rat queens manage to keep control of their colony. A new piece of work points to a kind of natural super-contraceptive: the dominant female gets the other females to stop reproducing, so that she keeps the role of the only mother in the group.\n\nThe finding is of interest well beyond zoology. These rodents live underground in highly hierarchical societies, age slowly and almost never develop cancer, so they have been in the sights of biomedical research for years. Understanding which mechanisms switch off the fertility of the other females could open up leads about human reproduction and about ageing itself. For now, this is a first step.",
-        "resumen_es": "Durante décadas, los científicos no entendían cómo las reinas de la rata topo desnuda logran mantener el control de su colonia. Un nuevo trabajo apunta a una especie de superanticonceptivo natural: la hembra dominante consigue que las demás hembras dejen de reproducirse, de manera que ella se queda con el papel de única madre del grupo.\n\nEl hallazgo interesa mucho más allá de la zoología. Estos roedores viven bajo tierra en sociedades muy jerárquicas, envejecen despacio y casi nunca desarrollan cáncer, así que llevan años en el punto de mira de la investigación biomédica. Entender qué mecanismos apagan la fertilidad de las demás hembras podría abrir pistas sobre la reproducción humana y sobre el propio envejecimiento. Por ahora, se trata de un primer paso.",
-        "vocab": [
-          {
-            "front": "la hembra",
-            "pos": "noun",
-            "back": "female (animal)",
-            "example": "La hembra defiende el nido durante semanas.",
-            "tier": "B1"
-          },
-          {
-            "front": "dominante",
-            "pos": "adj",
-            "back": "dominant, leading",
-            "example": "En el grupo hay siempre un macho dominante.",
-            "tier": "B1"
-          },
-          {
-            "front": "reproducirse",
-            "pos": "verb",
-            "back": "to reproduce, to breed",
-            "example": "Estas aves solo se reproducen en primavera.",
-            "tier": "B2"
-          },
-          {
-            "front": "el hallazgo",
-            "pos": "noun",
-            "back": "finding, discovery",
-            "example": "El hallazgo se publicó en una revista científica.",
-            "tier": "B2"
-          },
-          {
-            "front": "más allá de",
-            "pos": "phrase",
-            "back": "beyond, further than",
-            "example": "El problema va más allá de un simple error técnico.",
-            "tier": "B1"
-          },
-          {
-            "front": "el roedor",
-            "pos": "noun",
-            "back": "rodent",
-            "example": "Los roedores son animales muy usados en los laboratorios.",
-            "tier": "B2"
-          },
-          {
-            "front": "jerárquico",
-            "pos": "adj",
-            "back": "hierarchical",
-            "example": "Es una empresa muy jerárquica y poco flexible.",
-            "tier": "B2"
-          },
-          {
-            "front": "envejecer",
-            "pos": "verb",
-            "back": "to age, to grow old",
-            "example": "Nadie sabe todavía por qué unas especies envejecen más despacio.",
-            "tier": "B2"
-          },
-          {
-            "front": "estar en el punto de mira",
-            "pos": "phrase",
-            "back": "to be under scrutiny, to be a focus of attention",
-            "example": "Esa empresa está en el punto de mira de los inspectores.",
-            "tier": "C1"
-          },
-          {
-            "front": "el mecanismo",
-            "pos": "noun",
-            "back": "mechanism",
-            "example": "Aún no conocemos el mecanismo exacto de la enfermedad.",
-            "tier": "B1"
-          },
-          {
-            "front": "abrir pistas",
-            "pos": "phrase",
-            "back": "to open up leads or clues",
-            "example": "El estudio abre pistas sobre el origen del virus.",
-            "tier": "B2"
-          },
-          {
-            "front": "el envejecimiento",
-            "pos": "noun",
-            "back": "ageing (the process)",
-            "example": "El envejecimiento de la población preocupa a los gobiernos.",
-            "tier": "B2"
-          },
-          {
-            "front": "tratarse de",
-            "pos": "verb",
-            "back": "to be a matter of, to be (impersonal)",
-            "example": "No se trata de dinero, sino de tiempo.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Un nuevo trabajo apunta a una especie de superanticonceptivo natural: la hembra dominante consigue que las demás hembras dejen de reproducirse, de manera que ella se queda con el papel de única madre del grupo.",
-            "point": "conseguir que + subjunctive",
-            "explanation": "Verbs of influence such as conseguir, lograr and hacer take 'que' plus the subjunctive when there are two different subjects. Here the queen is the subject of 'consigue' and the other females are the subject of 'dejen', so 'dejen' must be subjunctive.",
-            "why_tricky": "English uses an infinitive, 'gets the other females to stop', so learners write 'consigue que las hembras dejan', using the indicative by mistake."
-          },
-          {
-            "sentence": "Durante décadas, los científicos no entendían cómo las reinas de la rata topo desnuda logran mantener el control de su colonia.",
-            "point": "indirect question with cómo after a verb of understanding",
-            "explanation": "'No entendían cómo las reinas logran mantener el control' embeds a question inside a statement. The word 'cómo' keeps its written accent even though there is no question mark, and the word order stays subject then verb.",
-            "why_tricky": "Learners drop the accent on 'cómo' in embedded questions, and some invert the subject as if it were a direct question."
-          },
-          {
-            "sentence": "Estos roedores viven bajo tierra en sociedades muy jerárquicas, envejecen despacio y casi nunca desarrollan cáncer, así que llevan años en el punto de mira de la investigación biomédica.",
-            "point": "así que introducing a consequence, plus llevar + years + gerund",
-            "explanation": "'Así que' links a result to what came before, unlike 'para que', which introduces a purpose. 'Llevan años en el punto de mira' uses llevar with a time expression to say how long a situation has been going on.",
-            "why_tricky": "Learners confuse 'así que' with 'así' or 'para que', and they translate 'they have been' literally with 'han sido' instead of the natural 'llevan'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "estar en el punto de mira",
-            "meaning": "to be closely watched or targeted",
-            "example": "Desde el escándalo, el club está en el punto de mira de la prensa."
-          },
-          {
-            "phrase": "dar un primer paso",
-            "meaning": "to make an initial move in a long process",
-            "example": "El acuerdo es solo un primer paso, pero es importante."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué consigue la hembra dominante dentro de la colonia y cómo cambia eso al resto del grupo?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué la rata topo desnuda interesa tanto a la investigación biomédica?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué límites reconoce el texto sobre el alcance actual de este hallazgo?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Hasta qué punto te parece razonable invertir dinero público en estudiar animales tan poco conocidos como la rata topo desnuda? Escribe unas 120 palabras con tu opinión."
       }
     }
   ]
