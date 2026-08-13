@@ -1,7 +1,521 @@
 {
-  "generated_at": "2026-08-13T08:19:03Z",
+  "generated_at": "2026-08-13T23:47:09Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-14-venezuela-israel-consulares",
+      "title": "Venezuela e Israel acuerdan restablecer servicios consulares tras una ruptura diplomática de 17 años",
+      "source": "BBC Mundo",
+      "date": "2026-08-11",
+      "level": "B1-B2",
+      "topics": [
+        "diplomacia",
+        "Venezuela"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-14-venezuela-israel-consulares",
+        "revision": 1,
+        "meta": {
+          "title": "Venezuela e Israel acuerdan restablecer servicios consulares tras una ruptura diplomática de 17 años",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c1d19v6363ro?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-11",
+          "date_processed": "2026-08-14",
+          "tags": [
+            "diplomacia",
+            "Venezuela"
+          ],
+          "level": "B1-B2"
+        },
+        "resumen_es": "Venezuela e Israel han acordado restablecer sus servicios consulares, diecisiete años después de la ruptura de sus relaciones diplomáticas. El vínculo se quebró en enero de 2009, cuando el entonces presidente Hugo Chávez rompió con Israel tras años de deterioro continuo. El anuncio no supone todavía una reconciliación completa, pero sí marca un cambio de tono entre dos gobiernos que llevaban casi dos décadas sin hablarse.\n\nConviene distinguir dos niveles. Los servicios consulares se ocupan sobre todo de trámites cotidianos: visados, documentos, registros civiles y asistencia a los ciudadanos que viven en el otro país. Las relaciones diplomáticas plenas, en cambio, implican embajadas y representación política. Aun así, el gesto tiene un peso simbólico evidente y suele funcionar como antesala de contactos más amplios. Queda por ver si el acuerdo desemboca en la reapertura de embajadas o si se queda, de momento, en un canal técnico para resolver asuntos prácticos.",
+        "summary_en": "Venezuela and Israel have agreed to restore their consular services, seventeen years after their diplomatic relations broke down. The link was severed in January 2009, when the then president Hugo Chávez broke with Israel after years of steady deterioration. The announcement does not yet amount to a full reconciliation, but it does mark a change of tone between two governments that had gone almost two decades without speaking to each other.\n\nIt is worth distinguishing two levels. Consular services deal mainly with everyday paperwork: visas, documents, civil registry records and assistance for citizens living in the other country. Full diplomatic relations, by contrast, involve embassies and political representation. Even so, the gesture carries obvious symbolic weight and often works as a prelude to broader contacts. It remains to be seen whether the agreement leads to embassies reopening or whether it stays, for now, a technical channel for settling practical matters.",
+        "vocab": [
+          {
+            "front": "restablecer",
+            "pos": "verb",
+            "back": "to restore, to re-establish",
+            "example": "Los dos países han decidido restablecer sus servicios consulares.",
+            "tier": "B2"
+          },
+          {
+            "front": "la ruptura",
+            "pos": "noun",
+            "back": "a break, a breaking off (of relations)",
+            "example": "La ruptura entre los dos gobiernos duró casi veinte años.",
+            "tier": "B2"
+          },
+          {
+            "front": "el vínculo",
+            "pos": "noun",
+            "back": "the tie, the link, the bond",
+            "example": "El vínculo entre las dos familias se rompió hace tiempo.",
+            "tier": "B2"
+          },
+          {
+            "front": "quebrarse",
+            "pos": "verb",
+            "back": "to break, to snap (often figurative)",
+            "example": "La confianza se quebró tras aquella decisión.",
+            "tier": "C1"
+          },
+          {
+            "front": "el deterioro",
+            "pos": "noun",
+            "back": "the deterioration, the worsening",
+            "example": "El deterioro de la relación fue lento pero constante.",
+            "tier": "B2"
+          },
+          {
+            "front": "suponer",
+            "pos": "verb",
+            "back": "to amount to, to mean, to represent (not: to suppose)",
+            "example": "La medida no supone un cambio real en la política del país.",
+            "tier": "B2"
+          },
+          {
+            "front": "el trámite",
+            "pos": "noun",
+            "back": "an administrative procedure, a formality",
+            "example": "Renovar el pasaporte es un trámite bastante rápido.",
+            "tier": "B1"
+          },
+          {
+            "front": "el visado",
+            "pos": "noun",
+            "back": "the visa",
+            "example": "Necesito un visado para trabajar en ese país.",
+            "tier": "B1"
+          },
+          {
+            "front": "la antesala",
+            "pos": "noun",
+            "back": "the prelude, the run-up (literally: an anteroom, the room before the main one)",
+            "example": "Aquella reunión fue la antesala del acuerdo final.",
+            "tier": "C1"
+          },
+          {
+            "front": "desembocar en",
+            "pos": "verb",
+            "back": "to lead to, to end up in",
+            "example": "Las protestas desembocaron en un cambio de gobierno.",
+            "tier": "C1"
+          },
+          {
+            "front": "el peso simbólico",
+            "pos": "phrase",
+            "back": "symbolic weight, symbolic significance",
+            "example": "El viaje tuvo más peso simbólico que efectos prácticos.",
+            "tier": "B2"
+          },
+          {
+            "front": "quedar por ver",
+            "pos": "phrase",
+            "back": "to remain to be seen",
+            "example": "Queda por ver si la medida funciona.",
+            "tier": "B2"
+          },
+          {
+            "front": "el entonces presidente",
+            "pos": "phrase",
+            "back": "the then president, the president at the time",
+            "example": "La ley la firmó el entonces presidente del país.",
+            "tier": "B2"
+          },
+          {
+            "front": "de momento",
+            "pos": "adv",
+            "back": "for now, for the time being",
+            "example": "De momento no hay más información.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El vínculo se quebró en enero de 2009, cuando el entonces presidente Hugo Chávez rompió con Israel tras años de deterioro continuo.",
+            "point": "Pronominal se with quebrarse to present an event without an agent",
+            "explanation": "Quebrar is transitive (alguien quiebra algo). Adding se turns it into an intransitive change of state: el vínculo se quebró, the link broke. English can simply drop the object (the door opened, the glass broke), but Spanish has to mark the change with se: la puerta se abrió, el vaso se rompió. Without the se you have a transitive verb missing its object.",
+            "why_tricky": "Learners tend to write el vínculo fue quebrado. That periphrastic passive is marginal in Spanish with an inanimate subject and no stated agent. Notice too that the sentence names the agent separately in the next clause, with a different verb, rompió."
+          },
+          {
+            "sentence": "El anuncio no supone todavía una reconciliación completa, pero sí marca un cambio de tono entre dos gobiernos que llevaban casi dos décadas sin hablarse.",
+            "point": "llevar + time + sin + infinitive for duration up to a point in the past",
+            "explanation": "Llevar dos décadas sin hablarse means they had spent two decades not speaking. The imperfect llevaban sets the duration as still ongoing at that past moment. Note the reciprocal se in hablarse: speaking to each other.",
+            "why_tricky": "English uses a perfect tense here (had gone twenty years without speaking), so learners reach for habían llevado. Spanish keeps the simple imperfect llevaban."
+          },
+          {
+            "sentence": "Queda por ver si el acuerdo desemboca en la reapertura de embajadas o si se queda, de momento, en un canal técnico para resolver asuntos prácticos.",
+            "point": "Indicative after si in an indirect yes/no question",
+            "explanation": "This si introduces an embedded question (whether), not a condition, so it takes the indicative: si el acuerdo desemboca.",
+            "why_tricky": "Uncertainty pushes learners towards the subjunctive. But si never takes the present subjunctive in Spanish at all, neither in a condition nor in an indirect question, so si el acuerdo desemboque is simply impossible. The indicative is the only option."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "romper el hielo",
+            "meaning": "to break the ice, to ease an awkward first contact",
+            "example": "El primer encuentro sirvió para romper el hielo entre los dos equipos."
+          },
+          {
+            "phrase": "tender puentes",
+            "meaning": "to build bridges, to seek understanding between opposing sides",
+            "example": "El nuevo embajador quiere tender puentes con la oposición."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué diferencia hay entre los servicios consulares y las relaciones diplomáticas plenas, según el texto?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué dice el texto que el gesto tiene un peso simbólico evidente aunque no haya reconciliación completa?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué tendría que ocurrir para que este acuerdo fuera algo más que un canal técnico?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que dos países enfrentados deberían mantener siempre un canal abierto para los trámites de sus ciudadanos, aunque no haya relaciones políticas? Escribe unas 120 palabras con tu argumento y un ejemplo."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-14-rusia-partido-pacifista",
+      "title": "La Corte Suprema de Rusia prohíbe a partido pacifista participar en las elecciones",
+      "source": "RFI Español",
+      "date": "2026-08-11",
+      "level": "B1-B2",
+      "topics": [
+        "política",
+        "Rusia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-14-rusia-partido-pacifista",
+        "revision": 1,
+        "meta": {
+          "title": "La Corte Suprema de Rusia prohíbe a partido pacifista participar en las elecciones",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/europa/20260811-la-corte-suprema-de-rusia-proh%C3%ADbe-a-partido-pacifista-participar-en-las-elecciones",
+          "date_published": "2026-08-11",
+          "date_processed": "2026-08-14",
+          "tags": [
+            "política",
+            "Rusia"
+          ],
+          "level": "B1-B2"
+        },
+        "resumen_es": "La Corte Suprema de Rusia ha prohibido al partido Yábloko presentar candidatos en las elecciones legislativas de septiembre. Yábloko es la única formación rusa que defiende abiertamente negociaciones inmediatas para poner fin al conflicto con Ucrania. Entre otros argumentos, el tribunal estimó que el partido recibía financiación del extranjero, una acusación que la legislación rusa castiga con dureza.\n\nLa decisión deja sin apenas alternativas a los votantes que se oponen a la guerra. Yábloko nació en los años noventa y hace tiempo que sobrevive al margen del poder, sin escaños en la Duma desde hace más de veinte años. La etiqueta de agente extranjero se ha convertido en un instrumento habitual para apartar de la vida pública a organizaciones críticas, desde medios de comunicación hasta organizaciones no gubernamentales. Si la prohibición se mantiene, la campaña de septiembre se perfila como un trámite de resultado previsible.",
+        "summary_en": "Russia's Supreme Court has barred the Yabloko party from fielding candidates in September's parliamentary elections. Yabloko is the only Russian party that openly argues for immediate negotiations to end the conflict with Ukraine. Among other arguments, the court held that the party was receiving funding from abroad, an accusation that Russian law punishes harshly.\n\nThe decision leaves voters who oppose the war with almost no alternatives. Yabloko was founded in the 1990s and has long survived on the margins of power, with no seats in the Duma for more than twenty years. The foreign agent label has become a routine instrument for pushing critical organisations out of public life, from news outlets to non-governmental organisations. If the ban stands, September's campaign looks set to be a formality with a predictable result.",
+        "vocab": [
+          {
+            "front": "prohibir a alguien + infinitivo",
+            "pos": "verb",
+            "back": "to ban someone from doing something",
+            "example": "El tribunal prohibió al partido presentar candidatos.",
+            "tier": "B2"
+          },
+          {
+            "front": "la formación (política)",
+            "pos": "noun",
+            "back": "a political party, a political group",
+            "example": "Es la formación más antigua del país.",
+            "tier": "B2"
+          },
+          {
+            "front": "las elecciones legislativas",
+            "pos": "phrase",
+            "back": "parliamentary elections, a general election for the legislature",
+            "example": "Las elecciones legislativas se celebrarán en otoño.",
+            "tier": "B2"
+          },
+          {
+            "front": "presentar candidatos",
+            "pos": "phrase",
+            "back": "to field candidates",
+            "example": "El partido no podrá presentar candidatos en tres regiones.",
+            "tier": "B2"
+          },
+          {
+            "front": "estimar (que)",
+            "pos": "verb",
+            "back": "to hold, to judge, to consider (formal, legal use)",
+            "example": "El juez estimó que la prueba no era válida.",
+            "tier": "C1"
+          },
+          {
+            "front": "la financiación",
+            "pos": "noun",
+            "back": "funding, financing",
+            "example": "La financiación del proyecto viene de fondos privados.",
+            "tier": "B2"
+          },
+          {
+            "front": "castigar con dureza",
+            "pos": "phrase",
+            "back": "to punish harshly",
+            "example": "La ley castiga con dureza ese tipo de fraude.",
+            "tier": "B2"
+          },
+          {
+            "front": "el escaño",
+            "pos": "noun",
+            "back": "the seat (in a parliament)",
+            "example": "El partido perdió veinte escaños en las últimas elecciones.",
+            "tier": "C1"
+          },
+          {
+            "front": "al margen de",
+            "pos": "phrase",
+            "back": "on the fringes of, outside of",
+            "example": "Vivió muchos años al margen de la política.",
+            "tier": "B2"
+          },
+          {
+            "front": "la etiqueta",
+            "pos": "noun",
+            "back": "the label, the tag",
+            "example": "No me gusta esa etiqueta, simplifica demasiado.",
+            "tier": "B2"
+          },
+          {
+            "front": "apartar a alguien de",
+            "pos": "verb",
+            "back": "to remove someone from, to push someone aside from",
+            "example": "Lo apartaron del cargo sin explicaciones.",
+            "tier": "B2"
+          },
+          {
+            "front": "perfilarse como",
+            "pos": "verb",
+            "back": "to be shaping up to be, to look set to be",
+            "example": "El acto se perfila como el más importante del año.",
+            "tier": "C1"
+          },
+          {
+            "front": "previsible",
+            "pos": "adj",
+            "back": "predictable, foreseeable",
+            "example": "El final de la película era bastante previsible.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La Corte Suprema de Rusia ha prohibido al partido Yábloko presentar candidatos en las elecciones legislativas de septiembre.",
+            "point": "prohibir takes an indirect object for the person and an infinitive for the action",
+            "explanation": "The pattern is prohibir a alguien hacer algo: the one who is banned is an indirect object (al partido), and the banned action goes in the infinitive. The same frame works for permitir, impedir and ordenar.",
+            "why_tricky": "English says ban someone from doing something, so learners often write prohibir al partido de presentar. Spanish takes no preposition before the infinitive here."
+          },
+          {
+            "sentence": "Yábloko nació en los años noventa y hace tiempo que sobrevive al margen del poder, sin escaños en la Duma desde hace más de veinte años.",
+            "point": "hace tiempo que + present for a situation still going on",
+            "explanation": "Hace tiempo que sobrevive means it has been surviving for a long time and still is. Spanish keeps the present tense; the time expression alone carries the duration. Desde hace más de veinte años works the same way, marking how long the situation has lasted.",
+            "why_tricky": "English needs a present perfect continuous (has been surviving), which pushes learners into ha sobrevivido and quietly changes the meaning to something finished."
+          },
+          {
+            "sentence": "La decisión deja sin apenas alternativas a los votantes que se oponen a la guerra.",
+            "point": "apenas as a quantifier, and personal a before a human direct object",
+            "explanation": "Sin apenas alternativas means with hardly any alternatives. Apenas is an adverb, and in the fixed sequence sin apenas + noun it quantifies the noun and softens sin, from with no alternatives down to with hardly any. Note the personal a in a los votantes: with dejar a alguien sin algo, los votantes is a specific human direct object, so it takes a.",
+            "why_tricky": "Apenas does two very different jobs. As a quantifier it means hardly or barely, but in front of a verb in a past clause it means as soon as: apenas llegó, se marchó. The personal a is also easy to drop when the object arrives late in the sentence."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "atar de pies y manos",
+            "meaning": "to tie someone's hands completely, to leave them unable to act",
+            "example": "La nueva norma ata de pies y manos a los pequeños partidos."
+          },
+          {
+            "phrase": "dejar fuera de juego",
+            "meaning": "to sideline someone, to leave them unable to take part",
+            "example": "La sentencia deja fuera de juego al principal partido opositor."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué razón dio el tribunal para prohibir la participación de Yábloko?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué afecta esta decisión sobre todo a los votantes contrarios a la guerra?",
+            "type": "open"
+          },
+          {
+            "q": "Según el texto, ¿cómo se ha utilizado la etiqueta de agente extranjero en Rusia?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Qué condiciones mínimas deben cumplir unas elecciones para que se puedan considerar libres? Escribe unas 120 palabras y menciona al menos dos condiciones concretas."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-14-india-protestas-examenes",
+      "title": "India: La policía usa porras y cañones de agua para dispersar las protestas estudiantiles",
+      "source": "RFI Español",
+      "date": "2026-08-10",
+      "level": "B1-B2",
+      "topics": [
+        "sociedad",
+        "India"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-14-india-protestas-examenes",
+        "revision": 1,
+        "meta": {
+          "title": "India: La policía usa porras y cañones de agua para dispersar las protestas estudiantiles",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/asia-pacifico/20260810-india-la-polic%C3%ADa-usa-porras-y-ca%C3%B1ones-de-agua-para-dispersar-las-protestas-estudiantiles",
+          "date_published": "2026-08-10",
+          "date_processed": "2026-08-14",
+          "tags": [
+            "sociedad",
+            "India"
+          ],
+          "level": "B1-B2"
+        },
+        "resumen_es": "En el estado de Jharkhand, en el este de la India, la policía cargó contra miles de manifestantes con porras y cañones de agua mientras marchaban hacia la Asamblea regional. Se trataba sobre todo de estudiantes y de aspirantes a un empleo público, que denunciaban irregularidades en los exámenes de contratación. Las cargas policiales contra estudiantes suelen ampliar el alcance de este tipo de protestas.\n\nPara entender la magnitud de la movilización hay que mirar el contexto. En la India, aprobar unas oposiciones es una de las pocas vías seguras hacia un trabajo estable, así que cualquier sospecha de fraude toca la fibra sensible. A este tipo de convocatorias suelen presentarse muchísimos más candidatos que plazas disponibles, y los procesos pueden alargarse durante años. Las denuncias por filtraciones se repiten desde hace tiempo en varios estados. Si las autoridades no aclaran lo ocurrido, es probable que las protestas continúen.",
+        "summary_en": "In the state of Jharkhand, in eastern India, police charged at thousands of demonstrators with batons and water cannon as they marched towards the regional assembly. Most of them were students and applicants for public sector jobs, protesting about irregularities in recruitment exams. Police charges against students tend to widen protests of this kind.\n\nTo understand the scale of the protest you have to look at the context. In India, passing a competitive public exam is one of the few reliable routes to a stable job, so any suspicion of fraud strikes a nerve. Far more candidates apply for exams like these than there are posts available, and the process can drag on for years. Complaints about leaked exam papers have recurred for a long time in several states. If the authorities do not clarify what happened, the protests are likely to continue.",
+        "vocab": [
+          {
+            "front": "la porra",
+            "pos": "noun",
+            "back": "the baton, the truncheon",
+            "example": "Los agentes llevaban casco y porra.",
+            "tier": "B2"
+          },
+          {
+            "front": "el cañón de agua",
+            "pos": "noun",
+            "back": "the water cannon",
+            "example": "Usaron cañones de agua para despejar la avenida.",
+            "tier": "B2"
+          },
+          {
+            "front": "dispersar",
+            "pos": "verb",
+            "back": "to disperse, to break up (a crowd)",
+            "example": "La policía dispersó a los manifestantes en pocos minutos.",
+            "tier": "B2"
+          },
+          {
+            "front": "cargar contra",
+            "pos": "verb",
+            "back": "to charge at (of police or troops)",
+            "example": "La policía cargó contra el grupo más numeroso.",
+            "tier": "C1"
+          },
+          {
+            "front": "el aspirante",
+            "pos": "noun",
+            "back": "the applicant, the candidate",
+            "example": "Hay miles de aspirantes para veinte plazas.",
+            "tier": "B2"
+          },
+          {
+            "front": "denunciar",
+            "pos": "verb",
+            "back": "to report (a wrongdoing), to speak out against",
+            "example": "Los vecinos denunciaron el estado de las carreteras.",
+            "tier": "B2"
+          },
+          {
+            "front": "las oposiciones",
+            "pos": "noun",
+            "back": "competitive public sector exams",
+            "example": "Lleva dos años preparando las oposiciones.",
+            "tier": "B2"
+          },
+          {
+            "front": "la plaza",
+            "pos": "noun",
+            "back": "the post, the position (in a job competition)",
+            "example": "Solo salieron cincuenta plazas este año.",
+            "tier": "B2"
+          },
+          {
+            "front": "la convocatoria",
+            "pos": "noun",
+            "back": "the official call for applications, the exam round",
+            "example": "La convocatoria se publicó en el boletín oficial.",
+            "tier": "C1"
+          },
+          {
+            "front": "la filtración",
+            "pos": "noun",
+            "back": "the leak (of information or exam papers)",
+            "example": "Anularon la prueba tras una filtración.",
+            "tier": "C1"
+          },
+          {
+            "front": "la sospecha",
+            "pos": "noun",
+            "back": "the suspicion",
+            "example": "Basta una sospecha para que se abra una investigación.",
+            "tier": "B2"
+          },
+          {
+            "front": "alargarse",
+            "pos": "verb",
+            "back": "to drag on, to go on longer than expected",
+            "example": "La reunión se alargó hasta la noche.",
+            "tier": "B1"
+          },
+          {
+            "front": "la movilización",
+            "pos": "noun",
+            "back": "the protest action, the mobilisation",
+            "example": "Los sindicatos anunciaron nuevas movilizaciones.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Se trataba sobre todo de estudiantes y de aspirantes a un empleo público, que denunciaban irregularidades en los exámenes de contratación.",
+            "point": "tratarse de as an impersonal verb with no subject",
+            "explanation": "Tratarse de means it is a case of or they were. It is used only in the third person singular and never agrees with what follows, so it stays tratarse even before a plural: se trataba de estudiantes, not se trataban de estudiantes.",
+            "why_tricky": "The plural noun right after the verb pulls learners towards plural agreement, and the English translation they were reinforces the mistake."
+          },
+          {
+            "sentence": "Si las autoridades no aclaran lo ocurrido, es probable que las protestas continúen.",
+            "point": "Real conditional with present indicative, then subjunctive after es probable que",
+            "explanation": "After si for an open, likely condition Spanish uses the present indicative (no aclaran), never the present subjunctive. The subjunctive appears instead in the main clause, because es probable que expresses probability rather than fact: continúen.",
+            "why_tricky": "Both halves feel uncertain, so learners often put the subjunctive in the wrong clause, or in both."
+          },
+          {
+            "sentence": "En la India, aprobar unas oposiciones es una de las pocas vías seguras hacia un trabajo estable, así que cualquier sospecha de fraude toca la fibra sensible.",
+            "point": "Infinitive as the subject of a sentence",
+            "explanation": "Aprobar unas oposiciones works as a noun phrase here and is the subject of es. Spanish uses the bare infinitive where English uses the gerund: passing an exam is, aprobar es.",
+            "why_tricky": "Learners transfer the English gerund and write aprobando unas oposiciones es, which is ungrammatical in Spanish."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "tocar la fibra sensible",
+            "meaning": "to strike a nerve, to touch on something people feel deeply about",
+            "example": "El anuncio tocó la fibra sensible de toda una generación."
+          },
+          {
+            "phrase": "salir a la calle",
+            "meaning": "to take to the streets, to protest publicly",
+            "example": "Miles de personas salieron a la calle tras conocerse la noticia."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué denunciaban exactamente los manifestantes de Jharkhand?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué son tan importantes las oposiciones para muchos jóvenes indios, según el texto?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué podría hacer que las protestas se detuvieran, de acuerdo con el último párrafo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Es justo que el acceso a un empleo público dependa casi por completo de un examen? Escribe unas 120 palabras explicando qué ventajas y qué problemas tiene ese sistema."
+      }
+    },
     {
       "pack_id": "feed-2026-08-13-servicio-secreto-senuelos",
       "title": "Los trucos que usa el servicio secreto de EE.UU. para ocultar a los presidentes a plena vista",
@@ -6268,513 +6782,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que merece la pena invertir grandes sumas en observar el Sol cuando hay tantos problemas en la Tierra? Escribe entre 100 y 150 palabras justificando tu postura."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-06-francia-llamadas-comerciales",
-      "title": "Francia prohibe llamadas comerciales no solicitadas y obliga a repensar el telemarketing",
-      "source": "RFI Español",
-      "date": "2026-08-06",
-      "level": "B1-B2",
-      "topics": [
-        "consumo",
-        "Francia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-06-francia-llamadas-comerciales",
-        "revision": 1,
-        "meta": {
-          "title": "Francia prohibe llamadas comerciales no solicitadas y obliga a repensar el telemarketing",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/europa/20260806-francia-prohibe-llamadas-comerciales-no-solicitadas-y-obliga-a-repensar-el-telemarketing",
-          "date_published": "2026-08-06",
-          "date_processed": "2026-08-06",
-          "tags": [
-            "consumo",
-            "Francia"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "From 11 August, companies in France will no longer be able to call a consumer without having obtained their prior consent. The new rule turns around the logic that applied until now, when it was enough for the customer to register on a list in order to stop receiving calls. Consumer associations had been complaining about telephone harassment for years and are welcoming the change.\n\nFor the telemarketing sector, on the other hand, the measure forces a rethink of the business from top to bottom. Many firms will have to cut staff or shift towards email and digital channels, where consent is easier to prove. Critics warn that some operators will try to get around the law by calling from abroad. The government trusts that the penalties provided for will be enough to deter those who do not comply with the new rules.",
-        "resumen_es": "A partir del 11 de agosto, las empresas ya no podrán llamar a un consumidor en Francia sin haber obtenido antes su consentimiento explícito. La nueva norma invierte la lógica que regía hasta ahora, cuando bastaba con inscribirse en una lista para dejar de recibir llamadas. Las asociaciones de consumidores llevaban años denunciando el acoso telefónico y celebran el cambio.\n\nPara el sector del telemarketing, en cambio, la medida obliga a repensar el negocio de arriba abajo. Muchas empresas tendrán que reducir plantilla o reorientarse hacia el correo electrónico y los canales digitales, donde el consentimiento resulta más fácil de acreditar. Los críticos advierten de que algunos operadores intentarán esquivar la ley llamando desde el extranjero. El Gobierno confía en que las sanciones previstas basten para disuadir a quienes no cumplan las nuevas reglas.",
-        "vocab": [
-          {
-            "front": "el consentimiento",
-            "pos": "noun",
-            "back": "consent",
-            "example": "Sin consentimiento previo, la llamada es ilegal.",
-            "tier": "B2"
-          },
-          {
-            "front": "invertir la lógica",
-            "pos": "phrase",
-            "back": "to turn the logic on its head",
-            "example": "La reforma invierte la lógica del sistema anterior.",
-            "tier": "B2"
-          },
-          {
-            "front": "regir",
-            "pos": "verb",
-            "back": "to govern, to be in force",
-            "example": "Las normas que rigen el sector cambian cada año.",
-            "tier": "C1"
-          },
-          {
-            "front": "bastar con",
-            "pos": "verb",
-            "back": "to be enough to",
-            "example": "Basta con enviar un correo para darse de baja.",
-            "tier": "B1"
-          },
-          {
-            "front": "inscribirse",
-            "pos": "verb",
-            "back": "to sign up, to register",
-            "example": "Muchos usuarios se inscribieron en la lista oficial.",
-            "tier": "B1"
-          },
-          {
-            "front": "el acoso",
-            "pos": "noun",
-            "back": "harassment",
-            "example": "Denunciaron el acoso telefónico ante el regulador.",
-            "tier": "B2"
-          },
-          {
-            "front": "la plantilla",
-            "pos": "noun",
-            "back": "workforce, staff",
-            "example": "La empresa recortó la plantilla en un veinte por ciento.",
-            "tier": "B2"
-          },
-          {
-            "front": "reorientarse",
-            "pos": "verb",
-            "back": "to shift direction, to reorient oneself",
-            "example": "El negocio se reorientó hacia el mercado digital.",
-            "tier": "B2"
-          },
-          {
-            "front": "acreditar",
-            "pos": "verb",
-            "back": "to prove, to certify",
-            "example": "Hay que acreditar el permiso del cliente.",
-            "tier": "C1"
-          },
-          {
-            "front": "esquivar",
-            "pos": "verb",
-            "back": "to dodge, to get around",
-            "example": "Algunas empresas esquivan la normativa europea.",
-            "tier": "B2"
-          },
-          {
-            "front": "la sanción",
-            "pos": "noun",
-            "back": "penalty, fine",
-            "example": "Las sanciones pueden llegar a varios miles de euros.",
-            "tier": "B1"
-          },
-          {
-            "front": "disuadir",
-            "pos": "verb",
-            "back": "to deter, to dissuade",
-            "example": "La multa busca disuadir a los reincidentes.",
-            "tier": "C1"
-          },
-          {
-            "front": "de arriba abajo",
-            "pos": "phrase",
-            "back": "from top to bottom, completely",
-            "example": "Han cambiado el modelo de arriba abajo.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "A partir del 11 de agosto, las empresas ya no podrán llamar a un consumidor en Francia sin haber obtenido antes su consentimiento explícito.",
-            "point": "Perfect infinitive after sin: sin haber obtenido",
-            "explanation": "Spanish uses the compound infinitive haber plus participle to mark an action completed before the main verb. Sin haber obtenido therefore means without having first obtained, and no conjugated verb is needed because the subject is the same.",
-            "why_tricky": "Learners commonly write sin obtener, which loses the sense of prior completion, or try to build a full subordinate clause with a conjugated verb."
-          },
-          {
-            "sentence": "El Gobierno confía en que las sanciones previstas basten para disuadir a quienes no cumplan las nuevas reglas.",
-            "point": "Double subjunctive: basten and cumplan",
-            "explanation": "Confiar en que expressing hope about an uncertain outcome triggers the subjunctive basten. Quienes here refers to unidentified people whose behaviour is hypothetical, which is why the relative clause also takes the subjunctive cumplan.",
-            "why_tricky": "With a known, specific group Spanish would use the indicative cumplen, so the choice depends on whether the referent is definite, not on the word quienes itself."
-          },
-          {
-            "sentence": "Las asociaciones de consumidores llevaban años denunciando el acoso telefónico y celebran el cambio.",
-            "point": "Llevar plus time plus gerund",
-            "explanation": "Llevaban años denunciando expresses an action that had been going on for years up to a point in the past. Spanish uses llevar rather than a perfect tense, and the gerund carries the lexical verb.",
-            "why_tricky": "English needs a perfect progressive, had been complaining, while Spanish keeps llevar in the imperfect and never uses por or durante with this structure."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "dar la lata",
-            "meaning": "to pester or annoy someone repeatedly",
-            "example": "Las compañías llevaban meses dando la lata por teléfono."
-          },
-          {
-            "phrase": "poner coto a algo",
-            "meaning": "to put a stop to something, to curb it",
-            "example": "La ley pretende poner coto a las llamadas abusivas."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué cambia exactamente para las empresas a partir del 11 de agosto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Cómo funcionaba el sistema anterior según el texto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué temen los críticos de la nueva norma?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Debería aplicarse una norma parecida en todos los países europeos, o crees que perjudicaría demasiado al empleo? Escribe entre 100 y 150 palabras con tu opinión."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-06-ormuz-especies-invasoras",
-      "title": "Cómo los buques varados en el estrecho de Ormuz pueden desencadenar una superpropagación de especies marinas invasoras",
-      "source": "BBC Mundo",
-      "date": "2026-08-06",
-      "level": "B1-B2",
-      "topics": [
-        "medioambiente",
-        "océanos"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-06-ormuz-especies-invasoras",
-        "revision": 1,
-        "meta": {
-          "title": "Cómo los buques varados en el estrecho de Ormuz pueden desencadenar una superpropagación de especies marinas invasoras",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cn0nk8858j9o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-06",
-          "date_processed": "2026-08-06",
-          "tags": [
-            "medioambiente",
-            "océanos"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "An international group of biologists warns in a new report that the ships stranded in the strait of Hormuz could become a vehicle for the spread of invasive marine species. The hulls of the vessels and the ballast water they carry accumulate organisms which, after weeks or months lying still, attach themselves and reproduce without any control. The longer the wait lasts, the denser those living communities become.\n\nThe risk, according to the authors, will materialise when maritime traffic returns to normal and those ships set sail for ports all over the world. A massive and simultaneous arrival of foreign species could upset fragile ecosystems and harm local fishing. The experts are asking for hulls to be cleaned before the routes resume and for port controls to be strengthened. Without preventive measures, they warn, the ecological consequences could last for decades.",
-        "resumen_es": "Un grupo internacional de biólogos advierte en un nuevo informe de que los buques varados en el estrecho de Ormuz podrían convertirse en un vehículo para la propagación de especies marinas invasoras. Los cascos de las embarcaciones y el agua de lastre acumulan organismos que, tras semanas o meses inmóviles, se adhieren y se reproducen sin control alguno. Cuanto más se prolongue la espera, más densas serán esas comunidades vivas.\n\nEl riesgo, según los autores, se materializará cuando el tráfico marítimo vuelva a la normalidad y esos barcos zarpen hacia puertos de todo el mundo. Una llegada masiva y simultánea de especies foráneas podría alterar ecosistemas frágiles y perjudicar a la pesca local. Los expertos piden que se limpien los cascos antes de reanudar las rutas y que se refuercen los controles portuarios. Sin medidas preventivas, avisan, las consecuencias podrían durar décadas.",
-        "vocab": [
-          {
-            "front": "el buque",
-            "pos": "noun",
-            "back": "ship, large vessel",
-            "example": "El buque quedó varado durante varias semanas.",
-            "tier": "B2"
-          },
-          {
-            "front": "varado",
-            "pos": "adj",
-            "back": "stranded, run aground",
-            "example": "Decenas de barcos siguen varados en la zona.",
-            "tier": "B2"
-          },
-          {
-            "front": "el casco",
-            "pos": "noun",
-            "back": "hull (of a ship)",
-            "example": "Limpiaron el casco antes de zarpar.",
-            "tier": "B2"
-          },
-          {
-            "front": "el agua de lastre",
-            "pos": "noun",
-            "back": "ballast water",
-            "example": "El agua de lastre transporta organismos vivos.",
-            "tier": "C1"
-          },
-          {
-            "front": "adherirse",
-            "pos": "verb",
-            "back": "to stick, to attach itself",
-            "example": "Las algas se adhieren al metal con facilidad.",
-            "tier": "B2"
-          },
-          {
-            "front": "prolongarse",
-            "pos": "verb",
-            "back": "to drag on, to be extended",
-            "example": "La espera se prolongó más de lo previsto.",
-            "tier": "B2"
-          },
-          {
-            "front": "materializarse",
-            "pos": "verb",
-            "back": "to materialise, to become real",
-            "example": "El peligro aún no se ha materializado.",
-            "tier": "B2"
-          },
-          {
-            "front": "zarpar",
-            "pos": "verb",
-            "back": "to set sail",
-            "example": "Los barcos zarparán en cuanto reabra la ruta.",
-            "tier": "B2"
-          },
-          {
-            "front": "foráneo",
-            "pos": "adj",
-            "back": "foreign, alien (species)",
-            "example": "Las especies foráneas desplazan a las locales.",
-            "tier": "C1"
-          },
-          {
-            "front": "perjudicar",
-            "pos": "verb",
-            "back": "to harm, to damage",
-            "example": "La contaminación perjudica a los pescadores.",
-            "tier": "B1"
-          },
-          {
-            "front": "reanudar",
-            "pos": "verb",
-            "back": "to resume",
-            "example": "Esperan reanudar el tráfico en otoño.",
-            "tier": "B2"
-          },
-          {
-            "front": "reforzar",
-            "pos": "verb",
-            "back": "to strengthen, to reinforce",
-            "example": "Hay que reforzar los controles en los puertos.",
-            "tier": "B1"
-          },
-          {
-            "front": "la propagación",
-            "pos": "noun",
-            "back": "spread, propagation",
-            "example": "La propagación fue más rápida de lo esperado.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Cuanto más se prolongue la espera, más densas serán esas comunidades vivas.",
-            "point": "Correlative comparative cuanto más plus subjunctive",
-            "explanation": "The pattern cuanto más plus verb, más plus adjective corresponds to the more, the more. Because the situation is still hypothetical and set in the future, the first verb goes into the present subjunctive prolongue while the second uses the future serán.",
-            "why_tricky": "English keeps both halves in the present, whereas Spanish mixes subjunctive and future here, and cuanto must agree in number when it modifies a noun."
-          },
-          {
-            "sentence": "El riesgo, según los autores, se materializará cuando el tráfico marítimo vuelva a la normalidad y esos barcos zarpen hacia puertos de todo el mundo.",
-            "point": "Cuando plus present subjunctive for a future event",
-            "explanation": "When cuando introduces something that has not happened yet, Spanish requires the present subjunctive, so vuelva and zarpen appear rather than vuelve and zarpan. The main clause stays in the future tense.",
-            "why_tricky": "The same conjunction takes the indicative for habitual or past events, and learners transfer the English present tense straight into Spanish."
-          },
-          {
-            "sentence": "Los expertos piden que se limpien los cascos antes de reanudar las rutas y que se refuercen los controles portuarios.",
-            "point": "Subjunctive after a verb of request combined with passive se",
-            "explanation": "Pedir que imposes the subjunctive on the subordinate verbs, and both appear in the passive reflexive form, se limpien and se refuercen, agreeing in the plural with cascos and controles.",
-            "why_tricky": "Two rules stack at once, so learners must apply the subjunctive and the plural agreement of the se construction at the same time."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "echar el ancla",
-            "meaning": "to drop anchor, to settle somewhere",
-            "example": "La flota echó el ancla a la espera de instrucciones."
-          },
-          {
-            "phrase": "a la deriva",
-            "meaning": "adrift, without direction",
-            "example": "El plan de limpieza quedó a la deriva por falta de fondos."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué los barcos parados representan un riesgo ecológico?",
-            "type": "open"
-          },
-          {
-            "q": "¿Cuándo se materializaría ese riesgo, según los autores del informe?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué medidas proponen los expertos para evitarlo?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Quién debería pagar la limpieza de los cascos, las navieras o los gobiernos? Escribe entre 100 y 150 palabras defendiendo tu punto de vista."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-06-avioneta-nazca-peru",
-      "title": "13 personas mueren en Perú al estrellarse una avioneta turística cerca de las Líneas de Nazca",
-      "source": "BBC Mundo",
-      "date": "2026-08-06",
-      "level": "B1-B2",
-      "topics": [
-        "accidente",
-        "turismo"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-06-avioneta-nazca-peru",
-        "revision": 1,
-        "meta": {
-          "title": "13 personas mueren en Perú al estrellarse una avioneta turística cerca de las Líneas de Nazca",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c0ejznr1g9no?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-01",
-          "date_processed": "2026-08-06",
-          "tags": [
-            "accidente",
-            "turismo"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Thirteen people died in Peru when a tourist light aircraft crashed near the Nazca Lines, according to the authorities. The plane had taken off from the airport at Pisco and was making one of the sightseeing flights that let passengers look down on the famous figures traced in the desert. There were no survivors. The authorities have opened an investigation to establish the causes of the accident and are working at the crash site.\n\nThe Nazca overflights are one of the country's main tourist attractions and are almost always made in small aircraft. The sector has suffered several accidents over the years, which has fuelled the debate about how the planes are maintained and how the companies that operate these flights are supervised. The government is likely to review its safety protocols in the coming months, while the families of the victims wait for answers.",
-        "resumen_es": "Trece personas murieron en Perú cuando una avioneta turística se estrelló cerca de las Líneas de Nazca, según informaron las autoridades. La aeronave había despegado del aeropuerto de Pisco y realizaba uno de los vuelos panorámicos que permiten contemplar desde el aire las famosas figuras trazadas en el desierto. No hubo sobrevivientes. Las autoridades abrieron una investigación para esclarecer las causas del accidente y trabajan en la zona del impacto.\n\nLos sobrevuelos de Nazca son una de las principales atracciones turísticas del país y se realizan casi siempre en avionetas pequeñas. El sector ha sufrido varios accidentes a lo largo de los años, lo que ha alimentado el debate sobre el mantenimiento de las aeronaves y la supervisión de las empresas que operan estos vuelos. Es probable que el Gobierno revise los protocolos de seguridad en los próximos meses, mientras las familias de las víctimas esperan respuestas.",
-        "vocab": [
-          {
-            "front": "la avioneta",
-            "pos": "noun",
-            "back": "small light aircraft",
-            "example": "La avioneta despegó al amanecer con seis pasajeros.",
-            "tier": "B1"
-          },
-          {
-            "front": "estrellarse",
-            "pos": "verb",
-            "back": "to crash",
-            "example": "El avión se estrelló poco después de despegar.",
-            "tier": "B1"
-          },
-          {
-            "front": "despegar",
-            "pos": "verb",
-            "back": "to take off",
-            "example": "El vuelo despegó con dos horas de retraso.",
-            "tier": "B1"
-          },
-          {
-            "front": "el sobrevuelo",
-            "pos": "noun",
-            "back": "flight over an area, overflight",
-            "example": "El sobrevuelo dura unos treinta minutos.",
-            "tier": "B2"
-          },
-          {
-            "front": "el sobreviviente",
-            "pos": "noun",
-            "back": "survivor",
-            "example": "Los equipos de rescate no encontraron sobrevivientes.",
-            "tier": "B1"
-          },
-          {
-            "front": "esclarecer las causas",
-            "pos": "phrase",
-            "back": "to clarify, to shed light on the causes",
-            "example": "La fiscalía intenta esclarecer las causas del incendio.",
-            "tier": "B2"
-          },
-          {
-            "front": "la aeronave",
-            "pos": "noun",
-            "back": "aircraft (formal)",
-            "example": "La aeronave quedó destruida por el impacto.",
-            "tier": "B2"
-          },
-          {
-            "front": "el mantenimiento",
-            "pos": "noun",
-            "back": "maintenance, upkeep",
-            "example": "La empresa recortó el gasto en mantenimiento.",
-            "tier": "B1"
-          },
-          {
-            "front": "la supervisión",
-            "pos": "noun",
-            "back": "oversight, supervision",
-            "example": "El sector pide más supervisión del Estado.",
-            "tier": "B2"
-          },
-          {
-            "front": "trazado",
-            "pos": "adj",
-            "back": "traced, drawn, laid out",
-            "example": "Las figuras están trazadas sobre la arena.",
-            "tier": "B2"
-          },
-          {
-            "front": "a lo largo de los años",
-            "pos": "phrase",
-            "back": "over the years",
-            "example": "A lo largo de los años el pueblo se ha vaciado.",
-            "tier": "B1"
-          },
-          {
-            "front": "alimentar el debate",
-            "pos": "phrase",
-            "back": "to fuel the debate",
-            "example": "El informe alimentó el debate sobre la seguridad aérea.",
-            "tier": "B2"
-          },
-          {
-            "front": "el protocolo de seguridad",
-            "pos": "phrase",
-            "back": "safety protocol",
-            "example": "Revisaron los protocolos de seguridad tras el accidente.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "No hubo sobrevivientes.",
-            "point": "Impersonal haber in the preterite",
-            "explanation": "Haber used impersonally has one single form for each tense: hubo, not hubieron, even when the noun after it is plural.",
-            "why_tricky": "Learners often make hubo agree with the plural noun and say hubieron sobrevivientes, which sounds wrong to native ears."
-          },
-          {
-            "sentence": "Las autoridades abrieron una investigación para esclarecer las causas del accidente",
-            "point": "para + infinitive to express purpose",
-            "explanation": "When the subject of both actions is the same, purpose is expressed with para plus the infinitive, without any conjugated verb.",
-            "why_tricky": "English uses in order to establish, which tempts learners into para que with a subjunctive, only correct when the second subject changes."
-          },
-          {
-            "sentence": "Es probable que el Gobierno revise los protocolos de seguridad en los próximos meses",
-            "point": "Subjunctive after expressions of probability",
-            "explanation": "Es probable que expresses a judgement about likelihood, not a fact, so the verb that follows goes in the present subjunctive: revise.",
-            "why_tricky": "Es verdad que and es evidente que take the indicative, so learners have to sort probability from certainty rather than rely on a single rule."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "salir a la luz",
-            "meaning": "to come to light, to become known",
-            "example": "Los primeros detalles de la investigación salieron a la luz esta semana."
-          },
-          {
-            "phrase": "poner en tela de juicio",
-            "meaning": "to call into question",
-            "example": "El accidente puso en tela de juicio la seguridad de estos vuelos."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué hacía la avioneta antes de estrellarse y de dónde había salido?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué los sobrevuelos de Nazca son importantes para el turismo peruano?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué debate ha abierto este tipo de accidentes en el sector aéreo?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Deberían prohibirse los vuelos turísticos en avionetas pequeñas cuando el historial de seguridad de una empresa no es bueno? Escribe entre 120 y 150 palabras justificando tu postura."
       }
     }
   ]
