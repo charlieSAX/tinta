@@ -1,7 +1,515 @@
 {
-  "generated_at": "2026-08-12T20:11:27Z",
+  "generated_at": "2026-08-13T08:19:03Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-13-servicio-secreto-senuelos",
+      "title": "Los trucos que usa el servicio secreto de EE.UU. para ocultar a los presidentes a plena vista",
+      "source": "BBC Mundo",
+      "date": "2026-08-12",
+      "level": "B1-B2",
+      "topics": [
+        "seguridad",
+        "señuelos"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-13-servicio-secreto-senuelos",
+        "revision": 1,
+        "meta": {
+          "title": "Los trucos que usa el servicio secreto de EE.UU. para ocultar a los presidentes a plena vista",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cy8m2xp944do?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-12",
+          "date_processed": "2026-08-13",
+          "tags": [
+            "seguridad",
+            "señuelos"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The United States Secret Service resorts to elaborate deception operations and decoys to throw off potential threats against the country's presidents. The idea is not to make the leader disappear, but to hide him in plain sight: convoys of identical vehicles that take different routes, alternative routes announced at the last minute, appearances that were never on the schedule. When nobody can be sure where the president really is, an attack becomes far harder to plan.\n\nThese tactics are nothing new, but they attract attention every time a threat comes to light. Protecting a head of state means combining technology, logistics and theatre, because a well-designed deception can be worth as much as an armoured car. The debate that opens afterwards is always the same: how much secrecy is compatible with a democracy in which citizens expect to know where their leaders are.",
+        "resumen_es": "El servicio secreto de Estados Unidos recurre a elaboradas operaciones de engaño y a señuelos para despistar a posibles amenazas contra los presidentes del país. La idea no es hacer desaparecer al mandatario, sino esconderlo a plena vista: convoyes de vehículos idénticos que toman rutas distintas, rutas alternativas anunciadas en el último momento, apariciones que no figuraban en la agenda. Cuando nadie puede estar seguro de dónde está realmente el presidente, un ataque resulta mucho más difícil de planear.\n\nEstas tácticas no son nuevas, pero llaman la atención cada vez que sale a la luz una amenaza. Proteger a un jefe de Estado implica combinar tecnología, logística y teatro, porque un engaño bien diseñado puede valer tanto como un coche blindado. El debate que se abre después siempre es el mismo: cuánto secreto es compatible con una democracia en la que los ciudadanos esperan saber dónde están sus líderes.",
+        "vocab": [
+          {
+            "front": "el señuelo",
+            "pos": "noun",
+            "back": "decoy, lure",
+            "example": "Usaron un coche como señuelo para despistar a los periodistas.",
+            "tier": "B2"
+          },
+          {
+            "front": "despistar",
+            "pos": "verb",
+            "back": "to throw off, to put off the scent",
+            "example": "El equipo cambió de ruta para despistar a los seguidores.",
+            "tier": "B2"
+          },
+          {
+            "front": "el engaño",
+            "pos": "noun",
+            "back": "deception, trick",
+            "example": "Todo el plan se basaba en un engaño muy bien preparado.",
+            "tier": "B1"
+          },
+          {
+            "front": "recurrir a",
+            "pos": "verb",
+            "back": "to resort to, to fall back on",
+            "example": "El gobierno recurrió a medidas excepcionales.",
+            "tier": "B2"
+          },
+          {
+            "front": "a plena vista",
+            "pos": "phrase",
+            "back": "in plain sight",
+            "example": "El documento estaba a plena vista sobre la mesa.",
+            "tier": "B2"
+          },
+          {
+            "front": "el mandatario",
+            "pos": "noun",
+            "back": "head of state, leader",
+            "example": "El mandatario llegó acompañado de su equipo de seguridad.",
+            "tier": "B2"
+          },
+          {
+            "front": "el convoy",
+            "pos": "noun",
+            "back": "convoy",
+            "example": "El convoy salió del hotel a las seis de la mañana.",
+            "tier": "B2"
+          },
+          {
+            "front": "la amenaza",
+            "pos": "noun",
+            "back": "threat",
+            "example": "La policía investiga una amenaza contra el edificio.",
+            "tier": "B1"
+          },
+          {
+            "front": "salir a la luz",
+            "pos": "phrase",
+            "back": "to come to light, to emerge",
+            "example": "El caso salió a la luz gracias a una investigación periodística.",
+            "tier": "B2"
+          },
+          {
+            "front": "blindado",
+            "pos": "adj",
+            "back": "armoured, bulletproof",
+            "example": "Viaja siempre en un coche blindado.",
+            "tier": "B2"
+          },
+          {
+            "front": "el jefe de Estado",
+            "pos": "noun",
+            "back": "head of state",
+            "example": "El jefe de Estado preside los actos oficiales.",
+            "tier": "B1"
+          },
+          {
+            "front": "planear",
+            "pos": "verb",
+            "back": "to plan (something in advance)",
+            "example": "Tardaron meses en planear el viaje.",
+            "tier": "B1"
+          },
+          {
+            "front": "llamar la atención",
+            "pos": "phrase",
+            "back": "to attract attention, to stand out",
+            "example": "Su reacción llamó la atención de todos.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Cuando nadie puede estar seguro de dónde está realmente el presidente, un ataque resulta mucho más difícil de planear.",
+            "point": "cuando plus indicative for a general, habitual situation",
+            "explanation": "Here cuando introduces something presented as generally true, not as a future event, so it takes the indicative puede. If the sentence pointed to a specific future moment, Spanish would switch to the subjunctive: cuando nadie pueda estar seguro.",
+            "why_tricky": "English uses the same when in both cases, so learners either reach for the subjunctive whenever they see cuando, or never use it at all."
+          },
+          {
+            "sentence": "La idea no es hacer desaparecer al mandatario, sino esconderlo a plena vista: convoyes de vehículos idénticos que toman rutas distintas, rutas alternativas anunciadas en el último momento, apariciones que no figuraban en la agenda.",
+            "point": "sino after a negative, and the object pronoun attached to the infinitive",
+            "explanation": "Sino corrects a preceding negative statement: not X but rather Y. Note also esconderlo, where lo must attach to the infinitive: there is no finite verb here for it to climb to.",
+            "why_tricky": "Learners often use pero where sino is needed; and because verbal periphrases do allow both positions (quiere esconderlo, lo quiere esconder), they assume the pronoun can always go in front, which is impossible with a bare infinitive like this one."
+          },
+          {
+            "sentence": "El debate que se abre después siempre es el mismo: cuánto secreto es compatible con una democracia en la que los ciudadanos esperan saber dónde están sus líderes.",
+            "point": "en la que as a relative pronoun after a preposition",
+            "explanation": "After a preposition Spanish normally uses el que, la que, los que or las que, agreeing with the noun, rather than bare que. Here the antecedent is una democracia, so the form is en la que.",
+            "why_tricky": "English allows a democracy where citizens expect, and even lets the preposition drift to the end of the clause, so the preposition plus article combination has no direct model in English."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "a plena vista",
+            "meaning": "in full view, where anyone could see it",
+            "example": "Escondieron el mensaje a plena vista, entre los anuncios del periódico."
+          },
+          {
+            "phrase": "salir a la luz",
+            "meaning": "to come out into the open, to become public",
+            "example": "Los detalles del contrato salieron a la luz meses después."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Según el texto, ¿por qué esconder al presidente a plena vista puede ser más eficaz que hacerlo desaparecer?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué ejemplos concretos de tácticas de despiste se mencionan en el artículo?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué tensión plantea el texto entre el secreto y la vida democrática?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Hasta qué punto crees que los ciudadanos tienen derecho a saber dónde está y qué hace su jefe de Estado? Escribe unas 120 palabras defendiendo tu postura con al menos un argumento en contra."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-13-libano-pena-de-muerte",
+      "title": "Líbano abole oficialmente la pena de muerte",
+      "source": "RFI Español",
+      "date": "2026-08-11",
+      "level": "B1-B2",
+      "topics": [
+        "justicia",
+        "derechos humanos"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-13-libano-pena-de-muerte",
+        "revision": 1,
+        "meta": {
+          "title": "Líbano abole oficialmente la pena de muerte",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/oriente-medio/20260811-l%C3%ADbano-abole-oficialmente-la-pena-de-muerte",
+          "date_published": "2026-08-11",
+          "date_processed": "2026-08-13",
+          "tags": [
+            "justicia",
+            "derechos humanos"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Lebanon has officially abolished the death penalty and becomes the first country in the Middle East formally to remove capital punishment from its legal system. The country of the cedar had not carried out an execution since 2004, so in practice the sentence had already fallen into disuse; what changes now is that the abolition is written into the law and no longer depends on the will of whichever government happens to be in power.\n\nThe decision matters beyond its borders, because the region records some of the highest execution rates in the world. Organisations that campaign against capital punishment tend to argue that its deterrent effect has never been proved and that judicial errors are irreversible. Those who defend it appeal to the seriousness of certain crimes. In Lebanon that debate is now settled at the legal level, though it will carry on in public opinion.",
+        "resumen_es": "Líbano ha abolido oficialmente la pena de muerte y se convierte en el primer país de Oriente Medio que suprime formalmente la pena capital de su ordenamiento jurídico. El país del cedro no llevaba a cabo ejecuciones desde 2004, de modo que en la práctica la condena ya había caído en desuso; lo que cambia ahora es que la abolición queda escrita en la ley y deja de depender de la voluntad del gobierno de turno.\n\nLa decisión importa más allá de sus fronteras, porque la región registra algunas de las tasas de ejecución más altas del mundo. Las organizaciones que hacen campaña contra la pena capital suelen argumentar que su efecto disuasorio nunca se ha demostrado y que los errores judiciales son irreversibles. Quienes la defienden apelan a la gravedad de ciertos delitos. En Líbano ese debate queda zanjado en el plano legal, aunque seguirá en la opinión pública.",
+        "vocab": [
+          {
+            "front": "abolir",
+            "pos": "verb",
+            "back": "to abolish",
+            "example": "El parlamento decidió abolir esa norma en 2019.",
+            "tier": "B2"
+          },
+          {
+            "front": "la pena de muerte",
+            "pos": "phrase",
+            "back": "the death penalty",
+            "example": "Muchos países europeos abolieron la pena de muerte hace décadas.",
+            "tier": "B1"
+          },
+          {
+            "front": "el ordenamiento jurídico",
+            "pos": "noun",
+            "back": "legal system, body of law",
+            "example": "La reforma afecta a todo el ordenamiento jurídico del país.",
+            "tier": "C1"
+          },
+          {
+            "front": "caer en desuso",
+            "pos": "phrase",
+            "back": "to fall into disuse",
+            "example": "Esa expresión ha caído en desuso entre los jóvenes.",
+            "tier": "B2"
+          },
+          {
+            "front": "llevar a cabo",
+            "pos": "phrase",
+            "back": "to carry out",
+            "example": "El equipo llevó a cabo el estudio durante dos años.",
+            "tier": "B1"
+          },
+          {
+            "front": "el gobierno de turno",
+            "pos": "phrase",
+            "back": "whichever government is in power at the time",
+            "example": "La ley no debería depender del gobierno de turno.",
+            "tier": "B2"
+          },
+          {
+            "front": "disuasorio",
+            "pos": "adj",
+            "back": "deterrent",
+            "example": "Dudan del efecto disuasorio de las multas.",
+            "tier": "C1"
+          },
+          {
+            "front": "la tasa",
+            "pos": "noun",
+            "back": "rate",
+            "example": "La tasa de paro bajó dos puntos.",
+            "tier": "B1"
+          },
+          {
+            "front": "el delito",
+            "pos": "noun",
+            "back": "crime, offence",
+            "example": "Fue acusado de un delito grave.",
+            "tier": "B1"
+          },
+          {
+            "front": "zanjar",
+            "pos": "verb",
+            "back": "to settle, to put an end to (a debate)",
+            "example": "La sentencia zanjó la discusión entre las dos empresas.",
+            "tier": "C1"
+          },
+          {
+            "front": "apelar a",
+            "pos": "verb",
+            "back": "to appeal to (an argument, a feeling)",
+            "example": "El abogado apeló a la buena fe del acusado.",
+            "tier": "B2"
+          },
+          {
+            "front": "irreversible",
+            "pos": "adj",
+            "back": "irreversible",
+            "example": "El daño al ecosistema puede ser irreversible.",
+            "tier": "B2"
+          },
+          {
+            "front": "hacer campaña",
+            "pos": "phrase",
+            "back": "to campaign",
+            "example": "La asociación hace campaña por el derecho a la vivienda.",
+            "tier": "B1"
+          },
+          {
+            "front": "la condena",
+            "pos": "noun",
+            "back": "sentence, conviction",
+            "example": "La condena se redujo a cinco años.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El país del cedro no llevaba a cabo ejecuciones desde 2004, de modo que en la práctica la condena ya había caído en desuso; lo que cambia ahora es que la abolición queda escrita en la ley y deja de depender de la voluntad del gobierno de turno.",
+            "point": "imperfect with desde for a state that had lasted, plus lo que as a nominalising relative",
+            "explanation": "Llevaba a cabo is imperfect because it describes an ongoing situation stretching back to 2004, not a single completed act. Lo que cambia ahora turns a whole clause into the subject of the sentence, roughly what changes now.",
+            "why_tricky": "Both are possible here: the pluperfect no había llevado a cabo is equally correct and is what most news wires write. The imperfect simply frames it as a lasting state; and lo que has no single-word English equivalent."
+          },
+          {
+            "sentence": "Las organizaciones que hacen campaña contra la pena capital suelen argumentar que su efecto disuasorio nunca se ha demostrado y que los errores judiciales son irreversibles.",
+            "point": "soler plus infinitive, and the pasiva refleja with the perfect",
+            "explanation": "Soler expresses habitual action and always takes an infinitive after it: suelen argumentar means they usually argue. Se ha demostrado leaves the agent unstated, close to English it has never been proved. The verb agrees with su efecto disuasorio; with a plural subject it would be se han demostrado, which is what separates this from the truly impersonal se.",
+            "why_tricky": "Soler has no English verb equivalent, so learners paraphrase with normalmente; and this use of se is easily confused with the reflexive."
+          },
+          {
+            "sentence": "En Líbano ese debate queda zanjado en el plano legal, aunque seguirá en la opinión pública.",
+            "point": "quedar plus participle to express a resulting state",
+            "explanation": "Quedar plus participle presents the outcome of a process rather than the action itself: the debate ends up settled. Compare se zanjó el debate, which foregrounds the act of settling it rather than the resulting state.",
+            "why_tricky": "Learners default to estar or ser with participles and rarely produce quedar, even though it is very common in news Spanish."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "caer en desuso",
+            "meaning": "to stop being used, to become obsolete without being formally cancelled",
+            "example": "Esa costumbre cayó en desuso después de la guerra."
+          },
+          {
+            "phrase": "llevar a cabo",
+            "meaning": "to carry out, to see through to completion",
+            "example": "El ministerio llevó a cabo una reforma profunda."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué diferencia hay entre lo que ocurría en la práctica desde 2004 y lo que cambia ahora con la ley?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué argumentos recoge el texto a favor y en contra de la pena capital?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué dice el texto que la decisión importa más allá de las fronteras libanesas?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que abolir una pena que ya no se aplicaba cambia algo en la práctica? Escribe unas 120 palabras explicando qué valor tiene, en tu opinión, escribir un principio en la ley."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-13-china-universidades-ia",
+      "title": "China adapta sus universidades a la era de la IA y transforma sus planes de estudio",
+      "source": "RFI Español",
+      "date": "2026-08-11",
+      "level": "B1-B2",
+      "topics": [
+        "educación",
+        "tecnología"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-13-china-universidades-ia",
+        "revision": 1,
+        "meta": {
+          "title": "China adapta sus universidades a la era de la IA y transforma sus planes de estudio",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/asia-pacifico/20260811-china-adapta-sus-universidades-a-la-era-de-la-ia-y-transforma-sus-planes-de-estudio",
+          "date_published": "2026-08-11",
+          "date_processed": "2026-08-13",
+          "tags": [
+            "educación",
+            "tecnología"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Beijing is carrying out a deep reform of its higher education system. Over five years the country's universities have scrapped or suspended more than 12,000 study programmes and created more than 10,000 new ones. The aim is to bring the curriculum into line with artificial intelligence, with new technologies and with the needs of the Chinese economy, in a country where many young graduates have trouble finding work that matches their training.\n\nWhat is striking is not only the scale but the speed: what in other systems would demand a decade of consultation is decided here in a couple of academic years. The bet is a risky one, because nobody knows which skills the labour market will value ten years from now, and a curriculum designed around today's technology can age fast. Even so, it is an experiment worth following closely.",
+        "resumen_es": "Pekín está llevando a cabo una profunda reforma de su educación superior. En cinco años, las universidades del país han eliminado o suspendido más de 12.000 programas de estudio y han creado más de 10.000 nuevos. El objetivo es adaptar los planes de estudio a la inteligencia artificial, a las nuevas tecnologías y a las necesidades de la economía china, en un país donde muchos jóvenes graduados tienen dificultades para encontrar un trabajo acorde con su formación.\n\nLo llamativo no es solo la escala, sino la velocidad: lo que en otros sistemas exigiría una década de consultas aquí se decide en un par de cursos. La apuesta es arriesgada, porque nadie sabe qué competencias valorará el mercado laboral dentro de diez años y un plan de estudios diseñado alrededor de la tecnología actual puede envejecer rápido. Aun así, es un experimento que merece la pena seguir de cerca.",
+        "vocab": [
+          {
+            "front": "el plan de estudios",
+            "pos": "noun",
+            "back": "curriculum, syllabus",
+            "example": "La facultad ha renovado todo el plan de estudios.",
+            "tier": "B1"
+          },
+          {
+            "front": "la educación superior",
+            "pos": "noun",
+            "back": "higher education",
+            "example": "El informe analiza el acceso a la educación superior.",
+            "tier": "B1"
+          },
+          {
+            "front": "acorde con",
+            "pos": "phrase",
+            "back": "in keeping with, matching",
+            "example": "Busca un sueldo acorde con su experiencia.",
+            "tier": "B2"
+          },
+          {
+            "front": "la formación",
+            "pos": "noun",
+            "back": "training, education received",
+            "example": "Tiene una sólida formación en estadística.",
+            "tier": "B1"
+          },
+          {
+            "front": "llamativo",
+            "pos": "adj",
+            "back": "striking, eye-catching",
+            "example": "El dato más llamativo es la caída del consumo.",
+            "tier": "B2"
+          },
+          {
+            "front": "la apuesta",
+            "pos": "noun",
+            "back": "bet, gamble, strategic choice",
+            "example": "La apuesta por el tren ha dado buenos resultados.",
+            "tier": "B2"
+          },
+          {
+            "front": "arriesgado",
+            "pos": "adj",
+            "back": "risky",
+            "example": "Fue una decisión arriesgada pero acertada.",
+            "tier": "B1"
+          },
+          {
+            "front": "la competencia",
+            "pos": "noun",
+            "back": "skill, competence",
+            "example": "El curso desarrolla competencias digitales.",
+            "tier": "B2"
+          },
+          {
+            "front": "el mercado laboral",
+            "pos": "noun",
+            "back": "labour market",
+            "example": "El mercado laboral se ha vuelto más exigente.",
+            "tier": "B1"
+          },
+          {
+            "front": "envejecer",
+            "pos": "verb",
+            "back": "to age, to become dated",
+            "example": "Ese manual ha envejecido muy mal.",
+            "tier": "B2"
+          },
+          {
+            "front": "el curso",
+            "pos": "noun",
+            "back": "academic year, course",
+            "example": "El curso empieza en septiembre.",
+            "tier": "B1"
+          },
+          {
+            "front": "seguir algo de cerca",
+            "pos": "phrase",
+            "back": "to follow something closely",
+            "example": "Los inversores siguen de cerca la negociación.",
+            "tier": "B2"
+          },
+          {
+            "front": "aun así",
+            "pos": "adv",
+            "back": "even so, nevertheless",
+            "example": "Llovía mucho; aun así, salimos a correr.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Lo llamativo no es solo la escala, sino la velocidad: lo que en otros sistemas exigiría una década de consultas aquí se decide en un par de cursos.",
+            "point": "neuter lo plus adjective, and no solo ... sino",
+            "explanation": "Lo plus a masculine singular adjective creates an abstract noun: lo llamativo means the striking thing. The pair no solo ... sino adds a second element presented as the more important one.",
+            "why_tricky": "English needs a noun such as thing or aspect, so learners write la cosa llamativa; and they often add pero after no solo instead of sino."
+          },
+          {
+            "sentence": "La apuesta es arriesgada, porque nadie sabe qué competencias valorará el mercado laboral dentro de diez años y un plan de estudios diseñado alrededor de la tecnología actual puede envejecer rápido.",
+            "point": "indirect question with qué plus noun, and dentro de for future time",
+            "explanation": "Qué competencias valorará el mercado laboral is an embedded question working as the object of sabe, with no auxiliary verb and no question marks. Dentro de diez años means ten years from now, looking forward.",
+            "why_tricky": "Learners frequently confuse dentro de with después de, and they add an unnecessary que before the embedded question."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "seguir algo de cerca",
+            "meaning": "to monitor something closely",
+            "example": "El banco central sigue de cerca la evolución de los precios."
+          },
+          {
+            "phrase": "apostar por algo",
+            "meaning": "to back something, to commit to a strategy",
+            "example": "El país ha apostado por las energías renovables."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué cifras concretas da el texto sobre los programas eliminados y creados en las universidades chinas?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué dice el texto que la velocidad de la reforma es tan llamativa como su escala?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué riesgo señala el artículo al diseñar un plan de estudios alrededor de la tecnología actual?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Debería la universidad adaptarse rápidamente a lo que pide el mercado laboral, o proteger materias que hoy parecen poco útiles? Escribe unas 120 palabras con tu opinión y un ejemplo concreto."
+      }
+    },
     {
       "pack_id": "feed-2026-08-12-avion-c919-china",
       "title": "Con el avión C919, China busca imponerse frente a Airbus y Boeing",
@@ -6267,513 +6775,6 @@
           }
         ],
         "opinion_prompt": "¿Deberían prohibirse los vuelos turísticos en avionetas pequeñas cuando el historial de seguridad de una empresa no es bueno? Escribe entre 120 y 150 palabras justificando tu postura."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-06-red-foxtrot-europa",
-      "title": "Qué es la Red Foxtrot, el enigmático grupo criminal escandinavo acusado de atacar objetivos israelíes y judíos en nombre de Irán",
-      "source": "BBC Mundo",
-      "date": "2026-08-06",
-      "level": "B1-B2",
-      "topics": [
-        "crimen organizado",
-        "Europa"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-06-red-foxtrot-europa",
-        "revision": 1,
-        "meta": {
-          "title": "Qué es la Red Foxtrot, el enigmático grupo criminal escandinavo acusado de atacar objetivos israelíes y judíos en nombre de Irán",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c9w0ydjdzgjo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-04",
-          "date_processed": "2026-08-06",
-          "tags": [
-            "crimen organizado",
-            "Europa"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The so called Foxtrot Network is a criminal group of Scandinavian origin that several governments accuse of attacking Israeli and Jewish targets in Europe on Iran's behalf. The United Kingdom and the United States have imposed sanctions on the organisation, which according to the authorities turns to young people, some of them teenagers, to carry out attacks and killings in exchange for money. Investigators argue that this model allows those giving the orders to stay far from the place where the attack happens.\n\nThe case shows how organised crime and geopolitical conflict have become steadily more entangled in recent years. For European governments it is hard to pursue gangs that lean on minors and that operate out of several countries at once. The sanctions are meant to cut off access to money and to isolate those responsible, although experts warn that such measures are rarely enough on their own. Police cooperation between countries is likely to be stepped up in the coming months.",
-        "resumen_es": "La llamada Red Foxtrot es un grupo criminal de origen escandinavo al que varios gobiernos acusan de atacar objetivos israelíes y judíos en Europa en nombre de Irán. Reino Unido y Estados Unidos han impuesto sanciones contra la organización, que según las autoridades recurre a jóvenes, algunos de ellos adolescentes, para cometer atentados y asesinatos a cambio de dinero. Los investigadores sostienen que este modelo permite que quienes dan las órdenes permanezcan lejos del lugar del ataque.\n\nEl caso muestra cómo el crimen organizado y los conflictos geopolíticos se han ido entrelazando en los últimos años. Para los gobiernos europeos resulta difícil perseguir a bandas que se apoyan en menores de edad y que operan desde varios países a la vez. Las sanciones buscan cortar el acceso al dinero y aislar a los responsables, aunque los expertos advierten de que estas medidas rara vez bastan por sí solas.",
-        "vocab": [
-          {
-            "front": "la red",
-            "pos": "noun",
-            "back": "network (here: criminal network)",
-            "example": "La policía desarticuló una red de tráfico de armas.",
-            "tier": "B1"
-          },
-          {
-            "front": "el atentado",
-            "pos": "noun",
-            "back": "attack, attempted attack",
-            "example": "Nadie reivindicó el atentado contra la embajada.",
-            "tier": "B2"
-          },
-          {
-            "front": "recurrir a",
-            "pos": "verb",
-            "back": "to turn to, to resort to",
-            "example": "La banda recurre a jóvenes sin antecedentes.",
-            "tier": "B2"
-          },
-          {
-            "front": "a cambio de",
-            "pos": "phrase",
-            "back": "in exchange for",
-            "example": "Aceptaron el encargo a cambio de unos pocos miles de euros.",
-            "tier": "B1"
-          },
-          {
-            "front": "imponer sanciones",
-            "pos": "phrase",
-            "back": "to impose sanctions",
-            "example": "Bruselas impuso sanciones a varios altos cargos.",
-            "tier": "B2"
-          },
-          {
-            "front": "el menor de edad",
-            "pos": "phrase",
-            "back": "minor, person under eighteen",
-            "example": "Dos de los detenidos son menores de edad.",
-            "tier": "B1"
-          },
-          {
-            "front": "entrelazarse",
-            "pos": "verb",
-            "back": "to become intertwined",
-            "example": "La política y los negocios se entrelazan en el caso.",
-            "tier": "C1"
-          },
-          {
-            "front": "perseguir",
-            "pos": "verb",
-            "back": "to pursue, to prosecute",
-            "example": "Es difícil perseguir delitos cometidos en varios países.",
-            "tier": "B1"
-          },
-          {
-            "front": "apoyarse en",
-            "pos": "verb",
-            "back": "to rely on, to lean on",
-            "example": "La organización se apoya en intermediarios locales.",
-            "tier": "B2"
-          },
-          {
-            "front": "aislar",
-            "pos": "verb",
-            "back": "to isolate",
-            "example": "Las medidas buscan aislar a los responsables.",
-            "tier": "B2"
-          },
-          {
-            "front": "bastar",
-            "pos": "verb",
-            "back": "to be enough, to suffice",
-            "example": "No basta con una multa para frenar el problema.",
-            "tier": "B2"
-          },
-          {
-            "front": "por sí solo",
-            "pos": "phrase",
-            "back": "on its own, by itself",
-            "example": "Ninguna ley resuelve por sí sola un problema así.",
-            "tier": "B2"
-          },
-          {
-            "front": "rara vez",
-            "pos": "adv",
-            "back": "rarely, seldom",
-            "example": "Rara vez se conocen los nombres de los organizadores.",
-            "tier": "B1"
-          },
-          {
-            "front": "dar órdenes",
-            "pos": "phrase",
-            "back": "to give orders",
-            "example": "Quien daba las órdenes vivía en otro continente.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Reino Unido y Estados Unidos han impuesto sanciones contra la organización",
-            "point": "Pretérito perfecto for results that still stand",
-            "explanation": "Han impuesto presents the sanctions as a completed action whose effect continues into the present moment being described.",
-            "why_tricky": "Latin American Spanish often prefers the simple preterite impusieron here, so learners meet both forms in news texts and have to read the time frame rather than the verb alone."
-          },
-          {
-            "sentence": "Los investigadores sostienen que este modelo permite que quienes dan las órdenes permanezcan lejos del lugar del ataque.",
-            "point": "Subjunctive after permitir que with a change of subject",
-            "explanation": "Verbs of allowing and preventing take que plus the subjunctive when a new subject appears, so permitir governs permanezcan.",
-            "why_tricky": "Sostienen que takes the indicative dan in the same sentence, so two que clauses sit side by side with different moods."
-          },
-          {
-            "sentence": "Para los gobiernos europeos resulta difícil perseguir a bandas que se apoyan en menores de edad",
-            "point": "Personal a before human direct objects",
-            "explanation": "Perseguir a bandas keeps the personal a because the object is made up of people, even though the noun itself is a collective.",
-            "why_tricky": "With collective nouns like bandas, grupos or equipos the a can feel optional, but Spanish keeps it when human beings are meant."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "tirar de la manta",
-            "meaning": "to blow the whistle, to expose what was hidden",
-            "example": "Un detenido tiró de la manta y nombró a los organizadores."
-          },
-          {
-            "phrase": "mover los hilos",
-            "meaning": "to pull the strings",
-            "example": "Nadie sabe con certeza quién mueve los hilos de la red."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿De qué acusan varios gobiernos a la Red Foxtrot?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué resulta difícil para los países europeos perseguir a este tipo de organizaciones?",
-            "type": "open"
-          },
-          {
-            "q": "Según el texto, ¿qué buscan las sanciones y qué limitaciones tienen?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Qué debería hacer un país cuando una organización criminal recluta a adolescentes: castigarlos como adultos o tratarlos ante todo como víctimas? Escribe entre 120 y 150 palabras."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-06-papa-viaje-sudamerica",
-      "title": "El Vaticano anuncia que el papa viajará en noviembre a Uruguay, Argentina y Perú",
-      "source": "RFI Español",
-      "date": "2026-08-06",
-      "level": "B1-B2",
-      "topics": [
-        "Vaticano",
-        "América Latina"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-06-papa-viaje-sudamerica",
-        "revision": 1,
-        "meta": {
-          "title": "El Vaticano anuncia que el papa viajará en noviembre a Uruguay, Argentina y Perú",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260805-el-vaticano-anuncia-que-el-papa-viajar%C3%A1-en-noviembre-a-uruguay-argentina-y-per%C3%BA",
-          "date_published": "2026-08-05",
-          "date_processed": "2026-08-06",
-          "tags": [
-            "Vaticano",
-            "América Latina"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The Vatican has announced that Pope Leo XIV will travel to Uruguay, Argentina and Peru from 6 to 17 November. It is an early return to the continent where the pontiff spent decades as a missionary before being elected bishop of Rome. The Holy See has not yet set out the full programme, but papal trips usually include huge open air masses, meetings with young people and visits to working class neighbourhoods.\n\nFor the three countries the visit is a social and political event of real weight. Local authorities will have to organise security arrangements and coordinate the ceremonies with the dioceses, while Catholic communities begin preparing the welcome. A trip like this also lets the Pope put the spotlight on the issues that concern him, such as poverty, migration or care for the environment. The details of the route will gradually become known over the coming weeks.",
-        "resumen_es": "El Vaticano ha anunciado que el papa León XIV viajará a Uruguay, Argentina y Perú del 6 al 17 de noviembre. Se trata de un regreso anticipado al continente donde el pontífice pasó décadas como misionero antes de ser elegido obispo de Roma. La Santa Sede no ha detallado todavía el programa completo, pero los viajes papales suelen incluir misas multitudinarias, encuentros con jóvenes y visitas a barrios populares.\n\nPara los tres países, la visita supone un acontecimiento de gran calado social y político. Las autoridades locales tendrán que organizar dispositivos de seguridad y coordinar los actos con las diócesis, mientras las comunidades católicas empiezan a preparar la acogida. Un viaje así también permite al papa poner el foco en asuntos que le preocupan, como la pobreza, la migración o el cuidado del medio ambiente. Los detalles del recorrido se irán conociendo en las próximas semanas.",
-        "vocab": [
-          {
-            "front": "el pontífice",
-            "pos": "noun",
-            "back": "pontiff, the Pope",
-            "example": "El pontífice saludó a los fieles desde el balcón.",
-            "tier": "B2"
-          },
-          {
-            "front": "la Santa Sede",
-            "pos": "noun",
-            "back": "the Holy See",
-            "example": "La Santa Sede confirmó las fechas del viaje.",
-            "tier": "B2"
-          },
-          {
-            "front": "el misionero",
-            "pos": "noun",
-            "back": "missionary",
-            "example": "Trabajó como misionero durante veinte años.",
-            "tier": "B1"
-          },
-          {
-            "front": "multitudinario",
-            "pos": "adj",
-            "back": "attended by huge crowds",
-            "example": "La misa multitudinaria reunió a miles de personas.",
-            "tier": "B2"
-          },
-          {
-            "front": "el barrio popular",
-            "pos": "phrase",
-            "back": "working class neighbourhood",
-            "example": "Visitó un barrio popular a las afueras de la capital.",
-            "tier": "B1"
-          },
-          {
-            "front": "suponer",
-            "pos": "verb",
-            "back": "to mean, to represent",
-            "example": "La visita supone un reto para la ciudad.",
-            "tier": "B2"
-          },
-          {
-            "front": "de gran calado",
-            "pos": "phrase",
-            "back": "far reaching, of great significance",
-            "example": "Es una reforma de gran calado social.",
-            "tier": "C1"
-          },
-          {
-            "front": "el dispositivo de seguridad",
-            "pos": "phrase",
-            "back": "security operation, security arrangements",
-            "example": "Desplegaron un enorme dispositivo de seguridad.",
-            "tier": "B2"
-          },
-          {
-            "front": "la acogida",
-            "pos": "noun",
-            "back": "welcome, reception",
-            "example": "La acogida de los peregrinos exige mucha organización.",
-            "tier": "B2"
-          },
-          {
-            "front": "poner el foco en",
-            "pos": "phrase",
-            "back": "to put the spotlight on",
-            "example": "El discurso puso el foco en la desigualdad.",
-            "tier": "B2"
-          },
-          {
-            "front": "el recorrido",
-            "pos": "noun",
-            "back": "route, itinerary",
-            "example": "Aún no se conoce el recorrido exacto de la gira.",
-            "tier": "B1"
-          },
-          {
-            "front": "anticipado",
-            "pos": "adj",
-            "back": "early, brought forward",
-            "example": "El anuncio anticipado sorprendió a los periodistas.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "El Vaticano ha anunciado que el papa León XIV viajará a Uruguay, Argentina y Perú del 6 al 17 de noviembre.",
-            "point": "Future tense inside reported speech",
-            "explanation": "Because the reporting verb ha anunciado is in the present perfect, the announced event stays in the simple future viajará rather than shifting back in time.",
-            "why_tricky": "If the reporting verb were anunció, Spanish would normally use the conditional viajaría, so the choice depends on the tense of the main verb."
-          },
-          {
-            "sentence": "Las autoridades locales tendrán que organizar dispositivos de seguridad",
-            "point": "Irregular future plus tener que + infinitive",
-            "explanation": "Tener has the irregular future stem tendr, and tener que plus an infinitive expresses obligation.",
-            "why_tricky": "Learners regularise the stem to teneran, and they confuse tener que (a specific obligation) with hay que (a general one)."
-          },
-          {
-            "sentence": "Los detalles del recorrido se irán conociendo en las próximas semanas.",
-            "point": "Ir + gerund with a passive se",
-            "explanation": "Ir plus a gerund describes something happening gradually, and the se marks an agentless passive: the details will come to be known bit by bit.",
-            "why_tricky": "Two structures stack in one verb phrase, and English has no single tense that carries the gradual sense, so the nuance is easy to flatten."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "echar el resto",
-            "meaning": "to give it everything you have got",
-            "example": "Las diócesis van a echar el resto para organizar la visita."
-          },
-          {
-            "phrase": "en olor de multitudes",
-            "meaning": "greeted by adoring crowds",
-            "example": "El papa fue recibido en olor de multitudes en la capital."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Cuándo y a qué países viajará el papa, según el Vaticano?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué el texto habla de un regreso al continente en el caso de este pontífice?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué trabajo tendrán que hacer las autoridades locales antes de la visita?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que las visitas papales siguen teniendo un peso social y político real en América Latina, o son sobre todo un acto simbólico? Escribe entre 120 y 150 palabras."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-05-pix-brasil-pagos",
-      "title": "Cómo funciona Pix, el sistema brasileño de pagos que Trump ve como una amenaza (y por qué es diferente a otros)",
-      "source": "BBC Mundo",
-      "date": "2026-08-05",
-      "level": "B1-B2",
-      "topics": [
-        "economía",
-        "tecnología"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-05-pix-brasil-pagos",
-        "revision": 1,
-        "meta": {
-          "title": "Cómo funciona Pix, el sistema brasileño de pagos que Trump ve como una amenaza (y por qué es diferente a otros)",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c98vj2g5npjo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-05",
-          "date_processed": "2026-08-05",
-          "tags": [
-            "economía",
-            "tecnología"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Pix, the instant payment system created by Brazil's central bank, has become an everyday tool for millions of people. It lets users send and receive money in seconds, at any time and with no fees, both between individuals and in small shops. Since its launch its use has soared, and today it competes head to head with bank cards. Donald Trump's government, however, views it with suspicion and sees it as a threat to American companies in the sector.\n\nThe row raises a wider debate: who should control the infrastructure of digital payments. Supporters of the system stress that it has opened up financial access to people who used to be left outside the banking system. Critics, on the other hand, warn of the risk of a public service pushing private competition aside. For now, other countries are watching the Brazilian case closely.",
-        "resumen_es": "Pix, el sistema de pagos instantáneos creado por el banco central de Brasil, se ha convertido en una herramienta cotidiana para millones de personas. Permite enviar y recibir dinero en segundos, a cualquier hora y sin comisiones, tanto entre particulares como en comercios pequeños. Desde su lanzamiento, su uso se ha disparado y hoy compite de tú a tú con las tarjetas bancarias. El gobierno de Donald Trump, sin embargo, lo ve con recelo y lo considera una amenaza para las empresas estadounidenses del sector.\n\nLa polémica pone sobre la mesa un debate más amplio: quién debe controlar la infraestructura de los pagos digitales. Los defensores del sistema subrayan que ha facilitado el acceso financiero a quienes antes quedaban al margen de los bancos. Los críticos advierten del riesgo de que un servicio público desplace a la competencia privada. Otros países siguen el caso de cerca.",
-        "vocab": [
-          {
-            "front": "pagos instantáneos",
-            "pos": "noun",
-            "back": "instant payments",
-            "example": "Los pagos instantáneos han cambiado la forma de comprar.",
-            "tier": "B1"
-          },
-          {
-            "front": "banco central",
-            "pos": "noun",
-            "back": "central bank",
-            "example": "El banco central fijó una nueva tasa de interés.",
-            "tier": "B1"
-          },
-          {
-            "front": "comisión",
-            "pos": "noun",
-            "back": "fee, commission charged by a bank",
-            "example": "Este banco cobra una comisión por cada transferencia.",
-            "tier": "B1"
-          },
-          {
-            "front": "dispararse",
-            "pos": "verb",
-            "back": "to shoot up, to soar",
-            "example": "El precio del alquiler se ha disparado este año.",
-            "tier": "B2"
-          },
-          {
-            "front": "ver algo con recelo",
-            "pos": "phrase",
-            "back": "to view something with suspicion",
-            "example": "Los vecinos ven el proyecto con recelo.",
-            "tier": "B2"
-          },
-          {
-            "front": "amenaza",
-            "pos": "noun",
-            "back": "threat",
-            "example": "La sequía es una amenaza para los agricultores.",
-            "tier": "B1"
-          },
-          {
-            "front": "polémica",
-            "pos": "noun",
-            "back": "controversy, row",
-            "example": "Sus palabras desataron una polémica enorme.",
-            "tier": "B1"
-          },
-          {
-            "front": "poner sobre la mesa",
-            "pos": "phrase",
-            "back": "to raise, to put (an issue) on the table",
-            "example": "El informe puso sobre la mesa un problema antiguo.",
-            "tier": "B2"
-          },
-          {
-            "front": "subrayar",
-            "pos": "verb",
-            "back": "to stress, to underline (a point)",
-            "example": "La ministra subrayó la importancia del acuerdo.",
-            "tier": "B2"
-          },
-          {
-            "front": "quedar al margen de",
-            "pos": "phrase",
-            "back": "to be left out of, on the sidelines of",
-            "example": "Muchos jóvenes quedan al margen del mercado laboral.",
-            "tier": "B2"
-          },
-          {
-            "front": "desplazar",
-            "pos": "verb",
-            "back": "to push aside, to displace",
-            "example": "El coche eléctrico empieza a desplazar al de gasolina.",
-            "tier": "B2"
-          },
-          {
-            "front": "competencia",
-            "pos": "noun",
-            "back": "competition (in business)",
-            "example": "La competencia entre aerolíneas bajó los precios.",
-            "tier": "B1"
-          },
-          {
-            "front": "de tú a tú",
-            "pos": "phrase",
-            "back": "on equal terms, head to head",
-            "example": "El equipo pequeño jugó de tú a tú con el campeón.",
-            "tier": "C1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Desde su lanzamiento, su uso se ha disparado y hoy compite de tú a tú con las tarjetas bancarias.",
-            "point": "Pretérito perfecto con 'desde' para un proceso que llega al presente",
-            "explanation": "'Desde su lanzamiento' abre un periodo que sigue abierto, así que el español usa 'se ha disparado' y no 'se disparó'. Después se cambia al presente ('compite') para describir la situación actual.",
-            "why_tricky": "En inglés se diría 'its use has soared' pero muchos hispanohablantes de América usarían el indefinido; en registro periodístico peninsular el perfecto es la opción natural."
-          },
-          {
-            "sentence": "Los críticos advierten del riesgo de que un servicio público desplace a la competencia privada.",
-            "point": "Subjuntivo tras 'el riesgo de que'",
-            "explanation": "Los sustantivos que expresan posibilidad o temor ('el riesgo de que', 'el miedo a que') exigen subjuntivo en la subordinada: 'desplace', no 'desplaza'.",
-            "why_tricky": "El verbo principal 'advierten' está en indicativo, así que es fácil olvidar que el cambio de modo lo provoca el sustantivo 'riesgo', no el verbo."
-          },
-          {
-            "sentence": "La polémica pone sobre la mesa un debate más amplio: quién debe controlar la infraestructura de los pagos digitales.",
-            "point": "Interrogativa indirecta con tilde en 'quién'",
-            "explanation": "Aunque no hay signos de interrogación, 'quién' mantiene la tilde porque introduce una pregunta indirecta incrustada en la frase.",
-            "why_tricky": "Se confunde con el relativo 'quien' sin tilde ('la persona quien...'), que funciona de otra manera."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "de tú a tú",
-            "meaning": "en igualdad de condiciones, sin complejos ante alguien más grande",
-            "example": "Esa marca pequeña ya compite de tú a tú con las multinacionales."
-          },
-          {
-            "phrase": "poner sobre la mesa",
-            "meaning": "sacar un tema a la discusión pública",
-            "example": "La huelga puso sobre la mesa los sueldos del sector."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué ventajas ofrece Pix frente a las tarjetas bancarias tradicionales?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué el gobierno estadounidense considera que Pix puede ser una amenaza?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué argumentos dan los defensores y los críticos del sistema?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Debería el Estado ofrecer un sistema de pagos gratuito que compita con los bancos privados? Escribe unas 120 palabras defendiendo tu postura con dos argumentos."
       }
     }
   ]
