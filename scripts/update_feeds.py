@@ -14,7 +14,7 @@ FEEDS = {
 stamp = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 for name, (path, packs) in FEEDS.items():
-    shutil.copyfile(path, path + ".bak_run20260814_22")
+    shutil.copyfile(path, path + ".bak_" + stamp.replace(":", "").replace("-", ""))
     d = json.load(open(path, encoding="utf-8"))
     old = d.get("packs", [])
     new_entries = []
