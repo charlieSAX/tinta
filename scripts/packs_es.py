@@ -1,185 +1,184 @@
 # -*- coding: utf-8 -*-
-"""Tinta (Spanish, B1-B2) study packs, run 2026-08-16 10:00. Post cold-read revision."""
-
 ES = [
 {
-  "pack_id": "feed-2026-08-16-granja-pulpos-espana",
+  "pack_id": "feed-2026-08-17-evolucion-extrema-animales",
   "revision": 1,
   "meta": {
-    "title": "La ola de protestas que logró frenar la primera granja comercial de pulpos del mundo en España",
+    "title": "Evolución extrema: los animales que se transforman a gran velocidad para sobrevivir",
     "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/c86nv9l6dlwo?at_medium=RSS&at_campaign=rss",
-    "date_published": "2026-08-15",
-    "date_processed": "2026-08-16",
-    "tags": ["animales", "medioambiente"],
+    "url": "https://www.bbc.com/mundo/articles/c8jnwdkxwr2o?at_medium=RSS&at_campaign=rss",
+    "date_published": "2026-08-11",
+    "date_processed": "2026-08-17",
+    "tags": ["ciencia", "naturaleza"],
     "level": "B1-B2"
   },
-  "summary_en": "Plans for the world's first commercial octopus farm, due to be built in Spain, have been dropped after a wave of protests. Environmental groups, scientists and ordinary citizens mobilised against the project, which aimed to raise octopuses in captivity on an industrial scale. Public pressure ended up prevailing and the project never got off the drawing board.\n\nIt is not an isolated case. Several countries and some US states are banning octopus farming even before it takes hold. The debate revolves around the intelligence of these animals: they are seen as curious creatures, able to solve problems, and there is an open argument about whether they feel pain, which makes it hard to justify keeping them confined. Those who defend aquaculture argue that it allows growing demand to be met without emptying the oceans. For now, the animal welfare arguments have carried more weight.",
-  "resumen_es": "Los planes para abrir la primera granja comercial de pulpos del mundo, prevista en España, se han abandonado tras una ola de protestas. Organizaciones ecologistas, científicos y ciudadanos corrientes se movilizaron contra el proyecto, que pretendía criar pulpos en cautividad a escala industrial. La presión pública terminó por imponerse y el proyecto se quedó en el papel.\n\nNo es un caso aislado. Varios países y algunos estados de Estados Unidos están prohibiendo la cría de pulpos antes incluso de que llegue a implantarse. El debate gira en torno a la inteligencia de estos animales: se les considera criaturas curiosas, capaces de resolver problemas, y hay una discusión abierta sobre si sienten dolor, lo que hace difícil justificar su confinamiento. Quienes defienden la acuicultura sostienen que permite responder a una demanda creciente sin vaciar los océanos. Por ahora, han pesado más los argumentos sobre el bienestar animal.",
+  "summary_en": "The pressure we human beings put on the planet is speeding up the evolution of many animals. Cities, roads and pollution create new environments that species have to adapt to far faster than usual. Changes that used to be measured in thousands of years can now be seen within a few generations. Any species that fails to adjust to that pace tends to disappear from the urban landscape.\n\nThis phenomenon raises uncomfortable questions. On the one hand, it shows that nature retains a surprising capacity to respond; on the other, it reminds us that we are the ones setting the pace. Rapid adaptation is not the same as a solution, since many species do not have the time they need. Understanding how and why these animals change may help us design cities that are more liveable for everyone.",
+  "resumen_es": "La presión que los seres humanos ejercemos sobre el planeta está acelerando la evolución de muchos animales. Las ciudades, las carreteras y la contaminación crean entornos nuevos a los que las especies deben adaptarse mucho más deprisa de lo habitual. Cambios que antes se medían en miles de años pueden apreciarse ahora en unas pocas generaciones. La especie que no logra ajustarse a ese ritmo suele desaparecer del paisaje urbano.\n\nEste fenómeno plantea preguntas incómodas. Por un lado, demuestra que la naturaleza conserva una capacidad de respuesta sorprendente; por otro, nos recuerda que somos nosotros quienes marcamos el paso. Una adaptación rápida no equivale a una solución, ya que muchas especies no disponen del tiempo necesario. Entender cómo y por qué cambian estos animales puede ayudar a diseñar ciudades más habitables para todos.",
   "vocab": [
-    {"front": "la granja", "pos": "noun", "back": "farm (for animals)", "example": "La granja de pulpos nunca llegó a construirse.", "tier": "B1"},
-    {"front": "frenar", "pos": "verb", "back": "to halt, to put the brakes on", "example": "Las protestas lograron frenar el proyecto.", "tier": "B1"},
-    {"front": "pretender", "pos": "verb", "back": "to aim to, to intend to (NOT to pretend)", "example": "El proyecto pretendía criar pulpos a escala industrial.", "tier": "B2"},
-    {"front": "ecologista", "pos": "adj", "back": "environmentalist, green (NOT ecologist, which is ecólogo)", "example": "Varias organizaciones ecologistas firmaron la protesta.", "tier": "B2"},
-    {"front": "movilizarse", "pos": "verb", "back": "to mobilise, to take collective action", "example": "Miles de vecinos se movilizaron contra la obra.", "tier": "B2"},
-    {"front": "criar", "pos": "verb", "back": "to raise, to breed (animals)", "example": "En esa zona crían cerdos desde hace décadas.", "tier": "B1"},
-    {"front": "la cautividad", "pos": "noun", "back": "captivity", "example": "Muchos animales no se reproducen en cautividad.", "tier": "B2"},
-    {"front": "a escala industrial", "pos": "phrase", "back": "on an industrial scale", "example": "Querían producir a escala industrial.", "tier": "B2"},
-    {"front": "dar marcha atrás", "pos": "phrase", "back": "to back down, to reverse a decision", "example": "La empresa dio marcha atrás en el último momento.", "tier": "B2"},
-    {"front": "la cría", "pos": "noun", "back": "breeding, rearing", "example": "Varios estados prohíben la cría de estos animales.", "tier": "B2"},
-    {"front": "girar en torno a", "pos": "phrase", "back": "to revolve around, to centre on", "example": "El debate gira en torno al bienestar animal.", "tier": "B2"},
-    {"front": "el confinamiento", "pos": "noun", "back": "confinement; lockdown", "example": "El confinamiento afecta a la conducta de los pulpos.", "tier": "B1"},
-    {"front": "el bienestar animal", "pos": "phrase", "back": "animal welfare", "example": "El bienestar animal pesa cada vez más en estas decisiones.", "tier": "B2"}
+    {"front": "ejercer presión sobre", "pos": "phrase", "back": "to put pressure on", "example": "El turismo masivo ejerce mucha presión sobre la costa.", "tier": "B2"},
+    {"front": "acelerar", "pos": "verb", "back": "to speed up, to accelerate", "example": "El deshielo se ha acelerado en los últimos años.", "tier": "B1"},
+    {"front": "el entorno", "pos": "noun", "back": "environment, surroundings", "example": "Cada especie se adapta a su entorno.", "tier": "B1"},
+    {"front": "adaptarse a", "pos": "verb", "back": "to adapt to", "example": "Le costó adaptarse a la vida en la ciudad.", "tier": "B1"},
+    {"front": "deprisa", "pos": "adv", "back": "quickly, fast", "example": "Come demasiado deprisa.", "tier": "B1"},
+    {"front": "más/menos ... de lo habitual", "pos": "phrase", "back": "more/less ... than usual (only after a comparative)", "example": "Este verano llueve menos de lo habitual.", "tier": "B2"},
+    {"front": "apreciarse", "pos": "verb", "back": "to be noticeable, to be seen", "example": "El cambio apenas se aprecia a simple vista.", "tier": "B2"},
+    {"front": "ajustarse a", "pos": "verb", "back": "to adjust to, to fit", "example": "Tuvimos que ajustarnos a un presupuesto menor.", "tier": "B2"},
+    {"front": "el paisaje", "pos": "noun", "back": "landscape, scenery", "example": "El paisaje ha cambiado mucho desde entonces.", "tier": "B1"},
+    {"front": "plantear", "pos": "verb", "back": "to raise (a question), to pose", "example": "El informe plantea varias dudas.", "tier": "B2"},
+    {"front": "equivaler a", "pos": "verb", "back": "to be equivalent to, to amount to", "example": "Callarse equivale a darle la razón.", "tier": "B2"},
+    {"front": "disponer de", "pos": "verb", "back": "to have available, to have at one's disposal", "example": "Solo disponemos de dos horas.", "tier": "B2"},
+    {"front": "habitable", "pos": "adj", "back": "liveable, habitable", "example": "Quieren hacer el centro más habitable.", "tier": "B2"}
   ],
   "grammar": [
     {
-      "sentence": "La presión pública terminó por imponerse y el proyecto se quedó en el papel.",
-      "point": "terminar por + infinitivo",
-      "explanation": "Terminar por más infinitivo expresa el resultado final de un proceso: algo acaba ocurriendo después de un tiempo o de cierta resistencia. Aquí la presión no se impuso desde el principio, sino al final.",
-      "why_tricky": "Lo difícil es distinguir tres construcciones parecidas: terminar por imponerse, el resultado final; terminar de imponerse, acabar de hacerlo; y terminar imponiéndose, con gerundio y un sentido casi idéntico al primero."
+      "sentence": "Las ciudades, las carreteras y la contaminación crean entornos nuevos a los que las especies deben adaptarse mucho más deprisa de lo habitual.",
+      "point": "Relative clause with a preposition: a los que",
+      "explanation": "The verb is adaptarse a algo, so the preposition a has to travel with the relative pronoun and sit in front of it: entornos a los que deben adaptarse. The article los agrees with entornos.",
+      "why_tricky": "English lets you strand the preposition at the end (environments they have to adapt to). Spanish does not, so learners often write entornos que deben adaptarse, which loses the a."
     },
     {
-      "sentence": "Varios países y algunos estados de Estados Unidos están prohibiendo la cría de pulpos antes incluso de que llegue a implantarse.",
-      "point": "antes de que + subjuntivo",
-      "explanation": "Antes de que exige siempre subjuntivo, aquí llegue y no llega. No admite indicativo en ningún registro, por muy seguro que sea el hecho.",
-      "why_tricky": "No sirve el razonamiento habitual de que el subjuntivo marca lo dudoso: se dice llegué antes de que empezara la película aunque la película empezara sin duda. Con sujeto igual o impersonal se prefiere el infinitivo, antes de implantarse."
+      "sentence": "La especie que no logra ajustarse a ese ritmo suele desaparecer del paisaje urbano.",
+      "point": "soler + infinitivo",
+      "explanation": "Soler + infinitive expresses habitual or typical behaviour, so suele desaparecer means it usually disappears. Soler is stem-changing in the present (suelo, sueles, suele, solemos, soléis, suelen).",
+      "why_tricky": "Soler has no single English verb, so learners reach for normalmente or usualmente instead. It also exists only in the present and the imperfect, so there is no future or preterite form."
     },
     {
-      "sentence": "El debate gira en torno a la inteligencia de estos animales: se les considera criaturas curiosas, capaces de resolver problemas, y hay una discusión abierta sobre si sienten dolor, lo que hace difícil justificar su confinamiento.",
-      "point": "lo que como relativo de frase",
-      "explanation": "Lo que no se refiere a un sustantivo concreto sino a toda la idea anterior, es decir, al conjunto de lo que se dice sobre los pulpos. Equivale al which de las oraciones explicativas inglesas.",
-      "why_tricky": "Es fácil escribir que solo, o el que, cuando lo que resume una oración entera. Compara: los estudios que describen a los pulpos, referido a estudios, con lo que hace difícil, referido a todo lo dicho antes."
+      "sentence": "Una adaptación rápida no equivale a una solución, ya que muchas especies no disponen del tiempo necesario.",
+      "point": "The connector ya que",
+      "explanation": "Ya que introduces a cause the reader is expected to accept already, close to since or given that. Note also equivaler a: the verb needs the preposition a before what it is being compared with.",
+      "why_tricky": "Unlike porque, ya que can open the sentence (Ya que muchas especies no disponen del tiempo necesario, ...), which porque normally cannot. Porque presents new information; ya que presents shared information."
     }
   ],
   "idioms": [
-    {"phrase": "quedarse en el papel", "meaning": "to remain on paper, never to be carried out", "example": "El plan de reforma se quedó en el papel."},
-    {"phrase": "hacer oídos sordos", "meaning": "to turn a deaf ear, to deliberately ignore complaints", "example": "La empresa hizo oídos sordos a las quejas durante meses."}
+    {"phrase": "a marchas forzadas", "meaning": "at a forced, breakneck pace", "example": "Terminaron el proyecto a marchas forzadas."},
+    {"phrase": "ir de la mano", "meaning": "to go hand in hand, to be closely linked", "example": "El crecimiento urbano y la contaminación suelen ir de la mano."}
   ],
   "comprehension": [
-    {"q": "¿Por qué se abandonaron finalmente los planes de la granja de pulpos?", "type": "open"},
-    {"q": "¿Por qué resulta difícil justificar el confinamiento de los pulpos?", "type": "open"},
-    {"q": "¿Qué ventaja ven en la acuicultura quienes la defienden?", "type": "open"}
+    {"q": "¿Por qué se está acelerando la evolución de algunos animales, según el texto?", "type": "open"},
+    {"q": "Según el texto, ¿en cuánto tiempo se apreciaban antes estos cambios y en cuánto tiempo se aprecian ahora?", "type": "open"},
+    {"q": "¿Por qué una adaptación rápida no equivale a una solución?", "type": "open"}
   ],
-  "opinion_prompt": "¿Crees que la inteligencia de un animal debería determinar cómo lo tratamos? Escribe unas 120 palabras defendiendo tu postura con ejemplos concretos."
+  "opinion_prompt": "¿Crees que las ciudades deberían diseñarse pensando también en los animales? Escribe unas 120 palabras explicando tu postura con ejemplos concretos."
 },
 {
-  "pack_id": "feed-2026-08-16-gps-mundo-moderno",
+  "pack_id": "feed-2026-08-17-tupac-shakur-treinta-anos",
   "revision": 1,
   "meta": {
-    "title": "Cómo el GPS ha dado forma al mundo moderno",
+    "title": "Quién era el rapero Tupac Shakur, cómo fue asesinado y por qué 30 años después el crimen sigue sin esclarecerse",
     "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/c5ywqw5v6yxo?at_medium=RSS&at_campaign=rss",
-    "date_published": "2026-08-15",
-    "date_processed": "2026-08-16",
-    "tags": ["tecnología", "historia"],
+    "url": "https://www.bbc.com/mundo/articles/c0rdxzg102zo?at_medium=RSS&at_campaign=rss",
+    "date_published": "2026-08-11",
+    "date_processed": "2026-08-17",
+    "tags": ["música", "cultura"],
     "level": "B1-B2"
   },
-  "summary_en": "GPS has become one of those technologies we only notice when they fail. It was born for military purposes, to guide troops, ships and missiles with an accuracy unknown until then, and today it is woven into the daily life of millions of people. We use it to reach an address, to order food to our door or to find out how far we ran on Sunday morning.\n\nIts influence, however, goes far beyond the phone. Power grids, financial markets and freight transport depend on the timing signals its satellites send, so a long interruption would have knock-on consequences. That is why the possibility of deliberate interference is a source of concern. In just a few decades, an invention designed for war has ended up quietly organising a good part of the peace.",
-  "resumen_es": "El GPS se ha convertido en una de esas tecnologías que solo notamos cuando fallan. Nació con fines militares, para guiar tropas, barcos y misiles con una precisión desconocida hasta entonces, y hoy está entretejido en la vida cotidiana de millones de personas. Lo usamos para llegar a una dirección, para pedir comida a domicilio o para saber cuánto hemos corrido el domingo por la mañana.\n\nSu influencia, sin embargo, va mucho más allá del móvil. Las redes eléctricas, los mercados financieros y el transporte de mercancías dependen de las señales horarias que envían sus satélites, de modo que una interrupción prolongada tendría consecuencias en cadena. Por eso preocupa la posibilidad de interferencias deliberadas. En apenas unas décadas, un invento pensado para la guerra ha acabado organizando en silencio buena parte de la paz.",
+  "summary_en": "Three decades have passed since the murder of Tupac Shakur and the case still has not been solved. The American rapper died young, and since then his standing has never stopped growing. His records are still played, and generations who had not even been born when he died recognise him instantly. The investigation, by contrast, has never produced a definitive answer.\n\nThat contrast partly explains his status as a myth. When an artist dies young and the crime goes unpunished, the gap fills up with theories, documentaries and rumours that feed the legend. For many followers, Tupac stands for something more than the music: a voice that put words to the anger and the hope of people who felt ignored. Thirty years on, the question of who killed him sits alongside another just as persistent: why he still matters so much.",
+  "resumen_es": "Han pasado tres décadas desde el asesinato de Tupac Shakur y el caso sigue sin esclarecerse. El rapero estadounidense murió joven, y desde entonces su figura no ha dejado de crecer. Sus discos se siguen escuchando y generaciones que ni siquiera habían nacido cuando murió lo reconocen al instante. La investigación, en cambio, nunca ha dado una respuesta definitiva.\n\nEse contraste explica en parte su condición de mito. Cuando un artista muere joven y el crimen queda impune, el vacío se llena de teorías, documentales y rumores que alimentan la leyenda. Para muchos seguidores, Tupac representa algo más que la música: una voz que puso palabras a la rabia y a la esperanza de quienes se sentían ignorados. Treinta años después, la pregunta de quién lo mató convive con otra igual de persistente: por qué sigue importando tanto.",
   "vocab": [
-    {"front": "dar forma a", "pos": "phrase", "back": "to shape, to give form to", "example": "Internet ha dado forma a la manera en que trabajamos.", "tier": "B2"},
-    {"front": "fallar", "pos": "verb", "back": "to fail, to stop working", "example": "Solo pensamos en el sistema cuando falla.", "tier": "B1"},
-    {"front": "con fines militares", "pos": "phrase", "back": "for military purposes", "example": "La red se creó con fines militares.", "tier": "B2"},
-    {"front": "guiar", "pos": "verb", "back": "to guide, to steer", "example": "Los satélites guían a los barcos de noche.", "tier": "B1"},
-    {"front": "entretejido", "pos": "adj", "back": "woven into, interwoven", "example": "El móvil está entretejido en nuestra rutina.", "tier": "C1"},
-    {"front": "la vida cotidiana", "pos": "phrase", "back": "everyday life", "example": "Ha cambiado nuestra vida cotidiana sin que lo notáramos.", "tier": "B1"},
-    {"front": "a domicilio", "pos": "phrase", "back": "delivered to your home", "example": "Pedimos comida a domicilio casi cada viernes.", "tier": "B1"},
-    {"front": "ir más allá de", "pos": "phrase", "back": "to go beyond", "example": "El problema va más allá de la tecnología.", "tier": "B2"},
-    {"front": "la red eléctrica", "pos": "phrase", "back": "power grid", "example": "La red eléctrica depende de relojes muy precisos.", "tier": "B2"},
-    {"front": "las mercancías", "pos": "noun", "back": "goods, freight", "example": "El transporte de mercancías se ha encarecido.", "tier": "B2"},
-    {"front": "en cadena", "pos": "phrase", "back": "knock-on, chain (of effects)", "example": "Un fallo pequeño provocó reacciones en cadena.", "tier": "B2"},
-    {"front": "la interferencia", "pos": "noun", "back": "interference (in a signal)", "example": "Detectaron interferencias en la señal.", "tier": "B2"},
-    {"front": "el invento", "pos": "noun", "back": "invention", "example": "Es un invento militar que hoy usamos todos.", "tier": "B1"}
+    {"front": "esclarecerse", "pos": "verb", "back": "to be cleared up, to be solved", "example": "El robo se esclareció gracias a una cámara.", "tier": "B2"},
+    {"front": "el asesinato", "pos": "noun", "back": "murder, killing", "example": "El asesinato ocurrió de madrugada.", "tier": "B1"},
+    {"front": "la figura", "pos": "noun", "back": "public standing, stature (of a person)", "example": "Su figura ha crecido mucho desde su muerte.", "tier": "B2"},
+    {"front": "ni siquiera", "pos": "phrase", "back": "not even", "example": "Ni siquiera me saludó.", "tier": "B1"},
+    {"front": "al instante", "pos": "phrase", "back": "instantly, straight away", "example": "Reconocí su voz al instante.", "tier": "B1"},
+    {"front": "en cambio", "pos": "phrase", "back": "on the other hand, by contrast", "example": "A mí me gustó; a ella, en cambio, le pareció aburrida.", "tier": "B1"},
+    {"front": "quedar impune", "pos": "phrase", "back": "to go unpunished", "example": "Nadie quiere que el delito quede impune.", "tier": "B2"},
+    {"front": "el vacío", "pos": "noun", "back": "gap, void, emptiness", "example": "Su marcha dejó un vacío en el equipo.", "tier": "B2"},
+    {"front": "alimentar", "pos": "verb", "back": "to feed, to fuel (a rumour, an idea)", "example": "El silencio oficial alimentó las sospechas.", "tier": "B2"},
+    {"front": "la leyenda", "pos": "noun", "back": "legend", "example": "Con los años se convirtió en una leyenda.", "tier": "B1"},
+    {"front": "el seguidor / la seguidora", "pos": "noun", "back": "follower, fan", "example": "El grupo tiene seguidores en todo el mundo.", "tier": "B1"},
+    {"front": "la rabia", "pos": "noun", "back": "anger, rage", "example": "Habló con una rabia contenida.", "tier": "B1"},
+    {"front": "convivir con", "pos": "verb", "back": "to coexist with, to live alongside", "example": "El barrio convive con el ruido del aeropuerto.", "tier": "B2"}
   ],
   "grammar": [
     {
-      "sentence": "El GPS se ha convertido en una de esas tecnologías que solo notamos cuando fallan.",
-      "point": "convertirse en y la concordancia en la relativa",
-      "explanation": "Convertirse lleva en cuando indica el resultado de una transformación. En la relativa, que es el objeto de notamos, mientras que fallan, dentro de la subordinada temporal, tiene como sujeto tecnologías, de ahí el plural.",
-      "why_tricky": "Existe también convertirse a, pero solo con religiones e ideologías: convertirse al islam. Y es fácil escribir falla en singular por atracción de el GPS, cuando el sujeto real de ese verbo es esas tecnologías."
+      "sentence": "Han pasado tres décadas desde el asesinato de Tupac Shakur y el caso sigue sin esclarecerse.",
+      "point": "seguir sin + infinitivo",
+      "explanation": "Seguir sin + infinitive says that something has still not happened and the situation continues: sigue sin esclarecerse means it still has not been cleared up. The pronominal esclarecerse gives it a passive sense with no named agent.",
+      "why_tricky": "Learners usually reach for todavía no se ha esclarecido, which is correct but flatter. Note that seguir here is not to follow but to continue."
     },
     {
-      "sentence": "Las redes eléctricas, los mercados financieros y el transporte de mercancías dependen de las señales horarias que envían sus satélites, de modo que una interrupción prolongada tendría consecuencias en cadena.",
-      "point": "de modo que consecutivo y condicional hipotético",
-      "explanation": "De modo que introduce aquí una consecuencia y va con indicativo. El condicional tendría no expresa cortesía sino una hipótesis: lo que ocurriría si se diera esa interrupción, que de momento no ha ocurrido.",
-      "why_tricky": "De modo que con subjuntivo cambia el sentido a finalidad, para que. Con indicativo es consecuencia. Y depender exige de: dependen de las señales, nunca dependen las señales."
+      "sentence": "El rapero estadounidense murió joven, y desde entonces su figura no ha dejado de crecer.",
+      "point": "no dejar de + infinitivo",
+      "explanation": "No dejar de + infinitive means to keep on doing something without interruption. In the perfect (no ha dejado de crecer) it covers a stretch of time running up to now.",
+      "why_tricky": "The literal reading has not stopped growing is a near miss: the Spanish states continuity positively rather than denying an ending. Do not confuse it with dejar de + infinitive on its own, which means to stop doing something."
     },
     {
-      "sentence": "En apenas unas décadas, un invento pensado para la guerra ha acabado organizando en silencio buena parte de la paz.",
-      "point": "acabar + gerundio",
-      "explanation": "Acabar más gerundio indica el punto final de una evolución, a menudo inesperado. La perífrasis subraya el contraste entre el origen militar y el resultado civil.",
-      "why_tricky": "No debe confundirse con acabar de más infinitivo, que significa algo muy distinto: acaba de organizar quiere decir que lo ha hecho hace un momento."
+      "sentence": "Cuando un artista muere joven y el crimen queda impune, el vacío se llena de teorías, documentales y rumores que alimentan la leyenda.",
+      "point": "cuando + presente de indicativo for general truths",
+      "explanation": "Here cuando introduces something that happens generally, whenever the conditions hold, so the indicative is used: cuando un artista muere. Compare cuando muera, with subjunctive, which would point to one specific future death.",
+      "why_tricky": "Learners are taught that cuando takes the subjunctive for the future and then over-apply it. Timeless generalisations stay firmly in the indicative."
     }
   ],
   "idioms": [
-    {"phrase": "de la noche a la mañana", "meaning": "overnight, very suddenly", "example": "La aplicación se volvió imprescindible de la noche a la mañana."},
-    {"phrase": "brillar por su ausencia", "meaning": "to be conspicuously absent", "example": "En la reunión sobre el fallo, los responsables brillaron por su ausencia."}
+    {"phrase": "correr ríos de tinta", "meaning": "for a huge amount to have been written about something", "example": "Sobre ese caso han corrido ríos de tinta."},
+    {"phrase": "de boca en boca", "meaning": "by word of mouth, passed from person to person", "example": "La versión más increíble corrió de boca en boca."}
   ],
   "comprehension": [
-    {"q": "¿Para qué se creó originalmente el GPS?", "type": "open"},
-    {"q": "¿Qué sectores dependen de las señales horarias de los satélites?", "type": "open"},
-    {"q": "¿Por qué preocupan las interferencias deliberadas?", "type": "open"}
+    {"q": "¿Qué contraste describe el texto entre la figura de Tupac y la investigación de su muerte?", "type": "open"},
+    {"q": "Según el texto, ¿por qué crece la leyenda cuando un crimen queda impune?", "type": "open"},
+    {"q": "¿Qué representa Tupac para muchos seguidores, más allá de la música?", "type": "open"}
   ],
-  "opinion_prompt": "¿Qué tecnología cotidiana echarías más de menos si dejara de funcionar mañana? Escribe unas 120 palabras explicando por qué y qué harías sin ella."
+  "opinion_prompt": "¿Por qué crees que algunos artistas se convierten en mitos después de morir? Escribe unas 120 palabras con al menos un ejemplo que conozcas."
 },
 {
-  "pack_id": "feed-2026-08-16-tesoro-oro-belgica",
+  "pack_id": "feed-2026-08-17-restricciones-agua-francia",
   "revision": 1,
   "meta": {
-    "title": "Los obreros que descubrieron un tesoro de US$10 millones en lingotes y monedas de oro sepultado en las paredes de una casa en Bélgica",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/c4gkyp2917go?at_medium=RSS&at_campaign=rss",
-    "date_published": "2026-08-14",
-    "date_processed": "2026-08-16",
-    "tags": ["sucesos", "historia"],
+    "title": "Restricciones de agua en más del 70 % de Francia debido a una grave sequía",
+    "source": "RFI Español",
+    "url": "https://www.rfi.fr/es/francia/20260812-restricciones-de-agua-en-m%C3%A1s-del-70-de-francia-debido-a-una-grave-sequ%C3%ADa",
+    "date_published": "2026-08-12",
+    "date_processed": "2026-08-17",
+    "tags": ["medioambiente", "Francia"],
     "level": "B1-B2"
   },
-  "summary_en": "Some construction workers found a hidden treasure in the walls of a cellar while they were drilling to install sewage pipes in a house in Belgium. The haul, made up of gold ingots and coins, is worth around ten million dollars. The find is as unexpected as it is valuable.\n\nCases like this always raise the same question: who does the treasure belong to? In many countries the law splits the find between whoever discovers it and the owner of the land or the building, although the details vary a great deal from one place to another. Before anything is decided it is usually necessary to establish where the gold came from and to check whether it has historical value. In the meantime, the story feeds an old fantasy: that any old wall might be hiding something more than bricks.",
-  "resumen_es": "Unos obreros de la construcción han encontrado un tesoro escondido en las paredes de un sótano mientras perforaban para instalar tuberías de alcantarillado en una casa de Bélgica. El botín, formado por lingotes y monedas de oro, está valorado en unos diez millones de dólares. El hallazgo es tan inesperado como valioso.\n\nCasos así plantean siempre la misma pregunta: ¿de quién es el tesoro? En muchos países la ley reparte el hallazgo entre quien lo encuentra y el dueño del terreno o del inmueble, aunque los detalles varían mucho de un sitio a otro. Antes de decidir nada suele hacer falta averiguar el origen del oro y comprobar si tiene valor histórico. Mientras tanto, la historia alimenta una vieja fantasía: la de que cualquier pared antigua esconde algo más que ladrillos.",
+  "summary_en": "More than 70% of French territory is under water restrictions because of a persistent drought. Two thirds of the groundwater tables are showing levels below normal, and the situation is very likely to get worse over the coming weeks. Successive heatwaves speed up evaporation and prevent the underground reserves from recovering. Restrictions of this kind usually limit garden watering and the filling of swimming pools.\n\nThey mainly affect agriculture, which uses a good share of the water in summer. Farmers tend to call for aid and long-term planning, while environmental campaigners insist that the consumption model needs reviewing. The debate no longer revolves only around one difficult summer, but around a changing climate. France is not an isolated case: much of Europe is facing drier and drier summers.",
+  "resumen_es": "Más del 70 % del territorio francés está sometido a restricciones de agua a causa de una sequía persistente. Dos tercios de los mantos freáticos presentan niveles por debajo de lo normal, y es muy probable que la situación se agrave en las próximas semanas. Las sucesivas olas de calor aceleran la evaporación e impiden que las reservas subterráneas se recuperen. Las restricciones de este tipo suelen limitar el riego de jardines y el llenado de piscinas.\n\nAfectan sobre todo a la agricultura, que consume buena parte del agua en verano. Los agricultores suelen reclamar ayudas y planificación a largo plazo, mientras que los ecologistas insisten en que conviene revisar el modelo de consumo. El debate ya no gira solo en torno a un verano difícil, sino en torno a un clima que cambia. Francia no es un caso aislado: media Europa afronta veranos cada vez más secos.",
   "vocab": [
-    {"front": "el obrero", "pos": "noun", "back": "manual worker, labourer", "example": "Los obreros avisaron a la policía enseguida.", "tier": "B1"},
-    {"front": "el sótano", "pos": "noun", "back": "cellar, basement", "example": "Guardaban las herramientas en el sótano.", "tier": "B1"},
-    {"front": "perforar", "pos": "verb", "back": "to drill, to bore through", "example": "Estaban perforando la pared cuando apareció.", "tier": "B2"},
-    {"front": "la tubería", "pos": "noun", "back": "pipe, piping", "example": "Cambiaron toda la tubería del edificio.", "tier": "B1"},
-    {"front": "el botín", "pos": "noun", "back": "haul, loot", "example": "El botín se guardó en un banco.", "tier": "B2"},
-    {"front": "el hallazgo", "pos": "noun", "back": "find, discovery", "example": "El hallazgo sorprendió a todo el pueblo.", "tier": "B2"},
-    {"front": "estar valorado en", "pos": "phrase", "back": "to be valued at", "example": "El cuadro está valorado en dos millones.", "tier": "B2"},
-    {"front": "plantear", "pos": "verb", "back": "to raise (a question), to pose (a problem)", "example": "El caso plantea una pregunta difícil.", "tier": "B2"},
-    {"front": "repartir", "pos": "verb", "back": "to divide up, to share out", "example": "La ley reparte el dinero entre las dos partes.", "tier": "B1"},
-    {"front": "el dueño", "pos": "noun", "back": "owner", "example": "El dueño del terreno reclamó su parte.", "tier": "B1"},
-    {"front": "el inmueble", "pos": "noun", "back": "property, building", "example": "El dueño del inmueble reclamó su parte.", "tier": "B2"},
-    {"front": "averiguar", "pos": "verb", "back": "to find out, to establish", "example": "Hay que averiguar de dónde salió el oro.", "tier": "B1"},
-    {"front": "el ladrillo", "pos": "noun", "back": "brick", "example": "Detrás de los ladrillos no había nada más.", "tier": "B1"}
+    {"front": "la sequía", "pos": "noun", "back": "drought", "example": "La sequía ha durado todo el verano.", "tier": "B1"},
+    {"front": "estar sometido a", "pos": "phrase", "back": "to be subject to", "example": "La zona está sometida a controles estrictos.", "tier": "B2"},
+    {"front": "el manto freático", "pos": "noun", "back": "water table, groundwater level", "example": "El manto freático baja cada verano.", "tier": "C1"},
+    {"front": "por debajo de", "pos": "phrase", "back": "below", "example": "Las temperaturas están por debajo de la media.", "tier": "B1"},
+    {"front": "agravarse", "pos": "verb", "back": "to get worse, to worsen", "example": "Su estado se agravó por la noche.", "tier": "B2"},
+    {"front": "la ola de calor", "pos": "noun", "back": "heatwave", "example": "La tercera ola de calor llegó en agosto.", "tier": "B1"},
+    {"front": "impedir", "pos": "verb", "back": "to prevent, to stop (something happening)", "example": "La lluvia impidió que saliéramos.", "tier": "B1"},
+    {"front": "el riego", "pos": "noun", "back": "irrigation, watering", "example": "El riego por goteo ahorra mucha agua.", "tier": "B2"},
+    {"front": "el llenado", "pos": "noun", "back": "filling (up)", "example": "Está prohibido el llenado de piscinas.", "tier": "B2"},
+    {"front": "reclamar", "pos": "verb", "back": "to demand, to call for", "example": "Los vecinos reclaman más transporte público.", "tier": "B2"},
+    {"front": "a largo plazo", "pos": "phrase", "back": "in the long term", "example": "Hay que pensar a largo plazo.", "tier": "B1"},
+    {"front": "convenir", "pos": "verb", "back": "to be advisable, to be a good idea", "example": "Conviene reservar con antelación.", "tier": "B2"},
+    {"front": "girar en torno a", "pos": "phrase", "back": "to revolve around", "example": "Toda la novela gira en torno a un secreto.", "tier": "B2"},
+    {"front": "afrontar", "pos": "verb", "back": "to face, to confront", "example": "El país afronta una crisis energética.", "tier": "B2"}
   ],
   "grammar": [
     {
-      "sentence": "Unos obreros de la construcción han encontrado un tesoro escondido en las paredes de un sótano mientras perforaban para instalar tuberías de alcantarillado en una casa de Bélgica.",
-      "point": "pretérito perfecto frente a imperfecto con mientras",
-      "explanation": "Han encontrado presenta el hallazgo como noticia reciente, todavía conectada con el presente. Perforaban, en imperfecto, describe la acción de fondo que estaba en curso cuando ocurrió el hallazgo.",
-      "why_tricky": "Mientras casi siempre pide imperfecto o presente para la acción de fondo. Decir mientras perforaron cambiaría la lectura y sonaría forzado en este contexto."
+      "sentence": "Más del 70 % del territorio francés está sometido a restricciones de agua a causa de una sequía persistente.",
+      "point": "estar + participio for a resulting state",
+      "explanation": "Estar sometido describes the state the territory is in, not the act of imposing the measures. The participle behaves like an adjective and agrees with the subject: sometido here, sometida with a feminine noun.",
+      "why_tricky": "Learners default to ser for anything that looks passive. Ser sometido would report the event of being subjected; estar sometido reports the ongoing situation."
     },
     {
-      "sentence": "Antes de decidir nada suele hacer falta averiguar el origen del oro y comprobar si tiene valor histórico.",
-      "point": "antes de + infinitivo y soler + infinitivo",
-      "explanation": "Con sujeto impersonal o idéntico se usa antes de más infinitivo, no antes de que más subjuntivo. Soler más infinitivo expresa costumbre o norma habitual y aquí suaviza la afirmación.",
-      "why_tricky": "Soler no tiene equivalente directo en inglés, que recurre a usually. Además, soler apenas se usa en pretérito indefinido: se dice solía hacer falta, no solió hacer falta."
+      "sentence": "Las sucesivas olas de calor aceleran la evaporación e impiden que las reservas subterráneas se recuperen.",
+      "point": "impedir que + subjuntivo, and y becoming e",
+      "explanation": "Impedir que takes the subjunctive in the subordinate clause: impiden que se recuperen. Note also that y becomes e in front of a word starting with the i sound, hence e impiden.",
+      "why_tricky": "Impedir also allows a plain infinitive, but only with a dative pronoun for the affected party: les impiden recuperarse. What Spanish never allows is the English shape, so prevent them from recovering has to be rebuilt rather than translated."
     },
     {
-      "sentence": "Mientras tanto, la historia alimenta una vieja fantasía: la de que cualquier pared antigua esconde algo más que ladrillos.",
-      "point": "la de que, elipsis del sustantivo",
-      "explanation": "La de que retoma el sustantivo femenino fantasía sin repetirlo y presenta su contenido. El artículo concuerda con ese sustantivo elidido: la de que si es fantasía, el de que si fuera miedo.",
-      "why_tricky": "La secuencia la de que desconcierta a muchos aprendices, que escriben solo que. Con sustantivos como fantasía, idea o impresión lo normal es el indicativo, esconde; el subjuntivo aparece con otros como posibilidad."
+      "sentence": "El debate ya no gira solo en torno a un verano difícil, sino en torno a un clima que cambia.",
+      "point": "no solo ... sino for addition",
+      "explanation": "With no solo A, sino (también) B, sino adds B without denying A: the debate is still about the difficult summer, and now about the climate too. Compare bare no A sino B (No es un verano difícil, sino una sequía estructural), where B replaces A outright.",
+      "why_tricky": "Learners meet only the replacement pattern and then read every sino as a contradiction. The trigger is solo: with solo, sino adds; without it, sino substitutes. Pero is wrong in both, and you need sino que when a full conjugated clause follows."
     }
   ],
   "idioms": [
-    {"phrase": "dar con algo", "meaning": "to come across or stumble upon something after searching", "example": "Dieron con el escondite cuando ya no lo buscaban."},
-    {"phrase": "tocarle a alguien la lotería", "meaning": "to have a huge stroke of luck", "example": "A esos obreros les tocó la lotería sin comprar un billete."}
+    {"phrase": "estar en las últimas", "meaning": "to be almost gone, on its last legs", "example": "Las reservas están en las últimas después de tres meses sin lluvia."},
+    {"phrase": "tomar cartas en el asunto", "meaning": "to step in and take action", "example": "El gobierno tuvo que tomar cartas en el asunto."}
   ],
   "comprehension": [
-    {"q": "¿En qué circunstancias encontraron los obreros el tesoro?", "type": "open"},
-    {"q": "¿Qué suele decidir la ley cuando aparece un hallazgo de este tipo?", "type": "open"},
-    {"q": "¿Qué suele hacer falta antes de tomar una decisión sobre el oro?", "type": "open"}
+    {"q": "¿Qué situación describen los datos sobre los mantos freáticos franceses?", "type": "open"},
+    {"q": "¿Por qué las olas de calor empeoran el problema del agua?", "type": "open"},
+    {"q": "¿En qué se diferencian las peticiones de los agricultores y las de los ecologistas?", "type": "open"}
   ],
-  "opinion_prompt": "Si encontraras algo muy valioso en una casa que no es tuya, ¿qué harías? Escribe unas 120 palabras explicando tu decisión y sus razones."
+  "opinion_prompt": "¿Qué medidas te parecen más justas para repartir el agua en un verano de sequía? Escribe unas 120 palabras y justifica tu respuesta."
 }
 ]

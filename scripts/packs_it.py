@@ -1,187 +1,186 @@
 # -*- coding: utf-8 -*-
-"""Naomilingo (Italian, A2-B1) study packs, run 2026-08-16 10:00. Post cold-read revision.
-NB: the pack field is named resumen_es in both apps (legacy name); here it is ITALIAN."""
-
 IT = [
 {
-  "pack_id": "feed-2026-08-16-street-art-roma",
+  "pack_id": "feed-2026-08-17-eurovision-paesi-in-guerra",
   "revision": 1,
   "meta": {
-    "title": "Street art a Roma, una storia antichissima tutta da raccontare",
+    "title": "Eurovision: i Paesi in guerra non potranno più ospitare la competizione",
     "source": "ANSA",
-    "url": "https://www.ansa.it/canale_lifestyle/notizie/tempo_libero/2026/08/14/street-art-a-roma-una-storia-antichissima-tutta-da-raccontare_d1bd471d-1ebe-46b7-8845-3f0f95de33f2.html",
-    "date_published": "2026-08-14",
-    "date_processed": "2026-08-16",
-    "tags": ["cultura", "arte"],
+    "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/08/12/eurovision-cambia-le-regole-paesi-in-guerra-non-potranno-ospitare-il-concorso_49098d56-efc8-4230-a8fc-7125145d8ef5.html",
+    "date_published": "2026-08-12",
+    "date_processed": "2026-08-17",
+    "tags": ["musica", "società"],
     "level": "A2-B1"
   },
-  "summary_en": "In Rome street art is not a recent fashion. In a new book, Stella Maresca tells us that the walls of the city have been speaking for centuries. The ancient Romans already wrote on walls: political messages, jokes, the names of lovers. Today that tradition continues with the murals of the outer districts, where whole buildings become pictures.\n\nThe book follows this thread across two thousand years and arrives at today's projects. Many murals come into being thanks to the district councils or to neighbourhood associations, and they often tell the story of the place or of the people who live there. For many visitors they have become one more reason to leave the historic centre. Opinions on the value of these drawings still differ: some people think they ruin the buildings, while others consider them real art. What is certain is that Rome goes on writing on its walls.",
-  "resumen_es": "A Roma la street art non è una moda recente. In un nuovo libro, Stella Maresca racconta che i muri della città parlano da secoli. Già gli antichi romani scrivevano sui muri: messaggi politici, battute, nomi di innamorati. Oggi quella tradizione continua con i murales dei quartieri di periferia, dove interi palazzi diventano quadri.\n\nIl libro segue questo filo lungo duemila anni e arriva ai progetti di oggi. Molti murales nascono grazie ai municipi o alle associazioni del quartiere, e spesso raccontano la storia del posto o di chi ci vive. Per molti visitatori sono diventati un motivo in più per uscire dal centro storico. Sul valore di questi disegni le opinioni restano diverse: c'è chi pensa che rovinino i palazzi, e chi invece li considera vera arte. Di sicuro Roma continua a scrivere sui suoi muri.",
+  "summary_en": "Eurovision is changing its rules. From now on, countries at war will no longer be able to host the competition. The decision comes after the controversy of the last edition, when five nations boycotted the contest. In general, the contest tries to stay away from politics. Eurovision started out as a celebration of European music and wants to stay that way.\n\nThe new rule touches on a sensitive point. Usually the country that wins hosts the following edition, and that has always been part of the game. Now, if a country at war wins, the contest will be held somewhere else. Many people think the choice is necessary, because the safety of the audience comes first. Others are afraid that the organisation is doing politics anyway, just as it is trying to stay out of it. The next few editions will show whether the rule really works.",
+  "resumen_es": "L'Eurovision cambia le regole. D'ora in poi i Paesi in guerra non potranno più ospitare la competizione. La decisione arriva dopo le polemiche dell'ultima edizione, quando cinque nazioni hanno boicottato la gara. In generale, il concorso cerca di restare lontano dalla politica. L'Eurovision è nato come una festa della musica europea e vuole restare così.\n\nLa nuova regola tocca un punto delicato. Di solito il Paese che vince ospita l'edizione successiva, e questo ha sempre fatto parte del gioco. Ora, se un Paese in guerra vince, la gara si terrà altrove. Molti considerano la scelta necessaria, perché la sicurezza del pubblico viene prima di tutto. Altri temono che l'organizzazione faccia comunque politica, proprio mentre cerca di starne fuori. Le prossime edizioni diranno se la regola funziona davvero.",
   "vocab": [
-    {"front": "il muro", "pos": "noun", "back": "wall", "example": "I muri della città raccontano molte storie.", "tier": "A2"},
-    {"front": "il murale (i murales)", "pos": "noun", "back": "mural (the usual plural in Italian is the Spanish form murales)", "example": "In periferia ci sono murales bellissimi.", "tier": "B1"},
-    {"front": "la moda", "pos": "noun", "back": "fashion, trend", "example": "Non è solo una moda del momento.", "tier": "A2"},
-    {"front": "raccontare", "pos": "verb", "back": "to tell, to recount", "example": "Il libro racconta duemila anni di storia.", "tier": "A2"},
-    {"front": "la battuta", "pos": "noun", "back": "joke, witty remark", "example": "Sul muro c'era una battuta divertente.", "tier": "B1"},
-    {"front": "il palazzo", "pos": "noun", "back": "building, block of flats (NOT usually a palace)", "example": "Hanno dipinto un palazzo intero.", "tier": "A2"},
-    {"front": "il quartiere", "pos": "noun", "back": "neighbourhood, district", "example": "Vivo in un quartiere tranquillo.", "tier": "A2"},
-    {"front": "la periferia", "pos": "noun", "back": "outskirts, suburbs", "example": "I murales più belli sono in periferia.", "tier": "B1"},
-    {"front": "il filo", "pos": "noun", "back": "thread (also of a story)", "example": "Il libro segue il filo della storia romana.", "tier": "B1"},
-    {"front": "grazie a", "pos": "phrase", "back": "thanks to", "example": "Il progetto è nato grazie al municipio.", "tier": "A2"},
-    {"front": "rovinare", "pos": "verb", "back": "to ruin, to spoil", "example": "Secondo alcuni i disegni rovinano i palazzi.", "tier": "B1"},
-    {"front": "il centro storico", "pos": "phrase", "back": "old town, historic centre", "example": "Il centro storico è pieno di turisti.", "tier": "A2"},
-    {"front": "di sicuro", "pos": "adv", "back": "certainly, for sure", "example": "Di sicuro torneremo a Roma.", "tier": "A2"}
+    {"front": "la regola", "pos": "noun", "back": "rule", "example": "Le regole del gioco sono cambiate.", "tier": "A2"},
+    {"front": "d'ora in poi", "pos": "phrase", "back": "from now on", "example": "D'ora in poi arrivo puntuale.", "tier": "B1"},
+    {"front": "ospitare", "pos": "verb", "back": "to host", "example": "La città ospita il festival ogni anno.", "tier": "B1"},
+    {"front": "la gara", "pos": "noun", "back": "competition, race", "example": "La gara comincia alle otto.", "tier": "A2"},
+    {"front": "il concorso", "pos": "noun", "back": "contest, competition", "example": "Ha vinto il concorso di canto.", "tier": "A2"},
+    {"front": "la polemica", "pos": "noun", "back": "controversy, row", "example": "Le sue parole hanno suscitato molte polemiche.", "tier": "B1"},
+    {"front": "l'edizione", "pos": "noun", "back": "edition (of an event)", "example": "L'edizione dell'anno scorso è andata bene.", "tier": "B1"},
+    {"front": "boicottare", "pos": "verb", "back": "to boycott", "example": "Alcuni Paesi hanno boicottato i Giochi.", "tier": "B1"},
+    {"front": "far parte di", "pos": "phrase", "back": "to be part of", "example": "Questo fa parte del mio lavoro.", "tier": "A2"},
+    {"front": "delicato", "pos": "adj", "back": "sensitive, delicate", "example": "È un argomento delicato.", "tier": "B1"},
+    {"front": "altrove", "pos": "adv", "back": "elsewhere", "example": "Se qui è pieno, andiamo altrove.", "tier": "B1"},
+    {"front": "la sicurezza", "pos": "noun", "back": "safety, security", "example": "La sicurezza degli spettatori è importante.", "tier": "A2"},
+    {"front": "la scelta", "pos": "noun", "back": "choice", "example": "È stata una scelta difficile.", "tier": "A2"},
+    {"front": "temere", "pos": "verb", "back": "to fear, to be afraid", "example": "Temo che piova domani.", "tier": "B1"}
   ],
   "grammar": [
     {
-      "sentence": "Già gli antichi romani scrivevano sui muri: messaggi politici, battute, nomi di innamorati.",
-      "point": "imperfetto per abitudini nel passato",
-      "explanation": "Scrivevano è imperfetto e indica un'abitudine ripetuta nel passato, non un fatto singolo. In inglese si direbbe used to write oppure would write.",
-      "why_tricky": "Con il passato prossimo, hanno scritto sui muri, la frase parlerebbe di una volta sola. Quando in italiano c'è un'abitudine antica o una descrizione di come si viveva, l'imperfetto è quasi sempre la scelta giusta."
+      "sentence": "D'ora in poi i Paesi in guerra non potranno più ospitare la competizione.",
+      "point": "Futuro semplice of potere plus non ... più",
+      "explanation": "Potranno is the future of potere, third person plural. The negative wraps around the verb: non before it and più after it, giving the sense of will no longer be able to.",
+      "why_tricky": "Potere is irregular in the future (potrò, potrai, potrà, potremo, potrete, potranno), losing the e of the infinitive. Learners also tend to leave out più, which is what carries the idea of no longer."
     },
     {
-      "sentence": "Sul valore di questi disegni le opinioni restano diverse: c'è chi pensa che rovinino i palazzi, e chi invece li considera vera arte.",
-      "point": "c'è chi e il congiuntivo dopo pensare che",
-      "explanation": "C'è chi significa alcune persone e va sempre con il verbo alla terza persona singolare. Dopo pensare che si usa il congiuntivo, rovinino, perché si riporta un'opinione.",
-      "why_tricky": "La seconda parte, e chi invece li considera, torna all'indicativo perché dipende da c'è chi e non da pensare che. Notare anche che c'è chi resta singolare anche quando si parla di molte persone."
+      "sentence": "Ora, se un Paese in guerra vince, la gara si terrà altrove.",
+      "point": "Periodo ipotetico della realtà",
+      "explanation": "For a condition treated as perfectly possible, Italian uses se plus the present indicative in the if-clause and the future in the main clause: se vince, si terrà. Si terrà is the future of tenersi, used for events that take place.",
+      "why_tricky": "Unlike English, Italian also allows the future in the se clause (se vincerà, la gara si terrà altrove); the present is simply the lighter, more common choice. The real mistake is reaching for the congiuntivo, which never appears in this type of conditional."
     },
     {
-      "sentence": "Molti murales nascono grazie ai municipi o alle associazioni del quartiere, e spesso raccontano la storia del posto o di chi ci vive.",
-      "point": "il pronome ci con valore di luogo",
-      "explanation": "Qui ci non è il pronome noi ma sostituisce un luogo già nominato: chi vive lì, in quel posto. Si mette prima del verbo.",
-      "why_tricky": "Ci ha molti valori diversi in italiano, quindi bisogna guardare il contesto. Confronta ci vive, vive lì, con ci hanno visto, hanno visto noi, e con ci vediamo domani, dove ci vuol dire l'uno con l'altro."
+      "sentence": "Altri temono che l'organizzazione faccia comunque politica, proprio mentre cerca di starne fuori.",
+      "point": "Congiuntivo after temere che, and ne in starne fuori",
+      "explanation": "Temere che, like sperare che and credere che, takes the congiuntivo, so faccia rather than fa. In starne fuori the particle ne replaces da questo, out of it, and attaches to the end of the infinitive, which loses its final e: stare plus ne gives starne.",
+      "why_tricky": "Learners forget the congiuntivo after temere che. And note the spelling: the infinitive drops its final e when ne is attached, so stare becomes starne, never stare ne."
     }
   ],
   "idioms": [
-    {"phrase": "fare scuola", "meaning": "to set an example that others follow, to be influential", "example": "Quel progetto di murales ha fatto scuola in tutta Italia."},
-    {"phrase": "andare per la maggiore", "meaning": "to be very popular or in fashion", "example": "In questo periodo i tour dei murales vanno per la maggiore."}
+    {"phrase": "venire prima di tutto", "meaning": "to come first, to be the top priority", "example": "Per lei la famiglia viene prima di tutto."},
+    {"phrase": "tirarsi indietro", "meaning": "to back out, to pull out", "example": "All'ultimo momento cinque nazioni si sono tirate indietro."}
   ],
   "comprehension": [
-    {"q": "Che cosa scrivevano gli antichi romani sui muri della città?", "type": "open"},
-    {"q": "Chi aiuta oggi a realizzare molti murales nei quartieri?", "type": "open"},
-    {"q": "Perché sul valore dei murales le opinioni restano diverse?", "type": "open"}
+    {"q": "Che cosa cambia nelle regole dell'Eurovision?", "type": "open"},
+    {"q": "Che cosa è successo nell'ultima edizione, prima di questa decisione?", "type": "open"},
+    {"q": "Secondo il testo, quali sono le due opinioni diverse sulla nuova regola?", "type": "open"}
   ],
-  "opinion_prompt": "Secondo te i murales migliorano o rovinano una città? Scrivi otto o dieci frasi con la tua opinione e almeno un esempio."
+  "opinion_prompt": "Secondo te la musica e la politica possono restare separate? Scrivi circa 100 parole e spiega la tua opinione con un esempio."
 },
 {
-  "pack_id": "feed-2026-08-16-wikipedia-notizia-falsa-google",
+  "pack_id": "feed-2026-08-17-al-lavoro-con-il-cavallo",
   "revision": 1,
   "meta": {
-    "title": "'Sam Altman è morto', falsa informazione Wikipedia finisce nella ricerca Google",
+    "title": "'Troppo caro usare l'auto, vado al lavoro con il cavallo'",
     "source": "ANSA",
-    "url": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/08/13/sam-altman-e-morto-falsa-informazione-wikipedia-finisce-nella-ricerca-google_a3d05bd6-4609-405c-8d5b-66a7c077b3d3.html",
-    "date_published": "2026-08-14",
-    "date_processed": "2026-08-16",
-    "tags": ["tecnologia", "informazione"],
+    "url": "https://www.ansa.it/puglia/notizie/2026/08/12/troppo-caro-usare-lauto-vado-al-lavoro-col-cavallo_1ad8bd9a-c1f6-4ee2-9676-1330bae7a8e7.html",
+    "date_published": "2026-08-12",
+    "date_processed": "2026-08-17",
+    "tags": ["società", "trasporti"],
     "level": "A2-B1"
   },
-  "summary_en": "A false piece of news appeared on Google: Sam Altman, the head of OpenAI, was reported dead. The information did not come from a newspaper, but from a wrong edit made to his Wikipedia page. Google often shows a box at the top with the main facts about a person, and that box takes a lot of its information from Wikipedia itself. Some users noticed the mistake and reported it online.\n\nGoogle spoke of sources of public information being vandalised. Wikipedia can indeed be edited by anyone, and this is both its strength and its weak point. Usually mistakes are corrected quickly by the other users; sometimes, though, a false edit has time to pass into search engines. The case is a reminder of something simple: before believing an important piece of news, it is worth checking at least two different sources.",
-  "resumen_es": "Su Google è apparsa una notizia falsa: Sam Altman, il capo di OpenAI, sarebbe morto. L'informazione non veniva da un giornale, ma da una modifica sbagliata fatta alla sua pagina di Wikipedia. Google mostra spesso in alto un riquadro con i dati principali di una persona, e quel riquadro prende molte informazioni proprio da Wikipedia. Alcuni utenti hanno notato l'errore e lo hanno segnalato online.\n\nGoogle ha parlato di fonti di informazioni pubbliche vandalizzate. Wikipedia infatti può essere modificata da chiunque, ed è questa la sua forza ma anche il suo punto debole. Di solito gli errori vengono corretti in fretta dagli altri utenti; a volte però una modifica falsa fa in tempo a passare nei motori di ricerca. Il caso ricorda una cosa semplice: prima di credere a una notizia importante, conviene controllare almeno due fonti diverse.",
+  "summary_en": "Massimiliano Accetturo lives in Rocchetta Sant'Antonio, a small town in the province of Foggia. To get to work he no longer uses the car: he goes on horseback. The reason is simple. In his view the car costs too much. In general, what with petrol, insurance and maintenance, running a car is a big expense. His story raises a smile, but it also makes you think.\n\nIn the small towns of southern Italy there are often few public transport services. People without a car find it hard to get around, and those who have one have to pay higher and higher costs. Massimiliano's choice is unusual, but it points to a real and widespread problem. The horse, obviously, is not a solution for everyone. It needs care, space and time. Even so, his gesture is an original way of saying that getting around every day has become expensive.",
+  "resumen_es": "Massimiliano Accetturo vive a Rocchetta Sant'Antonio, un piccolo comune in provincia di Foggia. Per andare al lavoro non usa più l'auto: va a cavallo. Il motivo è semplice. Secondo lui l'automobile costa troppo. In generale, tra benzina, assicurazione e manutenzione, avere un'auto è una spesa importante. La sua storia fa sorridere, ma fa anche riflettere.\n\nNei piccoli centri del Sud Italia ci sono spesso pochi mezzi pubblici. Chi non ha l'auto fa fatica a spostarsi, e chi ce l'ha deve pagare spese sempre più alte. La scelta di Massimiliano è insolita, però fa pensare a un problema reale e diffuso. Il cavallo, ovviamente, non è una soluzione per tutti. Ha bisogno di cure, di spazio e di tempo. Ma il suo gesto resta un modo originale per dire che muoversi ogni giorno è diventato caro.",
   "vocab": [
-    {"front": "la notizia", "pos": "noun", "back": "piece of news", "example": "La notizia era falsa ma sembrava vera.", "tier": "A2"},
-    {"front": "falso", "pos": "adj", "back": "false, fake", "example": "Online circolano molte notizie false.", "tier": "A2"},
-    {"front": "la modifica", "pos": "noun", "back": "edit, change", "example": "Qualcuno ha fatto una modifica sbagliata.", "tier": "B1"},
-    {"front": "il giornale", "pos": "noun", "back": "newspaper", "example": "La notizia non veniva da un giornale.", "tier": "A2"},
-    {"front": "l'utente", "pos": "noun", "back": "user", "example": "Gli utenti hanno segnalato subito l'errore.", "tier": "B1"},
-    {"front": "segnalare", "pos": "verb", "back": "to report, to flag up", "example": "Ho segnalato il problema al sito.", "tier": "B1"},
-    {"front": "vandalizzare", "pos": "verb", "back": "to vandalise, to deface", "example": "Qualcuno ha vandalizzato la pagina.", "tier": "B1"},
-    {"front": "la fonte", "pos": "noun", "back": "source (of information)", "example": "Controlla sempre la fonte di una notizia.", "tier": "B1"},
-    {"front": "chiunque", "pos": "pronoun", "back": "anyone, whoever", "example": "Chiunque può scrivere su quel sito.", "tier": "B1"},
-    {"front": "il punto debole", "pos": "phrase", "back": "weak point", "example": "La velocità è il suo punto debole.", "tier": "B1"},
-    {"front": "il motore di ricerca", "pos": "phrase", "back": "search engine", "example": "L'errore è finito nei motori di ricerca.", "tier": "B1"},
-    {"front": "fare in tempo a", "pos": "phrase", "back": "to manage to do something in time", "example": "Non ho fatto in tempo a correggerlo.", "tier": "B1"},
-    {"front": "credere a", "pos": "verb", "back": "to believe (something or someone)", "example": "Non credo a tutto quello che leggo online.", "tier": "A2"},
-    {"front": "conviene", "pos": "verb", "back": "it is worth, it is advisable", "example": "Conviene controllare due fonti diverse.", "tier": "B1"}
+    {"front": "il comune", "pos": "noun", "back": "municipality, town (as an administrative unit)", "example": "Il comune ha meno di duemila abitanti.", "tier": "B1"},
+    {"front": "andare a cavallo", "pos": "phrase", "back": "to ride, to go on horseback", "example": "Il sabato va a cavallo con gli amici.", "tier": "A2"},
+    {"front": "la benzina", "pos": "noun", "back": "petrol", "example": "La benzina costa sempre di più.", "tier": "A2"},
+    {"front": "l'assicurazione", "pos": "noun", "back": "insurance", "example": "Ho pagato l'assicurazione dell'auto.", "tier": "B1"},
+    {"front": "la manutenzione", "pos": "noun", "back": "maintenance, upkeep", "example": "La manutenzione della casa costa parecchio.", "tier": "B1"},
+    {"front": "i mezzi pubblici", "pos": "noun", "back": "public transport", "example": "In centro conviene usare i mezzi pubblici.", "tier": "A2"},
+    {"front": "far sorridere", "pos": "phrase", "back": "to make someone smile", "example": "La sua risposta mi ha fatto sorridere.", "tier": "B1"},
+    {"front": "riflettere", "pos": "verb", "back": "to think, to reflect", "example": "Devo riflettere prima di decidere.", "tier": "B1"},
+    {"front": "spostarsi", "pos": "verb", "back": "to move around, to get about", "example": "In città mi sposto in bici.", "tier": "A2"},
+    {"front": "far fatica a", "pos": "phrase", "back": "to struggle to, to find it hard to", "example": "Faccio fatica a svegliarmi presto.", "tier": "B1"},
+    {"front": "insolito", "pos": "adj", "back": "unusual", "example": "È stata una giornata insolita.", "tier": "B1"},
+    {"front": "diffuso", "pos": "adj", "back": "widespread, common", "example": "È un problema molto diffuso.", "tier": "B1"},
+    {"front": "le spese", "pos": "noun", "back": "costs, expenses", "example": "Le spese di casa sono aumentate.", "tier": "A2"},
+    {"front": "le cure", "pos": "noun", "back": "care, looking after (not 'cures')", "example": "Un animale ha bisogno di cure quotidiane.", "tier": "B1"}
   ],
   "grammar": [
     {
-      "sentence": "Su Google è apparsa una notizia falsa: Sam Altman, il capo di OpenAI, sarebbe morto.",
-      "point": "condizionale passato per notizie non confermate",
-      "explanation": "Sarebbe morto non descrive un'ipotesi del passato, ma serve a riportare una notizia che chi scrive non conferma. È un uso tipico del linguaggio giornalistico: da riconoscere quando si legge, non da produrre a questo livello.",
-      "why_tricky": "In inglese si usa una formula diversa, reportedly oppure is said to have died. Chi impara l'italiano legge sarebbe morto e capisce he would have died, che qui sarebbe sbagliato."
+      "sentence": "Per andare al lavoro non usa più l'auto: va a cavallo.",
+      "point": "per + infinito for purpose, and non ... più",
+      "explanation": "Per plus an infinitive expresses purpose, in order to go to work. Non ... più means not any more, with non before the verb and più straight after it.",
+      "why_tricky": "English uses a gerund after for (for going), so learners write per andando. And più on its own means more, so the negative sense only appears with non."
     },
     {
-      "sentence": "L'informazione non veniva da un giornale, ma da una modifica sbagliata fatta alla sua pagina di Wikipedia.",
-      "point": "participio passato che descrive un nome",
-      "explanation": "Fatta finisce in a perché si riferisce a una modifica, nome femminile singolare. È un participio usato come aggettivo, senza il verbo essere davanti.",
-      "why_tricky": "La concordanza del participio è il punto delicato dell'italiano. Qui è facile perché il nome è vicino, ma con avere e un pronome diventa più difficile: ho visto la pagina, però l'ho vista."
+      "sentence": "Chi non ha l'auto fa fatica a spostarsi, e chi ce l'ha deve pagare spese sempre più alte.",
+      "point": "chi as a free relative, plus ce l'ha",
+      "explanation": "Chi means whoever or those who and needs no antecedent, and it always takes a singular verb: chi non ha, chi ce l'ha. In ce l'ha, ci becomes ce in front of a direct object pronoun, and l' here is la, standing for l'auto, which is feminine.",
+      "why_tricky": "Chi looks plural in meaning but is singular in grammar. Ce l'ha is heard so often as a block that learners rarely notice it is really ci plus la plus ha."
     },
     {
-      "sentence": "Wikipedia infatti può essere modificata da chiunque, ed è questa la sua forza ma anche il suo punto debole.",
-      "point": "passivo con potere",
-      "explanation": "Il passivo si forma con essere più participio, e quando c'è potere l'ordine diventa può essere modificata. Da chiunque introduce chi compie l'azione.",
-      "why_tricky": "Il participio prende il genere e il numero dal soggetto, mentre può dipende solo dal numero: Wikipedia può essere modificata, ma i siti possono essere modificati."
+      "sentence": "Ha bisogno di cure, di spazio e di tempo.",
+      "point": "avere bisogno di",
+      "explanation": "To need something is avere bisogno di, with di in front of every item in the list. Repeating di, rather than saying di cure, spazio e tempo, gives each item a little more weight.",
+      "why_tricky": "There is no single verb for to need here, so learners produce bisogna, which is a different, impersonal structure meaning one must."
     }
   ],
   "idioms": [
-    {"phrase": "prendere per buono", "meaning": "to accept something as true without checking it", "example": "Ha preso per buona la prima notizia che ha letto."},
-    {"phrase": "fare acqua da tutte le parti", "meaning": "to be full of holes, to not stand up at all", "example": "La sua spiegazione faceva acqua da tutte le parti."}
+    {"phrase": "costare un occhio della testa", "meaning": "to cost an arm and a leg", "example": "Ormai mantenere un'auto costa un occhio della testa."},
+    {"phrase": "fare di necessità virtù", "meaning": "to make the best of a bad situation", "example": "Ha fatto di necessità virtù e ha scelto il cavallo."}
   ],
   "comprehension": [
-    {"q": "Da dove veniva la notizia falsa apparsa su Google?", "type": "open"},
-    {"q": "Perché Wikipedia può contenere errori di questo tipo?", "type": "open"},
-    {"q": "Che cosa conviene fare prima di credere a una notizia importante?", "type": "open"}
+    {"q": "Perché Massimiliano ha deciso di non usare più l'auto?", "type": "open"},
+    {"q": "Quale problema dei piccoli centri del Sud Italia racconta il testo?", "type": "open"},
+    {"q": "Perché il cavallo non è una soluzione per tutti?", "type": "open"}
   ],
-  "opinion_prompt": "Come fai a capire se una notizia online è vera? Scrivi otto o dieci frasi e spiega quali controlli fai di solito."
+  "opinion_prompt": "Come ti sposti di solito e quanto ti costa? Scrivi circa 100 parole sui trasporti nella tua zona."
 },
 {
-  "pack_id": "feed-2026-08-16-turismo-famiglie-miliardi",
+  "pack_id": "feed-2026-08-17-batterie-a-bottone-allarme",
   "revision": 1,
   "meta": {
-    "title": "Le vacanze estive un must per le famiglie, il turismo family 'vale oltre 15 miliardi'",
-    "source": "ANSA",
-    "url": "https://www.ansa.it/canale_viaggi/notizie/news/2026/08/14/le-vacanze-estive-un-must-per-le-famiglie-il-turismo-family-vale-oltre-15-miliardi_ad824098-7421-49b6-9f0e-96fbfb4d9430.html",
-    "date_published": "2026-08-14",
-    "date_processed": "2026-08-16",
-    "tags": ["viaggi", "economia"],
+    "title": "Batterie a bottone, allarme del Bambino Gesù: sei ricoveri in tre mesi per gravi lesioni all'esofago",
+    "source": "Rai News",
+    "url": "https://www.rainews.it/articoli/2026/08/batterie-a-bottone-allarme-del-bambino-gesu-sei-ricoveri-in-tre-mesi-per-gravi-lesioni-allesofago-1051a3fe-2ef4-486a-b15b-a10833e50e9c.html",
+    "date_published": "2026-08-12",
+    "date_processed": "2026-08-17",
+    "tags": ["salute", "famiglia"],
     "level": "A2-B1"
   },
-  "summary_en": "For Italian families the summer holiday is still almost an obligation. According to research by the Jfc company, tourism aimed at families is worth more than fifteen billion euros. Family tourism generally includes hotels with entertainment for children, flats near the sea, campsites and services designed for people travelling with small children.\n\nThe research also indicates which regions are most attentive to this kind of tourism: Emilia-Romagna, Trentino, Puglia and Abruzzo. These are regions that have been working with families for years, from the sea in Puglia to the mountains in Trentino. For many families the price remains the first problem, because in high season costs rise rapidly. Those who can, leave in June or September and spend less. In short, holidays remain an important moment of the year, even when money is tight.",
-  "resumen_es": "Per le famiglie italiane le vacanze estive restano quasi un obbligo. Secondo una ricerca della società Jfc, il turismo dedicato alle famiglie vale oltre quindici miliardi di euro. Il turismo per famiglie comprende in genere alberghi con animazione per i bambini, appartamenti vicino al mare, campeggi e servizi pensati per chi viaggia con figli piccoli.\n\nLa ricerca indica anche quali regioni sono più attente a questo tipo di turismo: Emilia-Romagna, Trentino, Puglia e Abruzzo. Sono regioni che da anni lavorano con le famiglie, dal mare della Puglia alle montagne del Trentino. Per molte famiglie il prezzo resta il primo problema, perché in alta stagione i costi salgono rapidamente. Chi può, parte a giugno o a settembre e spende meno. Le vacanze, insomma, restano un momento importante dell'anno, anche quando i soldi sono pochi.",
+  "summary_en": "The Bambino Gesù hospital in Rome is raising the alarm. In three months six children have been admitted with serious injuries to the oesophagus. The cause is always the same: they swallowed a button battery. These small round objects are found in many homes, inside remote controls, watches and toys. They are easy to lose and children can mistake them for sweets.\n\nThe specialists explain that this is a time-dependent emergency. It means that every minute counts and that you have to go to A and E straight away, even if you only suspect it. In contact with body tissue, the battery can cause very serious damage in a short time. The doctors' advice is clear: do not wait for symptoms. For parents, prevention remains the best defence, which means keeping these objects out of reach of small children.",
+  "resumen_es": "L'ospedale Bambino Gesù di Roma lancia l'allarme. In tre mesi sei bambini sono stati ricoverati con gravi lesioni all'esofago. La causa è sempre la stessa: hanno ingerito una batteria a bottone. Questi piccoli oggetti rotondi si trovano in molte case, dentro telecomandi, orologi e giocattoli. Sono facili da perdere e i bambini possono scambiarli per caramelle.\n\nGli specialisti spiegano che si tratta di un'emergenza tempo-dipendente. Significa che ogni minuto conta e che bisogna andare subito al pronto soccorso, anche solo in caso di sospetto. La batteria, a contatto con i tessuti, può provocare danni molto seri in poco tempo. Il consiglio dei medici è chiaro: non aspettare i sintomi. Per i genitori la prevenzione resta la difesa migliore, cioè tenere questi oggetti fuori dalla portata dei più piccoli.",
   "vocab": [
-    {"front": "le vacanze estive", "pos": "phrase", "back": "summer holidays", "example": "Le vacanze estive durano tre settimane.", "tier": "A2"},
-    {"front": "la ricerca", "pos": "noun", "back": "study, piece of research", "example": "Una ricerca indica quali regioni sono più attente.", "tier": "B1"},
-    {"front": "valere", "pos": "verb", "back": "to be worth", "example": "Il settore vale quindici miliardi di euro.", "tier": "B1"},
-    {"front": "l'obbligo", "pos": "noun", "back": "obligation, something you must do", "example": "Per molti le ferie sono quasi un obbligo.", "tier": "B1"},
-    {"front": "comprendere", "pos": "verb", "back": "to include (also: to understand)", "example": "Il prezzo comprende la colazione.", "tier": "B1"},
-    {"front": "l'animazione", "pos": "noun", "back": "entertainment programme (at a hotel or resort)", "example": "In albergo c'è l'animazione per i bambini.", "tier": "B1"},
-    {"front": "il campeggio", "pos": "noun", "back": "campsite", "example": "Dormiamo in campeggio vicino al mare.", "tier": "A2"},
-    {"front": "attento a", "pos": "adj", "back": "attentive to, mindful of", "example": "Sono alberghi molto attenti alle famiglie.", "tier": "B1"},
-    {"front": "l'alta stagione", "pos": "phrase", "back": "high season", "example": "In alta stagione tutto costa di più.", "tier": "B1"},
-    {"front": "salire", "pos": "verb", "back": "to go up, to rise (of prices)", "example": "I costi salgono rapidamente ad agosto.", "tier": "A2"},
-    {"front": "il prezzo", "pos": "noun", "back": "price", "example": "Il prezzo resta il primo problema.", "tier": "A2"},
-    {"front": "spendere", "pos": "verb", "back": "to spend (money)", "example": "Chi parte a settembre spende meno.", "tier": "A2"},
-    {"front": "insomma", "pos": "adv", "back": "in short, all in all", "example": "Insomma, resta un momento importante.", "tier": "B1"}
+    {"front": "l'esofago", "pos": "noun", "back": "oesophagus, gullet", "example": "La batteria si è fermata nell'esofago.", "tier": "B1"},
+    {"front": "la lesione", "pos": "noun", "back": "injury, lesion", "example": "Ha riportato una lesione al ginocchio.", "tier": "B1"},
+    {"front": "ricoverare", "pos": "verb", "back": "to admit to hospital", "example": "L'hanno ricoverata per due giorni.", "tier": "B1"},
+    {"front": "ingerire", "pos": "verb", "back": "to swallow, to ingest", "example": "Il bambino ha ingerito una moneta.", "tier": "B1"},
+    {"front": "la batteria a bottone", "pos": "noun", "back": "button battery", "example": "L'orologio usa una batteria a bottone.", "tier": "B1"},
+    {"front": "il telecomando", "pos": "noun", "back": "remote control", "example": "Dov'è il telecomando della tv?", "tier": "A2"},
+    {"front": "il giocattolo", "pos": "noun", "back": "toy", "example": "I giocattoli sono sparsi per terra.", "tier": "A2"},
+    {"front": "scambiare per", "pos": "verb", "back": "to mistake for", "example": "L'ho scambiato per suo fratello.", "tier": "B1"},
+    {"front": "trattarsi di", "pos": "verb", "back": "to be a matter of, to be a case of", "example": "Si tratta di un errore, niente di grave.", "tier": "B1"},
+    {"front": "tempo-dipendente", "pos": "adj", "back": "time-dependent, where every minute counts", "example": "L'ictus è un'emergenza tempo-dipendente.", "tier": "B1"},
+    {"front": "il pronto soccorso", "pos": "noun", "back": "accident and emergency, casualty", "example": "L'hanno portata al pronto soccorso.", "tier": "A2"},
+    {"front": "il sospetto", "pos": "noun", "back": "suspicion", "example": "Abbiamo solo un sospetto, non una prova.", "tier": "B1"},
+    {"front": "provocare", "pos": "verb", "back": "to cause", "example": "Il fumo provoca molte malattie.", "tier": "B1"},
+    {"front": "fuori dalla portata di", "pos": "phrase", "back": "out of reach of", "example": "Tieni i farmaci fuori dalla portata dei bambini.", "tier": "B1"}
   ],
   "grammar": [
     {
-      "sentence": "Secondo una ricerca della società Jfc, il turismo dedicato alle famiglie vale oltre quindici miliardi di euro.",
-      "point": "secondo per citare una fonte",
-      "explanation": "Secondo più un nome significa in base a quello che dice qualcuno. Si usa senza preposizione davanti alla persona o alla fonte.",
-      "why_tricky": "L'errore tipico è secondo di me o secondo a me: si dice sempre secondo me, secondo te, secondo la ricerca. Attenzione anche a dedicato, participio usato come aggettivo, che concorda con turismo, maschile singolare."
+      "sentence": "Sono facili da perdere e i bambini possono scambiarli per caramelle.",
+      "point": "essere facile da + infinito",
+      "explanation": "After facile, difficile, bello and similar adjectives, da plus an infinitive gives a passive sense even though the infinitive looks active: facili da perdere means easy to lose, that is, easy to be lost.",
+      "why_tricky": "Learners often write facili a perdere or facili da essere persi. The plain active infinitive after da is the natural form. Note too that the object pronoun attaches to the end of the infinitive: scambiarli."
     },
     {
-      "sentence": "Sono regioni che da anni lavorano con le famiglie, dal mare della Puglia alle montagne del Trentino.",
-      "point": "da più espressione di tempo con il presente",
-      "explanation": "Da anni lavorano significa che hanno cominciato anni fa e continuano ancora oggi. L'italiano usa il presente, mentre l'inglese usa have been working.",
-      "why_tricky": "Molti studenti scrivono hanno lavorato da anni, copiando l'inglese. Con da e un'azione ancora in corso il presente è la forma corretta."
+      "sentence": "Significa che ogni minuto conta e che bisogna andare subito al pronto soccorso, anche solo in caso di sospetto.",
+      "point": "bisogna + infinito",
+      "explanation": "Bisogna is impersonal and only ever appears in the third person singular. It is normally followed by an infinitive (bisogna andare); when the person acting is named, it takes che plus the congiuntivo (bisogna che tu vada).",
+      "why_tricky": "It is easily confused with avere bisogno di, which is personal and is followed by a noun or an infinitive (ho bisogno di aiuto, ho bisogno di dormire). Ho bisogno andare and bisogna di andare are both wrong."
     },
     {
-      "sentence": "Chi può, parte a giugno o a settembre e spende meno.",
-      "point": "chi come pronome indefinito",
-      "explanation": "Chi qui significa le persone che, chiunque possa. Regge sempre il verbo al singolare, anche se parla di tante persone.",
-      "why_tricky": "Non va confuso con il chi delle domande. Con i mesi la forma normale oggi è a giugno, a settembre; in giugno esiste ma suona più formale."
+      "sentence": "La batteria, a contatto con i tessuti, può provocare danni molto seri in poco tempo.",
+      "point": "potere + infinito for possibility",
+      "explanation": "Può provocare here does not mean is allowed to but may or can, expressing a real risk. The modal is conjugated and the second verb stays in the infinitive.",
+      "why_tricky": "Potere covers both permission and possibility, so context decides. Note too that the third person singular is written può, with the accent."
     }
   ],
   "idioms": [
-    {"phrase": "tirare la cinghia", "meaning": "to tighten one's belt, to spend less than usual", "example": "Quest'anno tiriamo la cinghia e restiamo in Italia."},
-    {"phrase": "fare il pieno", "meaning": "to be packed out, to be fully booked (of a hotel or resort)", "example": "In agosto gli alberghi della costa fanno il pieno."}
+    {"phrase": "correre contro il tempo", "meaning": "to race against the clock", "example": "In questi casi i medici corrono contro il tempo."},
+    {"phrase": "meglio prevenire che curare", "meaning": "prevention is better than cure", "example": "Meglio prevenire che curare, quindi tieni le batterie fuori dalla portata dei bambini."}
   ],
   "comprehension": [
-    {"q": "Quanto vale il turismo dedicato alle famiglie secondo la ricerca?", "type": "open"},
-    {"q": "Quali regioni indica la ricerca come le più attente alle famiglie?", "type": "open"},
-    {"q": "Perché chi può parte a giugno o a settembre?", "type": "open"}
+    {"q": "Che cosa hanno ingerito i bambini arrivati in ospedale?", "type": "open"},
+    {"q": "Perché i medici parlano di un'emergenza tempo-dipendente?", "type": "open"},
+    {"q": "Quale consiglio danno i medici ai genitori?", "type": "open"}
   ],
-  "opinion_prompt": "Qual è la vacanza estiva ideale per te? Scrivi otto o dieci frasi e spiega dove andresti, con chi e perché."
+  "opinion_prompt": "Quali oggetti pericolosi ci sono in una casa normale e come si possono tenere lontani dai bambini? Scrivi circa 100 parole."
 }
 ]
