@@ -1,7 +1,478 @@
 {
-  "generated_at": "2026-08-17T08:45:33Z",
+  "generated_at": "2026-08-18T09:11:45Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-18-eclipse-solar-europa",
+      "title": "Las impresionantes imágenes del eclipse solar total que se pudo ver en Europa",
+      "source": "BBC Mundo",
+      "date": "2026-08-12",
+      "level": "B1-B2",
+      "topics": [
+        "ciencia",
+        "astronomía"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-18-eclipse-solar-europa",
+        "revision": 1,
+        "meta": {
+          "title": "Las impresionantes imágenes del eclipse solar total que se pudo ver en Europa",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cedjpv785qjo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-12",
+          "date_processed": "2026-08-18",
+          "tags": [
+            "ciencia",
+            "astronomía"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Millions of people in Europe enjoyed a total solar eclipse last Wednesday, a phenomenon that had not been seen on the continent for almost three decades. In Spain, the blackout was complete: for a few minutes, day turned into night and temperatures dropped noticeably. In other parts of Europe the eclipse could be observed partially, and thousands of enthusiasts went out into the street with special glasses to follow the passage of the Moon's shadow.\n\nA total eclipse happens when the Moon positions itself exactly between the Earth and the Sun and completely blocks its light. Experts remind people that looking at the Sun without proper protection can damage your eyesight permanently. In addition, Spain will soon experience other eclipses, a coincidence that astronomers consider a real rarity.",
+        "resumen_es": "Millones de personas en Europa disfrutaron el pasado miércoles de un eclipse solar total, un fenómeno que no se veía en el continente desde hace casi tres décadas. En España, la ocultación fue total: durante unos minutos, el día se convirtió en noche y las temperaturas bajaron de forma notable. En otras partes de Europa el eclipse se pudo observar de manera parcial, y miles de aficionados salieron a la calle con gafas especiales para seguir el paso de la sombra de la Luna.\n\nUn eclipse total se produce cuando la Luna se coloca exactamente entre la Tierra y el Sol y tapa por completo su luz. Los expertos recuerdan que mirar el Sol sin protección adecuada puede dañar la vista de forma permanente. Además, España vivirá próximamente otros eclipses, una coincidencia que los astrónomos consideran una auténtica rareza.",
+        "vocab": [
+          {
+            "front": "disfrutar de",
+            "pos": "verb",
+            "back": "to enjoy",
+            "example": "Disfrutamos de una vista increíble desde la terraza.",
+            "tier": "B1"
+          },
+          {
+            "front": "el fenómeno",
+            "pos": "noun",
+            "back": "phenomenon",
+            "example": "El arcoíris es un fenómeno natural muy bonito.",
+            "tier": "B1"
+          },
+          {
+            "front": "la ocultación",
+            "pos": "noun",
+            "back": "covering, blocking (of a star or planet)",
+            "example": "La ocultación del Sol duró casi cuatro minutos.",
+            "tier": "B2"
+          },
+          {
+            "front": "convertirse en",
+            "pos": "verb",
+            "back": "to turn into, to become",
+            "example": "Con los años, el pueblo se convirtió en una ciudad.",
+            "tier": "B1"
+          },
+          {
+            "front": "de forma notable",
+            "pos": "phrase",
+            "back": "noticeably, remarkably",
+            "example": "El tráfico bajó de forma notable durante el verano.",
+            "tier": "B2"
+          },
+          {
+            "front": "el aficionado",
+            "pos": "noun",
+            "back": "fan, enthusiast",
+            "example": "Los aficionados a la astronomía esperaban este momento.",
+            "tier": "B1"
+          },
+          {
+            "front": "las gafas",
+            "pos": "noun",
+            "back": "glasses",
+            "example": "Necesitas gafas especiales para mirar un eclipse.",
+            "tier": "B1"
+          },
+          {
+            "front": "la sombra",
+            "pos": "noun",
+            "back": "shadow",
+            "example": "Nos sentamos a la sombra de un árbol.",
+            "tier": "B1"
+          },
+          {
+            "front": "tapar",
+            "pos": "verb",
+            "back": "to cover, to block",
+            "example": "Una nube tapó el Sol durante unos minutos.",
+            "tier": "B1"
+          },
+          {
+            "front": "dañar",
+            "pos": "verb",
+            "back": "to damage, to harm",
+            "example": "El sol fuerte puede dañar la piel.",
+            "tier": "B1"
+          },
+          {
+            "front": "la rareza",
+            "pos": "noun",
+            "back": "rarity, oddity",
+            "example": "Ver nieve en esta región es una auténtica rareza.",
+            "tier": "B2"
+          },
+          {
+            "front": "la protección adecuada",
+            "pos": "phrase",
+            "back": "proper protection",
+            "example": "Sin la protección adecuada, no debes mirar al Sol.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "un fenómeno que no se veía en el continente desde hace casi tres décadas",
+            "point": "Imperfecto + desde hace for duration up to a past moment",
+            "explanation": "The imperfect 'no se veía' with 'desde hace' expresses something that had not been happening for a period of time before the event. Spanish uses a simple imperfect where English needs 'had not been seen'.",
+            "why_tricky": "English speakers expect a past perfect here; Spanish handles it with the imperfect plus 'desde hace'."
+          },
+          {
+            "sentence": "En otras partes de Europa el eclipse se pudo observar de manera parcial",
+            "point": "Pasiva con 'se' + poder",
+            "explanation": "The construction 'se pudo observar' means 'could be observed'. The pronoun 'se' creates a passive meaning without naming who observed it.",
+            "why_tricky": "Learners often try 'fue posible observar' or a full passive; the 'se' construction is shorter and much more natural."
+          },
+          {
+            "sentence": "mirar el Sol sin protección adecuada puede dañar la vista de forma permanente",
+            "point": "Infinitive as the subject of the sentence",
+            "explanation": "The whole infinitive phrase 'mirar el Sol sin protección adecuada' acts as the subject of 'puede dañar'. Spanish uses the bare infinitive where English uses the -ing form: 'looking at the Sun'.",
+            "why_tricky": "Using 'mirando' as a subject is a classic error; Spanish requires the infinitive in this position."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "a simple vista",
+            "meaning": "with the naked eye, at first glance",
+            "example": "El cometa no se puede ver a simple vista, hace falta un telescopio."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Dónde se pudo ver el eclipse en su totalidad?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué recomiendan los expertos para mirar un eclipse sin peligro?",
+            "type": "open"
+          },
+          {
+            "q": "¿Cuándo se produce un eclipse solar total?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Te parece importante que la gente se reúna para ver fenómenos naturales como los eclipses? Escribe unas líneas explicando por qué sí o por qué no."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-18-predecir-terremotos",
+      "title": "¿Por qué es imposible predecir el momento preciso de un terremoto?",
+      "source": "BBC Mundo",
+      "date": "2026-08-12",
+      "level": "B1-B2",
+      "topics": [
+        "ciencia",
+        "terremotos"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-18-predecir-terremotos",
+        "revision": 1,
+        "meta": {
+          "title": "¿Por qué es imposible predecir el momento preciso de un terremoto?",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c62edvvy7d9o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-12",
+          "date_processed": "2026-08-18",
+          "tags": [
+            "ciencia",
+            "terremotos"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Why can science still not predict an earthquake? After the powerful quake that shook western Colombia, many people are asking themselves this question. Experts explain that tension builds up in the great geological faults over decades, and that scientists know perfectly well where the highest risk zones are. However, working out the exact instant when the ground will start to shake remains impossible with current technology.\n\nEven so, seismologists are not sitting idle. Early warning systems can give a few seconds of notice, a small margin but enough to stop trains or pause surgeries. In addition, risk maps make it possible to build more resistant buildings in dangerous regions. Prevention, specialists insist, saves many more lives than any attempt to guess the date of the next big quake.",
+        "resumen_es": "¿Por qué la ciencia todavía no puede predecir un terremoto? Tras el potente sismo que sacudió el oeste de Colombia, muchas personas se hacen esta pregunta. Los expertos explican que la tensión se acumula en las grandes fallas geológicas durante décadas, y que los científicos saben perfectamente dónde están las zonas de mayor riesgo. Sin embargo, descifrar el instante exacto en que la tierra empezará a temblar sigue siendo imposible con la tecnología actual.\n\nAun así, los sismólogos no están de brazos cruzados. Los sistemas de alerta temprana pueden avisar con unos segundos de antelación, un margen pequeño pero suficiente para frenar trenes o detener cirugías. Además, los mapas de riesgo permiten construir edificios más resistentes en las regiones peligrosas. La prevención, insisten los especialistas, salva muchas más vidas que cualquier intento de adivinar la fecha del próximo gran sismo.",
+        "vocab": [
+          {
+            "front": "predecir",
+            "pos": "verb",
+            "back": "to predict",
+            "example": "Es muy difícil predecir el tiempo con una semana de antelación.",
+            "tier": "B1"
+          },
+          {
+            "front": "el sismo",
+            "pos": "noun",
+            "back": "earthquake (Latin American usage)",
+            "example": "El sismo despertó a toda la ciudad de madrugada.",
+            "tier": "B2"
+          },
+          {
+            "front": "sacudir",
+            "pos": "verb",
+            "back": "to shake, to jolt",
+            "example": "Una fuerte explosión sacudió el edificio.",
+            "tier": "B2"
+          },
+          {
+            "front": "acumularse",
+            "pos": "verb",
+            "back": "to build up, to accumulate",
+            "example": "El estrés se acumula si no descansas nunca.",
+            "tier": "B1"
+          },
+          {
+            "front": "la falla geológica",
+            "pos": "phrase",
+            "back": "geological fault",
+            "example": "California está situada sobre una falla geológica muy activa.",
+            "tier": "B2"
+          },
+          {
+            "front": "descifrar",
+            "pos": "verb",
+            "back": "to decipher, to work out",
+            "example": "Los investigadores intentan descifrar el origen del problema.",
+            "tier": "B2"
+          },
+          {
+            "front": "temblar",
+            "pos": "verb",
+            "back": "to tremble, to shake",
+            "example": "La tierra empezó a temblar y todos salieron a la calle.",
+            "tier": "B1"
+          },
+          {
+            "front": "la alerta temprana",
+            "pos": "phrase",
+            "back": "early warning",
+            "example": "El sistema de alerta temprana avisó a la población por teléfono.",
+            "tier": "B2"
+          },
+          {
+            "front": "la antelación",
+            "pos": "noun",
+            "back": "advance notice",
+            "example": "Hay que reservar la mesa con mucha antelación.",
+            "tier": "B2"
+          },
+          {
+            "front": "frenar",
+            "pos": "verb",
+            "back": "to brake, to slow down",
+            "example": "El conductor frenó justo a tiempo.",
+            "tier": "B1"
+          },
+          {
+            "front": "la cirugía",
+            "pos": "noun",
+            "back": "surgery",
+            "example": "La cirugía duró más de tres horas.",
+            "tier": "B1"
+          },
+          {
+            "front": "adivinar",
+            "pos": "verb",
+            "back": "to guess",
+            "example": "Nadie pudo adivinar la respuesta correcta.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "descifrar el instante exacto en que la tierra empezará a temblar sigue siendo imposible con la tecnología actual",
+            "point": "seguir + gerundio",
+            "explanation": "'Sigue siendo imposible' means 'is still impossible' or 'continues to be impossible'. 'Seguir' plus the gerund expresses that a state continues.",
+            "why_tricky": "English 'still' tempts learners to say 'todavía es'; 'seguir siendo' is more idiomatic and very common in written Spanish."
+          },
+          {
+            "sentence": "muchas personas se hacen esta pregunta",
+            "point": "hacerse una pregunta (reflexive)",
+            "explanation": "'Hacerse una pregunta' literally means 'to make oneself a question', that is, to wonder. The reflexive pronoun shows the person asks the question to themselves.",
+            "why_tricky": "Without the reflexive, 'hacer una pregunta' means asking someone else; the pronoun changes the meaning."
+          },
+          {
+            "sentence": "La prevención, insisten los especialistas, salva muchas más vidas que cualquier intento de adivinar la fecha del próximo gran sismo",
+            "point": "Inserted reporting clause + comparative with 'más ... que'",
+            "explanation": "The clause 'insisten los especialistas' is inserted in the middle of the sentence, with the verb before the subject. The comparison 'muchas más vidas que' intensifies 'más' with 'muchas'.",
+            "why_tricky": "Both the inverted word order and 'muchas más' (not 'mucho más' before a feminine plural noun) trip up learners."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "estar de brazos cruzados",
+            "meaning": "to sit idle, to do nothing",
+            "example": "No podemos estar de brazos cruzados mientras suben los precios."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué saben los científicos sobre las fallas geológicas y qué no pueden saber todavía?",
+            "type": "open"
+          },
+          {
+            "q": "¿Para qué sirven los segundos de aviso de un sistema de alerta temprana?",
+            "type": "open"
+          },
+          {
+            "q": "Según los especialistas, ¿qué salva más vidas que intentar adivinar la fecha de un sismo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Vives o has vivido en una zona con riesgo de terremotos u otros desastres naturales? Escribe unas líneas sobre cómo se prepara (o debería prepararse) la gente."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-18-argentina-salud-extranjeros",
+      "title": "Argentina empieza a cobrar los servicios de salud pública a extranjeros no residentes",
+      "source": "RFI Español",
+      "date": "2026-08-12",
+      "level": "B1-B2",
+      "topics": [
+        "sociedad",
+        "salud"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-18-argentina-salud-extranjeros",
+        "revision": 1,
+        "meta": {
+          "title": "Argentina empieza a cobrar los servicios de salud pública a extranjeros no residentes",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260812-argentina-empieza-a-cobrar-los-servicios-de-salud-p%C3%BAblica-a-extranjeros-no-residentes",
+          "date_published": "2026-08-12",
+          "date_processed": "2026-08-18",
+          "tags": [
+            "sociedad",
+            "salud"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The Argentine government has started charging for public healthcare for foreigners who do not have permanent residency in the country. The measure, published in mid August, implements a decree from last year and applies in hospitals and centres managed by the national state. Until now, anyone could receive free care in the Argentine public health system, regardless of their nationality or migration status.\n\nThe government defends the change as a way of protecting the system's resources, while its critics fear that the most vulnerable people will be left without care. Free healthcare has for decades been a hallmark of Argentina, one that attracted patients from neighbouring countries. The debate reflects a wider discussion about immigration and public services in Latin America.",
+        "resumen_es": "El Gobierno argentino comenzó a cobrar la atención de salud pública a los extranjeros que no tienen residencia permanente en el país. La medida, publicada a mediados de agosto, reglamenta un decreto del año pasado y se aplica en los hospitales y centros gestionados por el Estado nacional. Hasta ahora, cualquier persona podía recibir atención gratuita en la sanidad pública argentina, sin importar su nacionalidad ni su situación migratoria.\n\nEl Ejecutivo defiende el cambio como una forma de proteger los recursos del sistema, mientras que sus críticos temen que las personas más vulnerables se queden sin atención. La sanidad gratuita ha sido durante décadas una seña de identidad de Argentina, que atraía a pacientes de países vecinos. El debate refleja una discusión más amplia sobre inmigración y servicios públicos en América Latina.",
+        "vocab": [
+          {
+            "front": "cobrar",
+            "pos": "verb",
+            "back": "to charge (money)",
+            "example": "El museo cobra cinco euros por la entrada.",
+            "tier": "B1"
+          },
+          {
+            "front": "la residencia permanente",
+            "pos": "phrase",
+            "back": "permanent residency",
+            "example": "Después de cinco años consiguió la residencia permanente.",
+            "tier": "B1"
+          },
+          {
+            "front": "la medida",
+            "pos": "noun",
+            "back": "measure (policy)",
+            "example": "El ayuntamiento anunció nuevas medidas contra el ruido.",
+            "tier": "B1"
+          },
+          {
+            "front": "reglamentar",
+            "pos": "verb",
+            "back": "to regulate, to implement (a law)",
+            "example": "El ministerio todavía tiene que reglamentar la nueva ley.",
+            "tier": "B2"
+          },
+          {
+            "front": "el decreto",
+            "pos": "noun",
+            "back": "decree",
+            "example": "El presidente firmó un decreto sobre el precio de los alquileres.",
+            "tier": "B2"
+          },
+          {
+            "front": "gestionado por",
+            "pos": "phrase",
+            "back": "managed by, run by",
+            "example": "Es un hospital gestionado por el gobierno regional.",
+            "tier": "B2"
+          },
+          {
+            "front": "gratuito",
+            "pos": "adj",
+            "back": "free of charge",
+            "example": "La entrada al parque es gratuita los domingos.",
+            "tier": "B1"
+          },
+          {
+            "front": "sin importar",
+            "pos": "phrase",
+            "back": "regardless of",
+            "example": "Todos pueden participar, sin importar su edad.",
+            "tier": "B1"
+          },
+          {
+            "front": "los recursos",
+            "pos": "noun",
+            "back": "resources",
+            "example": "El sistema no tiene recursos suficientes para todos.",
+            "tier": "B1"
+          },
+          {
+            "front": "vulnerable",
+            "pos": "adj",
+            "back": "vulnerable",
+            "example": "La ley protege a los grupos más vulnerables.",
+            "tier": "B2"
+          },
+          {
+            "front": "la seña de identidad",
+            "pos": "phrase",
+            "back": "hallmark, defining feature",
+            "example": "La paella es una seña de identidad de la cocina valenciana.",
+            "tier": "C1"
+          },
+          {
+            "front": "el país vecino",
+            "pos": "phrase",
+            "back": "neighbouring country",
+            "example": "Muchos turistas llegan desde los países vecinos.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El Gobierno argentino comenzó a cobrar la atención de salud pública a los extranjeros que no tienen residencia permanente en el país",
+            "point": "comenzar a + infinitivo",
+            "explanation": "'Comenzar a' plus infinitive expresses the start of an action: 'began to charge'. Verbs of beginning (comenzar, empezar, ponerse) all need 'a' before the infinitive.",
+            "why_tricky": "Forgetting the preposition 'a' after comenzar or empezar is one of the most common learner errors."
+          },
+          {
+            "sentence": "sus críticos temen que las personas más vulnerables se queden sin atención",
+            "point": "Subjuntivo tras verbos de emoción (temer que)",
+            "explanation": "'Temer que' expresses fear about something, so the following verb goes in the subjunctive: 'se queden', not 'se quedan'. 'Quedarse sin' means to end up without something.",
+            "why_tricky": "The trigger is the emotion verb, not the meaning of the second clause; learners often leave the indicative."
+          },
+          {
+            "sentence": "Hasta ahora, cualquier persona podía recibir atención gratuita en la sanidad pública argentina, sin importar su nacionalidad ni su situación migratoria",
+            "point": "Imperfecto for a past ongoing situation + ni",
+            "explanation": "'Podía recibir' describes how things used to work over a long period, so Spanish uses the imperfect. 'Ni' continues the negation started by 'sin importar': neither nationality nor status.",
+            "why_tricky": "Choosing between 'pudo' and 'podía' is hard; here the situation is background and habitual, so the imperfect is required."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "quedarse sin",
+            "meaning": "to run out of, to be left without",
+            "example": "Si no llegas pronto, te vas a quedar sin entradas."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿A quiénes afecta la nueva medida del Gobierno argentino?",
+            "type": "open"
+          },
+          {
+            "q": "¿Cómo funcionaba la sanidad pública argentina hasta ahora?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué argumentos dan el Gobierno y los críticos sobre este cambio?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que la sanidad pública debe ser gratuita para todos, incluidos los visitantes extranjeros? Escribe tu opinión con al menos dos argumentos."
+      }
+    },
     {
       "pack_id": "feed-2026-08-17-evolucion-extrema-animales",
       "title": "Evolución extrema: los animales que se transforman a gran velocidad para sobrevivir",
@@ -6303,499 +6774,6 @@
           }
         ],
         "opinion_prompt": "¿Qué garantías debería tener un soldado herido antes de volver al servicio activo? Escribe unas 120 palabras explicando tu postura."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-09-cohete-spacex-luna",
-      "title": "Qué puede aprender la ciencia del choque contra la Luna de un cohete de SpaceX que estaba a la deriva",
-      "source": "BBC Mundo",
-      "date": "2026-08-09",
-      "level": "B1-B2",
-      "topics": [
-        "ciencia",
-        "espacio"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-09-cohete-spacex-luna",
-        "revision": 1,
-        "meta": {
-          "title": "Qué puede aprender la ciencia del choque contra la Luna de un cohete de SpaceX que estaba a la deriva",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c4g3764dm5do?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-05",
-          "date_processed": "2026-08-09",
-          "tags": [
-            "ciencia",
-            "espacio"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "A SpaceX rocket that had spent years adrift in space finally crashed into the Moon on Wednesday. The impact poses no danger to Earth, but it has aroused enormous interest among astronomers, who had been tracking the object for months. Unlike the countless meteorite strikes the Moon has suffered over millions of years, in this case scientists knew beforehand where and when it was going to happen.\n\nThat advantage turns the event into a kind of open air experiment. By observing the freshly formed crater, researchers can check how the lunar soil behaves under a high speed blow and fine tune the models used to calculate the age of other surfaces in the solar system. The episode also revives the debate about space junk, since there are more and more pieces of rockets and satellites still going round out of control.",
-        "resumen_es": "Un cohete de SpaceX que llevaba años a la deriva terminó estrellándose contra la Luna este miércoles. El impacto no supone ningún peligro para la Tierra, pero ha despertado un enorme interés entre los astrónomos, que llevaban meses siguiendo el objeto. A diferencia de los innumerables choques de meteoritos que ha sufrido la Luna, esta vez los científicos sabían de antemano dónde y cuándo se iba a producir.\n\nEsa ventaja convierte el suceso en una especie de experimento a cielo abierto. Al observar el cráter recién formado, los investigadores pueden comprobar cómo se comporta el suelo lunar ante un golpe de gran velocidad y afinar los modelos que sirven para calcular la edad de otras superficies del sistema solar. El episodio también reaviva el debate sobre la basura espacial, ya que cada vez son más los restos de cohetes y satélites que siguen dando vueltas sin control.",
-        "vocab": [
-          {
-            "front": "a la deriva",
-            "pos": "phrase",
-            "back": "adrift, drifting without control",
-            "example": "La barca quedó a la deriva durante toda la noche.",
-            "tier": "B2"
-          },
-          {
-            "front": "estrellarse contra",
-            "pos": "verb",
-            "back": "to crash into",
-            "example": "El coche se estrelló contra un muro.",
-            "tier": "B1"
-          },
-          {
-            "front": "de antemano",
-            "pos": "adv",
-            "back": "beforehand, in advance",
-            "example": "Conviene reservar de antemano.",
-            "tier": "B2"
-          },
-          {
-            "front": "el cráter",
-            "pos": "noun",
-            "back": "crater",
-            "example": "El cráter mide varios metros de diámetro.",
-            "tier": "B1"
-          },
-          {
-            "front": "el suceso",
-            "pos": "noun",
-            "back": "event, incident",
-            "example": "El suceso ocurrió de madrugada.",
-            "tier": "B1"
-          },
-          {
-            "front": "afinar",
-            "pos": "verb",
-            "back": "to fine tune, to refine",
-            "example": "Los ingenieros afinaron el cálculo con datos nuevos.",
-            "tier": "B2"
-          },
-          {
-            "front": "reavivar",
-            "pos": "verb",
-            "back": "to revive, to rekindle",
-            "example": "La noticia reavivó viejas polémicas.",
-            "tier": "C1"
-          },
-          {
-            "front": "la basura espacial",
-            "pos": "noun",
-            "back": "space junk",
-            "example": "La basura espacial preocupa a las agencias espaciales.",
-            "tier": "B2"
-          },
-          {
-            "front": "los restos",
-            "pos": "noun",
-            "back": "remains, debris",
-            "example": "Los restos del satélite cayeron en el océano.",
-            "tier": "B1"
-          },
-          {
-            "front": "innumerable",
-            "pos": "adj",
-            "back": "countless",
-            "example": "Recibió innumerables mensajes de apoyo.",
-            "tier": "B2"
-          },
-          {
-            "front": "suponer un peligro",
-            "pos": "phrase",
-            "back": "to pose a danger",
-            "example": "El escape no supone un peligro para los vecinos.",
-            "tier": "B2"
-          },
-          {
-            "front": "dar vueltas",
-            "pos": "phrase",
-            "back": "to go round, to orbit",
-            "example": "El satélite da vueltas alrededor de la Tierra.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "El impacto no supone ningún peligro para la Tierra, pero ha despertado un enorme interés entre los astrónomos",
-            "point": "doble negación con ningún y uso del pretérito perfecto",
-            "explanation": "En español la negación se refuerza: no + verbo + ningún. Además, ha despertado es pretérito perfecto porque el efecto sigue vigente en el presente periodístico.",
-            "why_tricky": "En inglés no se admite la doble negación, y el present perfect tiene reglas distintas. Aquí ningún pierde la o final delante de un sustantivo masculino singular."
-          },
-          {
-            "sentence": "los científicos sabían de antemano dónde y cuándo se iba a producir",
-            "point": "interrogativas indirectas con tilde e ir a + infinitivo en pasado",
-            "explanation": "Dónde y cuándo llevan tilde también dentro de una oración enunciativa, porque siguen siendo interrogativos. Iba a producirse expresa un futuro visto desde el pasado.",
-            "why_tricky": "Es fácil quitar la tilde al no haber signos de interrogación, y confundir iba a producirse con se produciría, que suena más formal y distante."
-          },
-          {
-            "sentence": "cada vez son más los restos de cohetes y satélites que siguen dando vueltas sin control",
-            "point": "cada vez más y seguir + gerundio",
-            "explanation": "Cada vez más indica progresión creciente. Seguir + gerundio expresa que una acción continúa: siguen dando vueltas, no siguen dar vueltas.",
-            "why_tricky": "El inglés usa to keep + ing pero también still + verbo, y el estudiante suele poner infinitivo detrás de seguir."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "a cielo abierto",
-            "meaning": "in the open air, out in the open",
-            "example": "Trabajan en una mina a cielo abierto."
-          },
-          {
-            "phrase": "quedar a la deriva",
-            "meaning": "to be left drifting, with no direction",
-            "example": "Sin financiación, el proyecto quedó a la deriva."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué este choque interesa tanto a los astrónomos?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué información pueden obtener los investigadores al estudiar el cráter?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué problema más amplio recuerda el texto al final?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Quién debería pagar la limpieza de la basura espacial: las empresas privadas, los Estados o los dos? Escribe unas 120 palabras justificando tu respuesta."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-09-volcan-fuego-guatemala",
-      "title": "Guatemala: Evacuación y alerta roja por la erupción del volcán de Fuego",
-      "source": "RFI en español",
-      "date": "2026-08-09",
-      "level": "B1-B2",
-      "topics": [
-        "desastres",
-        "Guatemala"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-09-volcan-fuego-guatemala",
-        "revision": 1,
-        "meta": {
-          "title": "Guatemala: Evacuación y alerta roja por la erupción del volcán de Fuego",
-          "source": "RFI en español",
-          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260805-guatemala-evacuaci%C3%B3n-y-alerta-roja-por-la-erupci%C3%B3n-del-volc%C3%A1n-de-fuego",
-          "date_published": "2026-08-05",
-          "date_processed": "2026-08-09",
-          "tags": [
-            "desastres",
-            "Guatemala"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Guatemala has declared a red alert after a powerful eruption of the Volcan de Fuego, one of the most active volcanoes in Latin America. At least 1,500 people were evacuated from the villages near the crater and taken to shelters, while the authorities kept watch on falling ash and on the hot material coming down the slopes. The alert covers the departments of Sacatepequez, Chimaltenango and Escuintla, where some 1.6 million people live.\n\nThe volcano is part of daily life for the communities around it, which have spent generations farming on its lower slopes despite the risk. Earlier eruptions left a deep mark on the country and explain why evacuations are now ordered so quickly. In the coming days civil protection teams will follow activity at the crater closely and will decide whether residents can go back to their homes or whether it is better to widen the safety zone.",
-        "resumen_es": "Guatemala ha decretado la alerta roja tras una potente erupción del volcán de Fuego, uno de los más activos de América Latina. Al menos 1.500 personas fueron evacuadas de las aldeas cercanas al cráter y trasladadas a albergues, mientras las autoridades vigilaban la ceniza y el material caliente que bajaba por las laderas. La alerta afecta a los departamentos de Sacatepéquez, Chimaltenango y Escuintla, donde viven 1,6 millones de personas.\n\nEl volcán forma parte de la vida cotidiana de las comunidades que lo rodean, que llevan generaciones cultivando en sus faldas pese al riesgo. Las erupciones anteriores dejaron una huella profunda en el país y explican la rapidez de las evacuaciones actuales. En los próximos días, los equipos de protección civil seguirán de cerca la actividad del cráter y decidirán si los vecinos pueden regresar a sus casas o si conviene ampliar la zona de seguridad.",
-        "vocab": [
-          {
-            "front": "decretar la alerta roja",
-            "pos": "phrase",
-            "back": "to declare a red alert",
-            "example": "El gobierno decretó la alerta roja en toda la costa.",
-            "tier": "B2"
-          },
-          {
-            "front": "la erupción",
-            "pos": "noun",
-            "back": "eruption",
-            "example": "La erupción duró varias horas.",
-            "tier": "B1"
-          },
-          {
-            "front": "evacuar",
-            "pos": "verb",
-            "back": "to evacuate",
-            "example": "Evacuaron el edificio en diez minutos.",
-            "tier": "B1"
-          },
-          {
-            "front": "el albergue",
-            "pos": "noun",
-            "back": "shelter",
-            "example": "Las familias pasaron la noche en un albergue municipal.",
-            "tier": "B1"
-          },
-          {
-            "front": "la ceniza",
-            "pos": "noun",
-            "back": "ash",
-            "example": "La ceniza cubrió los tejados del pueblo.",
-            "tier": "B1"
-          },
-          {
-            "front": "la ladera",
-            "pos": "noun",
-            "back": "hillside, slope",
-            "example": "Bajaron por la ladera con mucho cuidado.",
-            "tier": "B2"
-          },
-          {
-            "front": "las faldas del volcán",
-            "pos": "phrase",
-            "back": "the lower slopes of the volcano",
-            "example": "Cultivan café en las faldas del volcán.",
-            "tier": "B2"
-          },
-          {
-            "front": "la aldea",
-            "pos": "noun",
-            "back": "village, hamlet",
-            "example": "La aldea tiene menos de cien habitantes.",
-            "tier": "B1"
-          },
-          {
-            "front": "dejar una huella",
-            "pos": "phrase",
-            "back": "to leave a mark",
-            "example": "Aquella tragedia dejó una huella profunda en la región.",
-            "tier": "B2"
-          },
-          {
-            "front": "pese a",
-            "pos": "phrase",
-            "back": "despite, in spite of",
-            "example": "Salieron a trabajar pese a la lluvia.",
-            "tier": "B2"
-          },
-          {
-            "front": "seguir de cerca",
-            "pos": "phrase",
-            "back": "to monitor closely",
-            "example": "Los expertos siguen de cerca la evolución del terremoto.",
-            "tier": "B2"
-          },
-          {
-            "front": "la protección civil",
-            "pos": "noun",
-            "back": "civil protection, emergency services",
-            "example": "La protección civil repartió agua y mantas.",
-            "tier": "B1"
-          },
-          {
-            "front": "convenir",
-            "pos": "verb",
-            "back": "to be advisable",
-            "example": "Conviene esperar antes de volver a casa.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Guatemala ha decretado la alerta roja tras una potente erupción del volcán de Fuego",
-            "point": "pretérito perfecto para noticias recientes y tras como preposición culta",
-            "explanation": "El pretérito perfecto conecta el hecho con el presente, algo típico del lenguaje periodístico peninsular. Tras equivale a después de, pero es más breve y formal.",
-            "why_tricky": "En gran parte de América se preferiría decretó, en pretérito indefinido, y tras se sustituiría por después de en el registro hablado."
-          },
-          {
-            "sentence": "que llevan generaciones cultivando en sus faldas pese al riesgo",
-            "point": "llevar + expresión de tiempo + gerundio",
-            "explanation": "Esta estructura mide cuánto tiempo dura una acción que sigue viva. Llevan generaciones cultivando equivale a han cultivado durante generaciones y siguen haciéndolo.",
-            "why_tricky": "El inglés usa el present perfect continuous (have been farming for generations), sin ningún verbo equivalente a llevar, así que la construcción no se traduce palabra por palabra."
-          },
-          {
-            "sentence": "decidirán si los vecinos pueden regresar a sus casas o si conviene ampliar la zona de seguridad",
-            "point": "interrogativa indirecta con si y verbo impersonal convenir",
-            "explanation": "Si introduce una pregunta indirecta de respuesta cerrada y va seguido de indicativo, nunca de subjuntivo. Convenir funciona aquí sin sujeto personal: conviene ampliar.",
-            "why_tricky": "El estudiante suele poner subjuntivo detrás de si por analogía con las oraciones condicionales irreales, donde sí aparece (si tuviera...)."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "estar en alerta roja",
-            "meaning": "to be on maximum alert",
-            "example": "Tres provincias siguen en alerta roja por el temporal."
-          },
-          {
-            "phrase": "dejar una huella profunda",
-            "meaning": "to leave a lasting mark",
-            "example": "Aquel invierno dejó una huella profunda en el pueblo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué medidas tomaron las autoridades tras la erupción?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué sigue viviendo tanta gente cerca del volcán?",
-            "type": "open"
-          },
-          {
-            "q": "¿De qué dependerá el regreso de los vecinos a sus casas?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Se debería prohibir vivir en zonas de alto riesgo volcánico o basta con mejorar los sistemas de alerta? Escribe unas 120 palabras con tu opinión."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-08-super-el-nino-america-latina",
-      "title": "Los graves efectos que los científicos pronostican en América Latina por el fenómeno del \"Súper El Niño\"",
-      "source": "BBC Mundo",
-      "date": "2026-08-08",
-      "level": "B1-B2",
-      "topics": [
-        "clima",
-        "ciencia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-08-super-el-nino-america-latina",
-        "revision": 1,
-        "meta": {
-          "title": "Los graves efectos que los científicos pronostican en América Latina por el fenómeno del \"Súper El Niño\"",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/crrvepyp5g2o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-06",
-          "date_processed": "2026-08-08",
-          "tags": [
-            "clima",
-            "ciencia"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Scientists are warning that a particularly intense episode of El Nino, nicknamed \"Super El Nino\", will disrupt the climate of Latin America over the coming months. According to the experts quoted by the BBC, much of the region will face more extreme weather: longer heatwaves, prolonged droughts in some areas and torrential rain in others.\n\nEl Nino is a periodic warming of the waters of the Pacific that changes the winds and the distribution of rainfall across the whole planet. Its consequences are not only meteorological: when harvests are lost, food prices rise and pressure on hospitals increases. That is why governments tend to strengthen emergency plans, monitor reservoirs and warn farmers in advance. Researchers insist that adapting in time works out far cheaper than repairing the damage afterwards.",
-        "resumen_es": "Los científicos advierten de que un episodio especialmente intenso de El Niño, bautizado como \"Súper El Niño\", alterará el clima de América Latina en los próximos meses. Según los expertos citados por la BBC, buena parte de la región se enfrentará a un tiempo más extremo: olas de calor más largas, sequías prolongadas en unas zonas y lluvias torrenciales en otras.\n\nEl Niño es un calentamiento periódico de las aguas del Pacífico que altera los vientos y el reparto de las lluvias en todo el planeta. Sus consecuencias no son solo meteorológicas: cuando se pierden las cosechas, suben los precios de los alimentos y aumenta la presión sobre los hospitales. Por eso los gobiernos suelen reforzar los planes de emergencia, vigilar los embalses y avisar a los agricultores con antelación. Los investigadores insisten en que adaptarse a tiempo sale mucho más barato que reparar los daños después.",
-        "vocab": [
-          {
-            "front": "advertir de algo",
-            "pos": "verb",
-            "back": "to warn about something",
-            "example": "Los meteorólogos advirtieron de un descenso brusco de las temperaturas.",
-            "tier": "B1"
-          },
-          {
-            "front": "la ola de calor",
-            "pos": "noun",
-            "back": "heatwave",
-            "example": "La ola de calor dejó sin clases a media provincia.",
-            "tier": "B1"
-          },
-          {
-            "front": "la sequía",
-            "pos": "noun",
-            "back": "drought",
-            "example": "La sequía obligó a racionar el agua en varios pueblos.",
-            "tier": "B1"
-          },
-          {
-            "front": "torrencial",
-            "pos": "adj",
-            "back": "torrential",
-            "example": "Las lluvias torrenciales cortaron la carretera principal.",
-            "tier": "B2"
-          },
-          {
-            "front": "el embalse",
-            "pos": "noun",
-            "back": "reservoir",
-            "example": "El embalse está al treinta por ciento de su capacidad.",
-            "tier": "B2"
-          },
-          {
-            "front": "la cosecha",
-            "pos": "noun",
-            "back": "harvest, crop",
-            "example": "La cosecha de este año fue peor de lo previsto.",
-            "tier": "B1"
-          },
-          {
-            "front": "con antelación",
-            "pos": "phrase",
-            "back": "in advance",
-            "example": "Conviene reservar con antelación si viajas en agosto.",
-            "tier": "B1"
-          },
-          {
-            "front": "el reparto",
-            "pos": "noun",
-            "back": "distribution, sharing out",
-            "example": "El reparto de las ayudas generó protestas.",
-            "tier": "B2"
-          },
-          {
-            "front": "por encima de lo normal",
-            "pos": "phrase",
-            "back": "above what is normal",
-            "example": "Las ventas están por encima de lo normal para esta época.",
-            "tier": "B1"
-          },
-          {
-            "front": "reforzar",
-            "pos": "verb",
-            "back": "to strengthen, to step up",
-            "example": "El ayuntamiento reforzó la vigilancia en las playas.",
-            "tier": "B1"
-          },
-          {
-            "front": "los daños",
-            "pos": "noun",
-            "back": "damage",
-            "example": "El seguro cubrió los daños de la tormenta.",
-            "tier": "B1"
-          },
-          {
-            "front": "salir barato",
-            "pos": "phrase",
-            "back": "to work out cheap",
-            "example": "Al final, arreglarlo nos salió barato.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Los científicos advierten de que un episodio especialmente intenso de El Niño, bautizado como \"Súper El Niño\", alterará el clima de América Latina en los próximos meses.",
-            "point": "Future simple for predictions",
-            "explanation": "Alterará is the future of alterar. Spanish uses the simple future to talk about what is expected to happen, and here it follows a verb of warning.",
-            "why_tricky": "English often uses will plus infinitive in both halves, but Spanish keeps advertir in the present and puts only the predicted event in the future."
-          },
-          {
-            "sentence": "Por eso los gobiernos suelen reforzar los planes de emergencia, vigilar los embalses y avisar a los agricultores con antelación.",
-            "point": "soler plus infinitive",
-            "explanation": "Soler expresses habitual action: suelen reforzar means they usually strengthen. It is followed directly by the infinitive and here governs three infinitives in a list.",
-            "why_tricky": "There is no single English verb for soler, so learners tend to say normalmente refuerzan instead of the more natural suelen reforzar."
-          },
-          {
-            "sentence": "Los investigadores insisten en que adaptarse a tiempo sale mucho más barato que reparar los daños después.",
-            "point": "Comparison with mucho más ... que",
-            "explanation": "Mucho más barato que compares two actions expressed as infinitives: adaptarse and reparar. Mucho intensifies the comparative.",
-            "why_tricky": "Learners often say muy más barato; muy can never modify a comparative, only mucho can."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "adaptarse a tiempo",
-            "meaning": "to adapt while there is still time to avoid the worst",
-            "example": "Si nos adaptamos a tiempo, el coste será mucho menor."
-          },
-          {
-            "phrase": "estar por encima de lo normal",
-            "meaning": "to be above usual levels",
-            "example": "El gasto en luz está por encima de lo normal este verano."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué efectos concretos se esperan en América Latina por el Súper El Niño?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué dice el texto que las consecuencias no son solo meteorológicas?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué medidas suelen tomar los gobiernos antes de que llegue el fenómeno?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Escribe unas 120 palabras: ¿crees que tu país está preparado para fenómenos climáticos extremos? Explica qué medidas te parecen más urgentes y por qué."
       }
     }
   ]
