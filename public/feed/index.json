@@ -1,7 +1,493 @@
 {
-  "generated_at": "2026-08-20T20:13:16Z",
+  "generated_at": "2026-08-21T09:01:26Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-21-pescadores-rescatados-mexico",
+      "title": "Los pescadores rescatados en México tras pasar cinco días a la deriva en el mar aferrados a una hielera",
+      "source": "BBC Mundo",
+      "date": "2026-08-20",
+      "level": "B1-B2",
+      "topics": [
+        "supervivencia",
+        "México"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-21-pescadores-rescatados-mexico",
+        "revision": 1,
+        "meta": {
+          "title": "Los pescadores rescatados en México tras pasar cinco días a la deriva en el mar aferrados a una hielera",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cx2d9yvj4qeo",
+          "date_published": "2026-08-20",
+          "date_processed": "2026-08-21",
+          "tags": [
+            "supervivencia",
+            "México"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Daniel and Jose, two small-scale fishermen from Chiapas in southern Mexico, spent five days adrift on the open sea after their boat broke down. With no drinking water or food, the two men managed to survive by clinging to a cooler for the entire ordeal. The Mexican Navy finally located them at a point where, according to the rescuers themselves, spotting them had seemed almost impossible.\n\nThe case has highlighted the risks faced by small-scale fishing in the region, an activity that thousands of coastal families depend on despite the lack of proper safety equipment. Local authorities have called for stronger emergency protocols for small boats, while Daniel and Jose recover surrounded by relatives, grateful to have survived a wait that many described as miraculous.",
+        "resumen_es": "Daniel y José, dos pescadores artesanales de Chiapas, en el sur de México, pasaron cinco días a la deriva en alta mar tras sufrir una avería en su embarcación. Sin agua potable ni comida, los dos hombres lograron sobrevivir gracias a una hielera a la que se aferraron durante toda la travesía. La Armada de México los localizó finalmente en un punto donde, según los propios rescatistas, parecía casi imposible detectarlos.\n\nEl caso ha puesto de relieve los riesgos que enfrenta la pesca artesanal en la región, una actividad de la que dependen miles de familias costeras pese a la falta de equipos de seguridad adecuados. Autoridades locales han pedido reforzar los protocolos de emergencia para embarcaciones pequeñas, mientras Daniel y José se recuperan rodeados de sus familiares, agradecidos por haber sobrevivido a una espera que muchos calificaron de milagrosa.",
+        "vocab": [
+          {
+            "front": "pescador artesanal",
+            "pos": "noun",
+            "back": "small-scale fisherman",
+            "example": "Es pescador artesanal desde hace veinte años.",
+            "tier": "B1"
+          },
+          {
+            "front": "a la deriva",
+            "pos": "phrase",
+            "back": "adrift",
+            "example": "El barco quedó a la deriva tras el motor averiado.",
+            "tier": "B2"
+          },
+          {
+            "front": "alta mar",
+            "pos": "noun",
+            "back": "open sea",
+            "example": "Pasaron cinco días en alta mar.",
+            "tier": "B1"
+          },
+          {
+            "front": "avería",
+            "pos": "noun",
+            "back": "breakdown, malfunction",
+            "example": "Sufrieron una avería en el motor.",
+            "tier": "B2"
+          },
+          {
+            "front": "aferrarse a",
+            "pos": "verb",
+            "back": "to cling to",
+            "example": "Se aferraron a una hielera para sobrevivir.",
+            "tier": "B2"
+          },
+          {
+            "front": "travesía",
+            "pos": "noun",
+            "back": "crossing, voyage",
+            "example": "La travesía duró cinco días.",
+            "tier": "B2"
+          },
+          {
+            "front": "localizar",
+            "pos": "verb",
+            "back": "to locate",
+            "example": "La Armada los localizó cerca de la costa.",
+            "tier": "B1"
+          },
+          {
+            "front": "poner de relieve",
+            "pos": "phrase",
+            "back": "to highlight",
+            "example": "El caso puso de relieve los riesgos del oficio.",
+            "tier": "B2"
+          },
+          {
+            "front": "embarcación",
+            "pos": "noun",
+            "back": "vessel, boat",
+            "example": "La embarcación era pequeña y sin radio.",
+            "tier": "B1"
+          },
+          {
+            "front": "reforzar",
+            "pos": "verb",
+            "back": "to strengthen",
+            "example": "Piden reforzar los protocolos de seguridad.",
+            "tier": "B1"
+          },
+          {
+            "front": "rescatista",
+            "pos": "noun",
+            "back": "rescuer",
+            "example": "Los rescatistas no esperaban encontrarlos con vida.",
+            "tier": "B1"
+          },
+          {
+            "front": "milagroso/a",
+            "pos": "adj",
+            "back": "miraculous",
+            "example": "Calificaron el rescate de milagroso.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Daniel y José, dos pescadores artesanales de Chiapas, en el sur de México, pasaron cinco días a la deriva en alta mar tras sufrir una avería en su embarcación.",
+            "point": "tras + infinitivo para expresar posterioridad",
+            "explanation": "\"Tras sufrir\" indica que la avería ocurrió inmediatamente antes de quedar a la deriva, sin necesidad de un verbo conjugado.",
+            "why_tricky": "Los estudiantes suelen usar \"después de que\" con verbo conjugado en vez de \"tras + infinitivo\", más propio de un registro periodístico."
+          },
+          {
+            "sentence": "Sin agua potable ni comida, los dos hombres lograron sobrevivir gracias a una hielera a la que se aferraron durante toda la travesía.",
+            "point": "pronombre relativo con preposición \"a la que\"",
+            "explanation": "\"A la que\" retoma \"una hielera\" e incorpora la preposición exigida por \"aferrarse a\".",
+            "why_tricky": "Combinar preposición + artículo + \"que\" en una sola construcción resulta difícil para hablantes no nativos."
+          },
+          {
+            "sentence": "El caso ha puesto de relieve los riesgos que enfrenta la pesca artesanal en la región, una actividad de la que dependen miles de familias costeras pese a la falta de equipos de seguridad adecuados.",
+            "point": "uso de \"pese a\" + sustantivo",
+            "explanation": "\"Pese a\" introduce una idea de contraste equivalente a \"a pesar de\", seguida aquí de un sustantivo en lugar de una oración completa.",
+            "why_tricky": "Los estudiantes de B1 suelen limitarse a \"aunque\" y evitan conectores concesivos más variados como \"pese a\"."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "a la deriva",
+            "meaning": "sin rumbo ni control, dejado al azar",
+            "example": "El proyecto quedó a la deriva sin financiación."
+          },
+          {
+            "phrase": "poner de relieve",
+            "meaning": "destacar o hacer evidente algo",
+            "example": "La crisis puso de relieve la falta de recursos."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué crees que sintieron Daniel y José durante los cinco días a la deriva?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué crees que la pesca artesanal sigue siendo tan peligrosa pese a los avances tecnológicos?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué medidas de seguridad propondrías tú para proteger a los pescadores artesanales?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Escribe un párrafo breve sobre qué harías tú para sobrevivir si te quedaras varado en el mar durante varios días."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-21-hackers-adolescentes-reino-unido",
+      "title": "Los hackers adolescentes que preocupan a Reino Unido (y cómo buscan rehabilitarlos)",
+      "source": "BBC Mundo",
+      "date": "2026-08-19",
+      "level": "B1-B2",
+      "topics": [
+        "tecnología",
+        "ciberseguridad"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-21-hackers-adolescentes-reino-unido",
+        "revision": 1,
+        "meta": {
+          "title": "Los hackers adolescentes que preocupan a Reino Unido (y cómo buscan rehabilitarlos)",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cd697y1wep4o",
+          "date_published": "2026-08-19",
+          "date_processed": "2026-08-21",
+          "tags": [
+            "tecnología",
+            "ciberseguridad"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "In the United Kingdom, there is growing concern about the rise in teenagers involved in cybercrime, many of them driven by curiosity or a desire for recognition among their friends. To tackle this trend, authorities have launched a programme called Cyber Prevent, aimed mainly at children and young men at risk of becoming involved in cybercrime.\n\nThe programme aims to intervene before these young people commit serious offences, offering them guidance, technical training and legal alternatives to channel their computer skills. Experts warn that many teenage hackers are not aware of how serious their actions are until they receive a visit from the police, and they hope initiatives like this one can reduce reoffending and steer their talent towards cybersecurity.",
+        "resumen_es": "En Reino Unido preocupa cada vez más el aumento de adolescentes implicados en delitos informáticos, muchos de ellos motivados por la curiosidad o el deseo de reconocimiento entre sus grupos de amigos. Para hacer frente a este fenómeno, las autoridades han puesto en marcha un programa llamado Cyber Prevent, dirigido principalmente a niños y hombres jóvenes en riesgo de involucrarse en la ciberdelincuencia.\n\nEl programa busca intervenir antes de que estos jóvenes cometan delitos graves, ofreciéndoles orientación, formación técnica y alternativas legales para canalizar sus habilidades informáticas. Los expertos advierten que muchos hackers adolescentes no son conscientes de la gravedad de sus actos hasta que reciben una visita policial, y confían en que iniciativas como esta puedan reducir la reincidencia y encaminar el talento hacia la ciberseguridad.",
+        "vocab": [
+          {
+            "front": "delito informático",
+            "pos": "noun",
+            "back": "cybercrime",
+            "example": "Fue acusado de un delito informático.",
+            "tier": "B2"
+          },
+          {
+            "front": "ciberdelincuencia",
+            "pos": "noun",
+            "back": "cybercrime (as a phenomenon)",
+            "example": "El programa combate la ciberdelincuencia juvenil.",
+            "tier": "B2"
+          },
+          {
+            "front": "hacer frente a",
+            "pos": "phrase",
+            "back": "to tackle, face up to",
+            "example": "El gobierno debe hacer frente a este fenómeno.",
+            "tier": "B1"
+          },
+          {
+            "front": "poner en marcha",
+            "pos": "phrase",
+            "back": "to launch, set in motion",
+            "example": "Pusieron en marcha un nuevo programa.",
+            "tier": "B1"
+          },
+          {
+            "front": "orientación",
+            "pos": "noun",
+            "back": "guidance",
+            "example": "Les ofrecen orientación profesional.",
+            "tier": "B1"
+          },
+          {
+            "front": "canalizar",
+            "pos": "verb",
+            "back": "to channel",
+            "example": "Quieren canalizar su talento hacia algo positivo.",
+            "tier": "B2"
+          },
+          {
+            "front": "advertir",
+            "pos": "verb",
+            "back": "to warn",
+            "example": "Los expertos advierten sobre los riesgos.",
+            "tier": "B1"
+          },
+          {
+            "front": "gravedad",
+            "pos": "noun",
+            "back": "seriousness",
+            "example": "No entendían la gravedad de sus actos.",
+            "tier": "B2"
+          },
+          {
+            "front": "reincidencia",
+            "pos": "noun",
+            "back": "reoffending",
+            "example": "Buscan reducir la reincidencia.",
+            "tier": "B2"
+          },
+          {
+            "front": "encaminar",
+            "pos": "verb",
+            "back": "to steer, direct",
+            "example": "Quieren encaminar su talento hacia la ciberseguridad.",
+            "tier": "B2"
+          },
+          {
+            "front": "estar en riesgo de",
+            "pos": "phrase",
+            "back": "to be at risk of",
+            "example": "Están en riesgo de cometer delitos.",
+            "tier": "B1"
+          },
+          {
+            "front": "habilidad informática",
+            "pos": "noun",
+            "back": "computer skill",
+            "example": "Tiene grandes habilidades informáticas.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "En Reino Unido preocupa cada vez más el aumento de adolescentes implicados en delitos informáticos, muchos de ellos motivados por la curiosidad o el deseo de reconocimiento entre sus grupos de amigos.",
+            "point": "verbo \"preocupar\" con sujeto pospuesto",
+            "explanation": "Al igual que \"gustar\", \"preocupar\" concuerda con el sujeto real (\"el aumento\"), no con la persona afectada, que aparece como objeto indirecto implícito.",
+            "why_tricky": "Los estudiantes suelen forzar la estructura sujeto-verbo-objeto típica del inglés en vez de usar este orden inverso tan común en español."
+          },
+          {
+            "sentence": "El programa busca intervenir antes de que estos jóvenes cometan delitos graves, ofreciéndoles orientación, formación técnica y alternativas legales para canalizar sus habilidades informáticas.",
+            "point": "subjuntivo tras \"antes de que\"",
+            "explanation": "La conjunción temporal \"antes de que\" exige siempre subjuntivo (\"cometan\") porque introduce una acción posterior o hipotética.",
+            "why_tricky": "Los estudiantes de B1 suelen olvidar el subjuntivo tras conectores temporales de este tipo."
+          },
+          {
+            "sentence": "Los expertos advierten que muchos hackers adolescentes no son conscientes de la gravedad de sus actos hasta que reciben una visita policial, y confían en que iniciativas como esta puedan reducir la reincidencia y encaminar el talento hacia la ciberseguridad.",
+            "point": "subjuntivo con \"confiar en que\"",
+            "explanation": "El verbo \"confiar\" seguido de \"en que\" para expresar esperanza requiere subjuntivo (\"puedan\") al tratarse de un deseo no confirmado.",
+            "why_tricky": "Confundir el indicativo y el subjuntivo tras verbos de sentimiento o esperanza es habitual en niveles B1-B2."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "hacer frente a",
+            "meaning": "enfrentar o afrontar una situación difícil",
+            "example": "La escuela debe hacer frente al acoso escolar."
+          },
+          {
+            "phrase": "poner en marcha",
+            "meaning": "iniciar o activar un proyecto o proceso",
+            "example": "La empresa puso en marcha un nuevo plan de seguridad."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué crees que algunos adolescentes se sienten atraídos por la ciberdelincuencia?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué opinas de programas como Cyber Prevent que intentan reorientar el talento de los jóvenes hackers?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué otras medidas propondrías para prevenir los delitos informáticos entre los jóvenes?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Escribe un párrafo sobre si crees que la tecnología debería enseñarse en las escuelas junto con normas claras sobre ciberseguridad y ética digital."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-21-evergrande-cadena-perpetua",
+      "title": "Condenan a cadena perpetua a Hui Ka Yan, fundador del gigante inmobiliario chino Evergrande",
+      "source": "BBC Mundo",
+      "date": "2026-08-20",
+      "level": "B1-B2",
+      "topics": [
+        "economía",
+        "China"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-21-evergrande-cadena-perpetua",
+        "revision": 1,
+        "meta": {
+          "title": "Condenan a cadena perpetua a Hui Ka Yan, fundador del gigante inmobiliario chino Evergrande",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cx2kr9n31qgo",
+          "date_published": "2026-08-20",
+          "date_processed": "2026-08-21",
+          "tags": [
+            "economía",
+            "China"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "A Chinese court sentenced Hui Ka Yan, founder of the property giant Evergrande, to life in prison as part of the legal fallout from the company's collapse. The ruling marks a key moment in the crisis that shook China's real estate sector, one of the traditional pillars of the country's economy.\n\nEvergrande racked up massive debt before collapsing, leaving thousands of buyers without the homes they had already paid for and sending shockwaves through global financial markets. Hui's case adds to other proceedings against former company executives and reflects Chinese authorities' effort to show a firm hand against the excesses of the real estate sector after years of unchecked expansion.",
+        "resumen_es": "Un tribunal chino condenó a cadena perpetua a Hui Ka Yan, fundador del gigante inmobiliario Evergrande, en el marco de las consecuencias legales derivadas del colapso de la empresa. La sentencia marca un momento clave dentro de la crisis que sacudió al sector inmobiliario chino, uno de los pilares tradicionales de la economía del país.\n\nEvergrande acumuló una deuda multimillonaria antes de derrumbarse, dejando a miles de compradores sin las viviendas que ya habían pagado y generando ondas de choque en los mercados financieros globales. El caso de Hui se suma a otros procesos contra exdirectivos de la compañía y refleja el esfuerzo de las autoridades chinas por demostrar mano dura frente a los excesos del sector inmobiliario tras años de expansión descontrolada.",
+        "vocab": [
+          {
+            "front": "cadena perpetua",
+            "pos": "noun",
+            "back": "life imprisonment",
+            "example": "Fue condenado a cadena perpetua.",
+            "tier": "B2"
+          },
+          {
+            "front": "gigante inmobiliario",
+            "pos": "noun",
+            "back": "real estate giant",
+            "example": "Evergrande era un gigante inmobiliario.",
+            "tier": "B2"
+          },
+          {
+            "front": "colapso",
+            "pos": "noun",
+            "back": "collapse",
+            "example": "El colapso de la empresa afectó a miles de personas.",
+            "tier": "B1"
+          },
+          {
+            "front": "sacudir",
+            "pos": "verb",
+            "back": "to shake, rock",
+            "example": "La crisis sacudió el sector inmobiliario.",
+            "tier": "B2"
+          },
+          {
+            "front": "pilar",
+            "pos": "noun",
+            "back": "pillar",
+            "example": "Es uno de los pilares de la economía.",
+            "tier": "B2"
+          },
+          {
+            "front": "acumular deuda",
+            "pos": "phrase",
+            "back": "to rack up debt",
+            "example": "La empresa acumuló una deuda enorme.",
+            "tier": "B2"
+          },
+          {
+            "front": "derrumbarse",
+            "pos": "verb",
+            "back": "to collapse",
+            "example": "La empresa se derrumbó en pocos meses.",
+            "tier": "B2"
+          },
+          {
+            "front": "ondas de choque",
+            "pos": "noun",
+            "back": "shockwaves",
+            "example": "Generó ondas de choque en los mercados.",
+            "tier": "C1"
+          },
+          {
+            "front": "exdirectivo",
+            "pos": "noun",
+            "back": "former executive",
+            "example": "Otros exdirectivos también están siendo investigados.",
+            "tier": "B2"
+          },
+          {
+            "front": "mano dura",
+            "pos": "noun",
+            "back": "firm hand, tough stance",
+            "example": "Quieren mostrar mano dura contra los abusos.",
+            "tier": "B2"
+          },
+          {
+            "front": "expansión descontrolada",
+            "pos": "noun",
+            "back": "unchecked expansion",
+            "example": "Años de expansión descontrolada llevaron a la crisis.",
+            "tier": "B2"
+          },
+          {
+            "front": "sentencia",
+            "pos": "noun",
+            "back": "ruling, sentence",
+            "example": "La sentencia marca un momento clave.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Un tribunal chino condenó a cadena perpetua a Hui Ka Yan, fundador del gigante inmobiliario Evergrande, en el marco de las consecuencias legales derivadas del colapso de la empresa.",
+            "point": "aposición explicativa",
+            "explanation": "\"Fundador del gigante inmobiliario Evergrande\" es una aposición que añade información sobre el sujeto sin necesidad de una oración relativa completa.",
+            "why_tricky": "Los estudiantes suelen preferir estructuras con \"que es\" en vez de esta forma más compacta y periodística."
+          },
+          {
+            "sentence": "Evergrande acumuló una deuda multimillonaria antes de derrumbarse, dejando a miles de compradores sin las viviendas que ya habían pagado y generando ondas de choque en los mercados financieros globales.",
+            "point": "gerundios encadenados como estructura narrativa",
+            "explanation": "\"Dejando\" y \"generando\" funcionan como gerundios de consecuencia, añadiendo información sobre el resultado de la acción principal sin repetir el sujeto.",
+            "why_tricky": "Encadenar dos gerundios seguidos es una construcción avanzada poco practicada en niveles intermedios."
+          },
+          {
+            "sentence": "El caso de Hui se suma a otros procesos contra exdirectivos de la compañía y refleja el esfuerzo de las autoridades chinas por demostrar mano dura frente a los excesos del sector inmobiliario tras años de expansión descontrolada.",
+            "point": "preposición \"por\" + infinitivo para expresar finalidad",
+            "explanation": "\"Por demostrar\" indica el propósito del esfuerzo de las autoridades, un uso de \"por\" cercano a \"para\" en contextos formales.",
+            "why_tricky": "Distinguir \"por\" y \"para\" ante un infinitivo es una de las dificultades clásicas del español para estudiantes B2."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "mano dura",
+            "meaning": "actitud firme y estricta ante un problema",
+            "example": "El gobierno prometió mano dura contra la corrupción."
+          },
+          {
+            "phrase": "generar ondas de choque",
+            "meaning": "provocar un impacto o efecto negativo generalizado",
+            "example": "La noticia generó ondas de choque en toda la industria."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué crees que el colapso de Evergrande afectó a tantas personas fuera de China?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué opinas sobre las consecuencias legales para los fundadores de grandes empresas que colapsan?",
+            "type": "open"
+          },
+          {
+            "q": "¿Cómo crees que este caso podría influir en la forma de regular el sector inmobiliario en el futuro?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Escribe un párrafo sobre si crees que los directivos de grandes empresas deberían enfrentar penas más duras cuando sus decisiones perjudican a miles de personas."
+      }
+    },
     {
       "pack_id": "feed-2026-08-20-pinguinos-rey-chile",
       "title": "La maestra de preescolar que lo dejó todo y se convirtió en guardiana de 200 pingüinos rey en el sur de Chile",
@@ -6148,520 +6634,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que es bueno para los pasajeros que exista un tercer gran fabricante de aviones? Escribe unas 120 palabras explicando tu opinión con dos argumentos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-12-daniel-kinahan-cartel",
-      "title": "Quién es Daniel Kinahan, el hombre al que Irlanda acusa de ser el líder de uno de los carteles más peligrosos del mundo",
-      "source": "BBC Mundo",
-      "date": "2026-08-11",
-      "level": "B1-B2",
-      "topics": [
-        "crimen",
-        "Irlanda"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-12-daniel-kinahan-cartel",
-        "revision": 1,
-        "meta": {
-          "title": "Quién es Daniel Kinahan, el hombre al que Irlanda acusa de ser el líder de uno de los carteles más peligrosos del mundo",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c935eyvy0plo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-11",
-          "date_processed": "2026-08-12",
-          "tags": [
-            "crimen",
-            "Irlanda"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Ireland has once again turned the spotlight on Daniel Kinahan, a 49-year-old man whom the authorities identify as the head of one of the most powerful criminal organisations in the world. According to investigators, the network moves more than a billion dollars and deals above all in drug and arms trafficking across Europe. For years Kinahan tried to present himself as a boxing businessman, while the police described him as the brains behind a family cartel.\n\nThe case shows just how international organised crime has become. The Irish authorities work with European and American partners, and rewards have been offered for information leading to his arrest. Even so, following the money is complicated, because the profits are laundered through legitimate businesses and through countries with weak controls. Meanwhile, in Dublin, violence between rival gangs has left a long list of victims over the past decade and a fear that still has not gone away.",
-        "resumen_es": "Irlanda ha vuelto a poner el foco sobre Daniel Kinahan, un hombre de 49 años al que las autoridades señalan como líder de una de las organizaciones criminales más poderosas del mundo. Según las investigaciones, la red mueve más de mil millones de dólares y se dedica sobre todo al tráfico de drogas y de armas en Europa. Durante años, Kinahan intentó presentarse como un empresario del boxeo, mientras la policía lo describía como el cerebro de un cartel familiar.\n\nEl caso muestra hasta qué punto el crimen organizado se ha vuelto internacional. Las autoridades irlandesas trabajan con socios extranjeros y se han ofrecido recompensas por información que permita detenerlo. Aun así, seguir el rastro del dinero resulta complicado, porque los beneficios se blanquean a través de negocios legales y de países con controles débiles. En Dublín, la violencia entre bandas rivales ha dejado una larga lista de víctimas.",
-        "vocab": [
-          {
-            "front": "poner el foco sobre",
-            "pos": "phrase",
-            "back": "to put the spotlight on",
-            "example": "La prensa puso el foco sobre el caso.",
-            "tier": "B2"
-          },
-          {
-            "front": "señalar a alguien como",
-            "pos": "verb",
-            "back": "to name/point to someone as",
-            "example": "Lo señalan como responsable del fraude.",
-            "tier": "B2"
-          },
-          {
-            "front": "la red",
-            "pos": "noun",
-            "back": "network, ring",
-            "example": "Desmantelaron una red de contrabando.",
-            "tier": "B1"
-          },
-          {
-            "front": "dedicarse a",
-            "pos": "verb",
-            "back": "to be engaged in, to work in",
-            "example": "Se dedica al comercio de repuestos.",
-            "tier": "B1"
-          },
-          {
-            "front": "el tráfico de drogas",
-            "pos": "phrase",
-            "back": "drug trafficking",
-            "example": "Lo detuvieron por tráfico de drogas.",
-            "tier": "B1"
-          },
-          {
-            "front": "el cerebro (de una operación)",
-            "pos": "noun",
-            "back": "the mastermind",
-            "example": "La policía busca al cerebro del robo.",
-            "tier": "B2"
-          },
-          {
-            "front": "el crimen organizado",
-            "pos": "phrase",
-            "back": "organised crime",
-            "example": "El crimen organizado controla varios puertos.",
-            "tier": "B1"
-          },
-          {
-            "front": "la recompensa",
-            "pos": "noun",
-            "back": "reward",
-            "example": "Ofrecieron una recompensa a los testigos.",
-            "tier": "B1"
-          },
-          {
-            "front": "detener",
-            "pos": "verb",
-            "back": "to arrest, to detain",
-            "example": "Lo detuvieron en la frontera.",
-            "tier": "B1"
-          },
-          {
-            "front": "seguir el rastro",
-            "pos": "phrase",
-            "back": "to follow the trail",
-            "example": "Es difícil seguir el rastro de esas cuentas.",
-            "tier": "B2"
-          },
-          {
-            "front": "blanquear (dinero)",
-            "pos": "verb",
-            "back": "to launder (money)",
-            "example": "Blanqueaban el dinero en restaurantes.",
-            "tier": "C1"
-          },
-          {
-            "front": "los beneficios",
-            "pos": "noun",
-            "back": "profits",
-            "example": "Los beneficios crecieron un poco este año.",
-            "tier": "B1"
-          },
-          {
-            "front": "la banda",
-            "pos": "noun",
-            "back": "gang",
-            "example": "Dos bandas rivales se disputan el barrio.",
-            "tier": "B1"
-          },
-          {
-            "front": "aun así",
-            "pos": "phrase",
-            "back": "even so, nevertheless",
-            "example": "Llovía; aun así, salimos a caminar.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Según las investigaciones, la red mueve más de mil millones de dólares y se dedica sobre todo al tráfico de drogas y de armas en Europa.",
-            "point": "'dedicarse a' con contracción 'al'",
-            "explanation": "'Dedicarse' exige siempre la preposición 'a', y ante el artículo 'el' se contrae en 'al': 'se dedica al tráfico'. Sin la preposición la frase es agramatical.",
-            "why_tricky": "En inglés el verbo equivalente no lleva preposición ('deals in' / 'is engaged in'), así que se olvida la 'a' o se elige la preposición equivocada."
-          },
-          {
-            "sentence": "Durante años, Kinahan intentó presentarse como un empresario del boxeo, mientras la policía lo describía como el cerebro de un cartel familiar.",
-            "point": "contraste pretérito indefinido / imperfecto",
-            "explanation": "'Intentó' presenta la acción como un bloque cerrado en el pasado; 'describía' presenta la acción de fondo, repetida y sin límite claro. El contraste crea la escena.",
-            "why_tricky": "'Durante años' parece pedir imperfecto, pero el indefinido es correcto porque el periodo se ve como terminado y completo."
-          },
-          {
-            "sentence": "Aun así, seguir el rastro del dinero resulta complicado, porque los beneficios se blanquean a través de negocios legales y de países con controles débiles.",
-            "point": "pasiva refleja con 'se'",
-            "explanation": "'Se blanquean' es una pasiva refleja: el sujeto gramatical es 'los beneficios' y el verbo concuerda en plural, sin mencionar quién realiza la acción.",
-            "why_tricky": "El estudiante suele traducir la pasiva inglesa con 'ser + participio' ('son blanqueados'), correcto pero mucho menos frecuente en prensa que la forma con 'se'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "estar en el punto de mira",
-            "meaning": "to be in the crosshairs, under scrutiny",
-            "example": "El empresario está en el punto de mira de la policía."
-          },
-          {
-            "phrase": "salir a la luz",
-            "meaning": "to come to light",
-            "example": "Han salido a la luz nuevos documentos del caso."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué papel dice la policía que tiene Daniel Kinahan dentro de la organización?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué resulta difícil seguir el dinero del crimen organizado?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué efecto ha tenido la violencia entre bandas en la ciudad de Dublín?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Qué medidas te parecen más eficaces contra el crimen organizado: perseguir a los jefes o cortar el dinero? Escribe unas 120 palabras justificando tu respuesta."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-12-jorge-messi-servilleta",
-      "title": "Muere Jorge Messi: la historia de la servilleta en la que el padre de Messi firmó con el Barcelona el acuerdo que cambió el fútbol",
-      "source": "BBC Mundo",
-      "date": "2026-08-09",
-      "level": "B1-B2",
-      "topics": [
-        "fútbol",
-        "historia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-12-jorge-messi-servilleta",
-        "revision": 1,
-        "meta": {
-          "title": "Muere Jorge Messi: la historia de la servilleta en la que el padre de Messi firmó con el Barcelona el acuerdo que cambió el fútbol",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c5y6g9dxww4o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-09",
-          "date_processed": "2026-08-12",
-          "tags": [
-            "fútbol",
-            "historia"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Jorge Messi, the father and agent of Lionel Messi, has died at the age of 68. His name is tied to one of the most famous anecdotes in modern football: the paper napkin on which a Barcelona director wrote down the commitment to sign his son, then a thirteen-year-old boy newly arrived from Rosario. That improvised gesture, made in a tennis club in the city, ended up being the starting point of a career like no other.\n\nBeyond the anecdote, the story is a reminder of the decisive part the family played. The Messis moved to Barcelona so that the boy could continue an expensive course of medical treatment and settle into a new country. Jorge later took charge of contracts and sponsorship deals, and went with his son through every transfer, including the years in France and in the United States. His death closes an important chapter in the life of one of the most admired sportsmen on the planet.",
-        "resumen_es": "Ha muerto Jorge Messi, padre y representante de Lionel Messi, a los 68 años. Su nombre está unido a una de las anécdotas más famosas del fútbol moderno: la servilleta en la que un directivo del Barcelona escribió el compromiso de fichar a su hijo, entonces un niño de trece años llegado de Rosario. Aquel gesto improvisado, hecho en un club de tenis de la ciudad, terminó siendo el punto de partida de una carrera irrepetible.\n\nMás allá de la anécdota, la historia recuerda el papel decisivo que tuvo la familia. Los Messi se mudaron a Barcelona para que el niño pudiera seguir un tratamiento médico costoso y adaptarse a un país nuevo. Jorge se ocupó después de los contratos y los patrocinios, y acompañó a su hijo en cada traspaso, incluidos los años en Francia y Estados Unidos. Su muerte cierra un capítulo importante de esa historia.",
-        "vocab": [
-          {
-            "front": "el representante",
-            "pos": "noun",
-            "back": "agent, representative",
-            "example": "Su representante negoció el contrato.",
-            "tier": "B1"
-          },
-          {
-            "front": "la servilleta",
-            "pos": "noun",
-            "back": "napkin",
-            "example": "Apuntó el número en una servilleta.",
-            "tier": "B1"
-          },
-          {
-            "front": "el directivo",
-            "pos": "noun",
-            "back": "executive, board member",
-            "example": "Los directivos se reunieron en Barcelona.",
-            "tier": "B2"
-          },
-          {
-            "front": "fichar (a alguien)",
-            "pos": "verb",
-            "back": "to sign (a player)",
-            "example": "El club fichó a tres jugadores jóvenes.",
-            "tier": "B2"
-          },
-          {
-            "front": "el compromiso",
-            "pos": "noun",
-            "back": "commitment, pledge",
-            "example": "Firmaron un compromiso por escrito.",
-            "tier": "B1"
-          },
-          {
-            "front": "el punto de partida",
-            "pos": "phrase",
-            "back": "starting point",
-            "example": "Aquella beca fue su punto de partida.",
-            "tier": "B1"
-          },
-          {
-            "front": "irrepetible",
-            "pos": "adj",
-            "back": "unrepeatable, one of a kind",
-            "example": "Vivió una temporada irrepetible.",
-            "tier": "B2"
-          },
-          {
-            "front": "mudarse",
-            "pos": "verb",
-            "back": "to move house, to relocate",
-            "example": "Se mudaron a otra ciudad por trabajo.",
-            "tier": "B1"
-          },
-          {
-            "front": "el tratamiento",
-            "pos": "noun",
-            "back": "medical treatment",
-            "example": "El tratamiento duró varios años.",
-            "tier": "B1"
-          },
-          {
-            "front": "ocuparse de",
-            "pos": "verb",
-            "back": "to take care of, to handle",
-            "example": "Ella se ocupa de la contabilidad.",
-            "tier": "B1"
-          },
-          {
-            "front": "el patrocinio",
-            "pos": "noun",
-            "back": "sponsorship",
-            "example": "El equipo perdió un patrocinio importante.",
-            "tier": "B2"
-          },
-          {
-            "front": "el traspaso",
-            "pos": "noun",
-            "back": "transfer (of a player)",
-            "example": "El traspaso costó una cifra récord.",
-            "tier": "B2"
-          },
-          {
-            "front": "más allá de",
-            "pos": "phrase",
-            "back": "beyond, over and above",
-            "example": "Más allá del dinero, buscaba estabilidad.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Aquel gesto improvisado, hecho en un club de tenis de la ciudad, terminó siendo el punto de partida de una carrera irrepetible.",
-            "point": "'terminar' + gerundio",
-            "explanation": "'Terminar siendo' expresa el resultado final de un proceso, equivalente al inglés 'ended up being'. La misma estructura funciona con otros verbos: 'terminó trabajando allí'.",
-            "why_tricky": "En inglés se usa una partícula ('end up'), y el estudiante suele calcar 'terminó ser' o 'acabó a ser', ambas incorrectas."
-          },
-          {
-            "sentence": "Los Messi se mudaron a Barcelona para que el niño pudiera seguir un tratamiento médico costoso y adaptarse a un país nuevo.",
-            "point": "'para que' + imperfecto de subjuntivo",
-            "explanation": "Cuando hay dos sujetos distintos, la finalidad se expresa con 'para que' y subjuntivo. Como el verbo principal está en pasado, el subjuntivo va en imperfecto: 'pudiera'.",
-            "why_tricky": "Si el sujeto fuera el mismo, se usaría el infinitivo ('se mudaron para seguir'). Elegir entre las dos formas es un error muy frecuente."
-          },
-          {
-            "sentence": "Más allá de la anécdota, la historia recuerda el papel decisivo que tuvo la familia.",
-            "point": "oración de relativo con 'que' + indefinido",
-            "explanation": "'Que' introduce aquí una relativa especificativa sobre 'el papel', y el indefinido 'tuvo' presenta ese papel como algo cerrado en el pasado.",
-            "why_tricky": "El orden 'que tuvo la familia' invierte sujeto y verbo respecto al inglés, y el estudiante tiende a escribir 'que la familia tuvo', menos natural aquí."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "de tal palo, tal astilla",
-            "meaning": "a chip off the old block",
-            "example": "Juega como su padre: de tal palo, tal astilla."
-          },
-          {
-            "phrase": "cerrar un capítulo",
-            "meaning": "to close a chapter",
-            "example": "Con esa despedida cerró un capítulo de su vida."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué es famosa la servilleta que se menciona en el texto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué razones llevaron a la familia Messi a mudarse a Barcelona?",
-            "type": "open"
-          },
-          {
-            "q": "¿De qué se encargó Jorge Messi durante la carrera de su hijo?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Debería un familiar ser también el representante de un deportista profesional? Escribe unas 120 palabras con ventajas e inconvenientes."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-12-familia-biologica-65-anos",
-      "title": "\"Siento compasión por mi madre, hizo lo que pudo\": el hombre abandonado al nacer que encontró a su familia biológica 65 años después",
-      "source": "BBC Mundo",
-      "date": "2026-08-04",
-      "level": "B1-B2",
-      "topics": [
-        "sociedad",
-        "familia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-12-familia-biologica-65-anos",
-        "revision": 1,
-        "meta": {
-          "title": "\"Siento compasión por mi madre, hizo lo que pudo\": el hombre abandonado al nacer que encontró a su familia biológica 65 años después",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c141ppn38vvo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-04",
-          "date_processed": "2026-08-12",
-          "tags": [
-            "sociedad",
-            "familia"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "David Stevenson was abandoned at birth in a London building in 1960 and was later adopted by a family. Sixty-five years later he has managed to track down his biological family and finally find out where he comes from. Far from bitterness, he sums up his story with a sentence that comes as a surprise: he feels compassion for his mother, because he believes she did what she could.\n\nHis story is not an isolated case. In those years, many single women faced a strong social stigma and a lack of support, so adoption was often presented as the only way out. Today, by contrast, access to records and the spread of genetic testing allow more and more adoptees to piece together their origins, even if the reunion does not always turn out to be easy: alongside the joy, awkward questions and very long silences tend to appear.",
-        "resumen_es": "David Stevenson fue abandonado al nacer en un edificio de Londres en 1960 y más tarde lo adoptó una familia. Sesenta y cinco años más tarde ha conseguido dar con su familia biológica y saber, por fin, de dónde viene. Lejos de guardar rencor, resume su historia con una frase que sorprende: siente compasión por su madre, porque cree que hizo lo que pudo.\n\nSu historia no es un caso aislado. En aquellos años, muchas mujeres solteras se enfrentaban a un fuerte estigma social y a la falta de ayudas, de modo que la adopción se presentaba a menudo como la única salida. Hoy, en cambio, el acceso a los registros y la difusión de las pruebas genéticas permiten que cada vez más adoptados reconstruyan su origen, aunque el reencuentro no siempre resulte fácil: junto a la alegría suelen aparecer preguntas incómodas y silencios muy largos.",
-        "vocab": [
-          {
-            "front": "abandonar al nacer",
-            "pos": "phrase",
-            "back": "to abandon at birth",
-            "example": "Fue abandonado al nacer y creció con otra familia.",
-            "tier": "B1"
-          },
-          {
-            "front": "adoptar",
-            "pos": "verb",
-            "back": "to adopt",
-            "example": "La pareja decidió adoptar a dos hermanos.",
-            "tier": "B1"
-          },
-          {
-            "front": "dar con",
-            "pos": "phrase",
-            "back": "to track down, to find after searching",
-            "example": "Tardó meses en dar con la dirección correcta.",
-            "tier": "B2"
-          },
-          {
-            "front": "el rencor",
-            "pos": "noun",
-            "back": "resentment, bitterness",
-            "example": "Habla de su pasado sin rencor.",
-            "tier": "B2"
-          },
-          {
-            "front": "la compasión",
-            "pos": "noun",
-            "back": "compassion, pity",
-            "example": "Siente compasión por quien lo trató mal.",
-            "tier": "B1"
-          },
-          {
-            "front": "aislado",
-            "pos": "adj",
-            "back": "isolated, one-off",
-            "example": "No es un caso aislado, se repite cada año.",
-            "tier": "B1"
-          },
-          {
-            "front": "enfrentarse a",
-            "pos": "verb",
-            "back": "to face, to confront",
-            "example": "Se enfrentaron a críticas muy duras.",
-            "tier": "B1"
-          },
-          {
-            "front": "el estigma",
-            "pos": "noun",
-            "back": "stigma",
-            "example": "El estigma social pesaba más que la ley.",
-            "tier": "B2"
-          },
-          {
-            "front": "la única salida",
-            "pos": "phrase",
-            "back": "the only way out",
-            "example": "Vender la casa parecía la única salida.",
-            "tier": "B1"
-          },
-          {
-            "front": "reconstruir",
-            "pos": "verb",
-            "back": "to piece together, to rebuild",
-            "example": "Quiere reconstruir la historia de su familia.",
-            "tier": "B2"
-          },
-          {
-            "front": "el reencuentro",
-            "pos": "noun",
-            "back": "reunion, meeting again",
-            "example": "El reencuentro fue emotivo y algo incómodo.",
-            "tier": "B2"
-          },
-          {
-            "front": "incómodo",
-            "pos": "adj",
-            "back": "awkward, uncomfortable",
-            "example": "Hizo una pregunta muy incómoda.",
-            "tier": "B1"
-          },
-          {
-            "front": "de modo que",
-            "pos": "phrase",
-            "back": "so, with the result that (+ indicative)",
-            "example": "Llovía mucho, de modo que nos quedamos en casa.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "David Stevenson fue abandonado al nacer en un edificio de Londres en 1960 y más tarde lo adoptó una familia.",
-            "point": "Pasiva con ser frente a la voz activa",
-            "explanation": "La primera parte usa la pasiva (fue abandonado) porque no sabemos quién lo abandonó; la segunda vuelve a la activa (lo adoptó una familia) porque ahí el agente sí se conoce y es la información nueva, por eso aparece al final.",
-            "why_tricky": "En español la pasiva con ser es mucho menos frecuente que en inglés, y aquí conviven las dos estructuras en una misma frase, cada una por un motivo distinto."
-          },
-          {
-            "sentence": "Hoy, en cambio, el acceso a los registros y la difusión de las pruebas genéticas permiten que cada vez más adoptados reconstruyan su origen, aunque el reencuentro no siempre resulte fácil",
-            "point": "Subjuntivo después de permitir que y de aunque",
-            "explanation": "Permitir que exige subjuntivo (reconstruyan). Con aunque, el subjuntivo (resulte) presenta el dato como algo ya admitido o previsible, no como una novedad que se afirma.",
-            "why_tricky": "Con aunque son posibles el indicativo y el subjuntivo, y la elección depende de cómo se presenta la información: con indicativo se afirma como dato nuevo; con subjuntivo se da por sabida o se plantea como hipótesis."
-          },
-          {
-            "sentence": "junto a la alegría suelen aparecer preguntas incómodas y silencios muy largos",
-            "point": "soler + infinitivo para lo habitual",
-            "explanation": "Soler expresa lo que ocurre habitualmente y siempre va seguido de infinitivo; aquí el sujeto es plural (preguntas y silencios), por eso suelen y no suele.",
-            "why_tricky": "Soler no tiene un equivalente directo en inglés y además diptonga en presente (suelo, sueles, suele), así que es fácil olvidarlo y traducir con normalmente."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "hacer lo que uno puede",
-            "meaning": "to do the best you can with what you have",
-            "example": "No fue perfecto, pero hizo lo que pudo."
-          },
-          {
-            "phrase": "no ser un caso aislado",
-            "meaning": "to be far from unique, to happen to many others",
-            "example": "Su historia no es un caso aislado en aquella generación."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué crees que David siente compasión por su madre en lugar de rencor?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué factores sociales explican, según el texto, tantas adopciones en aquella época?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué dificultades pueden aparecer después de un reencuentro familiar?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Buscarías a tu familia biológica si estuvieras en su lugar? Escribe unas 120 palabras explicando qué ganarías y qué arriesgarías."
       }
     }
   ]
