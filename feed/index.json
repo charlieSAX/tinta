@@ -1,7 +1,475 @@
 {
-  "generated_at": "2026-08-21T09:01:26Z",
+  "generated_at": "2026-08-21T20:12:37Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-21-hambre-cero-republica-dominicana",
+      "title": "Cuál es la situación del hambre en América Latina (y cómo República Dominicana ha logrado ser el último país en alcanzar el hambre cero)",
+      "source": "BBC Mundo",
+      "date": "2026-08-21",
+      "level": "B1-B2",
+      "topics": [
+        "desarrollo",
+        "america latina"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-21-hambre-cero-republica-dominicana",
+        "revision": 1,
+        "meta": {
+          "title": "Cuál es la situación del hambre en América Latina (y cómo República Dominicana ha logrado ser el último país en alcanzar el hambre cero)",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c77g1jd322no",
+          "date_published": "2026-08-21",
+          "date_processed": "2026-08-21",
+          "tags": [
+            "desarrollo",
+            "america latina"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The Dominican Republic has become the last country in Latin America to reach the \"zero hunger\" target, a goal international organizations have been pushing for in the region for years. The achievement is due to social programs combining direct food aid with investment in family farming and nutrition education. Dominican authorities stress that the process was not immediate, but the result of sustained decisions across several governments.\n\nHowever, the overall picture in Latin America remains worrying: millions of people still suffer from food insecurity, especially in rural areas hit by droughts and economic crises. Experts warn that the Dominican case shows that reversing hunger is possible, but only if public investment is sustained over the long term. Other countries are now looking to Santo Domingo for a replicable model.",
+        "resumen_es": "República Dominicana se ha convertido en el último país de América Latina en alcanzar la meta del hambre cero, un objetivo que organismos internacionales llevan años impulsando en la región. El logro se debe a programas sociales que combinan ayuda alimentaria directa con inversión en agricultura familiar y educación nutricional. Las autoridades dominicanas destacan que el proceso no fue inmediato, sino el resultado de decisiones sostenidas durante varios gobiernos.\n\nSin embargo, el panorama general de América Latina sigue siendo preocupante: millones de personas todavía padecen inseguridad alimentaria, especialmente en zonas rurales golpeadas por sequías y crisis económicas. Expertos advierten que el caso dominicano demuestra que revertir el hambre es posible, pero solo si se mantiene la inversión pública a largo plazo. Ahora otros países miran hacia Santo Domingo en busca de un modelo replicable.",
+        "vocab": [
+          {
+            "front": "hambre cero",
+            "pos": "phrase",
+            "back": "zero hunger",
+            "example": "El país alcanzó la meta del hambre cero este año.",
+            "tier": "B2"
+          },
+          {
+            "front": "inseguridad alimentaria",
+            "pos": "noun",
+            "back": "food insecurity",
+            "example": "La sequía aumentó la inseguridad alimentaria en la región.",
+            "tier": "B2"
+          },
+          {
+            "front": "sostenido",
+            "pos": "adj",
+            "back": "sustained",
+            "example": "Fue un esfuerzo sostenido durante una década.",
+            "tier": "B2"
+          },
+          {
+            "front": "agricultura familiar",
+            "pos": "noun",
+            "back": "family farming",
+            "example": "El programa apoya la agricultura familiar en zonas rurales.",
+            "tier": "B1"
+          },
+          {
+            "front": "inversión pública",
+            "pos": "noun",
+            "back": "public investment",
+            "example": "Sin inversión pública el progreso se detiene.",
+            "tier": "B2"
+          },
+          {
+            "front": "revertir",
+            "pos": "verb",
+            "back": "to reverse",
+            "example": "Quieren revertir la tendencia del hambre en la región.",
+            "tier": "B2"
+          },
+          {
+            "front": "padecer",
+            "pos": "verb",
+            "back": "to suffer from",
+            "example": "Millones de personas padecen inseguridad alimentaria.",
+            "tier": "B1"
+          },
+          {
+            "front": "organismo internacional",
+            "pos": "noun",
+            "back": "international organization",
+            "example": "Los organismos internacionales fijaron la meta hace años.",
+            "tier": "B1"
+          },
+          {
+            "front": "replicable",
+            "pos": "adj",
+            "back": "replicable",
+            "example": "Buscan un modelo replicable para otros países.",
+            "tier": "B2"
+          },
+          {
+            "front": "meta",
+            "pos": "noun",
+            "back": "goal, target",
+            "example": "La meta se cumplió antes de lo previsto.",
+            "tier": "B1"
+          },
+          {
+            "front": "golpeado por",
+            "pos": "phrase",
+            "back": "hit by",
+            "example": "Zonas golpeadas por la sequía sufren más.",
+            "tier": "B2"
+          },
+          {
+            "front": "a largo plazo",
+            "pos": "phrase",
+            "back": "in the long term",
+            "example": "Los resultados solo llegan a largo plazo.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "República Dominicana se ha convertido en el último país de América Latina en alcanzar la meta del hambre cero, un objetivo que organismos internacionales llevan años impulsando en la región.",
+            "point": "Presente perfecto reflexivo + perífrasis 'llevar + gerundio'",
+            "explanation": "'Se ha convertido' es un presente perfecto reflexivo (convertirse en = to become). 'Llevan años impulsando' usa llevar + gerundio para expresar una acción que empezó en el pasado y continúa.",
+            "why_tricky": "El verbo reflexivo con presente perfecto y la perífrasis con llevar no tienen una traducción directa al inglés, así que los estudiantes suelen traducir palabra por palabra."
+          },
+          {
+            "sentence": "Expertos advierten que el caso dominicano demuestra que revertir el hambre es posible, pero solo si se mantiene la inversión pública a largo plazo.",
+            "point": "Condicional real con 'solo si' + indicativo",
+            "explanation": "Cuando la condición se presenta como algo real y factual, se usa el indicativo (se mantiene), no el subjuntivo.",
+            "why_tricky": "Muchos estudiantes asumen que toda oración condicional necesita subjuntivo, pero las condiciones reales o habituales llevan indicativo."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "poner el hombro",
+            "meaning": "to pitch in, to help with effort",
+            "example": "Todo el país tuvo que poner el hombro para lograrlo."
+          },
+          {
+            "phrase": "dar sus frutos",
+            "meaning": "to pay off, to bear fruit",
+            "example": "Las políticas agrícolas por fin dieron sus frutos."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué factores explican que República Dominicana haya logrado el hambre cero?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué crees que el hambre sigue siendo un problema grave en otras partes de América Latina?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué medidas tomarías tú si dirigieras un programa contra el hambre en tu país?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Escribe un párrafo breve explicando si crees que otros países pueden replicar el modelo dominicano y qué obstáculos podrían encontrar."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-21-numbats-australia-extincion",
+      "title": "Numbats, los adorables animales que dan esperanza al país que es el epicentro mundial de la extinción de mamíferos",
+      "source": "BBC Mundo",
+      "date": "2026-08-21",
+      "level": "B1-B2",
+      "topics": [
+        "naturaleza",
+        "conservacion"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-21-numbats-australia-extincion",
+        "revision": 1,
+        "meta": {
+          "title": "Numbats, los adorables animales que dan esperanza al país que es el epicentro mundial de la extinción de mamíferos",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/ckg3j4r6l07o",
+          "date_published": "2026-08-21",
+          "date_processed": "2026-08-21",
+          "tags": [
+            "naturaleza",
+            "conservacion"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Numbats, small insect-eating marsupials native to Australia, have become a symbol of hope for wildlife conservation in the country. Decades of work in protected reserves, free from introduced predators such as foxes and cats, have allowed the population of these animals, once on the brink of extinction, to begin recovering slowly.\n\nAustralia is, according to several studies, the country with the highest mammal extinction rate on the planet, largely due to invasive species and habitat loss. Conservationists hope that the numbat's partial success can serve as a model for protecting other threatened species, although they warn that steady funding and long-term programs are needed to prevent further losses.",
+        "resumen_es": "Los numbats, pequeños marsupiales insectívoros originarios de Australia, se han convertido en símbolo de esperanza para la conservación de la fauna del país. Décadas de trabajo en reservas protegidas, libres de depredadores introducidos como zorros y gatos, han permitido que la población de estos animales, antes al borde de la extinción, comience a recuperarse lentamente.\n\nAustralia es, según varios estudios, el país con la tasa más alta de extinción de mamíferos del planeta, en gran parte debido a especies invasoras y a la pérdida de hábitat. Los conservacionistas esperan que el éxito parcial del numbat sirva de modelo para proteger a otras especies amenazadas, aunque advierten que se necesita financiación constante y programas a largo plazo para evitar nuevas pérdidas.",
+        "vocab": [
+          {
+            "front": "marsupial",
+            "pos": "noun",
+            "back": "marsupial",
+            "example": "El numbat es un pequeño marsupial australiano.",
+            "tier": "B2"
+          },
+          {
+            "front": "insectívoro",
+            "pos": "adj",
+            "back": "insect-eating",
+            "example": "Es un animal insectívoro que se alimenta de termitas.",
+            "tier": "B2"
+          },
+          {
+            "front": "depredador",
+            "pos": "noun",
+            "back": "predator",
+            "example": "Los zorros son depredadores introducidos en Australia.",
+            "tier": "B1"
+          },
+          {
+            "front": "especie invasora",
+            "pos": "noun",
+            "back": "invasive species",
+            "example": "Las especies invasoras amenazan a la fauna local.",
+            "tier": "B2"
+          },
+          {
+            "front": "al borde de",
+            "pos": "phrase",
+            "back": "on the brink of",
+            "example": "La especie estaba al borde de la extinción.",
+            "tier": "B2"
+          },
+          {
+            "front": "recuperarse",
+            "pos": "verb",
+            "back": "to recover",
+            "example": "La población empieza a recuperarse poco a poco.",
+            "tier": "B1"
+          },
+          {
+            "front": "tasa de extinción",
+            "pos": "noun",
+            "back": "extinction rate",
+            "example": "Australia tiene la tasa de extinción más alta del mundo.",
+            "tier": "B2"
+          },
+          {
+            "front": "pérdida de hábitat",
+            "pos": "noun",
+            "back": "habitat loss",
+            "example": "La pérdida de hábitat afecta a muchas especies.",
+            "tier": "B2"
+          },
+          {
+            "front": "conservacionista",
+            "pos": "noun",
+            "back": "conservationist",
+            "example": "Los conservacionistas trabajan para proteger la fauna.",
+            "tier": "B1"
+          },
+          {
+            "front": "amenazado",
+            "pos": "adj",
+            "back": "threatened",
+            "example": "Muchas especies amenazadas viven en reservas protegidas.",
+            "tier": "B1"
+          },
+          {
+            "front": "financiación",
+            "pos": "noun",
+            "back": "funding",
+            "example": "Se necesita financiación constante para estos programas.",
+            "tier": "B2"
+          },
+          {
+            "front": "a largo plazo",
+            "pos": "phrase",
+            "back": "in the long term",
+            "example": "Los programas deben planearse a largo plazo.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Los numbats, pequeños marsupiales insectívoros originarios de Australia, se han convertido en símbolo de esperanza para la conservación de la fauna del país.",
+            "point": "Aposición extensa entre sujeto y verbo + 'convertirse en'",
+            "explanation": "La frase descriptiva entre comas separa el sujeto (Los numbats) del verbo (se han convertido), y 'convertirse en' significa 'to become'.",
+            "why_tricky": "La distancia entre el sujeto y el verbo, causada por la larga aposición, dificulta que los estudiantes reconozcan la concordancia."
+          },
+          {
+            "sentence": "Australia es, según varios estudios, el país con la tasa más alta de extinción de mamíferos del planeta, en gran parte debido a especies invasoras y a la pérdida de hábitat.",
+            "point": "Superlativo 'el país con la tasa más alta de' + inciso parentético",
+            "explanation": "La estructura del superlativo en español difiere del inglés 'the country with the highest rate', y el inciso 'según varios estudios' interrumpe la oración principal.",
+            "why_tricky": "El orden de palabras del superlativo y el inciso parentético que corta la oración principal confunden a los estudiantes acostumbrados al orden inglés."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "estar en peligro de extinción",
+            "meaning": "to be endangered",
+            "example": "Muchas especies están en peligro de extinción en Australia."
+          },
+          {
+            "phrase": "dar un respiro a",
+            "meaning": "to give relief to, to give a break to",
+            "example": "La reserva protegida les da un respiro a los numbats."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué medidas han ayudado a que la población de numbats empiece a recuperarse?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué crees que Australia tiene una tasa tan alta de extinción de mamíferos?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué otras soluciones propondrías para proteger especies amenazadas?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Escribe tu opinión sobre si los zoológicos y reservas son suficientes para salvar especies en peligro, o si se necesitan otras medidas."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-21-migrantes-cubanos-yucatan",
+      "title": "México: rescatan a 16 migrantes cubanos frente a la Península de Yucatán",
+      "source": "RFI",
+      "date": "2026-08-21",
+      "level": "B1-B2",
+      "topics": [
+        "migracion",
+        "mexico"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-21-migrantes-cubanos-yucatan",
+        "revision": 1,
+        "meta": {
+          "title": "México: rescatan a 16 migrantes cubanos frente a la Península de Yucatán",
+          "source": "RFI",
+          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260821-m%C3%A9xico-rescatan-a-16-migrantes-cubanos-frente-a-la-pen%C3%ADnsula-de-yucat%C3%A1n",
+          "date_published": "2026-08-21",
+          "date_processed": "2026-08-21",
+          "tags": [
+            "migracion",
+            "mexico"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Mexican authorities rescued sixteen Cuban migrants who were adrift off the coast of the Yucatán Peninsula, aboard a precarious boat without fuel or sufficient supplies. The group, made up of men, women and at least one minor, was located thanks to a tip from local fishermen and brought safely to shore.\n\nThe case adds to a long list of clandestine journeys seeking to reach the United States through the Caribbean and the Gulf of Mexico, routes that are increasingly monitored but also increasingly dangerous. Humanitarian organizations insist that as long as the economic crisis and lack of opportunities in Cuba persist, there will continue to be people willing to risk their lives at sea.",
+        "resumen_es": "Autoridades mexicanas rescataron a dieciséis migrantes cubanos que viajaban a la deriva frente a las costas de la península de Yucatán, en una embarcación precaria sin combustible ni suministros suficientes. El grupo, compuesto por hombres, mujeres y al menos un menor, fue localizado gracias a un aviso de pescadores de la zona y trasladado sano y salvo a tierra firme.\n\nEl caso se suma a una larga lista de travesías clandestinas que buscan llegar a Estados Unidos a través del Caribe y el Golfo de México, rutas cada vez más vigiladas pero también más peligrosas. Organizaciones humanitarias insisten en que, mientras persistan la crisis económica y la falta de oportunidades en Cuba, seguirán existiendo personas dispuestas a arriesgar la vida en el mar.",
+        "vocab": [
+          {
+            "front": "embarcación precaria",
+            "pos": "noun",
+            "back": "makeshift/precarious boat",
+            "example": "Viajaban en una embarcación precaria sin suministros.",
+            "tier": "B2"
+          },
+          {
+            "front": "travesía clandestina",
+            "pos": "noun",
+            "back": "clandestine crossing",
+            "example": "La travesía clandestina duró varios días.",
+            "tier": "B2"
+          },
+          {
+            "front": "suministro",
+            "pos": "noun",
+            "back": "supply",
+            "example": "No tenían suministros suficientes para el viaje.",
+            "tier": "B1"
+          },
+          {
+            "front": "trasladar",
+            "pos": "verb",
+            "back": "to transport, to move",
+            "example": "Los trasladaron sanos y salvos a tierra firme.",
+            "tier": "B1"
+          },
+          {
+            "front": "sano y salvo",
+            "pos": "phrase",
+            "back": "safe and sound",
+            "example": "Llegaron sanos y salvos gracias al aviso de los pescadores.",
+            "tier": "B1"
+          },
+          {
+            "front": "arriesgar la vida",
+            "pos": "phrase",
+            "back": "to risk one's life",
+            "example": "Muchos arriesgan la vida cruzando el mar.",
+            "tier": "B2"
+          },
+          {
+            "front": "vigilado",
+            "pos": "adj",
+            "back": "monitored, patrolled",
+            "example": "Las rutas marítimas están cada vez más vigiladas.",
+            "tier": "B2"
+          },
+          {
+            "front": "organización humanitaria",
+            "pos": "noun",
+            "back": "humanitarian organization",
+            "example": "Las organizaciones humanitarias piden más ayuda.",
+            "tier": "B1"
+          },
+          {
+            "front": "persistir",
+            "pos": "verb",
+            "back": "to persist",
+            "example": "Mientras persista la crisis, seguirá la migración.",
+            "tier": "B2"
+          },
+          {
+            "front": "falta de oportunidades",
+            "pos": "phrase",
+            "back": "lack of opportunities",
+            "example": "La falta de oportunidades empuja a muchos a emigrar.",
+            "tier": "B1"
+          },
+          {
+            "front": "aviso",
+            "pos": "noun",
+            "back": "tip, notice, warning",
+            "example": "Fueron rescatados gracias a un aviso de pescadores.",
+            "tier": "B1"
+          },
+          {
+            "front": "tierra firme",
+            "pos": "noun",
+            "back": "dry land, mainland",
+            "example": "Llegaron a tierra firme tras horas en el mar.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Autoridades mexicanas rescataron a dieciséis migrantes cubanos que viajaban a la deriva frente a las costas de la península de Yucatán, en una embarcación precaria sin combustible ni suministros suficientes.",
+            "point": "La 'a' personal ante complemento directo humano",
+            "explanation": "'Rescataron A dieciséis migrantes' lleva la 'a' personal porque el complemento directo es un grupo específico de personas.",
+            "why_tricky": "El inglés no tiene un marcador equivalente, así que los estudiantes suelen omitir la 'a' personal al traducir directamente."
+          },
+          {
+            "sentence": "Organizaciones humanitarias insisten en que, mientras persistan la crisis económica y la falta de oportunidades en Cuba, seguirán existiendo personas dispuestas a arriesgar la vida en el mar.",
+            "point": "Subjuntivo tras 'mientras' para condiciones futuras o inciertas",
+            "explanation": "'Mientras persistan' usa subjuntivo porque describe una condición continua e incierta en el futuro, distinta de 'mientras' con indicativo para acciones simultáneas y factuales.",
+            "why_tricky": "Los estudiantes suelen usar el indicativo por defecto con 'mientras', ya que normalmente se asocia con acciones simultáneas reales."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "jugarse la vida",
+            "meaning": "to risk one's life, to gamble with life",
+            "example": "Muchos migrantes se juegan la vida por buscar un futuro mejor."
+          },
+          {
+            "phrase": "poner rumbo a",
+            "meaning": "to head towards",
+            "example": "La embarcación puso rumbo a Estados Unidos antes de quedar a la deriva."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué llevó a las autoridades mexicanas a rescatar a los migrantes cubanos?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué crees que tantas personas arriesgan su vida cruzando el mar hacia Estados Unidos?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué soluciones podrían reducir este tipo de travesías peligrosas?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Escribe un párrafo sobre qué responsabilidad crees que tienen los países de la región frente a las crisis migratorias como esta."
+      }
+    },
     {
       "pack_id": "feed-2026-08-21-pescadores-rescatados-mexico",
       "title": "Los pescadores rescatados en México tras pasar cinco días a la deriva en el mar aferrados a una hielera",
@@ -6126,514 +6594,6 @@
           }
         ],
         "opinion_prompt": "¿Hasta qué punto crees que los ciudadanos tienen derecho a saber dónde está y qué hace su jefe de Estado? Escribe unas 120 palabras defendiendo tu postura con al menos un argumento en contra."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-13-libano-pena-de-muerte",
-      "title": "Líbano abole oficialmente la pena de muerte",
-      "source": "RFI Español",
-      "date": "2026-08-11",
-      "level": "B1-B2",
-      "topics": [
-        "justicia",
-        "derechos humanos"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-13-libano-pena-de-muerte",
-        "revision": 1,
-        "meta": {
-          "title": "Líbano abole oficialmente la pena de muerte",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/oriente-medio/20260811-l%C3%ADbano-abole-oficialmente-la-pena-de-muerte",
-          "date_published": "2026-08-11",
-          "date_processed": "2026-08-13",
-          "tags": [
-            "justicia",
-            "derechos humanos"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Lebanon has officially abolished the death penalty and becomes the first country in the Middle East formally to remove capital punishment from its legal system. The country of the cedar had not carried out an execution since 2004, so in practice the sentence had already fallen into disuse; what changes now is that the abolition is written into the law and no longer depends on the will of whichever government happens to be in power.\n\nThe decision matters beyond its borders, because the region records some of the highest execution rates in the world. Organisations that campaign against capital punishment tend to argue that its deterrent effect has never been proved and that judicial errors are irreversible. Those who defend it appeal to the seriousness of certain crimes. In Lebanon that debate is now settled at the legal level, though it will carry on in public opinion.",
-        "resumen_es": "Líbano ha abolido oficialmente la pena de muerte y se convierte en el primer país de Oriente Medio que suprime formalmente la pena capital de su ordenamiento jurídico. El país del cedro no llevaba a cabo ejecuciones desde 2004, de modo que en la práctica la condena ya había caído en desuso; lo que cambia ahora es que la abolición queda escrita en la ley y deja de depender de la voluntad del gobierno de turno.\n\nLa decisión importa más allá de sus fronteras, porque la región registra algunas de las tasas de ejecución más altas del mundo. Las organizaciones que hacen campaña contra la pena capital suelen argumentar que su efecto disuasorio nunca se ha demostrado y que los errores judiciales son irreversibles. Quienes la defienden apelan a la gravedad de ciertos delitos. En Líbano ese debate queda zanjado en el plano legal, aunque seguirá en la opinión pública.",
-        "vocab": [
-          {
-            "front": "abolir",
-            "pos": "verb",
-            "back": "to abolish",
-            "example": "El parlamento decidió abolir esa norma en 2019.",
-            "tier": "B2"
-          },
-          {
-            "front": "la pena de muerte",
-            "pos": "phrase",
-            "back": "the death penalty",
-            "example": "Muchos países europeos abolieron la pena de muerte hace décadas.",
-            "tier": "B1"
-          },
-          {
-            "front": "el ordenamiento jurídico",
-            "pos": "noun",
-            "back": "legal system, body of law",
-            "example": "La reforma afecta a todo el ordenamiento jurídico del país.",
-            "tier": "C1"
-          },
-          {
-            "front": "caer en desuso",
-            "pos": "phrase",
-            "back": "to fall into disuse",
-            "example": "Esa expresión ha caído en desuso entre los jóvenes.",
-            "tier": "B2"
-          },
-          {
-            "front": "llevar a cabo",
-            "pos": "phrase",
-            "back": "to carry out",
-            "example": "El equipo llevó a cabo el estudio durante dos años.",
-            "tier": "B1"
-          },
-          {
-            "front": "el gobierno de turno",
-            "pos": "phrase",
-            "back": "whichever government is in power at the time",
-            "example": "La ley no debería depender del gobierno de turno.",
-            "tier": "B2"
-          },
-          {
-            "front": "disuasorio",
-            "pos": "adj",
-            "back": "deterrent",
-            "example": "Dudan del efecto disuasorio de las multas.",
-            "tier": "C1"
-          },
-          {
-            "front": "la tasa",
-            "pos": "noun",
-            "back": "rate",
-            "example": "La tasa de paro bajó dos puntos.",
-            "tier": "B1"
-          },
-          {
-            "front": "el delito",
-            "pos": "noun",
-            "back": "crime, offence",
-            "example": "Fue acusado de un delito grave.",
-            "tier": "B1"
-          },
-          {
-            "front": "zanjar",
-            "pos": "verb",
-            "back": "to settle, to put an end to (a debate)",
-            "example": "La sentencia zanjó la discusión entre las dos empresas.",
-            "tier": "C1"
-          },
-          {
-            "front": "apelar a",
-            "pos": "verb",
-            "back": "to appeal to (an argument, a feeling)",
-            "example": "El abogado apeló a la buena fe del acusado.",
-            "tier": "B2"
-          },
-          {
-            "front": "irreversible",
-            "pos": "adj",
-            "back": "irreversible",
-            "example": "El daño al ecosistema puede ser irreversible.",
-            "tier": "B2"
-          },
-          {
-            "front": "hacer campaña",
-            "pos": "phrase",
-            "back": "to campaign",
-            "example": "La asociación hace campaña por el derecho a la vivienda.",
-            "tier": "B1"
-          },
-          {
-            "front": "la condena",
-            "pos": "noun",
-            "back": "sentence, conviction",
-            "example": "La condena se redujo a cinco años.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "El país del cedro no llevaba a cabo ejecuciones desde 2004, de modo que en la práctica la condena ya había caído en desuso; lo que cambia ahora es que la abolición queda escrita en la ley y deja de depender de la voluntad del gobierno de turno.",
-            "point": "imperfect with desde for a state that had lasted, plus lo que as a nominalising relative",
-            "explanation": "Llevaba a cabo is imperfect because it describes an ongoing situation stretching back to 2004, not a single completed act. Lo que cambia ahora turns a whole clause into the subject of the sentence, roughly what changes now.",
-            "why_tricky": "Both are possible here: the pluperfect no había llevado a cabo is equally correct and is what most news wires write. The imperfect simply frames it as a lasting state; and lo que has no single-word English equivalent."
-          },
-          {
-            "sentence": "Las organizaciones que hacen campaña contra la pena capital suelen argumentar que su efecto disuasorio nunca se ha demostrado y que los errores judiciales son irreversibles.",
-            "point": "soler plus infinitive, and the pasiva refleja with the perfect",
-            "explanation": "Soler expresses habitual action and always takes an infinitive after it: suelen argumentar means they usually argue. Se ha demostrado leaves the agent unstated, close to English it has never been proved. The verb agrees with su efecto disuasorio; with a plural subject it would be se han demostrado, which is what separates this from the truly impersonal se.",
-            "why_tricky": "Soler has no English verb equivalent, so learners paraphrase with normalmente; and this use of se is easily confused with the reflexive."
-          },
-          {
-            "sentence": "En Líbano ese debate queda zanjado en el plano legal, aunque seguirá en la opinión pública.",
-            "point": "quedar plus participle to express a resulting state",
-            "explanation": "Quedar plus participle presents the outcome of a process rather than the action itself: the debate ends up settled. Compare se zanjó el debate, which foregrounds the act of settling it rather than the resulting state.",
-            "why_tricky": "Learners default to estar or ser with participles and rarely produce quedar, even though it is very common in news Spanish."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "caer en desuso",
-            "meaning": "to stop being used, to become obsolete without being formally cancelled",
-            "example": "Esa costumbre cayó en desuso después de la guerra."
-          },
-          {
-            "phrase": "llevar a cabo",
-            "meaning": "to carry out, to see through to completion",
-            "example": "El ministerio llevó a cabo una reforma profunda."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué diferencia hay entre lo que ocurría en la práctica desde 2004 y lo que cambia ahora con la ley?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué argumentos recoge el texto a favor y en contra de la pena capital?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué dice el texto que la decisión importa más allá de las fronteras libanesas?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que abolir una pena que ya no se aplicaba cambia algo en la práctica? Escribe unas 120 palabras explicando qué valor tiene, en tu opinión, escribir un principio en la ley."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-13-china-universidades-ia",
-      "title": "China adapta sus universidades a la era de la IA y transforma sus planes de estudio",
-      "source": "RFI Español",
-      "date": "2026-08-11",
-      "level": "B1-B2",
-      "topics": [
-        "educación",
-        "tecnología"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-13-china-universidades-ia",
-        "revision": 1,
-        "meta": {
-          "title": "China adapta sus universidades a la era de la IA y transforma sus planes de estudio",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/asia-pacifico/20260811-china-adapta-sus-universidades-a-la-era-de-la-ia-y-transforma-sus-planes-de-estudio",
-          "date_published": "2026-08-11",
-          "date_processed": "2026-08-13",
-          "tags": [
-            "educación",
-            "tecnología"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Beijing is carrying out a deep reform of its higher education system. Over five years the country's universities have scrapped or suspended more than 12,000 study programmes and created more than 10,000 new ones. The aim is to bring the curriculum into line with artificial intelligence, with new technologies and with the needs of the Chinese economy, in a country where many young graduates have trouble finding work that matches their training.\n\nWhat is striking is not only the scale but the speed: what in other systems would demand a decade of consultation is decided here in a couple of academic years. The bet is a risky one, because nobody knows which skills the labour market will value ten years from now, and a curriculum designed around today's technology can age fast. Even so, it is an experiment worth following closely.",
-        "resumen_es": "Pekín está llevando a cabo una profunda reforma de su educación superior. En cinco años, las universidades del país han eliminado o suspendido más de 12.000 programas de estudio y han creado más de 10.000 nuevos. El objetivo es adaptar los planes de estudio a la inteligencia artificial, a las nuevas tecnologías y a las necesidades de la economía china, en un país donde muchos jóvenes graduados tienen dificultades para encontrar un trabajo acorde con su formación.\n\nLo llamativo no es solo la escala, sino la velocidad: lo que en otros sistemas exigiría una década de consultas aquí se decide en un par de cursos. La apuesta es arriesgada, porque nadie sabe qué competencias valorará el mercado laboral dentro de diez años y un plan de estudios diseñado alrededor de la tecnología actual puede envejecer rápido. Aun así, es un experimento que merece la pena seguir de cerca.",
-        "vocab": [
-          {
-            "front": "el plan de estudios",
-            "pos": "noun",
-            "back": "curriculum, syllabus",
-            "example": "La facultad ha renovado todo el plan de estudios.",
-            "tier": "B1"
-          },
-          {
-            "front": "la educación superior",
-            "pos": "noun",
-            "back": "higher education",
-            "example": "El informe analiza el acceso a la educación superior.",
-            "tier": "B1"
-          },
-          {
-            "front": "acorde con",
-            "pos": "phrase",
-            "back": "in keeping with, matching",
-            "example": "Busca un sueldo acorde con su experiencia.",
-            "tier": "B2"
-          },
-          {
-            "front": "la formación",
-            "pos": "noun",
-            "back": "training, education received",
-            "example": "Tiene una sólida formación en estadística.",
-            "tier": "B1"
-          },
-          {
-            "front": "llamativo",
-            "pos": "adj",
-            "back": "striking, eye-catching",
-            "example": "El dato más llamativo es la caída del consumo.",
-            "tier": "B2"
-          },
-          {
-            "front": "la apuesta",
-            "pos": "noun",
-            "back": "bet, gamble, strategic choice",
-            "example": "La apuesta por el tren ha dado buenos resultados.",
-            "tier": "B2"
-          },
-          {
-            "front": "arriesgado",
-            "pos": "adj",
-            "back": "risky",
-            "example": "Fue una decisión arriesgada pero acertada.",
-            "tier": "B1"
-          },
-          {
-            "front": "la competencia",
-            "pos": "noun",
-            "back": "skill, competence",
-            "example": "El curso desarrolla competencias digitales.",
-            "tier": "B2"
-          },
-          {
-            "front": "el mercado laboral",
-            "pos": "noun",
-            "back": "labour market",
-            "example": "El mercado laboral se ha vuelto más exigente.",
-            "tier": "B1"
-          },
-          {
-            "front": "envejecer",
-            "pos": "verb",
-            "back": "to age, to become dated",
-            "example": "Ese manual ha envejecido muy mal.",
-            "tier": "B2"
-          },
-          {
-            "front": "el curso",
-            "pos": "noun",
-            "back": "academic year, course",
-            "example": "El curso empieza en septiembre.",
-            "tier": "B1"
-          },
-          {
-            "front": "seguir algo de cerca",
-            "pos": "phrase",
-            "back": "to follow something closely",
-            "example": "Los inversores siguen de cerca la negociación.",
-            "tier": "B2"
-          },
-          {
-            "front": "aun así",
-            "pos": "adv",
-            "back": "even so, nevertheless",
-            "example": "Llovía mucho; aun así, salimos a correr.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Lo llamativo no es solo la escala, sino la velocidad: lo que en otros sistemas exigiría una década de consultas aquí se decide en un par de cursos.",
-            "point": "neuter lo plus adjective, and no solo ... sino",
-            "explanation": "Lo plus a masculine singular adjective creates an abstract noun: lo llamativo means the striking thing. The pair no solo ... sino adds a second element presented as the more important one.",
-            "why_tricky": "English needs a noun such as thing or aspect, so learners write la cosa llamativa; and they often add pero after no solo instead of sino."
-          },
-          {
-            "sentence": "La apuesta es arriesgada, porque nadie sabe qué competencias valorará el mercado laboral dentro de diez años y un plan de estudios diseñado alrededor de la tecnología actual puede envejecer rápido.",
-            "point": "indirect question with qué plus noun, and dentro de for future time",
-            "explanation": "Qué competencias valorará el mercado laboral is an embedded question working as the object of sabe, with no auxiliary verb and no question marks. Dentro de diez años means ten years from now, looking forward.",
-            "why_tricky": "Learners frequently confuse dentro de with después de, and they add an unnecessary que before the embedded question."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "seguir algo de cerca",
-            "meaning": "to monitor something closely",
-            "example": "El banco central sigue de cerca la evolución de los precios."
-          },
-          {
-            "phrase": "apostar por algo",
-            "meaning": "to back something, to commit to a strategy",
-            "example": "El país ha apostado por las energías renovables."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué cifras concretas da el texto sobre los programas eliminados y creados en las universidades chinas?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué dice el texto que la velocidad de la reforma es tan llamativa como su escala?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué riesgo señala el artículo al diseñar un plan de estudios alrededor de la tecnología actual?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Debería la universidad adaptarse rápidamente a lo que pide el mercado laboral, o proteger materias que hoy parecen poco útiles? Escribe unas 120 palabras con tu opinión y un ejemplo concreto."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-12-avion-c919-china",
-      "title": "Con el avión C919, China busca imponerse frente a Airbus y Boeing",
-      "source": "RFI Español",
-      "date": "2026-08-12",
-      "level": "B1-B2",
-      "topics": [
-        "aviación",
-        "economía"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-12-avion-c919-china",
-        "revision": 1,
-        "meta": {
-          "title": "Con el avión C919, China busca imponerse frente a Airbus y Boeing",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/asia-pacifico/20260812-con-el-avi%C3%B3n-c919-china-busca-imponerse-frente-a-airbus-y-boeing",
-          "date_published": "2026-08-12",
-          "date_processed": "2026-08-12",
-          "tags": [
-            "aviación",
-            "economía"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The C919, the passenger aircraft built by the Chinese state company Comac, has made its first scheduled international flight, between Beijing and Ulaanbaatar, the capital of Mongolia. Although the route is short and the number of passengers modest, the trip carries strong symbolic weight: for the first time, a commercial aircraft designed in China is carrying travellers beyond its borders. Beijing has spent years trying to reduce its dependence on Airbus and Boeing, which for decades have shared almost the entire world market between them.\n\nThe stated goal is for a third big aircraft manufacturer to emerge, one able to compete on equal terms. The road ahead, however, will not be easy. The C919 still relies on many foreign components, above all American ones, and it needs European and North American certification in order to fly in those markets. In the short term, then, the plane will establish itself mainly in Asia, while China builds up industrial experience and the trust of airlines.",
-        "resumen_es": "El C919, el avión de pasajeros fabricado por la empresa estatal china Comac, ha realizado su primer vuelo internacional regular entre Pekín y Ulán Bator, en Mongolia. Aunque la ruta es corta y el número de pasajeros modesto, el viaje tiene un fuerte valor simbólico: por primera vez, un avión comercial diseñado en China transporta viajeros más allá de sus fronteras. Pekín lleva años intentando reducir su dependencia de Airbus y Boeing, que se reparten desde hace décadas casi todo el mercado mundial.\n\nEl objetivo declarado es que surja un tercer gran fabricante aeronáutico capaz de competir en igualdad de condiciones. El camino, sin embargo, no será sencillo. El C919 depende todavía de muchos componentes extranjeros, sobre todo estadounidenses, y necesita certificaciones europeas y estadounidenses para volar allí. A corto plazo, el avión se consolidará sobre todo en Asia, mientras China acumula experiencia industrial y confianza entre las aerolíneas.",
-        "vocab": [
-          {
-            "front": "el fabricante",
-            "pos": "noun",
-            "back": "manufacturer, maker",
-            "example": "Es el mayor fabricante de coches del país.",
-            "tier": "B1"
-          },
-          {
-            "front": "estatal",
-            "pos": "adj",
-            "back": "state-owned, state (adj.)",
-            "example": "La empresa estatal controla los trenes.",
-            "tier": "B1"
-          },
-          {
-            "front": "el vuelo regular",
-            "pos": "phrase",
-            "back": "scheduled flight",
-            "example": "No hay vuelos regulares a esa isla.",
-            "tier": "B1"
-          },
-          {
-            "front": "el hito",
-            "pos": "noun",
-            "back": "milestone",
-            "example": "Aquel acuerdo fue un hito en su carrera.",
-            "tier": "B2"
-          },
-          {
-            "front": "imponerse frente a",
-            "pos": "verb",
-            "back": "to prevail over, to get the upper hand on",
-            "example": "Le costó imponerse frente a rivales más grandes.",
-            "tier": "B2"
-          },
-          {
-            "front": "reducir la dependencia de",
-            "pos": "phrase",
-            "back": "to reduce dependence on",
-            "example": "Europa quiere reducir su dependencia del gas importado.",
-            "tier": "B2"
-          },
-          {
-            "front": "repartirse",
-            "pos": "verb",
-            "back": "to share out, to divide between them",
-            "example": "Dos empresas se reparten todo el mercado.",
-            "tier": "B2"
-          },
-          {
-            "front": "en igualdad de condiciones",
-            "pos": "phrase",
-            "back": "on an equal footing",
-            "example": "Quieren competir en igualdad de condiciones.",
-            "tier": "B2"
-          },
-          {
-            "front": "el componente",
-            "pos": "noun",
-            "back": "component, part",
-            "example": "Muchos componentes vienen de Asia.",
-            "tier": "B1"
-          },
-          {
-            "front": "la certificación",
-            "pos": "noun",
-            "back": "certification, approval",
-            "example": "Sin certificación no puede volar aquí.",
-            "tier": "B2"
-          },
-          {
-            "front": "consolidarse",
-            "pos": "verb",
-            "back": "to become established, to consolidate its position",
-            "example": "La marca se consolidó en pocos años.",
-            "tier": "B2"
-          },
-          {
-            "front": "a corto plazo",
-            "pos": "phrase",
-            "back": "in the short term",
-            "example": "A corto plazo no habrá cambios.",
-            "tier": "B1"
-          },
-          {
-            "front": "la aerolínea",
-            "pos": "noun",
-            "back": "airline",
-            "example": "La aerolínea canceló varios vuelos.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Pekín lleva años intentando reducir su dependencia de Airbus y Boeing, que se reparten desde hace décadas casi todo el mercado mundial.",
-            "point": "llevar + periodo de tiempo + gerundio",
-            "explanation": "Para expresar una acción que empezó en el pasado y continúa, el español usa 'llevar' con una expresión de tiempo y un gerundio: 'lleva años intentando' equivale al inglés 'has spent years trying'.",
-            "why_tricky": "El inglés usa un tiempo perfecto ('has been trying for years'), así que el estudiante tiende a decir 'ha estado intentando por años', que suena mucho menos natural."
-          },
-          {
-            "sentence": "El objetivo declarado es que surja un tercer gran fabricante aeronáutico capaz de competir en igualdad de condiciones.",
-            "point": "subjuntivo tras 'el objetivo es que'",
-            "explanation": "Cuando la oración principal expresa una finalidad, un deseo o una intención, el verbo subordinado va en subjuntivo: 'es que surja', no 'es que surge'.",
-            "why_tricky": "El verbo 'ser' parece neutral y muchos estudiantes ponen indicativo; la clave está en el sustantivo 'objetivo', que introduce una idea todavía no realizada."
-          },
-          {
-            "sentence": "A corto plazo, el avión se consolidará sobre todo en Asia, mientras China acumula experiencia industrial y confianza entre las aerolíneas.",
-            "point": "futuro simple + 'mientras' con indicativo",
-            "explanation": "'Mientras' lleva indicativo cuando indica simultaneidad real ('acumula'); llevaría subjuntivo solo si expresara una condición futura o una restricción.",
-            "why_tricky": "El futuro de la oración principal ('se consolidará') empuja al estudiante a poner también subjuntivo detrás de 'mientras', lo cual aquí es incorrecto."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "a duras penas",
-            "meaning": "barely, only with great difficulty",
-            "example": "La compañía a duras penas logró certificar el avión."
-          },
-          {
-            "phrase": "llevar la delantera",
-            "meaning": "to be ahead, to have the lead",
-            "example": "Airbus y Boeing todavía llevan la delantera."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué se considera simbólico el primer vuelo internacional del C919?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué obstáculos debe superar China para vender el avión en Europa y Estados Unidos?",
-            "type": "open"
-          },
-          {
-            "q": "¿En qué mercados crees que se consolidará primero el C919 y por qué?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que es bueno para los pasajeros que exista un tercer gran fabricante de aviones? Escribe unas 120 palabras explicando tu opinión con dos argumentos."
       }
     }
   ]
