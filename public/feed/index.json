@@ -1,7 +1,489 @@
 {
-  "generated_at": "2026-08-21T20:12:37Z",
+  "generated_at": "2026-08-22T08:10:47Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-22-reparaciones-esclavitud-ghana",
+      "title": "\"Fuimos la escena del crimen de estas atrocidades\": el país que se enfrenta a EE.UU. y Europa al reclamar el pago de reparaciones por la esclavitud",
+      "source": "BBC Mundo",
+      "date": "2026-08-22",
+      "level": "B1-B2",
+      "topics": [
+        "historia",
+        "reparaciones"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-22-reparaciones-esclavitud-ghana",
+        "revision": 1,
+        "meta": {
+          "title": "\"Fuimos la escena del crimen de estas atrocidades\": el país que se enfrenta a EE.UU. y Europa al reclamar el pago de reparaciones por la esclavitud",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cm2grpxne10o",
+          "date_published": "2026-08-22",
+          "date_processed": "2026-08-22",
+          "tags": [
+            "historia",
+            "reparaciones"
+          ],
+          "level": "B1-B2"
+        },
+        "resumen_es": "Ghana se ha convertido en la voz principal de África a la hora de exigir que Estados Unidos y varios países europeos paguen reparaciones por la esclavitud. El gobierno ghanés sostiene que su territorio fue, durante siglos, uno de los principales puntos de salida de personas esclavizadas rumbo a América, y por eso reclama que las naciones e instituciones que se beneficiaron de ese comercio asuman ahora una responsabilidad económica y moral.\n\nEl debate sobre las reparaciones lleva décadas circulando en foros internacionales, pero rara vez avanza más allá de declaraciones simbólicas. Ghana busca ahora liderar una postura común entre los países africanos para presionar con más fuerza a gobiernos e instituciones occidentales. Sus defensores esperan que el reclamo abra una conversación duradera sobre la memoria histórica, mientras que otros gobiernos siguen mostrándose reacios a comprometerse con pagos concretos.",
+        "summary_en": "Ghana has become the leading African voice demanding that the United States and several European countries pay reparations for slavery. The Ghanaian government argues that its territory was, for centuries, one of the main departure points for enslaved people bound for the Americas, and it is therefore calling on the nations and institutions that profited from that trade to now take on economic and moral responsibility.\n\nThe debate over slavery reparations has circulated in international forums for decades, but rarely moves beyond symbolic statements. Ghana now wants to lead a common position among African countries to put more pressure on Western governments and institutions. Supporters hope the claim will open a lasting conversation about historical memory, while other governments remain reluctant to commit to concrete payments.",
+        "vocab": [
+          {
+            "front": "la reparación",
+            "pos": "noun",
+            "back": "reparation, compensation",
+            "example": "El país exige reparaciones por los daños del pasado.",
+            "tier": "B2"
+          },
+          {
+            "front": "la esclavitud",
+            "pos": "noun",
+            "back": "slavery",
+            "example": "La esclavitud dejó heridas que aún no han sanado.",
+            "tier": "B1"
+          },
+          {
+            "front": "reclamar",
+            "pos": "verb",
+            "back": "to claim, to demand",
+            "example": "Ghana reclama el pago de una deuda histórica.",
+            "tier": "B1"
+          },
+          {
+            "front": "beneficiarse de",
+            "pos": "phrase",
+            "back": "to benefit from",
+            "example": "Muchas empresas se beneficiaron de aquel comercio.",
+            "tier": "B2"
+          },
+          {
+            "front": "la responsabilidad",
+            "pos": "noun",
+            "back": "responsibility",
+            "example": "El país asume ahora esa responsabilidad moral.",
+            "tier": "B1"
+          },
+          {
+            "front": "asumir",
+            "pos": "verb",
+            "back": "to take on, to assume",
+            "example": "Los gobiernos deben asumir sus errores históricos.",
+            "tier": "B2"
+          },
+          {
+            "front": "el foro internacional",
+            "pos": "phrase",
+            "back": "international forum",
+            "example": "El tema se discute en foros internacionales.",
+            "tier": "B2"
+          },
+          {
+            "front": "la declaración simbólica",
+            "pos": "phrase",
+            "back": "symbolic statement",
+            "example": "Muchas promesas quedan en declaraciones simbólicas.",
+            "tier": "B2"
+          },
+          {
+            "front": "liderar",
+            "pos": "verb",
+            "back": "to lead",
+            "example": "Ghana quiere liderar esta causa en África.",
+            "tier": "B2"
+          },
+          {
+            "front": "presionar",
+            "pos": "verb",
+            "back": "to pressure",
+            "example": "El país busca presionar a los gobiernos occidentales.",
+            "tier": "B1"
+          },
+          {
+            "front": "la memoria histórica",
+            "pos": "phrase",
+            "back": "historical memory",
+            "example": "El debate reabre la memoria histórica del continente.",
+            "tier": "B2"
+          },
+          {
+            "front": "reacio/a",
+            "pos": "adj",
+            "back": "reluctant",
+            "example": "Algunos gobiernos se muestran reacios a pagar.",
+            "tier": "B2"
+          },
+          {
+            "front": "comprometerse con",
+            "pos": "phrase",
+            "back": "to commit to",
+            "example": "Pocos países quieren comprometerse con pagos concretos.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El gobierno ghanés sostiene que su territorio fue, durante siglos, uno de los principales puntos de salida de personas esclavizadas rumbo a América, y por eso reclama que las naciones e instituciones que se beneficiaron de ese comercio asuman ahora una responsabilidad económica y moral.",
+            "point": "subjuntivo tras verbos de exigencia (reclamar que)",
+            "explanation": "Cuando un verbo expresa petición o exigencia, como \"reclamar\", la oración subordinada introducida por \"que\" va en subjuntivo: \"reclama que...asuman\".",
+            "why_tricky": "Los estudiantes tienden a usar el indicativo (\"asumen\") porque la frase describe algo real, pero el verbo principal exige subjuntivo por su significado de exigencia."
+          },
+          {
+            "sentence": "Sus defensores esperan que el reclamo abra una conversación duradera sobre la memoria histórica, mientras que otros gobiernos siguen mostrándose reacios a comprometerse con pagos concretos.",
+            "point": "\"esperar que\" + subjuntivo",
+            "explanation": "Después de \"esperar que\", con sujetos distintos, siempre se usa el subjuntivo (\"abra\"), aunque la frase no sea negativa.",
+            "why_tricky": "Los estudiantes confunden \"esperar que\" con \"esperar + infinitivo\", que solo se usa cuando el sujeto de las dos acciones es el mismo."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "pagar los platos rotos",
+            "meaning": "asumir las consecuencias de algo que uno no hizo",
+            "example": "Ghana no quiere seguir pagando los platos rotos de un comercio que no eligió."
+          },
+          {
+            "phrase": "dar la espalda a algo",
+            "meaning": "ignorar o rechazar un problema",
+            "example": "Algunos gobiernos prefieren dar la espalda a este debate."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué reclama Ghana reparaciones a Estados Unidos y a países europeos?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué dificulta que el debate sobre las reparaciones avance más allá de las declaraciones simbólicas?",
+            "type": "open"
+          },
+          {
+            "q": "¿Crees que las instituciones que se beneficiaron de la esclavitud deberían pagar reparaciones? ¿Por qué?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Escribe un breve texto explicando si crees que los países que se beneficiaron históricamente de la esclavitud tienen la obligación moral de pagar reparaciones hoy en día."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-22-turistas-supermercados-mundo",
+      "title": "Por qué cada vez más turistas disfrutan visitando supermercados durante sus vacaciones",
+      "source": "BBC Mundo",
+      "date": "2026-08-21",
+      "level": "B1-B2",
+      "topics": [
+        "turismo",
+        "curiosidades"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-22-turistas-supermercados-mundo",
+        "revision": 1,
+        "meta": {
+          "title": "Por qué cada vez más turistas disfrutan visitando supermercados durante sus vacaciones",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cz64vg562gvo",
+          "date_published": "2026-08-21",
+          "date_processed": "2026-08-22",
+          "tags": [
+            "turismo",
+            "curiosidades"
+          ],
+          "level": "B1-B2"
+        },
+        "resumen_es": "Cada vez más turistas incluyen una visita al supermercado local dentro de su itinerario de viaje. Lejos de los restaurantes turísticos, los pasillos de un supermercado revelan cómo come de verdad la gente de cada país: desde los sándwiches de huevo típicos de Tokio hasta los productos lácteos que se venden en cualquier tienda de barrio en Grecia. Para muchos viajeros, este pequeño ritual se ha convertido en una de las experiencias más reveladoras y auténticas de sus vacaciones.\n\nLos expertos en turismo explican que esta tendencia refleja un deseo creciente de vivir experiencias cotidianas y no solo visitar monumentos. Recorrer los pasillos, comparar precios y probar productos locales permite entender mejor la cultura culinaria de un lugar sin gastar demasiado dinero. Algunas ciudades incluso promueven rutas gastronómicas centradas en supermercados, conscientes de que esta curiosidad silenciosa se ha convertido en una forma más de turismo.",
+        "summary_en": "More and more tourists are including a visit to the local supermarket in their travel itinerary. Far from touristy restaurants, supermarket aisles reveal how people in each country actually eat: from the egg sandwiches typical of Tokyo to the dairy products sold in any neighborhood shop in Greece. For many travelers, this small ritual has become one of the most revealing and authentic experiences of their trip.\n\nTourism experts explain that this trend reflects a growing desire to experience everyday life rather than just visiting monuments. Walking the aisles, comparing prices, and trying local products helps travelers understand a place's food culture better without spending too much money. Some cities are even promoting food routes centered on supermarkets, aware that this quiet curiosity has become another form of tourism.",
+        "vocab": [
+          {
+            "front": "el itinerario",
+            "pos": "noun",
+            "back": "itinerary",
+            "example": "El supermercado ya forma parte de su itinerario de viaje.",
+            "tier": "B2"
+          },
+          {
+            "front": "el pasillo",
+            "pos": "noun",
+            "back": "aisle",
+            "example": "Recorrer los pasillos revela mucho sobre un país.",
+            "tier": "B1"
+          },
+          {
+            "front": "revelador/a",
+            "pos": "adj",
+            "back": "revealing",
+            "example": "Ha sido una experiencia reveladora.",
+            "tier": "B2"
+          },
+          {
+            "front": "auténtico/a",
+            "pos": "adj",
+            "back": "authentic",
+            "example": "Buscan experiencias auténticas, no turísticas.",
+            "tier": "B1"
+          },
+          {
+            "front": "el producto lácteo",
+            "pos": "phrase",
+            "back": "dairy product",
+            "example": "Los productos lácteos varían mucho de un país a otro.",
+            "tier": "B1"
+          },
+          {
+            "front": "la tienda de barrio",
+            "pos": "phrase",
+            "back": "neighborhood store",
+            "example": "En Grecia, cualquier tienda de barrio vende estos productos.",
+            "tier": "B1"
+          },
+          {
+            "front": "cotidiano/a",
+            "pos": "adj",
+            "back": "everyday, ordinary",
+            "example": "Prefieren vivir experiencias cotidianas.",
+            "tier": "B2"
+          },
+          {
+            "front": "el monumento",
+            "pos": "noun",
+            "back": "monument",
+            "example": "No solo visitan monumentos, también supermercados.",
+            "tier": "B1"
+          },
+          {
+            "front": "comparar precios",
+            "pos": "phrase",
+            "back": "to compare prices",
+            "example": "Comparar precios ayuda a entender el coste de vida.",
+            "tier": "B1"
+          },
+          {
+            "front": "la cultura culinaria",
+            "pos": "phrase",
+            "back": "culinary culture",
+            "example": "Cada pasillo cuenta algo sobre la cultura culinaria local.",
+            "tier": "B2"
+          },
+          {
+            "front": "la ruta gastronómica",
+            "pos": "phrase",
+            "back": "food route",
+            "example": "Algunas ciudades promueven rutas gastronómicas.",
+            "tier": "B2"
+          },
+          {
+            "front": "la curiosidad silenciosa",
+            "pos": "phrase",
+            "back": "quiet curiosity",
+            "example": "Esta curiosidad silenciosa se ha vuelto una forma de turismo.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Para muchos viajeros, este pequeño ritual se ha convertido en una de las experiencias más reveladoras y auténticas de sus vacaciones.",
+            "point": "\"convertirse en\" + sustantivo",
+            "explanation": "\"Convertirse en\" se usa para hablar de cambios de estado o identidad y siempre va seguido de un sustantivo, nunca de un adjetivo solo.",
+            "why_tricky": "Los estudiantes confunden \"convertirse en\" con \"volverse\" o \"ponerse\", que se combinan con adjetivos."
+          },
+          {
+            "sentence": "Recorrer los pasillos, comparar precios y probar productos locales permite entender mejor la cultura culinaria de un lugar sin gastar demasiado dinero.",
+            "point": "infinitivos coordinados como sujeto",
+            "explanation": "Cuando varios infinitivos actúan juntos como sujeto de la oración (recorrer, comparar, probar), el verbo principal va en singular (\"permite\").",
+            "why_tricky": "Los estudiantes tienden a poner el verbo en plural al ver tres acciones coordinadas, como si cada infinitivo fuera un sujeto distinto."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "no hay como",
+            "meaning": "expresa que algo es lo mejor, incomparable",
+            "example": "Para muchos, no hay como perderse en los pasillos de un supermercado extranjero."
+          },
+          {
+            "phrase": "meterse en la piel de alguien",
+            "meaning": "entender la vida cotidiana de otra persona",
+            "example": "Visitar el supermercado local es una forma de meterse en la piel de los habitantes de un lugar."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué crees que visitar un supermercado revela más sobre un país que visitar un restaurante turístico?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué beneficios menciona el texto sobre comparar precios y probar productos locales?",
+            "type": "open"
+          },
+          {
+            "q": "¿Alguna vez has visitado un supermercado durante un viaje? ¿Qué descubriste?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Escribe sobre una experiencia de viaje \"cotidiana\" (un supermercado, un mercado, el transporte público) que te haya parecido más reveladora que una atracción turística clásica."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-22-vietnam-recolectores-plastico",
+      "title": "En Vietnam, los recolectores en las sombras: eslabones esenciales del reciclaje de plástico",
+      "source": "RFI",
+      "date": "2026-08-21",
+      "level": "B1-B2",
+      "topics": [
+        "medioambiente",
+        "trabajo"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-22-vietnam-recolectores-plastico",
+        "revision": 1,
+        "meta": {
+          "title": "En Vietnam, los recolectores en las sombras: eslabones esenciales del reciclaje de plástico",
+          "source": "RFI",
+          "url": "https://www.rfi.fr/es/asia-pacifico/20260821-en-vietnam-los-recolectores-en-las-sombras-eslabones-esenciales-del-reciclaje-de-pl%C3%A1stico",
+          "date_published": "2026-08-21",
+          "date_processed": "2026-08-22",
+          "tags": [
+            "medioambiente",
+            "trabajo"
+          ],
+          "level": "B1-B2"
+        },
+        "resumen_es": "En Vietnam, miles de recolectores informales conocidos como \"đồng nát\" recorren cada día las calles para recoger plástico y otros materiales reciclables. Aunque trabajan sin contrato ni protección social, estos recolectores independientes son responsables de una parte muy importante del reciclaje de plástico del país, ya que la separación de residuos en origen todavía es poco habitual y gran parte de la basura termina enterrada o incinerada.\n\nEl trabajo de los \"đồng nát\" sostiene en la práctica un sistema de reciclaje que el Estado aún no ha logrado organizar de forma oficial. Mientras el país crece económicamente y genera cada vez más residuos domésticos, estos trabajadores siguen operando al margen de cualquier reconocimiento legal, sin seguro médico ni garantías laborales. Su labor plantea una pregunta incómoda: qué pasaría con el reciclaje urbano vietnamita si un día decidieran dejar de hacerlo.",
+        "summary_en": "In Vietnam, thousands of informal collectors known as \"đồng nát\" go through the streets every day gathering plastic and other recyclable materials. Although they work without contracts or social protection, these independent collectors are responsible for a very significant share of the country's plastic recycling, since separating waste at the source is still uncommon and much of the trash ends up buried or incinerated.\n\nThe work of the \"đồng nát\" effectively sustains a recycling system that the state has not yet managed to organize officially. As the country grows economically and generates more and more household waste, these workers continue operating without any legal recognition, health insurance, or job guarantees. Their work raises an uncomfortable question: what would happen to Vietnam's urban recycling if they one day decided to stop.",
+        "vocab": [
+          {
+            "front": "el recolector / la recolectora",
+            "pos": "noun",
+            "back": "collector, waste picker",
+            "example": "Los recolectores recorren la ciudad cada mañana.",
+            "tier": "B1"
+          },
+          {
+            "front": "informal",
+            "pos": "adj",
+            "back": "informal (economy)",
+            "example": "Trabajan en el sector informal, sin contrato.",
+            "tier": "B2"
+          },
+          {
+            "front": "los residuos domésticos",
+            "pos": "phrase",
+            "back": "household waste",
+            "example": "Vietnam genera enormes cantidades de residuos domésticos.",
+            "tier": "B2"
+          },
+          {
+            "front": "reciclable",
+            "pos": "adj",
+            "back": "recyclable",
+            "example": "Recogen materiales reciclables cada día.",
+            "tier": "B1"
+          },
+          {
+            "front": "enterrar",
+            "pos": "verb",
+            "back": "to bury",
+            "example": "Gran parte de la basura termina enterrada.",
+            "tier": "B1"
+          },
+          {
+            "front": "incinerar",
+            "pos": "verb",
+            "back": "to incinerate",
+            "example": "Otra parte se incinera sin control.",
+            "tier": "B2"
+          },
+          {
+            "front": "la separación de residuos",
+            "pos": "phrase",
+            "back": "waste separation",
+            "example": "La separación de residuos en origen aún es poco habitual.",
+            "tier": "B2"
+          },
+          {
+            "front": "la protección social",
+            "pos": "phrase",
+            "back": "social protection",
+            "example": "Trabajan sin protección social.",
+            "tier": "B2"
+          },
+          {
+            "front": "el seguro médico",
+            "pos": "noun",
+            "back": "health insurance",
+            "example": "No tienen seguro médico.",
+            "tier": "B1"
+          },
+          {
+            "front": "el reconocimiento legal",
+            "pos": "phrase",
+            "back": "legal recognition",
+            "example": "Operan al margen de cualquier reconocimiento legal.",
+            "tier": "B2"
+          },
+          {
+            "front": "sostener",
+            "pos": "verb",
+            "back": "to sustain, to hold up",
+            "example": "Su trabajo sostiene en la práctica todo el sistema.",
+            "tier": "B2"
+          },
+          {
+            "front": "al margen de",
+            "pos": "phrase",
+            "back": "on the margins of",
+            "example": "Trabajan al margen de la ley.",
+            "tier": "B2"
+          },
+          {
+            "front": "plantear una pregunta",
+            "pos": "phrase",
+            "back": "to raise a question",
+            "example": "Su labor plantea una pregunta incómoda.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Aunque trabajan sin contrato ni protección social, estos recolectores independientes son responsables de una parte muy importante del reciclaje de plástico del país, ya que la separación de residuos en origen todavía es poco habitual y gran parte de la basura termina enterrada o incinerada.",
+            "point": "\"aunque\" + indicativo para hechos reales",
+            "explanation": "\"Aunque\" va con indicativo (\"trabajan\") cuando se presenta un hecho conocido y real, no una hipótesis.",
+            "why_tricky": "Los estudiantes asocian automáticamente \"aunque\" con subjuntivo, pero solo lo exige cuando el hecho es hipotético o desconocido para el hablante."
+          },
+          {
+            "sentence": "Su labor plantea una pregunta incómoda: qué pasaría con el reciclaje urbano vietnamita si un día decidieran dejar de hacerlo.",
+            "point": "condicional irreal (si + imperfecto de subjuntivo, condicional)",
+            "explanation": "La estructura \"si + imperfecto de subjuntivo (decidieran), condicional (pasaría)\" se usa para hablar de situaciones hipotéticas o poco probables.",
+            "why_tricky": "Los estudiantes suelen mezclar tiempos, usando el presente de indicativo en la parte del \"si\" en lugar del imperfecto de subjuntivo."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "en las sombras",
+            "meaning": "trabajar sin ser visto o reconocido",
+            "example": "Los recolectores viven y trabajan en las sombras del sistema oficial."
+          },
+          {
+            "phrase": "sostener algo en la práctica",
+            "meaning": "hacer que algo funcione aunque no esté reconocido oficialmente",
+            "example": "Su trabajo sostiene en la práctica un sistema que el Estado no ha organizado."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué es tan importante el trabajo de los \"đồng nát\" para el reciclaje en Vietnam?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué problemas enfrentan estos trabajadores por operar en el sector informal?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué solución propondrías para reconocer legalmente el trabajo de los recolectores informales?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Escribe un texto breve sobre si crees que los gobiernos deberían regularizar y proteger a los trabajadores informales que sostienen sistemas como el reciclaje urbano."
+      }
+    },
     {
       "pack_id": "feed-2026-08-21-hambre-cero-republica-dominicana",
       "title": "Cuál es la situación del hambre en América Latina (y cómo República Dominicana ha logrado ser el último país en alcanzar el hambre cero)",
@@ -6087,513 +6569,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que dos países enfrentados deberían mantener siempre un canal abierto para los trámites de sus ciudadanos, aunque no haya relaciones políticas? Escribe unas 120 palabras con tu argumento y un ejemplo."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-14-rusia-partido-pacifista",
-      "title": "La Corte Suprema de Rusia prohíbe a partido pacifista participar en las elecciones",
-      "source": "RFI Español",
-      "date": "2026-08-11",
-      "level": "B1-B2",
-      "topics": [
-        "política",
-        "Rusia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-14-rusia-partido-pacifista",
-        "revision": 1,
-        "meta": {
-          "title": "La Corte Suprema de Rusia prohíbe a partido pacifista participar en las elecciones",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/europa/20260811-la-corte-suprema-de-rusia-proh%C3%ADbe-a-partido-pacifista-participar-en-las-elecciones",
-          "date_published": "2026-08-11",
-          "date_processed": "2026-08-14",
-          "tags": [
-            "política",
-            "Rusia"
-          ],
-          "level": "B1-B2"
-        },
-        "resumen_es": "La Corte Suprema de Rusia ha prohibido al partido Yábloko presentar candidatos en las elecciones legislativas de septiembre. Yábloko es la única formación rusa que defiende abiertamente negociaciones inmediatas para poner fin al conflicto con Ucrania. Entre otros argumentos, el tribunal estimó que el partido recibía financiación del extranjero, una acusación que la legislación rusa castiga con dureza.\n\nLa decisión deja sin apenas alternativas a los votantes que se oponen a la guerra. Yábloko nació en los años noventa y hace tiempo que sobrevive al margen del poder, sin escaños en la Duma desde hace más de veinte años. La etiqueta de agente extranjero se ha convertido en un instrumento habitual para apartar de la vida pública a organizaciones críticas, desde medios de comunicación hasta organizaciones no gubernamentales. Si la prohibición se mantiene, la campaña de septiembre se perfila como un trámite de resultado previsible.",
-        "summary_en": "Russia's Supreme Court has barred the Yabloko party from fielding candidates in September's parliamentary elections. Yabloko is the only Russian party that openly argues for immediate negotiations to end the conflict with Ukraine. Among other arguments, the court held that the party was receiving funding from abroad, an accusation that Russian law punishes harshly.\n\nThe decision leaves voters who oppose the war with almost no alternatives. Yabloko was founded in the 1990s and has long survived on the margins of power, with no seats in the Duma for more than twenty years. The foreign agent label has become a routine instrument for pushing critical organisations out of public life, from news outlets to non-governmental organisations. If the ban stands, September's campaign looks set to be a formality with a predictable result.",
-        "vocab": [
-          {
-            "front": "prohibir a alguien + infinitivo",
-            "pos": "verb",
-            "back": "to ban someone from doing something",
-            "example": "El tribunal prohibió al partido presentar candidatos.",
-            "tier": "B2"
-          },
-          {
-            "front": "la formación (política)",
-            "pos": "noun",
-            "back": "a political party, a political group",
-            "example": "Es la formación más antigua del país.",
-            "tier": "B2"
-          },
-          {
-            "front": "las elecciones legislativas",
-            "pos": "phrase",
-            "back": "parliamentary elections, a general election for the legislature",
-            "example": "Las elecciones legislativas se celebrarán en otoño.",
-            "tier": "B2"
-          },
-          {
-            "front": "presentar candidatos",
-            "pos": "phrase",
-            "back": "to field candidates",
-            "example": "El partido no podrá presentar candidatos en tres regiones.",
-            "tier": "B2"
-          },
-          {
-            "front": "estimar (que)",
-            "pos": "verb",
-            "back": "to hold, to judge, to consider (formal, legal use)",
-            "example": "El juez estimó que la prueba no era válida.",
-            "tier": "C1"
-          },
-          {
-            "front": "la financiación",
-            "pos": "noun",
-            "back": "funding, financing",
-            "example": "La financiación del proyecto viene de fondos privados.",
-            "tier": "B2"
-          },
-          {
-            "front": "castigar con dureza",
-            "pos": "phrase",
-            "back": "to punish harshly",
-            "example": "La ley castiga con dureza ese tipo de fraude.",
-            "tier": "B2"
-          },
-          {
-            "front": "el escaño",
-            "pos": "noun",
-            "back": "the seat (in a parliament)",
-            "example": "El partido perdió veinte escaños en las últimas elecciones.",
-            "tier": "C1"
-          },
-          {
-            "front": "al margen de",
-            "pos": "phrase",
-            "back": "on the fringes of, outside of",
-            "example": "Vivió muchos años al margen de la política.",
-            "tier": "B2"
-          },
-          {
-            "front": "la etiqueta",
-            "pos": "noun",
-            "back": "the label, the tag",
-            "example": "No me gusta esa etiqueta, simplifica demasiado.",
-            "tier": "B2"
-          },
-          {
-            "front": "apartar a alguien de",
-            "pos": "verb",
-            "back": "to remove someone from, to push someone aside from",
-            "example": "Lo apartaron del cargo sin explicaciones.",
-            "tier": "B2"
-          },
-          {
-            "front": "perfilarse como",
-            "pos": "verb",
-            "back": "to be shaping up to be, to look set to be",
-            "example": "El acto se perfila como el más importante del año.",
-            "tier": "C1"
-          },
-          {
-            "front": "previsible",
-            "pos": "adj",
-            "back": "predictable, foreseeable",
-            "example": "El final de la película era bastante previsible.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La Corte Suprema de Rusia ha prohibido al partido Yábloko presentar candidatos en las elecciones legislativas de septiembre.",
-            "point": "prohibir takes an indirect object for the person and an infinitive for the action",
-            "explanation": "The pattern is prohibir a alguien hacer algo: the one who is banned is an indirect object (al partido), and the banned action goes in the infinitive. The same frame works for permitir, impedir and ordenar.",
-            "why_tricky": "English says ban someone from doing something, so learners often write prohibir al partido de presentar. Spanish takes no preposition before the infinitive here."
-          },
-          {
-            "sentence": "Yábloko nació en los años noventa y hace tiempo que sobrevive al margen del poder, sin escaños en la Duma desde hace más de veinte años.",
-            "point": "hace tiempo que + present for a situation still going on",
-            "explanation": "Hace tiempo que sobrevive means it has been surviving for a long time and still is. Spanish keeps the present tense; the time expression alone carries the duration. Desde hace más de veinte años works the same way, marking how long the situation has lasted.",
-            "why_tricky": "English needs a present perfect continuous (has been surviving), which pushes learners into ha sobrevivido and quietly changes the meaning to something finished."
-          },
-          {
-            "sentence": "La decisión deja sin apenas alternativas a los votantes que se oponen a la guerra.",
-            "point": "apenas as a quantifier, and personal a before a human direct object",
-            "explanation": "Sin apenas alternativas means with hardly any alternatives. Apenas is an adverb, and in the fixed sequence sin apenas + noun it quantifies the noun and softens sin, from with no alternatives down to with hardly any. Note the personal a in a los votantes: with dejar a alguien sin algo, los votantes is a specific human direct object, so it takes a.",
-            "why_tricky": "Apenas does two very different jobs. As a quantifier it means hardly or barely, but in front of a verb in a past clause it means as soon as: apenas llegó, se marchó. The personal a is also easy to drop when the object arrives late in the sentence."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "atar de pies y manos",
-            "meaning": "to tie someone's hands completely, to leave them unable to act",
-            "example": "La nueva norma ata de pies y manos a los pequeños partidos."
-          },
-          {
-            "phrase": "dejar fuera de juego",
-            "meaning": "to sideline someone, to leave them unable to take part",
-            "example": "La sentencia deja fuera de juego al principal partido opositor."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué razón dio el tribunal para prohibir la participación de Yábloko?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué afecta esta decisión sobre todo a los votantes contrarios a la guerra?",
-            "type": "open"
-          },
-          {
-            "q": "Según el texto, ¿cómo se ha utilizado la etiqueta de agente extranjero en Rusia?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Qué condiciones mínimas deben cumplir unas elecciones para que se puedan considerar libres? Escribe unas 120 palabras y menciona al menos dos condiciones concretas."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-14-india-protestas-examenes",
-      "title": "India: La policía usa porras y cañones de agua para dispersar las protestas estudiantiles",
-      "source": "RFI Español",
-      "date": "2026-08-10",
-      "level": "B1-B2",
-      "topics": [
-        "sociedad",
-        "India"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-14-india-protestas-examenes",
-        "revision": 1,
-        "meta": {
-          "title": "India: La policía usa porras y cañones de agua para dispersar las protestas estudiantiles",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/asia-pacifico/20260810-india-la-polic%C3%ADa-usa-porras-y-ca%C3%B1ones-de-agua-para-dispersar-las-protestas-estudiantiles",
-          "date_published": "2026-08-10",
-          "date_processed": "2026-08-14",
-          "tags": [
-            "sociedad",
-            "India"
-          ],
-          "level": "B1-B2"
-        },
-        "resumen_es": "En el estado de Jharkhand, en el este de la India, la policía cargó contra miles de manifestantes con porras y cañones de agua mientras marchaban hacia la Asamblea regional. Se trataba sobre todo de estudiantes y de aspirantes a un empleo público, que denunciaban irregularidades en los exámenes de contratación. Las cargas policiales contra estudiantes suelen ampliar el alcance de este tipo de protestas.\n\nPara entender la magnitud de la movilización hay que mirar el contexto. En la India, aprobar unas oposiciones es una de las pocas vías seguras hacia un trabajo estable, así que cualquier sospecha de fraude toca la fibra sensible. A este tipo de convocatorias suelen presentarse muchísimos más candidatos que plazas disponibles, y los procesos pueden alargarse durante años. Las denuncias por filtraciones se repiten desde hace tiempo en varios estados. Si las autoridades no aclaran lo ocurrido, es probable que las protestas continúen.",
-        "summary_en": "In the state of Jharkhand, in eastern India, police charged at thousands of demonstrators with batons and water cannon as they marched towards the regional assembly. Most of them were students and applicants for public sector jobs, protesting about irregularities in recruitment exams. Police charges against students tend to widen protests of this kind.\n\nTo understand the scale of the protest you have to look at the context. In India, passing a competitive public exam is one of the few reliable routes to a stable job, so any suspicion of fraud strikes a nerve. Far more candidates apply for exams like these than there are posts available, and the process can drag on for years. Complaints about leaked exam papers have recurred for a long time in several states. If the authorities do not clarify what happened, the protests are likely to continue.",
-        "vocab": [
-          {
-            "front": "la porra",
-            "pos": "noun",
-            "back": "the baton, the truncheon",
-            "example": "Los agentes llevaban casco y porra.",
-            "tier": "B2"
-          },
-          {
-            "front": "el cañón de agua",
-            "pos": "noun",
-            "back": "the water cannon",
-            "example": "Usaron cañones de agua para despejar la avenida.",
-            "tier": "B2"
-          },
-          {
-            "front": "dispersar",
-            "pos": "verb",
-            "back": "to disperse, to break up (a crowd)",
-            "example": "La policía dispersó a los manifestantes en pocos minutos.",
-            "tier": "B2"
-          },
-          {
-            "front": "cargar contra",
-            "pos": "verb",
-            "back": "to charge at (of police or troops)",
-            "example": "La policía cargó contra el grupo más numeroso.",
-            "tier": "C1"
-          },
-          {
-            "front": "el aspirante",
-            "pos": "noun",
-            "back": "the applicant, the candidate",
-            "example": "Hay miles de aspirantes para veinte plazas.",
-            "tier": "B2"
-          },
-          {
-            "front": "denunciar",
-            "pos": "verb",
-            "back": "to report (a wrongdoing), to speak out against",
-            "example": "Los vecinos denunciaron el estado de las carreteras.",
-            "tier": "B2"
-          },
-          {
-            "front": "las oposiciones",
-            "pos": "noun",
-            "back": "competitive public sector exams",
-            "example": "Lleva dos años preparando las oposiciones.",
-            "tier": "B2"
-          },
-          {
-            "front": "la plaza",
-            "pos": "noun",
-            "back": "the post, the position (in a job competition)",
-            "example": "Solo salieron cincuenta plazas este año.",
-            "tier": "B2"
-          },
-          {
-            "front": "la convocatoria",
-            "pos": "noun",
-            "back": "the official call for applications, the exam round",
-            "example": "La convocatoria se publicó en el boletín oficial.",
-            "tier": "C1"
-          },
-          {
-            "front": "la filtración",
-            "pos": "noun",
-            "back": "the leak (of information or exam papers)",
-            "example": "Anularon la prueba tras una filtración.",
-            "tier": "C1"
-          },
-          {
-            "front": "la sospecha",
-            "pos": "noun",
-            "back": "the suspicion",
-            "example": "Basta una sospecha para que se abra una investigación.",
-            "tier": "B2"
-          },
-          {
-            "front": "alargarse",
-            "pos": "verb",
-            "back": "to drag on, to go on longer than expected",
-            "example": "La reunión se alargó hasta la noche.",
-            "tier": "B1"
-          },
-          {
-            "front": "la movilización",
-            "pos": "noun",
-            "back": "the protest action, the mobilisation",
-            "example": "Los sindicatos anunciaron nuevas movilizaciones.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Se trataba sobre todo de estudiantes y de aspirantes a un empleo público, que denunciaban irregularidades en los exámenes de contratación.",
-            "point": "tratarse de as an impersonal verb with no subject",
-            "explanation": "Tratarse de means it is a case of or they were. It is used only in the third person singular and never agrees with what follows, so it stays tratarse even before a plural: se trataba de estudiantes, not se trataban de estudiantes.",
-            "why_tricky": "The plural noun right after the verb pulls learners towards plural agreement, and the English translation they were reinforces the mistake."
-          },
-          {
-            "sentence": "Si las autoridades no aclaran lo ocurrido, es probable que las protestas continúen.",
-            "point": "Real conditional with present indicative, then subjunctive after es probable que",
-            "explanation": "After si for an open, likely condition Spanish uses the present indicative (no aclaran), never the present subjunctive. The subjunctive appears instead in the main clause, because es probable que expresses probability rather than fact: continúen.",
-            "why_tricky": "Both halves feel uncertain, so learners often put the subjunctive in the wrong clause, or in both."
-          },
-          {
-            "sentence": "En la India, aprobar unas oposiciones es una de las pocas vías seguras hacia un trabajo estable, así que cualquier sospecha de fraude toca la fibra sensible.",
-            "point": "Infinitive as the subject of a sentence",
-            "explanation": "Aprobar unas oposiciones works as a noun phrase here and is the subject of es. Spanish uses the bare infinitive where English uses the gerund: passing an exam is, aprobar es.",
-            "why_tricky": "Learners transfer the English gerund and write aprobando unas oposiciones es, which is ungrammatical in Spanish."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "tocar la fibra sensible",
-            "meaning": "to strike a nerve, to touch on something people feel deeply about",
-            "example": "El anuncio tocó la fibra sensible de toda una generación."
-          },
-          {
-            "phrase": "salir a la calle",
-            "meaning": "to take to the streets, to protest publicly",
-            "example": "Miles de personas salieron a la calle tras conocerse la noticia."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué denunciaban exactamente los manifestantes de Jharkhand?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué son tan importantes las oposiciones para muchos jóvenes indios, según el texto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué podría hacer que las protestas se detuvieran, de acuerdo con el último párrafo?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Es justo que el acceso a un empleo público dependa casi por completo de un examen? Escribe unas 120 palabras explicando qué ventajas y qué problemas tiene ese sistema."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-13-servicio-secreto-senuelos",
-      "title": "Los trucos que usa el servicio secreto de EE.UU. para ocultar a los presidentes a plena vista",
-      "source": "BBC Mundo",
-      "date": "2026-08-12",
-      "level": "B1-B2",
-      "topics": [
-        "seguridad",
-        "señuelos"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-13-servicio-secreto-senuelos",
-        "revision": 1,
-        "meta": {
-          "title": "Los trucos que usa el servicio secreto de EE.UU. para ocultar a los presidentes a plena vista",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cy8m2xp944do?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-12",
-          "date_processed": "2026-08-13",
-          "tags": [
-            "seguridad",
-            "señuelos"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The United States Secret Service resorts to elaborate deception operations and decoys to throw off potential threats against the country's presidents. The idea is not to make the leader disappear, but to hide him in plain sight: convoys of identical vehicles that take different routes, alternative routes announced at the last minute, appearances that were never on the schedule. When nobody can be sure where the president really is, an attack becomes far harder to plan.\n\nThese tactics are nothing new, but they attract attention every time a threat comes to light. Protecting a head of state means combining technology, logistics and theatre, because a well-designed deception can be worth as much as an armoured car. The debate that opens afterwards is always the same: how much secrecy is compatible with a democracy in which citizens expect to know where their leaders are.",
-        "resumen_es": "El servicio secreto de Estados Unidos recurre a elaboradas operaciones de engaño y a señuelos para despistar a posibles amenazas contra los presidentes del país. La idea no es hacer desaparecer al mandatario, sino esconderlo a plena vista: convoyes de vehículos idénticos que toman rutas distintas, rutas alternativas anunciadas en el último momento, apariciones que no figuraban en la agenda. Cuando nadie puede estar seguro de dónde está realmente el presidente, un ataque resulta mucho más difícil de planear.\n\nEstas tácticas no son nuevas, pero llaman la atención cada vez que sale a la luz una amenaza. Proteger a un jefe de Estado implica combinar tecnología, logística y teatro, porque un engaño bien diseñado puede valer tanto como un coche blindado. El debate que se abre después siempre es el mismo: cuánto secreto es compatible con una democracia en la que los ciudadanos esperan saber dónde están sus líderes.",
-        "vocab": [
-          {
-            "front": "el señuelo",
-            "pos": "noun",
-            "back": "decoy, lure",
-            "example": "Usaron un coche como señuelo para despistar a los periodistas.",
-            "tier": "B2"
-          },
-          {
-            "front": "despistar",
-            "pos": "verb",
-            "back": "to throw off, to put off the scent",
-            "example": "El equipo cambió de ruta para despistar a los seguidores.",
-            "tier": "B2"
-          },
-          {
-            "front": "el engaño",
-            "pos": "noun",
-            "back": "deception, trick",
-            "example": "Todo el plan se basaba en un engaño muy bien preparado.",
-            "tier": "B1"
-          },
-          {
-            "front": "recurrir a",
-            "pos": "verb",
-            "back": "to resort to, to fall back on",
-            "example": "El gobierno recurrió a medidas excepcionales.",
-            "tier": "B2"
-          },
-          {
-            "front": "a plena vista",
-            "pos": "phrase",
-            "back": "in plain sight",
-            "example": "El documento estaba a plena vista sobre la mesa.",
-            "tier": "B2"
-          },
-          {
-            "front": "el mandatario",
-            "pos": "noun",
-            "back": "head of state, leader",
-            "example": "El mandatario llegó acompañado de su equipo de seguridad.",
-            "tier": "B2"
-          },
-          {
-            "front": "el convoy",
-            "pos": "noun",
-            "back": "convoy",
-            "example": "El convoy salió del hotel a las seis de la mañana.",
-            "tier": "B2"
-          },
-          {
-            "front": "la amenaza",
-            "pos": "noun",
-            "back": "threat",
-            "example": "La policía investiga una amenaza contra el edificio.",
-            "tier": "B1"
-          },
-          {
-            "front": "salir a la luz",
-            "pos": "phrase",
-            "back": "to come to light, to emerge",
-            "example": "El caso salió a la luz gracias a una investigación periodística.",
-            "tier": "B2"
-          },
-          {
-            "front": "blindado",
-            "pos": "adj",
-            "back": "armoured, bulletproof",
-            "example": "Viaja siempre en un coche blindado.",
-            "tier": "B2"
-          },
-          {
-            "front": "el jefe de Estado",
-            "pos": "noun",
-            "back": "head of state",
-            "example": "El jefe de Estado preside los actos oficiales.",
-            "tier": "B1"
-          },
-          {
-            "front": "planear",
-            "pos": "verb",
-            "back": "to plan (something in advance)",
-            "example": "Tardaron meses en planear el viaje.",
-            "tier": "B1"
-          },
-          {
-            "front": "llamar la atención",
-            "pos": "phrase",
-            "back": "to attract attention, to stand out",
-            "example": "Su reacción llamó la atención de todos.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Cuando nadie puede estar seguro de dónde está realmente el presidente, un ataque resulta mucho más difícil de planear.",
-            "point": "cuando plus indicative for a general, habitual situation",
-            "explanation": "Here cuando introduces something presented as generally true, not as a future event, so it takes the indicative puede. If the sentence pointed to a specific future moment, Spanish would switch to the subjunctive: cuando nadie pueda estar seguro.",
-            "why_tricky": "English uses the same when in both cases, so learners either reach for the subjunctive whenever they see cuando, or never use it at all."
-          },
-          {
-            "sentence": "La idea no es hacer desaparecer al mandatario, sino esconderlo a plena vista: convoyes de vehículos idénticos que toman rutas distintas, rutas alternativas anunciadas en el último momento, apariciones que no figuraban en la agenda.",
-            "point": "sino after a negative, and the object pronoun attached to the infinitive",
-            "explanation": "Sino corrects a preceding negative statement: not X but rather Y. Note also esconderlo, where lo must attach to the infinitive: there is no finite verb here for it to climb to.",
-            "why_tricky": "Learners often use pero where sino is needed; and because verbal periphrases do allow both positions (quiere esconderlo, lo quiere esconder), they assume the pronoun can always go in front, which is impossible with a bare infinitive like this one."
-          },
-          {
-            "sentence": "El debate que se abre después siempre es el mismo: cuánto secreto es compatible con una democracia en la que los ciudadanos esperan saber dónde están sus líderes.",
-            "point": "en la que as a relative pronoun after a preposition",
-            "explanation": "After a preposition Spanish normally uses el que, la que, los que or las que, agreeing with the noun, rather than bare que. Here the antecedent is una democracia, so the form is en la que.",
-            "why_tricky": "English allows a democracy where citizens expect, and even lets the preposition drift to the end of the clause, so the preposition plus article combination has no direct model in English."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "a plena vista",
-            "meaning": "in full view, where anyone could see it",
-            "example": "Escondieron el mensaje a plena vista, entre los anuncios del periódico."
-          },
-          {
-            "phrase": "salir a la luz",
-            "meaning": "to come out into the open, to become public",
-            "example": "Los detalles del contrato salieron a la luz meses después."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Según el texto, ¿por qué esconder al presidente a plena vista puede ser más eficaz que hacerlo desaparecer?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué ejemplos concretos de tácticas de despiste se mencionan en el artículo?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué tensión plantea el texto entre el secreto y la vida democrática?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Hasta qué punto crees que los ciudadanos tienen derecho a saber dónde está y qué hace su jefe de Estado? Escribe unas 120 palabras defendiendo tu postura con al menos un argumento en contra."
       }
     }
   ]
