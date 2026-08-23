@@ -1,7 +1,507 @@
 {
-  "generated_at": "2026-08-22T20:12:37Z",
+  "generated_at": "2026-08-23T15:40:10Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-23-bibliotecas-finlandia",
+      "title": "\"El Estado de bienestar en un edificio\": por qué son tan importantes las bibliotecas en Finlandia (y no solo para prestar libros)",
+      "source": "BBC Mundo",
+      "date": "2026-08-23",
+      "level": "B1-B2",
+      "topics": [
+        "sociedad",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-23-bibliotecas-finlandia",
+        "revision": 1,
+        "meta": {
+          "title": "\"El Estado de bienestar en un edificio\": por qué son tan importantes las bibliotecas en Finlandia (y no solo para prestar libros)",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cj3gly8jkr2o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-23",
+          "date_processed": "2026-08-23",
+          "tags": [
+            "sociedad",
+            "cultura"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "In Finland, public libraries have become far more than places where books are lent out. According to a BBC report, they are valued less and less for the loans they record and more for their contribution to how society works. Inside these buildings, which are open to everyone, people study, work, sew, print official documents or take shelter from the cold. Some describe them as the welfare state condensed into a single building.\n\nThis model did not appear overnight, but grew out of a long tradition linking reading with equality of opportunity. By offering a public space that does not require you to buy anything, Finnish libraries have become a meeting point between generations and neighbours of different origins. The question now is how far that model can hold up when public budgets are tightened, and whether other countries will be able to copy it without copying only the building.",
+        "resumen_es": "En Finlandia, las bibliotecas públicas se han convertido en mucho más que un lugar donde se prestan libros. Según un reportaje de la BBC, cada vez se valoran menos por los préstamos que registran y más por su contribución al funcionamiento de la sociedad. En sus edificios, abiertos a todo el mundo, la gente estudia, trabaja, cose, imprime documentos oficiales o se resguarda del frío. Hay quien las describe como el Estado de bienestar concentrado en un solo edificio.\n\nEste modelo no surgió de la noche a la mañana, sino de una larga tradición que asocia la lectura con la igualdad de oportunidades. Al ofrecer un espacio público que no exige consumir nada, las bibliotecas finlandesas hacen las veces de punto de encuentro entre generaciones y vecinos de orígenes distintos. La duda que se plantea ahora es hasta qué punto ese modelo puede sostenerse cuando los presupuestos públicos se ajustan.",
+        "vocab": [
+          {
+            "front": "el préstamo",
+            "pos": "noun",
+            "back": "loan (of a book, or of money)",
+            "example": "El préstamo de libros es gratuito para todos los vecinos.",
+            "tier": "B1"
+          },
+          {
+            "front": "prestar",
+            "pos": "verb",
+            "back": "to lend",
+            "example": "La biblioteca presta hasta diez libros a la vez.",
+            "tier": "B1"
+          },
+          {
+            "front": "el Estado de bienestar",
+            "pos": "noun",
+            "back": "the welfare state",
+            "example": "El Estado de bienestar nórdico se financia con impuestos altos.",
+            "tier": "B2"
+          },
+          {
+            "front": "contribuir a",
+            "pos": "verb",
+            "back": "to contribute to",
+            "example": "Estas medidas contribuyen a reducir la desigualdad.",
+            "tier": "B1"
+          },
+          {
+            "front": "resguardarse de",
+            "pos": "verb",
+            "back": "to take shelter from",
+            "example": "Entramos en el portal para resguardarnos de la lluvia.",
+            "tier": "B2"
+          },
+          {
+            "front": "el funcionamiento",
+            "pos": "noun",
+            "back": "the workings, how something operates",
+            "example": "Nadie entiende bien el funcionamiento de ese sistema.",
+            "tier": "B1"
+          },
+          {
+            "front": "la igualdad de oportunidades",
+            "pos": "phrase",
+            "back": "equality of opportunity",
+            "example": "La escuela pública nació para garantizar la igualdad de oportunidades.",
+            "tier": "B2"
+          },
+          {
+            "front": "exigir",
+            "pos": "verb",
+            "back": "to demand, to require",
+            "example": "El puesto exige un buen nivel de inglés.",
+            "tier": "B1"
+          },
+          {
+            "front": "el punto de encuentro",
+            "pos": "noun",
+            "back": "meeting point",
+            "example": "La plaza es el punto de encuentro del barrio.",
+            "tier": "B1"
+          },
+          {
+            "front": "sostenerse",
+            "pos": "verb",
+            "back": "to hold up, to be sustainable",
+            "example": "Ese negocio no se sostiene sin ayudas públicas.",
+            "tier": "B2"
+          },
+          {
+            "front": "el presupuesto",
+            "pos": "noun",
+            "back": "budget",
+            "example": "Han recortado el presupuesto de cultura otra vez.",
+            "tier": "B1"
+          },
+          {
+            "front": "ajustarse",
+            "pos": "verb",
+            "back": "to be tightened, to be squeezed",
+            "example": "Cuando los sueldos se ajustan, la gente sale menos.",
+            "tier": "B2"
+          },
+          {
+            "front": "el reportaje",
+            "pos": "noun",
+            "back": "feature report, in-depth article",
+            "example": "Publicaron un reportaje muy completo sobre el tema.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Hay quien las describe como el Estado de bienestar concentrado en un solo edificio.",
+            "point": "hay quien + indicativo",
+            "explanation": "Hay quien means there are people who. It is always singular, even though it refers to several people, and here it takes the indicative describe because the speaker presents these people as real and identifiable.",
+            "why_tricky": "Learners tend to write hay quienes describen or hay gente que describe. Both exist, but hay quien with a singular verb is the more idiomatic register in journalism, and it never agrees in the plural."
+          },
+          {
+            "sentence": "Este modelo no surgió de la noche a la mañana, sino de una larga tradición que asocia la lectura con la igualdad de oportunidades.",
+            "point": "sino (no pero) tras una negación",
+            "explanation": "After a negative statement, sino introduces the correct alternative that replaces what was denied. Here the sentence denies one origin and immediately supplies another, so sino is obligatory.",
+            "why_tricky": "English uses but for both pero and sino. Pero adds a contrast to something affirmed; sino corrects something denied. Note also that sino is followed here by a phrase, not a clause, so it is not sino que."
+          },
+          {
+            "sentence": "La duda que se plantea ahora es hasta qué punto ese modelo puede sostenerse cuando los presupuestos públicos se ajustan.",
+            "point": "se impersonal y pasiva refleja, más interrogativa indirecta con tilde",
+            "explanation": "Se plantea and se ajustan are pasiva refleja: the grammatical subject is la duda and los presupuestos, and the verb agrees with them, with no agent expressed. Hasta qué punto keeps its accent because it is an indirect question embedded in the sentence.",
+            "why_tricky": "Two traps at once. Learners often leave the pasiva refleja verb in the singular regardless of its subject, and they drop the accent on qué once the question mark disappears, but an indirect question keeps the written accent."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "de la noche a la mañana",
+            "meaning": "overnight, suddenly and without warning",
+            "example": "Nadie aprende un idioma de la noche a la mañana."
+          },
+          {
+            "phrase": "hacer las veces de",
+            "meaning": "to serve as, to double up as something else",
+            "example": "El salón hace las veces de despacho desde que trabajo en casa."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué dice el reportaje que las bibliotecas finlandesas ya no se valoran solo por los préstamos?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué actividades cotidianas se pueden hacer dentro de una biblioteca pública en Finlandia?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué riesgo señala el texto para el futuro de este modelo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que las bibliotecas de tu ciudad cumplen una función social parecida a la finlandesa? Escribe unas 120 palabras explicando qué cambiarías para que fueran un verdadero punto de encuentro."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-23-miedo-fobias",
+      "title": "¿Por qué sentimos miedo ante cosas que probablemente no nos harán daño?",
+      "source": "BBC Mundo",
+      "date": "2026-08-23",
+      "level": "B1-B2",
+      "topics": [
+        "ciencia",
+        "psicología"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-23-miedo-fobias",
+        "revision": 1,
+        "meta": {
+          "title": "¿Por qué sentimos miedo ante cosas que probablemente no nos harán daño?",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cn8ndd0e459o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-23",
+          "date_processed": "2026-08-23",
+          "tags": [
+            "ciencia",
+            "psicología"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Why are we frightened by a tiny spider or a safe lift? The BBC points out that we fear things that will almost never harm us, while we live quite calmly alongside bigger risks. Scientists do not believe that the fear of specific objects is innate: it is learned, it spreads from person to person and it is reinforced over time. A child who sees an adult back away from a dog usually keeps that reaction imprinted, even if they have never been bitten.\n\nOver the years, that association can turn into a phobia: a disproportionate fear that shapes everyday life. The good news is that it can also be unlearned. Gradual exposure therapies, in which the person moves closer little by little to the thing they fear, are still the most effective treatment. Specialists insist that avoiding what frightens us brings relief in the short term, but in the long run it feeds the fear.",
+        "resumen_es": "¿Por qué nos da miedo una araña diminuta o un ascensor seguro? La BBC recuerda que tememos cosas que casi nunca nos harán daño, mientras convivimos sin inmutarnos con riesgos mayores. Los científicos no creen que el miedo a objetos concretos sea innato: más bien se aprende, se contagia y se refuerza con el tiempo. Un niño que ve a un adulto apartarse de un perro suele quedarse con esa reacción grabada, aunque nunca haya sufrido una mordedura.\n\nCon los años, esa asociación puede convertirse en una fobia: un miedo desproporcionado que condiciona la vida cotidiana. La buena noticia es que también se desaprende. Las terapias de exposición gradual, en las que la persona se acerca poco a poco a aquello que teme, siguen siendo el tratamiento más eficaz. Los especialistas insisten en que evitar lo que nos asusta alivia a corto plazo, pero a la larga alimenta el miedo.",
+        "vocab": [
+          {
+            "front": "dar miedo",
+            "pos": "phrase",
+            "back": "to frighten (someone)",
+            "example": "A mi hermana le dan miedo las alturas.",
+            "tier": "B1"
+          },
+          {
+            "front": "temer",
+            "pos": "verb",
+            "back": "to fear",
+            "example": "Muchos pacientes temen la primera sesión.",
+            "tier": "B1"
+          },
+          {
+            "front": "innato",
+            "pos": "adj",
+            "back": "innate, inborn",
+            "example": "El talento no es innato, se entrena.",
+            "tier": "B2"
+          },
+          {
+            "front": "contagiarse",
+            "pos": "verb",
+            "back": "to be caught, to spread from one person to another",
+            "example": "El nerviosismo se contagia enseguida en un grupo.",
+            "tier": "B2"
+          },
+          {
+            "front": "reforzarse",
+            "pos": "verb",
+            "back": "to be reinforced, to become stronger",
+            "example": "La costumbre se refuerza cada vez que la repites.",
+            "tier": "B2"
+          },
+          {
+            "front": "la mordedura",
+            "pos": "noun",
+            "back": "bite (from an animal)",
+            "example": "La mordedura del perro no fue grave.",
+            "tier": "B2"
+          },
+          {
+            "front": "desproporcionado",
+            "pos": "adj",
+            "back": "disproportionate, out of all proportion",
+            "example": "La reacción del público fue desproporcionada.",
+            "tier": "B2"
+          },
+          {
+            "front": "condicionar",
+            "pos": "verb",
+            "back": "to shape, to constrain, to limit",
+            "example": "El horario del tren condiciona todo mi día.",
+            "tier": "B2"
+          },
+          {
+            "front": "asustar",
+            "pos": "verb",
+            "back": "to scare, to startle",
+            "example": "No quería asustarte, perdona.",
+            "tier": "B1"
+          },
+          {
+            "front": "aliviar",
+            "pos": "verb",
+            "back": "to relieve, to ease",
+            "example": "Una siesta corta alivia bastante el cansancio.",
+            "tier": "B1"
+          },
+          {
+            "front": "inmutarse",
+            "pos": "verb",
+            "back": "to bat an eyelid, to be visibly affected",
+            "example": "Escuchó la noticia sin inmutarse.",
+            "tier": "C1"
+          },
+          {
+            "front": "la exposición gradual",
+            "pos": "phrase",
+            "back": "gradual exposure (as a therapy)",
+            "example": "La exposición gradual funciona mejor que evitar el problema.",
+            "tier": "B2"
+          },
+          {
+            "front": "diminuto",
+            "pos": "adj",
+            "back": "tiny",
+            "example": "Vivían en un piso diminuto en el centro.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Los científicos no creen que el miedo a objetos concretos sea innato: más bien se aprende, se contagia y se refuerza con el tiempo.",
+            "point": "no creer que + subjuntivo",
+            "explanation": "Verbs of thinking and believing take the indicative when affirmative (creen que es innato) but switch to the subjunctive when negated, because the speaker is no longer presenting the idea as true. Hence sea, not es.",
+            "why_tricky": "The subjunctive here depends on the negation, not on doubt in general. In questions such as no crees que es innato, the indicative reappears when the speaker actually expects agreement, so the rule is about stance, not a mechanical trigger."
+          },
+          {
+            "sentence": "Un niño que ve a un adulto apartarse de un perro suele quedarse con esa reacción grabada, aunque nunca haya sufrido una mordedura.",
+            "point": "aunque + pretérito perfecto de subjuntivo",
+            "explanation": "Aunque takes the subjunctive when the clause is presented as a concession that is not asserted as new information. Haya sufrido is the perfect subjunctive, linking a past experience to the present situation of the child.",
+            "why_tricky": "Aunque also takes the indicative when the speaker reports a fact the listener does not yet know (aunque nunca ha sufrido una mordedura). Both are correct Spanish; the choice changes how much the speaker is asserting."
+          },
+          {
+            "sentence": "Las terapias de exposición gradual, en las que la persona se acerca poco a poco a aquello que teme, siguen siendo el tratamiento más eficaz.",
+            "point": "preposición + artículo + que, y seguir + gerundio",
+            "explanation": "In a relative clause introduced by a preposition, Spanish requires the article between the preposition and que: en las que, agreeing with terapias. Seguir + gerundio expresses that a situation continues to be the case.",
+            "why_tricky": "Learners copy English word order and write en que or, worse, place the preposition at the end. They also reach for continuar a, which does not exist; the gerund is the only option after seguir and continuar."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "a corto plazo",
+            "meaning": "in the short term",
+            "example": "A corto plazo la medida funciona, pero luego se complica."
+          },
+          {
+            "phrase": "a la larga",
+            "meaning": "in the long run",
+            "example": "A la larga siempre sale más caro no arreglarlo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué diferencia señala el texto entre los riesgos que tememos y los riesgos reales?",
+            "type": "open"
+          },
+          {
+            "q": "Según los científicos, ¿cómo se aprende el miedo a un objeto concreto?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué evitar aquello que nos asusta no es una buena estrategia?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Tienes algún miedo que sabes que es irracional? Escribe unas 120 palabras contando de dónde crees que viene y qué harías para enfrentarte a él poco a poco."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-23-estafador-nigeria-madre",
+      "title": "Qué descubrí cuando viajé de España a Nigeria para enfrentar al estafador que sedujo a mi madre",
+      "source": "BBC Mundo",
+      "date": "2026-08-22",
+      "level": "B1-B2",
+      "topics": [
+        "sucesos",
+        "internet"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-23-estafador-nigeria-madre",
+        "revision": 1,
+        "meta": {
+          "title": "Qué descubrí cuando viajé de España a Nigeria para enfrentar al estafador que sedujo a mi madre",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cj9dxw4wxwyo?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-22",
+          "date_processed": "2026-08-23",
+          "tags": [
+            "sucesos",
+            "internet"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Silvia, a Spanish woman, fell in love online with someone she believed to be an American soldier posted abroad. In reality, behind that profile there was a scammer operating from Nigeria who, little by little, kept asking her for money with ever more elaborate excuses. Her son Carlos decided not to sit back and do nothing: he travelled to Lagos to track down the man who had seduced his mother.\n\nThis kind of fraud, known as a romance scam, has multiplied with social media and dating apps. The scammers build a relationship over months, win her trust and only then ask for transfers for an invented emergency. Victims often keep quiet out of shame, which makes reports and police investigations harder. Experts recommend being suspicious of anyone who never agrees to a video call, and talking the matter over with family before sending a single euro.",
+        "resumen_es": "Silvia, una mujer española, se enamoró por internet de quien creía que era un militar estadounidense destinado en el extranjero. En realidad, detrás de aquel perfil había un estafador que operaba desde Nigeria y que, poco a poco, le fue pidiendo dinero con excusas cada vez más elaboradas. Su hijo Carlos decidió no quedarse de brazos cruzados y viajó a Lagos para dar con el hombre que había seducido a su madre.\n\nEste tipo de fraude, conocido como estafa romántica, se ha multiplicado con las redes sociales y las aplicaciones de citas. Los estafadores construyen una relación durante meses, se ganan su confianza y solo entonces piden transferencias para una emergencia inventada. Las víctimas suelen callar por vergüenza, lo que dificulta las denuncias y las investigaciones policiales. Los expertos recomiendan desconfiar de quien nunca acepta una videollamada y hablar del asunto con la familia antes de enviar un solo euro.",
+        "vocab": [
+          {
+            "front": "el estafador",
+            "pos": "noun",
+            "back": "scammer, con artist",
+            "example": "El estafador usaba fotos robadas de otra persona.",
+            "tier": "B1"
+          },
+          {
+            "front": "la estafa",
+            "pos": "noun",
+            "back": "scam, fraud",
+            "example": "Denunció la estafa tres meses después.",
+            "tier": "B1"
+          },
+          {
+            "front": "seducir",
+            "pos": "verb",
+            "back": "to seduce, to win over",
+            "example": "Su discurso sedujo a medio auditorio.",
+            "tier": "B2"
+          },
+          {
+            "front": "destinado",
+            "pos": "adj",
+            "back": "posted, stationed (of military or staff)",
+            "example": "Estuvo destinado dos años en Alemania.",
+            "tier": "B2"
+          },
+          {
+            "front": "la excusa",
+            "pos": "noun",
+            "back": "excuse",
+            "example": "Siempre encuentra una excusa para no venir.",
+            "tier": "B1"
+          },
+          {
+            "front": "elaborado",
+            "pos": "adj",
+            "back": "elaborate, carefully worked out",
+            "example": "Era una mentira muy elaborada.",
+            "tier": "B2"
+          },
+          {
+            "front": "la transferencia",
+            "pos": "noun",
+            "back": "bank transfer",
+            "example": "Le hizo una transferencia de mil euros.",
+            "tier": "B1"
+          },
+          {
+            "front": "la denuncia",
+            "pos": "noun",
+            "back": "official complaint, report to the police",
+            "example": "Puso una denuncia en la comisaría del barrio.",
+            "tier": "B1"
+          },
+          {
+            "front": "desconfiar de",
+            "pos": "verb",
+            "back": "to distrust, to be suspicious of",
+            "example": "Desconfío de las ofertas que llegan por mensaje.",
+            "tier": "B2"
+          },
+          {
+            "front": "callar",
+            "pos": "verb",
+            "back": "to keep quiet, to say nothing",
+            "example": "Prefirió callar delante de sus compañeros.",
+            "tier": "B1"
+          },
+          {
+            "front": "la vergüenza",
+            "pos": "noun",
+            "back": "shame, embarrassment",
+            "example": "Le daba vergüenza contarlo en casa.",
+            "tier": "B1"
+          },
+          {
+            "front": "dificultar",
+            "pos": "verb",
+            "back": "to hinder, to make harder",
+            "example": "La niebla dificultó mucho el rescate.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Silvia, una mujer española, se enamoró por internet de quien creía que era un militar estadounidense destinado en el extranjero.",
+            "point": "de quien como relativo sin antecedente",
+            "explanation": "Quien can work without an antecedent, meaning the person that. The preposition de belongs to enamorarse de, so it lands in front of quien, and the whole clause de quien creía que era... functions as the complement of the verb.",
+            "why_tricky": "Learners often insert a dummy antecedent (de la persona de quien) or write de que, which is ungrammatical here. Note too that creía is imperfect: it describes an ongoing false belief, not a single act of thinking."
+          },
+          {
+            "sentence": "En realidad, detrás de aquel perfil había un estafador que operaba desde Nigeria y que, poco a poco, le fue pidiendo dinero con excusas cada vez más elaboradas.",
+            "point": "ir + gerundio y el pronombre le",
+            "explanation": "Ir + gerundio presents an action as unfolding gradually, step by step, which is exactly what poco a poco reinforces. Le is the indirect object pronoun standing for Silvia, the person to whom the money is requested.",
+            "why_tricky": "English has no direct equivalent of fue pidiendo, so learners default to pidió and lose the sense of gradual escalation. The pronoun is also a trap: pedir takes le, not lo or la, because the thing asked for is the direct object."
+          },
+          {
+            "sentence": "Las víctimas suelen callar por vergüenza, lo que dificulta las denuncias y las investigaciones policiales.",
+            "point": "lo que con antecedente oracional",
+            "explanation": "Lo que refers back not to a noun but to the whole preceding clause, that is, to the fact that victims keep quiet. This is the standard way of adding a comment about an entire situation.",
+            "why_tricky": "Spanish cannot use que alone or el cual here, and lo cual, though possible, sounds noticeably more formal. Learners also mix this up with lo que meaning what in sentences like no entiendo lo que dices."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "quedarse de brazos cruzados",
+            "meaning": "to sit back and do nothing about a problem",
+            "example": "No pienso quedarme de brazos cruzados mientras cierran el centro."
+          },
+          {
+            "phrase": "dar con alguien",
+            "meaning": "to track someone down, to manage to find them",
+            "example": "Tardamos un año en dar con el antiguo propietario."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Quién creía Silvia que era la persona con la que hablaba por internet?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué decidió hacer su hijo Carlos y con qué objetivo?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué muchas víctimas de estafas románticas no presentan una denuncia?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Qué harías si sospecharas que alguien de tu familia está siendo víctima de una estafa romántica? Escribe unas 120 palabras explicando cómo abordarías la conversación sin herir a esa persona."
+      }
+    },
     {
       "pack_id": "feed-2026-08-22-cocaina-fraternidad",
       "title": "La red de tráfico de cocaína que dirigían los alumnos de una de las universidades más conocidas de EE.UU. (y cómo los atraparon)",
@@ -6069,513 +6569,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que un país debe seguir buscando a las víctimas de una guerra que terminó hace décadas? Escribe unas 120 palabras explicando tu postura."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-16-centenario-goscinny",
-      "title": "Centenario de René Goscinny: el legado eterno del creador de Astérix, Lucky Luke y El Pequeño Nicolás",
-      "source": "RFI Español",
-      "date": "2026-08-14",
-      "level": "B1-B2",
-      "topics": [
-        "cultura",
-        "cómic"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-16-centenario-goscinny",
-        "revision": 1,
-        "meta": {
-          "title": "Centenario de René Goscinny: el legado eterno del creador de Astérix, Lucky Luke y El Pequeño Nicolás",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/cultura/20260814-centenario-de-ren%C3%A9-goscinny-el-legado-eterno-del-creador-de-ast%C3%A9rix-lucky-luke-y-el-peque%C3%B1o-nicol%C3%A1s",
-          "date_published": "2026-08-14",
-          "date_processed": "2026-08-16",
-          "tags": [
-            "cultura",
-            "cómic"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "On 14 August it was a hundred years since the birth of Rene Goscinny, the French scriptwriter behind some of the most widely read comics in the world. The scripts for Asterix, Lucky Luke, Iznogoud and Little Nicholas are his, series that have been translated into more than a hundred and twenty languages and have sold hundreds of millions of albums.\n\nHis great contribution was humour: wordplay, larger-than-life characters and a mocking view of power that works for children and adults alike. Goscinny died in 1977, but his influence is still very much alive in European comics, and this anniversary is being marked with exhibitions and reissues. For many readers, his albums were the way into reading.",
-        "resumen_es": "El 14 de agosto se cumplieron cien años del nacimiento de René Goscinny, el guionista francés que está detrás de algunos de los cómics más leídos del mundo. Suyos son los guiones de Astérix, Lucky Luke, Iznogoud y El Pequeño Nicolás, unas series que se han traducido a más de ciento veinte idiomas y que han vendido cientos de millones de álbumes.\n\nSu gran aportación fue el humor: juegos de palabras, personajes exagerados y una mirada burlona sobre el poder que funciona tanto para niños como para adultos. Goscinny murió en 1977, pero su influencia sigue muy viva en la historieta europea, y este aniversario se celebra con exposiciones y reediciones. Para muchos lectores, sus álbumes fueron la puerta de entrada a la lectura.",
-        "vocab": [
-          {
-            "front": "el guionista",
-            "pos": "noun",
-            "back": "scriptwriter",
-            "example": "El guionista trabajó dos años en esa serie.",
-            "tier": "B1"
-          },
-          {
-            "front": "cumplirse (años)",
-            "pos": "verb",
-            "back": "to mark (x) years since something",
-            "example": "Este mes se cumplen diez años del estreno.",
-            "tier": "B2"
-          },
-          {
-            "front": "la historieta",
-            "pos": "noun",
-            "back": "comic strip, comics as a genre",
-            "example": "La historieta argentina tiene una tradición muy fuerte.",
-            "tier": "B2"
-          },
-          {
-            "front": "el juego de palabras",
-            "pos": "phrase",
-            "back": "pun, wordplay",
-            "example": "El chiste se basa en un juego de palabras difícil de traducir.",
-            "tier": "B2"
-          },
-          {
-            "front": "burlón",
-            "pos": "adj",
-            "back": "mocking, teasing",
-            "example": "Contestó con un tono burlón que molestó a todos.",
-            "tier": "B2"
-          },
-          {
-            "front": "la aportación",
-            "pos": "noun",
-            "back": "contribution",
-            "example": "Su mayor aportación fue el sentido del humor.",
-            "tier": "B2"
-          },
-          {
-            "front": "estar detrás de algo",
-            "pos": "phrase",
-            "back": "to be behind something, to be responsible for it",
-            "example": "No sabemos quién está detrás de la campaña.",
-            "tier": "B1"
-          },
-          {
-            "front": "la mirada",
-            "pos": "noun",
-            "back": "look, way of seeing something",
-            "example": "El libro ofrece una mirada distinta sobre la ciudad.",
-            "tier": "B1"
-          },
-          {
-            "front": "la puerta de entrada",
-            "pos": "phrase",
-            "back": "gateway, way in",
-            "example": "Ese disco fue mi puerta de entrada al jazz.",
-            "tier": "B2"
-          },
-          {
-            "front": "la reedición",
-            "pos": "noun",
-            "back": "reissue, new edition",
-            "example": "La reedición incluye páginas nunca publicadas.",
-            "tier": "B2"
-          },
-          {
-            "front": "seguir vivo",
-            "pos": "phrase",
-            "back": "to remain alive, to still be relevant",
-            "example": "Su estilo sigue vivo en los autores jóvenes.",
-            "tier": "B1"
-          },
-          {
-            "front": "la exposición",
-            "pos": "noun",
-            "back": "exhibition",
-            "example": "La exposición estará abierta hasta diciembre.",
-            "tier": "B1"
-          },
-          {
-            "front": "el lector",
-            "pos": "noun",
-            "back": "reader",
-            "example": "Los lectores más fieles esperaban el nuevo álbum.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Suyos son los guiones de Astérix, Lucky Luke, Iznogoud y El Pequeño Nicolás, unas series que se han traducido a más de ciento veinte idiomas y que han vendido cientos de millones de álbumes.",
-            "point": "Posesivo tónico antepuesto y pasiva refleja",
-            "explanation": "'Suyos son los guiones' invierte el orden normal ('Los guiones son suyos') para dar énfasis, un recurso muy común en prensa. 'Se han traducido' es pasiva refleja: interesa el resultado, no quién tradujo.",
-            "why_tricky": "El posesivo tónico ('suyos') concuerda con la cosa poseída, no con el poseedor, y su posición inicial suena literaria."
-          },
-          {
-            "sentence": "El 14 de agosto se cumplieron cien años del nacimiento de René Goscinny, el guionista francés que está detrás de algunos de los cómics más leídos del mundo.",
-            "point": "'cumplirse años de algo' para aniversarios",
-            "explanation": "Para aniversarios el español usa 'se cumplen/se cumplieron X años de algo'. El sujeto gramatical es 'cien años', por eso el verbo va en plural.",
-            "why_tricky": "En inglés se dice 'it was a hundred years since'; traducir literalmente con 'era' o 'hacía' suena forzado aquí."
-          },
-          {
-            "sentence": "Su gran aportación fue el humor: juegos de palabras, personajes exagerados y una mirada burlona sobre el poder que funciona tanto para niños como para adultos.",
-            "point": "Correlación 'tanto... como'",
-            "explanation": "'Tanto A como B' equivale a 'both A and B' e incluye los dos elementos por igual. Aquí une dos públicos, niños y adultos.",
-            "why_tricky": "Es fácil confundirlo con 'tanto como' comparativo ('as much as'), que tiene otro significado."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "dejar huella",
-            "meaning": "to leave a mark, to have a lasting influence",
-            "example": "Sus personajes dejaron huella en varias generaciones."
-          },
-          {
-            "phrase": "hacer historia",
-            "meaning": "to make history, to be a landmark",
-            "example": "Aquel primer álbum hizo historia en Francia."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué obras escribió René Goscinny y por qué se recuerdan cien años después?",
-            "type": "open"
-          },
-          {
-            "q": "¿Cuál fue, según el texto, su mayor aportación al cómic?",
-            "type": "open"
-          },
-          {
-            "q": "¿Cómo se celebra el centenario y qué dice eso de su influencia actual?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que el cómic merece el mismo respeto cultural que la novela? Escribe unas 120 palabras con ejemplos concretos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-16-mezquita-japon-inmigracion",
-      "title": "La polémica construcción de una mezquita en Japón que revela el dilema del país ante la inmigración",
-      "source": "BBC Mundo",
-      "date": "2026-08-16",
-      "level": "B1-B2",
-      "topics": [
-        "sociedad",
-        "Japón"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-16-mezquita-japon-inmigracion",
-        "revision": 1,
-        "meta": {
-          "title": "La polémica construcción de una mezquita en Japón que revela el dilema del país ante la inmigración",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cn4n1522kygo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-16",
-          "date_processed": "2026-08-16",
-          "tags": [
-            "sociedad",
-            "Japón"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The construction of a mosque in Japan has opened an uncomfortable debate in a country with little experience of immigration. Some residents have voiced their opposition to the project, while the Muslim families who live and work in the area defend their right to have somewhere to pray. The row looks small on the surface, but it touches on a deeper question.\n\nJapan is ageing fast and depends more and more on foreign workers to keep its economy going. At the same time, it is finding it hard to decide how far it wants to integrate new cultures and religions. The mosque case shows that contradiction: the country needs labour, but it has not yet found a way to welcome the people who arrive. The debate, experts say, has only just begun.",
-        "resumen_es": "La construcción de una mezquita en Japón ha abierto un debate incómodo en un país poco acostumbrado a la inmigración. Algunos vecinos han mostrado su rechazo al proyecto, mientras que las familias musulmanas que viven y trabajan en la zona defienden su derecho a tener un lugar donde rezar. La polémica parece pequeña en apariencia, pero toca una cuestión de fondo.\n\nJapón envejece a gran velocidad y cada vez depende más de los trabajadores extranjeros para sostener su economía. Al mismo tiempo, le cuesta decidir hasta qué punto quiere integrar nuevas culturas y religiones. El caso de la mezquita muestra esa contradicción: el país necesita mano de obra, pero todavía no ha encontrado la manera de acoger a quienes llegan. El debate, dicen los expertos, no ha hecho más que empezar.",
-        "vocab": [
-          {
-            "front": "la mezquita",
-            "pos": "noun",
-            "back": "mosque",
-            "example": "La mezquita se construirá en las afueras de la ciudad.",
-            "tier": "B1"
-          },
-          {
-            "front": "el rechazo",
-            "pos": "noun",
-            "back": "rejection, opposition",
-            "example": "La propuesta generó un fuerte rechazo entre los vecinos.",
-            "tier": "B2"
-          },
-          {
-            "front": "rezar",
-            "pos": "verb",
-            "back": "to pray",
-            "example": "Necesitan un espacio tranquilo para rezar.",
-            "tier": "B1"
-          },
-          {
-            "front": "envejecer",
-            "pos": "verb",
-            "back": "to age, to grow old",
-            "example": "La población del pueblo envejece cada año.",
-            "tier": "B2"
-          },
-          {
-            "front": "la mano de obra",
-            "pos": "phrase",
-            "back": "labour, workforce",
-            "example": "El campo no encuentra mano de obra suficiente.",
-            "tier": "B2"
-          },
-          {
-            "front": "acoger",
-            "pos": "verb",
-            "back": "to take in, to welcome",
-            "example": "El ayuntamiento acogió a treinta familias.",
-            "tier": "B2"
-          },
-          {
-            "front": "una cuestión de fondo",
-            "pos": "phrase",
-            "back": "an underlying issue",
-            "example": "Detrás del ruido hay una cuestión de fondo.",
-            "tier": "B2"
-          },
-          {
-            "front": "costarle a alguien",
-            "pos": "verb",
-            "back": "to find something hard to do",
-            "example": "Le cuesta hablar en público.",
-            "tier": "B1"
-          },
-          {
-            "front": "en apariencia",
-            "pos": "adv",
-            "back": "on the surface, apparently",
-            "example": "En apariencia todo estaba tranquilo.",
-            "tier": "B2"
-          },
-          {
-            "front": "sostener",
-            "pos": "verb",
-            "back": "to sustain, to hold up",
-            "example": "El turismo sostiene buena parte de la economía local.",
-            "tier": "B2"
-          },
-          {
-            "front": "hasta qué punto",
-            "pos": "phrase",
-            "back": "to what extent",
-            "example": "No está claro hasta qué punto influyó la campaña.",
-            "tier": "B2"
-          },
-          {
-            "front": "acostumbrado a",
-            "pos": "adj",
-            "back": "used to, accustomed to",
-            "example": "No están acostumbrados a este clima.",
-            "tier": "B1"
-          },
-          {
-            "front": "integrar",
-            "pos": "verb",
-            "back": "to integrate, to bring in",
-            "example": "La escuela intenta integrar a los alumnos nuevos.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Japón envejece a gran velocidad y cada vez depende más de los trabajadores extranjeros para sostener su economía.",
-            "point": "'cada vez más' y el régimen de 'depender de'",
-            "explanation": "'Cada vez más' expresa un aumento progresivo y se coloca alrededor del verbo. 'Depender' exige siempre la preposición 'de', nunca 'en'.",
-            "why_tricky": "El inglés usa 'depend on', y muchos estudiantes copian la preposición y dicen 'depender en'."
-          },
-          {
-            "sentence": "Al mismo tiempo, le cuesta decidir hasta qué punto quiere integrar nuevas culturas y religiones.",
-            "point": "Construcción 'costarle a alguien + infinitivo'",
-            "explanation": "Funciona como 'gustar': el sujeto real es el infinitivo ('decidir') y la persona aparece como pronombre de objeto indirecto ('le'). Aquí 'le' se refiere a Japón.",
-            "why_tricky": "El orden invierte lo que espera un anglohablante: no es 'Japón cuesta decidir' sino 'le cuesta decidir'."
-          },
-          {
-            "sentence": "El debate, dicen los expertos, no ha hecho más que empezar.",
-            "point": "'no hacer más que + infinitivo'",
-            "explanation": "Significa 'only just' o 'do nothing but'. Aquí indica que el debate acaba de comenzar y va a durar.",
-            "why_tricky": "La doble negación aparente ('no... más que') no niega: en realidad limita, y traducirla literalmente confunde el sentido."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "poner el dedo en la llaga",
-            "meaning": "to touch a nerve, to point at the painful truth",
-            "example": "El reportaje puso el dedo en la llaga sobre los salarios."
-          },
-          {
-            "phrase": "estar a la orden del día",
-            "meaning": "to be commonplace, to happen all the time",
-            "example": "Las discusiones sobre inmigración están a la orden del día en Europa."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué ha generado polémica la construcción de esta mezquita?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué contradicción vive Japón según el texto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué argumentos dan las familias musulmanas de la zona?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Un país que necesita trabajadores extranjeros, ¿tiene la obligación de adaptar sus ciudades a sus costumbres y religiones? Escribe unas 120 palabras."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-16-granja-pulpos-espana",
-      "title": "La ola de protestas que logró frenar la primera granja comercial de pulpos del mundo en España",
-      "source": "BBC Mundo",
-      "date": "2026-08-15",
-      "level": "B1-B2",
-      "topics": [
-        "animales",
-        "medioambiente"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-16-granja-pulpos-espana",
-        "revision": 1,
-        "meta": {
-          "title": "La ola de protestas que logró frenar la primera granja comercial de pulpos del mundo en España",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c86nv9l6dlwo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-15",
-          "date_processed": "2026-08-16",
-          "tags": [
-            "animales",
-            "medioambiente"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Plans for the world's first commercial octopus farm, due to be built in Spain, have been dropped after a wave of protests. Environmental groups, scientists and ordinary citizens mobilised against the project, which aimed to raise octopuses in captivity on an industrial scale. Public pressure ended up prevailing and the project never got off the drawing board.\n\nIt is not an isolated case. Several countries and some US states are banning octopus farming even before it takes hold. The debate revolves around the intelligence of these animals: they are seen as curious creatures, able to solve problems, and there is an open argument about whether they feel pain, which makes it hard to justify keeping them confined. Those who defend aquaculture argue that it allows growing demand to be met without emptying the oceans. For now, the animal welfare arguments have carried more weight.",
-        "resumen_es": "Los planes para abrir la primera granja comercial de pulpos del mundo, prevista en España, se han abandonado tras una ola de protestas. Organizaciones ecologistas, científicos y ciudadanos corrientes se movilizaron contra el proyecto, que pretendía criar pulpos en cautividad a escala industrial. La presión pública terminó por imponerse y el proyecto se quedó en el papel.\n\nNo es un caso aislado. Varios países y algunos estados de Estados Unidos están prohibiendo la cría de pulpos antes incluso de que llegue a implantarse. El debate gira en torno a la inteligencia de estos animales: se les considera criaturas curiosas, capaces de resolver problemas, y hay una discusión abierta sobre si sienten dolor, lo que hace difícil justificar su confinamiento. Quienes defienden la acuicultura sostienen que permite responder a una demanda creciente sin vaciar los océanos. Por ahora, han pesado más los argumentos sobre el bienestar animal.",
-        "vocab": [
-          {
-            "front": "la granja",
-            "pos": "noun",
-            "back": "farm (for animals)",
-            "example": "La granja de pulpos nunca llegó a construirse.",
-            "tier": "B1"
-          },
-          {
-            "front": "frenar",
-            "pos": "verb",
-            "back": "to halt, to put the brakes on",
-            "example": "Las protestas lograron frenar el proyecto.",
-            "tier": "B1"
-          },
-          {
-            "front": "pretender",
-            "pos": "verb",
-            "back": "to aim to, to intend to (NOT to pretend)",
-            "example": "El proyecto pretendía criar pulpos a escala industrial.",
-            "tier": "B2"
-          },
-          {
-            "front": "ecologista",
-            "pos": "adj",
-            "back": "environmentalist, green (NOT ecologist, which is ecólogo)",
-            "example": "Varias organizaciones ecologistas firmaron la protesta.",
-            "tier": "B2"
-          },
-          {
-            "front": "movilizarse",
-            "pos": "verb",
-            "back": "to mobilise, to take collective action",
-            "example": "Miles de vecinos se movilizaron contra la obra.",
-            "tier": "B2"
-          },
-          {
-            "front": "criar",
-            "pos": "verb",
-            "back": "to raise, to breed (animals)",
-            "example": "En esa zona crían cerdos desde hace décadas.",
-            "tier": "B1"
-          },
-          {
-            "front": "la cautividad",
-            "pos": "noun",
-            "back": "captivity",
-            "example": "Muchos animales no se reproducen en cautividad.",
-            "tier": "B2"
-          },
-          {
-            "front": "a escala industrial",
-            "pos": "phrase",
-            "back": "on an industrial scale",
-            "example": "Querían producir a escala industrial.",
-            "tier": "B2"
-          },
-          {
-            "front": "dar marcha atrás",
-            "pos": "phrase",
-            "back": "to back down, to reverse a decision",
-            "example": "La empresa dio marcha atrás en el último momento.",
-            "tier": "B2"
-          },
-          {
-            "front": "la cría",
-            "pos": "noun",
-            "back": "breeding, rearing",
-            "example": "Varios estados prohíben la cría de estos animales.",
-            "tier": "B2"
-          },
-          {
-            "front": "girar en torno a",
-            "pos": "phrase",
-            "back": "to revolve around, to centre on",
-            "example": "El debate gira en torno al bienestar animal.",
-            "tier": "B2"
-          },
-          {
-            "front": "el confinamiento",
-            "pos": "noun",
-            "back": "confinement; lockdown",
-            "example": "El confinamiento afecta a la conducta de los pulpos.",
-            "tier": "B1"
-          },
-          {
-            "front": "el bienestar animal",
-            "pos": "phrase",
-            "back": "animal welfare",
-            "example": "El bienestar animal pesa cada vez más en estas decisiones.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La presión pública terminó por imponerse y el proyecto se quedó en el papel.",
-            "point": "terminar por + infinitivo",
-            "explanation": "Terminar por más infinitivo expresa el resultado final de un proceso: algo acaba ocurriendo después de un tiempo o de cierta resistencia. Aquí la presión no se impuso desde el principio, sino al final.",
-            "why_tricky": "Lo difícil es distinguir tres construcciones parecidas: terminar por imponerse, el resultado final; terminar de imponerse, acabar de hacerlo; y terminar imponiéndose, con gerundio y un sentido casi idéntico al primero."
-          },
-          {
-            "sentence": "Varios países y algunos estados de Estados Unidos están prohibiendo la cría de pulpos antes incluso de que llegue a implantarse.",
-            "point": "antes de que + subjuntivo",
-            "explanation": "Antes de que exige siempre subjuntivo, aquí llegue y no llega. No admite indicativo en ningún registro, por muy seguro que sea el hecho.",
-            "why_tricky": "No sirve el razonamiento habitual de que el subjuntivo marca lo dudoso: se dice llegué antes de que empezara la película aunque la película empezara sin duda. Con sujeto igual o impersonal se prefiere el infinitivo, antes de implantarse."
-          },
-          {
-            "sentence": "El debate gira en torno a la inteligencia de estos animales: se les considera criaturas curiosas, capaces de resolver problemas, y hay una discusión abierta sobre si sienten dolor, lo que hace difícil justificar su confinamiento.",
-            "point": "lo que como relativo de frase",
-            "explanation": "Lo que no se refiere a un sustantivo concreto sino a toda la idea anterior, es decir, al conjunto de lo que se dice sobre los pulpos. Equivale al which de las oraciones explicativas inglesas.",
-            "why_tricky": "Es fácil escribir que solo, o el que, cuando lo que resume una oración entera. Compara: los estudios que describen a los pulpos, referido a estudios, con lo que hace difícil, referido a todo lo dicho antes."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "quedarse en el papel",
-            "meaning": "to remain on paper, never to be carried out",
-            "example": "El plan de reforma se quedó en el papel."
-          },
-          {
-            "phrase": "hacer oídos sordos",
-            "meaning": "to turn a deaf ear, to deliberately ignore complaints",
-            "example": "La empresa hizo oídos sordos a las quejas durante meses."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué se abandonaron finalmente los planes de la granja de pulpos?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué resulta difícil justificar el confinamiento de los pulpos?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué ventaja ven en la acuicultura quienes la defienden?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que la inteligencia de un animal debería determinar cómo lo tratamos? Escribe unas 120 palabras defendiendo tu postura con ejemplos concretos."
       }
     }
   ]
