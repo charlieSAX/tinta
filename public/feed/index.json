@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-08-23T20:13:17Z",
+  "generated_at": "2026-08-24T08:24:19Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-24-amistad-platonica",
+      "title": "\"Nuestra amistad es tan fuerte que decidimos casarnos\": las amigas unidas por un vínculo platónico",
+      "source": "BBC Mundo",
+      "date": "2026-08-23",
+      "level": "B1-B2",
+      "topics": [
+        "sociedad",
+        "relaciones"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-24-amistad-platonica",
+        "revision": 1,
+        "meta": {
+          "title": "\"Nuestra amistad es tan fuerte que decidimos casarnos\": las amigas unidas por un vínculo platónico",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cj03lyl6jzvo",
+          "date_published": "2026-08-23",
+          "date_processed": "2026-08-24",
+          "tags": [
+            "sociedad",
+            "relaciones"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Two friends who met at the age of twelve have decided to get married, although they insist that their relationship is not a romantic one. Their bond grew stronger during the covid-19 pandemic, when they supported each other a lot, and today they describe themselves as soulmates. For them, marriage has nothing to do with romance: it is a way of publicly recognising a friendship that they consider the most important relationship in their lives.\n\nThe case has attracted attention because it raises an uncomfortable question: why do we take for granted that only a romantic couple deserves a formal commitment? More and more people live alone or marry later, and some look for other forms of family. A platonic marriage can offer legal and financial security, although it also raises doubts about what marriage means today. Either way, the story invites us to think about the value we place on friendship.",
+        "resumen_es": "Dos amigas que se conocieron a los doce años han decidido casarse, aunque insisten en que su relación no es sentimental. Su vínculo se hizo más fuerte durante la pandemia de covid-19, cuando se apoyaron mucho, y hoy se describen como almas gemelas. Para ellas, el matrimonio no tiene nada que ver con el romanticismo: es una manera de reconocer públicamente una amistad que consideran la relación más importante de su vida.\n\nEl caso ha llamado la atención porque pone sobre la mesa una pregunta incómoda: por qué damos por supuesto que solo la pareja romántica merece un compromiso formal. Cada vez más gente vive sola o se casa más tarde, y algunos buscan otras formas de familia. Un matrimonio platónico puede aportar seguridad legal y económica, aunque también plantea dudas. Sea como sea, la historia invita a pensar en el valor que damos a la amistad.",
+        "vocab": [
+          {
+            "front": "el vínculo",
+            "pos": "noun",
+            "back": "bond, tie (between people)",
+            "example": "El vínculo entre las dos hermanas es muy fuerte.",
+            "tier": "B2"
+          },
+          {
+            "front": "almas gemelas",
+            "pos": "phrase",
+            "back": "soulmates",
+            "example": "Se conocieron en el trabajo y enseguida se sintieron almas gemelas.",
+            "tier": "B2"
+          },
+          {
+            "front": "sentimental",
+            "pos": "adj",
+            "back": "romantic (of a relationship); emotional",
+            "example": "Prefiere no hablar de su vida sentimental.",
+            "tier": "B2"
+          },
+          {
+            "front": "insistir en",
+            "pos": "verb",
+            "back": "to insist on",
+            "example": "Insistió en pagar la cena él solo.",
+            "tier": "B1"
+          },
+          {
+            "front": "apoyarse",
+            "pos": "verb",
+            "back": "to support each other, to lean on",
+            "example": "Durante aquellos meses se apoyaron mucho.",
+            "tier": "B1"
+          },
+          {
+            "front": "dar por supuesto",
+            "pos": "phrase",
+            "back": "to take for granted, to assume",
+            "example": "No des por supuesto que van a decir que sí.",
+            "tier": "B2"
+          },
+          {
+            "front": "poner sobre la mesa",
+            "pos": "phrase",
+            "back": "to raise (an issue), to put on the table",
+            "example": "El informe pone sobre la mesa un problema antiguo.",
+            "tier": "B2"
+          },
+          {
+            "front": "el compromiso",
+            "pos": "noun",
+            "back": "commitment",
+            "example": "Vivir juntos es un compromiso serio.",
+            "tier": "B1"
+          },
+          {
+            "front": "la pareja",
+            "pos": "noun",
+            "back": "couple; partner",
+            "example": "Vino a la fiesta con su pareja.",
+            "tier": "B1"
+          },
+          {
+            "front": "plantear dudas",
+            "pos": "phrase",
+            "back": "to raise doubts",
+            "example": "La propuesta plantea dudas entre los vecinos.",
+            "tier": "B2"
+          },
+          {
+            "front": "aportar",
+            "pos": "verb",
+            "back": "to bring, to provide, to contribute",
+            "example": "Cada uno aportó algo para la comida.",
+            "tier": "B2"
+          },
+          {
+            "front": "sea como sea",
+            "pos": "phrase",
+            "back": "in any case, be that as it may",
+            "example": "Sea como sea, hay que decidirlo hoy.",
+            "tier": "B2"
+          },
+          {
+            "front": "incómodo",
+            "pos": "adj",
+            "back": "uncomfortable, awkward",
+            "example": "Fue una conversación incómoda para todos.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Para ellas, el matrimonio no tiene nada que ver con el romanticismo: es una manera de reconocer públicamente una amistad que consideran la relación más importante de su vida.",
+            "point": "no tener nada que ver con",
+            "explanation": "The fixed expression tener que ver con means to have to do with or to be connected to. In the negative it takes nada: no tiene nada que ver con. The thing being denied is introduced by con, never by de.",
+            "why_tricky": "Learners often translate it word by word and say no tiene nada de ver de or no tiene relación con nada, and they forget that the verb tener stays in the singular agreeing with el matrimonio."
+          },
+          {
+            "sentence": "El caso ha llamado la atención porque pone sobre la mesa una pregunta incómoda: por qué damos por supuesto que solo la pareja romántica merece un compromiso formal.",
+            "point": "Indirect questions keep the written accent",
+            "explanation": "Question words keep their accent inside indirect questions, so por qué is written with a tilde here even though there is no question mark. Compare the conjunction porque earlier in the same sentence, which means because and carries no accent.",
+            "why_tricky": "The three forms porque, por qué and el porqué sound almost identical, and this sentence puts two of them side by side."
+          },
+          {
+            "sentence": "Sea como sea, la historia invita a pensar en el valor que damos a la amistad.",
+            "point": "Reduplicated subjunctive: sea como sea",
+            "explanation": "Spanish forms concessive expressions by repeating the same subjunctive verb around a question word: sea como sea, pase lo que pase, digan lo que digan. The meaning is whatever happens or in any case, and both verbs stay in the subjunctive.",
+            "why_tricky": "The pattern has no English equivalent, so learners produce es como es or sea como es, which lose the concessive meaning."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "alma gemela",
+            "meaning": "a soulmate, someone who understands you completely",
+            "example": "Después de tantos años sigue diciendo que encontró a su alma gemela."
+          },
+          {
+            "phrase": "poner sobre la mesa",
+            "meaning": "to bring up a subject so that it can be discussed openly",
+            "example": "El sindicato puso sobre la mesa el asunto de los horarios."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué las dos amigas insisten en que su relación no es sentimental?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué pregunta incómoda plantea este caso sobre el matrimonio?",
+            "type": "open"
+          },
+          {
+            "q": "Según el texto, ¿qué puede aportar un matrimonio platónico?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que el matrimonio debería reservarse a las parejas románticas o también a las grandes amistades? Escribe unas 120 palabras justificando tu postura."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-24-fifa-sancion-argentina",
+      "title": "La FIFA castiga duramente a Argentina por incidentes en el Mundial",
+      "source": "RFI Español",
+      "date": "2026-08-22",
+      "level": "B1-B2",
+      "topics": [
+        "deporte",
+        "polémica"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-24-fifa-sancion-argentina",
+        "revision": 1,
+        "meta": {
+          "title": "La FIFA castiga duramente a Argentina por incidentes en el Mundial",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/deportes/20260822-la-fifa-castiga-duramente-a-argentina-por-incidentes-en-el-mundial",
+          "date_published": "2026-08-22",
+          "date_processed": "2026-08-24",
+          "tags": [
+            "deporte",
+            "polémica"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "FIFA has imposed a heavy sanction on the Argentine Football Association and on several players from the national team over the incidents that followed the final of the 2026 World Cup. The governing body also took into account the banner about the Malvinas, or Falklands, that the players displayed after beating England in the semi-final. Under the rules, competitions have to stay out of political messages, and that is why the federation decided to act.\n\nThe decision has opened a debate that goes beyond sport. For some people the punishment is disproportionate and ignores the context and the emotion of a final; for others the rules have been clear for years and applying them is the only way to make them count. The AFA can still appeal, so the case is not closed. In the meantime, the row is a reminder that football rarely stays inside the pitch.",
+        "resumen_es": "La FIFA ha impuesto una dura sanción a la Asociación del Fútbol Argentino y a varios jugadores de la selección por los incidentes ocurridos tras la final del Mundial 2026. El organismo tuvo en cuenta además la pancarta sobre las Malvinas que los futbolistas exhibieron tras ganar la semifinal contra Inglaterra. Según el reglamento, las competiciones deben mantenerse al margen de los mensajes políticos, y por eso la federación decidió actuar.\n\nLa decisión ha abierto un debate que va más allá del deporte. Para unos, el castigo es desproporcionado y no tiene en cuenta el contexto ni la emoción de una final; para otros, las normas están claras desde hace años y aplicarlas es la única manera de que se respeten. La AFA todavía puede recurrir, de modo que el caso no está cerrado. Mientras tanto, la polémica recuerda que el fútbol rara vez se queda dentro del campo.",
+        "vocab": [
+          {
+            "front": "imponer una sanción",
+            "pos": "phrase",
+            "back": "to impose a penalty",
+            "example": "El juez impuso una sanción económica a la empresa.",
+            "tier": "B2"
+          },
+          {
+            "front": "la selección",
+            "pos": "noun",
+            "back": "national team",
+            "example": "La selección juega el martes en casa.",
+            "tier": "B1"
+          },
+          {
+            "front": "el organismo",
+            "pos": "noun",
+            "back": "body, official organisation",
+            "example": "El organismo que regula el sector publicó un informe.",
+            "tier": "B2"
+          },
+          {
+            "front": "la pancarta",
+            "pos": "noun",
+            "back": "banner, placard",
+            "example": "Los manifestantes llevaban pancartas de colores.",
+            "tier": "B2"
+          },
+          {
+            "front": "exhibir",
+            "pos": "verb",
+            "back": "to display, to show off",
+            "example": "Exhibieron el trofeo delante de la afición.",
+            "tier": "B2"
+          },
+          {
+            "front": "el reglamento",
+            "pos": "noun",
+            "back": "rules, regulations",
+            "example": "El reglamento prohibe entrar con botellas.",
+            "tier": "B1"
+          },
+          {
+            "front": "mantenerse al margen de",
+            "pos": "phrase",
+            "back": "to stay out of, to keep clear of",
+            "example": "Prefirió mantenerse al margen de la discusión.",
+            "tier": "B2"
+          },
+          {
+            "front": "el castigo",
+            "pos": "noun",
+            "back": "punishment",
+            "example": "El castigo le pareció injusto.",
+            "tier": "B1"
+          },
+          {
+            "front": "desproporcionado",
+            "pos": "adj",
+            "back": "disproportionate, excessive",
+            "example": "La reacción del público fue desproporcionada.",
+            "tier": "B2"
+          },
+          {
+            "front": "tener en cuenta",
+            "pos": "phrase",
+            "back": "to take into account",
+            "example": "Hay que tener en cuenta el precio del billete.",
+            "tier": "B1"
+          },
+          {
+            "front": "recurrir",
+            "pos": "verb",
+            "back": "to appeal (a decision)",
+            "example": "El club anunció que va a recurrir la multa.",
+            "tier": "B2"
+          },
+          {
+            "front": "la polémica",
+            "pos": "noun",
+            "back": "row, controversy",
+            "example": "Sus palabras levantaron mucha polémica.",
+            "tier": "B1"
+          },
+          {
+            "front": "rara vez",
+            "pos": "adv",
+            "back": "rarely, seldom",
+            "example": "Rara vez sale entre semana.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Según el reglamento, las competiciones deben mantenerse al margen de los mensajes políticos, y por eso la federación decidió actuar.",
+            "point": "deber + infinitive for obligation",
+            "explanation": "Deber plus a bare infinitive expresses an obligation that comes from a rule. It contrasts with deber de plus infinitive, which expresses supposition, as in deben de ser las tres, meaning it must be about three o'clock.",
+            "why_tricky": "In speech many natives blur the two, but in careful writing deber de for obligation is considered an error, and here the source of the obligation is explicitly el reglamento."
+          },
+          {
+            "sentence": "La AFA todavía puede recurrir, de modo que el caso no está cerrado.",
+            "point": "de modo que with indicative or subjunctive",
+            "explanation": "With the indicative, de modo que introduces a real consequence: the appeal is possible, therefore the case is open. With the subjunctive it would introduce a purpose, as in habla despacio de modo que todos te entiendan, meaning so that everyone can understand you.",
+            "why_tricky": "The same connector changes meaning with the mood, and learners tend to use the subjunctive automatically after any que."
+          },
+          {
+            "sentence": "Para unos, el castigo es desproporcionado y no tiene en cuenta el contexto ni la emoción de una final; para otros, las normas están claras desde hace años y aplicarlas es la única manera de que se respeten.",
+            "point": "ni after a negative verb, and unos ... otros",
+            "explanation": "Once the verb is negated, a second element is linked with ni rather than with o or y: no tiene en cuenta el contexto ni la emoción. The pair para unos ... para otros presents two opposing camps without naming them.",
+            "why_tricky": "Learners write no tiene en cuenta el contexto o la emoción, which sounds foreign, and they say para algunos ... para algunos, losing the contrast that unos and otros create."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "mantenerse al margen",
+            "meaning": "to keep out of something, not to get involved",
+            "example": "En las discusiones de familia siempre se mantiene al margen."
+          },
+          {
+            "phrase": "ir más allá de",
+            "meaning": "to go beyond something, to be bigger than it looks",
+            "example": "El problema va más allá del dinero."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué decidió actuar la FIFA en este caso?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué argumentos dan quienes consideran que el castigo es desproporcionado?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué dice el texto que el caso todavía no está cerrado?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Deberían los deportistas poder expresar mensajes políticos durante una competición? Escribe unas 120 palabras con tus razones."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-24-brasil-campana-electoral",
+      "title": "Brasil: Se anuncia una batalla electoral sin favorito entre Lula da Silva y Flávio Bolsonaro",
+      "source": "RFI Español",
+      "date": "2026-08-22",
+      "level": "B1-B2",
+      "topics": [
+        "política",
+        "Brasil"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-24-brasil-campana-electoral",
+        "revision": 1,
+        "meta": {
+          "title": "Brasil: Se anuncia una batalla electoral sin favorito entre Lula da Silva y Flávio Bolsonaro",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/programas/noticias-de-am%C3%A9rica/20260822-brasil-se-anuncia-una-batalla-electoral-sin-favorito-entre-lula-da-silva-y-fl%C3%A1vio-bolsonaro",
+          "date_published": "2026-08-22",
+          "date_processed": "2026-08-24",
+          "tags": [
+            "política",
+            "Brasil"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Brazil has thrown itself into the campaign for the elections of 4 October. President Luiz Inacio Lula da Silva is seeking a fourth and final term, and his main rival is the right-wing senator Flavio Bolsonaro, son of the former president who is in prison for attempting a coup. The polls give Lula a slight lead, but the race looks very tight and everything suggests that neither of the two will have an easy time of it.\n\nBeyond the names, the campaign once again pits against each other two visions of the country that have been measuring themselves at the ballot box for years. Food prices, jobs and security usually weigh heavily, and they are the issues that decide the vote of those who have not yet made up their minds. With such a divided electorate, there is likely to be a second round and the campaign is likely to harden. Until October, every poll will be read as if it were the final result.",
+        "resumen_es": "Brasil ha entrado de lleno en la campaña para las elecciones del 4 de octubre. El presidente Luiz Inácio Lula da Silva aspira a un cuarto y último mandato, y su principal rival es el senador de derecha Flávio Bolsonaro, hijo del expresidente que está preso por golpismo. Las encuestas dan una ligera ventaja a Lula, pero la carrera se anuncia muy reñida y todo indica que ninguno de los dos lo tendrá fácil.\n\nMás allá de los nombres, la campaña vuelve a enfrentar dos visiones del país que llevan años midiéndose en las urnas. Suelen pesar mucho el precio de los alimentos, el empleo y la seguridad, temas que deciden el voto de quienes aún no se han decantado. Con un electorado tan dividido, es probable que haya segunda vuelta y que la campaña se endurezca. Hasta octubre, cada encuesta se leerá como si fuera el resultado final.",
+        "vocab": [
+          {
+            "front": "entrar de lleno en",
+            "pos": "phrase",
+            "back": "to throw oneself fully into",
+            "example": "El país ha entrado de lleno en el verano.",
+            "tier": "B2"
+          },
+          {
+            "front": "el mandato",
+            "pos": "noun",
+            "back": "term of office",
+            "example": "Su segundo mandato termina el año que viene.",
+            "tier": "B2"
+          },
+          {
+            "front": "aspirar a",
+            "pos": "verb",
+            "back": "to aspire to, to seek",
+            "example": "Aspira a un puesto en la dirección.",
+            "tier": "B2"
+          },
+          {
+            "front": "la encuesta",
+            "pos": "noun",
+            "back": "poll, survey",
+            "example": "La última encuesta sorprendió a todos.",
+            "tier": "B1"
+          },
+          {
+            "front": "reñido",
+            "pos": "adj",
+            "back": "close, hard fought (contest)",
+            "example": "Fue un partido muy reñido hasta el final.",
+            "tier": "B2"
+          },
+          {
+            "front": "las urnas",
+            "pos": "noun",
+            "back": "the ballot box, the polls",
+            "example": "El domingo los ciudadanos vuelven a las urnas.",
+            "tier": "B2"
+          },
+          {
+            "front": "decantarse",
+            "pos": "verb",
+            "back": "to make up one's mind, to come down in favour of",
+            "example": "Todavía no me he decantado por ningún modelo.",
+            "tier": "C1"
+          },
+          {
+            "front": "el electorado",
+            "pos": "noun",
+            "back": "the electorate, the voters",
+            "example": "El electorado joven decidió la votación.",
+            "tier": "B2"
+          },
+          {
+            "front": "la segunda vuelta",
+            "pos": "phrase",
+            "back": "run-off, second round",
+            "example": "Nadie ganó en la primera votación y habrá segunda vuelta.",
+            "tier": "B1"
+          },
+          {
+            "front": "endurecerse",
+            "pos": "verb",
+            "back": "to harden, to get tougher",
+            "example": "El tono del debate se endureció en la segunda hora.",
+            "tier": "B2"
+          },
+          {
+            "front": "la ventaja",
+            "pos": "noun",
+            "back": "lead, advantage",
+            "example": "Lleva una ventaja de tres puntos.",
+            "tier": "B1"
+          },
+          {
+            "front": "pesar",
+            "pos": "verb",
+            "back": "to carry weight, to matter",
+            "example": "En su decisión pesó mucho la familia.",
+            "tier": "B2"
+          },
+          {
+            "front": "el empleo",
+            "pos": "noun",
+            "back": "employment, job",
+            "example": "Busca empleo desde marzo.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Las encuestas dan una ligera ventaja a Lula, pero la carrera se anuncia muy reñida y todo indica que ninguno de los dos lo tendrá fácil.",
+            "point": "ninguno de los dos plus singular verb, and neuter lo",
+            "explanation": "Ninguno takes a singular verb even when followed by de los dos, so it is ninguno de los dos lo tendrá, not lo tendrán. The lo in tenerlo fácil is the neuter pronoun, referring to the whole situation rather than to any noun.",
+            "why_tricky": "The plural los dos pulls learners towards a plural verb, and the neuter lo has no equivalent in English, where we simply say to have it easy."
+          },
+          {
+            "sentence": "Con un electorado tan dividido, es probable que haya segunda vuelta y que la campaña se endurezca.",
+            "point": "es probable que plus subjunctive",
+            "explanation": "Expressions of probability such as es probable que, es posible que and puede que all take the subjunctive. When two clauses are coordinated, que is normally repeated before the second one, and both verbs stay in the subjunctive: haya and se endurezca.",
+            "why_tricky": "Learners map it onto es verdad que and es evidente que, which take the indicative, and they often drop the second que, which sounds clumsy in written Spanish."
+          },
+          {
+            "sentence": "Hasta octubre, cada encuesta se leerá como si fuera el resultado final.",
+            "point": "como si plus imperfect subjunctive",
+            "explanation": "Como si always introduces an unreal comparison and always takes the imperfect or pluperfect subjunctive, never the present or the future, whatever the tense of the main verb. Here the main verb is future, se leerá, and como si still takes fuera.",
+            "why_tricky": "The tense of the main clause tempts learners to write como si es or como si sea, both impossible in Spanish."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "tenerlo fácil",
+            "meaning": "to have an easy job of it, to face little resistance",
+            "example": "Con este examen no lo vas a tener fácil."
+          },
+          {
+            "phrase": "ir a las urnas",
+            "meaning": "to go to the polls, to vote",
+            "example": "Más de cien millones de personas irán a las urnas."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué buscan Lula y Flávio Bolsonaro en estas elecciones?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué temas suelen decidir el voto, según el texto?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué dice el texto que es probable que haya segunda vuelta?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que las encuestas ayudan a los votantes o más bien influyen demasiado en el resultado? Escribe unas 120 palabras."
+      }
+    },
     {
       "pack_id": "feed-2026-08-23-ponsonby-diplomatico",
       "title": "Quién fue John Ponsonby, el diplomático británico que fue clave para la \"creación\" de Uruguay y Bélgica",
@@ -6055,527 +6562,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que las ciudades deberían diseñarse pensando también en los animales? Escribe unas 120 palabras explicando tu postura con ejemplos concretos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-17-tupac-shakur-treinta-anos",
-      "title": "Quién era el rapero Tupac Shakur, cómo fue asesinado y por qué 30 años después el crimen sigue sin esclarecerse",
-      "source": "BBC Mundo",
-      "date": "2026-08-11",
-      "level": "B1-B2",
-      "topics": [
-        "música",
-        "cultura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-17-tupac-shakur-treinta-anos",
-        "revision": 1,
-        "meta": {
-          "title": "Quién era el rapero Tupac Shakur, cómo fue asesinado y por qué 30 años después el crimen sigue sin esclarecerse",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c0rdxzg102zo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-11",
-          "date_processed": "2026-08-17",
-          "tags": [
-            "música",
-            "cultura"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Three decades have passed since the murder of Tupac Shakur and the case still has not been solved. The American rapper died young, and since then his standing has never stopped growing. His records are still played, and generations who had not even been born when he died recognise him instantly. The investigation, by contrast, has never produced a definitive answer.\n\nThat contrast partly explains his status as a myth. When an artist dies young and the crime goes unpunished, the gap fills up with theories, documentaries and rumours that feed the legend. For many followers, Tupac stands for something more than the music: a voice that put words to the anger and the hope of people who felt ignored. Thirty years on, the question of who killed him sits alongside another just as persistent: why he still matters so much.",
-        "resumen_es": "Han pasado tres décadas desde el asesinato de Tupac Shakur y el caso sigue sin esclarecerse. El rapero estadounidense murió joven, y desde entonces su figura no ha dejado de crecer. Sus discos se siguen escuchando y generaciones que ni siquiera habían nacido cuando murió lo reconocen al instante. La investigación, en cambio, nunca ha dado una respuesta definitiva.\n\nEse contraste explica en parte su condición de mito. Cuando un artista muere joven y el crimen queda impune, el vacío se llena de teorías, documentales y rumores que alimentan la leyenda. Para muchos seguidores, Tupac representa algo más que la música: una voz que puso palabras a la rabia y a la esperanza de quienes se sentían ignorados. Treinta años después, la pregunta de quién lo mató convive con otra igual de persistente: por qué sigue importando tanto.",
-        "vocab": [
-          {
-            "front": "esclarecerse",
-            "pos": "verb",
-            "back": "to be cleared up, to be solved",
-            "example": "El robo se esclareció gracias a una cámara.",
-            "tier": "B2"
-          },
-          {
-            "front": "el asesinato",
-            "pos": "noun",
-            "back": "murder, killing",
-            "example": "El asesinato ocurrió de madrugada.",
-            "tier": "B1"
-          },
-          {
-            "front": "la figura",
-            "pos": "noun",
-            "back": "public standing, stature (of a person)",
-            "example": "Su figura ha crecido mucho desde su muerte.",
-            "tier": "B2"
-          },
-          {
-            "front": "ni siquiera",
-            "pos": "phrase",
-            "back": "not even",
-            "example": "Ni siquiera me saludó.",
-            "tier": "B1"
-          },
-          {
-            "front": "al instante",
-            "pos": "phrase",
-            "back": "instantly, straight away",
-            "example": "Reconocí su voz al instante.",
-            "tier": "B1"
-          },
-          {
-            "front": "en cambio",
-            "pos": "phrase",
-            "back": "on the other hand, by contrast",
-            "example": "A mí me gustó; a ella, en cambio, le pareció aburrida.",
-            "tier": "B1"
-          },
-          {
-            "front": "quedar impune",
-            "pos": "phrase",
-            "back": "to go unpunished",
-            "example": "Nadie quiere que el delito quede impune.",
-            "tier": "B2"
-          },
-          {
-            "front": "el vacío",
-            "pos": "noun",
-            "back": "gap, void, emptiness",
-            "example": "Su marcha dejó un vacío en el equipo.",
-            "tier": "B2"
-          },
-          {
-            "front": "alimentar",
-            "pos": "verb",
-            "back": "to feed, to fuel (a rumour, an idea)",
-            "example": "El silencio oficial alimentó las sospechas.",
-            "tier": "B2"
-          },
-          {
-            "front": "la leyenda",
-            "pos": "noun",
-            "back": "legend",
-            "example": "Con los años se convirtió en una leyenda.",
-            "tier": "B1"
-          },
-          {
-            "front": "el seguidor / la seguidora",
-            "pos": "noun",
-            "back": "follower, fan",
-            "example": "El grupo tiene seguidores en todo el mundo.",
-            "tier": "B1"
-          },
-          {
-            "front": "la rabia",
-            "pos": "noun",
-            "back": "anger, rage",
-            "example": "Habló con una rabia contenida.",
-            "tier": "B1"
-          },
-          {
-            "front": "convivir con",
-            "pos": "verb",
-            "back": "to coexist with, to live alongside",
-            "example": "El barrio convive con el ruido del aeropuerto.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Han pasado tres décadas desde el asesinato de Tupac Shakur y el caso sigue sin esclarecerse.",
-            "point": "seguir sin + infinitivo",
-            "explanation": "Seguir sin + infinitive says that something has still not happened and the situation continues: sigue sin esclarecerse means it still has not been cleared up. The pronominal esclarecerse gives it a passive sense with no named agent.",
-            "why_tricky": "Learners usually reach for todavía no se ha esclarecido, which is correct but flatter. Note that seguir here is not to follow but to continue."
-          },
-          {
-            "sentence": "El rapero estadounidense murió joven, y desde entonces su figura no ha dejado de crecer.",
-            "point": "no dejar de + infinitivo",
-            "explanation": "No dejar de + infinitive means to keep on doing something without interruption. In the perfect (no ha dejado de crecer) it covers a stretch of time running up to now.",
-            "why_tricky": "The literal reading has not stopped growing is a near miss: the Spanish states continuity positively rather than denying an ending. Do not confuse it with dejar de + infinitive on its own, which means to stop doing something."
-          },
-          {
-            "sentence": "Cuando un artista muere joven y el crimen queda impune, el vacío se llena de teorías, documentales y rumores que alimentan la leyenda.",
-            "point": "cuando + presente de indicativo for general truths",
-            "explanation": "Here cuando introduces something that happens generally, whenever the conditions hold, so the indicative is used: cuando un artista muere. Compare cuando muera, with subjunctive, which would point to one specific future death.",
-            "why_tricky": "Learners are taught that cuando takes the subjunctive for the future and then over-apply it. Timeless generalisations stay firmly in the indicative."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "correr ríos de tinta",
-            "meaning": "for a huge amount to have been written about something",
-            "example": "Sobre ese caso han corrido ríos de tinta."
-          },
-          {
-            "phrase": "de boca en boca",
-            "meaning": "by word of mouth, passed from person to person",
-            "example": "La versión más increíble corrió de boca en boca."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué contraste describe el texto entre la figura de Tupac y la investigación de su muerte?",
-            "type": "open"
-          },
-          {
-            "q": "Según el texto, ¿por qué crece la leyenda cuando un crimen queda impune?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué representa Tupac para muchos seguidores, más allá de la música?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Por qué crees que algunos artistas se convierten en mitos después de morir? Escribe unas 120 palabras con al menos un ejemplo que conozcas."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-17-restricciones-agua-francia",
-      "title": "Restricciones de agua en más del 70 % de Francia debido a una grave sequía",
-      "source": "RFI Español",
-      "date": "2026-08-12",
-      "level": "B1-B2",
-      "topics": [
-        "medioambiente",
-        "Francia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-17-restricciones-agua-francia",
-        "revision": 1,
-        "meta": {
-          "title": "Restricciones de agua en más del 70 % de Francia debido a una grave sequía",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/francia/20260812-restricciones-de-agua-en-m%C3%A1s-del-70-de-francia-debido-a-una-grave-sequ%C3%ADa",
-          "date_published": "2026-08-12",
-          "date_processed": "2026-08-17",
-          "tags": [
-            "medioambiente",
-            "Francia"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "More than 70% of French territory is under water restrictions because of a persistent drought. Two thirds of the groundwater tables are showing levels below normal, and the situation is very likely to get worse over the coming weeks. Successive heatwaves speed up evaporation and prevent the underground reserves from recovering. Restrictions of this kind usually limit garden watering and the filling of swimming pools.\n\nThey mainly affect agriculture, which uses a good share of the water in summer. Farmers tend to call for aid and long-term planning, while environmental campaigners insist that the consumption model needs reviewing. The debate no longer revolves only around one difficult summer, but around a changing climate. France is not an isolated case: much of Europe is facing drier and drier summers.",
-        "resumen_es": "Más del 70 % del territorio francés está sometido a restricciones de agua a causa de una sequía persistente. Dos tercios de los mantos freáticos presentan niveles por debajo de lo normal, y es muy probable que la situación se agrave en las próximas semanas. Las sucesivas olas de calor aceleran la evaporación e impiden que las reservas subterráneas se recuperen. Las restricciones de este tipo suelen limitar el riego de jardines y el llenado de piscinas.\n\nAfectan sobre todo a la agricultura, que consume buena parte del agua en verano. Los agricultores suelen reclamar ayudas y planificación a largo plazo, mientras que los ecologistas insisten en que conviene revisar el modelo de consumo. El debate ya no gira solo en torno a un verano difícil, sino en torno a un clima que cambia. Francia no es un caso aislado: media Europa afronta veranos cada vez más secos.",
-        "vocab": [
-          {
-            "front": "la sequía",
-            "pos": "noun",
-            "back": "drought",
-            "example": "La sequía ha durado todo el verano.",
-            "tier": "B1"
-          },
-          {
-            "front": "estar sometido a",
-            "pos": "phrase",
-            "back": "to be subject to",
-            "example": "La zona está sometida a controles estrictos.",
-            "tier": "B2"
-          },
-          {
-            "front": "el manto freático",
-            "pos": "noun",
-            "back": "water table, groundwater level",
-            "example": "El manto freático baja cada verano.",
-            "tier": "C1"
-          },
-          {
-            "front": "por debajo de",
-            "pos": "phrase",
-            "back": "below",
-            "example": "Las temperaturas están por debajo de la media.",
-            "tier": "B1"
-          },
-          {
-            "front": "agravarse",
-            "pos": "verb",
-            "back": "to get worse, to worsen",
-            "example": "Su estado se agravó por la noche.",
-            "tier": "B2"
-          },
-          {
-            "front": "la ola de calor",
-            "pos": "noun",
-            "back": "heatwave",
-            "example": "La tercera ola de calor llegó en agosto.",
-            "tier": "B1"
-          },
-          {
-            "front": "impedir",
-            "pos": "verb",
-            "back": "to prevent, to stop (something happening)",
-            "example": "La lluvia impidió que saliéramos.",
-            "tier": "B1"
-          },
-          {
-            "front": "el riego",
-            "pos": "noun",
-            "back": "irrigation, watering",
-            "example": "El riego por goteo ahorra mucha agua.",
-            "tier": "B2"
-          },
-          {
-            "front": "el llenado",
-            "pos": "noun",
-            "back": "filling (up)",
-            "example": "Está prohibido el llenado de piscinas.",
-            "tier": "B2"
-          },
-          {
-            "front": "reclamar",
-            "pos": "verb",
-            "back": "to demand, to call for",
-            "example": "Los vecinos reclaman más transporte público.",
-            "tier": "B2"
-          },
-          {
-            "front": "a largo plazo",
-            "pos": "phrase",
-            "back": "in the long term",
-            "example": "Hay que pensar a largo plazo.",
-            "tier": "B1"
-          },
-          {
-            "front": "convenir",
-            "pos": "verb",
-            "back": "to be advisable, to be a good idea",
-            "example": "Conviene reservar con antelación.",
-            "tier": "B2"
-          },
-          {
-            "front": "girar en torno a",
-            "pos": "phrase",
-            "back": "to revolve around",
-            "example": "Toda la novela gira en torno a un secreto.",
-            "tier": "B2"
-          },
-          {
-            "front": "afrontar",
-            "pos": "verb",
-            "back": "to face, to confront",
-            "example": "El país afronta una crisis energética.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Más del 70 % del territorio francés está sometido a restricciones de agua a causa de una sequía persistente.",
-            "point": "estar + participio for a resulting state",
-            "explanation": "Estar sometido describes the state the territory is in, not the act of imposing the measures. The participle behaves like an adjective and agrees with the subject: sometido here, sometida with a feminine noun.",
-            "why_tricky": "Learners default to ser for anything that looks passive. Ser sometido would report the event of being subjected; estar sometido reports the ongoing situation."
-          },
-          {
-            "sentence": "Las sucesivas olas de calor aceleran la evaporación e impiden que las reservas subterráneas se recuperen.",
-            "point": "impedir que + subjuntivo, and y becoming e",
-            "explanation": "Impedir que takes the subjunctive in the subordinate clause: impiden que se recuperen. Note also that y becomes e in front of a word starting with the i sound, hence e impiden.",
-            "why_tricky": "Impedir also allows a plain infinitive, but only with a dative pronoun for the affected party: les impiden recuperarse. What Spanish never allows is the English shape, so prevent them from recovering has to be rebuilt rather than translated."
-          },
-          {
-            "sentence": "El debate ya no gira solo en torno a un verano difícil, sino en torno a un clima que cambia.",
-            "point": "no solo ... sino for addition",
-            "explanation": "With no solo A, sino (también) B, sino adds B without denying A: the debate is still about the difficult summer, and now about the climate too. Compare bare no A sino B (No es un verano difícil, sino una sequía estructural), where B replaces A outright.",
-            "why_tricky": "Learners meet only the replacement pattern and then read every sino as a contradiction. The trigger is solo: with solo, sino adds; without it, sino substitutes. Pero is wrong in both, and you need sino que when a full conjugated clause follows."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "estar en las últimas",
-            "meaning": "to be almost gone, on its last legs",
-            "example": "Las reservas están en las últimas después de tres meses sin lluvia."
-          },
-          {
-            "phrase": "tomar cartas en el asunto",
-            "meaning": "to step in and take action",
-            "example": "El gobierno tuvo que tomar cartas en el asunto."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué situación describen los datos sobre los mantos freáticos franceses?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué las olas de calor empeoran el problema del agua?",
-            "type": "open"
-          },
-          {
-            "q": "¿En qué se diferencian las peticiones de los agricultores y las de los ecologistas?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Qué medidas te parecen más justas para repartir el agua en un verano de sequía? Escribe unas 120 palabras y justifica tu respuesta."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-16-existio-homero",
-      "title": "¿Existió Homero? El misterio que rodea al autor de \"La Odisea\"",
-      "source": "BBC Mundo",
-      "date": "2026-08-16",
-      "level": "B1-B2",
-      "topics": [
-        "literatura",
-        "historia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-16-existio-homero",
-        "revision": 1,
-        "meta": {
-          "title": "¿Existió Homero? El misterio que rodea al autor de \"La Odisea\"",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c8en8768wzro?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-16",
-          "date_processed": "2026-08-16",
-          "tags": [
-            "literatura",
-            "historia"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "For centuries scholars have wondered whether Homer was a real person or a name inherited from tradition. Recent studies strengthen the hypothesis that the Iliad and the Odyssey did not come from a single author's pen, but from a long oral tradition that was polished from one generation to the next. The poems were recited from memory, with repeated formulas that helped the singers improvise in public.\n\nOver time, that collective material was probably set down in writing thanks to an effort of compilation. The discussion does not take any value away from the works, quite the opposite: if there are many voices behind Homer, the poems portray an entire culture. For researchers, the challenge now lies in tracking the traces of that oral transmission in the text we read today, and in accepting that we may never know who Homer really was.",
-        "resumen_es": "Desde hace siglos, los estudiosos se preguntan si Homero fue una persona real o un nombre heredado por la tradición. Estudios recientes refuerzan la hipótesis de que \"La Ilíada\" y \"La Odisea\" no salieron de la pluma de un único autor, sino de una larga tradición oral que se fue puliendo de generación en generación. Los poemas se recitaban de memoria, con fórmulas repetidas que ayudaban a los cantores a improvisar en público.\n\nCon el tiempo, ese material colectivo se habría fijado por escrito gracias a un esfuerzo de compilación. La discusión no resta valor a las obras, todo lo contrario: si detrás de Homero hay muchas voces, los poemas retratan una cultura entera. Para los investigadores, el reto consiste ahora en rastrear las huellas de esa transmisión oral en el texto que hoy leemos, y en aceptar que quizá nunca sabremos quién fue realmente Homero.",
-        "vocab": [
-          {
-            "front": "el estudioso",
-            "pos": "noun",
-            "back": "scholar, specialist",
-            "example": "Los estudiosos llevan siglos discutiendo este asunto.",
-            "tier": "B2"
-          },
-          {
-            "front": "heredado por la tradición",
-            "pos": "phrase",
-            "back": "handed down by tradition",
-            "example": "Es un apellido heredado por la tradición familiar.",
-            "tier": "B2"
-          },
-          {
-            "front": "reforzar una hipótesis",
-            "pos": "phrase",
-            "back": "to strengthen a hypothesis",
-            "example": "Los datos nuevos refuerzan la hipótesis del equipo.",
-            "tier": "B2"
-          },
-          {
-            "front": "salir de la pluma de alguien",
-            "pos": "phrase",
-            "back": "to be written by someone",
-            "example": "Ese verso no salió de la pluma de Lorca.",
-            "tier": "C1"
-          },
-          {
-            "front": "pulir",
-            "pos": "verb",
-            "back": "to polish, to refine",
-            "example": "Pulió el texto durante meses antes de publicarlo.",
-            "tier": "B2"
-          },
-          {
-            "front": "de generación en generación",
-            "pos": "phrase",
-            "back": "from one generation to the next",
-            "example": "La receta pasó de generación en generación.",
-            "tier": "B1"
-          },
-          {
-            "front": "recitar de memoria",
-            "pos": "phrase",
-            "back": "to recite by heart",
-            "example": "Los niños recitaban el poema de memoria.",
-            "tier": "B1"
-          },
-          {
-            "front": "la fórmula",
-            "pos": "noun",
-            "back": "set phrase, formula",
-            "example": "El cuento empieza con la fórmula de siempre.",
-            "tier": "B1"
-          },
-          {
-            "front": "fijar por escrito",
-            "pos": "phrase",
-            "back": "to set down in writing",
-            "example": "Conviene fijar por escrito lo que hemos acordado.",
-            "tier": "B2"
-          },
-          {
-            "front": "restar valor a algo",
-            "pos": "phrase",
-            "back": "to detract from something",
-            "example": "El error no resta valor a su trabajo.",
-            "tier": "B2"
-          },
-          {
-            "front": "todo lo contrario",
-            "pos": "phrase",
-            "back": "quite the opposite",
-            "example": "No me molesta, todo lo contrario.",
-            "tier": "B1"
-          },
-          {
-            "front": "el retrato",
-            "pos": "noun",
-            "back": "portrait, depiction",
-            "example": "La novela es un retrato de su época.",
-            "tier": "B1"
-          },
-          {
-            "front": "rastrear huellas",
-            "pos": "phrase",
-            "back": "to track down traces",
-            "example": "Los historiadores rastrean las huellas del antiguo camino.",
-            "tier": "C1"
-          },
-          {
-            "front": "el reto",
-            "pos": "noun",
-            "back": "challenge",
-            "example": "El mayor reto es convencer a los lectores.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Estudios recientes refuerzan la hipótesis de que \"La Ilíada\" y \"La Odisea\" no salieron de la pluma de un único autor, sino de una larga tradición oral que se fue puliendo de generación en generación.",
-            "point": "no ... sino: correcting a statement",
-            "explanation": "Spanish uses 'sino' (not 'pero') after a negative clause to replace the rejected idea with the correct one. Here the poems did not come from one author but from an oral tradition.",
-            "why_tricky": "English uses 'but' for both 'pero' and 'sino', so learners write 'no de un autor pero de una tradición', which is wrong."
-          },
-          {
-            "sentence": "Con el tiempo, ese material colectivo se habría fijado por escrito gracias a un esfuerzo de compilación.",
-            "point": "conditional perfect for informed speculation",
-            "explanation": "'Se habría fijado' presents a probable past event that is not proven. Journalists use this tense to report what researchers believe happened.",
-            "why_tricky": "It looks like an 'if' clause, but there is no condition here at all: the conditional simply marks the information as inferred rather than confirmed."
-          },
-          {
-            "sentence": "Para los investigadores, el reto consiste ahora en rastrear las huellas de esa transmisión oral en el texto que hoy leemos, y en aceptar que quizá nunca sabremos quién fue realmente Homero.",
-            "point": "consistir en + infinitive",
-            "explanation": "'Consistir' always takes the preposition 'en', and when two ideas are joined, 'en' must be repeated before the second infinitive: 'en rastrear ... y en aceptar'.",
-            "why_tricky": "Learners drop the second 'en' or use 'de', copying the English 'consists of'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "de puño y letra",
-            "meaning": "in someone's own handwriting, written personally by them",
-            "example": "La carta estaba escrita de puño y letra del poeta."
-          },
-          {
-            "phrase": "poner algo negro sobre blanco",
-            "meaning": "to put something down clearly in writing",
-            "example": "Antes de firmar, pusieron el acuerdo negro sobre blanco."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué hipótesis refuerzan los estudios recientes sobre el autor de los poemas?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué eran útiles las fórmulas repetidas para los cantores?",
-            "type": "open"
-          },
-          {
-            "q": "Según el texto, ¿por qué la duda sobre Homero no resta valor a las obras?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que saber quién escribió una obra cambia la manera en que la leemos? Escribe entre 120 y 150 palabras con un ejemplo concreto."
       }
     }
   ]
