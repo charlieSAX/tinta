@@ -1,184 +1,484 @@
 # -*- coding: utf-8 -*-
 ES = [
-{
-  "pack_id": "feed-2026-08-17-evolucion-extrema-animales",
+ {
+  "pack_id": "feed-2026-08-25-peptidos-ciencia",
   "revision": 1,
   "meta": {
-    "title": "Evolución extrema: los animales que se transforman a gran velocidad para sobrevivir",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/c8jnwdkxwr2o?at_medium=RSS&at_campaign=rss",
-    "date_published": "2026-08-11",
-    "date_processed": "2026-08-17",
-    "tags": ["ciencia", "naturaleza"],
-    "level": "B1-B2"
+   "title": "Qué son los péptidos, para qué sirven y qué dice la ciencia sobre los efectos de inyectárselos",
+   "source": "BBC Mundo",
+   "url": "https://www.bbc.com/mundo/articles/c79g7qjyx70o?at_medium=RSS&at_campaign=rss",
+   "date_published": "2026-08-25",
+   "date_processed": "2026-08-25",
+   "tags": [
+    "salud",
+    "ciencia"
+   ],
+   "level": "B1-B2"
   },
-  "summary_en": "The pressure we human beings put on the planet is speeding up the evolution of many animals. Cities, roads and pollution create new environments that species have to adapt to far faster than usual. Changes that used to be measured in thousands of years can now be seen within a few generations. Any species that fails to adjust to that pace tends to disappear from the urban landscape.\n\nThis phenomenon raises uncomfortable questions. On the one hand, it shows that nature retains a surprising capacity to respond; on the other, it reminds us that we are the ones setting the pace. Rapid adaptation is not the same as a solution, since many species do not have the time they need. Understanding how and why these animals change may help us design cities that are more liveable for everyone.",
-  "resumen_es": "La presión que los seres humanos ejercemos sobre el planeta está acelerando la evolución de muchos animales. Las ciudades, las carreteras y la contaminación crean entornos nuevos a los que las especies deben adaptarse mucho más deprisa de lo habitual. Cambios que antes se medían en miles de años pueden apreciarse ahora en unas pocas generaciones. La especie que no logra ajustarse a ese ritmo suele desaparecer del paisaje urbano.\n\nEste fenómeno plantea preguntas incómodas. Por un lado, demuestra que la naturaleza conserva una capacidad de respuesta sorprendente; por otro, nos recuerda que somos nosotros quienes marcamos el paso. Una adaptación rápida no equivale a una solución, ya que muchas especies no disponen del tiempo necesario. Entender cómo y por qué cambian estos animales puede ayudar a diseñar ciudades más habitables para todos.",
+  "summary_en": "Peptides have become the latest obsession in the wellness world. On social media, many users claim that injecting these short chains of amino acids improves the skin, speeds up muscle recovery and helps with weight loss. The BBC explains what they actually are and why their popularity is growing so quickly among people looking for shortcuts to feeling better.\n\nThe scientific evidence, however, remains thin. Most of the peptides circulating as experimental products have not gone through large clinical trials, so their long-term effects are unknown. Specialists warn that buying them online carries a risk, since you do not always know what is in the bottle. Before following a trend, it is worth consulting a health professional.",
+  "resumen_es": "Los péptidos se han convertido en la última obsesión del mundo del bienestar. En redes sociales, muchos usuarios aseguran que inyectarse estas pequeñas cadenas de aminoácidos mejora la piel, acelera la recuperación muscular y ayuda a perder peso. La BBC explica qué son en realidad y por qué su popularidad crece tan rápido entre quienes buscan atajos para sentirse mejor.\n\nSin embargo, la evidencia científica sigue siendo escasa. La mayoría de los péptidos que circulan como productos experimentales no han pasado por ensayos clínicos amplios, de modo que sus efectos a largo plazo se desconocen. Los especialistas advierten de que comprarlos por internet supone un riesgo, ya que no siempre se sabe qué contiene el frasco. Antes de seguir una moda, conviene consultar a un profesional sanitario.",
   "vocab": [
-    {"front": "ejercer presión sobre", "pos": "phrase", "back": "to put pressure on", "example": "El turismo masivo ejerce mucha presión sobre la costa.", "tier": "B2"},
-    {"front": "acelerar", "pos": "verb", "back": "to speed up, to accelerate", "example": "El deshielo se ha acelerado en los últimos años.", "tier": "B1"},
-    {"front": "el entorno", "pos": "noun", "back": "environment, surroundings", "example": "Cada especie se adapta a su entorno.", "tier": "B1"},
-    {"front": "adaptarse a", "pos": "verb", "back": "to adapt to", "example": "Le costó adaptarse a la vida en la ciudad.", "tier": "B1"},
-    {"front": "deprisa", "pos": "adv", "back": "quickly, fast", "example": "Come demasiado deprisa.", "tier": "B1"},
-    {"front": "más/menos ... de lo habitual", "pos": "phrase", "back": "more/less ... than usual (only after a comparative)", "example": "Este verano llueve menos de lo habitual.", "tier": "B2"},
-    {"front": "apreciarse", "pos": "verb", "back": "to be noticeable, to be seen", "example": "El cambio apenas se aprecia a simple vista.", "tier": "B2"},
-    {"front": "ajustarse a", "pos": "verb", "back": "to adjust to, to fit", "example": "Tuvimos que ajustarnos a un presupuesto menor.", "tier": "B2"},
-    {"front": "el paisaje", "pos": "noun", "back": "landscape, scenery", "example": "El paisaje ha cambiado mucho desde entonces.", "tier": "B1"},
-    {"front": "plantear", "pos": "verb", "back": "to raise (a question), to pose", "example": "El informe plantea varias dudas.", "tier": "B2"},
-    {"front": "equivaler a", "pos": "verb", "back": "to be equivalent to, to amount to", "example": "Callarse equivale a darle la razón.", "tier": "B2"},
-    {"front": "disponer de", "pos": "verb", "back": "to have available, to have at one's disposal", "example": "Solo disponemos de dos horas.", "tier": "B2"},
-    {"front": "habitable", "pos": "adj", "back": "liveable, habitable", "example": "Quieren hacer el centro más habitable.", "tier": "B2"}
+   {
+    "front": "el bienestar",
+    "pos": "noun",
+    "back": "wellbeing, wellness",
+    "example": "La industria del bienestar mueve mucho dinero.",
+    "tier": "B1"
+   },
+   {
+    "front": "inyectarse",
+    "pos": "verb",
+    "back": "to inject oneself with something",
+    "example": "Se inyectaba vitaminas sin control médico.",
+    "tier": "B2"
+   },
+   {
+    "front": "la cadena de aminoácidos",
+    "pos": "noun",
+    "back": "chain of amino acids",
+    "example": "Una proteína es una cadena de aminoácidos larga.",
+    "tier": "B2"
+   },
+   {
+    "front": "acelerar la recuperación",
+    "pos": "phrase",
+    "back": "to speed up recovery",
+    "example": "Dormir bien acelera la recuperación tras el ejercicio.",
+    "tier": "B1"
+   },
+   {
+    "front": "el atajo",
+    "pos": "noun",
+    "back": "shortcut",
+    "example": "En salud no suele haber atajos.",
+    "tier": "B1"
+   },
+   {
+    "front": "la evidencia científica",
+    "pos": "noun",
+    "back": "scientific evidence",
+    "example": "La evidencia científica todavía es limitada.",
+    "tier": "B1"
+   },
+   {
+    "front": "escaso",
+    "pos": "adj",
+    "back": "scarce, thin on the ground",
+    "example": "Los datos sobre ese tratamiento son escasos.",
+    "tier": "B2"
+   },
+   {
+    "front": "el ensayo clínico",
+    "pos": "noun",
+    "back": "clinical trial",
+    "example": "El fármaco está en la segunda fase del ensayo clínico.",
+    "tier": "B2"
+   },
+   {
+    "front": "a largo plazo",
+    "pos": "phrase",
+    "back": "in the long term",
+    "example": "Nadie conoce los efectos a largo plazo.",
+    "tier": "B1"
+   },
+   {
+    "front": "desconocerse",
+    "pos": "verb",
+    "back": "to be unknown",
+    "example": "Se desconoce el origen exacto del problema.",
+    "tier": "B2"
+   },
+   {
+    "front": "suponer un riesgo",
+    "pos": "phrase",
+    "back": "to pose a risk",
+    "example": "Automedicarse supone un riesgo real.",
+    "tier": "B2"
+   },
+   {
+    "front": "convenir",
+    "pos": "verb",
+    "back": "to be advisable, to be a good idea",
+    "example": "Conviene leer bien la etiqueta.",
+    "tier": "B2"
+   },
+   {
+    "front": "el frasco",
+    "pos": "noun",
+    "back": "bottle, small jar (of liquid)",
+    "example": "El frasco no llevaba ninguna etiqueta.",
+    "tier": "B1"
+   },
+   {
+    "front": "seguir una moda",
+    "pos": "phrase",
+    "back": "to follow a trend",
+    "example": "Muchos siguen la moda sin informarse.",
+    "tier": "B1"
+   }
   ],
   "grammar": [
-    {
-      "sentence": "Las ciudades, las carreteras y la contaminación crean entornos nuevos a los que las especies deben adaptarse mucho más deprisa de lo habitual.",
-      "point": "Relative clause with a preposition: a los que",
-      "explanation": "The verb is adaptarse a algo, so the preposition a has to travel with the relative pronoun and sit in front of it: entornos a los que deben adaptarse. The article los agrees with entornos.",
-      "why_tricky": "English lets you strand the preposition at the end (environments they have to adapt to). Spanish does not, so learners often write entornos que deben adaptarse, which loses the a."
-    },
-    {
-      "sentence": "La especie que no logra ajustarse a ese ritmo suele desaparecer del paisaje urbano.",
-      "point": "soler + infinitivo",
-      "explanation": "Soler + infinitive expresses habitual or typical behaviour, so suele desaparecer means it usually disappears. Soler is stem-changing in the present (suelo, sueles, suele, solemos, soléis, suelen).",
-      "why_tricky": "Soler has no single English verb, so learners reach for normalmente or usualmente instead. It also exists only in the present and the imperfect, so there is no future or preterite form."
-    },
-    {
-      "sentence": "Una adaptación rápida no equivale a una solución, ya que muchas especies no disponen del tiempo necesario.",
-      "point": "The connector ya que",
-      "explanation": "Ya que introduces a cause the reader is expected to accept already, close to since or given that. Note also equivaler a: the verb needs the preposition a before what it is being compared with.",
-      "why_tricky": "Unlike porque, ya que can open the sentence (Ya que muchas especies no disponen del tiempo necesario, ...), which porque normally cannot. Porque presents new information; ya que presents shared information."
-    }
+   {
+    "sentence": "La mayoría de los péptidos que circulan como productos experimentales no han pasado por ensayos clínicos amplios, de modo que sus efectos a largo plazo se desconocen.",
+    "point": "de modo que + indicativo, y pasiva refleja con se",
+    "explanation": "'De modo que' con indicativo introduce una consecuencia real: los efectos se desconocen porque no ha habido ensayos. 'Se desconocen' es pasiva refleja: no decimos quién los desconoce.",
+    "why_tricky": "Con subjuntivo ('de modo que se desconozcan') la frase pasaría a expresar finalidad, no consecuencia. Además, el verbo concuerda con 'efectos' en plural, no con un sujeto humano."
+   },
+   {
+    "sentence": "Los especialistas advierten de que comprarlos por internet supone un riesgo, ya que no siempre se sabe qué contiene el frasco.",
+    "point": "advertir de que, y el infinitivo como sujeto",
+    "explanation": "'Advertir' admite 'advertir de que' cuando el sentido es avisar de un peligro. 'Comprarlos' es un infinitivo que funciona como sujeto de 'supone'.",
+    "why_tricky": "Los aprendices suelen quitar el 'de' por miedo al dequeísmo, pero aquí la preposición es correcta. Y como el sujeto es un infinitivo, el verbo va siempre en singular."
+   },
+   {
+    "sentence": "Antes de seguir una moda, conviene consultar a un profesional sanitario.",
+    "point": "conviene + infinitivo (impersonal) y la a personal",
+    "explanation": "'Conviene' funciona como verbo impersonal: no tiene sujeto y va seguido de infinitivo. 'A un profesional' lleva 'a' porque el complemento directo es una persona.",
+    "why_tricky": "Si el consejo se dirige a alguien concreto hace falta subjuntivo ('conviene que consultes'), y olvidar la a personal es uno de los errores más frecuentes en B1."
+   }
   ],
   "idioms": [
-    {"phrase": "a marchas forzadas", "meaning": "at a forced, breakneck pace", "example": "Terminaron el proyecto a marchas forzadas."},
-    {"phrase": "ir de la mano", "meaning": "to go hand in hand, to be closely linked", "example": "El crecimiento urbano y la contaminación suelen ir de la mano."}
+   {
+    "phrase": "vender humo",
+    "meaning": "to sell empty promises, to be all talk",
+    "example": "Muchos influencers de salud venden humo."
+   },
+   {
+    "phrase": "tomar algo con pinzas",
+    "meaning": "to take something with a pinch of salt",
+    "example": "Esos resultados hay que tomarlos con pinzas."
+   }
   ],
   "comprehension": [
-    {"q": "¿Por qué se está acelerando la evolución de algunos animales, según el texto?", "type": "open"},
-    {"q": "Según el texto, ¿en cuánto tiempo se apreciaban antes estos cambios y en cuánto tiempo se aprecian ahora?", "type": "open"},
-    {"q": "¿Por qué una adaptación rápida no equivale a una solución?", "type": "open"}
+   {
+    "q": "¿Por qué se han puesto de moda los péptidos en las redes sociales?",
+    "type": "open"
+   },
+   {
+    "q": "¿Qué problema señala el artículo sobre la evidencia científica?",
+    "type": "open"
+   },
+   {
+    "q": "¿Qué riesgos tiene comprar este tipo de productos por internet?",
+    "type": "open"
+   }
   ],
-  "opinion_prompt": "¿Crees que las ciudades deberían diseñarse pensando también en los animales? Escribe unas 120 palabras explicando tu postura con ejemplos concretos."
-},
-{
-  "pack_id": "feed-2026-08-17-tupac-shakur-treinta-anos",
+  "opinion_prompt": "¿Crees que las redes sociales deberían regular los consejos de salud que difunden los influencers? Escribe unas 120 palabras defendiendo tu postura con ejemplos concretos."
+ },
+ {
+  "pack_id": "feed-2026-08-25-pelirrojos-fotografia",
   "revision": 1,
   "meta": {
-    "title": "Quién era el rapero Tupac Shakur, cómo fue asesinado y por qué 30 años después el crimen sigue sin esclarecerse",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/c0rdxzg102zo?at_medium=RSS&at_campaign=rss",
-    "date_published": "2026-08-11",
-    "date_processed": "2026-08-17",
-    "tags": ["música", "cultura"],
-    "level": "B1-B2"
+   "title": "La serie fotográfica de pelirrojos que muestra un vínculo inesperado entre los estadounidenses",
+   "source": "BBC Mundo",
+   "url": "https://www.bbc.com/mundo/articles/c5ywnnxldn2o?at_medium=RSS&at_campaign=rss",
+   "date_published": "2026-08-24",
+   "date_processed": "2026-08-25",
+   "tags": [
+    "cultura",
+    "fotografía"
+   ],
+   "level": "B1-B2"
   },
-  "summary_en": "Three decades have passed since the murder of Tupac Shakur and the case still has not been solved. The American rapper died young, and since then his standing has never stopped growing. His records are still played, and generations who had not even been born when he died recognise him instantly. The investigation, by contrast, has never produced a definitive answer.\n\nThat contrast partly explains his status as a myth. When an artist dies young and the crime goes unpunished, the gap fills up with theories, documentaries and rumours that feed the legend. For many followers, Tupac stands for something more than the music: a voice that put words to the anger and the hope of people who felt ignored. Thirty years on, the question of who killed him sits alongside another just as persistent: why he still matters so much.",
-  "resumen_es": "Han pasado tres décadas desde el asesinato de Tupac Shakur y el caso sigue sin esclarecerse. El rapero estadounidense murió joven, y desde entonces su figura no ha dejado de crecer. Sus discos se siguen escuchando y generaciones que ni siquiera habían nacido cuando murió lo reconocen al instante. La investigación, en cambio, nunca ha dado una respuesta definitiva.\n\nEse contraste explica en parte su condición de mito. Cuando un artista muere joven y el crimen queda impune, el vacío se llena de teorías, documentales y rumores que alimentan la leyenda. Para muchos seguidores, Tupac representa algo más que la música: una voz que puso palabras a la rabia y a la esperanza de quienes se sentían ignorados. Treinta años después, la pregunta de quién lo mató convive con otra igual de persistente: por qué sigue importando tanto.",
+  "summary_en": "The photographer Kieran Dodds has spent years portraying red-haired people in different countries, and his latest project focuses on the United States. What began as a curiosity has turned into a creative obsession: seeking out people who share an uncommon genetic trait and telling, through their faces, the stories of families who arrived from very different places.\n\nRed hair appears in only a small part of the world's population and is passed down quietly from one generation to the next. The photographs therefore work like a map of old migrations: surnames, accents and origins that cross paths in a single country. Dodds argues that his series invites us to look at resemblance before difference, something that is especially striking in such a diverse society.",
+  "resumen_es": "El fotógrafo Kieran Dodds lleva años retratando a personas pelirrojas en distintos países, y su nuevo trabajo se centra en Estados Unidos. Lo que empezó como una curiosidad se ha convertido en una obsesión creativa: buscar a quienes comparten un rasgo genético poco común y contar, a través de sus rostros, historias de familias que llegaron de lugares muy distintos.\n\nEl pelo rojo aparece en apenas una pequeña parte de la población mundial y se transmite de forma silenciosa de generación en generación. Por eso, las fotografías funcionan como un mapa de migraciones antiguas: apellidos, acentos y orígenes que se cruzan en un mismo país. Dodds sostiene que su serie invita a mirar el parecido antes que la diferencia, algo que resulta especialmente llamativo en una sociedad tan diversa.",
   "vocab": [
-    {"front": "esclarecerse", "pos": "verb", "back": "to be cleared up, to be solved", "example": "El robo se esclareció gracias a una cámara.", "tier": "B2"},
-    {"front": "el asesinato", "pos": "noun", "back": "murder, killing", "example": "El asesinato ocurrió de madrugada.", "tier": "B1"},
-    {"front": "la figura", "pos": "noun", "back": "public standing, stature (of a person)", "example": "Su figura ha crecido mucho desde su muerte.", "tier": "B2"},
-    {"front": "ni siquiera", "pos": "phrase", "back": "not even", "example": "Ni siquiera me saludó.", "tier": "B1"},
-    {"front": "al instante", "pos": "phrase", "back": "instantly, straight away", "example": "Reconocí su voz al instante.", "tier": "B1"},
-    {"front": "en cambio", "pos": "phrase", "back": "on the other hand, by contrast", "example": "A mí me gustó; a ella, en cambio, le pareció aburrida.", "tier": "B1"},
-    {"front": "quedar impune", "pos": "phrase", "back": "to go unpunished", "example": "Nadie quiere que el delito quede impune.", "tier": "B2"},
-    {"front": "el vacío", "pos": "noun", "back": "gap, void, emptiness", "example": "Su marcha dejó un vacío en el equipo.", "tier": "B2"},
-    {"front": "alimentar", "pos": "verb", "back": "to feed, to fuel (a rumour, an idea)", "example": "El silencio oficial alimentó las sospechas.", "tier": "B2"},
-    {"front": "la leyenda", "pos": "noun", "back": "legend", "example": "Con los años se convirtió en una leyenda.", "tier": "B1"},
-    {"front": "el seguidor / la seguidora", "pos": "noun", "back": "follower, fan", "example": "El grupo tiene seguidores en todo el mundo.", "tier": "B1"},
-    {"front": "la rabia", "pos": "noun", "back": "anger, rage", "example": "Habló con una rabia contenida.", "tier": "B1"},
-    {"front": "convivir con", "pos": "verb", "back": "to coexist with, to live alongside", "example": "El barrio convive con el ruido del aeropuerto.", "tier": "B2"}
+   {
+    "front": "pelirrojo",
+    "pos": "adj",
+    "back": "red-haired, redhead",
+    "example": "Su hermana es pelirroja y tiene pecas.",
+    "tier": "B1"
+   },
+   {
+    "front": "retratar",
+    "pos": "verb",
+    "back": "to portray, to photograph (a person)",
+    "example": "Le gusta retratar a la gente en la calle.",
+    "tier": "B1"
+   },
+   {
+    "front": "llevar años + gerundio",
+    "pos": "phrase",
+    "back": "to have been doing something for years",
+    "example": "Lleva años trabajando en el mismo proyecto.",
+    "tier": "B1"
+   },
+   {
+    "front": "centrarse en",
+    "pos": "verb",
+    "back": "to focus on",
+    "example": "El documental se centra en tres familias.",
+    "tier": "B1"
+   },
+   {
+    "front": "el rasgo",
+    "pos": "noun",
+    "back": "trait, feature",
+    "example": "La generosidad es su rasgo más claro.",
+    "tier": "B2"
+   },
+   {
+    "front": "el rostro",
+    "pos": "noun",
+    "back": "face (literary register)",
+    "example": "La cámara se acerca a su rostro.",
+    "tier": "B2"
+   },
+   {
+    "front": "transmitirse",
+    "pos": "verb",
+    "back": "to be passed on, to be inherited",
+    "example": "La costumbre se transmite de padres a hijos.",
+    "tier": "B2"
+   },
+   {
+    "front": "de generación en generación",
+    "pos": "phrase",
+    "back": "from one generation to the next",
+    "example": "La receta pasa de generación en generación.",
+    "tier": "B1"
+   },
+   {
+    "front": "el apellido",
+    "pos": "noun",
+    "back": "surname",
+    "example": "Su apellido revela un origen italiano.",
+    "tier": "B1"
+   },
+   {
+    "front": "cruzarse",
+    "pos": "verb",
+    "back": "to cross, to intersect",
+    "example": "En ese barrio se cruzan muchas culturas.",
+    "tier": "B2"
+   },
+   {
+    "front": "sostener (que)",
+    "pos": "verb",
+    "back": "to argue, to maintain (that)",
+    "example": "El autor sostiene que el arte une.",
+    "tier": "B2"
+   },
+   {
+    "front": "el parecido",
+    "pos": "noun",
+    "back": "resemblance, likeness",
+    "example": "El parecido entre los dos es asombroso.",
+    "tier": "B2"
+   },
+   {
+    "front": "llamativo",
+    "pos": "adj",
+    "back": "striking, eye-catching",
+    "example": "El dato más llamativo es la edad media.",
+    "tier": "B2"
+   }
   ],
   "grammar": [
-    {
-      "sentence": "Han pasado tres décadas desde el asesinato de Tupac Shakur y el caso sigue sin esclarecerse.",
-      "point": "seguir sin + infinitivo",
-      "explanation": "Seguir sin + infinitive says that something has still not happened and the situation continues: sigue sin esclarecerse means it still has not been cleared up. The pronominal esclarecerse gives it a passive sense with no named agent.",
-      "why_tricky": "Learners usually reach for todavía no se ha esclarecido, which is correct but flatter. Note that seguir here is not to follow but to continue."
-    },
-    {
-      "sentence": "El rapero estadounidense murió joven, y desde entonces su figura no ha dejado de crecer.",
-      "point": "no dejar de + infinitivo",
-      "explanation": "No dejar de + infinitive means to keep on doing something without interruption. In the perfect (no ha dejado de crecer) it covers a stretch of time running up to now.",
-      "why_tricky": "The literal reading has not stopped growing is a near miss: the Spanish states continuity positively rather than denying an ending. Do not confuse it with dejar de + infinitive on its own, which means to stop doing something."
-    },
-    {
-      "sentence": "Cuando un artista muere joven y el crimen queda impune, el vacío se llena de teorías, documentales y rumores que alimentan la leyenda.",
-      "point": "cuando + presente de indicativo for general truths",
-      "explanation": "Here cuando introduces something that happens generally, whenever the conditions hold, so the indicative is used: cuando un artista muere. Compare cuando muera, with subjunctive, which would point to one specific future death.",
-      "why_tricky": "Learners are taught that cuando takes the subjunctive for the future and then over-apply it. Timeless generalisations stay firmly in the indicative."
-    }
+   {
+    "sentence": "Lo que empezó como una curiosidad se ha convertido en una obsesión creativa",
+    "point": "lo que como pronombre relativo neutro, y convertirse en",
+    "explanation": "'Lo que' resume una idea entera, no un sustantivo concreto, y funciona como sujeto. 'Convertirse' pide siempre la preposición 'en' delante del resultado.",
+    "why_tricky": "En inglés se dice 'turn into', y muchos aprendices calcan 'convertirse a' o usan 'que' solo, sin el neutro 'lo'."
+   },
+   {
+    "sentence": "El pelo rojo aparece en apenas una pequeña parte de la población mundial y se transmite de forma silenciosa de generación en generación.",
+    "point": "pasiva refleja con se para procesos naturales",
+    "explanation": "'Se transmite' evita mencionar un agente: no interesa quién transmite el rasgo, sino el proceso en sí. Es la fórmula habitual en textos divulgativos.",
+    "why_tricky": "Suena raro traducirlo con 'es transmitido', que en español resulta demasiado formal y poco natural en este contexto."
+   },
+   {
+    "sentence": "Dodds sostiene que su serie invita a mirar el parecido antes que la diferencia",
+    "point": "invitar a + infinitivo y la comparación antes que",
+    "explanation": "'Invitar' rige la preposición 'a' antes del infinitivo. 'Antes que' establece una preferencia entre dos opciones, no un orden temporal.",
+    "why_tricky": "'Antes que' y 'antes de que' se confunden con facilidad: el segundo es temporal y exige subjuntivo."
+   }
   ],
   "idioms": [
-    {"phrase": "correr ríos de tinta", "meaning": "for a huge amount to have been written about something", "example": "Sobre ese caso han corrido ríos de tinta."},
-    {"phrase": "de boca en boca", "meaning": "by word of mouth, passed from person to person", "example": "La versión más increíble corrió de boca en boca."}
+   {
+    "phrase": "saltar a la vista",
+    "meaning": "to be obvious, to stand out immediately",
+    "example": "El parecido entre ellos salta a la vista."
+   },
+   {
+    "phrase": "de tal palo, tal astilla",
+    "meaning": "a chip off the old block",
+    "example": "Toca el piano como su madre: de tal palo, tal astilla."
+   }
   ],
   "comprehension": [
-    {"q": "¿Qué contraste describe el texto entre la figura de Tupac y la investigación de su muerte?", "type": "open"},
-    {"q": "Según el texto, ¿por qué crece la leyenda cuando un crimen queda impune?", "type": "open"},
-    {"q": "¿Qué representa Tupac para muchos seguidores, más allá de la música?", "type": "open"}
+   {
+    "q": "¿Cómo empezó el proyecto fotográfico de Kieran Dodds?",
+    "type": "open"
+   },
+   {
+    "q": "¿Por qué dice el texto que las fotos funcionan como un mapa de migraciones?",
+    "type": "open"
+   },
+   {
+    "q": "¿Qué idea quiere transmitir el fotógrafo sobre el parecido y la diferencia?",
+    "type": "open"
+   }
   ],
-  "opinion_prompt": "¿Por qué crees que algunos artistas se convierten en mitos después de morir? Escribe unas 120 palabras con al menos un ejemplo que conozcas."
-},
-{
-  "pack_id": "feed-2026-08-17-restricciones-agua-francia",
+  "opinion_prompt": "¿Puede una serie de fotografías cambiar la forma en que una sociedad se ve a sí misma? Escribe unas 120 palabras con tu opinión y algún ejemplo que conozcas."
+ },
+ {
+  "pack_id": "feed-2026-08-25-colombia-deportaciones",
   "revision": 1,
   "meta": {
-    "title": "Restricciones de agua en más del 70 % de Francia debido a una grave sequía",
-    "source": "RFI Español",
-    "url": "https://www.rfi.fr/es/francia/20260812-restricciones-de-agua-en-m%C3%A1s-del-70-de-francia-debido-a-una-grave-sequ%C3%ADa",
-    "date_published": "2026-08-12",
-    "date_processed": "2026-08-17",
-    "tags": ["medioambiente", "Francia"],
-    "level": "B1-B2"
+   "title": "Colombia: el presidente ordena deportaciones de inmigrantes en situación irregular",
+   "source": "RFI Español",
+   "url": "https://www.rfi.fr/es/programas/noticias-de-am%C3%A9rica/20260825-colombia-el-presidente-ordena-deportaciones-de-migrantes-en-situaci%C3%B3n-irregular",
+   "date_published": "2026-08-25",
+   "date_processed": "2026-08-25",
+   "tags": [
+    "migración",
+    "política"
+   ],
+   "level": "B1-B2"
   },
-  "summary_en": "More than 70% of French territory is under water restrictions because of a persistent drought. Two thirds of the groundwater tables are showing levels below normal, and the situation is very likely to get worse over the coming weeks. Successive heatwaves speed up evaporation and prevent the underground reserves from recovering. Restrictions of this kind usually limit garden watering and the filling of swimming pools.\n\nThey mainly affect agriculture, which uses a good share of the water in summer. Farmers tend to call for aid and long-term planning, while environmental campaigners insist that the consumption model needs reviewing. The debate no longer revolves only around one difficult summer, but around a changing climate. France is not an isolated case: much of Europe is facing drier and drier summers.",
-  "resumen_es": "Más del 70 % del territorio francés está sometido a restricciones de agua a causa de una sequía persistente. Dos tercios de los mantos freáticos presentan niveles por debajo de lo normal, y es muy probable que la situación se agrave en las próximas semanas. Las sucesivas olas de calor aceleran la evaporación e impiden que las reservas subterráneas se recuperen. Las restricciones de este tipo suelen limitar el riego de jardines y el llenado de piscinas.\n\nAfectan sobre todo a la agricultura, que consume buena parte del agua en verano. Los agricultores suelen reclamar ayudas y planificación a largo plazo, mientras que los ecologistas insisten en que conviene revisar el modelo de consumo. El debate ya no gira solo en torno a un verano difícil, sino en torno a un clima que cambia. Francia no es un caso aislado: media Europa afronta veranos cada vez más secos.",
+  "summary_en": "Colombia's new president, Abelardo de la Espriella, has ordered joint operations between the immigration authority and the police to begin this week in order to deport foreigners who are in the country without regular status. He instructed officials to identify and detain those whose papers are not in order, in one of the first significant measures of his government.\n\nThe decision comes at a delicate moment for the region, which in recent years has taken in millions of people fleeing economic and political crises. Human rights organisations tend to warn that operations of this kind can leave whole families on the street and make it harder to access healthcare or schooling. The government, for its part, defends the measure in the name of security.",
+  "resumen_es": "El nuevo presidente de Colombia, Abelardo de la Espriella, ha ordenado poner en marcha esta semana operaciones conjuntas entre la autoridad migratoria y la Policía para deportar a los extranjeros que se encuentran en el país en situación irregular. El mandatario pidió identificar y detener a quienes no tengan sus papeles en regla, en una de las primeras medidas de peso de su gobierno.\n\nLa decisión llega en un momento delicado para la región, que en los últimos años ha recibido a millones de personas que huyen de crisis económicas y políticas. Las organizaciones de derechos humanos suelen advertir de que este tipo de operativos deja a familias enteras en la calle y dificulta el acceso a la sanidad o a la escuela. El gobierno, por su parte, defiende la medida en nombre de la seguridad.",
   "vocab": [
-    {"front": "la sequía", "pos": "noun", "back": "drought", "example": "La sequía ha durado todo el verano.", "tier": "B1"},
-    {"front": "estar sometido a", "pos": "phrase", "back": "to be subject to", "example": "La zona está sometida a controles estrictos.", "tier": "B2"},
-    {"front": "el manto freático", "pos": "noun", "back": "water table, groundwater level", "example": "El manto freático baja cada verano.", "tier": "C1"},
-    {"front": "por debajo de", "pos": "phrase", "back": "below", "example": "Las temperaturas están por debajo de la media.", "tier": "B1"},
-    {"front": "agravarse", "pos": "verb", "back": "to get worse, to worsen", "example": "Su estado se agravó por la noche.", "tier": "B2"},
-    {"front": "la ola de calor", "pos": "noun", "back": "heatwave", "example": "La tercera ola de calor llegó en agosto.", "tier": "B1"},
-    {"front": "impedir", "pos": "verb", "back": "to prevent, to stop (something happening)", "example": "La lluvia impidió que saliéramos.", "tier": "B1"},
-    {"front": "el riego", "pos": "noun", "back": "irrigation, watering", "example": "El riego por goteo ahorra mucha agua.", "tier": "B2"},
-    {"front": "el llenado", "pos": "noun", "back": "filling (up)", "example": "Está prohibido el llenado de piscinas.", "tier": "B2"},
-    {"front": "reclamar", "pos": "verb", "back": "to demand, to call for", "example": "Los vecinos reclaman más transporte público.", "tier": "B2"},
-    {"front": "a largo plazo", "pos": "phrase", "back": "in the long term", "example": "Hay que pensar a largo plazo.", "tier": "B1"},
-    {"front": "convenir", "pos": "verb", "back": "to be advisable, to be a good idea", "example": "Conviene reservar con antelación.", "tier": "B2"},
-    {"front": "girar en torno a", "pos": "phrase", "back": "to revolve around", "example": "Toda la novela gira en torno a un secreto.", "tier": "B2"},
-    {"front": "afrontar", "pos": "verb", "back": "to face, to confront", "example": "El país afronta una crisis energética.", "tier": "B2"}
+   {
+    "front": "en situación irregular",
+    "pos": "phrase",
+    "back": "without legal status (of a migrant)",
+    "example": "Miles de personas viven allí en situación irregular.",
+    "tier": "B2"
+   },
+   {
+    "front": "poner en marcha",
+    "pos": "phrase",
+    "back": "to launch, to set in motion",
+    "example": "El ministerio puso en marcha el plan en junio.",
+    "tier": "B1"
+   },
+   {
+    "front": "el mandatario",
+    "pos": "noun",
+    "back": "head of state, president",
+    "example": "El mandatario habló ante el Congreso.",
+    "tier": "B2"
+   },
+   {
+    "front": "deportar",
+    "pos": "verb",
+    "back": "to deport",
+    "example": "Fue deportado a su país de origen.",
+    "tier": "B1"
+   },
+   {
+    "front": "tener los papeles en regla",
+    "pos": "phrase",
+    "back": "to have one's documents in order",
+    "example": "Sin los papeles en regla no puede trabajar.",
+    "tier": "B1"
+   },
+   {
+    "front": "la medida de peso",
+    "pos": "phrase",
+    "back": "significant, weighty measure",
+    "example": "Fue la primera medida de peso del año.",
+    "tier": "B2"
+   },
+   {
+    "front": "el operativo",
+    "pos": "noun",
+    "back": "operation (police or security)",
+    "example": "El operativo duró toda la noche.",
+    "tier": "B2"
+   },
+   {
+    "front": "huir de",
+    "pos": "verb",
+    "back": "to flee from",
+    "example": "Huyeron de la violencia en su región.",
+    "tier": "B1"
+   },
+   {
+    "front": "los derechos humanos",
+    "pos": "noun",
+    "back": "human rights",
+    "example": "Denunciaron una violación de derechos humanos.",
+    "tier": "B1"
+   },
+   {
+    "front": "dificultar",
+    "pos": "verb",
+    "back": "to make difficult, to hinder",
+    "example": "La lluvia dificultó el rescate.",
+    "tier": "B2"
+   },
+   {
+    "front": "el acceso a la sanidad",
+    "pos": "phrase",
+    "back": "access to healthcare",
+    "example": "El acceso a la sanidad es desigual.",
+    "tier": "B1"
+   },
+   {
+    "front": "por su parte",
+    "pos": "phrase",
+    "back": "for its part, meanwhile",
+    "example": "La oposición, por su parte, rechazó el plan.",
+    "tier": "B1"
+   },
+   {
+    "front": "en nombre de",
+    "pos": "phrase",
+    "back": "in the name of",
+    "example": "Justificó el recorte en nombre del ahorro.",
+    "tier": "B2"
+   }
   ],
   "grammar": [
-    {
-      "sentence": "Más del 70 % del territorio francés está sometido a restricciones de agua a causa de una sequía persistente.",
-      "point": "estar + participio for a resulting state",
-      "explanation": "Estar sometido describes the state the territory is in, not the act of imposing the measures. The participle behaves like an adjective and agrees with the subject: sometido here, sometida with a feminine noun.",
-      "why_tricky": "Learners default to ser for anything that looks passive. Ser sometido would report the event of being subjected; estar sometido reports the ongoing situation."
-    },
-    {
-      "sentence": "Las sucesivas olas de calor aceleran la evaporación e impiden que las reservas subterráneas se recuperen.",
-      "point": "impedir que + subjuntivo, and y becoming e",
-      "explanation": "Impedir que takes the subjunctive in the subordinate clause: impiden que se recuperen. Note also that y becomes e in front of a word starting with the i sound, hence e impiden.",
-      "why_tricky": "Impedir also allows a plain infinitive, but only with a dative pronoun for the affected party: les impiden recuperarse. What Spanish never allows is the English shape, so prevent them from recovering has to be rebuilt rather than translated."
-    },
-    {
-      "sentence": "El debate ya no gira solo en torno a un verano difícil, sino en torno a un clima que cambia.",
-      "point": "no solo ... sino for addition",
-      "explanation": "With no solo A, sino (también) B, sino adds B without denying A: the debate is still about the difficult summer, and now about the climate too. Compare bare no A sino B (No es un verano difícil, sino una sequía estructural), where B replaces A outright.",
-      "why_tricky": "Learners meet only the replacement pattern and then read every sino as a contradiction. The trigger is solo: with solo, sino adds; without it, sino substitutes. Pero is wrong in both, and you need sino que when a full conjugated clause follows."
-    }
+   {
+    "sentence": "El mandatario pidió identificar y detener a quienes no tengan sus papeles en regla, en una de las primeras medidas de peso de su gobierno.",
+    "point": "subjuntivo en oraciones de relativo con antecedente indefinido",
+    "explanation": "'Quienes no tengan' va en subjuntivo porque no se refiere a personas identificadas, sino a cualquiera que cumpla esa condición.",
+    "why_tricky": "Con indicativo ('quienes no tienen') el hablante daría por conocidas a esas personas. El matiz cambia por completo con una sola letra."
+   },
+   {
+    "sentence": "La decisión llega en un momento delicado para la región, que en los últimos años ha recibido a millones de personas que huyen de crisis económicas y políticas.",
+    "point": "pretérito perfecto con en los últimos años y la a personal",
+    "explanation": "'En los últimos años' abre un periodo que llega hasta hoy, así que pide pretérito perfecto. 'A millones de personas' lleva 'a' porque el complemento directo son personas.",
+    "why_tricky": "En muchas zonas de América se usaría el indefinido ('recibió'), pero con marcadores que incluyen el presente el perfecto es la opción más segura."
+   },
+   {
+    "sentence": "El gobierno, por su parte, defiende la medida en nombre de la seguridad.",
+    "point": "conectores de contraste entre comas",
+    "explanation": "'Por su parte' introduce la voz de un actor distinto al anterior y siempre va entre comas dentro de la frase.",
+    "why_tricky": "Es fácil confundirlo con 'de su parte', que significa otra cosa: en su nombre o de parte suya."
+   }
   ],
   "idioms": [
-    {"phrase": "estar en las últimas", "meaning": "to be almost gone, on its last legs", "example": "Las reservas están en las últimas después de tres meses sin lluvia."},
-    {"phrase": "tomar cartas en el asunto", "meaning": "to step in and take action", "example": "El gobierno tuvo que tomar cartas en el asunto."}
+   {
+    "phrase": "tener la sartén por el mango",
+    "meaning": "to hold all the cards, to be in control",
+    "example": "En la negociación, el gobierno tiene la sartén por el mango."
+   },
+   {
+    "phrase": "a la calle",
+    "meaning": "out on the street, thrown out",
+    "example": "La crisis dejó a muchas familias a la calle."
+   }
   ],
   "comprehension": [
-    {"q": "¿Qué situación describen los datos sobre los mantos freáticos franceses?", "type": "open"},
-    {"q": "¿Por qué las olas de calor empeoran el problema del agua?", "type": "open"},
-    {"q": "¿En qué se diferencian las peticiones de los agricultores y las de los ecologistas?", "type": "open"}
+   {
+    "q": "¿Qué ha ordenado exactamente el presidente de Colombia y a quién afecta?",
+    "type": "open"
+   },
+   {
+    "q": "¿Por qué dice el texto que la decisión llega en un momento delicado?",
+    "type": "open"
+   },
+   {
+    "q": "¿Qué argumentos usan el gobierno y las organizaciones de derechos humanos?",
+    "type": "open"
+   }
   ],
-  "opinion_prompt": "¿Qué medidas te parecen más justas para repartir el agua en un verano de sequía? Escribe unas 120 palabras y justifica tu respuesta."
-}
+  "opinion_prompt": "¿Qué debería tener en cuenta un país antes de poner en marcha deportaciones masivas? Escribe unas 120 palabras con tu opinión razonada."
+ }
 ]
