@@ -1,7 +1,488 @@
 {
-  "generated_at": "2026-08-25T20:42:16Z",
+  "generated_at": "2026-08-26T07:11:39Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-26-cuba-alimentos",
+      "title": "Por qué Cuba no produce suficiente comida y depende del exterior para alimentar a su población",
+      "source": "BBC Mundo",
+      "date": "2026-08-25",
+      "level": "B1-B2",
+      "topics": [
+        "economía",
+        "alimentación"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-26-cuba-alimentos",
+        "revision": 1,
+        "meta": {
+          "title": "Por qué Cuba no produce suficiente comida y depende del exterior para alimentar a su población",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c5y013l2pp4o?at_medium=RSS&at_campaign=rss",
+          "date_published": "2026-08-25",
+          "date_processed": "2026-08-26",
+          "tags": [
+            "economía",
+            "alimentación"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Cuba is going through a serious food crisis: despite its agricultural potential, the island imports around 80% of the food it consumes. According to a BBC analysis, this dependence on the outside world is due to decades of poor economic planning, the historic bet on sugar as the main crop, and the sanctions imposed by the United States. The result is that a country with fertile land does not manage to produce enough food to feed its own population.\n\nThe consequences are felt in everyday life: shortages in the markets, high prices and long queues to get basic products. Experts point out that, without a deep reform of the agricultural sector and without investment in machinery and fertilisers, the situation is unlikely to improve. Meanwhile, many Cuban families depend on the remittances their relatives send from abroad to put food on the table.",
+        "resumen_es": "Cuba atraviesa una grave crisis alimentaria: a pesar de su potencial agrícola, la isla importa alrededor del 80% de los alimentos que consume. Según un análisis de la BBC, esta dependencia del exterior se debe a décadas de mala planificación económica, a la apuesta histórica por el azúcar como cultivo principal y a las sanciones impuestas por Estados Unidos. El resultado es que un país con tierras fértiles no logra producir comida suficiente para alimentar a su propia población.\n\nLas consecuencias se notan en la vida cotidiana: escasez en los mercados, precios altos y largas colas para conseguir productos básicos. Los expertos señalan que, sin una reforma profunda del sector agrícola y sin inversión en maquinaria y fertilizantes, la situación difícilmente mejorará. Mientras tanto, muchas familias cubanas dependen de las remesas que envían sus parientes desde el extranjero para llenar la mesa.",
+        "vocab": [
+          {
+            "front": "atravesar",
+            "pos": "verb",
+            "back": "to go through, to experience",
+            "example": "El país atraviesa una crisis económica.",
+            "tier": "B1"
+          },
+          {
+            "front": "a pesar de",
+            "pos": "phrase",
+            "back": "despite, in spite of",
+            "example": "Salieron a pasear a pesar de la lluvia.",
+            "tier": "B1"
+          },
+          {
+            "front": "la apuesta",
+            "pos": "noun",
+            "back": "bet, commitment (to a strategy)",
+            "example": "La apuesta por las energías renovables es clave.",
+            "tier": "B2"
+          },
+          {
+            "front": "el cultivo",
+            "pos": "noun",
+            "back": "crop, farming",
+            "example": "El cultivo de arroz necesita mucha agua.",
+            "tier": "B1"
+          },
+          {
+            "front": "la escasez",
+            "pos": "noun",
+            "back": "shortage, scarcity",
+            "example": "Hay escasez de medicamentos en los hospitales.",
+            "tier": "B2"
+          },
+          {
+            "front": "la planificación",
+            "pos": "noun",
+            "back": "planning",
+            "example": "La mala planificación causó retrasos en la obra.",
+            "tier": "B1"
+          },
+          {
+            "front": "tierras fértiles",
+            "pos": "phrase",
+            "back": "fertile land",
+            "example": "La región tiene tierras fértiles para la agricultura.",
+            "tier": "B2"
+          },
+          {
+            "front": "la cola",
+            "pos": "noun",
+            "back": "queue, line",
+            "example": "Hicimos una hora de cola para entrar.",
+            "tier": "B1"
+          },
+          {
+            "front": "las remesas",
+            "pos": "noun",
+            "back": "remittances (money sent home)",
+            "example": "Las remesas de los emigrantes sostienen a muchas familias.",
+            "tier": "C1"
+          },
+          {
+            "front": "señalar",
+            "pos": "verb",
+            "back": "to point out, to indicate",
+            "example": "El informe señala varios problemas graves.",
+            "tier": "B1"
+          },
+          {
+            "front": "difícilmente",
+            "pos": "adv",
+            "back": "hardly, unlikely to",
+            "example": "Difícilmente llegaremos a tiempo con este tráfico.",
+            "tier": "B2"
+          },
+          {
+            "front": "alimentar",
+            "pos": "verb",
+            "back": "to feed",
+            "example": "Cuesta mucho alimentar a una familia grande.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El resultado es que un país con tierras fértiles no logra producir comida suficiente para alimentar a su propia población.",
+            "point": "lograr + infinitive (to manage to do something)",
+            "explanation": "Lograr followed directly by an infinitive means to succeed in doing something: no logra producir = it does not manage to produce.",
+            "why_tricky": "English speakers often reach for 'conseguir a' or add an unnecessary preposition; lograr takes the infinitive with no preposition at all."
+          },
+          {
+            "sentence": "Los expertos señalan que, sin una reforma profunda del sector agrícola y sin inversión en maquinaria y fertilizantes, la situación difícilmente mejorará.",
+            "point": "future tense for predictions + repeated 'sin'",
+            "explanation": "Mejorará is the simple future used for a prediction. Spanish repeats sin before each noun phrase (sin reforma... y sin inversión) where English might say 'without X or Y'.",
+            "why_tricky": "Difícilmente + future is a very Spanish way to say 'is unlikely to'; a literal translation ('difficultly will improve') does not exist in English."
+          },
+          {
+            "sentence": "Mientras tanto, muchas familias cubanas dependen de las remesas que envían sus parientes desde el extranjero para llenar la mesa.",
+            "point": "depender de + subject after the verb in relative clauses",
+            "explanation": "Depender always takes de. In the relative clause 'que envían sus parientes', the subject (sus parientes) comes after the verb, a common Spanish word order.",
+            "why_tricky": "Learners often read 'que envían sus parientes' as 'that they send their relatives'; here sus parientes is the one doing the sending."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "llegar a fin de mes",
+            "meaning": "to make ends meet",
+            "example": "Con estos precios, muchas familias no llegan a fin de mes."
+          },
+          {
+            "phrase": "a cuentagotas",
+            "meaning": "in dribs and drabs, very slowly and in small amounts",
+            "example": "La ayuda llega a cuentagotas y no es suficiente."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué porcentaje de los alimentos que consume Cuba viene del exterior?",
+            "type": "open"
+          },
+          {
+            "q": "Según el artículo, ¿cuáles son las tres causas principales de la dependencia alimentaria de Cuba?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué necesitaría el sector agrícola cubano para mejorar, según los expertos?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que un país debe producir la mayor parte de su propia comida, o es aceptable depender de las importaciones? Justifica tu opinión con ejemplos."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-26-francia-telefonos",
+      "title": "Francia: el quebradero de cabeza para impedir el uso de teléfonos en las secundarias",
+      "source": "RFI",
+      "date": "2026-08-25",
+      "level": "B1-B2",
+      "topics": [
+        "educación",
+        "tecnología"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-26-francia-telefonos",
+        "revision": 1,
+        "meta": {
+          "title": "Francia: el quebradero de cabeza para impedir el uso de teléfonos en las secundarias",
+          "source": "RFI",
+          "url": "https://www.rfi.fr/es/francia/20260825-francia-el-quebradero-de-cabeza-para-impedir-el-uso-de-tel%C3%A9fonos-en-las-secundarias",
+          "date_published": "2026-08-25",
+          "date_processed": "2026-08-26",
+          "tags": [
+            "educación",
+            "tecnología"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The French government has issued a challenge to the head teachers of all the country's secondary schools: they have one week to ban the use of mobile phones in their schools, before the start of the new school year. The measure aims to reduce distractions in class and improve pupils' concentration, but putting it into practice has become a real headache for many schools, which do not know how to control the devices of thousands of students.\n\nThe debate about phones in the classroom is not new. In recent years, several European countries have adopted similar restrictions, convinced that screens harm academic performance. Supporters of the ban cite studies on loss of attention, while some teachers doubt that the rule can be enforced without more resources or staff. The return to school will be the first acid test.",
+        "resumen_es": "El Gobierno francés ha lanzado un desafío a los directores de todas las escuelas secundarias del país: tienen una semana para prohibir el uso de teléfonos móviles en sus centros educativos, antes del inicio del nuevo curso escolar. La medida busca reducir las distracciones en clase y mejorar la concentración de los alumnos, pero su aplicación se ha convertido en un quebradero de cabeza para muchos centros, que no saben cómo controlar los dispositivos de miles de estudiantes.\n\nEl debate sobre los móviles en las aulas no es nuevo. En los últimos años, varios países europeos han adoptado restricciones similares, convencidos de que las pantallas perjudican el rendimiento académico. Los defensores de la prohibición citan estudios sobre la falta de atención, mientras que algunos profesores dudan de que la norma pueda cumplirse sin más recursos ni personal. La vuelta a clase será la primera prueba de fuego.",
+        "vocab": [
+          {
+            "front": "el desafío",
+            "pos": "noun",
+            "back": "challenge",
+            "example": "Aprender chino es un gran desafío.",
+            "tier": "B1"
+          },
+          {
+            "front": "prohibir",
+            "pos": "verb",
+            "back": "to ban, to forbid",
+            "example": "Quieren prohibir fumar en las terrazas.",
+            "tier": "B1"
+          },
+          {
+            "front": "el curso escolar",
+            "pos": "phrase",
+            "back": "school year",
+            "example": "El curso escolar empieza en septiembre.",
+            "tier": "B1"
+          },
+          {
+            "front": "el quebradero de cabeza",
+            "pos": "phrase",
+            "back": "headache, tricky problem",
+            "example": "Organizar la mudanza fue un quebradero de cabeza.",
+            "tier": "C1"
+          },
+          {
+            "front": "el alumno",
+            "pos": "noun",
+            "back": "pupil, student",
+            "example": "Los alumnos entregaron sus trabajos a tiempo.",
+            "tier": "B1"
+          },
+          {
+            "front": "el aula",
+            "pos": "noun",
+            "back": "classroom (feminine noun with 'el')",
+            "example": "El aula estaba llena de estudiantes.",
+            "tier": "B1"
+          },
+          {
+            "front": "el rendimiento",
+            "pos": "noun",
+            "back": "performance, output",
+            "example": "El descanso mejora el rendimiento académico.",
+            "tier": "B2"
+          },
+          {
+            "front": "el dispositivo",
+            "pos": "noun",
+            "back": "device",
+            "example": "Apaga todos los dispositivos antes del despegue.",
+            "tier": "B1"
+          },
+          {
+            "front": "cumplirse",
+            "pos": "verb",
+            "back": "to be fulfilled, to be enforced",
+            "example": "La norma no se cumple en todos los centros.",
+            "tier": "B2"
+          },
+          {
+            "front": "dudar de",
+            "pos": "verb",
+            "back": "to doubt",
+            "example": "Dudo de que el plan funcione sin más dinero.",
+            "tier": "B1"
+          },
+          {
+            "front": "perjudicar",
+            "pos": "verb",
+            "back": "to harm, to damage",
+            "example": "El ruido perjudica la concentración de los alumnos.",
+            "tier": "B2"
+          },
+          {
+            "front": "la vuelta a clase",
+            "pos": "phrase",
+            "back": "return to school",
+            "example": "La vuelta a clase siempre es dura después del verano.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La medida busca reducir las distracciones en clase y mejorar la concentración de los alumnos, pero su aplicación se ha convertido en un quebradero de cabeza para muchos centros, que no saben cómo controlar los dispositivos de miles de estudiantes.",
+            "point": "convertirse en + noun",
+            "explanation": "Convertirse en expresses becoming or turning into something: se ha convertido en un quebradero de cabeza = it has become a headache.",
+            "why_tricky": "Spanish has several verbs for 'to become' (hacerse, volverse, ponerse, convertirse en); convertirse en is the one used for transformation into a thing or state expressed by a noun."
+          },
+          {
+            "sentence": "mientras que algunos profesores dudan de que la norma pueda cumplirse sin más recursos ni personal.",
+            "point": "subjunctive after dudar de que",
+            "explanation": "Dudar de que expresses doubt, so the following verb goes into the subjunctive: pueda instead of puede. Cumplirse is a passive-like reflexive: 'be enforced'.",
+            "why_tricky": "The indicative (puede) would sound wrong to natives; doubt triggers the subjunctive even when the doubted fact seems likely."
+          },
+          {
+            "sentence": "La vuelta a clase será la primera prueba de fuego.",
+            "point": "simple future of ser for scheduled or expected events",
+            "explanation": "Será announces something expected: the return to school will be the first real test.",
+            "why_tricky": "Learners often overuse 'ir a + infinitive'; the simple future is natural in written journalism for predictions."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "la prueba de fuego",
+            "meaning": "the acid test, the decisive test",
+            "example": "El estreno será la prueba de fuego para la obra."
+          },
+          {
+            "phrase": "ponerse las pilas",
+            "meaning": "to get one's act together",
+            "example": "Los centros tendrán que ponerse las pilas antes de septiembre."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Cuánto tiempo tienen los directores franceses para aplicar la prohibición?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué la aplicación de la medida es difícil para muchos centros?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué opinan algunos profesores sobre la nueva norma?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Estás de acuerdo con prohibir los teléfonos móviles en las escuelas? Escribe un párrafo defendiendo tu posición con al menos dos argumentos."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-26-rumania-sequia-nuclear",
+      "title": "La sequía impide a Rumania reactivar su única central nuclear",
+      "source": "RFI",
+      "date": "2026-08-25",
+      "level": "B1-B2",
+      "topics": [
+        "clima",
+        "energía"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-26-rumania-sequia-nuclear",
+        "revision": 1,
+        "meta": {
+          "title": "La sequía impide a Rumania reactivar su única central nuclear",
+          "source": "RFI",
+          "url": "https://www.rfi.fr/es/europa/20260825-la-sequ%C3%ADa-impide-a-rumania-reactivar-su-%C3%BAnica-central-nuclear",
+          "date_published": "2026-08-25",
+          "date_processed": "2026-08-26",
+          "tags": [
+            "clima",
+            "energía"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The extreme drought affecting Eastern Europe has left the Danube at its lowest level in history, and this situation is preventing Romania from restarting its only nuclear power plant. The plant needs large amounts of river water to cool its reactors, which is impossible with the current flow. Faced with the emergency, the Romanian government announced a series of urgent measures on Friday to guarantee the country's electricity supply.\n\nThe Romanian case illustrates a growing problem across the continent: climate change threatens infrastructure that was designed for a different climate. Nuclear plants depend on rivers to cool themselves, and increasingly frequent droughts call their reliability into question. Experts warn that Europe will have to adapt its energy system if it wants to avoid power cuts in the dry summers to come.",
+        "resumen_es": "La sequía extrema que afecta a Europa del Este ha dejado el Danubio en su nivel más bajo de la historia, y esta situación impide a Rumania reactivar su única central nuclear. La planta necesita grandes cantidades de agua del río para refrigerar sus reactores, algo imposible con el caudal actual. Ante la emergencia, el Gobierno rumano anunció el viernes una serie de medidas urgentes para garantizar el suministro eléctrico del país.\n\nEl caso rumano ilustra un problema creciente en todo el continente: el cambio climático amenaza infraestructuras que se diseñaron para otro clima. Las centrales nucleares dependen de los ríos para refrigerarse, y las sequías cada vez más frecuentes ponen en duda su fiabilidad. Los expertos advierten de que Europa tendrá que adaptar su sistema energético si quiere evitar cortes de luz en los veranos secos que vienen.",
+        "vocab": [
+          {
+            "front": "la sequía",
+            "pos": "noun",
+            "back": "drought",
+            "example": "La sequía arruinó la cosecha de este año.",
+            "tier": "B1"
+          },
+          {
+            "front": "el caudal",
+            "pos": "noun",
+            "back": "flow, volume (of a river)",
+            "example": "El caudal del río baja mucho en verano.",
+            "tier": "C1"
+          },
+          {
+            "front": "impedir",
+            "pos": "verb",
+            "back": "to prevent, to stop",
+            "example": "La nieve impidió el paso de los camiones.",
+            "tier": "B1"
+          },
+          {
+            "front": "refrigerar",
+            "pos": "verb",
+            "back": "to cool, to refrigerate",
+            "example": "El sistema refrigera el motor con agua.",
+            "tier": "B2"
+          },
+          {
+            "front": "el suministro",
+            "pos": "noun",
+            "back": "supply",
+            "example": "El suministro eléctrico se cortó durante la tormenta.",
+            "tier": "B2"
+          },
+          {
+            "front": "medidas urgentes",
+            "pos": "phrase",
+            "back": "emergency measures",
+            "example": "El Gobierno aprobó medidas urgentes contra la crisis.",
+            "tier": "B1"
+          },
+          {
+            "front": "amenazar",
+            "pos": "verb",
+            "back": "to threaten",
+            "example": "La contaminación amenaza la salud de todos.",
+            "tier": "B1"
+          },
+          {
+            "front": "la fiabilidad",
+            "pos": "noun",
+            "back": "reliability",
+            "example": "La fiabilidad de estos datos es dudosa.",
+            "tier": "B2"
+          },
+          {
+            "front": "advertir de",
+            "pos": "verb",
+            "back": "to warn about",
+            "example": "Los médicos advierten de los riesgos del tabaco.",
+            "tier": "B2"
+          },
+          {
+            "front": "el corte de luz",
+            "pos": "phrase",
+            "back": "power cut",
+            "example": "Hubo un corte de luz en todo el barrio.",
+            "tier": "B1"
+          },
+          {
+            "front": "poner en duda",
+            "pos": "phrase",
+            "back": "to call into question",
+            "example": "Nadie pone en duda su talento.",
+            "tier": "B2"
+          },
+          {
+            "front": "diseñar",
+            "pos": "verb",
+            "back": "to design",
+            "example": "El puente fue diseñado hace cien años.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La sequía extrema que afecta a Europa del Este ha dejado el Danubio en su nivel más bajo de la historia, y esta situación impide a Rumania reactivar su única central nuclear.",
+            "point": "impedir a alguien + infinitive",
+            "explanation": "Impedir takes an indirect object with a (impide a Rumania) followed by an infinitive: prevents Romania from restarting.",
+            "why_tricky": "English needs 'prevent someone FROM doing'; Spanish drops the preposition before the infinitive entirely."
+          },
+          {
+            "sentence": "Las centrales nucleares dependen de los ríos para refrigerarse, y las sequías cada vez más frecuentes ponen en duda su fiabilidad.",
+            "point": "cada vez más + adjective",
+            "explanation": "Cada vez más frecuentes means increasingly frequent. The structure cada vez más/menos + adjective expresses a growing trend.",
+            "why_tricky": "There is no single English word for it; learners often try 'más y más', which sounds unnatural in careful Spanish."
+          },
+          {
+            "sentence": "Los expertos advierten de que Europa tendrá que adaptar su sistema energético si quiere evitar cortes de luz en los veranos secos que vienen.",
+            "point": "tener que in the future + real conditional with si",
+            "explanation": "Tendrá que adaptar = will have to adapt. The si clause uses the present (si quiere) for a real, likely condition, never the future.",
+            "why_tricky": "Learners are tempted to write 'si querrá'; Spanish never uses the future after si in this type of condition."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "estar bajo mínimos",
+            "meaning": "to be at rock bottom, at minimum levels",
+            "example": "El río está bajo mínimos después de meses sin lluvia."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué no puede Rumania reactivar su central nuclear?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué anunció el Gobierno rumano el viernes y con qué objetivo?",
+            "type": "open"
+          },
+          {
+            "q": "Según el artículo, ¿qué problema general ilustra el caso rumano?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "El cambio climático obliga a repensar el sistema energético europeo. ¿Qué fuentes de energía crees que deberían recibir más inversión y por qué?"
+      }
+    },
     {
       "pack_id": "feed-2026-08-25-peptidos-ciencia",
       "title": "Qué son los péptidos, para qué sirven y qué dice la ciencia sobre los efectos de inyectárselos",
@@ -6151,506 +6632,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que las multas son suficientes para proteger los espacios naturales frágiles, o hace falta otra cosa? Escribe unas 120 palabras con tu opinión y un ejemplo de tu país."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-19-ia-jornadas-90-horas",
-      "title": "Las empresas de IA prometen que se trabajará menos, pero sus empleados dicen que tienen jornadas de 90 horas semanales",
-      "source": "BBC Mundo",
-      "date": "2026-08-19",
-      "level": "B1-B2",
-      "topics": [
-        "tecnología",
-        "trabajo"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-19-ia-jornadas-90-horas",
-        "revision": 1,
-        "meta": {
-          "title": "Las empresas de IA prometen que se trabajará menos, pero sus empleados dicen que tienen jornadas de 90 horas semanales",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c9802y9lk76o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-17",
-          "date_processed": "2026-08-19",
-          "tags": [
-            "tecnología",
-            "trabajo"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The big artificial intelligence companies keep repeating that their technology will give us more free time, but several of their own employees say the opposite: they describe working weeks that reach ninety hours, that is to say more than double an ordinary working week.\n\nThe problem, according to what has been published, is that these firms are not backing up their own claims about free time with facts. In fast-growing sectors the pace of work tends to be hard to keep up with, and it is not clear whether that model will end up spreading elsewhere or will stay confined to a few offices. For now, the promise of working less sounds very good in the presentations, even if it is still not noticeable in the offices where that technology is being built.",
-        "resumen_es": "Las grandes empresas de inteligencia artificial repiten que su tecnología nos dará más tiempo libre, pero varios de sus propios empleados dicen lo contrario: hablan de jornadas que llegan a las noventa horas semanales, es decir, más del doble de una semana laboral corriente.\n\nEl problema, según lo que se publica, es que estas compañías no respaldan con hechos sus propias afirmaciones sobre el tiempo libre. En sectores en plena expansión, el ritmo de trabajo suele ser difícil de sostener, y no está claro que ese modelo se acabe imponiendo en otros lugares o que se quede solo en unas cuantas oficinas. De momento, la promesa de trabajar menos suena muy bien en las presentaciones, aunque en las oficinas donde se construye esa tecnología todavía no se note.",
-        "vocab": [
-          {
-            "front": "la jornada laboral",
-            "pos": "phrase",
-            "back": "working day, working hours",
-            "example": "Su jornada laboral empieza a las siete de la mañana.",
-            "tier": "B1"
-          },
-          {
-            "front": "semanal",
-            "pos": "adj",
-            "back": "weekly",
-            "example": "El informe semanal se envía los viernes.",
-            "tier": "B1"
-          },
-          {
-            "front": "corriente",
-            "pos": "adj",
-            "back": "ordinary, run-of-the-mill",
-            "example": "Fue un día corriente, sin nada especial.",
-            "tier": "B2"
-          },
-          {
-            "front": "respaldar",
-            "pos": "verb",
-            "back": "to back up, to support (with evidence)",
-            "example": "No respaldó sus cifras con ningún estudio.",
-            "tier": "B2"
-          },
-          {
-            "front": "la afirmación",
-            "pos": "noun",
-            "back": "claim, statement",
-            "example": "Es una afirmación difícil de comprobar.",
-            "tier": "B2"
-          },
-          {
-            "front": "el hecho",
-            "pos": "noun",
-            "back": "fact (careful: not deed here)",
-            "example": "Habla mucho, pero no aporta hechos.",
-            "tier": "B1"
-          },
-          {
-            "front": "el ritmo",
-            "pos": "noun",
-            "back": "pace, rhythm",
-            "example": "No puedo seguir este ritmo de trabajo.",
-            "tier": "B1"
-          },
-          {
-            "front": "sostener",
-            "pos": "verb",
-            "back": "to sustain, to keep up",
-            "example": "Ese esfuerzo no se puede sostener durante años.",
-            "tier": "B2"
-          },
-          {
-            "front": "en plena expansión",
-            "pos": "phrase",
-            "back": "fast-growing, booming",
-            "example": "Trabaja en un sector en plena expansión.",
-            "tier": "B2"
-          },
-          {
-            "front": "imponerse",
-            "pos": "verb",
-            "back": "to take hold, to become dominant",
-            "example": "Ese modelo se impuso en todo el sector.",
-            "tier": "B2"
-          },
-          {
-            "front": "notarse",
-            "pos": "verb",
-            "back": "to be noticeable, to show",
-            "example": "Se nota que llevan meses sin descansar.",
-            "tier": "B1"
-          },
-          {
-            "front": "la promesa",
-            "pos": "noun",
-            "back": "promise",
-            "example": "Es una promesa que nadie ha cumplido.",
-            "tier": "B1"
-          },
-          {
-            "front": "de momento",
-            "pos": "adv",
-            "back": "for now, for the time being",
-            "example": "De momento no hay ningún cambio.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "hablan de jornadas que llegan a las noventa horas semanales",
-            "point": "llegar a + cantidad",
-            "explanation": "Con cifras, llegar a significa alcanzar ese límite: los precios llegaron a los cien euros. Delante del número se usa el artículo, las noventa horas.",
-            "why_tricky": "El inglés dice reach ninety hours, sin artículo, así que se olvida el las; además llegar a con infinitivo significa otra cosa, llegar a entender es acabar entendiendo."
-          },
-          {
-            "sentence": "no está claro que ese modelo se acabe imponiendo en otros lugares",
-            "point": "no está claro que + subjuntivo, y acabar + gerundio",
-            "explanation": "Las expresiones de duda en negativo piden subjuntivo, de ahí se acabe, y acabar + gerundio expresa el resultado final de un proceso.",
-            "why_tricky": "En afirmativo, está claro que lleva indicativo; solo al negarlo aparece el subjuntivo. Además el pronombre puede ir delante del verbo conjugado, se acabe imponiendo, o pegado al gerundio, acabe imponiéndose, pero nunca suelto delante del gerundio."
-          },
-          {
-            "sentence": "aunque en las oficinas donde se construye esa tecnología todavía no se note",
-            "point": "aunque + subjuntivo",
-            "explanation": "Con subjuntivo, aunque presenta la información como algo ya sabido o poco relevante para el argumento; con indicativo la presentaría como una noticia nueva.",
-            "why_tricky": "Aunque admite indicativo y subjuntivo, y el cambio no altera la traducción al inglés, solo el matiz, así que hay que fijarse en el contexto."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "echar horas",
-            "meaning": "to put in long hours",
-            "example": "Llevan meses echando horas sin cobrarlas."
-          },
-          {
-            "phrase": "vender humo",
-            "meaning": "to peddle hype, to be all talk",
-            "example": "Muchos creen que el sector vende humo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué contradicción señala el texto entre lo que prometen las empresas y lo que cuentan sus empleados?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué dice el texto sobre el ritmo de trabajo en los sectores en plena expansión?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué dice el texto que la promesa suena bien en las presentaciones pero no en las oficinas?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que la tecnología nos ha dado realmente más tiempo libre en los últimos diez años? Escribe unas 120 palabras usando ejemplos de tu propia vida o de tu trabajo."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-19-bomberos-aragon-huelga",
-      "title": "Los bomberos de Aragón se ponen en huelga, pero siguen trabajando por la urgencia",
-      "source": "RFI en español",
-      "date": "2026-08-19",
-      "level": "B1-B2",
-      "topics": [
-        "España",
-        "trabajo"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-19-bomberos-aragon-huelga",
-        "revision": 1,
-        "meta": {
-          "title": "Los bomberos de Aragón se ponen en huelga, pero siguen trabajando por la urgencia",
-          "source": "RFI en español",
-          "url": "https://www.rfi.fr/es/europa/20260818-los-bomberos-de-arag%C3%B3n-se-ponen-en-huelga-pero-siguen-trabajando-por-la-urgencia",
-          "date_published": "2026-08-18",
-          "date_processed": "2026-08-19",
-          "tags": [
-            "España",
-            "trabajo"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The forest firefighters of Aragon, in northeastern Spain, began an open-ended strike on Tuesday 18 August. They are demanding not only more resources but also greater professional recognition. Even so, they are still putting out fires, because the emergency allows no pauses: the Las Peñas de Riglos fire is still devastating the Aragonese countryside.\n\nThat fire has become the largest in the region's history, which gives the protest enormous visibility. The strike also comes in the middle of the fire season, when physical exhaustion is greatest and every working day counts. That is why the dispute is being followed so closely: nobody disputes that the fire needs putting out, but the underlying question is with what equipment and with what people that is done.",
-        "resumen_es": "Los bomberos forestales de Aragón, en el noreste de España, comenzaron el martes 18 de agosto una huelga indefinida. Reclaman no solo más recursos, sino también un mayor reconocimiento profesional. Aun así, siguen apagando fuegos, porque la emergencia no admite pausas: el incendio de Las Peñas de Riglos sigue arrasando las tierras aragonesas.\n\nEse fuego se ha convertido en el mayor de la historia de la comunidad, lo que da a la protesta una visibilidad enorme. La huelga llega además en plena campaña de incendios, cuando el desgaste físico es mayor y cada día de trabajo cuenta. Por eso el conflicto se sigue con tanta atención: nadie discute que haga falta apagar el fuego, pero la pregunta de fondo es con qué medios y con qué gente se hace.",
-        "vocab": [
-          {
-            "front": "el bombero forestal",
-            "pos": "noun",
-            "back": "wildland firefighter",
-            "example": "Los bomberos forestales trabajan en turnos muy largos.",
-            "tier": "B1"
-          },
-          {
-            "front": "la huelga indefinida",
-            "pos": "phrase",
-            "back": "open-ended strike",
-            "example": "El sindicato convocó una huelga indefinida.",
-            "tier": "B2"
-          },
-          {
-            "front": "reclamar",
-            "pos": "verb",
-            "back": "to demand, to call for",
-            "example": "Reclaman un contrato de doce meses.",
-            "tier": "B1"
-          },
-          {
-            "front": "el reconocimiento",
-            "pos": "noun",
-            "back": "recognition",
-            "example": "Piden reconocimiento y mejores sueldos.",
-            "tier": "B1"
-          },
-          {
-            "front": "aun así",
-            "pos": "phrase",
-            "back": "even so, nevertheless",
-            "example": "Llovió poco; aun así, el fuego se controló.",
-            "tier": "B2"
-          },
-          {
-            "front": "el incendio",
-            "pos": "noun",
-            "back": "fire, blaze, wildfire",
-            "example": "El incendio empezó cerca de la carretera.",
-            "tier": "B1"
-          },
-          {
-            "front": "arrasar",
-            "pos": "verb",
-            "back": "to devastate, to raze",
-            "example": "Las llamas arrasaron cientos de hectáreas.",
-            "tier": "B2"
-          },
-          {
-            "front": "convertirse en",
-            "pos": "verb",
-            "back": "to become, to turn into",
-            "example": "Se convirtió en el mayor problema del verano.",
-            "tier": "B1"
-          },
-          {
-            "front": "la comunidad",
-            "pos": "noun",
-            "back": "region (autonomous community in Spain)",
-            "example": "Cada comunidad gestiona sus propios medios.",
-            "tier": "B2"
-          },
-          {
-            "front": "la campaña de incendios",
-            "pos": "phrase",
-            "back": "the fire season (in Spain)",
-            "example": "La campaña de incendios termina en octubre.",
-            "tier": "B2"
-          },
-          {
-            "front": "el desgaste",
-            "pos": "noun",
-            "back": "wear and tear, exhaustion",
-            "example": "El desgaste físico se nota al final del verano.",
-            "tier": "B2"
-          },
-          {
-            "front": "los medios",
-            "pos": "noun",
-            "back": "resources, equipment (in this sense)",
-            "example": "Se quejan de que faltan medios en invierno.",
-            "tier": "B2"
-          },
-          {
-            "front": "hacer falta",
-            "pos": "phrase",
-            "back": "to be needed",
-            "example": "Hacen falta más aviones y más gente.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Reclaman no solo más recursos, sino también un mayor reconocimiento profesional",
-            "point": "no solo ... sino también",
-            "explanation": "Sino corrige o amplía lo dicho antes. Aquí une dos complementos, no dos frases, por lo que se usa sino y no sino que.",
-            "why_tricky": "Sino y pero se traducen los dos por but, y además hay que decidir entre sino y sino que según lo que venga detrás: sino que solo va delante de un verbo conjugado."
-          },
-          {
-            "sentence": "el incendio de Las Peñas de Riglos sigue arrasando las tierras aragonesas",
-            "point": "seguir + gerundio",
-            "explanation": "Seguir + gerundio indica que la acción continúa; para lo contrario se usa dejar de + infinitivo, dejó de arrasar.",
-            "why_tricky": "El inglés dice is still devastating, con still separado del verbo, y muchos estudiantes escriben sigue a arrasar o todavía arrasa, que es correcto pero menos idiomático aquí."
-          },
-          {
-            "sentence": "lo que da a la protesta una visibilidad enorme",
-            "point": "lo que / lo cual con antecedente oracional",
-            "explanation": "Lo que no se refiere a un sustantivo concreto, sino a toda la idea anterior, es decir al hecho de que el fuego sea el mayor de la historia.",
-            "why_tricky": "Los estudiantes ponen a menudo que a secas, pero cuando el antecedente es una frase entera hace falta lo que o lo cual."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "a contrarreloj (ir, trabajar)",
-            "meaning": "against the clock",
-            "example": "Los equipos trabajan a contrarreloj antes del cambio de viento."
-          },
-          {
-            "phrase": "poner el grito en el cielo",
-            "meaning": "to hit the roof, to protest loudly",
-            "example": "Los vecinos pusieron el grito en el cielo al ver el humo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué siguen trabajando los bomberos a pesar de estar en huelga?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué dos cosas reclaman los bomberos forestales?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué dice el texto que este momento del año es especialmente duro?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Es aceptable que servicios esenciales como los bomberos hagan huelga? Escribe unas 120 palabras defendiendo tu postura y respondiendo a una objeción posible."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-18-pacto-la-meca",
-      "title": "El pacto de La Meca: 4 claves para entender la \"OTAN musulmana\" creada por Turquía, Arabia Saudita y Pakistán",
-      "source": "BBC Mundo",
-      "date": "2026-08-18",
-      "level": "B1-B2",
-      "topics": [
-        "geopolítica",
-        "defensa"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-18-pacto-la-meca",
-        "revision": 1,
-        "meta": {
-          "title": "El pacto de La Meca: 4 claves para entender la \"OTAN musulmana\" creada por Turquía, Arabia Saudita y Pakistán",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cm2grvk85vlo?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-18",
-          "date_processed": "2026-08-18",
-          "tags": [
-            "geopolítica",
-            "defensa"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Turkey, Saudi Arabia and Pakistan have signed a defence pact that many analysts are already calling the 'Muslim NATO' or the 'Sunni pact'. The agreement commits the three countries to cooperating closely on security and defence matters. These are three regional powers with significant armies and great influence in the Muslim world, which is why their alliance could change the balance of power in the Middle East and South Asia.\n\nHowever, many open questions remain. It is not clear whether the pact will work in practice as a NATO-style military alliance, nor how other powers in the region and around the world will react. Experts point out that each country pursues its own interests and that keeping the bloc united could prove difficult in the face of a serious crisis. For now, the announcement has above all a symbolic and diplomatic value.",
-        "resumen_es": "Turquía, Arabia Saudita y Pakistán han firmado un pacto de defensa que muchos analistas ya llaman la 'OTAN musulmana' o el 'pacto sunita'. El acuerdo compromete a los tres países a cooperar estrechamente en materia de seguridad y defensa. Se trata de tres potencias regionales con ejércitos importantes y una gran influencia en el mundo musulmán, por lo que su alianza podría cambiar el equilibrio de poder en Oriente Medio y el sur de Asia.\n\nSin embargo, quedan muchas preguntas abiertas. No está claro si el pacto funcionará en la práctica como una alianza militar al estilo de la OTAN, ni cómo reaccionarán otras potencias de la región y del mundo. Los expertos señalan que cada país persigue sus propios intereses y que mantener la unidad podría resultar difícil ante una crisis seria. Por ahora, el anuncio tiene sobre todo un valor simbólico y diplomático.",
-        "vocab": [
-          {
-            "front": "firmar un pacto",
-            "pos": "phrase",
-            "back": "to sign a pact",
-            "example": "Los tres países firmaron un pacto de defensa.",
-            "tier": "B1"
-          },
-          {
-            "front": "comprometerse a",
-            "pos": "verb",
-            "back": "to commit to",
-            "example": "El gobierno se comprometió a cooperar con sus aliados.",
-            "tier": "B1"
-          },
-          {
-            "front": "en materia de",
-            "pos": "phrase",
-            "back": "in the field of, regarding",
-            "example": "Colaboran en materia de seguridad.",
-            "tier": "B2"
-          },
-          {
-            "front": "la potencia regional",
-            "pos": "noun",
-            "back": "regional power",
-            "example": "Turquía es una potencia regional con gran influencia.",
-            "tier": "B2"
-          },
-          {
-            "front": "el equilibrio de poder",
-            "pos": "noun",
-            "back": "balance of power",
-            "example": "La alianza puede alterar el equilibrio de poder en la zona.",
-            "tier": "B2"
-          },
-          {
-            "front": "la amenaza",
-            "pos": "noun",
-            "back": "threat",
-            "example": "Consideran ese misil una amenaza para la región.",
-            "tier": "B1"
-          },
-          {
-            "front": "al estilo de",
-            "pos": "phrase",
-            "back": "in the style of, along the lines of",
-            "example": "Quieren una alianza al estilo de la OTAN.",
-            "tier": "B2"
-          },
-          {
-            "front": "perseguir sus propios intereses",
-            "pos": "phrase",
-            "back": "to pursue one's own interests",
-            "example": "Cada socio persigue sus propios intereses.",
-            "tier": "B2"
-          },
-          {
-            "front": "señalar",
-            "pos": "verb",
-            "back": "to point out",
-            "example": "Los analistas señalan que el acuerdo es sobre todo simbólico.",
-            "tier": "B1"
-          },
-          {
-            "front": "ante",
-            "pos": "prep",
-            "back": "in the face of, before",
-            "example": "La unidad se rompió ante la primera crisis.",
-            "tier": "B1"
-          },
-          {
-            "front": "el anuncio",
-            "pos": "noun",
-            "back": "announcement",
-            "example": "El anuncio sorprendió a los diplomáticos europeos.",
-            "tier": "B1"
-          },
-          {
-            "front": "quedar claro",
-            "pos": "phrase",
-            "back": "to be clear",
-            "example": "No queda claro cómo funcionará el pacto.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "No está claro si el pacto funcionará en la práctica como una alianza militar al estilo de la OTAN, ni cómo reaccionarán otras potencias de la región y del mundo.",
-            "point": "Preguntas indirectas con 'si' y 'cómo'",
-            "explanation": "Tras expresiones como 'no está claro', las preguntas se integran en la frase con 'si' (preguntas de sí o no) o con un interrogativo con tilde ('cómo'). El verbo va en futuro porque se habla de algo por comprobar.",
-            "why_tricky": "En inglés se usa 'whether/how' y es fácil olvidar la tilde de 'cómo' o usar 'que' en lugar de 'si'."
-          },
-          {
-            "sentence": "Se trata de tres potencias regionales con ejércitos importantes y una gran influencia en el mundo musulmán, por lo que su alianza podría cambiar el equilibrio de poder en Oriente Medio y el sur de Asia.",
-            "point": "'Se trata de' impersonal",
-            "explanation": "'Se trata de' significa 'estamos hablando de' y siempre es impersonal: nunca lleva sujeto explícito. Aquí presenta y define a los tres países.",
-            "why_tricky": "Los estudiantes suelen decir 'el pacto se trata de', pero 'tratarse de' no admite sujeto; se dice 'el pacto trata de' o 'se trata de'."
-          },
-          {
-            "sentence": "Los expertos señalan que cada país persigue sus propios intereses y que mantener la unidad podría resultar difícil ante una crisis seria.",
-            "point": "Infinitivo como sujeto",
-            "explanation": "'Mantener la unidad' funciona como sujeto de 'podría resultar difícil'. El infinitivo español cubre el papel del gerundio inglés ('keeping unity').",
-            "why_tricky": "La interferencia del inglés lleva a usar 'manteniendo' en lugar del infinitivo 'mantener'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "en la práctica",
-            "meaning": "in practice, in real terms",
-            "example": "La ley existe, pero en la práctica casi nadie la cumple."
-          },
-          {
-            "phrase": "sobre todo",
-            "meaning": "above all, especially",
-            "example": "El acuerdo tiene, sobre todo, un valor político."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué países forman el nuevo pacto de defensa y qué nombres le dan los analistas?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué podría esta alianza cambiar el equilibrio de poder en la región?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué dudas plantean los expertos sobre el futuro del pacto?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que las alianzas militares hacen el mundo más seguro o más peligroso? Escribe un párrafo defendiendo tu postura con ejemplos."
       }
     }
   ]
