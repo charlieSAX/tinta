@@ -1,7 +1,507 @@
 {
-  "generated_at": "2026-08-28T06:59:20Z",
+  "generated_at": "2026-08-28T07:12:07Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-28-rey-harald-noruega",
+      "title": "Muere a los 89 años el rey Harald de Noruega",
+      "source": "BBC Mundo",
+      "date": "2026-08-28",
+      "level": "B1-B2",
+      "topics": [
+        "monarquía",
+        "Europa"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-28-rey-harald-noruega",
+        "revision": 1,
+        "meta": {
+          "title": "Muere a los 89 años el rey Harald de Noruega",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c3eq87gd2v7o",
+          "date_published": "2026-08-28",
+          "date_processed": "2026-08-28",
+          "tags": [
+            "monarquía",
+            "Europa"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "King Harald of Norway has died at the age of 89, after more than three decades on the throne. He came to the throne in 1991 and, over the course of his reign, he won the affection of a large part of the Norwegian population. The media remember him as an approachable and reforming figure, who helped to modernise the monarchy and bring it closer to the everyday life of ordinary citizens.\n\nHis death opens a period of official mourning and raises questions about the future of the institution. In the Nordic countries, monarchies survive thanks to a delicate balance: they keep a symbolic role but give up real political power. For that reason, many analysts believe that the next reign will have to go on adapting to an increasingly equal society. For now, the country is preparing for the official ceremonies and for a succession that, by tradition, will fall to the heir.",
+        "resumen_es": "El rey Harald de Noruega ha muerto a los 89 años, después de más de tres décadas en el trono. Subió al trono en 1991 y, a lo largo de su reinado, se ganó la simpatía de buena parte de la población noruega. Los medios lo recuerdan como una figura cercana y reformista, que contribuyó a modernizar la monarquía y a acercarla a la vida cotidiana de los ciudadanos.\n\nSu muerte abre un periodo de luto oficial y plantea preguntas sobre el futuro de la institución. En los países nórdicos, las monarquías se mantienen gracias a un equilibrio delicado: conservan un papel simbólico, pero renuncian al poder político real. Por eso, muchos analistas creen que el próximo reinado tendrá que seguir adaptándose a una sociedad cada vez más igualitaria. De momento, el país se prepara para las ceremonias oficiales y para una sucesión que, por tradición, recaerá en el heredero.",
+        "vocab": [
+          {
+            "front": "el trono",
+            "pos": "noun",
+            "back": "the throne",
+            "example": "Subió al trono siendo muy joven.",
+            "tier": "B1"
+          },
+          {
+            "front": "el reinado",
+            "pos": "noun",
+            "back": "reign, period of rule",
+            "example": "Su reinado duró más de treinta años.",
+            "tier": "B1"
+          },
+          {
+            "front": "ganarse la simpatía de",
+            "pos": "phrase",
+            "back": "to win the affection of",
+            "example": "El alcalde se ganó la simpatía del barrio.",
+            "tier": "B2"
+          },
+          {
+            "front": "cercano",
+            "pos": "adj",
+            "back": "approachable, close to people",
+            "example": "Era un rey cercano a la gente.",
+            "tier": "B1"
+          },
+          {
+            "front": "el luto",
+            "pos": "noun",
+            "back": "mourning",
+            "example": "El país declaró tres días de luto oficial.",
+            "tier": "B2"
+          },
+          {
+            "front": "plantear",
+            "pos": "verb",
+            "back": "to raise (a question or issue)",
+            "example": "El caso plantea muchas dudas jurídicas.",
+            "tier": "B2"
+          },
+          {
+            "front": "el heredero",
+            "pos": "noun",
+            "back": "heir",
+            "example": "El heredero asumirá el trono en unos días.",
+            "tier": "B1"
+          },
+          {
+            "front": "la sucesión",
+            "pos": "noun",
+            "back": "succession",
+            "example": "La sucesión está regulada por la constitución.",
+            "tier": "B2"
+          },
+          {
+            "front": "renunciar a",
+            "pos": "verb",
+            "back": "to give up, to renounce",
+            "example": "Renunció a su cargo el año pasado.",
+            "tier": "B1"
+          },
+          {
+            "front": "el equilibrio",
+            "pos": "noun",
+            "back": "balance",
+            "example": "Buscan un equilibrio entre tradición y cambio.",
+            "tier": "B1"
+          },
+          {
+            "front": "igualitario",
+            "pos": "adj",
+            "back": "egalitarian",
+            "example": "Vivimos en una sociedad más igualitaria que antes.",
+            "tier": "C1"
+          },
+          {
+            "front": "de momento",
+            "pos": "phrase",
+            "back": "for now, for the time being",
+            "example": "De momento no hay más información oficial.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Subió al trono en 1991 y, a lo largo de su reinado, se ganó la simpatía de buena parte de la población noruega.",
+            "point": "Pretérito indefinido y el uso pronominal de ganarse",
+            "explanation": "Los dos verbos van en indefinido porque son acciones acabadas en un momento concreto del pasado. Ganarse no es lo mismo que ganar: el pronombre añade la idea de conseguir algo para uno mismo, con esfuerzo.",
+            "why_tricky": "En inglés se dice he won affection sin ningún pronombre, así que es fácil escribir ganó la simpatía, que suena a premio y no a mérito personal."
+          },
+          {
+            "sentence": "Por eso, muchos analistas creen que el próximo reinado tendrá que seguir adaptándose a una sociedad cada vez más igualitaria.",
+            "point": "Perífrasis tener que + infinitivo y seguir + gerundio",
+            "explanation": "Tendrá que expresa obligación futura. Seguir adaptándose indica que la acción continúa en el tiempo, y el pronombre va pegado al gerundio.",
+            "why_tricky": "Se juntan dos perífrasis seguidas y el pronombre puede ir en dos sitios: tendrá que seguir adaptándose o se tendrá que seguir adaptando."
+          },
+          {
+            "sentence": "Su muerte abre un periodo de luto oficial y plantea preguntas sobre el futuro de la institución.",
+            "point": "Presente de indicativo con sujeto abstracto",
+            "explanation": "En prensa se usa el presente para hechos muy recientes y para sus consecuencias. El sujeto no es una persona sino un hecho, su muerte, que rige los dos verbos.",
+            "why_tricky": "El aprendiz espera un sujeto humano y tiende a traducir con una pasiva inglesa del tipo questions are raised."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "a lo largo de",
+            "meaning": "over the course of, throughout a period of time",
+            "example": "A lo largo de la semana iremos publicando más datos."
+          },
+          {
+            "phrase": "de momento",
+            "meaning": "for now, until something changes",
+            "example": "De momento seguimos con el plan original."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué los medios noruegos recuerdan a Harald como una figura cercana?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué equilibrio mantienen las monarquías nórdicas, según el texto?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué retos podría afrontar el próximo reinado?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que las monarquías tienen todavía un papel útil en las sociedades modernas? Escribe unas 120 palabras con tu opinión y dos argumentos."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-28-oceanos-temperatura-record",
+      "title": "Los océanos del planeta alcanzan la temperatura media más alta jamás registrada mientras El Niño se intensifica",
+      "source": "BBC Mundo",
+      "date": "2026-08-28",
+      "level": "B1-B2",
+      "topics": [
+        "clima",
+        "ciencia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-28-oceanos-temperatura-record",
+        "revision": 1,
+        "meta": {
+          "title": "Los océanos del planeta alcanzan la temperatura media más alta jamás registrada mientras El Niño se intensifica",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c790wv4gznwo",
+          "date_published": "2026-08-28",
+          "date_processed": "2026-08-28",
+          "tags": [
+            "clima",
+            "ciencia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The world's oceans have reached the highest average temperature ever recorded, according to international climate services. The warming of the water is not as noticeable as a heatwave on land, but it has deep consequences: it alters currents, affects marine life and feeds more energy into storms. At the same time, the El Niño phenomenon is intensifying and is expected to reach its peak at the end of the year.\n\nEl Niño is a natural cycle that warms the tropical Pacific every few years and changes the weather across much of the world. When it is added to global warming, the result is usually an especially hot year, with droughts in some regions and torrential rain in others. Scientists warn that fishing, agriculture and coral reefs are the most vulnerable sectors. That is why they are calling for stronger early warning and adaptation systems.",
+        "resumen_es": "Los océanos del planeta han alcanzado la temperatura media más alta jamás registrada, según los servicios climáticos internacionales. El calentamiento del agua no se nota tanto como una ola de calor en tierra, pero tiene consecuencias profundas: altera las corrientes, afecta a la vida marina y aporta más energía a las tormentas. Al mismo tiempo, el fenómeno de El Niño se está intensificando y se espera que alcance su punto máximo a finales de año.\n\nEl Niño es un ciclo natural que calienta el Pacífico tropical cada pocos años y modifica el clima en medio mundo. Cuando se suma al calentamiento global, el resultado suele ser un año especialmente cálido, con sequías en unas regiones y lluvias torrenciales en otras. Los científicos advierten de que la pesca, la agricultura y los arrecifes de coral son los sectores más vulnerables. Por eso piden reforzar los sistemas de alerta y adaptación.",
+        "vocab": [
+          {
+            "front": "el calentamiento",
+            "pos": "noun",
+            "back": "warming",
+            "example": "El calentamiento global preocupa a los expertos.",
+            "tier": "B1"
+          },
+          {
+            "front": "la corriente",
+            "pos": "noun",
+            "back": "current (of water or air)",
+            "example": "Las corrientes marinas transportan calor por todo el planeta.",
+            "tier": "B1"
+          },
+          {
+            "front": "la ola de calor",
+            "pos": "phrase",
+            "back": "heatwave",
+            "example": "Una ola de calor afectó al sur del país en julio.",
+            "tier": "B1"
+          },
+          {
+            "front": "intensificarse",
+            "pos": "verb",
+            "back": "to intensify, to get stronger",
+            "example": "La tormenta se intensificó durante la noche.",
+            "tier": "B2"
+          },
+          {
+            "front": "el punto máximo",
+            "pos": "phrase",
+            "back": "peak, highest point",
+            "example": "El fenómeno alcanzará su punto máximo en diciembre.",
+            "tier": "B1"
+          },
+          {
+            "front": "la sequía",
+            "pos": "noun",
+            "back": "drought",
+            "example": "La sequía arruinó buena parte de la cosecha.",
+            "tier": "B1"
+          },
+          {
+            "front": "torrencial",
+            "pos": "adj",
+            "back": "torrential",
+            "example": "Cayeron lluvias torrenciales durante toda la noche.",
+            "tier": "B2"
+          },
+          {
+            "front": "el arrecife de coral",
+            "pos": "noun",
+            "back": "coral reef",
+            "example": "El arrecife de coral ha perdido color por el calor.",
+            "tier": "B2"
+          },
+          {
+            "front": "advertir de",
+            "pos": "verb",
+            "back": "to warn about",
+            "example": "Los expertos advierten del riesgo de inundaciones.",
+            "tier": "B2"
+          },
+          {
+            "front": "vulnerable",
+            "pos": "adj",
+            "back": "vulnerable, exposed to harm",
+            "example": "Las zonas costeras son especialmente vulnerables.",
+            "tier": "B1"
+          },
+          {
+            "front": "reforzar",
+            "pos": "verb",
+            "back": "to strengthen, to reinforce",
+            "example": "Hay que reforzar los sistemas de alerta temprana.",
+            "tier": "B1"
+          },
+          {
+            "front": "sumarse a",
+            "pos": "verb",
+            "back": "to add to, to join",
+            "example": "Este efecto se suma al del año pasado.",
+            "tier": "B2"
+          },
+          {
+            "front": "soler",
+            "pos": "verb",
+            "back": "to usually do something",
+            "example": "En agosto suele hacer mucho calor aquí.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Al mismo tiempo, el fenómeno de El Niño se está intensificando y se espera que alcance su punto máximo a finales de año.",
+            "point": "Se impersonal con subjuntivo en la subordinada",
+            "explanation": "Se espera que es una construcción impersonal: no decimos quién espera. Como expresa expectativa y no un hecho, el verbo de la subordinada va en subjuntivo, alcance y no alcanza.",
+            "why_tricky": "El mismo pronombre se aparece dos veces con funciones distintas: en se está intensificando es pronominal, en se espera es impersonal."
+          },
+          {
+            "sentence": "El calentamiento del agua no se nota tanto como una ola de calor en tierra, pero tiene consecuencias profundas: altera las corrientes, afecta a la vida marina y aporta más energía a las tormentas.",
+            "point": "Comparativo de igualdad tanto como y el verbo afectar a",
+            "explanation": "No se nota tanto como establece una comparación de igualdad en forma negativa. Afectar en español pide la preposición a cuando el complemento es algo animado o concreto.",
+            "why_tricky": "En inglés to affect es transitivo directo, así que se olvida la a de afecta a la vida marina."
+          },
+          {
+            "sentence": "Cuando se suma al calentamiento global, el resultado suele ser un año especialmente cálido, con sequías en unas regiones y lluvias torrenciales en otras.",
+            "point": "La perífrasis soler + infinitivo",
+            "explanation": "Soler expresa costumbre o tendencia habitual y solo se usa en presente y en imperfecto. Suele ser equivale a tends to be o usually is.",
+            "why_tricky": "No existe un verbo equivalente en inglés, así que el aprendiz escribe normalmente es, que es correcto pero mucho menos idiomático."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "en medio mundo",
+            "meaning": "across much of the world, in a great many places",
+            "example": "Esa serie se ha visto en medio mundo."
+          },
+          {
+            "phrase": "a finales de año",
+            "meaning": "at the end of the year",
+            "example": "Publicarán el informe a finales de año."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué el calentamiento de los océanos es menos visible que una ola de calor?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué ocurre cuando El Niño se suma al calentamiento global?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué sectores considera más vulnerables la comunidad científica y por qué?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Qué medidas crees que deberían priorizar los gobiernos ante el calentamiento de los océanos? Escribe unas 120 palabras justificando tu respuesta."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-28-volkswagen-despidos",
+      "title": "Alemania: el grupo Volkswagen prepara otros 50.000 despidos",
+      "source": "RFI Español",
+      "date": "2026-08-28",
+      "level": "B1-B2",
+      "topics": [
+        "economía",
+        "empleo"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-28-volkswagen-despidos",
+        "revision": 1,
+        "meta": {
+          "title": "Alemania: el grupo Volkswagen prepara otros 50.000 despidos",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/europa/20260826-alemania-el-grupo-volkswagen-prepara-otros-50-000-despidos",
+          "date_published": "2026-08-28",
+          "date_processed": "2026-08-28",
+          "tags": [
+            "economía",
+            "empleo"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The Volkswagen group is considering cutting another 50,000 jobs, according to reports in the German press. The move would come after the restructuring agreed in 2024 and has already provoked an immediate reaction from the unions, who describe it as a very hard blow to the sector. Several of the group's plants have been working below capacity for months, while demand for electric cars is growing more slowly than expected.\n\nThe case sums up the difficulties of the European car industry, caught between the electric transition, high energy costs and competition from Asian manufacturers. For the unions, cutting the workforce does not solve the underlying problem and simply shifts the cost onto the workers. For management, on the other hand, it is a question of adjusting the company to a market that is no longer growing. The outcome will depend largely on the negotiations that open in the coming months.",
+        "resumen_es": "El grupo Volkswagen estudia eliminar otros 50.000 puestos de trabajo, según ha adelantado la prensa alemana. La medida llegaría después de la reestructuración acordada en 2024 y ha provocado una reacción inmediata de los sindicatos, que hablan de un golpe muy duro para el sector. Varias plantas del grupo llevan meses trabajando por debajo de su capacidad, mientras la demanda de coches eléctricos crece más despacio de lo previsto.\n\nEl caso resume las dificultades de la industria automovilística europea, atrapada entre la transición eléctrica, los altos costes energéticos y la competencia asiática. Para los sindicatos, recortar plantilla no resuelve el problema de fondo y traslada el coste a los trabajadores. Para la dirección, en cambio, se trata de ajustar la empresa a un mercado que ya no crece. El desenlace dependerá en gran medida de las negociaciones que se abran en los próximos meses.",
+        "vocab": [
+          {
+            "front": "el puesto de trabajo",
+            "pos": "noun",
+            "back": "job, position",
+            "example": "La nueva fábrica creará cien puestos de trabajo.",
+            "tier": "B1"
+          },
+          {
+            "front": "la reestructuración",
+            "pos": "noun",
+            "back": "restructuring",
+            "example": "La reestructuración afectó a tres plantas del grupo.",
+            "tier": "B2"
+          },
+          {
+            "front": "el sindicato",
+            "pos": "noun",
+            "back": "trade union",
+            "example": "El sindicato convocó una huelga de dos días.",
+            "tier": "B1"
+          },
+          {
+            "front": "la plantilla",
+            "pos": "noun",
+            "back": "workforce, staff",
+            "example": "La empresa ha reducido su plantilla un diez por ciento.",
+            "tier": "B2"
+          },
+          {
+            "front": "recortar",
+            "pos": "verb",
+            "back": "to cut back, to reduce",
+            "example": "El gobierno quiere recortar el gasto público.",
+            "tier": "B1"
+          },
+          {
+            "front": "la planta",
+            "pos": "noun",
+            "back": "plant, factory",
+            "example": "La planta de Wolfsburgo produce miles de coches al mes.",
+            "tier": "B1"
+          },
+          {
+            "front": "por debajo de",
+            "pos": "phrase",
+            "back": "below, under",
+            "example": "Las ventas están por debajo de lo esperado.",
+            "tier": "B1"
+          },
+          {
+            "front": "la demanda",
+            "pos": "noun",
+            "back": "demand",
+            "example": "La demanda de coches eléctricos ha bajado este año.",
+            "tier": "B1"
+          },
+          {
+            "front": "el fabricante",
+            "pos": "noun",
+            "back": "manufacturer",
+            "example": "Los fabricantes asiáticos ganan cuota de mercado.",
+            "tier": "B1"
+          },
+          {
+            "front": "el problema de fondo",
+            "pos": "phrase",
+            "back": "the underlying problem",
+            "example": "Nadie quiere abordar el problema de fondo.",
+            "tier": "B2"
+          },
+          {
+            "front": "el desenlace",
+            "pos": "noun",
+            "back": "outcome, ending",
+            "example": "El desenlace del conflicto sigue siendo incierto.",
+            "tier": "C1"
+          },
+          {
+            "front": "en gran medida",
+            "pos": "phrase",
+            "back": "to a large extent",
+            "example": "El resultado depende en gran medida del clima.",
+            "tier": "B2"
+          },
+          {
+            "front": "atrapado entre",
+            "pos": "phrase",
+            "back": "caught between",
+            "example": "La empresa está atrapada entre dos mercados muy distintos.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La medida llegaría después de la reestructuración acordada en 2024 y ha provocado una reacción inmediata de los sindicatos, que hablan de un golpe muy duro para el sector.",
+            "point": "Condicional de rumor y participio con valor de adjetivo",
+            "explanation": "Llegaría no es una condición: es el condicional periodístico, que marca información no confirmada oficialmente. Acordada es un participio que funciona como adjetivo y concuerda con reestructuración.",
+            "why_tricky": "El aprendiz lee llegaría y busca una cláusula con si que no existe; además el participio femenino singular pasa fácilmente desapercibido."
+          },
+          {
+            "sentence": "Varias plantas del grupo llevan meses trabajando por debajo de su capacidad, mientras la demanda de coches eléctricos crece más despacio de lo previsto.",
+            "point": "Perífrasis llevar + tiempo + gerundio y la comparación con de lo previsto",
+            "explanation": "Llevar meses trabajando expresa una acción que empezó en el pasado y sigue ahora, como el inglés have been working for months. De lo previsto compara con una idea, no con un sustantivo, y por eso lleva lo.",
+            "why_tricky": "El aprendiz traduce con el pretérito perfecto y dice han trabajado meses, que suena a acción terminada."
+          },
+          {
+            "sentence": "El desenlace dependerá en gran medida de las negociaciones que se abran en los próximos meses.",
+            "point": "Subjuntivo en oración de relativo con antecedente indeterminado",
+            "explanation": "Las negociaciones todavía no existen: no sabemos cuáles serán ni si habrá alguna. Por eso el verbo de la relativa va en subjuntivo, se abran, y no en futuro de indicativo.",
+            "why_tricky": "Con las negociaciones que se abrirán la frase también se entiende, pero implica que ya están convocadas, y ese matiz se pierde en la traducción."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "un golpe duro",
+            "meaning": "a hard blow, a serious setback",
+            "example": "El cierre de la fábrica fue un golpe duro para el pueblo."
+          },
+          {
+            "phrase": "el problema de fondo",
+            "meaning": "the real, underlying issue behind the visible symptoms",
+            "example": "Discutimos los detalles y olvidamos el problema de fondo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué reacción han tenido los sindicatos ante el anuncio del grupo?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué atraviesa dificultades la industria automovilística europea?",
+            "type": "open"
+          },
+          {
+            "q": "¿En qué se diferencian la postura de la dirección y la de los sindicatos?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que recortar plantilla es una solución aceptable cuando una gran empresa pierde competitividad? Escribe unas 120 palabras con tu opinión y un ejemplo."
+      }
+    },
     {
       "pack_id": "feed-2026-08-28-iran-ofensiva-financiera",
       "title": "Por qué Irán no le teme a la ofensiva financiera de EE.UU. y qué más puede intentar Washington contra Teherán",
@@ -6159,509 +6659,6 @@
           }
         ],
         "opinion_prompt": "Escribe un párrafo breve sobre si estarías dispuesto o dispuesta a dejarlo todo por una causa que te apasione, como la protección de la fauna silvestre."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-20-petroleo-amazonas-lula",
-      "title": "Qué se sabe del controvertido hallazgo de petróleo cerca del río Amazonas (y por qué Lula lo considera clave para acabar con los combustibles fósiles)",
-      "source": "BBC Mundo",
-      "date": "2026-08-18",
-      "level": "B1-B2",
-      "topics": [
-        "medioambiente",
-        "política"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-20-petroleo-amazonas-lula",
-        "revision": 1,
-        "meta": {
-          "title": "Qué se sabe del controvertido hallazgo de petróleo cerca del río Amazonas (y por qué Lula lo considera clave para acabar con los combustibles fósiles)",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/ce3q0098nkvo",
-          "date_published": "2026-08-18",
-          "date_processed": "2026-08-20",
-          "tags": [
-            "medioambiente",
-            "política"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "An oil discovery near the Amazon River has sparked intense controversy in Brazil. President Lula, who usually presents himself as a firm defender of the environment, has backed oil exploration in the area, arguing that it serves the country's national interests. The decision has surprised many, since it contradicts the image Lula has built over the years as a leader committed to the fight against climate change.\n\nThe move has drawn opposition from environmental groups and indigenous communities, who fear that the exploitation will damage one of the planet's most fragile ecosystems. However, the government argues that the revenue generated by the oil will, paradoxically, help fund the transition to clean energy and thus reduce, in the long run, the country's dependence on fossil fuels.",
-        "resumen_es": "Un hallazgo de petróleo cerca del río Amazonas ha generado una intensa controversia en Brasil. El presidente Lula, que suele presentarse como un firme defensor del medioambiente, ha respaldado la exploración petrolera en la zona, argumentando que responde a los intereses nacionales del país. La decisión ha sorprendido a muchos, ya que contradice la imagen que Lula ha construido durante años como líder comprometido con la lucha climática.\n\nLa medida ha despertado el rechazo de grupos ambientalistas y de comunidades indígenas, que temen que la explotación dañe uno de los ecosistemas más frágiles del planeta. Sin embargo, el gobierno defiende que los ingresos generados por el petróleo servirán, paradójicamente, para financiar la transición hacia energías limpias y así reducir, a largo plazo, la dependencia de los combustibles fósiles.",
-        "vocab": [
-          {
-            "front": "hallazgo",
-            "pos": "noun",
-            "back": "discovery",
-            "example": "El hallazgo de petróleo generó controversia.",
-            "tier": "B1"
-          },
-          {
-            "front": "controversia",
-            "pos": "noun",
-            "back": "controversy",
-            "example": "La decisión provocó una gran controversia.",
-            "tier": "B1"
-          },
-          {
-            "front": "respaldar",
-            "pos": "verb",
-            "back": "to back, to support",
-            "example": "El presidente respaldó la exploración petrolera.",
-            "tier": "B2"
-          },
-          {
-            "front": "exploración petrolera",
-            "pos": "phrase",
-            "back": "oil exploration",
-            "example": "La exploración petrolera preocupa a los ambientalistas.",
-            "tier": "B2"
-          },
-          {
-            "front": "intereses nacionales",
-            "pos": "phrase",
-            "back": "national interests",
-            "example": "El gobierno defiende los intereses nacionales.",
-            "tier": "B2"
-          },
-          {
-            "front": "contradecir",
-            "pos": "verb",
-            "back": "to contradict",
-            "example": "La decisión contradice su imagen anterior.",
-            "tier": "B2"
-          },
-          {
-            "front": "comprometido/a con",
-            "pos": "phrase",
-            "back": "committed to",
-            "example": "Se presenta como comprometido con el medioambiente.",
-            "tier": "B2"
-          },
-          {
-            "front": "rechazo",
-            "pos": "noun",
-            "back": "rejection, opposition",
-            "example": "La medida despertó el rechazo de varios grupos.",
-            "tier": "B1"
-          },
-          {
-            "front": "temer que",
-            "pos": "phrase",
-            "back": "to fear that",
-            "example": "Temen que la explotación dañe el ecosistema.",
-            "tier": "B1"
-          },
-          {
-            "front": "frágil",
-            "pos": "adj",
-            "back": "fragile",
-            "example": "Es uno de los ecosistemas más frágiles del planeta.",
-            "tier": "B1"
-          },
-          {
-            "front": "ingresos",
-            "pos": "noun",
-            "back": "revenue, income",
-            "example": "Los ingresos del petróleo financiarán el proyecto.",
-            "tier": "B1"
-          },
-          {
-            "front": "paradójicamente",
-            "pos": "adv",
-            "back": "paradoxically",
-            "example": "Paradójicamente, el petróleo financiará energías limpias.",
-            "tier": "B2"
-          },
-          {
-            "front": "a largo plazo",
-            "pos": "phrase",
-            "back": "in the long run",
-            "example": "El plan busca resultados a largo plazo.",
-            "tier": "B1"
-          },
-          {
-            "front": "dependencia",
-            "pos": "noun",
-            "back": "dependence",
-            "example": "Quieren reducir la dependencia de los combustibles fósiles.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "El presidente Lula, que suele presentarse como un firme defensor del medioambiente, ha respaldado la exploración petrolera en la zona, argumentando que responde a los intereses nacionales del país.",
-            "point": "oración relativa explicativa + gerundio",
-            "explanation": "'Que suele presentarse...' es una relativa explicativa entre comas; 'argumentando' introduce la razón de la acción principal.",
-            "why_tricky": "Combinar una relativa larga con un gerundio final es habitual en la prensa pero complejo para el estudiante."
-          },
-          {
-            "sentence": "La decisión ha sorprendido a muchos, ya que contradice la imagen que Lula ha construido durante años como líder comprometido con la lucha climática.",
-            "point": "pretérito perfecto compuesto",
-            "explanation": "'Ha sorprendido' y 'ha construido' conectan una acción pasada con su relevancia en el presente.",
-            "why_tricky": "Distinguir cuándo usar el perfecto compuesto frente al indefinido es un reto frecuente en B2."
-          },
-          {
-            "sentence": "Sin embargo, el gobierno defiende que los ingresos generados por el petróleo servirán, paradójicamente, para financiar la transición hacia energías limpias y así reducir, a largo plazo, la dependencia de los combustibles fósiles.",
-            "point": "futuro simple dentro de una subordinada sustantiva",
-            "explanation": "'Servirán' expresa una predicción dentro de la subordinada introducida por 'que defiende'.",
-            "why_tricky": "Insertar incisos como 'paradójicamente' y 'a largo plazo' alarga la oración y dificulta seguir el hilo del futuro."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "apostar por algo",
-            "meaning": "decidir invertir esfuerzo o confianza en algo",
-            "example": "El gobierno decidió apostar por la exploración petrolera."
-          },
-          {
-            "phrase": "a largo plazo",
-            "meaning": "pensando en el futuro, no en el presente inmediato",
-            "example": "Los beneficios se verán a largo plazo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué crees que la decisión de Lula sorprendió a tanta gente?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué argumentos usa el gobierno brasileño para justificar la exploración petrolera?",
-            "type": "open"
-          },
-          {
-            "q": "¿Te parece razonable usar el dinero del petróleo para financiar energías limpias? ¿Por qué?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Escribe un breve párrafo sobre si crees que se puede justificar la explotación de recursos naturales cuando el objetivo final es financiar un futuro más sostenible."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-20-poligamo-novela-zimbabue",
-      "title": "\"Mi abuelo tuvo 5 esposas. Todos sabían su lugar\": cómo la novela \"El Polígamo\" se convirtió en un éxito mundial en TV",
-      "source": "BBC Mundo",
-      "date": "2026-08-19",
-      "level": "B1-B2",
-      "topics": [
-        "cultura",
-        "literatura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-20-poligamo-novela-zimbabue",
-        "revision": 1,
-        "meta": {
-          "title": "\"Mi abuelo tuvo 5 esposas. Todos sabían su lugar\": cómo la novela \"El Polígamo\" se convirtió en un éxito mundial en TV",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/clye56vqy3po",
-          "date_published": "2026-08-19",
-          "date_processed": "2026-08-20",
-          "tags": [
-            "cultura",
-            "literatura"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The Zimbabwean novel \"The Polygamist\" has become a worldwide hit thanks to its television adaptation. Its author, Sue Nyathi, had to fund the publication of this first novel out of her own pocket, since no publisher was initially willing to take a chance on it. The story opens with a line that captures its spirit: \"My grandfather had 5 wives. Everyone knew their place.\"\n\nFollowing the show's resounding success, Nyathi has used her new visibility to speak openly about the difficulties faced by African women who want to pursue writing, from a lack of financial support to the publishing industry's limited recognition. Her career has become an example of perseverance for many authors who, like her, struggle to get their own stories published.",
-        "resumen_es": "La novela zimbabuense \"El Polígamo\" se ha convertido en un éxito mundial gracias a su adaptación a la televisión. Su autora, Sue Nyathi, tuvo que financiar de su propio bolsillo la publicación de esta primera novela, ya que ninguna editorial quiso apostar por ella en un principio. La historia arranca con una frase que resume su espíritu: \"Mi abuelo tuvo 5 esposas. Todos sabían su lugar\".\n\nTras el rotundo éxito de la serie, Nyathi ha aprovechado su nueva visibilidad para hablar abiertamente sobre las dificultades que enfrentan las mujeres africanas que quieren dedicarse a la escritura, desde la falta de apoyo económico hasta el escaso reconocimiento de la industria editorial. Su trayectoria se ha convertido en un ejemplo de perseverancia para muchas autoras que, como ella, luchan por publicar sus propias historias.",
-        "vocab": [
-          {
-            "front": "éxito mundial",
-            "pos": "phrase",
-            "back": "worldwide success",
-            "example": "La novela se convirtió en un éxito mundial.",
-            "tier": "B1"
-          },
-          {
-            "front": "adaptación",
-            "pos": "noun",
-            "back": "adaptation",
-            "example": "La adaptación a la televisión fue un éxito.",
-            "tier": "B1"
-          },
-          {
-            "front": "financiar de su propio bolsillo",
-            "pos": "phrase",
-            "back": "to fund out of one's own pocket",
-            "example": "Tuvo que financiarlo de su propio bolsillo.",
-            "tier": "B2"
-          },
-          {
-            "front": "apostar por",
-            "pos": "phrase",
-            "back": "to bet on, to take a chance on",
-            "example": "Ninguna editorial quiso apostar por su novela.",
-            "tier": "B2"
-          },
-          {
-            "front": "arrancar",
-            "pos": "verb",
-            "back": "to start, to kick off",
-            "example": "La historia arranca con una frase potente.",
-            "tier": "B1"
-          },
-          {
-            "front": "resumir",
-            "pos": "verb",
-            "back": "to sum up",
-            "example": "Esa frase resume el espíritu del libro.",
-            "tier": "B1"
-          },
-          {
-            "front": "rotundo/a",
-            "pos": "adj",
-            "back": "resounding, emphatic",
-            "example": "La serie tuvo un éxito rotundo.",
-            "tier": "B2"
-          },
-          {
-            "front": "aprovechar",
-            "pos": "verb",
-            "back": "to take advantage of",
-            "example": "Aprovechó su visibilidad para hablar del tema.",
-            "tier": "B1"
-          },
-          {
-            "front": "visibilidad",
-            "pos": "noun",
-            "back": "visibility",
-            "example": "Ganó mucha visibilidad tras el éxito.",
-            "tier": "B2"
-          },
-          {
-            "front": "enfrentar dificultades",
-            "pos": "phrase",
-            "back": "to face difficulties",
-            "example": "Las escritoras enfrentan muchas dificultades.",
-            "tier": "B1"
-          },
-          {
-            "front": "escaso/a",
-            "pos": "adj",
-            "back": "scarce, limited",
-            "example": "El reconocimiento de la industria es escaso.",
-            "tier": "B2"
-          },
-          {
-            "front": "reconocimiento",
-            "pos": "noun",
-            "back": "recognition",
-            "example": "Busca más reconocimiento para su trabajo.",
-            "tier": "B1"
-          },
-          {
-            "front": "trayectoria",
-            "pos": "noun",
-            "back": "career path",
-            "example": "Su trayectoria inspira a otras autoras.",
-            "tier": "B2"
-          },
-          {
-            "front": "perseverancia",
-            "pos": "noun",
-            "back": "perseverance",
-            "example": "Es un ejemplo de perseverancia.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La novela zimbabuense \"El Polígamo\" se ha convertido en un éxito mundial gracias a su adaptación a la televisión.",
-            "point": "pretérito perfecto compuesto + 'gracias a'",
-            "explanation": "'Se ha convertido' liga el pasado reciente con el presente; 'gracias a' introduce la causa positiva del cambio.",
-            "why_tricky": "Los estudiantes confunden 'gracias a' con 'por culpa de', que tiene un matiz negativo."
-          },
-          {
-            "sentence": "Su autora, Sue Nyathi, tuvo que financiar de su propio bolsillo la publicación de esta primera novela, ya que ninguna editorial quiso apostar por ella en un principio.",
-            "point": "'tener que' + infinitivo en pretérito indefinido",
-            "explanation": "'Tuvo que financiar' expresa una obligación puntual en el pasado, seguida de la causa introducida por 'ya que'.",
-            "why_tricky": "El uso de 'ninguna' con verbo afirmativo en español (doble negación implícita) suele confundir a hablantes de otras lenguas."
-          },
-          {
-            "sentence": "Su trayectoria se ha convertido en un ejemplo de perseverancia para muchas autoras que, como ella, luchan por publicar sus propias historias.",
-            "point": "oración relativa con 'que' e inciso comparativo",
-            "explanation": "'Que... luchan' es una relativa que modifica a 'autoras'; el inciso 'como ella' añade una comparación dentro de la relativa.",
-            "why_tricky": "Insertar un inciso comparativo dentro de una relativa complica identificar el sujeto de 'luchan'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "apostar por algo/alguien",
-            "meaning": "confiar y arriesgarse por algo o alguien",
-            "example": "Ninguna editorial quiso apostar por su novela."
-          },
-          {
-            "phrase": "de su propio bolsillo",
-            "meaning": "pagar algo con el propio dinero, sin ayuda externa",
-            "example": "Tuvo que pagarlo todo de su propio bolsillo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué crees que ninguna editorial quiso publicar la novela de Sue Nyathi al principio?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué dificultades menciona el texto para las mujeres africanas que quieren ser escritoras?",
-            "type": "open"
-          },
-          {
-            "q": "¿Conoces otra historia de alguien que tuvo que financiar su propio proyecto para tener éxito?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Escribe un párrafo sobre qué opinas de las dificultades que enfrentan las mujeres para publicar sus obras, y si crees que la situación ha mejorado."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-20-horarios-comidas",
-      "title": "Nos estamos equivocando con los horarios de las comidas: esta es la mejor hora para cenar, según la ciencia",
-      "source": "BBC Mundo",
-      "date": "2026-08-19",
-      "level": "B1-B2",
-      "topics": [
-        "salud",
-        "ciencia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-20-horarios-comidas",
-        "revision": 1,
-        "meta": {
-          "title": "Nos estamos equivocando con los horarios de las comidas: esta es la mejor hora para cenar, según la ciencia",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/ce344qrkxe5o",
-          "date_published": "2026-08-19",
-          "date_processed": "2026-08-20",
-          "tags": [
-            "salud",
-            "ciencia"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "A new study calls into question something we take for granted: the time we eat. According to researchers, the circadian rhythm, our internal biological clock, influences how the body metabolises food. Eating dinner too late, when the body is already preparing to rest, could make digestion harder and affect blood sugar control. Experts therefore recommend having dinner earlier.\n\nThe finding adds to growing interest in chrononutrition, the field that studies the relationship between meal timing and health. Some specialists argue that it is not only what we eat that matters, but also when we eat it. In countries where dinner is eaten very late, such as Spain, this debate becomes especially relevant. Even so, scientists insist that each person has a different rhythm and that small, gradual changes tend to work better than strict bans.",
-        "resumen_es": "Un nuevo estudio pone en duda algo que damos por sentado: la hora a la que comemos. Según los investigadores, el ritmo circadiano, nuestro reloj biológico interno, influye en cómo el cuerpo metaboliza los alimentos. Cenar demasiado tarde, cuando el organismo ya se prepara para descansar, podría dificultar la digestión y afectar al control del azúcar en la sangre. Por eso, los expertos recomiendan adelantar la cena.\n\nEl hallazgo se suma a un creciente interés por la crononutrición, la disciplina que estudia la relación entre los horarios de las comidas y la salud. Algunos especialistas sostienen que no solo importa qué comemos, sino también cuándo lo hacemos. En países donde se cena muy tarde, como España, este debate cobra especial relevancia. Aun así, los científicos insisten en que cada persona tiene un ritmo distinto y en que los pequeños cambios graduales suelen funcionar mejor que las prohibiciones estrictas.",
-        "vocab": [
-          {
-            "front": "dar por sentado",
-            "pos": "phrase",
-            "back": "to take for granted",
-            "example": "Damos por sentado que la hora de comer no importa.",
-            "tier": "B2"
-          },
-          {
-            "front": "el ritmo circadiano",
-            "pos": "noun",
-            "back": "circadian rhythm",
-            "example": "El ritmo circadiano regula el sueno y la digestion.",
-            "tier": "B2"
-          },
-          {
-            "front": "metabolizar",
-            "pos": "verb",
-            "back": "to metabolise",
-            "example": "El cuerpo metaboliza peor la comida por la noche.",
-            "tier": "B2"
-          },
-          {
-            "front": "dificultar",
-            "pos": "verb",
-            "back": "to make difficult, hinder",
-            "example": "Cenar tarde puede dificultar el descanso.",
-            "tier": "B1"
-          },
-          {
-            "front": "el azucar en la sangre",
-            "pos": "noun",
-            "back": "blood sugar",
-            "example": "El medico le controla el azucar en la sangre.",
-            "tier": "B1"
-          },
-          {
-            "front": "adelantar",
-            "pos": "verb",
-            "back": "to move forward (in time), bring earlier",
-            "example": "Vamos a adelantar la cena media hora.",
-            "tier": "B1"
-          },
-          {
-            "front": "acostarse",
-            "pos": "verb",
-            "back": "to go to bed",
-            "example": "Intento acostarme siempre a la misma hora.",
-            "tier": "A2"
-          },
-          {
-            "front": "la crononutricion",
-            "pos": "noun",
-            "back": "chrononutrition",
-            "example": "La crononutricion estudia cuando es mejor comer.",
-            "tier": "C1"
-          },
-          {
-            "front": "sostener (una idea)",
-            "pos": "verb",
-            "back": "to maintain, argue (an idea)",
-            "example": "Los expertos sostienen que el horario importa tanto como la dieta.",
-            "tier": "B2"
-          },
-          {
-            "front": "cobrar relevancia",
-            "pos": "phrase",
-            "back": "to become relevant",
-            "example": "El debate cobra relevancia en paises que cenan tarde.",
-            "tier": "B2"
-          },
-          {
-            "front": "aun asi",
-            "pos": "adv",
-            "back": "even so, nevertheless",
-            "example": "Aun asi, cada persona es diferente.",
-            "tier": "B1"
-          },
-          {
-            "front": "gradual",
-            "pos": "adj",
-            "back": "gradual",
-            "example": "Prefiero hacer cambios graduales en mi dieta.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Cenar demasiado tarde, cuando el organismo ya se prepara para descansar, podría dificultar la digestión y afectar al control del azúcar en la sangre.",
-            "point": "podria + infinitivo (condicional de probabilidad)",
-            "explanation": "El condicional 'podria' se usa aqui para expresar una consecuencia posible, no segura, algo tipico del lenguaje cientifico y periodistico.",
-            "why_tricky": "Los estudiantes suelen usar el presente ('dificulta') cuando en realidad el texto habla de una posibilidad, no de un hecho comprobado."
-          },
-          {
-            "sentence": "Aun así, los científicos insisten en que cada persona tiene un ritmo distinto y en que los pequeños cambios graduales suelen funcionar mejor que las prohibiciones estrictas.",
-            "point": "insistir en que + subjuntivo/indicativo",
-            "explanation": "'Insistir en que' puede ir con indicativo cuando se presenta la idea como un hecho defendido, como aqui; distinto de 'insistir en que' + subjuntivo cuando se pide una accion.",
-            "why_tricky": "Muchos aprendices aplican el subjuntivo automaticamente despues de 'insistir en que', sin fijarse en si se trata de una peticion o de una afirmacion."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "dar por sentado algo",
-            "meaning": "asumir algo como cierto sin cuestionarlo",
-            "example": "No deberiamos dar por sentado que comer tarde no afecta a la salud."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Segun el estudio, ¿por que puede ser problematico cenar muy tarde?",
-            "type": "open"
-          },
-          {
-            "q": "¿Que es la crononutricion y por que genera interes?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por que crees que el debate sobre los horarios de las comidas es especialmente relevante en Espana?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿A que hora sueles cenar tu y crees que deberias cambiar tus horarios de comida? Explica tu opinion."
       }
     }
   ]
