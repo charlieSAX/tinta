@@ -1,7 +1,521 @@
 {
- "generated_at": "2026-08-28T19:12:30Z",
+ "generated_at": "2026-08-29T07:11:04Z",
  "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-08-29-groenlandia-diu",
+   "title": "Groenlandia: Dinamarca indemnizará a mujeres víctimas de la colocación forzada de dispositivos intrauterinos",
+   "source": "RFI Español",
+   "date": "2026-08-28",
+   "level": "B1-B2",
+   "topics": [
+    "derechos",
+    "sociedad"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-29-groenlandia-diu",
+    "revision": 1,
+    "meta": {
+     "title": "Groenlandia: Dinamarca indemnizará a mujeres víctimas de la colocación forzada de dispositivos intrauterinos",
+     "source": "RFI Español",
+     "url": "https://www.rfi.fr/es/europa/20260828-groenlandia-dinamarca-indemnizar%C3%A1-a-mujeres-v%C3%ADctimas-de-la-colocaci%C3%B3n-forzada-de-dispositivos-intrauterinos",
+     "date_published": "2026-08-28",
+     "date_processed": "2026-08-29",
+     "tags": [
+      "derechos",
+      "sociedad"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "The Danish government has announced that it will compensate Greenlandic women who had an intrauterine device fitted without their consent. For decades, many young women underwent this procedure as part of the health policies applied in Greenland, which was then under Danish administration. The decision brings to an end a scandal that has marked several generations and that the women affected had spent years denouncing in the courts.\n\nFor the victims, the agreement amounts to a late but symbolic acknowledgement. Many insist, however, that money is not enough and are demanding a full investigation into what happened. The case forms part of a wider debate about the Danish colonial past on the island and about the current relationship between Copenhagen and Nuuk. In recent years, Greenland has strengthened its autonomy and is demanding that the abuses committed be clarified, so that episodes of this kind do not happen again.",
+    "resumen_es": "El Gobierno de Dinamarca ha anunciado que indemnizará a las mujeres groenlandesas a las que se colocó un dispositivo intrauterino sin su consentimiento. Durante décadas, muchas jóvenes fueron sometidas a este procedimiento dentro de las políticas sanitarias aplicadas en Groenlandia, entonces bajo administración danesa. La decisión pone fin a un escándalo que ha marcado a varias generaciones y que las afectadas llevaban años denunciando ante los tribunales.\n\nPara las víctimas, el acuerdo supone un reconocimiento tardío pero simbólico. Muchas insisten, sin embargo, en que el dinero no basta y reclaman una investigación completa sobre lo ocurrido. El caso se inscribe en un debate más amplio sobre el pasado colonial danés en la isla y sobre las relaciones actuales entre Copenhague y Nuuk. En los últimos años, Groenlandia ha reforzado su autonomía y exige que se aclaren los abusos cometidos, de modo que este tipo de episodios no vuelva a repetirse.",
+    "vocab": [
+     {
+      "front": "indemnizar",
+      "pos": "verb",
+      "back": "to compensate, to pay damages to",
+      "example": "El Estado tendrá que indemnizar a las familias afectadas.",
+      "tier": "B2"
+     },
+     {
+      "front": "el consentimiento",
+      "pos": "noun",
+      "back": "consent",
+      "example": "Ninguna intervención puede hacerse sin el consentimiento del paciente.",
+      "tier": "B1"
+     },
+     {
+      "front": "someter a alguien a algo",
+      "pos": "phrase",
+      "back": "to subject someone to something",
+      "example": "Los sometieron a un interrogatorio de tres horas.",
+      "tier": "B2"
+     },
+     {
+      "front": "el escándalo",
+      "pos": "noun",
+      "back": "scandal",
+      "example": "El escándalo obligó al ministro a dimitir.",
+      "tier": "B1"
+     },
+     {
+      "front": "denunciar",
+      "pos": "verb",
+      "back": "to report, to denounce (formally)",
+      "example": "Denunció el robo en la comisaría del barrio.",
+      "tier": "B1"
+     },
+     {
+      "front": "los tribunales",
+      "pos": "noun",
+      "back": "the courts",
+      "example": "El asunto acabará en los tribunales.",
+      "tier": "B2"
+     },
+     {
+      "front": "tardío",
+      "pos": "adj",
+      "back": "late, belated",
+      "example": "Fue un reconocimiento tardío, pero importante.",
+      "tier": "B2"
+     },
+     {
+      "front": "reclamar",
+      "pos": "verb",
+      "back": "to demand, to claim",
+      "example": "Los vecinos reclaman más transporte público.",
+      "tier": "B1"
+     },
+     {
+      "front": "inscribirse en un debate",
+      "pos": "phrase",
+      "back": "to form part of a debate",
+      "example": "Su propuesta se inscribe en un debate muy antiguo.",
+      "tier": "C1"
+     },
+     {
+      "front": "reforzar",
+      "pos": "verb",
+      "back": "to strengthen, to reinforce",
+      "example": "El país quiere reforzar su independencia energética.",
+      "tier": "B2"
+     },
+     {
+      "front": "aclarar",
+      "pos": "verb",
+      "back": "to clarify, to clear up",
+      "example": "Todavía falta aclarar quién dio la orden.",
+      "tier": "B1"
+     },
+     {
+      "front": "el abuso",
+      "pos": "noun",
+      "back": "abuse, misuse of power",
+      "example": "Investigan varios abusos cometidos en el centro.",
+      "tier": "B1"
+     },
+     {
+      "front": "bastar",
+      "pos": "verb",
+      "back": "to be enough",
+      "example": "No basta con pedir perdón.",
+      "tier": "B2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "El Gobierno de Dinamarca ha anunciado que indemnizará a las mujeres groenlandesas a las que se colocó un dispositivo intrauterino sin su consentimiento.",
+      "point": "Relative clause with preposition: a las que",
+      "explanation": "When the relative pronoun is the indirect object of the verb, Spanish keeps the preposition before the article: a las que se colocó. English would say 'who had a device fitted' and drop the preposition altogether.",
+      "why_tricky": "Learners often write 'que se colocó' and lose the link between the women and the action, which makes the sentence ungrammatical."
+     },
+     {
+      "sentence": "En los últimos años, Groenlandia ha reforzado su autonomía y exige que se aclaren los abusos cometidos, de modo que este tipo de episodios no vuelva a repetirse.",
+      "point": "Subjunctive after exigir que and after de modo que expressing purpose",
+      "explanation": "Exigir que triggers the subjunctive: se aclaren. De modo que takes the subjunctive (vuelva) when it expresses an intended result, and the indicative when it reports an actual one.",
+      "why_tricky": "De modo que switches mood depending on meaning, so the same connector can be followed by either form."
+     },
+     {
+      "sentence": "La decisión pone fin a un escándalo que ha marcado a varias generaciones y que las afectadas llevaban años denunciando ante los tribunales.",
+      "point": "llevar + time + gerund",
+      "explanation": "Llevaban años denunciando expresses an action continuing over a period, equivalent to 'had spent years denouncing'. Spanish uses llevar plus a time expression plus the gerund, never hacer in this structure.",
+      "why_tricky": "English speakers reach for 'hacía años que denunciaban', which is correct but different in register and word order."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "poner fin a algo",
+      "meaning": "to put an end to something",
+      "example": "El acuerdo pone fin a diez años de conflicto."
+     },
+     {
+      "phrase": "no basta con",
+      "meaning": "it is not enough to",
+      "example": "No basta con prometer cambios; hay que aplicarlos."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Por qué ha decidido Dinamarca indemnizar a estas mujeres?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué piden las víctimas además del dinero, y por qué crees que lo piden?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué relación tiene este caso con el pasado colonial danés en Groenlandia?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Crees que una indemnización económica puede reparar un daño de este tipo, o hace falta algo más? Escribe unas 120 palabras justificando tu postura."
+   }
+  },
+  {
+   "pack_id": "feed-2026-08-29-ceuta-disturbios",
+   "title": "España: El Gobierno llama a la calma tras una noche de protestas y disturbios en Ceuta",
+   "source": "RFI Español",
+   "date": "2026-08-28",
+   "level": "B1-B2",
+   "topics": [
+    "España",
+    "política"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-29-ceuta-disturbios",
+    "revision": 1,
+    "meta": {
+     "title": "España: El Gobierno llama a la calma tras una noche de protestas y disturbios en Ceuta",
+     "source": "RFI Español",
+     "url": "https://www.rfi.fr/es/europa/20260828-espa%C3%B1a-el-gobierno-llama-a-la-calma-tras-una-noche-de-protestas-y-disturbios-en-ceuta",
+     "date_published": "2026-08-28",
+     "date_processed": "2026-08-29",
+     "tags": [
+      "España",
+      "política"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "The Spanish government has called for calm after a night of protests and unrest in Ceuta, the autonomous city located in North Africa. The demonstrations, called by residents worried about security, ended with burnt rubbish containers and clashes with the police. The authorities have announced that police reinforcements are being sent, while at the same time asking the public to avoid any kind of violence.\n\nThe discontent does not come out of nowhere. Ceuta has long been dragging problems of youth unemployment, migratory pressure and distrust of institutions, a mixture that turns any incident into a spark. Opposition parties accuse the government of having neglected the enclave, while the government insists that the situation is under control. In the short term, the challenge is to restore calm; in the long term, it is to tackle the deep causes of the discontent, something no police deployment can solve on its own.",
+    "resumen_es": "El Gobierno español ha pedido calma tras una noche de protestas y disturbios en Ceuta, la ciudad autónoma situada en el norte de África. Las manifestaciones, convocadas por vecinos preocupados por la seguridad, terminaron con contenedores quemados y enfrentamientos con la policía. Las autoridades han anunciado el envío de refuerzos policiales, al tiempo que piden a la población que evite cualquier tipo de violencia.\n\nEl malestar no surge de la nada. Ceuta arrastra desde hace tiempo problemas de paro juvenil, presión migratoria y desconfianza hacia las instituciones, una mezcla que convierte cualquier incidente en una chispa. Los partidos de la oposición acusan al Ejecutivo de haber descuidado el enclave, mientras el Gobierno insiste en que la situación está bajo control. A corto plazo, el reto consiste en restablecer la calma; a largo plazo, en abordar las causas profundas del descontento, algo que ningún despliegue policial resuelve por sí solo.",
+    "vocab": [
+     {
+      "front": "llamar a la calma",
+      "pos": "phrase",
+      "back": "to call for calm",
+      "example": "El alcalde llamó a la calma tras los incidentes.",
+      "tier": "B2"
+     },
+     {
+      "front": "los disturbios",
+      "pos": "noun",
+      "back": "riots, unrest",
+      "example": "Los disturbios duraron toda la noche.",
+      "tier": "B2"
+     },
+     {
+      "front": "convocar",
+      "pos": "verb",
+      "back": "to call, to convene (a meeting, a protest)",
+      "example": "Los sindicatos han convocado una huelga general.",
+      "tier": "B1"
+     },
+     {
+      "front": "el enfrentamiento",
+      "pos": "noun",
+      "back": "clash, confrontation",
+      "example": "Hubo enfrentamientos entre los manifestantes y la policía.",
+      "tier": "B2"
+     },
+     {
+      "front": "el refuerzo",
+      "pos": "noun",
+      "back": "reinforcement, backup",
+      "example": "Han pedido refuerzos para controlar la zona.",
+      "tier": "B2"
+     },
+     {
+      "front": "el malestar",
+      "pos": "noun",
+      "back": "discontent, unease",
+      "example": "Existe un malestar creciente entre los profesores.",
+      "tier": "B2"
+     },
+     {
+      "front": "arrastrar un problema",
+      "pos": "phrase",
+      "back": "to be dogged by a long-standing problem",
+      "example": "La empresa arrastra deudas desde hace años.",
+      "tier": "C1"
+     },
+     {
+      "front": "el paro juvenil",
+      "pos": "noun",
+      "back": "youth unemployment",
+      "example": "El paro juvenil sigue por encima de la media europea.",
+      "tier": "B1"
+     },
+     {
+      "front": "la desconfianza",
+      "pos": "noun",
+      "back": "distrust",
+      "example": "Hay mucha desconfianza hacia los partidos políticos.",
+      "tier": "B1"
+     },
+     {
+      "front": "descuidar",
+      "pos": "verb",
+      "back": "to neglect",
+      "example": "No conviene descuidar el mantenimiento del edificio.",
+      "tier": "B2"
+     },
+     {
+      "front": "el enclave",
+      "pos": "noun",
+      "back": "enclave",
+      "example": "Ceuta y Melilla son enclaves españoles en África.",
+      "tier": "B2"
+     },
+     {
+      "front": "restablecer",
+      "pos": "verb",
+      "back": "to restore, to re-establish",
+      "example": "Tardaron dos días en restablecer el suministro eléctrico.",
+      "tier": "B2"
+     },
+     {
+      "front": "abordar",
+      "pos": "verb",
+      "back": "to tackle, to address (an issue)",
+      "example": "Hay que abordar el problema de raíz.",
+      "tier": "B2"
+     },
+     {
+      "front": "el despliegue",
+      "pos": "noun",
+      "back": "deployment",
+      "example": "El despliegue policial fue enorme.",
+      "tier": "C1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Las autoridades han anunciado el envío de refuerzos policiales, al tiempo que piden a la población que evite cualquier tipo de violencia.",
+      "point": "pedir a alguien que + subjunctive",
+      "explanation": "Verbs of request take the subjunctive in the subordinate clause when the subject changes: piden a la población que evite. The connector al tiempo que means 'while, at the same time as' and takes the indicative.",
+      "why_tricky": "Learners write 'piden que evita', copying English, or drop the personal a before la población."
+     },
+     {
+      "sentence": "A corto plazo, el reto consiste en restablecer la calma; a largo plazo, en abordar las causas profundas del descontento, algo que ningún despliegue policial resuelve por sí solo.",
+      "point": "consistir en + infinitive, and ellipsis in the second clause",
+      "explanation": "Consistir always takes en, never de. In the second half the verb consiste is left out and only the preposition en survives, a common device in written Spanish to avoid repetition.",
+      "why_tricky": "The gap after 'a largo plazo' looks like a mistake to learners, but it is deliberate and elegant."
+     },
+     {
+      "sentence": "Ceuta arrastra desde hace tiempo problemas de paro juvenil, presión migratoria y desconfianza hacia las instituciones, una mezcla que convierte cualquier incidente en una chispa.",
+      "point": "desde hace + time and convertir algo en algo",
+      "explanation": "Desde hace tiempo marks a situation that started in the past and continues now, and pairs with the present tense arrastra. Convertir requires en before the result, not a.",
+      "why_tricky": "English uses a perfect tense here, so learners write 'ha arrastrado desde hace tiempo', which sounds wrong in Spanish."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "no surgir de la nada",
+      "meaning": "not to come out of nowhere, to have deeper causes",
+      "example": "Esta crisis no surge de la nada: llevaba años gestándose."
+     },
+     {
+      "phrase": "de raíz",
+      "meaning": "at the root, thoroughly",
+      "example": "Quieren resolver el problema de raíz."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Qué pedían los vecinos que salieron a protestar en Ceuta?",
+      "type": "open"
+     },
+     {
+      "q": "Según el texto, ¿por qué el malestar de Ceuta no surge de la nada?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué diferencia establece el texto entre el corto plazo y el largo plazo?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Qué debería hacer un gobierno cuando una protesta legítima acaba en disturbios? Escribe unas 120 palabras con al menos dos argumentos."
+   }
+  },
+  {
+   "pack_id": "feed-2026-08-29-canada-aranceles",
+   "title": "Cómo la respuesta de Canadá a los nuevos aranceles de EE.UU. pone a prueba los límites del poder de Trump",
+   "source": "BBC Mundo",
+   "date": "2026-08-28",
+   "level": "B1-B2",
+   "topics": [
+    "economía",
+    "comercio"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-29-canada-aranceles",
+    "revision": 1,
+    "meta": {
+     "title": "Cómo la respuesta de Canadá a los nuevos aranceles de EE.UU. pone a prueba los límites del poder de Trump",
+     "source": "BBC Mundo",
+     "url": "https://www.bbc.com/mundo/articles/cp3kwd28dl5o",
+     "date_published": "2026-08-28",
+     "date_processed": "2026-08-29",
+     "tags": [
+      "economía",
+      "comercio"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "Canada's response to the new tariffs imposed by the United States has become a test of the limits of Donald Trump's power. Ottawa has chosen to reply with measures of its own rather than accept Washington's conditions, something few trading partners have dared to do. The standoff affects key sectors of an economic relationship that for decades was taken to be untouchable.\n\nThe outcome matters well beyond North America. If Canada manages to hold out without suffering serious economic damage, other countries might be encouraged to stand up to Washington; if it gives in, the idea that tariff pressure works will be reinforced. In the meantime, companies on both sides of the border face costly uncertainty and consumers are starting to notice prices going up. Everything suggests the negotiation will drag on for months, with advances and setbacks that are hard to predict.",
+    "resumen_es": "La respuesta de Canadá a los nuevos aranceles impuestos por Estados Unidos se ha convertido en una prueba para los límites del poder de Donald Trump. Ottawa ha optado por responder con medidas propias en lugar de aceptar las condiciones de Washington, algo que pocos socios comerciales se han atrevido a hacer. El pulso afecta a sectores clave de una relación económica que durante décadas se dio por intocable.\n\nEl desenlace importa mucho más allá de Norteamérica. Si Canadá logra resistir sin sufrir un daño económico grave, otros países podrían animarse a plantar cara; si cede, se reforzará la idea de que la presión arancelaria funciona. Mientras tanto, las empresas de ambos lados de la frontera afrontan una incertidumbre costosa y los consumidores empiezan a notar la subida de precios. Todo apunta a que la negociación se alargará durante meses, con avances y retrocesos difíciles de anticipar.",
+    "vocab": [
+     {
+      "front": "el arancel",
+      "pos": "noun",
+      "back": "tariff, customs duty",
+      "example": "El nuevo arancel encarece los coches importados.",
+      "tier": "B2"
+     },
+     {
+      "front": "optar por",
+      "pos": "verb",
+      "back": "to opt for, to choose to",
+      "example": "Optaron por negociar antes de ir a juicio.",
+      "tier": "B2"
+     },
+     {
+      "front": "atreverse a",
+      "pos": "verb",
+      "back": "to dare to",
+      "example": "Nadie se atrevió a contradecirle.",
+      "tier": "B1"
+     },
+     {
+      "front": "el socio comercial",
+      "pos": "noun",
+      "back": "trading partner",
+      "example": "Alemania es su principal socio comercial.",
+      "tier": "B2"
+     },
+     {
+      "front": "el pulso",
+      "pos": "noun",
+      "back": "standoff, trial of strength",
+      "example": "El pulso entre el sindicato y la dirección continúa.",
+      "tier": "C1"
+     },
+     {
+      "front": "dar algo por hecho",
+      "pos": "phrase",
+      "back": "to take something for granted",
+      "example": "No des por hecho que vendrá.",
+      "tier": "B2"
+     },
+     {
+      "front": "el desenlace",
+      "pos": "noun",
+      "back": "outcome, ending",
+      "example": "El desenlace del juicio sorprendió a todos.",
+      "tier": "C1"
+     },
+     {
+      "front": "ceder",
+      "pos": "verb",
+      "back": "to give in, to yield",
+      "example": "Al final el Gobierno cedió a las presiones.",
+      "tier": "B2"
+     },
+     {
+      "front": "afrontar",
+      "pos": "verb",
+      "back": "to face, to confront",
+      "example": "Las pymes afrontan un año complicado.",
+      "tier": "B2"
+     },
+     {
+      "front": "la incertidumbre",
+      "pos": "noun",
+      "back": "uncertainty",
+      "example": "La incertidumbre frena la inversión.",
+      "tier": "B2"
+     },
+     {
+      "front": "la subida de precios",
+      "pos": "noun",
+      "back": "price rise",
+      "example": "La subida de precios afecta sobre todo a la alimentación.",
+      "tier": "B1"
+     },
+     {
+      "front": "alargarse",
+      "pos": "verb",
+      "back": "to drag on, to go on longer than expected",
+      "example": "La reunión se alargó dos horas más.",
+      "tier": "B1"
+     },
+     {
+      "front": "el retroceso",
+      "pos": "noun",
+      "back": "setback, step backwards",
+      "example": "El informe habla de un retroceso en derechos laborales.",
+      "tier": "C1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Si Canadá logra resistir sin sufrir un daño económico grave, otros países podrían animarse a plantar cara; si cede, se reforzará la idea de que la presión arancelaria funciona.",
+      "point": "Real conditionals: si + present, then conditional or future",
+      "explanation": "With si, Spanish never uses the future or the conditional in the if-clause: logra and cede stay in the present. The consequence can be conditional (podrían) for a hypothesis or future (se reforzará) for a firmer prediction.",
+      "why_tricky": "English allows 'if Canada would manage', which tempts learners into 'si lograría', an error native speakers notice immediately."
+     },
+     {
+      "sentence": "Ottawa ha optado por responder con medidas propias en lugar de aceptar las condiciones de Washington, algo que pocos socios comerciales se han atrevido a hacer.",
+      "point": "en lugar de + infinitive",
+      "explanation": "When both actions share the same subject, en lugar de is followed by a bare infinitive. If the subjects differ you need en lugar de que plus the subjunctive.",
+      "why_tricky": "Learners insert que automatically after these connectors, producing 'en lugar de que aceptar'."
+     },
+     {
+      "sentence": "Todo apunta a que la negociación se alargará durante meses, con avances y retrocesos difíciles de anticipar.",
+      "point": "apuntar a que + indicative",
+      "explanation": "Apuntar a que introduces evidence rather than doubt, so it takes the indicative: se alargará. Compare dudar que, which requires the subjunctive.",
+      "why_tricky": "Many expressions of prediction feel uncertain, so learners reach for the subjunctive when the indicative is required."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "plantar cara",
+      "meaning": "to stand up to someone, to face them down",
+      "example": "Decidió plantar cara a su jefe."
+     },
+     {
+      "phrase": "dar por intocable",
+      "meaning": "to treat as untouchable, beyond question",
+      "example": "Durante años se dio por intocable ese acuerdo."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Qué ha decidido hacer Canadá frente a los aranceles estadounidenses?",
+      "type": "open"
+     },
+     {
+      "q": "¿Por qué dice el texto que el desenlace importa más allá de Norteamérica?",
+      "type": "open"
+     },
+     {
+      "q": "¿Cómo afecta este conflicto a las empresas y a los consumidores?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Es útil responder a unos aranceles con otros aranceles, o perjudica sobre todo a los ciudadanos? Escribe unas 120 palabras defendiendo una postura."
+   }
+  },
   {
    "pack_id": "feed-2026-08-28-japon-ciudades-habitables",
    "title": "Las 4 reglas de oro de Japón para hacer más habitables sus ciudades",
@@ -1539,7 +2053,7 @@
     "meta": {
      "title": "Una avalancha en la frontera entre Nepal y Tíbet deja más de 160 muertos y centenares de desaparecidos",
      "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/cje83dn5480o?at_medium=RSS&at_campaign=rss",
+     "url": "https://www.bbc.com/mundo/articles/cje83dn5480o",
      "date_published": "2026-08-27",
      "date_processed": "2026-08-27",
      "tags": [
@@ -1851,7 +2365,7 @@
     "meta": {
      "title": "La pequeña ciudad escocesa que busca migrantes para frenar la caída de su población",
      "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/ceqe400d82zo?at_medium=RSS&at_campaign=rss",
+     "url": "https://www.bbc.com/mundo/articles/ceqe400d82zo",
      "date_published": "2026-08-26",
      "date_processed": "2026-08-27",
      "tags": [
@@ -2007,7 +2521,7 @@
     "meta": {
      "title": "Por qué Cuba no produce suficiente comida y depende del exterior para alimentar a su población",
      "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/c5y013l2pp4o?at_medium=RSS&at_campaign=rss",
+     "url": "https://www.bbc.com/mundo/articles/c5y013l2pp4o",
      "date_published": "2026-08-25",
      "date_processed": "2026-08-26",
      "tags": [
@@ -2488,7 +3002,7 @@
     "meta": {
      "title": "Qué son los péptidos, para qué sirven y qué dice la ciencia sobre los efectos de inyectárselos",
      "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/c79g7qjyx70o?at_medium=RSS&at_campaign=rss",
+     "url": "https://www.bbc.com/mundo/articles/c79g7qjyx70o",
      "date_published": "2026-08-25",
      "date_processed": "2026-08-25",
      "tags": [
@@ -2664,7 +3178,7 @@
     "meta": {
      "title": "La serie fotográfica de pelirrojos que muestra un vínculo inesperado entre los estadounidenses",
      "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/c5ywnnxldn2o?at_medium=RSS&at_campaign=rss",
+     "url": "https://www.bbc.com/mundo/articles/c5ywnnxldn2o",
      "date_published": "2026-08-24",
      "date_processed": "2026-08-25",
      "tags": [
@@ -4037,7 +4551,7 @@
     "meta": {
      "title": "Quién fue John Ponsonby, el diplomático británico que fue clave para la \"creación\" de Uruguay y Bélgica",
      "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/c9qdp7gn45po?at_medium=RSS&at_campaign=rss",
+     "url": "https://www.bbc.com/mundo/articles/c9qdp7gn45po",
      "date_published": "2026-08-23",
      "date_processed": "2026-08-23",
      "tags": [
@@ -4206,7 +4720,7 @@
     "meta": {
      "title": "Una jueza anula la prohibición de visados de EE.UU. a ciudadanos de 75 países, entre ellos Colombia, Uruguay y Cuba",
      "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/cp3r3nn6nnxo?at_medium=RSS&at_campaign=rss",
+     "url": "https://www.bbc.com/mundo/articles/cp3r3nn6nnxo",
      "date_published": "2026-08-22",
      "date_processed": "2026-08-23",
      "tags": [
@@ -4558,7 +5072,7 @@
     "meta": {
      "title": "\"El Estado de bienestar en un edificio\": por qué son tan importantes las bibliotecas en Finlandia (y no solo para prestar libros)",
      "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/cj3gly8jkr2o?at_medium=RSS&at_campaign=rss",
+     "url": "https://www.bbc.com/mundo/articles/cj3gly8jkr2o",
      "date_published": "2026-08-23",
      "date_processed": "2026-08-23",
      "tags": [
@@ -4727,7 +5241,7 @@
     "meta": {
      "title": "¿Por qué sentimos miedo ante cosas que probablemente no nos harán daño?",
      "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/cn8ndd0e459o?at_medium=RSS&at_campaign=rss",
+     "url": "https://www.bbc.com/mundo/articles/cn8ndd0e459o",
      "date_published": "2026-08-23",
      "date_processed": "2026-08-23",
      "tags": [
@@ -4896,7 +5410,7 @@
     "meta": {
      "title": "Qué descubrí cuando viajé de España a Nigeria para enfrentar al estafador que sedujo a mi madre",
      "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/cj9dxw4wxwyo?at_medium=RSS&at_campaign=rss",
+     "url": "https://www.bbc.com/mundo/articles/cj9dxw4wxwyo",
      "date_published": "2026-08-22",
      "date_processed": "2026-08-23",
      "tags": [
@@ -5058,7 +5572,7 @@
     "meta": {
      "title": "La red de tráfico de cocaína que dirigían los alumnos de una de las universidades más conocidas de EE.UU. (y cómo los atraparon)",
      "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/c8dnv832zqvo?at_medium=RSS&at_campaign=rss",
+     "url": "https://www.bbc.com/mundo/articles/c8dnv832zqvo",
      "date_published": "2026-08-22",
      "date_processed": "2026-08-22",
      "tags": [
@@ -5234,7 +5748,7 @@
     "meta": {
      "title": "¿Preferirías US$50.000 o un 50% de posibilidades de ganar US$1 millón? (y qué revela esta pregunta)",
      "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/c330k1j7nn5o?at_medium=RSS&at_campaign=rss",
+     "url": "https://www.bbc.com/mundo/articles/c330k1j7nn5o",
      "date_published": "2026-08-22",
      "date_processed": "2026-08-22",
      "tags": [
@@ -6199,480 +6713,6 @@
      }
     ],
     "opinion_prompt": "Escribe un párrafo breve explicando si crees que otros países pueden replicar el modelo dominicano y qué obstáculos podrían encontrar."
-   }
-  },
-  {
-   "pack_id": "feed-2026-08-21-numbats-australia-extincion",
-   "title": "Numbats, los adorables animales que dan esperanza al país que es el epicentro mundial de la extinción de mamíferos",
-   "source": "BBC Mundo",
-   "date": "2026-08-21",
-   "level": "B1-B2",
-   "topics": [
-    "naturaleza",
-    "conservacion"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-08-21-numbats-australia-extincion",
-    "revision": 1,
-    "meta": {
-     "title": "Numbats, los adorables animales que dan esperanza al país que es el epicentro mundial de la extinción de mamíferos",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/ckg3j4r6l07o",
-     "date_published": "2026-08-21",
-     "date_processed": "2026-08-21",
-     "tags": [
-      "naturaleza",
-      "conservacion"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "Numbats, small insect-eating marsupials native to Australia, have become a symbol of hope for wildlife conservation in the country. Decades of work in protected reserves, free from introduced predators such as foxes and cats, have allowed the population of these animals, once on the brink of extinction, to begin recovering slowly.\n\nAustralia is, according to several studies, the country with the highest mammal extinction rate on the planet, largely due to invasive species and habitat loss. Conservationists hope that the numbat's partial success can serve as a model for protecting other threatened species, although they warn that steady funding and long-term programs are needed to prevent further losses.",
-    "resumen_es": "Los numbats, pequeños marsupiales insectívoros originarios de Australia, se han convertido en símbolo de esperanza para la conservación de la fauna del país. Décadas de trabajo en reservas protegidas, libres de depredadores introducidos como zorros y gatos, han permitido que la población de estos animales, antes al borde de la extinción, comience a recuperarse lentamente.\n\nAustralia es, según varios estudios, el país con la tasa más alta de extinción de mamíferos del planeta, en gran parte debido a especies invasoras y a la pérdida de hábitat. Los conservacionistas esperan que el éxito parcial del numbat sirva de modelo para proteger a otras especies amenazadas, aunque advierten que se necesita financiación constante y programas a largo plazo para evitar nuevas pérdidas.",
-    "vocab": [
-     {
-      "front": "marsupial",
-      "pos": "noun",
-      "back": "marsupial",
-      "example": "El numbat es un pequeño marsupial australiano.",
-      "tier": "B2"
-     },
-     {
-      "front": "insectívoro",
-      "pos": "adj",
-      "back": "insect-eating",
-      "example": "Es un animal insectívoro que se alimenta de termitas.",
-      "tier": "B2"
-     },
-     {
-      "front": "depredador",
-      "pos": "noun",
-      "back": "predator",
-      "example": "Los zorros son depredadores introducidos en Australia.",
-      "tier": "B1"
-     },
-     {
-      "front": "especie invasora",
-      "pos": "noun",
-      "back": "invasive species",
-      "example": "Las especies invasoras amenazan a la fauna local.",
-      "tier": "B2"
-     },
-     {
-      "front": "al borde de",
-      "pos": "phrase",
-      "back": "on the brink of",
-      "example": "La especie estaba al borde de la extinción.",
-      "tier": "B2"
-     },
-     {
-      "front": "recuperarse",
-      "pos": "verb",
-      "back": "to recover",
-      "example": "La población empieza a recuperarse poco a poco.",
-      "tier": "B1"
-     },
-     {
-      "front": "tasa de extinción",
-      "pos": "noun",
-      "back": "extinction rate",
-      "example": "Australia tiene la tasa de extinción más alta del mundo.",
-      "tier": "B2"
-     },
-     {
-      "front": "pérdida de hábitat",
-      "pos": "noun",
-      "back": "habitat loss",
-      "example": "La pérdida de hábitat afecta a muchas especies.",
-      "tier": "B2"
-     },
-     {
-      "front": "conservacionista",
-      "pos": "noun",
-      "back": "conservationist",
-      "example": "Los conservacionistas trabajan para proteger la fauna.",
-      "tier": "B1"
-     },
-     {
-      "front": "amenazado",
-      "pos": "adj",
-      "back": "threatened",
-      "example": "Muchas especies amenazadas viven en reservas protegidas.",
-      "tier": "B1"
-     },
-     {
-      "front": "financiación",
-      "pos": "noun",
-      "back": "funding",
-      "example": "Se necesita financiación constante para estos programas.",
-      "tier": "B2"
-     },
-     {
-      "front": "a largo plazo",
-      "pos": "phrase",
-      "back": "in the long term",
-      "example": "Los programas deben planearse a largo plazo.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Los numbats, pequeños marsupiales insectívoros originarios de Australia, se han convertido en símbolo de esperanza para la conservación de la fauna del país.",
-      "point": "Aposición extensa entre sujeto y verbo + 'convertirse en'",
-      "explanation": "La frase descriptiva entre comas separa el sujeto (Los numbats) del verbo (se han convertido), y 'convertirse en' significa 'to become'.",
-      "why_tricky": "La distancia entre el sujeto y el verbo, causada por la larga aposición, dificulta que los estudiantes reconozcan la concordancia."
-     },
-     {
-      "sentence": "Australia es, según varios estudios, el país con la tasa más alta de extinción de mamíferos del planeta, en gran parte debido a especies invasoras y a la pérdida de hábitat.",
-      "point": "Superlativo 'el país con la tasa más alta de' + inciso parentético",
-      "explanation": "La estructura del superlativo en español difiere del inglés 'the country with the highest rate', y el inciso 'según varios estudios' interrumpe la oración principal.",
-      "why_tricky": "El orden de palabras del superlativo y el inciso parentético que corta la oración principal confunden a los estudiantes acostumbrados al orden inglés."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "estar en peligro de extinción",
-      "meaning": "to be endangered",
-      "example": "Muchas especies están en peligro de extinción en Australia."
-     },
-     {
-      "phrase": "dar un respiro a",
-      "meaning": "to give relief to, to give a break to",
-      "example": "La reserva protegida les da un respiro a los numbats."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué medidas han ayudado a que la población de numbats empiece a recuperarse?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué crees que Australia tiene una tasa tan alta de extinción de mamíferos?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué otras soluciones propondrías para proteger especies amenazadas?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Escribe tu opinión sobre si los zoológicos y reservas son suficientes para salvar especies en peligro, o si se necesitan otras medidas."
-   }
-  },
-  {
-   "pack_id": "feed-2026-08-21-migrantes-cubanos-yucatan",
-   "title": "México: rescatan a 16 migrantes cubanos frente a la Península de Yucatán",
-   "source": "RFI",
-   "date": "2026-08-21",
-   "level": "B1-B2",
-   "topics": [
-    "migracion",
-    "mexico"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-08-21-migrantes-cubanos-yucatan",
-    "revision": 1,
-    "meta": {
-     "title": "México: rescatan a 16 migrantes cubanos frente a la Península de Yucatán",
-     "source": "RFI",
-     "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260821-m%C3%A9xico-rescatan-a-16-migrantes-cubanos-frente-a-la-pen%C3%ADnsula-de-yucat%C3%A1n",
-     "date_published": "2026-08-21",
-     "date_processed": "2026-08-21",
-     "tags": [
-      "migracion",
-      "mexico"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "Mexican authorities rescued sixteen Cuban migrants who were adrift off the coast of the Yucatán Peninsula, aboard a precarious boat without fuel or sufficient supplies. The group, made up of men, women and at least one minor, was located thanks to a tip from local fishermen and brought safely to shore.\n\nThe case adds to a long list of clandestine journeys seeking to reach the United States through the Caribbean and the Gulf of Mexico, routes that are increasingly monitored but also increasingly dangerous. Humanitarian organizations insist that as long as the economic crisis and lack of opportunities in Cuba persist, there will continue to be people willing to risk their lives at sea.",
-    "resumen_es": "Autoridades mexicanas rescataron a dieciséis migrantes cubanos que viajaban a la deriva frente a las costas de la península de Yucatán, en una embarcación precaria sin combustible ni suministros suficientes. El grupo, compuesto por hombres, mujeres y al menos un menor, fue localizado gracias a un aviso de pescadores de la zona y trasladado sano y salvo a tierra firme.\n\nEl caso se suma a una larga lista de travesías clandestinas que buscan llegar a Estados Unidos a través del Caribe y el Golfo de México, rutas cada vez más vigiladas pero también más peligrosas. Organizaciones humanitarias insisten en que, mientras persistan la crisis económica y la falta de oportunidades en Cuba, seguirán existiendo personas dispuestas a arriesgar la vida en el mar.",
-    "vocab": [
-     {
-      "front": "embarcación precaria",
-      "pos": "noun",
-      "back": "makeshift/precarious boat",
-      "example": "Viajaban en una embarcación precaria sin suministros.",
-      "tier": "B2"
-     },
-     {
-      "front": "travesía clandestina",
-      "pos": "noun",
-      "back": "clandestine crossing",
-      "example": "La travesía clandestina duró varios días.",
-      "tier": "B2"
-     },
-     {
-      "front": "suministro",
-      "pos": "noun",
-      "back": "supply",
-      "example": "No tenían suministros suficientes para el viaje.",
-      "tier": "B1"
-     },
-     {
-      "front": "trasladar",
-      "pos": "verb",
-      "back": "to transport, to move",
-      "example": "Los trasladaron sanos y salvos a tierra firme.",
-      "tier": "B1"
-     },
-     {
-      "front": "sano y salvo",
-      "pos": "phrase",
-      "back": "safe and sound",
-      "example": "Llegaron sanos y salvos gracias al aviso de los pescadores.",
-      "tier": "B1"
-     },
-     {
-      "front": "arriesgar la vida",
-      "pos": "phrase",
-      "back": "to risk one's life",
-      "example": "Muchos arriesgan la vida cruzando el mar.",
-      "tier": "B2"
-     },
-     {
-      "front": "vigilado",
-      "pos": "adj",
-      "back": "monitored, patrolled",
-      "example": "Las rutas marítimas están cada vez más vigiladas.",
-      "tier": "B2"
-     },
-     {
-      "front": "organización humanitaria",
-      "pos": "noun",
-      "back": "humanitarian organization",
-      "example": "Las organizaciones humanitarias piden más ayuda.",
-      "tier": "B1"
-     },
-     {
-      "front": "persistir",
-      "pos": "verb",
-      "back": "to persist",
-      "example": "Mientras persista la crisis, seguirá la migración.",
-      "tier": "B2"
-     },
-     {
-      "front": "falta de oportunidades",
-      "pos": "phrase",
-      "back": "lack of opportunities",
-      "example": "La falta de oportunidades empuja a muchos a emigrar.",
-      "tier": "B1"
-     },
-     {
-      "front": "aviso",
-      "pos": "noun",
-      "back": "tip, notice, warning",
-      "example": "Fueron rescatados gracias a un aviso de pescadores.",
-      "tier": "B1"
-     },
-     {
-      "front": "tierra firme",
-      "pos": "noun",
-      "back": "dry land, mainland",
-      "example": "Llegaron a tierra firme tras horas en el mar.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Autoridades mexicanas rescataron a dieciséis migrantes cubanos que viajaban a la deriva frente a las costas de la península de Yucatán, en una embarcación precaria sin combustible ni suministros suficientes.",
-      "point": "La 'a' personal ante complemento directo humano",
-      "explanation": "'Rescataron A dieciséis migrantes' lleva la 'a' personal porque el complemento directo es un grupo específico de personas.",
-      "why_tricky": "El inglés no tiene un marcador equivalente, así que los estudiantes suelen omitir la 'a' personal al traducir directamente."
-     },
-     {
-      "sentence": "Organizaciones humanitarias insisten en que, mientras persistan la crisis económica y la falta de oportunidades en Cuba, seguirán existiendo personas dispuestas a arriesgar la vida en el mar.",
-      "point": "Subjuntivo tras 'mientras' para condiciones futuras o inciertas",
-      "explanation": "'Mientras persistan' usa subjuntivo porque describe una condición continua e incierta en el futuro, distinta de 'mientras' con indicativo para acciones simultáneas y factuales.",
-      "why_tricky": "Los estudiantes suelen usar el indicativo por defecto con 'mientras', ya que normalmente se asocia con acciones simultáneas reales."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "jugarse la vida",
-      "meaning": "to risk one's life, to gamble with life",
-      "example": "Muchos migrantes se juegan la vida por buscar un futuro mejor."
-     },
-     {
-      "phrase": "poner rumbo a",
-      "meaning": "to head towards",
-      "example": "La embarcación puso rumbo a Estados Unidos antes de quedar a la deriva."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué llevó a las autoridades mexicanas a rescatar a los migrantes cubanos?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué crees que tantas personas arriesgan su vida cruzando el mar hacia Estados Unidos?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué soluciones podrían reducir este tipo de travesías peligrosas?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Escribe un párrafo sobre qué responsabilidad crees que tienen los países de la región frente a las crisis migratorias como esta."
-   }
-  },
-  {
-   "pack_id": "feed-2026-08-21-pescadores-rescatados-mexico",
-   "title": "Los pescadores rescatados en México tras pasar cinco días a la deriva en el mar aferrados a una hielera",
-   "source": "BBC Mundo",
-   "date": "2026-08-20",
-   "level": "B1-B2",
-   "topics": [
-    "supervivencia",
-    "México"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-08-21-pescadores-rescatados-mexico",
-    "revision": 1,
-    "meta": {
-     "title": "Los pescadores rescatados en México tras pasar cinco días a la deriva en el mar aferrados a una hielera",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/cx2d9yvj4qeo",
-     "date_published": "2026-08-20",
-     "date_processed": "2026-08-21",
-     "tags": [
-      "supervivencia",
-      "México"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "Daniel and Jose, two small-scale fishermen from Chiapas in southern Mexico, spent five days adrift on the open sea after their boat broke down. With no drinking water or food, the two men managed to survive by clinging to a cooler for the entire ordeal. The Mexican Navy finally located them at a point where, according to the rescuers themselves, spotting them had seemed almost impossible.\n\nThe case has highlighted the risks faced by small-scale fishing in the region, an activity that thousands of coastal families depend on despite the lack of proper safety equipment. Local authorities have called for stronger emergency protocols for small boats, while Daniel and Jose recover surrounded by relatives, grateful to have survived a wait that many described as miraculous.",
-    "resumen_es": "Daniel y José, dos pescadores artesanales de Chiapas, en el sur de México, pasaron cinco días a la deriva en alta mar tras sufrir una avería en su embarcación. Sin agua potable ni comida, los dos hombres lograron sobrevivir gracias a una hielera a la que se aferraron durante toda la travesía. La Armada de México los localizó finalmente en un punto donde, según los propios rescatistas, parecía casi imposible detectarlos.\n\nEl caso ha puesto de relieve los riesgos que enfrenta la pesca artesanal en la región, una actividad de la que dependen miles de familias costeras pese a la falta de equipos de seguridad adecuados. Autoridades locales han pedido reforzar los protocolos de emergencia para embarcaciones pequeñas, mientras Daniel y José se recuperan rodeados de sus familiares, agradecidos por haber sobrevivido a una espera que muchos calificaron de milagrosa.",
-    "vocab": [
-     {
-      "front": "pescador artesanal",
-      "pos": "noun",
-      "back": "small-scale fisherman",
-      "example": "Es pescador artesanal desde hace veinte años.",
-      "tier": "B1"
-     },
-     {
-      "front": "a la deriva",
-      "pos": "phrase",
-      "back": "adrift",
-      "example": "El barco quedó a la deriva tras el motor averiado.",
-      "tier": "B2"
-     },
-     {
-      "front": "alta mar",
-      "pos": "noun",
-      "back": "open sea",
-      "example": "Pasaron cinco días en alta mar.",
-      "tier": "B1"
-     },
-     {
-      "front": "avería",
-      "pos": "noun",
-      "back": "breakdown, malfunction",
-      "example": "Sufrieron una avería en el motor.",
-      "tier": "B2"
-     },
-     {
-      "front": "aferrarse a",
-      "pos": "verb",
-      "back": "to cling to",
-      "example": "Se aferraron a una hielera para sobrevivir.",
-      "tier": "B2"
-     },
-     {
-      "front": "travesía",
-      "pos": "noun",
-      "back": "crossing, voyage",
-      "example": "La travesía duró cinco días.",
-      "tier": "B2"
-     },
-     {
-      "front": "localizar",
-      "pos": "verb",
-      "back": "to locate",
-      "example": "La Armada los localizó cerca de la costa.",
-      "tier": "B1"
-     },
-     {
-      "front": "poner de relieve",
-      "pos": "phrase",
-      "back": "to highlight",
-      "example": "El caso puso de relieve los riesgos del oficio.",
-      "tier": "B2"
-     },
-     {
-      "front": "embarcación",
-      "pos": "noun",
-      "back": "vessel, boat",
-      "example": "La embarcación era pequeña y sin radio.",
-      "tier": "B1"
-     },
-     {
-      "front": "reforzar",
-      "pos": "verb",
-      "back": "to strengthen",
-      "example": "Piden reforzar los protocolos de seguridad.",
-      "tier": "B1"
-     },
-     {
-      "front": "rescatista",
-      "pos": "noun",
-      "back": "rescuer",
-      "example": "Los rescatistas no esperaban encontrarlos con vida.",
-      "tier": "B1"
-     },
-     {
-      "front": "milagroso/a",
-      "pos": "adj",
-      "back": "miraculous",
-      "example": "Calificaron el rescate de milagroso.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Daniel y José, dos pescadores artesanales de Chiapas, en el sur de México, pasaron cinco días a la deriva en alta mar tras sufrir una avería en su embarcación.",
-      "point": "tras + infinitivo para expresar posterioridad",
-      "explanation": "\"Tras sufrir\" indica que la avería ocurrió inmediatamente antes de quedar a la deriva, sin necesidad de un verbo conjugado.",
-      "why_tricky": "Los estudiantes suelen usar \"después de que\" con verbo conjugado en vez de \"tras + infinitivo\", más propio de un registro periodístico."
-     },
-     {
-      "sentence": "Sin agua potable ni comida, los dos hombres lograron sobrevivir gracias a una hielera a la que se aferraron durante toda la travesía.",
-      "point": "pronombre relativo con preposición \"a la que\"",
-      "explanation": "\"A la que\" retoma \"una hielera\" e incorpora la preposición exigida por \"aferrarse a\".",
-      "why_tricky": "Combinar preposición + artículo + \"que\" en una sola construcción resulta difícil para hablantes no nativos."
-     },
-     {
-      "sentence": "El caso ha puesto de relieve los riesgos que enfrenta la pesca artesanal en la región, una actividad de la que dependen miles de familias costeras pese a la falta de equipos de seguridad adecuados.",
-      "point": "uso de \"pese a\" + sustantivo",
-      "explanation": "\"Pese a\" introduce una idea de contraste equivalente a \"a pesar de\", seguida aquí de un sustantivo en lugar de una oración completa.",
-      "why_tricky": "Los estudiantes de B1 suelen limitarse a \"aunque\" y evitan conectores concesivos más variados como \"pese a\"."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "a la deriva",
-      "meaning": "sin rumbo ni control, dejado al azar",
-      "example": "El proyecto quedó a la deriva sin financiación."
-     },
-     {
-      "phrase": "poner de relieve",
-      "meaning": "destacar o hacer evidente algo",
-      "example": "La crisis puso de relieve la falta de recursos."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué crees que sintieron Daniel y José durante los cinco días a la deriva?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué crees que la pesca artesanal sigue siendo tan peligrosa pese a los avances tecnológicos?",
-      "type": "open"
-     },
-     {
-      "q": "¿Qué medidas de seguridad propondrías tú para proteger a los pescadores artesanales?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Escribe un párrafo breve sobre qué harías tú para sobrevivir si te quedaras varado en el mar durante varios días."
    }
   }
  ]
