@@ -1,519 +1,519 @@
 {
- "generated_at": "2026-08-29T07:11:04Z",
+ "generated_at": "2026-08-29T07:19:04Z",
  "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
  "packs": [
   {
-   "pack_id": "feed-2026-08-29-groenlandia-diu",
-   "title": "Groenlandia: Dinamarca indemnizará a mujeres víctimas de la colocación forzada de dispositivos intrauterinos",
+   "pack_id": "feed-2026-08-29-celine-dion-paris",
+   "title": "Francia: Céline Dion ya está en París para sus dos semanas de conciertos",
    "source": "RFI Español",
    "date": "2026-08-28",
    "level": "B1-B2",
    "topics": [
-    "derechos",
-    "sociedad"
+    "música",
+    "cultura"
    ],
    "pack": {
-    "pack_id": "feed-2026-08-29-groenlandia-diu",
+    "pack_id": "feed-2026-08-29-celine-dion-paris",
     "revision": 1,
     "meta": {
-     "title": "Groenlandia: Dinamarca indemnizará a mujeres víctimas de la colocación forzada de dispositivos intrauterinos",
+     "title": "Francia: Céline Dion ya está en París para sus dos semanas de conciertos",
      "source": "RFI Español",
-     "url": "https://www.rfi.fr/es/europa/20260828-groenlandia-dinamarca-indemnizar%C3%A1-a-mujeres-v%C3%ADctimas-de-la-colocaci%C3%B3n-forzada-de-dispositivos-intrauterinos",
+     "url": "https://www.rfi.fr/es/francia/20260828-francia-c%C3%A9line-dion-ya-est%C3%A1-en-par%C3%ADs-para-sus-dos-semanas-de-conciertos",
      "date_published": "2026-08-28",
      "date_processed": "2026-08-29",
      "tags": [
-      "derechos",
-      "sociedad"
+      "música",
+      "cultura"
      ],
      "level": "B1-B2"
     },
-    "summary_en": "The Danish government has announced that it will compensate Greenlandic women who had an intrauterine device fitted without their consent. For decades, many young women underwent this procedure as part of the health policies applied in Greenland, which was then under Danish administration. The decision brings to an end a scandal that has marked several generations and that the women affected had spent years denouncing in the courts.\n\nFor the victims, the agreement amounts to a late but symbolic acknowledgement. Many insist, however, that money is not enough and are demanding a full investigation into what happened. The case forms part of a wider debate about the Danish colonial past on the island and about the current relationship between Copenhagen and Nuuk. In recent years, Greenland has strengthened its autonomy and is demanding that the abuses committed be clarified, so that episodes of this kind do not happen again.",
-    "resumen_es": "El Gobierno de Dinamarca ha anunciado que indemnizará a las mujeres groenlandesas a las que se colocó un dispositivo intrauterino sin su consentimiento. Durante décadas, muchas jóvenes fueron sometidas a este procedimiento dentro de las políticas sanitarias aplicadas en Groenlandia, entonces bajo administración danesa. La decisión pone fin a un escándalo que ha marcado a varias generaciones y que las afectadas llevaban años denunciando ante los tribunales.\n\nPara las víctimas, el acuerdo supone un reconocimiento tardío pero simbólico. Muchas insisten, sin embargo, en que el dinero no basta y reclaman una investigación completa sobre lo ocurrido. El caso se inscribe en un debate más amplio sobre el pasado colonial danés en la isla y sobre las relaciones actuales entre Copenhague y Nuuk. En los últimos años, Groenlandia ha reforzado su autonomía y exige que se aclaren los abusos cometidos, de modo que este tipo de episodios no vuelva a repetirse.",
+    "summary_en": "Celine Dion is already in Paris, where in about two weeks she will give a series of concerts in the French capital. The Canadian singer arrived on Friday and her presence has stirred up enormous anticipation among the public and the press. This is one of the most eagerly awaited events of the season, after a long period away from the big stages for health reasons.\n\nHer return has a value that goes beyond the music. Dion suffers from a rare neurological illness that affects muscle control and that forced her to cancel entire tours, so every public appearance is followed with particular attention. For her fans, seeing her sing live again amounts to something like a shared victory. Tickets sold out within hours and the city is getting ready to welcome thousands of visitors.",
+    "resumen_es": "Céline Dion ya se encuentra en París, donde dentro de unas dos semanas ofrecerá una serie de conciertos en la capital francesa. La cantante canadiense llegó este viernes y su presencia ha despertado una enorme expectación entre el público y la prensa. Se trata de una de las citas más esperadas de la temporada, después de un largo periodo alejada de los grandes escenarios por motivos de salud.\n\nSu regreso tiene un valor que va más allá de la música. Dion padece una enfermedad neurológica poco frecuente que afecta al control muscular y que la obligó a suspender giras enteras, de modo que cada aparición pública se sigue con especial atención. Para sus seguidores, verla cantar de nuevo en directo supone algo parecido a una victoria compartida. Las entradas se agotaron en cuestión de horas y la ciudad se prepara para recibir a miles de visitantes.",
     "vocab": [
      {
-      "front": "indemnizar",
+      "front": "encontrarse (en un lugar)",
       "pos": "verb",
-      "back": "to compensate, to pay damages to",
-      "example": "El Estado tendrá que indemnizar a las familias afectadas.",
-      "tier": "B2"
-     },
-     {
-      "front": "el consentimiento",
-      "pos": "noun",
-      "back": "consent",
-      "example": "Ninguna intervención puede hacerse sin el consentimiento del paciente.",
+      "back": "to be (located) somewhere",
+      "example": "El museo se encuentra en el centro histórico.",
       "tier": "B1"
      },
      {
-      "front": "someter a alguien a algo",
+      "front": "ofrecer un concierto",
       "pos": "phrase",
-      "back": "to subject someone to something",
-      "example": "Los sometieron a un interrogatorio de tres horas.",
-      "tier": "B2"
-     },
-     {
-      "front": "el escándalo",
-      "pos": "noun",
-      "back": "scandal",
-      "example": "El escándalo obligó al ministro a dimitir.",
+      "back": "to give a concert",
+      "example": "El grupo ofrecerá tres conciertos en Madrid.",
       "tier": "B1"
      },
      {
-      "front": "denunciar",
+      "front": "despertar expectación",
+      "pos": "phrase",
+      "back": "to arouse anticipation",
+      "example": "El anuncio despertó una gran expectación.",
+      "tier": "B2"
+     },
+     {
+      "front": "la cita",
+      "pos": "noun",
+      "back": "event, appointment, date",
+      "example": "Es la cita cultural más importante del año.",
+      "tier": "B2"
+     },
+     {
+      "front": "la temporada",
+      "pos": "noun",
+      "back": "season",
+      "example": "La temporada de teatro empieza en octubre.",
+      "tier": "B1"
+     },
+     {
+      "front": "el escenario",
+      "pos": "noun",
+      "back": "stage",
+      "example": "Salió al escenario entre aplausos.",
+      "tier": "B1"
+     },
+     {
+      "front": "padecer",
       "pos": "verb",
-      "back": "to report, to denounce (formally)",
-      "example": "Denunció el robo en la comisaría del barrio.",
-      "tier": "B1"
-     },
-     {
-      "front": "los tribunales",
-      "pos": "noun",
-      "back": "the courts",
-      "example": "El asunto acabará en los tribunales.",
+      "back": "to suffer from (an illness)",
+      "example": "Padece una enfermedad crónica desde niño.",
       "tier": "B2"
      },
      {
-      "front": "tardío",
+      "front": "poco frecuente",
       "pos": "adj",
-      "back": "late, belated",
-      "example": "Fue un reconocimiento tardío, pero importante.",
-      "tier": "B2"
-     },
-     {
-      "front": "reclamar",
-      "pos": "verb",
-      "back": "to demand, to claim",
-      "example": "Los vecinos reclaman más transporte público.",
+      "back": "rare, uncommon",
+      "example": "Es un trastorno poco frecuente.",
       "tier": "B1"
      },
      {
-      "front": "inscribirse en un debate",
+      "front": "la gira",
+      "pos": "noun",
+      "back": "tour",
+      "example": "Cancelaron la gira por Europa.",
+      "tier": "B1"
+     },
+     {
+      "front": "suspender",
+      "pos": "verb",
+      "back": "to call off, to postpone",
+      "example": "Han suspendido el partido por la lluvia.",
+      "tier": "B1"
+     },
+     {
+      "front": "en directo",
       "pos": "phrase",
-      "back": "to form part of a debate",
-      "example": "Su propuesta se inscribe en un debate muy antiguo.",
+      "back": "live",
+      "example": "Prefiero escuchar música en directo.",
+      "tier": "B1"
+     },
+     {
+      "front": "agotarse",
+      "pos": "verb",
+      "back": "to sell out, to run out",
+      "example": "Las entradas se agotaron enseguida.",
+      "tier": "B2"
+     },
+     {
+      "front": "el seguidor",
+      "pos": "noun",
+      "back": "fan, follower",
+      "example": "Sus seguidores la esperaban en el aeropuerto.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Céline Dion ya se encuentra en París, donde dentro de unas dos semanas ofrecerá una serie de conciertos en la capital francesa.",
+      "point": "dentro de + time for future reference",
+      "explanation": "Dentro de dos semanas means 'in two weeks from now' and points forward. To say 'within' a completed period Spanish uses en, as in lo hizo en dos semanas.",
+      "why_tricky": "English uses 'in' for both meanings, so learners write en dos semanas when they mean a future moment."
+     },
+     {
+      "sentence": "Dion padece una enfermedad neurológica poco frecuente que afecta al control muscular y que la obligó a suspender giras enteras, de modo que cada aparición pública se sigue con especial atención.",
+      "point": "afectar a and obligar a + infinitive",
+      "explanation": "Afectar takes the preposition a before its object in careful Spanish: afecta al control muscular. Obligar also needs a before the infinitive: la obligó a suspender.",
+      "why_tricky": "Both verbs look transitive to an English speaker, so the a is regularly dropped in learner writing."
+     },
+     {
+      "sentence": "Para sus seguidores, verla cantar de nuevo en directo supone algo parecido a una victoria compartida.",
+      "point": "Infinitive as subject with an attached pronoun",
+      "explanation": "Verla cantar works as the subject of supone. The object pronoun la attaches to the end of the infinitive, and a second infinitive follows directly with no preposition after verbs of perception.",
+      "why_tricky": "Learners separate the pronoun (la ver) or insert que, and English needs a gerund here rather than an infinitive."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "en cuestión de horas",
+      "meaning": "within a matter of hours",
+      "example": "El vídeo se hizo viral en cuestión de horas."
+     },
+     {
+      "phrase": "ir más allá de",
+      "meaning": "to go beyond",
+      "example": "El problema va más allá del dinero."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "¿Por qué se considera especial el regreso de Céline Dion a los escenarios?",
+      "type": "open"
+     },
+     {
+      "q": "¿Cómo ha reaccionado el público ante el anuncio de los conciertos?",
+      "type": "open"
+     },
+     {
+      "q": "¿Qué quiere decir el texto cuando habla de una victoria compartida?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "¿Qué importancia tiene para un artista volver a actuar en directo después de una enfermedad grave? Escribe unas 120 palabras."
+   }
+  },
+  {
+   "pack_id": "feed-2026-08-29-francia-recesion",
+   "title": "Francia evita la recesión, pero la economía acumula señales de deterioro",
+   "source": "RFI Español",
+   "date": "2026-08-28",
+   "level": "B1-B2",
+   "topics": [
+    "economía",
+    "Francia"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-29-francia-recesion",
+    "revision": 1,
+    "meta": {
+     "title": "Francia evita la recesión, pero la economía acumula señales de deterioro",
+     "source": "RFI Español",
+     "url": "https://www.rfi.fr/es/francia/20260828-francia-evita-la-recesi%C3%B3n-pero-la-econom%C3%ADa-acumula-se%C3%B1ales-de-deterioro",
+     "date_published": "2026-08-28",
+     "date_processed": "2026-08-29",
+     "tags": [
+      "economía",
+      "Francia"
+     ],
+     "level": "B1-B2"
+    },
+    "summary_en": "France has narrowly avoided recession, but the latest economic figures are fuelling concern. The revision of the growth figures turned out to be less favourable than expected and confirms that activity is cooling down. Household consumption is moving forward with difficulty and companies are being cautious when it comes to investing, in an international context that is far from stable.\n\nOn top of this comes the debate about the public finances. The government has to reduce the deficit without slowing the economy down even further, a delicate balance that divides the parties and the economists themselves. If growth stalls, tax revenue will fall and the adjustment will be more painful; if spending is cut too quickly, domestic demand may suffer. The coming months will be decisive in showing which of the two scenarios ends up prevailing.",
+    "resumen_es": "Francia ha esquivado por poco la recesión, pero los últimos datos económicos alimentan la preocupación. La revisión de las cifras de crecimiento ha resultado menos favorable de lo esperado y confirma que la actividad se está enfriando. El consumo de los hogares avanza con dificultad y las empresas se muestran prudentes a la hora de invertir, en un contexto internacional poco estable.\n\nA esto se suma el debate sobre las cuentas públicas. El Gobierno debe reducir el déficit sin frenar todavía más la economía, un equilibrio delicado que divide a los partidos y a los propios economistas. Si el crecimiento se estanca, los ingresos fiscales bajarán y el ajuste será más doloroso; si se recorta demasiado deprisa, la demanda interna puede resentirse. Los próximos meses serán decisivos para saber cuál de los dos escenarios acaba imponiéndose.",
+    "vocab": [
+     {
+      "front": "esquivar",
+      "pos": "verb",
+      "back": "to dodge, to narrowly avoid",
+      "example": "La empresa esquivó la quiebra en el último momento.",
+      "tier": "B2"
+     },
+     {
+      "front": "la recesión",
+      "pos": "noun",
+      "back": "recession",
+      "example": "El país entró en recesión el año pasado.",
+      "tier": "B2"
+     },
+     {
+      "front": "alimentar la preocupación",
+      "pos": "phrase",
+      "back": "to fuel concern",
+      "example": "Los datos alimentan la preocupación de los mercados.",
+      "tier": "B2"
+     },
+     {
+      "front": "la cifra",
+      "pos": "noun",
+      "back": "figure, number",
+      "example": "Las cifras del paro han mejorado.",
+      "tier": "B1"
+     },
+     {
+      "front": "enfriarse",
+      "pos": "verb",
+      "back": "to cool down, to slow",
+      "example": "El mercado inmobiliario se está enfriando.",
+      "tier": "B2"
+     },
+     {
+      "front": "el hogar",
+      "pos": "noun",
+      "back": "household, home",
+      "example": "El gasto de los hogares ha caído.",
+      "tier": "B1"
+     },
+     {
+      "front": "prudente",
+      "pos": "adj",
+      "back": "cautious",
+      "example": "Los inversores se muestran prudentes.",
+      "tier": "B1"
+     },
+     {
+      "front": "las cuentas públicas",
+      "pos": "noun",
+      "back": "public finances",
+      "example": "Las cuentas públicas siguen en números rojos.",
       "tier": "C1"
      },
      {
-      "front": "reforzar",
-      "pos": "verb",
-      "back": "to strengthen, to reinforce",
-      "example": "El país quiere reforzar su independencia energética.",
+      "front": "el déficit",
+      "pos": "noun",
+      "back": "deficit",
+      "example": "Quieren reducir el déficit en dos años.",
       "tier": "B2"
      },
      {
-      "front": "aclarar",
+      "front": "estancarse",
       "pos": "verb",
-      "back": "to clarify, to clear up",
-      "example": "Todavía falta aclarar quién dio la orden.",
-      "tier": "B1"
+      "back": "to stagnate, to stall",
+      "example": "Las negociaciones se han estancado.",
+      "tier": "B2"
      },
      {
-      "front": "el abuso",
+      "front": "el ingreso fiscal",
       "pos": "noun",
-      "back": "abuse, misuse of power",
-      "example": "Investigan varios abusos cometidos en el centro.",
-      "tier": "B1"
+      "back": "tax revenue",
+      "example": "Los ingresos fiscales cayeron un tres por ciento.",
+      "tier": "C1"
      },
      {
-      "front": "bastar",
+      "front": "recortar",
       "pos": "verb",
-      "back": "to be enough",
-      "example": "No basta con pedir perdón.",
+      "back": "to cut (spending)",
+      "example": "Han recortado el presupuesto de cultura.",
+      "tier": "B2"
+     },
+     {
+      "front": "resentirse",
+      "pos": "verb",
+      "back": "to suffer, to be adversely affected",
+      "example": "Si duermes poco, tu salud se resiente.",
+      "tier": "C1"
+     },
+     {
+      "front": "imponerse",
+      "pos": "verb",
+      "back": "to prevail, to win out",
+      "example": "Al final se impuso la opción más prudente.",
       "tier": "B2"
      }
     ],
     "grammar": [
      {
-      "sentence": "El Gobierno de Dinamarca ha anunciado que indemnizará a las mujeres groenlandesas a las que se colocó un dispositivo intrauterino sin su consentimiento.",
-      "point": "Relative clause with preposition: a las que",
-      "explanation": "When the relative pronoun is the indirect object of the verb, Spanish keeps the preposition before the article: a las que se colocó. English would say 'who had a device fitted' and drop the preposition altogether.",
-      "why_tricky": "Learners often write 'que se colocó' and lose the link between the women and the action, which makes the sentence ungrammatical."
+      "sentence": "La revisión de las cifras de crecimiento ha resultado menos favorable de lo esperado y confirma que la actividad se está enfriando.",
+      "point": "Comparison with de lo esperado",
+      "explanation": "Before a clause or a participle used as a noun, Spanish comparatives take de lo rather than que: menos favorable de lo esperado. Que is reserved for comparing two nouns directly.",
+      "why_tricky": "Learners transfer 'than expected' as que esperado, which is ungrammatical in Spanish."
      },
      {
-      "sentence": "En los últimos años, Groenlandia ha reforzado su autonomía y exige que se aclaren los abusos cometidos, de modo que este tipo de episodios no vuelva a repetirse.",
-      "point": "Subjunctive after exigir que and after de modo que expressing purpose",
-      "explanation": "Exigir que triggers the subjunctive: se aclaren. De modo que takes the subjunctive (vuelva) when it expresses an intended result, and the indicative when it reports an actual one.",
-      "why_tricky": "De modo que switches mood depending on meaning, so the same connector can be followed by either form."
+      "sentence": "El Gobierno debe reducir el déficit sin frenar todavía más la economía, un equilibrio delicado que divide a los partidos y a los propios economistas.",
+      "point": "sin + infinitive, and the personal a with groups of people",
+      "explanation": "Sin plus the infinitive replaces the English 'without' plus gerund. Dividir takes the personal a because its object is human, and the a is repeated before each element of the list.",
+      "why_tricky": "The gerund transfer (sin frenando) is common, and learners drop the second a in coordinated objects."
      },
      {
-      "sentence": "La decisión pone fin a un escándalo que ha marcado a varias generaciones y que las afectadas llevaban años denunciando ante los tribunales.",
-      "point": "llevar + time + gerund",
-      "explanation": "Llevaban años denunciando expresses an action continuing over a period, equivalent to 'had spent years denouncing'. Spanish uses llevar plus a time expression plus the gerund, never hacer in this structure.",
-      "why_tricky": "English speakers reach for 'hacía años que denunciaban', which is correct but different in register and word order."
+      "sentence": "Si el crecimiento se estanca, los ingresos fiscales bajarán y el ajuste será más doloroso; si se recorta demasiado deprisa, la demanda interna puede resentirse.",
+      "point": "Real conditional with si plus present",
+      "explanation": "In an open condition the si clause stays in the present indicative and the consequence takes the future or the present. The impersonal si se recorta hides the agent, a very frequent device in economic writing.",
+      "why_tricky": "Learners put the future in the si clause, and the impersonal se is easily mistaken for a reflexive."
      }
     ],
     "idioms": [
      {
-      "phrase": "poner fin a algo",
-      "meaning": "to put an end to something",
-      "example": "El acuerdo pone fin a diez años de conflicto."
+      "phrase": "por poco",
+      "meaning": "only just, narrowly",
+      "example": "Por poco pierdo el tren."
      },
      {
-      "phrase": "no basta con",
-      "meaning": "it is not enough to",
-      "example": "No basta con prometer cambios; hay que aplicarlos."
+      "phrase": "a la hora de",
+      "meaning": "when it comes to",
+      "example": "A la hora de decidir, siempre duda."
      }
     ],
     "comprehension": [
      {
-      "q": "¿Por qué ha decidido Dinamarca indemnizar a estas mujeres?",
+      "q": "¿Por qué preocupan los últimos datos económicos franceses si el país ha evitado la recesión?",
       "type": "open"
      },
      {
-      "q": "¿Qué piden las víctimas además del dinero, y por qué crees que lo piden?",
+      "q": "¿Cuál es el equilibrio delicado al que se enfrenta el Gobierno?",
       "type": "open"
      },
      {
-      "q": "¿Qué relación tiene este caso con el pasado colonial danés en Groenlandia?",
+      "q": "¿Qué dos escenarios plantea el texto para los próximos meses?",
       "type": "open"
      }
     ],
-    "opinion_prompt": "¿Crees que una indemnización económica puede reparar un daño de este tipo, o hace falta algo más? Escribe unas 120 palabras justificando tu postura."
+    "opinion_prompt": "Cuando la economía se enfría, ¿es mejor recortar el gasto público o mantenerlo para sostener la demanda? Escribe unas 120 palabras."
    }
   },
   {
-   "pack_id": "feed-2026-08-29-ceuta-disturbios",
-   "title": "España: El Gobierno llama a la calma tras una noche de protestas y disturbios en Ceuta",
+   "pack_id": "feed-2026-08-29-kurdos-siria",
+   "title": "La integración kurda en la nueva Siria y el fin de sus sueños de autonomía",
    "source": "RFI Español",
    "date": "2026-08-28",
    "level": "B1-B2",
    "topics": [
-    "España",
-    "política"
+    "geopolítica",
+    "Siria"
    ],
    "pack": {
-    "pack_id": "feed-2026-08-29-ceuta-disturbios",
+    "pack_id": "feed-2026-08-29-kurdos-siria",
     "revision": 1,
     "meta": {
-     "title": "España: El Gobierno llama a la calma tras una noche de protestas y disturbios en Ceuta",
+     "title": "La integración kurda en la nueva Siria y el fin de sus sueños de autonomía",
      "source": "RFI Español",
-     "url": "https://www.rfi.fr/es/europa/20260828-espa%C3%B1a-el-gobierno-llama-a-la-calma-tras-una-noche-de-protestas-y-disturbios-en-ceuta",
+     "url": "https://www.rfi.fr/es/programas/enfoque-internacional/20260828-la-integraci%C3%B3n-kurda-en-la-nueva-siria-y-el-fin-de-sus-sue%C3%B1os-de-autonom%C3%ADa",
      "date_published": "2026-08-28",
      "date_processed": "2026-08-29",
      "tags": [
-      "España",
-      "política"
+      "geopolítica",
+      "Siria"
      ],
      "level": "B1-B2"
     },
-    "summary_en": "The Spanish government has called for calm after a night of protests and unrest in Ceuta, the autonomous city located in North Africa. The demonstrations, called by residents worried about security, ended with burnt rubbish containers and clashes with the police. The authorities have announced that police reinforcements are being sent, while at the same time asking the public to avoid any kind of violence.\n\nThe discontent does not come out of nowhere. Ceuta has long been dragging problems of youth unemployment, migratory pressure and distrust of institutions, a mixture that turns any incident into a spark. Opposition parties accuse the government of having neglected the enclave, while the government insists that the situation is under control. In the short term, the challenge is to restore calm; in the long term, it is to tackle the deep causes of the discontent, something no police deployment can solve on its own.",
-    "resumen_es": "El Gobierno español ha pedido calma tras una noche de protestas y disturbios en Ceuta, la ciudad autónoma situada en el norte de África. Las manifestaciones, convocadas por vecinos preocupados por la seguridad, terminaron con contenedores quemados y enfrentamientos con la policía. Las autoridades han anunciado el envío de refuerzos policiales, al tiempo que piden a la población que evite cualquier tipo de violencia.\n\nEl malestar no surge de la nada. Ceuta arrastra desde hace tiempo problemas de paro juvenil, presión migratoria y desconfianza hacia las instituciones, una mezcla que convierte cualquier incidente en una chispa. Los partidos de la oposición acusan al Ejecutivo de haber descuidado el enclave, mientras el Gobierno insiste en que la situación está bajo control. A corto plazo, el reto consiste en restablecer la calma; a largo plazo, en abordar las causas profundas del descontento, algo que ningún despliegue policial resuelve por sí solo.",
+    "summary_en": "The Syrian president, Ahmed al Sharaa, has dissolved the Syrian Democratic Forces and brought their commanders into the structures of the new state. The move closes a period of self-administration in the north-east of the country and transforms a force that for years operated in an almost independent way. For the authorities in Damascus, this is a necessary step towards national unity after a long period of fragmentation.\n\nAmong the Kurdish population, by contrast, the decision is read as the end of a long-defended project of autonomy. Many fear losing the cultural and linguistic rights won during those years, and doubt that the promises of integration will really be kept. The outcome will depend on whether the new state offers concrete guarantees or confines itself to declarations. For the moment, distrust remains the dominant feeling in the region.",
+    "resumen_es": "El presidente sirio, Ahmed al Sharaa, ha disuelto las Fuerzas Democráticas Sirias e integrado a sus mandos en las estructuras del nuevo Estado. La medida cierra una etapa de administración propia en el noreste del país y transforma a una fuerza que durante años funcionó de manera casi independiente. Para las autoridades de Damasco, se trata de un paso necesario hacia la unidad nacional tras un largo periodo de fragmentación.\n\nEntre la población kurda, en cambio, la decisión se lee como el final de un proyecto de autonomía largamente defendido. Muchos temen perder los derechos culturales y lingüísticos conquistados en esos años, y dudan de que las promesas de integración se cumplan realmente. El resultado dependerá de si el nuevo Estado ofrece garantías concretas o se limita a declaraciones. De momento, la desconfianza sigue siendo el sentimiento dominante en la región.",
     "vocab": [
      {
-      "front": "llamar a la calma",
-      "pos": "phrase",
-      "back": "to call for calm",
-      "example": "El alcalde llamó a la calma tras los incidentes.",
-      "tier": "B2"
-     },
-     {
-      "front": "los disturbios",
-      "pos": "noun",
-      "back": "riots, unrest",
-      "example": "Los disturbios duraron toda la noche.",
-      "tier": "B2"
-     },
-     {
-      "front": "convocar",
+      "front": "disolver",
       "pos": "verb",
-      "back": "to call, to convene (a meeting, a protest)",
-      "example": "Los sindicatos han convocado una huelga general.",
-      "tier": "B1"
-     },
-     {
-      "front": "el enfrentamiento",
-      "pos": "noun",
-      "back": "clash, confrontation",
-      "example": "Hubo enfrentamientos entre los manifestantes y la policía.",
+      "back": "to dissolve, to disband",
+      "example": "Disolvieron el comité tras el escándalo.",
       "tier": "B2"
      },
      {
-      "front": "el refuerzo",
+      "front": "el mando",
       "pos": "noun",
-      "back": "reinforcement, backup",
-      "example": "Han pedido refuerzos para controlar la zona.",
-      "tier": "B2"
-     },
-     {
-      "front": "el malestar",
-      "pos": "noun",
-      "back": "discontent, unease",
-      "example": "Existe un malestar creciente entre los profesores.",
-      "tier": "B2"
-     },
-     {
-      "front": "arrastrar un problema",
-      "pos": "phrase",
-      "back": "to be dogged by a long-standing problem",
-      "example": "La empresa arrastra deudas desde hace años.",
+      "back": "commander, senior officer",
+      "example": "Los mandos militares se reunieron ayer.",
       "tier": "C1"
      },
      {
-      "front": "el paro juvenil",
-      "pos": "noun",
-      "back": "youth unemployment",
-      "example": "El paro juvenil sigue por encima de la media europea.",
+      "front": "integrar",
+      "pos": "verb",
+      "back": "to integrate, to incorporate",
+      "example": "Quieren integrar a los jóvenes en el mercado laboral.",
       "tier": "B1"
+     },
+     {
+      "front": "la etapa",
+      "pos": "noun",
+      "back": "stage, period",
+      "example": "Se abre una nueva etapa para el país.",
+      "tier": "B1"
+     },
+     {
+      "front": "la fragmentación",
+      "pos": "noun",
+      "back": "fragmentation",
+      "example": "La fragmentación política dificulta los acuerdos.",
+      "tier": "C1"
+     },
+     {
+      "front": "en cambio",
+      "pos": "phrase",
+      "back": "on the other hand, by contrast",
+      "example": "Él aceptó; ella, en cambio, se negó.",
+      "tier": "B1"
+     },
+     {
+      "front": "la autonomía",
+      "pos": "noun",
+      "back": "autonomy, self-government",
+      "example": "La región reclama más autonomía fiscal.",
+      "tier": "B2"
+     },
+     {
+      "front": "conquistar un derecho",
+      "pos": "phrase",
+      "back": "to win a right",
+      "example": "Son derechos conquistados tras años de lucha.",
+      "tier": "B2"
+     },
+     {
+      "front": "cumplirse",
+      "pos": "verb",
+      "back": "to be fulfilled, to come true",
+      "example": "Ojalá se cumplan tus deseos.",
+      "tier": "B1"
+     },
+     {
+      "front": "la garantía",
+      "pos": "noun",
+      "back": "guarantee, safeguard",
+      "example": "Exigen garantías por escrito.",
+      "tier": "B1"
+     },
+     {
+      "front": "limitarse a",
+      "pos": "verb",
+      "back": "to confine oneself to, to do no more than",
+      "example": "Se limitó a escuchar sin decir nada.",
+      "tier": "B2"
      },
      {
       "front": "la desconfianza",
       "pos": "noun",
       "back": "distrust",
-      "example": "Hay mucha desconfianza hacia los partidos políticos.",
+      "example": "La desconfianza entre las partes es enorme.",
       "tier": "B1"
      },
      {
-      "front": "descuidar",
-      "pos": "verb",
-      "back": "to neglect",
-      "example": "No conviene descuidar el mantenimiento del edificio.",
+      "front": "dominante",
+      "pos": "adj",
+      "back": "dominant, prevailing",
+      "example": "Esa es la opinión dominante entre los expertos.",
       "tier": "B2"
-     },
-     {
-      "front": "el enclave",
-      "pos": "noun",
-      "back": "enclave",
-      "example": "Ceuta y Melilla son enclaves españoles en África.",
-      "tier": "B2"
-     },
-     {
-      "front": "restablecer",
-      "pos": "verb",
-      "back": "to restore, to re-establish",
-      "example": "Tardaron dos días en restablecer el suministro eléctrico.",
-      "tier": "B2"
-     },
-     {
-      "front": "abordar",
-      "pos": "verb",
-      "back": "to tackle, to address (an issue)",
-      "example": "Hay que abordar el problema de raíz.",
-      "tier": "B2"
-     },
-     {
-      "front": "el despliegue",
-      "pos": "noun",
-      "back": "deployment",
-      "example": "El despliegue policial fue enorme.",
-      "tier": "C1"
      }
     ],
     "grammar": [
      {
-      "sentence": "Las autoridades han anunciado el envío de refuerzos policiales, al tiempo que piden a la población que evite cualquier tipo de violencia.",
-      "point": "pedir a alguien que + subjunctive",
-      "explanation": "Verbs of request take the subjunctive in the subordinate clause when the subject changes: piden a la población que evite. The connector al tiempo que means 'while, at the same time as' and takes the indicative.",
-      "why_tricky": "Learners write 'piden que evita', copying English, or drop the personal a before la población."
+      "sentence": "Muchos temen perder los derechos culturales y lingüísticos conquistados en esos años, y dudan de que las promesas de integración se cumplan realmente.",
+      "point": "dudar de que + subjunctive versus temer + infinitive",
+      "explanation": "Dudar de que expresses doubt and requires the subjunctive: se cumplan. Temer takes a bare infinitive when the subject of both verbs is the same, so no que and no subjunctive are needed there.",
+      "why_tricky": "Two verbs of emotion sit side by side but behave differently, and the de after dudar is often dropped."
      },
      {
-      "sentence": "A corto plazo, el reto consiste en restablecer la calma; a largo plazo, en abordar las causas profundas del descontento, algo que ningún despliegue policial resuelve por sí solo.",
-      "point": "consistir en + infinitive, and ellipsis in the second clause",
-      "explanation": "Consistir always takes en, never de. In the second half the verb consiste is left out and only the preposition en survives, a common device in written Spanish to avoid repetition.",
-      "why_tricky": "The gap after 'a largo plazo' looks like a mistake to learners, but it is deliberate and elegant."
+      "sentence": "El resultado dependerá de si el nuevo Estado ofrece garantías concretas o se limita a declaraciones.",
+      "point": "depender de si + indicative",
+      "explanation": "Depender always requires de. When the following clause is an indirect yes-or-no question introduced by si, Spanish keeps the indicative, unlike the subjunctive found after many other expressions of uncertainty.",
+      "why_tricky": "Si is never followed by the present subjunctive in Spanish, a rule learners break when the sentence feels hypothetical."
      },
      {
-      "sentence": "Ceuta arrastra desde hace tiempo problemas de paro juvenil, presión migratoria y desconfianza hacia las instituciones, una mezcla que convierte cualquier incidente en una chispa.",
-      "point": "desde hace + time and convertir algo en algo",
-      "explanation": "Desde hace tiempo marks a situation that started in the past and continues now, and pairs with the present tense arrastra. Convertir requires en before the result, not a.",
-      "why_tricky": "English uses a perfect tense here, so learners write 'ha arrastrado desde hace tiempo', which sounds wrong in Spanish."
+      "sentence": "La medida cierra una etapa de administración propia en el noreste del país y transforma a una fuerza que durante años funcionó de manera casi independiente.",
+      "point": "Preterite for a closed period plus durante",
+      "explanation": "Funcionó is the preterite because durante años frames the action as a completed block of time. The imperfect funcionaba would describe the habit from the inside, without closing it.",
+      "why_tricky": "Learners assume that a long duration automatically calls for the imperfect, but it is the closed frame that decides."
      }
     ],
     "idioms": [
      {
-      "phrase": "no surgir de la nada",
-      "meaning": "not to come out of nowhere, to have deeper causes",
-      "example": "Esta crisis no surge de la nada: llevaba años gestándose."
+      "phrase": "de momento",
+      "meaning": "for the time being, so far",
+      "example": "De momento no hay novedades."
      },
      {
-      "phrase": "de raíz",
-      "meaning": "at the root, thoroughly",
-      "example": "Quieren resolver el problema de raíz."
+      "phrase": "poner fin a una etapa",
+      "meaning": "to close a chapter",
+      "example": "Su marcha pone fin a una etapa del club."
      }
     ],
     "comprehension": [
      {
-      "q": "¿Qué pedían los vecinos que salieron a protestar en Ceuta?",
+      "q": "¿Qué decisión ha tomado el presidente sirio y qué consecuencias tiene?",
       "type": "open"
      },
      {
-      "q": "Según el texto, ¿por qué el malestar de Ceuta no surge de la nada?",
+      "q": "¿Por qué la población kurda recibe la medida de forma distinta a Damasco?",
       "type": "open"
      },
      {
-      "q": "¿Qué diferencia establece el texto entre el corto plazo y el largo plazo?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "¿Qué debería hacer un gobierno cuando una protesta legítima acaba en disturbios? Escribe unas 120 palabras con al menos dos argumentos."
-   }
-  },
-  {
-   "pack_id": "feed-2026-08-29-canada-aranceles",
-   "title": "Cómo la respuesta de Canadá a los nuevos aranceles de EE.UU. pone a prueba los límites del poder de Trump",
-   "source": "BBC Mundo",
-   "date": "2026-08-28",
-   "level": "B1-B2",
-   "topics": [
-    "economía",
-    "comercio"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-08-29-canada-aranceles",
-    "revision": 1,
-    "meta": {
-     "title": "Cómo la respuesta de Canadá a los nuevos aranceles de EE.UU. pone a prueba los límites del poder de Trump",
-     "source": "BBC Mundo",
-     "url": "https://www.bbc.com/mundo/articles/cp3kwd28dl5o",
-     "date_published": "2026-08-28",
-     "date_processed": "2026-08-29",
-     "tags": [
-      "economía",
-      "comercio"
-     ],
-     "level": "B1-B2"
-    },
-    "summary_en": "Canada's response to the new tariffs imposed by the United States has become a test of the limits of Donald Trump's power. Ottawa has chosen to reply with measures of its own rather than accept Washington's conditions, something few trading partners have dared to do. The standoff affects key sectors of an economic relationship that for decades was taken to be untouchable.\n\nThe outcome matters well beyond North America. If Canada manages to hold out without suffering serious economic damage, other countries might be encouraged to stand up to Washington; if it gives in, the idea that tariff pressure works will be reinforced. In the meantime, companies on both sides of the border face costly uncertainty and consumers are starting to notice prices going up. Everything suggests the negotiation will drag on for months, with advances and setbacks that are hard to predict.",
-    "resumen_es": "La respuesta de Canadá a los nuevos aranceles impuestos por Estados Unidos se ha convertido en una prueba para los límites del poder de Donald Trump. Ottawa ha optado por responder con medidas propias en lugar de aceptar las condiciones de Washington, algo que pocos socios comerciales se han atrevido a hacer. El pulso afecta a sectores clave de una relación económica que durante décadas se dio por intocable.\n\nEl desenlace importa mucho más allá de Norteamérica. Si Canadá logra resistir sin sufrir un daño económico grave, otros países podrían animarse a plantar cara; si cede, se reforzará la idea de que la presión arancelaria funciona. Mientras tanto, las empresas de ambos lados de la frontera afrontan una incertidumbre costosa y los consumidores empiezan a notar la subida de precios. Todo apunta a que la negociación se alargará durante meses, con avances y retrocesos difíciles de anticipar.",
-    "vocab": [
-     {
-      "front": "el arancel",
-      "pos": "noun",
-      "back": "tariff, customs duty",
-      "example": "El nuevo arancel encarece los coches importados.",
-      "tier": "B2"
-     },
-     {
-      "front": "optar por",
-      "pos": "verb",
-      "back": "to opt for, to choose to",
-      "example": "Optaron por negociar antes de ir a juicio.",
-      "tier": "B2"
-     },
-     {
-      "front": "atreverse a",
-      "pos": "verb",
-      "back": "to dare to",
-      "example": "Nadie se atrevió a contradecirle.",
-      "tier": "B1"
-     },
-     {
-      "front": "el socio comercial",
-      "pos": "noun",
-      "back": "trading partner",
-      "example": "Alemania es su principal socio comercial.",
-      "tier": "B2"
-     },
-     {
-      "front": "el pulso",
-      "pos": "noun",
-      "back": "standoff, trial of strength",
-      "example": "El pulso entre el sindicato y la dirección continúa.",
-      "tier": "C1"
-     },
-     {
-      "front": "dar algo por hecho",
-      "pos": "phrase",
-      "back": "to take something for granted",
-      "example": "No des por hecho que vendrá.",
-      "tier": "B2"
-     },
-     {
-      "front": "el desenlace",
-      "pos": "noun",
-      "back": "outcome, ending",
-      "example": "El desenlace del juicio sorprendió a todos.",
-      "tier": "C1"
-     },
-     {
-      "front": "ceder",
-      "pos": "verb",
-      "back": "to give in, to yield",
-      "example": "Al final el Gobierno cedió a las presiones.",
-      "tier": "B2"
-     },
-     {
-      "front": "afrontar",
-      "pos": "verb",
-      "back": "to face, to confront",
-      "example": "Las pymes afrontan un año complicado.",
-      "tier": "B2"
-     },
-     {
-      "front": "la incertidumbre",
-      "pos": "noun",
-      "back": "uncertainty",
-      "example": "La incertidumbre frena la inversión.",
-      "tier": "B2"
-     },
-     {
-      "front": "la subida de precios",
-      "pos": "noun",
-      "back": "price rise",
-      "example": "La subida de precios afecta sobre todo a la alimentación.",
-      "tier": "B1"
-     },
-     {
-      "front": "alargarse",
-      "pos": "verb",
-      "back": "to drag on, to go on longer than expected",
-      "example": "La reunión se alargó dos horas más.",
-      "tier": "B1"
-     },
-     {
-      "front": "el retroceso",
-      "pos": "noun",
-      "back": "setback, step backwards",
-      "example": "El informe habla de un retroceso en derechos laborales.",
-      "tier": "C1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Si Canadá logra resistir sin sufrir un daño económico grave, otros países podrían animarse a plantar cara; si cede, se reforzará la idea de que la presión arancelaria funciona.",
-      "point": "Real conditionals: si + present, then conditional or future",
-      "explanation": "With si, Spanish never uses the future or the conditional in the if-clause: logra and cede stay in the present. The consequence can be conditional (podrían) for a hypothesis or future (se reforzará) for a firmer prediction.",
-      "why_tricky": "English allows 'if Canada would manage', which tempts learners into 'si lograría', an error native speakers notice immediately."
-     },
-     {
-      "sentence": "Ottawa ha optado por responder con medidas propias en lugar de aceptar las condiciones de Washington, algo que pocos socios comerciales se han atrevido a hacer.",
-      "point": "en lugar de + infinitive",
-      "explanation": "When both actions share the same subject, en lugar de is followed by a bare infinitive. If the subjects differ you need en lugar de que plus the subjunctive.",
-      "why_tricky": "Learners insert que automatically after these connectors, producing 'en lugar de que aceptar'."
-     },
-     {
-      "sentence": "Todo apunta a que la negociación se alargará durante meses, con avances y retrocesos difíciles de anticipar.",
-      "point": "apuntar a que + indicative",
-      "explanation": "Apuntar a que introduces evidence rather than doubt, so it takes the indicative: se alargará. Compare dudar que, which requires the subjunctive.",
-      "why_tricky": "Many expressions of prediction feel uncertain, so learners reach for the subjunctive when the indicative is required."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "plantar cara",
-      "meaning": "to stand up to someone, to face them down",
-      "example": "Decidió plantar cara a su jefe."
-     },
-     {
-      "phrase": "dar por intocable",
-      "meaning": "to treat as untouchable, beyond question",
-      "example": "Durante años se dio por intocable ese acuerdo."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "¿Qué ha decidido hacer Canadá frente a los aranceles estadounidenses?",
-      "type": "open"
-     },
-     {
-      "q": "¿Por qué dice el texto que el desenlace importa más allá de Norteamérica?",
-      "type": "open"
-     },
-     {
-      "q": "¿Cómo afecta este conflicto a las empresas y a los consumidores?",
+      "q": "Según el texto, ¿de qué dependerá el resultado de esta integración?",
       "type": "open"
      }
     ],
-    "opinion_prompt": "¿Es útil responder a unos aranceles con otros aranceles, o perjudica sobre todo a los ciudadanos? Escribe unas 120 palabras defendiendo una postura."
+    "opinion_prompt": "¿Puede un Estado garantizar la unidad nacional sin reconocer la autonomía de sus minorías? Escribe unas 120 palabras con argumentos a favor y en contra."
    }
   },
   {
