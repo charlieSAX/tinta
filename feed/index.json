@@ -1,7 +1,521 @@
 {
-  "generated_at": "2026-08-29T19:13:44Z",
+  "generated_at": "2026-08-30T07:10:42.622950Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-30-corea-secuestros",
+      "title": "Fui secuestrada por Corea del Norte y forzada a casarme con un soldado de EE.UU.",
+      "source": "BBC Mundo",
+      "date": "2026-08-30",
+      "level": "B1-B2",
+      "topics": [
+        "Corea del Norte",
+        "derechos humanos"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-30-corea-secuestros",
+        "revision": 1,
+        "meta": {
+          "title": "Fui secuestrada por Corea del Norte y forzada a casarme con un soldado de EE.UU.",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cn7n8mp86m5o",
+          "date_published": "2026-08-30",
+          "date_processed": "2026-08-30",
+          "tags": [
+            "Corea del Norte",
+            "derechos humanos"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Hitomi Soga was kidnapped by North Korean agents and spent more than two decades held in North Korea, where she ended up marrying an American deserter soldier. Her account, gathered by the BBC, describes a closely watched life, with no freedom to move around or to contact her family in Japan. According to the Japanese authorities, at least seventeen citizens were abducted during the 1970s and 1980s, almost always in coastal areas and at night.\n\nThe aim of those kidnappings, Tokyo maintains, was to train North Korean spies in the Japanese language and customs. The matter continues to poison relations between the two countries, since Pyongyang considers the case closed while Japanese families demand answers. For the relatives of the missing, the passing of time is the worst enemy: many parents have died without knowing what became of their children.",
+        "resumen_es": "Hitomi Soga fue secuestrada por agentes norcoreanos y pasó más de dos décadas retenida en Corea del Norte, donde acabó casándose con un soldado estadounidense desertor. Su testimonio, recogido por la BBC, describe una vida vigilada de cerca, sin libertad para moverse ni para comunicarse con su familia en Japón. Según las autoridades japonesas, al menos diecisiete ciudadanos fueron raptados durante las décadas de 1970 y 1980, casi siempre en zonas costeras y de noche.\n\nEl objetivo de aquellos secuestros, sostiene Tokio, era formar a espías norcoreanos en la lengua y las costumbres japonesas. El asunto sigue envenenando las relaciones entre ambos países, ya que Pionyang da el caso por cerrado mientras las familias japonesas reclaman respuestas. Para los allegados de los desaparecidos, el paso del tiempo es el peor enemigo: muchos padres han muerto sin saber qué fue de sus hijos.",
+        "vocab": [
+          {
+            "front": "secuestrar",
+            "pos": "verb",
+            "back": "to kidnap, to abduct",
+            "example": "Un comando armado secuestró al empresario a plena luz del día.",
+            "tier": "B1"
+          },
+          {
+            "front": "retenido",
+            "pos": "adj",
+            "back": "held, detained against one's will",
+            "example": "Estuvo retenido en el aeropuerto durante horas.",
+            "tier": "B2"
+          },
+          {
+            "front": "el desertor",
+            "pos": "noun",
+            "back": "deserter (someone who abandons the army)",
+            "example": "El desertor cruzó la frontera de noche.",
+            "tier": "B2"
+          },
+          {
+            "front": "el testimonio",
+            "pos": "noun",
+            "back": "testimony, first-hand account",
+            "example": "Su testimonio fue clave en el juicio.",
+            "tier": "B1"
+          },
+          {
+            "front": "vigilar de cerca",
+            "pos": "phrase",
+            "back": "to keep a close watch on",
+            "example": "La policía vigila de cerca a los sospechosos.",
+            "tier": "B2"
+          },
+          {
+            "front": "raptar",
+            "pos": "verb",
+            "back": "to abduct, to snatch (a person)",
+            "example": "Raptaron a la niña cuando volvía del colegio.",
+            "tier": "B2"
+          },
+          {
+            "front": "las autoridades",
+            "pos": "noun",
+            "back": "the authorities",
+            "example": "Las autoridades pidieron calma a los vecinos.",
+            "tier": "B1"
+          },
+          {
+            "front": "sostener (que)",
+            "pos": "verb",
+            "back": "to maintain, to claim (that)",
+            "example": "El abogado sostiene que su cliente es inocente.",
+            "tier": "B2"
+          },
+          {
+            "front": "envenenar las relaciones",
+            "pos": "phrase",
+            "back": "to poison relations",
+            "example": "El escándalo envenenó las relaciones entre los dos socios.",
+            "tier": "C1"
+          },
+          {
+            "front": "dar por cerrado",
+            "pos": "phrase",
+            "back": "to consider (something) closed or settled",
+            "example": "El Gobierno da por cerrado el debate.",
+            "tier": "B2"
+          },
+          {
+            "front": "reclamar",
+            "pos": "verb",
+            "back": "to demand, to call for",
+            "example": "Los vecinos reclaman más transporte público.",
+            "tier": "B1"
+          },
+          {
+            "front": "los allegados",
+            "pos": "noun",
+            "back": "close relatives and friends",
+            "example": "Solo asistieron los allegados de la familia.",
+            "tier": "C1"
+          },
+          {
+            "front": "el paso del tiempo",
+            "pos": "phrase",
+            "back": "the passing of time",
+            "example": "El paso del tiempo borró casi todas las huellas.",
+            "tier": "B1"
+          },
+          {
+            "front": "qué fue de",
+            "pos": "phrase",
+            "back": "what became of",
+            "example": "Nunca supimos qué fue de aquel vecino.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Su testimonio, recogido por la BBC, describe una vida vigilada de cerca, sin libertad para moverse ni para comunicarse con su familia en Japón.",
+            "point": "Participio pasado en aposición y el par sin ... ni",
+            "explanation": "Recogido por la BBC es una cláusula reducida de relativo, equivalente a que fue recogido por la BBC. Después, sin introduce la ausencia de algo y ni encadena el segundo elemento negativo.",
+            "why_tricky": "En inglés se usaría which was gathered y no ... or; en español el participio va sin verbo y el segundo elemento negativo exige ni, no o."
+          },
+          {
+            "sentence": "El asunto sigue envenenando las relaciones entre ambos países, ya que Pionyang da el caso por cerrado mientras las familias japonesas reclaman respuestas.",
+            "point": "seguir + gerundio y el conector ya que",
+            "explanation": "Seguir + gerundio expresa una acción que continúa (keeps poisoning). Ya que introduce una causa que el lector ya acepta como conocida, algo más formal que porque.",
+            "why_tricky": "Los estudiantes usan continuar a + infinitivo por influencia del italiano o del inglés, y confunden ya que con ya, que significa otra cosa."
+          },
+          {
+            "sentence": "Para los allegados de los desaparecidos, el paso del tiempo es el peor enemigo: muchos padres han muerto sin saber qué fue de sus hijos.",
+            "point": "sin + infinitivo e interrogativa indirecta",
+            "explanation": "Sin + infinitivo sustituye a una oración subordinada (without knowing). Qué fue de sus hijos es una pregunta indirecta que conserva la tilde en qué aunque no haya signos de interrogación.",
+            "why_tricky": "La tilde en interrogativas indirectas se olvida constantemente, y sin saber suele traducirse mal como sin sabiendo."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "dar algo por cerrado",
+            "meaning": "to treat a matter as finished and refuse to reopen it",
+            "example": "El ministro dio por cerrada la polémica y no aceptó más preguntas."
+          },
+          {
+            "phrase": "a plena luz del día",
+            "meaning": "in broad daylight, openly and brazenly",
+            "example": "Le robaron el coche a plena luz del día, delante de todos."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué vida describe Hitomi Soga durante las décadas que pasó en Corea del Norte?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué, según Tokio, se llevaron a cabo aquellos secuestros?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué el paso del tiempo resulta tan doloroso para las familias japonesas?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Debería un país seguir reclamando explicaciones por hechos ocurridos hace más de cuarenta años, aunque eso dificulte las relaciones diplomáticas? Escribe entre 120 y 150 palabras argumentando tu postura."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-30-venezuela-petroleo",
+      "title": "Donald Trump y Delcy Rodríguez anuncian un acuerdo que otorga a EE.UU. el control de más del 20% de las reservas de petróleo de Venezuela",
+      "source": "RFI Español",
+      "date": "2026-08-30",
+      "level": "B1-B2",
+      "topics": [
+        "Venezuela",
+        "energía"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-30-venezuela-petroleo",
+        "revision": 1,
+        "meta": {
+          "title": "Donald Trump y Delcy Rodríguez anuncian un acuerdo que otorga a EE.UU. el control de más del 20% de las reservas de petróleo de Venezuela",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260829-ee-uu-anuncia-un-acuerdo-con-delcy-rodr%C3%ADguez-para-controlar-parte-del-petr%C3%B3leo-venezolano",
+          "date_published": "2026-08-29",
+          "date_processed": "2026-08-30",
+          "tags": [
+            "Venezuela",
+            "energía"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The United States and Venezuela have announced an oil agreement that Donald Trump has described as historic. According to Venezuela's acting president, Delcy Rodriguez, private American operators will develop seventeen oilfields containing some 65 billion barrels of reserves. The deal would give US companies control of more than twenty per cent of Venezuelan reserves, a turnaround that was hard to imagine only a few years ago.\n\nVenezuela has the largest proven reserves on the planet, but its output has been sunk for years by a lack of investment and by sanctions. Hence the government is seeking foreign capital at any cost. It remains to be seen how the profits will be shared out and what the opposition will say, since it tends to denounce this kind of deal as a surrender of sovereignty. Analysts warn that reviving the industry will take years.",
+        "resumen_es": "Estados Unidos y Venezuela han anunciado un acuerdo petrolero que Donald Trump ha calificado de histórico. Según la presidenta encargada de Venezuela, Delcy Rodríguez, operadores privados estadounidenses desarrollarán diecisiete yacimientos que contienen unos 65.000 millones de barriles de reservas. El pacto otorgaría a las empresas de Estados Unidos el control de más del veinte por ciento de las reservas venezolanas, un giro difícil de imaginar hace apenas unos años.\n\nVenezuela cuenta con las mayores reservas probadas del planeta, pero su producción lleva años hundida por la falta de inversión y por las sanciones. De ahí que el Gobierno busque capital extranjero a toda costa. Queda por ver cómo se repartirán los beneficios y qué dirá la oposición, que suele denunciar este tipo de pactos como una entrega de la soberanía. Los analistas advierten de que levantar la industria llevará años.",
+        "vocab": [
+          {
+            "front": "el acuerdo petrolero",
+            "pos": "noun",
+            "back": "oil deal, oil agreement",
+            "example": "El acuerdo petrolero se firmó tras meses de negociación.",
+            "tier": "B1"
+          },
+          {
+            "front": "calificar de",
+            "pos": "verb",
+            "back": "to describe (something) as",
+            "example": "El alcalde calificó la protesta de pacífica.",
+            "tier": "B2"
+          },
+          {
+            "front": "el yacimiento",
+            "pos": "noun",
+            "back": "deposit, field (of oil, gas or minerals)",
+            "example": "Descubrieron un yacimiento de gas en el norte del país.",
+            "tier": "B2"
+          },
+          {
+            "front": "las reservas probadas",
+            "pos": "phrase",
+            "back": "proven reserves",
+            "example": "El informe revisó al alza las reservas probadas de crudo.",
+            "tier": "C1"
+          },
+          {
+            "front": "otorgar",
+            "pos": "verb",
+            "back": "to grant, to award",
+            "example": "El juez otorgó la custodia a la madre.",
+            "tier": "B2"
+          },
+          {
+            "front": "el giro",
+            "pos": "noun",
+            "back": "turn, turnaround, shift",
+            "example": "La campaña dio un giro inesperado en la última semana.",
+            "tier": "B2"
+          },
+          {
+            "front": "hundido",
+            "pos": "adj",
+            "back": "sunk, collapsed (of prices, output, morale)",
+            "example": "El sector turístico sigue hundido tras la crisis.",
+            "tier": "B2"
+          },
+          {
+            "front": "a toda costa",
+            "pos": "phrase",
+            "back": "at all costs, whatever it takes",
+            "example": "Quiere ganar a toda costa, aunque pierda amigos.",
+            "tier": "B2"
+          },
+          {
+            "front": "repartirse",
+            "pos": "verb",
+            "back": "to share out, to divide among themselves",
+            "example": "Los socios se repartieron los beneficios a partes iguales.",
+            "tier": "B1"
+          },
+          {
+            "front": "la soberanía",
+            "pos": "noun",
+            "back": "sovereignty",
+            "example": "El debate gira en torno a la soberanía sobre el territorio.",
+            "tier": "B2"
+          },
+          {
+            "front": "denunciar",
+            "pos": "verb",
+            "back": "to denounce, to report publicly",
+            "example": "Varias ONG denunciaron el abandono de los refugiados.",
+            "tier": "B1"
+          },
+          {
+            "front": "advertir de que",
+            "pos": "verb",
+            "back": "to warn that",
+            "example": "Los médicos advierten de que el virus puede volver en otoño.",
+            "tier": "B2"
+          },
+          {
+            "front": "quedar por ver",
+            "pos": "phrase",
+            "back": "to remain to be seen",
+            "example": "Queda por ver si el plan funciona en la práctica.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El pacto otorgaría a las empresas de Estados Unidos el control de más del veinte por ciento de las reservas venezolanas, un giro difícil de imaginar hace apenas unos años.",
+            "point": "Condicional de información no confirmada",
+            "explanation": "Otorgaría no expresa aquí una condición, sino una información que el periodista no da por confirmada del todo. Es el llamado condicional de rumor o de distancia, muy frecuente en la prensa.",
+            "why_tricky": "El estudiante lo traduce como would grant en sentido hipotético, cuando en realidad marca cautela sobre un hecho presentado por terceros."
+          },
+          {
+            "sentence": "De ahí que el Gobierno busque capital extranjero a toda costa.",
+            "point": "De ahí que + subjuntivo",
+            "explanation": "De ahí que introduce una consecuencia de lo dicho antes y exige siempre subjuntivo, aquí busque. Equivale a hence o that is why en un registro formal.",
+            "why_tricky": "Al ser una consecuencia real y no una duda, el estudiante espera indicativo, pero la construcción fija el subjuntivo sin excepciones."
+          },
+          {
+            "sentence": "Queda por ver cómo se repartirán los beneficios y qué dirá la oposición, que suele denunciar este tipo de pactos como una entrega de la soberanía.",
+            "point": "quedar por + infinitivo y soler + infinitivo",
+            "explanation": "Quedar por + infinitivo indica algo pendiente de hacerse o de saberse. Soler + infinitivo expresa costumbre o tendencia habitual y no tiene un equivalente de una sola palabra en inglés.",
+            "why_tricky": "Soler solo se usa en presente e imperfecto, y quedar por se confunde con quedar en, que significa acordar una cita."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "a toda costa",
+            "meaning": "at any price, no matter what it takes",
+            "example": "Intentaron salvar la empresa a toda costa, incluso hipotecando la casa."
+          },
+          {
+            "phrase": "quedar por ver",
+            "meaning": "it remains to be seen, the outcome is still uncertain",
+            "example": "Queda por ver si las promesas se cumplen después de las elecciones."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué obtendrían las empresas estadounidenses con este acuerdo?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué la producción venezolana lleva años hundida?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué reacción se espera por parte de la oposición venezolana y por qué?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Es razonable que un país abra sus recursos naturales al capital extranjero para reactivar su economía, o supone una pérdida de soberanía inaceptable? Escribe entre 120 y 150 palabras."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-30-groenlandia-indemnizacion",
+      "title": "Groenlandia: Dinamarca indemnizará a mujeres víctimas de la colocación forzada de dispositivos intrauterinos",
+      "source": "RFI Español",
+      "date": "2026-08-30",
+      "level": "B1-B2",
+      "topics": [
+        "Dinamarca",
+        "derechos"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-30-groenlandia-indemnizacion",
+        "revision": 1,
+        "meta": {
+          "title": "Groenlandia: Dinamarca indemnizará a mujeres víctimas de la colocación forzada de dispositivos intrauterinos",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/europa/20260828-groenlandia-dinamarca-indemnizar%C3%A1-a-mujeres-v%C3%ADctimas-de-la-colocaci%C3%B3n-forzada-de-dispositivos-intrauterinos",
+          "date_published": "2026-08-28",
+          "date_processed": "2026-08-30",
+          "tags": [
+            "Dinamarca",
+            "derechos"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The Danish Parliament has approved compensation of 40,000 euros for the Greenlandic women who had intrauterine devices fitted without their consent. The campaign, driven by the Danish health authorities, affected thousands of women and girls, many of them teenagers who were not even told what was being done to them. The decision brings to an end a scandal that has marked several generations.\n\nFor the victims, the money does not undo the harm, but it amounts to an official acknowledgement they had been waiting decades for. The case has revived the debate about Denmark's colonial past in Greenland, a self-governing territory whose population is mostly Inuit. Relations between Nuuk and Copenhagen are going through a delicate moment, and many Greenlanders see in this gesture a first step towards a broader form of redress.",
+        "resumen_es": "El Parlamento danés ha aprobado indemnizar con 40.000 euros a las mujeres groenlandesas a las que se colocaron dispositivos intrauterinos sin su consentimiento. La campaña, impulsada por las autoridades sanitarias danesas, afectó a miles de mujeres y niñas, muchas de ellas adolescentes que ni siquiera fueron informadas de lo que les estaban haciendo. La decisión pone fin a un escándalo que ha marcado a varias generaciones.\n\nPara las víctimas, el dinero no borra el daño, pero supone un reconocimiento oficial que llevaban décadas esperando. El caso ha reavivado el debate sobre el pasado colonial de Dinamarca en Groenlandia, un territorio autónomo cuya población es mayoritariamente inuit. Las relaciones entre Nuuk y Copenhague pasan por un momento delicado, y muchos groenlandeses ven en este gesto un primer paso hacia una reparación más amplia.",
+        "vocab": [
+          {
+            "front": "indemnizar",
+            "pos": "verb",
+            "back": "to compensate (financially)",
+            "example": "La aerolínea tuvo que indemnizar a los pasajeros por el retraso.",
+            "tier": "B2"
+          },
+          {
+            "front": "el consentimiento",
+            "pos": "noun",
+            "back": "consent",
+            "example": "Nadie puede publicar tus datos sin tu consentimiento.",
+            "tier": "B1"
+          },
+          {
+            "front": "impulsar",
+            "pos": "verb",
+            "back": "to drive, to promote, to push forward",
+            "example": "El ayuntamiento impulsa un plan para peatonalizar el centro.",
+            "tier": "B2"
+          },
+          {
+            "front": "ni siquiera",
+            "pos": "phrase",
+            "back": "not even",
+            "example": "Ni siquiera se despidió antes de marcharse.",
+            "tier": "B1"
+          },
+          {
+            "front": "poner fin a",
+            "pos": "phrase",
+            "back": "to put an end to",
+            "example": "El acuerdo puso fin a tres meses de huelga.",
+            "tier": "B1"
+          },
+          {
+            "front": "marcar (a alguien)",
+            "pos": "verb",
+            "back": "to leave a lasting mark on someone",
+            "example": "Aquel viaje me marcó para siempre.",
+            "tier": "B2"
+          },
+          {
+            "front": "borrar el daño",
+            "pos": "phrase",
+            "back": "to undo the harm",
+            "example": "Una disculpa no borra el daño, pero ayuda.",
+            "tier": "B2"
+          },
+          {
+            "front": "suponer",
+            "pos": "verb",
+            "back": "to amount to, to represent",
+            "example": "La subida supone un esfuerzo enorme para las familias.",
+            "tier": "B2"
+          },
+          {
+            "front": "el reconocimiento",
+            "pos": "noun",
+            "back": "acknowledgement, recognition",
+            "example": "Pidieron el reconocimiento público de los errores cometidos.",
+            "tier": "B1"
+          },
+          {
+            "front": "reavivar",
+            "pos": "verb",
+            "back": "to revive, to rekindle (a debate, a fire)",
+            "example": "El documental reavivó el interés por el caso.",
+            "tier": "C1"
+          },
+          {
+            "front": "el territorio autónomo",
+            "pos": "phrase",
+            "back": "self-governing territory",
+            "example": "Es un territorio autónomo con su propio parlamento.",
+            "tier": "B2"
+          },
+          {
+            "front": "pasar por un momento delicado",
+            "pos": "phrase",
+            "back": "to be going through a difficult patch",
+            "example": "La empresa pasa por un momento delicado y ha congelado los sueldos.",
+            "tier": "B2"
+          },
+          {
+            "front": "la reparación",
+            "pos": "noun",
+            "back": "redress, reparation",
+            "example": "Las víctimas exigen una reparación justa.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El Parlamento danés ha aprobado indemnizar con 40.000 euros a las mujeres groenlandesas a las que se colocaron dispositivos intrauterinos sin su consentimiento.",
+            "point": "Relativo con preposición y se impersonal",
+            "explanation": "A las que combina la preposición exigida por el verbo con el relativo, algo obligatorio en español culto. Se colocaron es un se impersonal o pasivo refleja que evita nombrar al responsable.",
+            "why_tricky": "En inglés la preposición se deja al final (that they were fitted to); en español debe ir delante del relativo, y el se pasivo se confunde con un reflexivo."
+          },
+          {
+            "sentence": "La campaña, impulsada por las autoridades sanitarias danesas, afectó a miles de mujeres y niñas, muchas de ellas adolescentes que ni siquiera fueron informadas de lo que les estaban haciendo.",
+            "point": "Pasiva perifrástica y lo que",
+            "explanation": "Fueron informadas es una pasiva con ser, reservada en español a contextos formales y a acciones concretas. Lo que introduce una relativa sin antecedente expreso, equivalente a what en inglés.",
+            "why_tricky": "Los estudiantes abusan de la pasiva con ser donde el español prefiere el se, y traducen lo que por que a secas."
+          },
+          {
+            "sentence": "Para las víctimas, el dinero no borra el daño, pero supone un reconocimiento oficial que llevaban décadas esperando.",
+            "point": "llevar + tiempo + gerundio",
+            "explanation": "Llevar seguido de una expresión temporal y un gerundio indica una acción prolongada hasta el momento de referencia: llevaban décadas esperando equivale a they had been waiting for decades.",
+            "why_tricky": "El inglés usa un tiempo perfecto continuo; el español usa el imperfecto de llevar, sin ninguna preposición delante del periodo."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "poner fin a algo",
+            "meaning": "to bring something to an end, to close a chapter",
+            "example": "La sentencia puso fin a veinte años de litigio."
+          },
+          {
+            "phrase": "pasar por un momento delicado",
+            "meaning": "to be going through a rough or sensitive patch",
+            "example": "Su matrimonio pasa por un momento delicado desde la mudanza."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué ha decidido el Parlamento danés y a quién afecta esa decisión?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué el dinero no resulta suficiente para muchas de las víctimas?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué relación tiene este caso con el pasado colonial de Dinamarca?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Sirven las indemnizaciones económicas para reparar injusticias históricas, o hacen falta otras medidas? Escribe entre 120 y 150 palabras con ejemplos concretos."
+      }
+    },
     {
       "pack_id": "feed-2026-08-29-ceuta-disturbios",
       "title": "España: El Gobierno llama a la calma tras una noche de protestas y disturbios en Ceuta",
@@ -6237,514 +6751,6 @@
           }
         ],
         "opinion_prompt": "¿Deberían las universidades prohibir las fraternidades o basta con supervisarlas mejor? Escribe unas 150 palabras defendiendo tu postura con al menos dos argumentos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-22-cincuenta-mil-o-loteria",
-      "title": "¿Preferirías US$50.000 o un 50% de posibilidades de ganar US$1 millón? (y qué revela esta pregunta)",
-      "source": "BBC Mundo",
-      "date": "2026-08-22",
-      "level": "B1-B2",
-      "topics": [
-        "economía",
-        "psicología"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-22-cincuenta-mil-o-loteria",
-        "revision": 1,
-        "meta": {
-          "title": "¿Preferirías US$50.000 o un 50% de posibilidades de ganar US$1 millón? (y qué revela esta pregunta)",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c330k1j7nn5o",
-          "date_published": "2026-08-22",
-          "date_processed": "2026-08-22",
-          "tags": [
-            "economía",
-            "psicología"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "A survey asked a deceptively simple question: would you rather take fifty thousand dollars for sure, or a fifty per cent chance of winning a million? The question set off a heated debate on social media, where many people were surprised that the majority chose the safe amount even though the second option is worth much more on paper. Economists, however, saw in those answers the confirmation of several long-standing theories.\n\nWhat the results show is that we do not decide only by calculating numbers. Losing what we already have hurts more than the pleasure of winning something extra, and that asymmetry weighs heavily when there is real money on the table. Personal circumstances also count: someone with debts values certainty far more than someone with savings. The debate is likely to continue, because each new version of the question reveals something about who is answering it.",
-        "resumen_es": "Una encuesta planteó una pregunta engañosamente sencilla: ¿preferirías cincuenta mil dólares seguros o un cincuenta por ciento de posibilidades de ganar un millón? La pregunta desató un acalorado debate en las redes sociales, donde a muchos les sorprendió que la mayoría eligiera la cantidad segura, aunque sobre el papel la segunda opción valga mucho más. Los economistas, en cambio, vieron en esas respuestas la confirmación de varias teorías clásicas.\n\nLo que muestran los resultados es que no decidimos solo calculando números. Perder lo que ya tenemos duele más que el placer de ganar algo extra, y esa asimetría pesa mucho cuando hay dinero real de por medio. También cuentan las circunstancias personales: quien tiene deudas valora la seguridad bastante más que quien tiene ahorros. Es probable que el debate continúe, porque cada nueva versión de la pregunta revela algo sobre quien la responde.",
-        "vocab": [
-          {
-            "front": "plantear una pregunta",
-            "pos": "phrase",
-            "back": "to pose a question",
-            "example": "El profesor planteó una pregunta difícil al final de la clase.",
-            "tier": "B1"
-          },
-          {
-            "front": "engañosamente",
-            "pos": "adv",
-            "back": "deceptively",
-            "example": "El ejercicio es engañosamente fácil.",
-            "tier": "C1"
-          },
-          {
-            "front": "desatar un debate",
-            "pos": "phrase",
-            "back": "to spark a debate",
-            "example": "Sus declaraciones desataron un debate nacional.",
-            "tier": "B2"
-          },
-          {
-            "front": "acalorado",
-            "pos": "adj",
-            "back": "heated, impassioned",
-            "example": "Tuvieron una discusión acalorada durante la cena.",
-            "tier": "B2"
-          },
-          {
-            "front": "sobre el papel",
-            "pos": "phrase",
-            "back": "on paper, in theory",
-            "example": "Sobre el papel el plan funciona, pero en la práctica no.",
-            "tier": "B2"
-          },
-          {
-            "front": "en cambio",
-            "pos": "phrase",
-            "back": "on the other hand, whereas",
-            "example": "Mi hermano ahorra mucho; yo, en cambio, gasto todo.",
-            "tier": "B1"
-          },
-          {
-            "front": "la asimetría",
-            "pos": "noun",
-            "back": "asymmetry, imbalance",
-            "example": "Existe una clara asimetría entre las dos partes.",
-            "tier": "C1"
-          },
-          {
-            "front": "de por medio",
-            "pos": "phrase",
-            "back": "at stake, involved",
-            "example": "Cuando hay dinero de por medio, todo se complica.",
-            "tier": "B2"
-          },
-          {
-            "front": "las circunstancias",
-            "pos": "noun",
-            "back": "circumstances",
-            "example": "Las circunstancias familiares influyeron en su decisión.",
-            "tier": "B1"
-          },
-          {
-            "front": "la deuda",
-            "pos": "noun",
-            "back": "debt",
-            "example": "Tardó cinco años en pagar todas sus deudas.",
-            "tier": "B1"
-          },
-          {
-            "front": "los ahorros",
-            "pos": "noun",
-            "back": "savings",
-            "example": "Gastó todos sus ahorros en el viaje.",
-            "tier": "B1"
-          },
-          {
-            "front": "valorar",
-            "pos": "verb",
-            "back": "to value, to rate highly",
-            "example": "Valoro mucho tu sinceridad.",
-            "tier": "B1"
-          },
-          {
-            "front": "la encuesta",
-            "pos": "noun",
-            "back": "survey, poll",
-            "example": "La encuesta se hizo a dos mil personas.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "a muchos les sorprendió que la mayoría eligiera la cantidad segura",
-            "point": "Verbo de emoción con complemento indirecto más imperfecto de subjuntivo",
-            "explanation": "Sorprender funciona como gustar: el sujeto real es la oración que sigue y la persona va en complemento indirecto, de ahí a muchos les. Como el verbo principal está en pasado, la subordinada exige imperfecto de subjuntivo, eligiera.",
-            "why_tricky": "Hay dos dificultades juntas: la duplicación a muchos les, obligatoria en español, y la concordancia de tiempos que obliga a eligiera en lugar de elija."
-          },
-          {
-            "sentence": "aunque sobre el papel la segunda opción valga mucho más",
-            "point": "Aunque más subjuntivo para conceder un hecho conocido",
-            "explanation": "Con aunque, el subjuntivo valga presenta la información como algo ya sabido o poco relevante para el argumento. Con indicativo, vale, se presentaría como una noticia nueva para el lector.",
-            "why_tricky": "El inglés no distingue: although it is worth sirve para ambos casos. Elegir entre vale y valga cambia el matiz, no el significado literal."
-          },
-          {
-            "sentence": "Es probable que el debate continúe",
-            "point": "Expresión de probabilidad con subjuntivo",
-            "explanation": "Es probable que introduce algo no confirmado, así que el verbo siguiente va en subjuntivo: continúe. Nota la tilde, que distingue continúe de continue.",
-            "why_tricky": "Es cierto que y es evidente que llevan indicativo, mientras que es probable que y es posible que llevan subjuntivo. La frontera parece arbitraria pero depende del grado de certeza."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "más vale pájaro en mano que ciento volando",
-            "meaning": "a bird in the hand is worth two in the bush",
-            "example": "Acepté la oferta porque más vale pájaro en mano que ciento volando."
-          },
-          {
-            "phrase": "jugárselo todo a una carta",
-            "meaning": "to stake everything on one throw",
-            "example": "No quiso jugárselo todo a una carta y prefirió la cantidad segura."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué sorprendió a mucha gente la respuesta mayoritaria de la encuesta?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué explicación dan los economistas sobre el miedo a perder?",
-            "type": "open"
-          },
-          {
-            "q": "Según el texto, ¿cómo influyen las circunstancias personales en la decisión?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Qué elegirías tú y por qué? Escribe unas 150 palabras explicando tu decisión y qué dice sobre tu forma de entender el riesgo."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-22-ruta-artico-corea",
-      "title": "Un barco surcoreano se lanza por la ruta del Ártico, en busca de alternativas a Oriente Medio",
-      "source": "RFI Español",
-      "date": "2026-08-22",
-      "level": "B1-B2",
-      "topics": [
-        "comercio",
-        "Ártico"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-22-ruta-artico-corea",
-        "revision": 1,
-        "meta": {
-          "title": "Un barco surcoreano se lanza por la ruta del Ártico, en busca de alternativas a Oriente Medio",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/asia-pacifico/20260822-un-barco-surcoreano-se-lanza-por-la-ruta-del-%C3%A1rtico-en-busca-de-alternativas-a-oriente-medio",
-          "date_published": "2026-08-22",
-          "date_processed": "2026-08-22",
-          "tags": [
-            "comercio",
-            "Ártico"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "After China, South Korea is now trying to take advantage of the Arctic sea route, which stays open for a few months a year thanks to the melting ice and which could become an alternative given the tensions in the Middle East. A South Korean ship has set off along that northern corridor, a journey that until recently would have been unthinkable for a commercial vessel of this kind.\n\nThe appeal is easy to understand: sailing across the north cuts the distance between Asia and Europe considerably and avoids the most sensitive straits. The problem is that everything depends on ice that is retreating because of climate change, so what looks like a commercial opportunity is also a warning sign. In addition, the route crosses waters where several countries claim rights, which means the coming years are likely to bring more than one diplomatic dispute.",
-        "resumen_es": "Después de China, Corea del Sur intenta ahora aprovechar la ruta marítima del Ártico, que permanece abierta algunos meses al año gracias al deshielo y que puede convertirse en una alternativa ante las tensiones en Oriente Medio. Un barco surcoreano se ha lanzado por ese corredor del norte, un viaje que hasta hace poco habría resultado impensable para un buque comercial de este tipo.\n\nEl atractivo se entiende fácilmente: navegar por el norte acorta bastante la distancia entre Asia y Europa y evita los estrechos más delicados. El problema es que todo depende de un hielo que retrocede por el cambio climático, de modo que lo que parece una oportunidad comercial es también una señal de alarma. Además, la ruta atraviesa aguas sobre las que varios países reclaman derechos, así que es previsible que los próximos años traigan más de una disputa diplomática.",
-        "vocab": [
-          {
-            "front": "aprovechar",
-            "pos": "verb",
-            "back": "to take advantage of, to make the most of",
-            "example": "Aprovechamos el buen tiempo para salir al campo.",
-            "tier": "B1"
-          },
-          {
-            "front": "la ruta marítima",
-            "pos": "noun",
-            "back": "sea route, shipping lane",
-            "example": "Esta ruta marítima concentra buena parte del comercio mundial.",
-            "tier": "B1"
-          },
-          {
-            "front": "el deshielo",
-            "pos": "noun",
-            "back": "thaw, melting of ice",
-            "example": "El deshielo llegó antes de lo previsto este año.",
-            "tier": "B2"
-          },
-          {
-            "front": "lanzarse por",
-            "pos": "verb",
-            "back": "to set off along, to launch oneself into",
-            "example": "Se lanzó por un camino que no conocía.",
-            "tier": "B2"
-          },
-          {
-            "front": "el buque",
-            "pos": "noun",
-            "back": "ship, vessel",
-            "example": "El buque transportaba miles de contenedores.",
-            "tier": "B2"
-          },
-          {
-            "front": "impensable",
-            "pos": "adj",
-            "back": "unthinkable",
-            "example": "Hace veinte años esto era impensable.",
-            "tier": "B2"
-          },
-          {
-            "front": "el atractivo",
-            "pos": "noun",
-            "back": "appeal, attraction",
-            "example": "El principal atractivo del puesto es el horario flexible.",
-            "tier": "B2"
-          },
-          {
-            "front": "acortar",
-            "pos": "verb",
-            "back": "to shorten, to cut down",
-            "example": "El nuevo túnel acorta el trayecto en media hora.",
-            "tier": "B1"
-          },
-          {
-            "front": "el estrecho",
-            "pos": "noun",
-            "back": "strait",
-            "example": "Cruzaron el estrecho en apenas una hora.",
-            "tier": "B1"
-          },
-          {
-            "front": "retroceder",
-            "pos": "verb",
-            "back": "to retreat, to go backwards",
-            "example": "El glaciar retrocede unos metros cada año.",
-            "tier": "B2"
-          },
-          {
-            "front": "de modo que",
-            "pos": "phrase",
-            "back": "so that, with the result that",
-            "example": "Llegamos tarde, de modo que perdimos el tren.",
-            "tier": "B2"
-          },
-          {
-            "front": "la señal de alarma",
-            "pos": "phrase",
-            "back": "warning sign, alarm bell",
-            "example": "Los datos son una clara señal de alarma.",
-            "tier": "B2"
-          },
-          {
-            "front": "reclamar derechos",
-            "pos": "phrase",
-            "back": "to claim rights",
-            "example": "Varias comunidades reclaman derechos sobre esas tierras.",
-            "tier": "B2"
-          },
-          {
-            "front": "previsible",
-            "pos": "adj",
-            "back": "predictable, foreseeable",
-            "example": "El resultado era totalmente previsible.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "un viaje que hasta hace poco habría resultado impensable para un buque comercial de este tipo",
-            "point": "Condicional compuesto para una hipótesis en el pasado",
-            "explanation": "Habría resultado combina el condicional de haber con el participio para hablar de algo que no llegó a ocurrir. Hasta hace poco marca el momento pasado al que se refiere esa hipótesis.",
-            "why_tricky": "Es fácil usar el pretérito, resultó, pero eso afirmaría un hecho real. El condicional compuesto mantiene la idea de situación imaginada."
-          },
-          {
-            "sentence": "la ruta atraviesa aguas sobre las que varios países reclaman derechos",
-            "point": "Relativo con preposición y artículo, sobre las que",
-            "explanation": "Cuando el relativo lleva preposición, el español exige el artículo: sobre las que, no sobre que. El artículo concuerda en género y número con aguas.",
-            "why_tricky": "El inglés permite mover la preposición al final, waters that several countries claim rights over. En español eso es imposible y hay que colocarla delante del relativo."
-          },
-          {
-            "sentence": "es previsible que los próximos años traigan más de una disputa diplomática",
-            "point": "Es previsible que más subjuntivo, con verbo irregular",
-            "explanation": "La expresión de probabilidad exige subjuntivo, y traer tiene raíz irregular en presente de subjuntivo: traiga, traigas, traigan. Aquí concuerda con los próximos años.",
-            "why_tricky": "Hay que recordar la g irregular de traigan y, además, que más de una disputa se construye con más de y no con más que ante una cantidad."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "abrirse camino",
-            "meaning": "to make one's way, to carve out a path",
-            "example": "Corea del Sur intenta abrirse camino en una ruta dominada por otros."
-          },
-          {
-            "phrase": "un arma de doble filo",
-            "meaning": "a double-edged sword",
-            "example": "El deshielo es un arma de doble filo para el comercio."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué le interesa a Corea del Sur la ruta del Ártico?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué ventaja concreta ofrece navegar por el norte frente a las rutas tradicionales?",
-            "type": "open"
-          },
-          {
-            "q": "Según el texto, ¿qué problemas podrían surgir en los próximos años?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Es aceptable aprovechar comercialmente el deshielo del Ártico? Escribe unas 150 palabras con tu opinión y al menos un contraargumento."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-22-reparaciones-esclavitud-ghana",
-      "title": "\"Fuimos la escena del crimen de estas atrocidades\": el país que se enfrenta a EE.UU. y Europa al reclamar el pago de reparaciones por la esclavitud",
-      "source": "BBC Mundo",
-      "date": "2026-08-22",
-      "level": "B1-B2",
-      "topics": [
-        "historia",
-        "reparaciones"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-22-reparaciones-esclavitud-ghana",
-        "revision": 1,
-        "meta": {
-          "title": "\"Fuimos la escena del crimen de estas atrocidades\": el país que se enfrenta a EE.UU. y Europa al reclamar el pago de reparaciones por la esclavitud",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cm2grpxne10o",
-          "date_published": "2026-08-22",
-          "date_processed": "2026-08-22",
-          "tags": [
-            "historia",
-            "reparaciones"
-          ],
-          "level": "B1-B2"
-        },
-        "resumen_es": "Ghana se ha convertido en la voz principal de África a la hora de exigir que Estados Unidos y varios países europeos paguen reparaciones por la esclavitud. El gobierno ghanés sostiene que su territorio fue, durante siglos, uno de los principales puntos de salida de personas esclavizadas rumbo a América, y por eso reclama que las naciones e instituciones que se beneficiaron de ese comercio asuman ahora una responsabilidad económica y moral.\n\nEl debate sobre las reparaciones lleva décadas circulando en foros internacionales, pero rara vez avanza más allá de declaraciones simbólicas. Ghana busca ahora liderar una postura común entre los países africanos para presionar con más fuerza a gobiernos e instituciones occidentales. Sus defensores esperan que el reclamo abra una conversación duradera sobre la memoria histórica, mientras que otros gobiernos siguen mostrándose reacios a comprometerse con pagos concretos.",
-        "summary_en": "Ghana has become the leading African voice demanding that the United States and several European countries pay reparations for slavery. The Ghanaian government argues that its territory was, for centuries, one of the main departure points for enslaved people bound for the Americas, and it is therefore calling on the nations and institutions that profited from that trade to now take on economic and moral responsibility.\n\nThe debate over slavery reparations has circulated in international forums for decades, but rarely moves beyond symbolic statements. Ghana now wants to lead a common position among African countries to put more pressure on Western governments and institutions. Supporters hope the claim will open a lasting conversation about historical memory, while other governments remain reluctant to commit to concrete payments.",
-        "vocab": [
-          {
-            "front": "la reparación",
-            "pos": "noun",
-            "back": "reparation, compensation",
-            "example": "El país exige reparaciones por los daños del pasado.",
-            "tier": "B2"
-          },
-          {
-            "front": "la esclavitud",
-            "pos": "noun",
-            "back": "slavery",
-            "example": "La esclavitud dejó heridas que aún no han sanado.",
-            "tier": "B1"
-          },
-          {
-            "front": "reclamar",
-            "pos": "verb",
-            "back": "to claim, to demand",
-            "example": "Ghana reclama el pago de una deuda histórica.",
-            "tier": "B1"
-          },
-          {
-            "front": "beneficiarse de",
-            "pos": "phrase",
-            "back": "to benefit from",
-            "example": "Muchas empresas se beneficiaron de aquel comercio.",
-            "tier": "B2"
-          },
-          {
-            "front": "la responsabilidad",
-            "pos": "noun",
-            "back": "responsibility",
-            "example": "El país asume ahora esa responsabilidad moral.",
-            "tier": "B1"
-          },
-          {
-            "front": "asumir",
-            "pos": "verb",
-            "back": "to take on, to assume",
-            "example": "Los gobiernos deben asumir sus errores históricos.",
-            "tier": "B2"
-          },
-          {
-            "front": "el foro internacional",
-            "pos": "phrase",
-            "back": "international forum",
-            "example": "El tema se discute en foros internacionales.",
-            "tier": "B2"
-          },
-          {
-            "front": "la declaración simbólica",
-            "pos": "phrase",
-            "back": "symbolic statement",
-            "example": "Muchas promesas quedan en declaraciones simbólicas.",
-            "tier": "B2"
-          },
-          {
-            "front": "liderar",
-            "pos": "verb",
-            "back": "to lead",
-            "example": "Ghana quiere liderar esta causa en África.",
-            "tier": "B2"
-          },
-          {
-            "front": "presionar",
-            "pos": "verb",
-            "back": "to pressure",
-            "example": "El país busca presionar a los gobiernos occidentales.",
-            "tier": "B1"
-          },
-          {
-            "front": "la memoria histórica",
-            "pos": "phrase",
-            "back": "historical memory",
-            "example": "El debate reabre la memoria histórica del continente.",
-            "tier": "B2"
-          },
-          {
-            "front": "reacio/a",
-            "pos": "adj",
-            "back": "reluctant",
-            "example": "Algunos gobiernos se muestran reacios a pagar.",
-            "tier": "B2"
-          },
-          {
-            "front": "comprometerse con",
-            "pos": "phrase",
-            "back": "to commit to",
-            "example": "Pocos países quieren comprometerse con pagos concretos.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "El gobierno ghanés sostiene que su territorio fue, durante siglos, uno de los principales puntos de salida de personas esclavizadas rumbo a América, y por eso reclama que las naciones e instituciones que se beneficiaron de ese comercio asuman ahora una responsabilidad económica y moral.",
-            "point": "subjuntivo tras verbos de exigencia (reclamar que)",
-            "explanation": "Cuando un verbo expresa petición o exigencia, como \"reclamar\", la oración subordinada introducida por \"que\" va en subjuntivo: \"reclama que...asuman\".",
-            "why_tricky": "Los estudiantes tienden a usar el indicativo (\"asumen\") porque la frase describe algo real, pero el verbo principal exige subjuntivo por su significado de exigencia."
-          },
-          {
-            "sentence": "Sus defensores esperan que el reclamo abra una conversación duradera sobre la memoria histórica, mientras que otros gobiernos siguen mostrándose reacios a comprometerse con pagos concretos.",
-            "point": "\"esperar que\" + subjuntivo",
-            "explanation": "Después de \"esperar que\", con sujetos distintos, siempre se usa el subjuntivo (\"abra\"), aunque la frase no sea negativa.",
-            "why_tricky": "Los estudiantes confunden \"esperar que\" con \"esperar + infinitivo\", que solo se usa cuando el sujeto de las dos acciones es el mismo."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "pagar los platos rotos",
-            "meaning": "asumir las consecuencias de algo que uno no hizo",
-            "example": "Ghana no quiere seguir pagando los platos rotos de un comercio que no eligió."
-          },
-          {
-            "phrase": "dar la espalda a algo",
-            "meaning": "ignorar o rechazar un problema",
-            "example": "Algunos gobiernos prefieren dar la espalda a este debate."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué reclama Ghana reparaciones a Estados Unidos y a países europeos?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué dificulta que el debate sobre las reparaciones avance más allá de las declaraciones simbólicas?",
-            "type": "open"
-          },
-          {
-            "q": "¿Crees que las instituciones que se beneficiaron de la esclavitud deberían pagar reparaciones? ¿Por qué?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Escribe un breve texto explicando si crees que los países que se beneficiaron históricamente de la esclavitud tienen la obligación moral de pagar reparaciones hoy en día."
       }
     }
   ]
