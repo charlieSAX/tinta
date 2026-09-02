@@ -1,7 +1,493 @@
 {
-  "generated_at": "2026-09-02T06:46:39Z",
+  "generated_at": "2026-09-02T07:13:01Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-09-02-carne-brasil",
+      "title": "La Unión Europea suspende las importaciones de carne vacuna procedente de Brasil",
+      "source": "RFI en español",
+      "date": "2026-09-01",
+      "level": "B1-B2",
+      "topics": [
+        "comercio",
+        "UE"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-02-carne-brasil",
+        "revision": 1,
+        "meta": {
+          "title": "La Unión Europea suspende las importaciones de carne vacuna procedente de Brasil",
+          "source": "RFI en español",
+          "url": "https://www.rfi.fr/es/europa/20260901-la-uni%C3%B3n-europea-suspende-las-importaciones-de-carne-vacuna-procedente-de-brasil",
+          "date_published": "2026-09-01",
+          "date_processed": "2026-09-02",
+          "tags": [
+            "comercio",
+            "UE"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The European Commission has announced that, from Thursday 3 September, it will suspend all imports of beef and poultry coming from Brazil. The decision is far-reaching, because Brazil is one of the biggest meat exporters on the planet and Europe represents a key market for its producers. According to Brussels, the South American country does not currently offer all the guarantees that European rules demand.\n\nThe measure comes at a delicate moment for trade relations between the two blocs, marked by the long debate over the agreement between the European Union and Mercosur. European livestock farmers have been complaining for years about competition from South American meat, while Brazilian exporters defend the quality of their controls. It remains to be seen how long the suspension will last and what conditions Brussels will set in order to lift it.",
+        "resumen_es": "La Comisión Europea anunció que, a partir del jueves 3 de septiembre, suspenderá todas las importaciones de carne de vacuno y de aves de corral procedentes de Brasil. La decisión tiene un gran alcance, porque Brasil es uno de los mayores exportadores de carne del planeta y Europa representa un mercado clave para sus productores. Según Bruselas, el país sudamericano no ofrece por ahora todas las garantías que exigen las normas europeas.\n\nLa medida llega en un momento delicado para las relaciones comerciales entre los dos bloques, marcadas por el largo debate sobre el acuerdo entre la Unión Europea y el Mercosur. Los ganaderos europeos llevan años quejándose de la competencia de la carne sudamericana, mientras que los exportadores brasileños defienden la calidad de sus controles. Habrá que ver cuánto dura la suspensión y qué condiciones pondrá Bruselas para levantarla.",
+        "vocab": [
+          {
+            "front": "la carne de vacuno",
+            "pos": "phrase",
+            "back": "beef",
+            "example": "El precio de la carne de vacuno subió este año.",
+            "tier": "B1"
+          },
+          {
+            "front": "las aves de corral",
+            "pos": "phrase",
+            "back": "poultry",
+            "example": "La granja vende huevos y aves de corral.",
+            "tier": "B2"
+          },
+          {
+            "front": "suspender",
+            "pos": "verb",
+            "back": "to suspend, to halt",
+            "example": "El gobierno decidió suspender los vuelos por la tormenta.",
+            "tier": "B1"
+          },
+          {
+            "front": "a partir de",
+            "pos": "phrase",
+            "back": "from, starting on",
+            "example": "A partir del lunes, la tienda abre a las ocho.",
+            "tier": "B1"
+          },
+          {
+            "front": "de gran alcance",
+            "pos": "phrase",
+            "back": "far-reaching",
+            "example": "Fue una reforma de gran alcance para la economía.",
+            "tier": "B2"
+          },
+          {
+            "front": "el ganadero",
+            "pos": "noun",
+            "back": "livestock farmer",
+            "example": "Los ganaderos protestaron frente al ministerio.",
+            "tier": "B2"
+          },
+          {
+            "front": "quejarse de",
+            "pos": "verb",
+            "back": "to complain about",
+            "example": "Los vecinos se quejan del ruido de la obra.",
+            "tier": "B1"
+          },
+          {
+            "front": "la medida",
+            "pos": "noun",
+            "back": "measure, step",
+            "example": "La nueva medida entra en vigor mañana.",
+            "tier": "B1"
+          },
+          {
+            "front": "exigir",
+            "pos": "verb",
+            "back": "to demand, to require",
+            "example": "Las normas exigen controles sanitarios estrictos.",
+            "tier": "B1"
+          },
+          {
+            "front": "el socio comercial",
+            "pos": "phrase",
+            "back": "trading partner",
+            "example": "China es el principal socio comercial del país.",
+            "tier": "B2"
+          },
+          {
+            "front": "levantar una suspensión",
+            "pos": "phrase",
+            "back": "to lift a suspension",
+            "example": "Bruselas podría levantar la suspensión si mejoran los controles.",
+            "tier": "B2"
+          },
+          {
+            "front": "el bloque",
+            "pos": "noun",
+            "back": "bloc (of countries)",
+            "example": "Los dos bloques negocian un acuerdo comercial desde hace años.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La Comisión Europea anunció que, a partir del jueves 3 de septiembre, suspenderá todas las importaciones de carne de vacuno y de aves de corral procedentes de Brasil.",
+            "point": "Reported speech with the future tense",
+            "explanation": "After 'anunció que' the verb stays in the future (suspenderá) because the action is still to come at the moment of speaking. Spanish does not force a tense shift here the way English sometimes does.",
+            "why_tricky": "English speakers often want 'would suspend' (suspendería); the conditional would change the meaning to something more hypothetical."
+          },
+          {
+            "sentence": "Los ganaderos europeos llevan años quejándose de la competencia de la carne sudamericana, mientras que los exportadores brasileños defienden la calidad de sus controles.",
+            "point": "llevar + period of time + gerund",
+            "explanation": "'Llevan años quejándose' means 'they have been complaining for years'. Spanish uses llevar plus a time expression plus the gerund instead of a perfect tense.",
+            "why_tricky": "The literal translation 'they carry years complaining' makes no sense in English, so learners tend to avoid this very common structure."
+          },
+          {
+            "sentence": "Habrá que ver cuánto dura la suspensión y qué condiciones pondrá Bruselas para levantarla.",
+            "point": "habrá que + infinitive and indirect questions",
+            "explanation": "'Habrá que ver' is an impersonal future obligation: 'it will be necessary to see', 'we will have to see'. The indirect questions keep their accents (cuánto, qué) even without question marks.",
+            "why_tricky": "There is no subject at all in 'habrá que', which feels strange in English, and the accents on cuánto and qué are easy to forget."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "habrá que ver",
+            "meaning": "we will have to see, time will tell",
+            "example": "Habrá que ver si el plan funciona de verdad."
+          },
+          {
+            "phrase": "llevar años haciendo algo",
+            "meaning": "to have been doing something for years",
+            "example": "Llevo años estudiando español y todavía aprendo cosas nuevas."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué decisión anunció la Comisión Europea y cuándo entra en vigor?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué es tan importante esta medida para Brasil y sus productores?",
+            "type": "open"
+          },
+          {
+            "q": "¿En qué contexto comercial más amplio llega esta suspensión?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que los países deberían limitar las importaciones de alimentos para proteger a sus productores locales? Escribe un párrafo defendiendo tu posición."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-02-uniforme-francia",
+      "title": "Uniforme escolar: en Francia, el discreto fin de un experimento que no convenció",
+      "source": "RFI en español",
+      "date": "2026-09-01",
+      "level": "B1-B2",
+      "topics": [
+        "educación",
+        "Francia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-02-uniforme-francia",
+        "revision": 1,
+        "meta": {
+          "title": "Uniforme escolar: en Francia, el discreto fin de un experimento que no convenció",
+          "source": "RFI en español",
+          "url": "https://www.rfi.fr/es/francia/20260901-uniforme-escolar-en-francia-el-discreto-fin-de-un-experimento-que-no-convenci%C3%B3",
+          "date_published": "2026-09-01",
+          "date_processed": "2026-09-02",
+          "tags": [
+            "educación",
+            "Francia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "In France, the school uniform experiment is ending quietly: the programme will not be renewed for the start of the 2026 school year. The initiative, launched in 2024, allowed volunteer municipalities to try out the uniform in some of their schools. Its goals included strengthening cohesion between pupils and reducing visible inequalities in clothing. However, the measure never fully convinced families or a good part of the educational community.\n\nThe school uniform is a recurring debate in several European countries. Its defenders argue that it avoids comparisons between pupils and creates a feeling of belonging, while its critics consider it a superficial answer to deeper problems, such as the lack of resources in state schools. In the French case, the silence with which the programme is being abandoned suggests that the results did not live up to expectations.",
+        "resumen_es": "En Francia, el experimento del uniforme escolar termina de forma discreta: el programa no se renovará para el inicio del curso 2026. La iniciativa, lanzada en 2024, permitía a los municipios voluntarios probar el uniforme en algunas de sus escuelas. Sus objetivos incluían reforzar la cohesión entre los alumnos y reducir las desigualdades visibles en la ropa. Sin embargo, la medida nunca llegó a convencer del todo, ni a las familias ni a buena parte de la comunidad educativa.\n\nEl uniforme escolar es un debate recurrente en varios países europeos. Sus defensores sostienen que evita comparaciones entre alumnos y crea un sentimiento de pertenencia, mientras que sus críticos lo consideran una respuesta superficial a problemas más profundos, como la falta de medios en la escuela pública. En el caso francés, el silencio con el que se abandona el programa sugiere que los resultados no estuvieron a la altura de las expectativas.",
+        "vocab": [
+          {
+            "front": "el curso escolar",
+            "pos": "phrase",
+            "back": "school year",
+            "example": "El curso escolar empieza en septiembre.",
+            "tier": "B1"
+          },
+          {
+            "front": "renovar",
+            "pos": "verb",
+            "back": "to renew",
+            "example": "La empresa no quiso renovar el contrato.",
+            "tier": "B1"
+          },
+          {
+            "front": "lanzar",
+            "pos": "verb",
+            "back": "to launch",
+            "example": "El ministerio lanzó una campaña contra el acoso escolar.",
+            "tier": "B1"
+          },
+          {
+            "front": "el alumno",
+            "pos": "noun",
+            "back": "pupil, student",
+            "example": "Los alumnos de esta escuela llevan uniforme azul.",
+            "tier": "B1"
+          },
+          {
+            "front": "reforzar",
+            "pos": "verb",
+            "back": "to strengthen, to reinforce",
+            "example": "El club quiere reforzar el espíritu de equipo.",
+            "tier": "B2"
+          },
+          {
+            "front": "la desigualdad",
+            "pos": "noun",
+            "back": "inequality",
+            "example": "La desigualdad social sigue creciendo en muchas ciudades.",
+            "tier": "B1"
+          },
+          {
+            "front": "del todo",
+            "pos": "phrase",
+            "back": "completely, entirely",
+            "example": "No estoy del todo convencido de esa idea.",
+            "tier": "B2"
+          },
+          {
+            "front": "el sentimiento de pertenencia",
+            "pos": "phrase",
+            "back": "sense of belonging",
+            "example": "El deporte crea un fuerte sentimiento de pertenencia.",
+            "tier": "B2"
+          },
+          {
+            "front": "superficial",
+            "pos": "adj",
+            "back": "superficial, shallow",
+            "example": "Fue una solución superficial que no resolvió nada.",
+            "tier": "B2"
+          },
+          {
+            "front": "la falta de medios",
+            "pos": "phrase",
+            "back": "lack of resources",
+            "example": "Los hospitales denuncian la falta de medios.",
+            "tier": "B2"
+          },
+          {
+            "front": "estar a la altura de",
+            "pos": "phrase",
+            "back": "to live up to, to be up to the level of",
+            "example": "El equipo no estuvo a la altura de las expectativas.",
+            "tier": "C1"
+          },
+          {
+            "front": "recurrente",
+            "pos": "adj",
+            "back": "recurring",
+            "example": "La financiación de la escuela es un tema recurrente en la política.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Sin embargo, la medida nunca llegó a convencer del todo, ni a las familias ni a buena parte de la comunidad educativa.",
+            "point": "llegar a + infinitive and ni... ni",
+            "explanation": "'Llegar a convencer' means 'to manage to convince, to get to the point of convincing'. The double negative 'ni... ni' ('neither... nor') is reinforced by 'nunca' earlier in the sentence.",
+            "why_tricky": "Piling up negatives (nunca, ni, ni) is correct and natural in Spanish, while English grammar teaches you to avoid double negatives."
+          },
+          {
+            "sentence": "La iniciativa, lanzada en 2024, permitía a los municipios voluntarios probar el uniforme en algunas de sus escuelas.",
+            "point": "Past participle used as an adjective and permitir + a + infinitive",
+            "explanation": "'Lanzada' agrees in gender with 'la iniciativa' and works like a compressed relative clause ('que fue lanzada'). With 'permitir', the person allowed takes 'a' and the action stays in the infinitive.",
+            "why_tricky": "Learners often insert 'que' unnecessarily ('permitía a los municipios que probaran'), which is possible but heavier than the infinitive construction."
+          },
+          {
+            "sentence": "En el caso francés, el silencio con el que se abandona el programa sugiere que los resultados no estuvieron a la altura de las expectativas.",
+            "point": "Relative clause with preposition (con el que) and impersonal se",
+            "explanation": "'El silencio con el que se abandona el programa' means 'the silence with which the programme is being abandoned'. The preposition moves in front of the relative pronoun, and 'se abandona' hides the agent.",
+            "why_tricky": "English allows 'the silence the programme is abandoned with', but Spanish never leaves the preposition stranded at the end."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "estar a la altura de",
+            "meaning": "to live up to, to measure up to",
+            "example": "La película no estuvo a la altura de la novela."
+          },
+          {
+            "phrase": "de forma discreta",
+            "meaning": "quietly, without drawing attention",
+            "example": "El ministro abandonó la reunión de forma discreta."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué va a pasar con el programa del uniforme escolar en Francia y desde cuándo existía?",
+            "type": "open"
+          },
+          {
+            "q": "¿Cuáles eran los objetivos de la iniciativa según el texto?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué argumentos dan los defensores y los críticos del uniforme escolar?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Estás a favor o en contra del uniforme escolar? Escribe un párrafo con al menos dos argumentos para defender tu opinión."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-02-terremotos-conexion",
+      "title": "¿Hay alguna conexión entre los recientes terremotos en Venezuela, Colombia y Perú?",
+      "source": "BBC Mundo",
+      "date": "2026-09-01",
+      "level": "B1-B2",
+      "topics": [
+        "ciencia",
+        "sismos"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-02-terremotos-conexion",
+        "revision": 1,
+        "meta": {
+          "title": "¿Hay alguna conexión entre los recientes terremotos en Venezuela, Colombia y Perú?",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cvgy73en40eo",
+          "date_published": "2026-09-01",
+          "date_processed": "2026-09-02",
+          "tags": [
+            "ciencia",
+            "sismos"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "After a series of recent earthquakes in Venezuela, Colombia and Peru, many BBC Mundo readers asked themselves the same question: are these seismic movements connected? To answer it, the outlet consulted specialists in seismology. The concern is understandable, because the tremors occurred in neighbouring countries and within a short period of time, something that feeds the feeling that one event triggers the next.\n\nThe experts recall that South America sits in a zone of intense seismic activity, where several tectonic plates have been colliding with each other for millions of years. That is why earthquakes are frequent in the region and can coincide in time without being directly related. In general, a quake can only influence nearby faults; at hundreds of kilometres of distance, a direct connection is very unlikely, according to current science.",
+        "resumen_es": "Tras una serie de terremotos recientes en Venezuela, Colombia y Perú, muchos lectores de BBC Mundo se hicieron la misma pregunta: ¿están conectados estos movimientos sísmicos? Para responderla, el medio consultó a especialistas en sismología. La inquietud es comprensible, porque los temblores se produjeron en países vecinos y en un periodo corto de tiempo, algo que alimenta la sensación de que un evento provoca el siguiente.\n\nLos expertos recuerdan que América del Sur se encuentra en una zona de intensa actividad sísmica, donde varias placas tectónicas chocan entre sí desde hace millones de años. Por eso, los terremotos son frecuentes en la región y pueden coincidir en el tiempo sin estar directamente relacionados. En general, un sismo solo puede influir en fallas cercanas; a cientos de kilómetros de distancia, la conexión directa es muy poco probable, según la ciencia actual.",
+        "vocab": [
+          {
+            "front": "el terremoto",
+            "pos": "noun",
+            "back": "earthquake",
+            "example": "El terremoto despertó a toda la ciudad.",
+            "tier": "B1"
+          },
+          {
+            "front": "el temblor",
+            "pos": "noun",
+            "back": "tremor, quake",
+            "example": "Sentimos un temblor ligero durante la cena.",
+            "tier": "B1"
+          },
+          {
+            "front": "el sismo",
+            "pos": "noun",
+            "back": "earthquake (common in Latin America)",
+            "example": "El sismo se sintió en tres países.",
+            "tier": "B2"
+          },
+          {
+            "front": "la placa tectónica",
+            "pos": "phrase",
+            "back": "tectonic plate",
+            "example": "Las placas tectónicas se mueven unos centímetros al año.",
+            "tier": "B2"
+          },
+          {
+            "front": "la falla",
+            "pos": "noun",
+            "back": "geological fault",
+            "example": "La ciudad está construida cerca de una falla activa.",
+            "tier": "B2"
+          },
+          {
+            "front": "chocar",
+            "pos": "verb",
+            "back": "to collide, to crash",
+            "example": "Cuando dos placas chocan, la tierra tiembla.",
+            "tier": "B1"
+          },
+          {
+            "front": "la inquietud",
+            "pos": "noun",
+            "back": "concern, unease",
+            "example": "La noticia generó inquietud entre los vecinos.",
+            "tier": "B2"
+          },
+          {
+            "front": "alimentar",
+            "pos": "verb",
+            "back": "to feed, to fuel (an idea or feeling)",
+            "example": "Los rumores alimentan el miedo de la gente.",
+            "tier": "B2"
+          },
+          {
+            "front": "vecino",
+            "pos": "adj",
+            "back": "neighbouring",
+            "example": "Los países vecinos comparten una larga frontera.",
+            "tier": "B1"
+          },
+          {
+            "front": "coincidir",
+            "pos": "verb",
+            "back": "to coincide",
+            "example": "Las dos fiestas coinciden en la misma semana.",
+            "tier": "B1"
+          },
+          {
+            "front": "poco probable",
+            "pos": "phrase",
+            "back": "unlikely",
+            "example": "Es poco probable que llueva mañana.",
+            "tier": "B1"
+          },
+          {
+            "front": "hacerse una pregunta",
+            "pos": "phrase",
+            "back": "to ask oneself a question",
+            "example": "Me hice la misma pregunta cuando leí la noticia.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Tras una serie de terremotos recientes en Venezuela, Colombia y Perú, muchos lectores de BBC Mundo se hicieron la misma pregunta: ¿están conectados estos movimientos sísmicos?",
+            "point": "Reflexive hacerse una pregunta and estar + participle",
+            "explanation": "'Se hicieron la misma pregunta' literally means 'they made themselves the same question', the normal way to say 'they wondered'. In the question, 'están conectados' uses estar plus a participle to describe a state.",
+            "why_tricky": "Learners often say 'preguntarse' or try 'hacer una pregunta a sí mismos'; and choosing estar (not ser) with 'conectados' is a classic difficulty."
+          },
+          {
+            "sentence": "Los expertos recuerdan que América del Sur se encuentra en una zona de intensa actividad sísmica, donde varias placas tectónicas chocan entre sí desde hace millones de años.",
+            "point": "desde hace + period of time with the present tense",
+            "explanation": "'Chocan desde hace millones de años' means 'they have been colliding for millions of years'. Spanish uses the simple present with 'desde hace' where English needs the present perfect continuous.",
+            "why_tricky": "The English structure pushes learners towards 'han estado chocando', which is grammatical but much less natural here."
+          },
+          {
+            "sentence": "Por eso, los terremotos son frecuentes en la región y pueden coincidir en el tiempo sin estar directamente relacionados.",
+            "point": "sin + infinitive",
+            "explanation": "'Sin estar relacionados' means 'without being related'. After 'sin', Spanish always uses the infinitive, never a gerund.",
+            "why_tricky": "English uses the -ing form ('without being'), so learners frequently produce the incorrect 'sin estando'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "entre sí",
+            "meaning": "with each other, among themselves",
+            "example": "Los dos hermanos casi no hablan entre sí."
+          },
+          {
+            "phrase": "alimentar la sensación de que",
+            "meaning": "to fuel the feeling that",
+            "example": "Su silencio alimenta la sensación de que algo va mal."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué pregunta se hicieron los lectores de BBC Mundo y por qué?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué son tan frecuentes los terremotos en América del Sur según los expertos?",
+            "type": "open"
+          },
+          {
+            "q": "¿En qué casos puede un sismo influir en otro, según el texto?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Vives o has vivido en una zona con riesgo de terremotos u otro fenómeno natural? Describe tu experiencia o explica cómo crees que una ciudad debería prepararse."
+      }
+    },
     {
       "pack_id": "feed-2026-09-02-china-solar",
       "title": "En China, la energía solar supera al carbón en potencia instalada",
@@ -6180,501 +6666,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que un país debe producir la mayor parte de su propia comida, o es aceptable depender de las importaciones? Justifica tu opinión con ejemplos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-26-francia-telefonos",
-      "title": "Francia: el quebradero de cabeza para impedir el uso de teléfonos en las secundarias",
-      "source": "RFI",
-      "date": "2026-08-25",
-      "level": "B1-B2",
-      "topics": [
-        "educación",
-        "tecnología"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-26-francia-telefonos",
-        "revision": 1,
-        "meta": {
-          "title": "Francia: el quebradero de cabeza para impedir el uso de teléfonos en las secundarias",
-          "source": "RFI",
-          "url": "https://www.rfi.fr/es/francia/20260825-francia-el-quebradero-de-cabeza-para-impedir-el-uso-de-tel%C3%A9fonos-en-las-secundarias",
-          "date_published": "2026-08-25",
-          "date_processed": "2026-08-26",
-          "tags": [
-            "educación",
-            "tecnología"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The French government has issued a challenge to the head teachers of all the country's secondary schools: they have one week to ban the use of mobile phones in their schools, before the start of the new school year. The measure aims to reduce distractions in class and improve pupils' concentration, but putting it into practice has become a real headache for many schools, which do not know how to control the devices of thousands of students.\n\nThe debate about phones in the classroom is not new. In recent years, several European countries have adopted similar restrictions, convinced that screens harm academic performance. Supporters of the ban cite studies on loss of attention, while some teachers doubt that the rule can be enforced without more resources or staff. The return to school will be the first acid test.",
-        "resumen_es": "El Gobierno francés ha lanzado un desafío a los directores de todas las escuelas secundarias del país: tienen una semana para prohibir el uso de teléfonos móviles en sus centros educativos, antes del inicio del nuevo curso escolar. La medida busca reducir las distracciones en clase y mejorar la concentración de los alumnos, pero su aplicación se ha convertido en un quebradero de cabeza para muchos centros, que no saben cómo controlar los dispositivos de miles de estudiantes.\n\nEl debate sobre los móviles en las aulas no es nuevo. En los últimos años, varios países europeos han adoptado restricciones similares, convencidos de que las pantallas perjudican el rendimiento académico. Los defensores de la prohibición citan estudios sobre la falta de atención, mientras que algunos profesores dudan de que la norma pueda cumplirse sin más recursos ni personal. La vuelta a clase será la primera prueba de fuego.",
-        "vocab": [
-          {
-            "front": "el desafío",
-            "pos": "noun",
-            "back": "challenge",
-            "example": "Aprender chino es un gran desafío.",
-            "tier": "B1"
-          },
-          {
-            "front": "prohibir",
-            "pos": "verb",
-            "back": "to ban, to forbid",
-            "example": "Quieren prohibir fumar en las terrazas.",
-            "tier": "B1"
-          },
-          {
-            "front": "el curso escolar",
-            "pos": "phrase",
-            "back": "school year",
-            "example": "El curso escolar empieza en septiembre.",
-            "tier": "B1"
-          },
-          {
-            "front": "el quebradero de cabeza",
-            "pos": "phrase",
-            "back": "headache, tricky problem",
-            "example": "Organizar la mudanza fue un quebradero de cabeza.",
-            "tier": "C1"
-          },
-          {
-            "front": "el alumno",
-            "pos": "noun",
-            "back": "pupil, student",
-            "example": "Los alumnos entregaron sus trabajos a tiempo.",
-            "tier": "B1"
-          },
-          {
-            "front": "el aula",
-            "pos": "noun",
-            "back": "classroom (feminine noun with 'el')",
-            "example": "El aula estaba llena de estudiantes.",
-            "tier": "B1"
-          },
-          {
-            "front": "el rendimiento",
-            "pos": "noun",
-            "back": "performance, output",
-            "example": "El descanso mejora el rendimiento académico.",
-            "tier": "B2"
-          },
-          {
-            "front": "el dispositivo",
-            "pos": "noun",
-            "back": "device",
-            "example": "Apaga todos los dispositivos antes del despegue.",
-            "tier": "B1"
-          },
-          {
-            "front": "cumplirse",
-            "pos": "verb",
-            "back": "to be fulfilled, to be enforced",
-            "example": "La norma no se cumple en todos los centros.",
-            "tier": "B2"
-          },
-          {
-            "front": "dudar de",
-            "pos": "verb",
-            "back": "to doubt",
-            "example": "Dudo de que el plan funcione sin más dinero.",
-            "tier": "B1"
-          },
-          {
-            "front": "perjudicar",
-            "pos": "verb",
-            "back": "to harm, to damage",
-            "example": "El ruido perjudica la concentración de los alumnos.",
-            "tier": "B2"
-          },
-          {
-            "front": "la vuelta a clase",
-            "pos": "phrase",
-            "back": "return to school",
-            "example": "La vuelta a clase siempre es dura después del verano.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La medida busca reducir las distracciones en clase y mejorar la concentración de los alumnos, pero su aplicación se ha convertido en un quebradero de cabeza para muchos centros, que no saben cómo controlar los dispositivos de miles de estudiantes.",
-            "point": "convertirse en + noun",
-            "explanation": "Convertirse en expresses becoming or turning into something: se ha convertido en un quebradero de cabeza = it has become a headache.",
-            "why_tricky": "Spanish has several verbs for 'to become' (hacerse, volverse, ponerse, convertirse en); convertirse en is the one used for transformation into a thing or state expressed by a noun."
-          },
-          {
-            "sentence": "mientras que algunos profesores dudan de que la norma pueda cumplirse sin más recursos ni personal.",
-            "point": "subjunctive after dudar de que",
-            "explanation": "Dudar de que expresses doubt, so the following verb goes into the subjunctive: pueda instead of puede. Cumplirse is a passive-like reflexive: 'be enforced'.",
-            "why_tricky": "The indicative (puede) would sound wrong to natives; doubt triggers the subjunctive even when the doubted fact seems likely."
-          },
-          {
-            "sentence": "La vuelta a clase será la primera prueba de fuego.",
-            "point": "simple future of ser for scheduled or expected events",
-            "explanation": "Será announces something expected: the return to school will be the first real test.",
-            "why_tricky": "Learners often overuse 'ir a + infinitive'; the simple future is natural in written journalism for predictions."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "la prueba de fuego",
-            "meaning": "the acid test, the decisive test",
-            "example": "El estreno será la prueba de fuego para la obra."
-          },
-          {
-            "phrase": "ponerse las pilas",
-            "meaning": "to get one's act together",
-            "example": "Los centros tendrán que ponerse las pilas antes de septiembre."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Cuánto tiempo tienen los directores franceses para aplicar la prohibición?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué la aplicación de la medida es difícil para muchos centros?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué opinan algunos profesores sobre la nueva norma?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Estás de acuerdo con prohibir los teléfonos móviles en las escuelas? Escribe un párrafo defendiendo tu posición con al menos dos argumentos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-26-rumania-sequia-nuclear",
-      "title": "La sequía impide a Rumania reactivar su única central nuclear",
-      "source": "RFI",
-      "date": "2026-08-25",
-      "level": "B1-B2",
-      "topics": [
-        "clima",
-        "energía"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-26-rumania-sequia-nuclear",
-        "revision": 1,
-        "meta": {
-          "title": "La sequía impide a Rumania reactivar su única central nuclear",
-          "source": "RFI",
-          "url": "https://www.rfi.fr/es/europa/20260825-la-sequ%C3%ADa-impide-a-rumania-reactivar-su-%C3%BAnica-central-nuclear",
-          "date_published": "2026-08-25",
-          "date_processed": "2026-08-26",
-          "tags": [
-            "clima",
-            "energía"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The extreme drought affecting Eastern Europe has left the Danube at its lowest level in history, and this situation is preventing Romania from restarting its only nuclear power plant. The plant needs large amounts of river water to cool its reactors, which is impossible with the current flow. Faced with the emergency, the Romanian government announced a series of urgent measures on Friday to guarantee the country's electricity supply.\n\nThe Romanian case illustrates a growing problem across the continent: climate change threatens infrastructure that was designed for a different climate. Nuclear plants depend on rivers to cool themselves, and increasingly frequent droughts call their reliability into question. Experts warn that Europe will have to adapt its energy system if it wants to avoid power cuts in the dry summers to come.",
-        "resumen_es": "La sequía extrema que afecta a Europa del Este ha dejado el Danubio en su nivel más bajo de la historia, y esta situación impide a Rumania reactivar su única central nuclear. La planta necesita grandes cantidades de agua del río para refrigerar sus reactores, algo imposible con el caudal actual. Ante la emergencia, el Gobierno rumano anunció el viernes una serie de medidas urgentes para garantizar el suministro eléctrico del país.\n\nEl caso rumano ilustra un problema creciente en todo el continente: el cambio climático amenaza infraestructuras que se diseñaron para otro clima. Las centrales nucleares dependen de los ríos para refrigerarse, y las sequías cada vez más frecuentes ponen en duda su fiabilidad. Los expertos advierten de que Europa tendrá que adaptar su sistema energético si quiere evitar cortes de luz en los veranos secos que vienen.",
-        "vocab": [
-          {
-            "front": "la sequía",
-            "pos": "noun",
-            "back": "drought",
-            "example": "La sequía arruinó la cosecha de este año.",
-            "tier": "B1"
-          },
-          {
-            "front": "el caudal",
-            "pos": "noun",
-            "back": "flow, volume (of a river)",
-            "example": "El caudal del río baja mucho en verano.",
-            "tier": "C1"
-          },
-          {
-            "front": "impedir",
-            "pos": "verb",
-            "back": "to prevent, to stop",
-            "example": "La nieve impidió el paso de los camiones.",
-            "tier": "B1"
-          },
-          {
-            "front": "refrigerar",
-            "pos": "verb",
-            "back": "to cool, to refrigerate",
-            "example": "El sistema refrigera el motor con agua.",
-            "tier": "B2"
-          },
-          {
-            "front": "el suministro",
-            "pos": "noun",
-            "back": "supply",
-            "example": "El suministro eléctrico se cortó durante la tormenta.",
-            "tier": "B2"
-          },
-          {
-            "front": "medidas urgentes",
-            "pos": "phrase",
-            "back": "emergency measures",
-            "example": "El Gobierno aprobó medidas urgentes contra la crisis.",
-            "tier": "B1"
-          },
-          {
-            "front": "amenazar",
-            "pos": "verb",
-            "back": "to threaten",
-            "example": "La contaminación amenaza la salud de todos.",
-            "tier": "B1"
-          },
-          {
-            "front": "la fiabilidad",
-            "pos": "noun",
-            "back": "reliability",
-            "example": "La fiabilidad de estos datos es dudosa.",
-            "tier": "B2"
-          },
-          {
-            "front": "advertir de",
-            "pos": "verb",
-            "back": "to warn about",
-            "example": "Los médicos advierten de los riesgos del tabaco.",
-            "tier": "B2"
-          },
-          {
-            "front": "el corte de luz",
-            "pos": "phrase",
-            "back": "power cut",
-            "example": "Hubo un corte de luz en todo el barrio.",
-            "tier": "B1"
-          },
-          {
-            "front": "poner en duda",
-            "pos": "phrase",
-            "back": "to call into question",
-            "example": "Nadie pone en duda su talento.",
-            "tier": "B2"
-          },
-          {
-            "front": "diseñar",
-            "pos": "verb",
-            "back": "to design",
-            "example": "El puente fue diseñado hace cien años.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La sequía extrema que afecta a Europa del Este ha dejado el Danubio en su nivel más bajo de la historia, y esta situación impide a Rumania reactivar su única central nuclear.",
-            "point": "impedir a alguien + infinitive",
-            "explanation": "Impedir takes an indirect object with a (impide a Rumania) followed by an infinitive: prevents Romania from restarting.",
-            "why_tricky": "English needs 'prevent someone FROM doing'; Spanish drops the preposition before the infinitive entirely."
-          },
-          {
-            "sentence": "Las centrales nucleares dependen de los ríos para refrigerarse, y las sequías cada vez más frecuentes ponen en duda su fiabilidad.",
-            "point": "cada vez más + adjective",
-            "explanation": "Cada vez más frecuentes means increasingly frequent. The structure cada vez más/menos + adjective expresses a growing trend.",
-            "why_tricky": "There is no single English word for it; learners often try 'más y más', which sounds unnatural in careful Spanish."
-          },
-          {
-            "sentence": "Los expertos advierten de que Europa tendrá que adaptar su sistema energético si quiere evitar cortes de luz en los veranos secos que vienen.",
-            "point": "tener que in the future + real conditional with si",
-            "explanation": "Tendrá que adaptar = will have to adapt. The si clause uses the present (si quiere) for a real, likely condition, never the future.",
-            "why_tricky": "Learners are tempted to write 'si querrá'; Spanish never uses the future after si in this type of condition."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "estar bajo mínimos",
-            "meaning": "to be at rock bottom, at minimum levels",
-            "example": "El río está bajo mínimos después de meses sin lluvia."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué no puede Rumania reactivar su central nuclear?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué anunció el Gobierno rumano el viernes y con qué objetivo?",
-            "type": "open"
-          },
-          {
-            "q": "Según el artículo, ¿qué problema general ilustra el caso rumano?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "El cambio climático obliga a repensar el sistema energético europeo. ¿Qué fuentes de energía crees que deberían recibir más inversión y por qué?"
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-25-peptidos-ciencia",
-      "title": "Qué son los péptidos, para qué sirven y qué dice la ciencia sobre los efectos de inyectárselos",
-      "source": "BBC Mundo",
-      "date": "2026-08-25",
-      "level": "B1-B2",
-      "topics": [
-        "salud",
-        "ciencia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-25-peptidos-ciencia",
-        "revision": 1,
-        "meta": {
-          "title": "Qué son los péptidos, para qué sirven y qué dice la ciencia sobre los efectos de inyectárselos",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c79g7qjyx70o",
-          "date_published": "2026-08-25",
-          "date_processed": "2026-08-25",
-          "tags": [
-            "salud",
-            "ciencia"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Peptides have become the latest obsession in the wellness world. On social media, many users claim that injecting these short chains of amino acids improves the skin, speeds up muscle recovery and helps with weight loss. The BBC explains what they actually are and why their popularity is growing so quickly among people looking for shortcuts to feeling better.\n\nThe scientific evidence, however, remains thin. Most of the peptides circulating as experimental products have not gone through large clinical trials, so their long-term effects are unknown. Specialists warn that buying them online carries a risk, since you do not always know what is in the bottle. Before following a trend, it is worth consulting a health professional.",
-        "resumen_es": "Los péptidos se han convertido en la última obsesión del mundo del bienestar. En redes sociales, muchos usuarios aseguran que inyectarse estas pequeñas cadenas de aminoácidos mejora la piel, acelera la recuperación muscular y ayuda a perder peso. La BBC explica qué son en realidad y por qué su popularidad crece tan rápido entre quienes buscan atajos para sentirse mejor.\n\nSin embargo, la evidencia científica sigue siendo escasa. La mayoría de los péptidos que circulan como productos experimentales no han pasado por ensayos clínicos amplios, de modo que sus efectos a largo plazo se desconocen. Los especialistas advierten de que comprarlos por internet supone un riesgo, ya que no siempre se sabe qué contiene el frasco. Antes de seguir una moda, conviene consultar a un profesional sanitario.",
-        "vocab": [
-          {
-            "front": "el bienestar",
-            "pos": "noun",
-            "back": "wellbeing, wellness",
-            "example": "La industria del bienestar mueve mucho dinero.",
-            "tier": "B1"
-          },
-          {
-            "front": "inyectarse",
-            "pos": "verb",
-            "back": "to inject oneself with something",
-            "example": "Se inyectaba vitaminas sin control médico.",
-            "tier": "B2"
-          },
-          {
-            "front": "la cadena de aminoácidos",
-            "pos": "noun",
-            "back": "chain of amino acids",
-            "example": "Una proteína es una cadena de aminoácidos larga.",
-            "tier": "B2"
-          },
-          {
-            "front": "acelerar la recuperación",
-            "pos": "phrase",
-            "back": "to speed up recovery",
-            "example": "Dormir bien acelera la recuperación tras el ejercicio.",
-            "tier": "B1"
-          },
-          {
-            "front": "el atajo",
-            "pos": "noun",
-            "back": "shortcut",
-            "example": "En salud no suele haber atajos.",
-            "tier": "B1"
-          },
-          {
-            "front": "la evidencia científica",
-            "pos": "noun",
-            "back": "scientific evidence",
-            "example": "La evidencia científica todavía es limitada.",
-            "tier": "B1"
-          },
-          {
-            "front": "escaso",
-            "pos": "adj",
-            "back": "scarce, thin on the ground",
-            "example": "Los datos sobre ese tratamiento son escasos.",
-            "tier": "B2"
-          },
-          {
-            "front": "el ensayo clínico",
-            "pos": "noun",
-            "back": "clinical trial",
-            "example": "El fármaco está en la segunda fase del ensayo clínico.",
-            "tier": "B2"
-          },
-          {
-            "front": "a largo plazo",
-            "pos": "phrase",
-            "back": "in the long term",
-            "example": "Nadie conoce los efectos a largo plazo.",
-            "tier": "B1"
-          },
-          {
-            "front": "desconocerse",
-            "pos": "verb",
-            "back": "to be unknown",
-            "example": "Se desconoce el origen exacto del problema.",
-            "tier": "B2"
-          },
-          {
-            "front": "suponer un riesgo",
-            "pos": "phrase",
-            "back": "to pose a risk",
-            "example": "Automedicarse supone un riesgo real.",
-            "tier": "B2"
-          },
-          {
-            "front": "convenir",
-            "pos": "verb",
-            "back": "to be advisable, to be a good idea",
-            "example": "Conviene leer bien la etiqueta.",
-            "tier": "B2"
-          },
-          {
-            "front": "el frasco",
-            "pos": "noun",
-            "back": "bottle, small jar (of liquid)",
-            "example": "El frasco no llevaba ninguna etiqueta.",
-            "tier": "B1"
-          },
-          {
-            "front": "seguir una moda",
-            "pos": "phrase",
-            "back": "to follow a trend",
-            "example": "Muchos siguen la moda sin informarse.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La mayoría de los péptidos que circulan como productos experimentales no han pasado por ensayos clínicos amplios, de modo que sus efectos a largo plazo se desconocen.",
-            "point": "de modo que + indicativo, y pasiva refleja con se",
-            "explanation": "'De modo que' con indicativo introduce una consecuencia real: los efectos se desconocen porque no ha habido ensayos. 'Se desconocen' es pasiva refleja: no decimos quién los desconoce.",
-            "why_tricky": "Con subjuntivo ('de modo que se desconozcan') la frase pasaría a expresar finalidad, no consecuencia. Además, el verbo concuerda con 'efectos' en plural, no con un sujeto humano."
-          },
-          {
-            "sentence": "Los especialistas advierten de que comprarlos por internet supone un riesgo, ya que no siempre se sabe qué contiene el frasco.",
-            "point": "advertir de que, y el infinitivo como sujeto",
-            "explanation": "'Advertir' admite 'advertir de que' cuando el sentido es avisar de un peligro. 'Comprarlos' es un infinitivo que funciona como sujeto de 'supone'.",
-            "why_tricky": "Los aprendices suelen quitar el 'de' por miedo al dequeísmo, pero aquí la preposición es correcta. Y como el sujeto es un infinitivo, el verbo va siempre en singular."
-          },
-          {
-            "sentence": "Antes de seguir una moda, conviene consultar a un profesional sanitario.",
-            "point": "conviene + infinitivo (impersonal) y la a personal",
-            "explanation": "'Conviene' funciona como verbo impersonal: no tiene sujeto y va seguido de infinitivo. 'A un profesional' lleva 'a' porque el complemento directo es una persona.",
-            "why_tricky": "Si el consejo se dirige a alguien concreto hace falta subjuntivo ('conviene que consultes'), y olvidar la a personal es uno de los errores más frecuentes en B1."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "vender humo",
-            "meaning": "to sell empty promises, to be all talk",
-            "example": "Muchos influencers de salud venden humo."
-          },
-          {
-            "phrase": "tomar algo con pinzas",
-            "meaning": "to take something with a pinch of salt",
-            "example": "Esos resultados hay que tomarlos con pinzas."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué se han puesto de moda los péptidos en las redes sociales?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué problema señala el artículo sobre la evidencia científica?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué riesgos tiene comprar este tipo de productos por internet?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que las redes sociales deberían regular los consejos de salud que difunden los influencers? Escribe unas 120 palabras defendiendo tu postura con ejemplos concretos."
       }
     }
   ]
