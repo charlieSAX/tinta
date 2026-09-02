@@ -1,7 +1,487 @@
 {
-  "generated_at": "2026-09-01T07:28:47Z",
+  "generated_at": "2026-09-02T06:46:39Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-09-02-china-solar",
+      "title": "En China, la energía solar supera al carbón en potencia instalada",
+      "source": "RFI en español",
+      "date": "2026-09-01",
+      "level": "B1-B2",
+      "topics": [
+        "energía",
+        "China"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-02-china-solar",
+        "revision": 1,
+        "meta": {
+          "title": "En China, la energía solar supera al carbón en potencia instalada",
+          "source": "RFI en español",
+          "url": "https://www.rfi.fr/es/asia-pacifico/20260901-en-china-la-energ%C3%ADa-solar-supera-al-carb%C3%B3n-en-potencia-instalada",
+          "date_published": "2026-09-01",
+          "date_processed": "2026-09-02",
+          "tags": [
+            "energía",
+            "China"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Solar energy has just reached a historic milestone in China: for the first time, the country's solar installations can supply more electrical power than all of its coal plants combined. It is a hugely symbolic change for the planet's biggest emitter of greenhouse gases, which for decades built its economic growth on coal. In recent years, China has been installing solar panels at a pace that no other country can match.\n\nHowever, the news needs some nuance. This is theoretical capacity: the electricity actually produced from the sun is still lower, because the panels only generate when there is light. In addition, China's electrical system is still organised largely around coal, which guarantees supply when demand surges. The challenge now is to store the energy and modernise the grid.",
+        "resumen_es": "La energía solar acaba de alcanzar un hito histórico en China: por primera vez, las instalaciones solares del país pueden suministrar más potencia eléctrica que el conjunto de las centrales de carbón. Es un cambio simbólico enorme para el mayor emisor de gases de efecto invernadero del planeta, que durante décadas construyó su crecimiento económico sobre el carbón. En los últimos años, China ha instalado paneles solares a un ritmo que ningún otro país puede igualar.\n\nSin embargo, conviene matizar la noticia. Se trata de una capacidad teórica: la electricidad realmente producida por el sol sigue siendo inferior, porque los paneles solo generan cuando hay luz. Además, el sistema eléctrico chino sigue organizado en gran medida en torno al carbón, que garantiza el suministro cuando la demanda se dispara. El desafío ahora es almacenar la energía y modernizar la red.",
+        "vocab": [
+          {
+            "front": "el hito",
+            "pos": "noun",
+            "back": "milestone",
+            "example": "Este acuerdo es un hito en la historia del país.",
+            "tier": "B2"
+          },
+          {
+            "front": "suministrar",
+            "pos": "verb",
+            "back": "to supply",
+            "example": "La empresa suministra electricidad a toda la región.",
+            "tier": "B2"
+          },
+          {
+            "front": "la potencia",
+            "pos": "noun",
+            "back": "power, capacity",
+            "example": "La central tiene una potencia enorme.",
+            "tier": "B1"
+          },
+          {
+            "front": "el carbón",
+            "pos": "noun",
+            "back": "coal",
+            "example": "El carbón contamina más que el gas.",
+            "tier": "B1"
+          },
+          {
+            "front": "gases de efecto invernadero",
+            "pos": "phrase",
+            "back": "greenhouse gases",
+            "example": "Hay que reducir los gases de efecto invernadero.",
+            "tier": "B2"
+          },
+          {
+            "front": "matizar",
+            "pos": "verb",
+            "back": "to qualify, to add nuance",
+            "example": "Quiero matizar lo que dije ayer.",
+            "tier": "C1"
+          },
+          {
+            "front": "almacenar",
+            "pos": "verb",
+            "back": "to store",
+            "example": "Es difícil almacenar la energía solar.",
+            "tier": "B2"
+          },
+          {
+            "front": "dispararse",
+            "pos": "verb",
+            "back": "to shoot up, to surge",
+            "example": "Los precios se dispararon en verano.",
+            "tier": "B2"
+          },
+          {
+            "front": "la red",
+            "pos": "noun",
+            "back": "grid, network",
+            "example": "La red eléctrica necesita inversiones.",
+            "tier": "B1"
+          },
+          {
+            "front": "el ritmo",
+            "pos": "noun",
+            "back": "pace, rhythm",
+            "example": "Trabajamos a un ritmo muy alto.",
+            "tier": "B1"
+          },
+          {
+            "front": "igualar",
+            "pos": "verb",
+            "back": "to equal, to match",
+            "example": "Nadie puede igualar su récord.",
+            "tier": "B2"
+          },
+          {
+            "front": "en torno a",
+            "pos": "phrase",
+            "back": "around, centred on",
+            "example": "El debate gira en torno al clima.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Se trata de una capacidad teórica: la electricidad realmente producida por el sol sigue siendo inferior, porque los paneles solo generan cuando hay luz.",
+            "point": "seguir + gerundio",
+            "explanation": "Seguir followed by a gerund (sigue siendo) expresses that a state continues: it is still lower.",
+            "why_tricky": "English uses still plus a verb, while Spanish packs the idea of continuity into seguir plus the gerund."
+          },
+          {
+            "sentence": "En los últimos años, China ha instalado paneles solares a un ritmo que ningún otro país puede igualar.",
+            "point": "pretérito perfecto with a time frame that reaches the present",
+            "explanation": "Ha instalado is used because en los últimos años is a period connected to now; the relative clause with ningún otro país adds a negative comparison.",
+            "why_tricky": "Learners often switch to the simple past here; the perfect is preferred when the time frame includes the present."
+          },
+          {
+            "sentence": "El desafío ahora es almacenar la energía y modernizar la red.",
+            "point": "infinitive as complement of ser",
+            "explanation": "After el desafío es, Spanish uses bare infinitives (almacenar, modernizar) where English often uses to store, to modernise.",
+            "why_tricky": "No preposition is needed before the infinitives, which feels bare to English speakers."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "marcar un hito",
+            "meaning": "to mark a milestone, to be a turning point",
+            "example": "La llegada del tren marcó un hito en la región."
+          },
+          {
+            "phrase": "girar en torno a",
+            "meaning": "to revolve around",
+            "example": "Toda la conversación giró en torno al dinero."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué hito ha alcanzado la energía solar en China?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué la capacidad instalada no refleja la electricidad realmente producida?",
+            "type": "open"
+          },
+          {
+            "q": "¿Cuál es el desafío principal para el sistema eléctrico chino ahora?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que la transición energética puede avanzar sin abandonar de golpe las fuentes tradicionales? Escribe tu opinión en unas 100 palabras."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-02-apple-ternus",
+      "title": "John Ternus, nuevo director ejecutivo de Apple: un ingeniero de la propia empresa al mando",
+      "source": "RFI en español",
+      "date": "2026-09-01",
+      "level": "B1-B2",
+      "topics": [
+        "tecnología",
+        "empresa"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-02-apple-ternus",
+        "revision": 1,
+        "meta": {
+          "title": "John Ternus, nuevo director ejecutivo de Apple: un ingeniero de la propia empresa al mando",
+          "source": "RFI en español",
+          "url": "https://www.rfi.fr/es/economia/20260901-john-ternus-nuevo-director-ejecutivo-de-apple-un-ingeniero-de-la-propia-empresa-al-mando",
+          "date_published": "2026-09-01",
+          "date_processed": "2026-09-02",
+          "tags": [
+            "tecnología",
+            "empresa"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "A historic change at the top of Apple: after fifteen years leading the company, Tim Cook is handing the chief executive role to John Ternus. The new boss does not come from outside; rather, he is an engineer from within the company itself, trained for years in developing the brand's hardware. With this handover, Apple keeps its tradition of promoting internal talent instead of looking for leaders at other companies.\n\nTernus's first urgent challenge will be artificial intelligence, an area where the Apple brand has built up a considerable delay compared with its rivals. Analysts wonder whether a technical profile will manage to speed up that transformation without losing what makes Apple special: careful design and a closed ecosystem that its customers know well.",
+        "resumen_es": "Cambio histórico en la cúpula de Apple: tras quince años al frente de la empresa, Tim Cook cede el puesto de director ejecutivo a John Ternus. El nuevo jefe no viene de fuera, sino que es un ingeniero de la propia casa, formado durante años en el desarrollo del hardware de la marca. Con este relevo, Apple mantiene su tradición de promover el talento interno en lugar de buscar líderes en otras compañías.\n\nEl primer reto urgente de Ternus será la inteligencia artificial, un terreno en el que la marca de la manzana acumula un retraso considerable frente a sus rivales. Los analistas se preguntan si un perfil técnico logrará acelerar esa transformación sin perder lo que hace especial a Apple: el diseño cuidado y un ecosistema cerrado que sus clientes conocen bien.",
+        "vocab": [
+          {
+            "front": "la cúpula",
+            "pos": "noun",
+            "back": "leadership, top level of an organisation",
+            "example": "La cúpula del partido tomó la decisión.",
+            "tier": "C1"
+          },
+          {
+            "front": "ceder",
+            "pos": "verb",
+            "back": "to hand over, to give up",
+            "example": "El presidente cedió su puesto a un colega.",
+            "tier": "B2"
+          },
+          {
+            "front": "el relevo",
+            "pos": "noun",
+            "back": "changeover, handover",
+            "example": "El relevo en la dirección fue tranquilo.",
+            "tier": "B2"
+          },
+          {
+            "front": "el reto",
+            "pos": "noun",
+            "back": "challenge",
+            "example": "Aprender chino es un gran reto.",
+            "tier": "B1"
+          },
+          {
+            "front": "el retraso",
+            "pos": "noun",
+            "back": "delay",
+            "example": "El proyecto acumula meses de retraso.",
+            "tier": "B1"
+          },
+          {
+            "front": "acumular",
+            "pos": "verb",
+            "back": "to accumulate, to build up",
+            "example": "La empresa acumula deudas desde 2020.",
+            "tier": "B2"
+          },
+          {
+            "front": "al frente de",
+            "pos": "phrase",
+            "back": "at the head of, leading",
+            "example": "Lleva diez años al frente del equipo.",
+            "tier": "B2"
+          },
+          {
+            "front": "venir de fuera",
+            "pos": "phrase",
+            "back": "to come from outside",
+            "example": "El nuevo entrenador viene de fuera del club.",
+            "tier": "B2"
+          },
+          {
+            "front": "el perfil",
+            "pos": "noun",
+            "back": "profile, background",
+            "example": "Buscan un perfil técnico para el puesto.",
+            "tier": "B2"
+          },
+          {
+            "front": "lograr",
+            "pos": "verb",
+            "back": "to manage, to achieve",
+            "example": "Logró terminar el proyecto a tiempo.",
+            "tier": "B1"
+          },
+          {
+            "front": "cuidado",
+            "pos": "adj",
+            "back": "careful, polished",
+            "example": "Es un diseño muy cuidado.",
+            "tier": "B2"
+          },
+          {
+            "front": "el rival",
+            "pos": "noun",
+            "back": "rival, competitor",
+            "example": "Sus rivales lanzaron productos parecidos.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El nuevo jefe no viene de fuera, sino que es un ingeniero de la propia casa, formado durante años en el desarrollo del hardware de la marca.",
+            "point": "no... sino que",
+            "explanation": "Sino que corrects a negated clause with a new full clause: not X, but rather Y. With full clauses you need sino que, not just sino.",
+            "why_tricky": "English uses but for both contrast and correction; Spanish distinguishes pero from sino / sino que."
+          },
+          {
+            "sentence": "Los analistas se preguntan si un perfil técnico logrará acelerar esa transformación sin perder lo que hace especial a Apple: el diseño cuidado y un ecosistema cerrado que sus clientes conocen bien.",
+            "point": "indirect question with si + future, and neuter lo que",
+            "explanation": "Preguntarse si introduces an indirect yes/no question; the future logrará expresses conjecture about what is to come. Lo que means the thing that.",
+            "why_tricky": "After si in indirect questions the indicative is used, not the subjunctive, which surprises learners who overuse the subjunctive."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "la marca de la manzana",
+            "meaning": "the apple brand, journalistic nickname for Apple",
+            "example": "La marca de la manzana presentó ayer sus resultados."
+          },
+          {
+            "phrase": "de la propia casa",
+            "meaning": "from within the organisation, homegrown",
+            "example": "Prefieren ascender a gente de la propia casa."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Quién es John Ternus y de dónde viene?",
+            "type": "open"
+          },
+          {
+            "q": "¿Cuál será su primer reto urgente como director ejecutivo?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué tradición mantiene Apple con este relevo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Prefieres que una empresa promueva a sus propios empleados o que busque líderes de fuera? Justifica tu respuesta con ejemplos."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-02-isla-flotante",
+      "title": "Cómo una pequeña isla en Canadá apareció, desapareció y fue localizada de nuevo",
+      "source": "BBC Mundo",
+      "date": "2026-09-02",
+      "level": "B1-B2",
+      "topics": [
+        "naturaleza",
+        "Canadá"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-02-isla-flotante",
+        "revision": 1,
+        "meta": {
+          "title": "Cómo una pequeña isla en Canadá apareció, desapareció y fue localizada de nuevo",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/ce304294njlo",
+          "date_published": "2026-09-02",
+          "date_processed": "2026-09-02",
+          "tags": [
+            "naturaleza",
+            "Canadá"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "A small island in Canada has become the star of a curious story: it appeared, disappeared, and has just been located again. According to the authorities, it is a floating island that drifted towards the shore of a local lake, where it ended up half hidden. For weeks, local residents wondered where that piece of land they all knew had got to.\n\nAlthough the mystery of its whereabouts is now solved, its origin still has no clear explanation. Floating islands usually form when a mass of vegetation and roots separates from the shore and starts to move with the wind and the currents. The case has awakened the curiosity of scientists and enthusiasts, and it reminds us that nature still holds surprises even in very familiar places.",
+        "resumen_es": "Una pequeña isla de Canadá se ha convertido en protagonista de una historia curiosa: apareció, desapareció y acaba de ser localizada de nuevo. Según las autoridades, se trata de una isla flotante que se desplazó hacia la orilla de un lago local, donde quedó medio escondida. Durante semanas, los vecinos se preguntaban dónde se había metido aquel trozo de tierra que todos conocían.\n\nAunque el misterio de su paradero ya está resuelto, su origen sigue sin explicación clara. Las islas flotantes suelen formarse cuando una masa de vegetación y raíces se separa de la orilla y empieza a moverse con el viento y las corrientes. El caso ha despertado la curiosidad de científicos y aficionados, y recuerda que la naturaleza todavía guarda sorpresas incluso en lugares muy conocidos.",
+        "vocab": [
+          {
+            "front": "flotante",
+            "pos": "adj",
+            "back": "floating",
+            "example": "Construyeron un puente flotante sobre el río.",
+            "tier": "B2"
+          },
+          {
+            "front": "desplazarse",
+            "pos": "verb",
+            "back": "to move, to travel",
+            "example": "La isla se desplazó hacia la orilla.",
+            "tier": "B2"
+          },
+          {
+            "front": "la orilla",
+            "pos": "noun",
+            "back": "shore, bank",
+            "example": "Paseamos por la orilla del lago.",
+            "tier": "B1"
+          },
+          {
+            "front": "el paradero",
+            "pos": "noun",
+            "back": "whereabouts",
+            "example": "Se desconoce el paradero del barco.",
+            "tier": "C1"
+          },
+          {
+            "front": "esconderse",
+            "pos": "verb",
+            "back": "to hide",
+            "example": "El gato se escondió debajo de la cama.",
+            "tier": "B1"
+          },
+          {
+            "front": "meterse",
+            "pos": "verb",
+            "back": "to get into, to disappear off to",
+            "example": "¿Dónde se ha metido mi hermano?",
+            "tier": "B2"
+          },
+          {
+            "front": "la raíz",
+            "pos": "noun",
+            "back": "root",
+            "example": "Las raíces del árbol son muy profundas.",
+            "tier": "B1"
+          },
+          {
+            "front": "la corriente",
+            "pos": "noun",
+            "back": "current",
+            "example": "La corriente del río es peligrosa.",
+            "tier": "B1"
+          },
+          {
+            "front": "despertar",
+            "pos": "verb",
+            "back": "to awaken, to spark",
+            "example": "La noticia despertó mucho interés.",
+            "tier": "B2"
+          },
+          {
+            "front": "el trozo",
+            "pos": "noun",
+            "back": "piece",
+            "example": "Se rompió un trozo del muro.",
+            "tier": "B1"
+          },
+          {
+            "front": "resolver",
+            "pos": "verb",
+            "back": "to solve",
+            "example": "Por fin resolvieron el misterio.",
+            "tier": "B1"
+          },
+          {
+            "front": "guardar",
+            "pos": "verb",
+            "back": "to keep, to hold",
+            "example": "La naturaleza guarda muchas sorpresas.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Durante semanas, los vecinos se preguntaban dónde se había metido aquel trozo de tierra que todos conocían.",
+            "point": "imperfect + pluperfect in an indirect question",
+            "explanation": "Se preguntaban (imperfect) describes a repeated, ongoing action in the past; se había metido (pluperfect) refers to something that had happened before that.",
+            "why_tricky": "Sequencing two past layers is hard: the pluperfect marks the earlier event inside a past narration."
+          },
+          {
+            "sentence": "Las islas flotantes suelen formarse cuando una masa de vegetación y raíces se separa de la orilla y empieza a moverse con el viento y las corrientes.",
+            "point": "soler + infinitive",
+            "explanation": "Soler expresses what usually happens: suelen formarse means they usually form. Note the reflexive infinitive attached directly.",
+            "why_tricky": "English has no direct equivalent verb; learners translate usually and forget soler exists."
+          },
+          {
+            "sentence": "Aunque el misterio de su paradero ya está resuelto, su origen sigue sin explicación clara.",
+            "point": "seguir sin + noun/infinitive",
+            "explanation": "Seguir sin expresses that something still has not happened or is still lacking: sigue sin explicación means it still has no explanation.",
+            "why_tricky": "The structure is positive in form (seguir) but negative in meaning, which confuses learners."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "¿dónde se ha metido?",
+            "meaning": "where has it/he/she got to?",
+            "example": "¿Dónde se ha metido el perro? No lo encuentro."
+          },
+          {
+            "phrase": "guardar sorpresas",
+            "meaning": "to hold surprises",
+            "example": "Este pueblo pequeño guarda muchas sorpresas."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué hizo la isla flotante según las autoridades?",
+            "type": "open"
+          },
+          {
+            "q": "¿Cómo suelen formarse las islas flotantes?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué parte del misterio sigue sin resolverse?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Por qué crees que nos fascinan tanto los pequeños misterios de la naturaleza? Escribe unas líneas con tu opinión."
+      }
+    },
     {
       "pack_id": "feed-2026-09-01-china-robots",
       "title": "\"Cambiará el mundo\": la revolución de las máquinas que se gesta en China y va mucho más allá de los robots humanoides",
@@ -6195,520 +6675,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que las redes sociales deberían regular los consejos de salud que difunden los influencers? Escribe unas 120 palabras defendiendo tu postura con ejemplos concretos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-25-pelirrojos-fotografia",
-      "title": "La serie fotográfica de pelirrojos que muestra un vínculo inesperado entre los estadounidenses",
-      "source": "BBC Mundo",
-      "date": "2026-08-24",
-      "level": "B1-B2",
-      "topics": [
-        "cultura",
-        "fotografía"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-25-pelirrojos-fotografia",
-        "revision": 1,
-        "meta": {
-          "title": "La serie fotográfica de pelirrojos que muestra un vínculo inesperado entre los estadounidenses",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c5ywnnxldn2o",
-          "date_published": "2026-08-24",
-          "date_processed": "2026-08-25",
-          "tags": [
-            "cultura",
-            "fotografía"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The photographer Kieran Dodds has spent years portraying red-haired people in different countries, and his latest project focuses on the United States. What began as a curiosity has turned into a creative obsession: seeking out people who share an uncommon genetic trait and telling, through their faces, the stories of families who arrived from very different places.\n\nRed hair appears in only a small part of the world's population and is passed down quietly from one generation to the next. The photographs therefore work like a map of old migrations: surnames, accents and origins that cross paths in a single country. Dodds argues that his series invites us to look at resemblance before difference, something that is especially striking in such a diverse society.",
-        "resumen_es": "El fotógrafo Kieran Dodds lleva años retratando a personas pelirrojas en distintos países, y su nuevo trabajo se centra en Estados Unidos. Lo que empezó como una curiosidad se ha convertido en una obsesión creativa: buscar a quienes comparten un rasgo genético poco común y contar, a través de sus rostros, historias de familias que llegaron de lugares muy distintos.\n\nEl pelo rojo aparece en apenas una pequeña parte de la población mundial y se transmite de forma silenciosa de generación en generación. Por eso, las fotografías funcionan como un mapa de migraciones antiguas: apellidos, acentos y orígenes que se cruzan en un mismo país. Dodds sostiene que su serie invita a mirar el parecido antes que la diferencia, algo que resulta especialmente llamativo en una sociedad tan diversa.",
-        "vocab": [
-          {
-            "front": "pelirrojo",
-            "pos": "adj",
-            "back": "red-haired, redhead",
-            "example": "Su hermana es pelirroja y tiene pecas.",
-            "tier": "B1"
-          },
-          {
-            "front": "retratar",
-            "pos": "verb",
-            "back": "to portray, to photograph (a person)",
-            "example": "Le gusta retratar a la gente en la calle.",
-            "tier": "B1"
-          },
-          {
-            "front": "llevar años + gerundio",
-            "pos": "phrase",
-            "back": "to have been doing something for years",
-            "example": "Lleva años trabajando en el mismo proyecto.",
-            "tier": "B1"
-          },
-          {
-            "front": "centrarse en",
-            "pos": "verb",
-            "back": "to focus on",
-            "example": "El documental se centra en tres familias.",
-            "tier": "B1"
-          },
-          {
-            "front": "el rasgo",
-            "pos": "noun",
-            "back": "trait, feature",
-            "example": "La generosidad es su rasgo más claro.",
-            "tier": "B2"
-          },
-          {
-            "front": "el rostro",
-            "pos": "noun",
-            "back": "face (literary register)",
-            "example": "La cámara se acerca a su rostro.",
-            "tier": "B2"
-          },
-          {
-            "front": "transmitirse",
-            "pos": "verb",
-            "back": "to be passed on, to be inherited",
-            "example": "La costumbre se transmite de padres a hijos.",
-            "tier": "B2"
-          },
-          {
-            "front": "de generación en generación",
-            "pos": "phrase",
-            "back": "from one generation to the next",
-            "example": "La receta pasa de generación en generación.",
-            "tier": "B1"
-          },
-          {
-            "front": "el apellido",
-            "pos": "noun",
-            "back": "surname",
-            "example": "Su apellido revela un origen italiano.",
-            "tier": "B1"
-          },
-          {
-            "front": "cruzarse",
-            "pos": "verb",
-            "back": "to cross, to intersect",
-            "example": "En ese barrio se cruzan muchas culturas.",
-            "tier": "B2"
-          },
-          {
-            "front": "sostener (que)",
-            "pos": "verb",
-            "back": "to argue, to maintain (that)",
-            "example": "El autor sostiene que el arte une.",
-            "tier": "B2"
-          },
-          {
-            "front": "el parecido",
-            "pos": "noun",
-            "back": "resemblance, likeness",
-            "example": "El parecido entre los dos es asombroso.",
-            "tier": "B2"
-          },
-          {
-            "front": "llamativo",
-            "pos": "adj",
-            "back": "striking, eye-catching",
-            "example": "El dato más llamativo es la edad media.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Lo que empezó como una curiosidad se ha convertido en una obsesión creativa",
-            "point": "lo que como pronombre relativo neutro, y convertirse en",
-            "explanation": "'Lo que' resume una idea entera, no un sustantivo concreto, y funciona como sujeto. 'Convertirse' pide siempre la preposición 'en' delante del resultado.",
-            "why_tricky": "En inglés se dice 'turn into', y muchos aprendices calcan 'convertirse a' o usan 'que' solo, sin el neutro 'lo'."
-          },
-          {
-            "sentence": "El pelo rojo aparece en apenas una pequeña parte de la población mundial y se transmite de forma silenciosa de generación en generación.",
-            "point": "pasiva refleja con se para procesos naturales",
-            "explanation": "'Se transmite' evita mencionar un agente: no interesa quién transmite el rasgo, sino el proceso en sí. Es la fórmula habitual en textos divulgativos.",
-            "why_tricky": "Suena raro traducirlo con 'es transmitido', que en español resulta demasiado formal y poco natural en este contexto."
-          },
-          {
-            "sentence": "Dodds sostiene que su serie invita a mirar el parecido antes que la diferencia",
-            "point": "invitar a + infinitivo y la comparación antes que",
-            "explanation": "'Invitar' rige la preposición 'a' antes del infinitivo. 'Antes que' establece una preferencia entre dos opciones, no un orden temporal.",
-            "why_tricky": "'Antes que' y 'antes de que' se confunden con facilidad: el segundo es temporal y exige subjuntivo."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "saltar a la vista",
-            "meaning": "to be obvious, to stand out immediately",
-            "example": "El parecido entre ellos salta a la vista."
-          },
-          {
-            "phrase": "de tal palo, tal astilla",
-            "meaning": "a chip off the old block",
-            "example": "Toca el piano como su madre: de tal palo, tal astilla."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Cómo empezó el proyecto fotográfico de Kieran Dodds?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué dice el texto que las fotos funcionan como un mapa de migraciones?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué idea quiere transmitir el fotógrafo sobre el parecido y la diferencia?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Puede una serie de fotografías cambiar la forma en que una sociedad se ve a sí misma? Escribe unas 120 palabras con tu opinión y algún ejemplo que conozcas."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-25-colombia-deportaciones",
-      "title": "Colombia: el presidente ordena deportaciones de inmigrantes en situación irregular",
-      "source": "RFI Español",
-      "date": "2026-08-25",
-      "level": "B1-B2",
-      "topics": [
-        "migración",
-        "política"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-25-colombia-deportaciones",
-        "revision": 1,
-        "meta": {
-          "title": "Colombia: el presidente ordena deportaciones de inmigrantes en situación irregular",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/programas/noticias-de-am%C3%A9rica/20260825-colombia-el-presidente-ordena-deportaciones-de-migrantes-en-situaci%C3%B3n-irregular",
-          "date_published": "2026-08-25",
-          "date_processed": "2026-08-25",
-          "tags": [
-            "migración",
-            "política"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Colombia's new president, Abelardo de la Espriella, has ordered joint operations between the immigration authority and the police to begin this week in order to deport foreigners who are in the country without regular status. He instructed officials to identify and detain those whose papers are not in order, in one of the first significant measures of his government.\n\nThe decision comes at a delicate moment for the region, which in recent years has taken in millions of people fleeing economic and political crises. Human rights organisations tend to warn that operations of this kind can leave whole families on the street and make it harder to access healthcare or schooling. The government, for its part, defends the measure in the name of security.",
-        "resumen_es": "El nuevo presidente de Colombia, Abelardo de la Espriella, ha ordenado poner en marcha esta semana operaciones conjuntas entre la autoridad migratoria y la Policía para deportar a los extranjeros que se encuentran en el país en situación irregular. El mandatario pidió identificar y detener a quienes no tengan sus papeles en regla, en una de las primeras medidas de peso de su gobierno.\n\nLa decisión llega en un momento delicado para la región, que en los últimos años ha recibido a millones de personas que huyen de crisis económicas y políticas. Las organizaciones de derechos humanos suelen advertir de que este tipo de operativos deja a familias enteras en la calle y dificulta el acceso a la sanidad o a la escuela. El gobierno, por su parte, defiende la medida en nombre de la seguridad.",
-        "vocab": [
-          {
-            "front": "en situación irregular",
-            "pos": "phrase",
-            "back": "without legal status (of a migrant)",
-            "example": "Miles de personas viven allí en situación irregular.",
-            "tier": "B2"
-          },
-          {
-            "front": "poner en marcha",
-            "pos": "phrase",
-            "back": "to launch, to set in motion",
-            "example": "El ministerio puso en marcha el plan en junio.",
-            "tier": "B1"
-          },
-          {
-            "front": "el mandatario",
-            "pos": "noun",
-            "back": "head of state, president",
-            "example": "El mandatario habló ante el Congreso.",
-            "tier": "B2"
-          },
-          {
-            "front": "deportar",
-            "pos": "verb",
-            "back": "to deport",
-            "example": "Fue deportado a su país de origen.",
-            "tier": "B1"
-          },
-          {
-            "front": "tener los papeles en regla",
-            "pos": "phrase",
-            "back": "to have one's documents in order",
-            "example": "Sin los papeles en regla no puede trabajar.",
-            "tier": "B1"
-          },
-          {
-            "front": "la medida de peso",
-            "pos": "phrase",
-            "back": "significant, weighty measure",
-            "example": "Fue la primera medida de peso del año.",
-            "tier": "B2"
-          },
-          {
-            "front": "el operativo",
-            "pos": "noun",
-            "back": "operation (police or security)",
-            "example": "El operativo duró toda la noche.",
-            "tier": "B2"
-          },
-          {
-            "front": "huir de",
-            "pos": "verb",
-            "back": "to flee from",
-            "example": "Huyeron de la violencia en su región.",
-            "tier": "B1"
-          },
-          {
-            "front": "los derechos humanos",
-            "pos": "noun",
-            "back": "human rights",
-            "example": "Denunciaron una violación de derechos humanos.",
-            "tier": "B1"
-          },
-          {
-            "front": "dificultar",
-            "pos": "verb",
-            "back": "to make difficult, to hinder",
-            "example": "La lluvia dificultó el rescate.",
-            "tier": "B2"
-          },
-          {
-            "front": "el acceso a la sanidad",
-            "pos": "phrase",
-            "back": "access to healthcare",
-            "example": "El acceso a la sanidad es desigual.",
-            "tier": "B1"
-          },
-          {
-            "front": "por su parte",
-            "pos": "phrase",
-            "back": "for its part, meanwhile",
-            "example": "La oposición, por su parte, rechazó el plan.",
-            "tier": "B1"
-          },
-          {
-            "front": "en nombre de",
-            "pos": "phrase",
-            "back": "in the name of",
-            "example": "Justificó el recorte en nombre del ahorro.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "El mandatario pidió identificar y detener a quienes no tengan sus papeles en regla, en una de las primeras medidas de peso de su gobierno.",
-            "point": "subjuntivo en oraciones de relativo con antecedente indefinido",
-            "explanation": "'Quienes no tengan' va en subjuntivo porque no se refiere a personas identificadas, sino a cualquiera que cumpla esa condición.",
-            "why_tricky": "Con indicativo ('quienes no tienen') el hablante daría por conocidas a esas personas. El matiz cambia por completo con una sola letra."
-          },
-          {
-            "sentence": "La decisión llega en un momento delicado para la región, que en los últimos años ha recibido a millones de personas que huyen de crisis económicas y políticas.",
-            "point": "pretérito perfecto con en los últimos años y la a personal",
-            "explanation": "'En los últimos años' abre un periodo que llega hasta hoy, así que pide pretérito perfecto. 'A millones de personas' lleva 'a' porque el complemento directo son personas.",
-            "why_tricky": "En muchas zonas de América se usaría el indefinido ('recibió'), pero con marcadores que incluyen el presente el perfecto es la opción más segura."
-          },
-          {
-            "sentence": "El gobierno, por su parte, defiende la medida en nombre de la seguridad.",
-            "point": "conectores de contraste entre comas",
-            "explanation": "'Por su parte' introduce la voz de un actor distinto al anterior y siempre va entre comas dentro de la frase.",
-            "why_tricky": "Es fácil confundirlo con 'de su parte', que significa otra cosa: en su nombre o de parte suya."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "tener la sartén por el mango",
-            "meaning": "to hold all the cards, to be in control",
-            "example": "En la negociación, el gobierno tiene la sartén por el mango."
-          },
-          {
-            "phrase": "a la calle",
-            "meaning": "out on the street, thrown out",
-            "example": "La crisis dejó a muchas familias a la calle."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué ha ordenado exactamente el presidente de Colombia y a quién afecta?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué dice el texto que la decisión llega en un momento delicado?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué argumentos usan el gobierno y las organizaciones de derechos humanos?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Qué debería tener en cuenta un país antes de poner en marcha deportaciones masivas? Escribe unas 120 palabras con tu opinión razonada."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-25-bin-salman-paris",
-      "title": "Francia: El príncipe saudita Mohamed bin Salman visita París con una agenda llena",
-      "source": "RFI Español",
-      "date": "2026-08-23",
-      "level": "B1-B2",
-      "topics": [
-        "diplomacia",
-        "Francia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-25-bin-salman-paris",
-        "revision": 1,
-        "meta": {
-          "title": "Francia: El príncipe saudita Mohamed bin Salman visita París con una agenda llena",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/francia/20260823-francia-el-pr%C3%ADncipe-saudita-mohamed-bin-salman-visita-par%C3%ADs-con-una-agenda-llena",
-          "date_published": "2026-08-23",
-          "date_processed": "2026-08-25",
-          "tags": [
-            "diplomacia",
-            "Francia"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Saudi Arabia's crown prince, Mohamed bin Salman, has travelled to Paris for a two day visit with a very full schedule. France and Saudi Arabia have kept a close relationship for years in the areas of energy, defence and investment, so these meetings usually translate into economic agreements and very carefully measured political gestures. For the French government, receiving the prince also means taking on a certain reputational risk, because his figure continues to be the object of criticism.\n\nBeyond the contracts, the visit fits into a complicated regional context, one in which the European powers are looking for allies with weight in the Middle East. Saudi Arabia, for its part, has spent a long time trying to present itself as an indispensable player. We will have to see whether concrete announcements come out of these days or whether, as often happens, everything amounts to no more than statements of intent.",
-        "resumen_es": "El príncipe heredero de Arabia Saudita, Mohamed bin Salman, ha viajado a París para una visita de dos días con una agenda muy cargada. Francia y Arabia Saudita mantienen desde hace años una relación estrecha en materia de energía, defensa e inversiones, de modo que estos encuentros suelen traducirse en acuerdos económicos y en gestos políticos muy medidos. Para el gobierno francés, recibir al príncipe supone también asumir cierto riesgo de imagen, porque su figura sigue siendo objeto de críticas.\n\nMás allá de los contratos, la visita se enmarca en un contexto regional complicado, en el que las potencias europeas buscan aliados con peso en Oriente Medio. Arabia Saudita, por su parte, lleva tiempo intentando presentarse como un actor imprescindible. Habrá que ver si de estos días salen anuncios concretos o si, como ocurre a menudo, todo queda en declaraciones de intenciones.",
-        "vocab": [
-          {
-            "front": "el príncipe heredero",
-            "pos": "noun",
-            "back": "crown prince, heir to the throne",
-            "example": "El príncipe heredero llegó a la capital el domingo por la mañana.",
-            "tier": "B1"
-          },
-          {
-            "front": "una agenda cargada",
-            "pos": "phrase",
-            "back": "a packed schedule",
-            "example": "El ministro viaja con una agenda cargada de reuniones.",
-            "tier": "B2"
-          },
-          {
-            "front": "en materia de",
-            "pos": "phrase",
-            "back": "in the area of, when it comes to",
-            "example": "Los dos países firmaron acuerdos en materia de defensa.",
-            "tier": "B2"
-          },
-          {
-            "front": "traducirse en",
-            "pos": "verb",
-            "back": "to result in, to translate into",
-            "example": "El acuerdo se tradujo en más inversión extranjera.",
-            "tier": "B2"
-          },
-          {
-            "front": "el gesto",
-            "pos": "noun",
-            "back": "gesture, symbolic move",
-            "example": "Fue un gesto político más que una decisión económica.",
-            "tier": "B1"
-          },
-          {
-            "front": "medido",
-            "pos": "adj",
-            "back": "measured, carefully weighed",
-            "example": "Respondió a los periodistas con palabras muy medidas.",
-            "tier": "B2"
-          },
-          {
-            "front": "suponer",
-            "pos": "verb",
-            "back": "to mean, to entail",
-            "example": "Aceptar ese cargo supone mucha responsabilidad.",
-            "tier": "B1"
-          },
-          {
-            "front": "asumir un riesgo",
-            "pos": "phrase",
-            "back": "to take on a risk",
-            "example": "La empresa asumió un riesgo enorme al cambiar de nombre.",
-            "tier": "B1"
-          },
-          {
-            "front": "ser objeto de",
-            "pos": "phrase",
-            "back": "to be the object of, to be subjected to",
-            "example": "El proyecto fue objeto de duras críticas.",
-            "tier": "B2"
-          },
-          {
-            "front": "enmarcarse en",
-            "pos": "verb",
-            "back": "to form part of, to fit within",
-            "example": "La reforma se enmarca en un plan mucho más amplio.",
-            "tier": "C1"
-          },
-          {
-            "front": "el peso",
-            "pos": "noun",
-            "back": "weight, influence, clout",
-            "example": "Es un país con mucho peso en la región.",
-            "tier": "B1"
-          },
-          {
-            "front": "imprescindible",
-            "pos": "adj",
-            "back": "indispensable, essential",
-            "example": "Su ayuda fue imprescindible para terminar el trabajo.",
-            "tier": "B1"
-          },
-          {
-            "front": "quedar en",
-            "pos": "verb",
-            "back": "to amount to no more than",
-            "example": "Todo quedó en una simple promesa.",
-            "tier": "B2"
-          },
-          {
-            "front": "la declaración de intenciones",
-            "pos": "noun",
-            "back": "statement of intent",
-            "example": "El documento es solo una declaración de intenciones.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Para el gobierno francés, recibir al príncipe supone también asumir cierto riesgo de imagen, porque su figura sigue siendo objeto de críticas.",
-            "point": "Infinitive as the subject of a sentence",
-            "explanation": "Here recibir al príncipe is the subject of supone, and asumir cierto riesgo is its object. Spanish uses the bare infinitive where English often prefers the -ing form: receiving the prince means taking on a risk. No article and no preposition are needed before either infinitive.",
-            "why_tricky": "English speakers reach for a gerund and produce recibiendo al príncipe supone, which is ungrammatical. The Spanish gerund never works as a subject."
-          },
-          {
-            "sentence": "Más allá de los contratos, la visita se enmarca en un contexto regional complicado, en el que las potencias europeas buscan aliados con peso en Oriente Medio.",
-            "point": "Relative pronoun en el que after a preposition",
-            "explanation": "When a relative clause needs a preposition, Spanish puts the preposition first and uses el que, la que, los que or las que, agreeing with the noun. Contexto is masculine singular, so it is en el que. English can strand the preposition at the end; Spanish cannot.",
-            "why_tricky": "Learners write un contexto que las potencias buscan aliados en, copying English word order, or drop the article and write en que, which sounds bookish here."
-          },
-          {
-            "sentence": "Habrá que ver si de estos días salen anuncios concretos o si, como ocurre a menudo, todo queda en declaraciones de intenciones.",
-            "point": "Impersonal haber que + infinitive, and si introducing an indirect question",
-            "explanation": "Habrá que ver means we will have to see or it remains to be seen. Haber que is impersonal, always third person singular, and takes an infinitive. The two si clauses are indirect questions, so they take the indicative, not the subjunctive.",
-            "why_tricky": "Learners confuse haber que with tener que, which needs a personal subject, and many put the subjunctive after si because si feels hypothetical here."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "más allá de",
-            "meaning": "beyond, over and above (something)",
-            "example": "Más allá del precio, el piso no me convence."
-          },
-          {
-            "phrase": "quedar en agua de borrajas",
-            "meaning": "to come to nothing, to fizzle out",
-            "example": "El gran proyecto de reforma quedó en agua de borrajas."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿En qué ámbitos mantienen Francia y Arabia Saudita una relación estrecha, según el texto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué riesgo asume el gobierno francés al recibir al príncipe heredero?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué duda plantea el texto sobre los resultados de la visita?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que los intereses económicos deben pesar más que las críticas políticas a la hora de recibir a un dirigente extranjero? Escribe unas 120 palabras defendiendo tu postura con ejemplos."
       }
     }
   ]
