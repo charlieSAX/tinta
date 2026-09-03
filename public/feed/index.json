@@ -1,7 +1,498 @@
 {
-  "generated_at": "2026-09-02T07:13:01Z",
+  "generated_at": "2026-09-03T22:59:09Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-09-03-boveda-oro",
+      "title": "La Bóveda del Oro en la que EE.UU. guarda toneladas de lingotes de otros países (y por qué algunas naciones europeas han decidido retirarlos)",
+      "source": "BBC Mundo",
+      "date": "2026-09-03",
+      "level": "B1-B2",
+      "topics": [
+        "economía",
+        "oro"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-03-boveda-oro",
+        "revision": 1,
+        "meta": {
+          "title": "La Bóveda del Oro en la que EE.UU. guarda toneladas de lingotes de otros países (y por qué algunas naciones europeas han decidido retirarlos)",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cjwzxzvdy75o",
+          "date_published": "2026-09-03",
+          "date_processed": "2026-09-03",
+          "tags": [
+            "economía",
+            "oro"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Beneath the streets of Manhattan lies a vault where the United States stores more than 6,000 tonnes of gold, a large part of which belongs to other countries. For decades, foreign central banks deposited their bars there for security reasons and because of the confidence that the American financial system inspired. The facility, managed by the Federal Reserve, is considered a key piece of the global financial system.\n\nHowever, several European nations are now debating whether they should bring their gold home. Growing geopolitical instability has sown doubts about keeping such valuable reserves abroad. The Netherlands, for example, has already withdrawn part of its reserves from the United States and Canada and moved them to London. Analysts point out that these movements reflect a change of era: the trust that took decades to build can erode quickly, and each country now weighs the risks for itself.",
+        "resumen_es": "Bajo las calles de Manhattan existe una bóveda donde Estados Unidos guarda más de 6.000 toneladas de oro que pertenecen, en gran parte, a otros países. Durante décadas, los bancos centrales extranjeros depositaron allí sus lingotes por motivos de seguridad y por la confianza que inspiraba el sistema financiero estadounidense. La instalación, gestionada por la Reserva Federal, se considera una pieza clave del sistema financiero mundial.\n\nSin embargo, varias naciones europeas debaten ahora si deben recuperar su oro. La creciente inestabilidad geopolítica ha sembrado dudas sobre la conveniencia de mantener reservas tan valiosas en el extranjero. Países Bajos, por ejemplo, ya retiró parte de sus reservas de Estados Unidos y Canadá y las trasladó a Londres. Los analistas señalan que estos movimientos reflejan un cambio de época: la confianza que tardó décadas en construirse puede erosionarse con rapidez, y cada país calcula ahora sus propios riesgos.",
+        "vocab": [
+          {
+            "front": "la bóveda",
+            "pos": "noun",
+            "back": "vault",
+            "example": "El oro se guarda en una bóveda subterránea.",
+            "tier": "B2"
+          },
+          {
+            "front": "el lingote",
+            "pos": "noun",
+            "back": "ingot, bar (of gold)",
+            "example": "Cada lingote de oro pesa unos doce kilos.",
+            "tier": "B2"
+          },
+          {
+            "front": "pertenecer a",
+            "pos": "verb",
+            "back": "to belong to",
+            "example": "Gran parte del oro pertenece a otros países.",
+            "tier": "B1"
+          },
+          {
+            "front": "depositar",
+            "pos": "verb",
+            "back": "to deposit",
+            "example": "Los bancos centrales depositaron allí sus reservas.",
+            "tier": "B1"
+          },
+          {
+            "front": "la confianza",
+            "pos": "noun",
+            "back": "trust, confidence",
+            "example": "La confianza entre países tarda años en construirse.",
+            "tier": "B1"
+          },
+          {
+            "front": "gestionado por",
+            "pos": "phrase",
+            "back": "managed by",
+            "example": "La instalación está gestionada por la Reserva Federal.",
+            "tier": "B2"
+          },
+          {
+            "front": "recuperar",
+            "pos": "verb",
+            "back": "to recover, to get back",
+            "example": "Varios gobiernos quieren recuperar su oro.",
+            "tier": "B1"
+          },
+          {
+            "front": "sembrar dudas",
+            "pos": "phrase",
+            "back": "to sow doubts",
+            "example": "La crisis ha sembrado dudas entre los inversores.",
+            "tier": "C1"
+          },
+          {
+            "front": "la conveniencia",
+            "pos": "noun",
+            "back": "advisability, suitability",
+            "example": "Se debate la conveniencia de mantener el oro fuera.",
+            "tier": "B2"
+          },
+          {
+            "front": "retirar",
+            "pos": "verb",
+            "back": "to withdraw",
+            "example": "El banco retiró sus fondos del extranjero.",
+            "tier": "B1"
+          },
+          {
+            "front": "trasladar",
+            "pos": "verb",
+            "back": "to move, to transfer",
+            "example": "Trasladaron los lingotes a Londres en secreto.",
+            "tier": "B1"
+          },
+          {
+            "front": "erosionarse",
+            "pos": "verb",
+            "back": "to erode, to wear away",
+            "example": "La confianza puede erosionarse con rapidez.",
+            "tier": "B2"
+          },
+          {
+            "front": "un cambio de época",
+            "pos": "phrase",
+            "back": "a change of era",
+            "example": "Estos movimientos reflejan un cambio de época.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Durante décadas, los bancos centrales extranjeros depositaron allí sus lingotes por motivos de seguridad y por la confianza que inspiraba el sistema financiero estadounidense.",
+            "point": "Pretérito indefinido vs imperfecto in one sentence",
+            "explanation": "Depositaron (indefinido) presents the completed historical action, while inspiraba (imperfecto) describes the ongoing background state of confidence during that period.",
+            "why_tricky": "English uses simple past for both verbs, so learners often miss why Spanish switches tense mid-sentence."
+          },
+          {
+            "sentence": "Sin embargo, varias naciones europeas debaten ahora si deben recuperar su oro.",
+            "point": "Indirect question with si + deber",
+            "explanation": "Si here means whether, introducing an indirect question after debatir; deben recuperar uses deber + infinitive for obligation or advisability.",
+            "why_tricky": "Learners confuse this si (whether) with the conditional si (if) and are tempted to add a subjunctive, but the indicative is correct."
+          },
+          {
+            "sentence": "La creciente inestabilidad geopolítica ha sembrado dudas sobre la conveniencia de mantener reservas tan valiosas en el extranjero.",
+            "point": "Pretérito perfecto for recent relevance",
+            "explanation": "Ha sembrado connects a recent process to the present moment, typical of news Spanish; note also tan + adjective for intensification.",
+            "why_tricky": "Latin American Spanish often prefers sembró here, so learners must recognise both forms as correct."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "poner las cartas sobre la mesa",
+            "meaning": "to put one's cards on the table, be transparent",
+            "example": "Los bancos centrales tuvieron que poner las cartas sobre la mesa y explicar dónde guardan su oro."
+          },
+          {
+            "phrase": "no tener todas consigo",
+            "meaning": "to feel uneasy, not be fully confident",
+            "example": "Algunos gobiernos ya no tienen todas consigo cuando dejan sus reservas en el extranjero."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué los bancos centrales extranjeros decidieron guardar su oro en Estados Unidos durante décadas?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué hizo Países Bajos con parte de sus reservas y adónde las llevó?",
+            "type": "open"
+          },
+          {
+            "q": "Según los analistas, ¿qué revela este movimiento de reservas sobre la confianza internacional?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que un país debería guardar siempre sus reservas de oro dentro de su propio territorio, aunque resulte más caro y menos práctico? Justifica tu respuesta con ejemplos."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-03-nvidia-hugging-face",
+      "title": "Inteligencia artificial: Nvidia comprará la plataforma de Hugging Face por USD 12.900 millones",
+      "source": "RFI Español",
+      "date": "2026-09-03",
+      "level": "B1-B2",
+      "topics": [
+        "tecnología",
+        "empresas"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-03-nvidia-hugging-face",
+        "revision": 1,
+        "meta": {
+          "title": "Inteligencia artificial: Nvidia comprará la plataforma de Hugging Face por USD 12.900 millones",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/sociedad/20260903-inteligencia-artificial-nvidia-comprar%C3%A1-la-plataforma-de-hugging-face-por-usd-12-900-millones",
+          "date_published": "2026-09-03",
+          "date_processed": "2026-09-03",
+          "tags": [
+            "tecnología",
+            "empresas"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The semiconductor giant Nvidia announced on 3 September, in an official statement, that it will buy the artificial intelligence platform Hugging Face for 12.9 billion dollars. Hugging Face is known as a meeting point for the AI community: millions of developers use it to share, test and download open-source models. Nvidia, for its part, dominates the market for the chips that make it possible to train these systems.\n\nWith this operation, the company strengthens its position across the entire artificial intelligence chain, from hardware to the tools that programmers use every day. The announcement also raises questions. Part of the tech community fears that a platform which was born with an open and collaborative spirit could lose its independence inside a giant. Regulators will now have to examine the purchase and its effects on competition in a strategic sector.",
+        "resumen_es": "El gigante de los semiconductores Nvidia anunció el 3 de septiembre, en un comunicado oficial, que comprará la plataforma de inteligencia artificial Hugging Face por 12.900 millones de dólares. Hugging Face es conocida como un punto de encuentro de la comunidad de la IA: millones de desarrolladores la utilizan para compartir, probar y descargar modelos de código abierto. Nvidia, por su parte, domina el mercado de los chips que permiten entrenar estos sistemas.\n\nCon esta operación, la empresa refuerza su posición en toda la cadena de la inteligencia artificial, desde el hardware hasta las herramientas que los programadores usan a diario. El anuncio también genera interrogantes. Parte de la comunidad tecnológica teme que una plataforma que nació con espíritu abierto y colaborativo pierda su independencia dentro de un gigante. Los reguladores tendrán que examinar ahora la compra y sus efectos sobre la competencia en un sector estratégico.",
+        "vocab": [
+          {
+            "front": "el comunicado",
+            "pos": "noun",
+            "back": "official statement, press release",
+            "example": "La empresa confirmó la noticia en un comunicado.",
+            "tier": "B1"
+          },
+          {
+            "front": "la plataforma",
+            "pos": "noun",
+            "back": "platform",
+            "example": "Millones de personas usan la plataforma cada día.",
+            "tier": "B1"
+          },
+          {
+            "front": "el punto de encuentro",
+            "pos": "phrase",
+            "back": "meeting point",
+            "example": "El sitio se convirtió en un punto de encuentro para programadores.",
+            "tier": "B1"
+          },
+          {
+            "front": "el desarrollador",
+            "pos": "noun",
+            "back": "developer",
+            "example": "Los desarrolladores comparten sus modelos en línea.",
+            "tier": "B1"
+          },
+          {
+            "front": "el código abierto",
+            "pos": "phrase",
+            "back": "open source",
+            "example": "El proyecto se publicó como código abierto.",
+            "tier": "B2"
+          },
+          {
+            "front": "entrenar",
+            "pos": "verb",
+            "back": "to train (a model)",
+            "example": "Se necesitan miles de chips para entrenar un modelo.",
+            "tier": "B1"
+          },
+          {
+            "front": "reforzar",
+            "pos": "verb",
+            "back": "to strengthen, reinforce",
+            "example": "La compra refuerza su posición en el mercado.",
+            "tier": "B1"
+          },
+          {
+            "front": "la cadena",
+            "pos": "noun",
+            "back": "chain (supply, value)",
+            "example": "Controla toda la cadena, del chip a la aplicación.",
+            "tier": "B1"
+          },
+          {
+            "front": "a diario",
+            "pos": "adv",
+            "back": "daily, every day",
+            "example": "Los programadores usan estas herramientas a diario.",
+            "tier": "B1"
+          },
+          {
+            "front": "el interrogante",
+            "pos": "noun",
+            "back": "question, unresolved issue",
+            "example": "El acuerdo genera interrogantes entre los expertos.",
+            "tier": "B2"
+          },
+          {
+            "front": "temer que",
+            "pos": "verb",
+            "back": "to fear that",
+            "example": "Muchos temen que la plataforma pierda su libertad.",
+            "tier": "B1"
+          },
+          {
+            "front": "el regulador",
+            "pos": "noun",
+            "back": "regulator",
+            "example": "Los reguladores examinarán la operación.",
+            "tier": "B2"
+          },
+          {
+            "front": "la competencia",
+            "pos": "noun",
+            "back": "competition (market)",
+            "example": "La compra podría dañar la competencia en el sector.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El gigante de los semiconductores Nvidia anunció el 3 de septiembre, en un comunicado oficial, que comprará la plataforma de inteligencia artificial Hugging Face por 12.900 millones de dólares.",
+            "point": "Future tense inside reported speech",
+            "explanation": "After anunció que, Spanish keeps the simple future comprará because the purchase is still to come at the moment of reporting; a formal alternative would be compraría.",
+            "why_tricky": "English backshifts to would buy after a past reporting verb, so learners expect the conditional here."
+          },
+          {
+            "sentence": "Parte de la comunidad tecnológica teme que una plataforma que nació con espíritu abierto y colaborativo pierda su independencia dentro de un gigante.",
+            "point": "Subjunctive after temer que",
+            "explanation": "Temer que triggers the subjunctive pierda because it expresses fear about an uncertain outcome; nació stays in the indicative because it states a real past fact.",
+            "why_tricky": "The sentence mixes indicative and subjunctive, and learners must see why each clause behaves differently."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "ir viento en popa",
+            "meaning": "to go full speed ahead, be thriving",
+            "example": "El negocio de los chips va viento en popa desde el auge de la IA."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué anunció Nvidia el 3 de septiembre y por qué cantidad?",
+            "type": "open"
+          },
+          {
+            "q": "¿Para qué utilizan los desarrolladores la plataforma Hugging Face?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué teme una parte de la comunidad tecnológica tras este anuncio?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Te parece positivo que las grandes empresas tecnológicas compren plataformas independientes de código abierto? Escribe un párrafo defendiendo tu punto de vista."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-03-brasil-tierras-raras",
+      "title": "Brasil aprueba una ley para explotar y proteger las tierras raras",
+      "source": "RFI Español",
+      "date": "2026-09-03",
+      "level": "B1-B2",
+      "topics": [
+        "Brasil",
+        "minería"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-03-brasil-tierras-raras",
+        "revision": 1,
+        "meta": {
+          "title": "Brasil aprueba una ley para explotar y proteger las tierras raras",
+          "source": "RFI Español",
+          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260903-brasil-aprueba-una-ley-para-explotar-y-proteger-las-tierras-raras",
+          "date_published": "2026-09-03",
+          "date_processed": "2026-09-03",
+          "tags": [
+            "Brasil",
+            "minería"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The Brazilian Congress approved a bill so that the executive branch will have greater control over rare earths, the group of minerals essential for manufacturing mobile phones, electric cars and wind turbines. The law also seeks to encourage the private sector to invest in extracting and processing them. Brazil holds some of the largest reserves of these elements on the planet, but until now it had exploited them very little.\n\nThe decision comes at a moment of intense global competition for strategic minerals, a market in which China dominates most of the production and refining. With this legal framework, Brasilia hopes to attract investment, create jobs and position itself as a reliable supplier for other countries. Environmental organisations, however, warn that mining expansion must respect protected areas and local communities, and they will follow the application of the law closely.",
+        "resumen_es": "El Congreso de Brasil aprobó un proyecto de ley para que el Ejecutivo tenga mayor control sobre las tierras raras, el grupo de minerales esenciales para fabricar teléfonos móviles, coches eléctricos y turbinas eólicas. La norma busca además incentivar al sector privado para que invierta en su extracción y procesamiento. Brasil posee algunas de las mayores reservas de estos elementos del planeta, pero hasta ahora las había explotado muy poco.\n\nLa decisión llega en un momento de intensa competencia mundial por los minerales estratégicos, un mercado en el que China domina la mayor parte de la producción y del refinado. Con este marco legal, Brasilia espera atraer inversiones, crear empleo y posicionarse como proveedor fiable para otros países. Las organizaciones ambientales, sin embargo, advierten de que la expansión minera debe respetar las zonas protegidas y a las comunidades locales, y seguirán de cerca la aplicación de la ley.",
+        "vocab": [
+          {
+            "front": "el proyecto de ley",
+            "pos": "phrase",
+            "back": "bill (draft law)",
+            "example": "El Congreso debatió el proyecto de ley durante meses.",
+            "tier": "B2"
+          },
+          {
+            "front": "las tierras raras",
+            "pos": "phrase",
+            "back": "rare earths",
+            "example": "Las tierras raras son clave para la tecnología moderna.",
+            "tier": "C1"
+          },
+          {
+            "front": "el Ejecutivo",
+            "pos": "noun",
+            "back": "the executive branch, government",
+            "example": "El Ejecutivo tendrá mayor control sobre el sector.",
+            "tier": "B2"
+          },
+          {
+            "front": "incentivar",
+            "pos": "verb",
+            "back": "to incentivise, encourage",
+            "example": "La ley incentiva la inversión privada.",
+            "tier": "B2"
+          },
+          {
+            "front": "la extracción",
+            "pos": "noun",
+            "back": "extraction, mining",
+            "example": "La extracción de minerales genera empleo y polémica.",
+            "tier": "B2"
+          },
+          {
+            "front": "la reserva",
+            "pos": "noun",
+            "back": "reserve (of resources)",
+            "example": "El país posee enormes reservas de litio.",
+            "tier": "B1"
+          },
+          {
+            "front": "explotar",
+            "pos": "verb",
+            "back": "to exploit (resources)",
+            "example": "Hasta ahora Brasil había explotado poco sus minerales.",
+            "tier": "B1"
+          },
+          {
+            "front": "el refinado",
+            "pos": "noun",
+            "back": "refining",
+            "example": "China controla gran parte del refinado mundial.",
+            "tier": "C1"
+          },
+          {
+            "front": "el marco legal",
+            "pos": "phrase",
+            "back": "legal framework",
+            "example": "El nuevo marco legal da seguridad a los inversores.",
+            "tier": "B2"
+          },
+          {
+            "front": "el proveedor",
+            "pos": "noun",
+            "back": "supplier",
+            "example": "Brasil quiere ser un proveedor fiable de minerales.",
+            "tier": "B1"
+          },
+          {
+            "front": "fiable",
+            "pos": "adj",
+            "back": "reliable, trustworthy",
+            "example": "Buscan socios comerciales fiables.",
+            "tier": "B1"
+          },
+          {
+            "front": "advertir de que",
+            "pos": "phrase",
+            "back": "to warn that",
+            "example": "Los expertos advierten de que hay riesgos ambientales.",
+            "tier": "B2"
+          },
+          {
+            "front": "seguir de cerca",
+            "pos": "phrase",
+            "back": "to follow closely",
+            "example": "Las ONG seguirán de cerca la aplicación de la norma.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La norma busca además incentivar al sector privado para que invierta en su extracción y procesamiento.",
+            "point": "Para que + subjunctive",
+            "explanation": "Para que introduces a purpose clause with a different subject, so the verb goes in the subjunctive: invierta. With the same subject, Spanish would use para + infinitive instead.",
+            "why_tricky": "Learners often write para que invertir or slip into the indicative invierte; the subject change is what forces the subjunctive."
+          },
+          {
+            "sentence": "Brasil posee algunas de las mayores reservas de estos elementos del planeta, pero hasta ahora las había explotado muy poco.",
+            "point": "Pluperfect with object pronoun",
+            "explanation": "Había explotado (pluscuamperfecto) situates the lack of exploitation before the present change, and las refers back to las reservas, placed before the auxiliary haber.",
+            "why_tricky": "Pronoun placement before había and the tense choice both differ from the English had barely exploited them word order."
+          },
+          {
+            "sentence": "Las organizaciones ambientales, sin embargo, advierten de que la expansión minera debe respetar las zonas protegidas y a las comunidades locales, y seguirán de cerca la aplicación de la ley.",
+            "point": "Advertir de que + personal a",
+            "explanation": "Advertir de que introduces the warning content in the indicative; note the personal a before las comunidades locales because they are people, while las zonas protegidas takes no a.",
+            "why_tricky": "The contrast between a las comunidades and las zonas in the same list shows exactly when the personal a is required."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "ser un arma de doble filo",
+            "meaning": "to be a double-edged sword",
+            "example": "La minería puede ser un arma de doble filo: trae empleo, pero también daños ambientales."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué aprobó el Congreso de Brasil y qué objetivo tiene la nueva norma?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué papel juega China en el mercado mundial de las tierras raras?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué piden las organizaciones ambientales respecto a la expansión minera?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Brasil quiere explotar sus tierras raras para crecer económicamente, pero la minería tiene costes ambientales. ¿Dónde pondrías tú el límite? Escribe un párrafo argumentando tu posición."
+      }
+    },
     {
       "pack_id": "feed-2026-09-02-carne-brasil",
       "title": "La Unión Europea suspende las importaciones de carne vacuna procedente de Brasil",
@@ -6192,480 +6683,6 @@
           }
         ],
         "opinion_prompt": "¿Crees que los países ricos deberían estar obligados a financiar la preparación ante desastres en las regiones más vulnerables del mundo? Justifica tu opinión en unas 120 palabras."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-27-pulpos-canal-mancha",
-      "title": "Una invasión de pulpos en el Canal de la Mancha transforma la industria pesquera británica",
-      "source": "RFI",
-      "date": "2026-08-26",
-      "level": "B1-B2",
-      "topics": [
-        "medioambiente",
-        "economía"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-27-pulpos-canal-mancha",
-        "revision": 1,
-        "meta": {
-          "title": "Una invasión de pulpos en el Canal de la Mancha transforma la industria pesquera británica",
-          "source": "RFI",
-          "url": "https://www.rfi.fr/es/programas/enfoque-internacional/20260826-una-invasi%C3%B3n-de-pulpos-en-el-canal-de-la-mancha-transforma-la-industria-pesquera-brit%C3%A1nica",
-          "date_published": "2026-08-26",
-          "date_processed": "2026-08-27",
-          "tags": [
-            "medioambiente",
-            "economía"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "An invasion of octopuses is transforming the fishing industry in the English Channel. Because of the warming of the waters, England is receiving a colossal quantity of these molluscs coming from the north of France. For many British fishermen, the phenomenon has turned into a very profitable business: a market that until now was in the hands of countries like Greece or Tunisia.\n\nHowever, it is not all good news. Scientists warn that this plague endangers the local ecosystem, since the octopus is a voracious predator that feeds on crabs, lobsters and other species that are very valuable for traditional fishing. The case illustrates how climate change is altering Europe's seas and is forcing the fishing sector to adapt to a completely new reality.",
-        "resumen_es": "Una invasión de pulpos está transformando la industria pesquera del Canal de la Mancha. Debido al calentamiento de las aguas, Inglaterra está recibiendo una cantidad colosal de estos moluscos procedentes del norte de Francia. Para muchos pescadores británicos, el fenómeno se ha convertido en un negocio muy rentable: un mercado que hasta ahora estaba en manos de países como Grecia o Túnez.\n\nSin embargo, no todo son buenas noticias. Los científicos advierten de que esta plaga pone en peligro el ecosistema local, ya que el pulpo es un depredador voraz que se alimenta de cangrejos, langostas y otras especies muy valiosas para la pesca tradicional. El caso ilustra cómo el cambio climático está alterando los mares europeos y obliga al sector pesquero a adaptarse a una realidad completamente nueva.",
-        "vocab": [
-          {
-            "front": "el pulpo",
-            "pos": "noun",
-            "back": "octopus",
-            "example": "El pulpo a la gallega es un plato típico español.",
-            "tier": "B1"
-          },
-          {
-            "front": "la industria pesquera",
-            "pos": "phrase",
-            "back": "fishing industry",
-            "example": "La industria pesquera da trabajo a miles de familias.",
-            "tier": "B1"
-          },
-          {
-            "front": "rentable",
-            "pos": "adj",
-            "back": "profitable",
-            "example": "Vender pulpo se ha vuelto muy rentable este año.",
-            "tier": "B2"
-          },
-          {
-            "front": "la plaga",
-            "pos": "noun",
-            "back": "plague, pest, infestation",
-            "example": "Una plaga de insectos destruyó la cosecha.",
-            "tier": "B2"
-          },
-          {
-            "front": "poner en peligro",
-            "pos": "phrase",
-            "back": "to endanger, put at risk",
-            "example": "La contaminación pone en peligro la vida marina.",
-            "tier": "B1"
-          },
-          {
-            "front": "el depredador",
-            "pos": "noun",
-            "back": "predator",
-            "example": "El tiburón es el gran depredador del océano.",
-            "tier": "B2"
-          },
-          {
-            "front": "voraz",
-            "pos": "adj",
-            "back": "voracious, ravenous",
-            "example": "Es un lector voraz: devora un libro por semana.",
-            "tier": "C1"
-          },
-          {
-            "front": "advertir de que",
-            "pos": "phrase",
-            "back": "to warn that",
-            "example": "Los expertos advierten de que la situación puede empeorar.",
-            "tier": "B2"
-          },
-          {
-            "front": "en manos de",
-            "pos": "phrase",
-            "back": "in the hands of, controlled by",
-            "example": "El negocio está en manos de una sola familia.",
-            "tier": "B2"
-          },
-          {
-            "front": "el calentamiento",
-            "pos": "noun",
-            "back": "warming",
-            "example": "El calentamiento del planeta afecta a los océanos.",
-            "tier": "B1"
-          },
-          {
-            "front": "alimentarse de",
-            "pos": "verb",
-            "back": "to feed on",
-            "example": "Estos animales se alimentan de peces pequeños.",
-            "tier": "B1"
-          },
-          {
-            "front": "el molusco",
-            "pos": "noun",
-            "back": "mollusc",
-            "example": "Los mejillones y los pulpos son moluscos.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Debido al calentamiento de las aguas, Inglaterra está recibiendo una cantidad colosal de estos moluscos procedentes del norte de Francia.",
-            "point": "'Debido a' + noun; estar + gerundio for ongoing processes",
-            "explanation": "'Debido a' means 'due to' and is always followed by a noun phrase, here contracted with 'el' into 'al'. 'Está recibiendo' emphasises that the process is happening right now and is still developing.",
-            "why_tricky": "Learners confuse 'debido a' (+ noun) with 'debido a que' (+ clause). Also, Spanish uses the simple present more than English, so choosing 'está recibiendo' is a deliberate emphasis on the ongoing nature."
-          },
-          {
-            "sentence": "Los científicos advierten de que esta plaga pone en peligro el ecosistema local, ya que el pulpo es un depredador voraz que se alimenta de cangrejos, langostas y otras especies muy valiosas para la pesca tradicional.",
-            "point": "'Advertir de que' + indicative; relative clause with 'que'",
-            "explanation": "'Advertir de que' introduces reported information in the indicative because it presents a fact. The long relative clause 'que se alimenta de...' adds detail about the octopus without starting a new sentence.",
-            "why_tricky": "The optional 'de' in 'advertir (de) que' trips learners up; dropping or keeping it is debated even among natives (dequeísmo/queísmo). Stacked relative clauses are typical of written journalism."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "no todo son buenas noticias",
-            "meaning": "it is not all good news",
-            "example": "Aprobé el examen, pero no todo son buenas noticias: suspendí matemáticas."
-          },
-          {
-            "phrase": "estar en manos de",
-            "meaning": "to be under the control of someone",
-            "example": "La decisión final está en manos del juez."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué están llegando tantos pulpos a las costas inglesas?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué beneficio económico ha traído este fenómeno a los pescadores británicos?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué riesgos señalan los científicos para el ecosistema local?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "El artículo muestra que el cambio climático puede crear ganadores y perdedores económicos. ¿Debería un pescador aprovechar este nuevo negocio o preocuparse más por el ecosistema? Escribe tu opinión en unas 120 palabras."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-27-greenock-migrantes",
-      "title": "La pequeña ciudad escocesa que busca migrantes para frenar la caída de su población",
-      "source": "BBC Mundo",
-      "date": "2026-08-26",
-      "level": "B1-B2",
-      "topics": [
-        "migración",
-        "sociedad"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-27-greenock-migrantes",
-        "revision": 1,
-        "meta": {
-          "title": "La pequeña ciudad escocesa que busca migrantes para frenar la caída de su población",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/ceqe400d82zo",
-          "date_published": "2026-08-26",
-          "date_processed": "2026-08-27",
-          "tags": [
-            "migración",
-            "sociedad"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Greenock, a small town on the west coast of Scotland, has launched an unusual initiative: it is actively looking for immigrants to halt the fall in its population. The local authorities want to attract foreign families so that they settle in the town, in the hope of reversing a constant demographic decline.\n\nThe case of Greenock reflects a problem that is common in many parts of the United Kingdom and Europe: young people leave for the big cities in search of work, and small communities grow older and lose inhabitants. In contrast to political speeches that present immigration as a threat, this Scottish town sees it as an opportunity to fill jobs, keep schools open and bring life back to its streets.",
-        "resumen_es": "Greenock, una pequeña ciudad de la costa oeste de Escocia, ha lanzado una iniciativa poco habitual: busca activamente inmigrantes para frenar la caída de su población. Las autoridades locales quieren atraer a familias extranjeras para que se establezcan en la ciudad, con la esperanza de revertir un descenso demográfico constante.\n\nEl caso de Greenock refleja un problema común en muchas zonas del Reino Unido y de Europa: los jóvenes se marchan a las grandes ciudades en busca de trabajo y las comunidades pequeñas envejecen y pierden habitantes. Frente a los discursos políticos que presentan la inmigración como una amenaza, esta ciudad escocesa la ve como una oportunidad para llenar puestos de trabajo, mantener abiertas las escuelas y devolver la vida a sus calles.",
-        "vocab": [
-          {
-            "front": "frenar",
-            "pos": "verb",
-            "back": "to slow down, halt",
-            "example": "El gobierno quiere frenar la subida de los precios.",
-            "tier": "B1"
-          },
-          {
-            "front": "la caída",
-            "pos": "noun",
-            "back": "fall, decline",
-            "example": "La caída de la natalidad preocupa a los expertos.",
-            "tier": "B1"
-          },
-          {
-            "front": "establecerse",
-            "pos": "verb",
-            "back": "to settle (in a place)",
-            "example": "Muchas familias se establecieron en el sur del país.",
-            "tier": "B2"
-          },
-          {
-            "front": "el descenso demográfico",
-            "pos": "phrase",
-            "back": "demographic decline",
-            "example": "El descenso demográfico afecta a los pueblos pequeños.",
-            "tier": "B2"
-          },
-          {
-            "front": "envejecer",
-            "pos": "verb",
-            "back": "to age, grow old",
-            "example": "La población europea envejece rápidamente.",
-            "tier": "B1"
-          },
-          {
-            "front": "marcharse",
-            "pos": "verb",
-            "back": "to leave, go away",
-            "example": "Mis vecinos se marcharon a Madrid el año pasado.",
-            "tier": "B1"
-          },
-          {
-            "front": "la amenaza",
-            "pos": "noun",
-            "back": "threat",
-            "example": "Ven la sequía como una amenaza para la agricultura.",
-            "tier": "B1"
-          },
-          {
-            "front": "en busca de",
-            "pos": "phrase",
-            "back": "in search of",
-            "example": "Emigraron en busca de una vida mejor.",
-            "tier": "B1"
-          },
-          {
-            "front": "revertir",
-            "pos": "verb",
-            "back": "to reverse (a trend)",
-            "example": "Será difícil revertir esta tendencia negativa.",
-            "tier": "C1"
-          },
-          {
-            "front": "el habitante",
-            "pos": "noun",
-            "back": "inhabitant",
-            "example": "El pueblo tiene apenas quinientos habitantes.",
-            "tier": "B1"
-          },
-          {
-            "front": "poco habitual",
-            "pos": "phrase",
-            "back": "unusual, uncommon",
-            "example": "Es una decisión poco habitual en la política local.",
-            "tier": "B1"
-          },
-          {
-            "front": "el puesto de trabajo",
-            "pos": "phrase",
-            "back": "job, position",
-            "example": "La fábrica creará doscientos puestos de trabajo.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Las autoridades locales quieren atraer a familias extranjeras para que se establezcan en la ciudad, con la esperanza de revertir un descenso demográfico constante.",
-            "point": "'Para que' + subjunctive; personal 'a'",
-            "explanation": "'Para que' introduces purpose with a different subject, so the verb goes in subjunctive: 'se establezcan'. 'Atraer a familias' uses the personal 'a' because the object refers to people.",
-            "why_tricky": "With the same subject you use 'para' + infinitive ('busca inmigrantes para frenar'), but with a change of subject you need 'para que' + subjunctive. Both appear in this text, making a perfect contrast."
-          },
-          {
-            "sentence": "Frente a los discursos políticos que presentan la inmigración como una amenaza, esta ciudad escocesa la ve como una oportunidad para llenar puestos de trabajo, mantener abiertas las escuelas y devolver la vida a sus calles.",
-            "point": "Direct object pronoun 'la'; 'frente a' for contrast",
-            "explanation": "'La ve' refers back to 'la inmigración' with the feminine pronoun 'la'. 'Frente a' sets up a contrast between two attitudes. The three infinitives in a row ('llenar, mantener, devolver') form a parallel list of purposes.",
-            "why_tricky": "Spotting what 'la' refers to across a long sentence takes practice. 'Frente a' here means 'in contrast to', not physically 'in front of'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "devolver la vida a",
-            "meaning": "to bring (something) back to life",
-            "example": "El festival devolvió la vida al casco antiguo."
-          },
-          {
-            "phrase": "en busca de",
-            "meaning": "in search of",
-            "example": "Salieron al extranjero en busca de oportunidades."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué iniciativa ha lanzado la ciudad de Greenock y con qué objetivo?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué problema demográfico comparten muchas comunidades pequeñas de Europa?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué ventajas concretas espera obtener Greenock si llegan nuevos habitantes?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Puede la inmigración ser la solución al envejecimiento de los pueblos europeos, o crea también nuevos retos? Escribe tu punto de vista en unas 120 palabras."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-26-cuba-alimentos",
-      "title": "Por qué Cuba no produce suficiente comida y depende del exterior para alimentar a su población",
-      "source": "BBC Mundo",
-      "date": "2026-08-25",
-      "level": "B1-B2",
-      "topics": [
-        "economía",
-        "alimentación"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-26-cuba-alimentos",
-        "revision": 1,
-        "meta": {
-          "title": "Por qué Cuba no produce suficiente comida y depende del exterior para alimentar a su población",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c5y013l2pp4o",
-          "date_published": "2026-08-25",
-          "date_processed": "2026-08-26",
-          "tags": [
-            "economía",
-            "alimentación"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Cuba is going through a serious food crisis: despite its agricultural potential, the island imports around 80% of the food it consumes. According to a BBC analysis, this dependence on the outside world is due to decades of poor economic planning, the historic bet on sugar as the main crop, and the sanctions imposed by the United States. The result is that a country with fertile land does not manage to produce enough food to feed its own population.\n\nThe consequences are felt in everyday life: shortages in the markets, high prices and long queues to get basic products. Experts point out that, without a deep reform of the agricultural sector and without investment in machinery and fertilisers, the situation is unlikely to improve. Meanwhile, many Cuban families depend on the remittances their relatives send from abroad to put food on the table.",
-        "resumen_es": "Cuba atraviesa una grave crisis alimentaria: a pesar de su potencial agrícola, la isla importa alrededor del 80% de los alimentos que consume. Según un análisis de la BBC, esta dependencia del exterior se debe a décadas de mala planificación económica, a la apuesta histórica por el azúcar como cultivo principal y a las sanciones impuestas por Estados Unidos. El resultado es que un país con tierras fértiles no logra producir comida suficiente para alimentar a su propia población.\n\nLas consecuencias se notan en la vida cotidiana: escasez en los mercados, precios altos y largas colas para conseguir productos básicos. Los expertos señalan que, sin una reforma profunda del sector agrícola y sin inversión en maquinaria y fertilizantes, la situación difícilmente mejorará. Mientras tanto, muchas familias cubanas dependen de las remesas que envían sus parientes desde el extranjero para llenar la mesa.",
-        "vocab": [
-          {
-            "front": "atravesar",
-            "pos": "verb",
-            "back": "to go through, to experience",
-            "example": "El país atraviesa una crisis económica.",
-            "tier": "B1"
-          },
-          {
-            "front": "a pesar de",
-            "pos": "phrase",
-            "back": "despite, in spite of",
-            "example": "Salieron a pasear a pesar de la lluvia.",
-            "tier": "B1"
-          },
-          {
-            "front": "la apuesta",
-            "pos": "noun",
-            "back": "bet, commitment (to a strategy)",
-            "example": "La apuesta por las energías renovables es clave.",
-            "tier": "B2"
-          },
-          {
-            "front": "el cultivo",
-            "pos": "noun",
-            "back": "crop, farming",
-            "example": "El cultivo de arroz necesita mucha agua.",
-            "tier": "B1"
-          },
-          {
-            "front": "la escasez",
-            "pos": "noun",
-            "back": "shortage, scarcity",
-            "example": "Hay escasez de medicamentos en los hospitales.",
-            "tier": "B2"
-          },
-          {
-            "front": "la planificación",
-            "pos": "noun",
-            "back": "planning",
-            "example": "La mala planificación causó retrasos en la obra.",
-            "tier": "B1"
-          },
-          {
-            "front": "tierras fértiles",
-            "pos": "phrase",
-            "back": "fertile land",
-            "example": "La región tiene tierras fértiles para la agricultura.",
-            "tier": "B2"
-          },
-          {
-            "front": "la cola",
-            "pos": "noun",
-            "back": "queue, line",
-            "example": "Hicimos una hora de cola para entrar.",
-            "tier": "B1"
-          },
-          {
-            "front": "las remesas",
-            "pos": "noun",
-            "back": "remittances (money sent home)",
-            "example": "Las remesas de los emigrantes sostienen a muchas familias.",
-            "tier": "C1"
-          },
-          {
-            "front": "señalar",
-            "pos": "verb",
-            "back": "to point out, to indicate",
-            "example": "El informe señala varios problemas graves.",
-            "tier": "B1"
-          },
-          {
-            "front": "difícilmente",
-            "pos": "adv",
-            "back": "hardly, unlikely to",
-            "example": "Difícilmente llegaremos a tiempo con este tráfico.",
-            "tier": "B2"
-          },
-          {
-            "front": "alimentar",
-            "pos": "verb",
-            "back": "to feed",
-            "example": "Cuesta mucho alimentar a una familia grande.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "El resultado es que un país con tierras fértiles no logra producir comida suficiente para alimentar a su propia población.",
-            "point": "lograr + infinitive (to manage to do something)",
-            "explanation": "Lograr followed directly by an infinitive means to succeed in doing something: no logra producir = it does not manage to produce.",
-            "why_tricky": "English speakers often reach for 'conseguir a' or add an unnecessary preposition; lograr takes the infinitive with no preposition at all."
-          },
-          {
-            "sentence": "Los expertos señalan que, sin una reforma profunda del sector agrícola y sin inversión en maquinaria y fertilizantes, la situación difícilmente mejorará.",
-            "point": "future tense for predictions + repeated 'sin'",
-            "explanation": "Mejorará is the simple future used for a prediction. Spanish repeats sin before each noun phrase (sin reforma... y sin inversión) where English might say 'without X or Y'.",
-            "why_tricky": "Difícilmente + future is a very Spanish way to say 'is unlikely to'; a literal translation ('difficultly will improve') does not exist in English."
-          },
-          {
-            "sentence": "Mientras tanto, muchas familias cubanas dependen de las remesas que envían sus parientes desde el extranjero para llenar la mesa.",
-            "point": "depender de + subject after the verb in relative clauses",
-            "explanation": "Depender always takes de. In the relative clause 'que envían sus parientes', the subject (sus parientes) comes after the verb, a common Spanish word order.",
-            "why_tricky": "Learners often read 'que envían sus parientes' as 'that they send their relatives'; here sus parientes is the one doing the sending."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "llegar a fin de mes",
-            "meaning": "to make ends meet",
-            "example": "Con estos precios, muchas familias no llegan a fin de mes."
-          },
-          {
-            "phrase": "a cuentagotas",
-            "meaning": "in dribs and drabs, very slowly and in small amounts",
-            "example": "La ayuda llega a cuentagotas y no es suficiente."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué porcentaje de los alimentos que consume Cuba viene del exterior?",
-            "type": "open"
-          },
-          {
-            "q": "Según el artículo, ¿cuáles son las tres causas principales de la dependencia alimentaria de Cuba?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué necesitaría el sector agrícola cubano para mejorar, según los expertos?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que un país debe producir la mayor parte de su propia comida, o es aceptable depender de las importaciones? Justifica tu opinión con ejemplos."
       }
     }
   ]
