@@ -1,7 +1,507 @@
 {
-  "generated_at": "2026-09-05T07:12:45Z",
+  "generated_at": "2026-09-05T19:11:58Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-09-05-islas-paracel",
+      "title": "Mar de China Meridional: ¿Qué está construyendo Pekín en las islas Paracel?",
+      "source": "RFI en español",
+      "date": "2026-09-04",
+      "level": "B1-B2",
+      "topics": [
+        "geopolítica",
+        "Asia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-05-islas-paracel",
+        "revision": 1,
+        "meta": {
+          "title": "Mar de China Meridional: ¿Qué está construyendo Pekín en las islas Paracel?",
+          "source": "RFI en español",
+          "url": "https://www.rfi.fr/es/asia-pacifico/20260904-mar-de-china-meridional-qu%C3%A9-est%C3%A1-construyendo-pek%C3%ADn-en-las-islas-paracel",
+          "date_published": "2026-09-04",
+          "date_processed": "2026-09-05",
+          "tags": [
+            "geopolítica",
+            "Asia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "In just a few months, China has transformed two sandbanks in the Paracel Islands, in the South China Sea, into artificial islands that look very much like military bases. Satellite images show piers, runways and buildings where before there was only sand and coral. Beijing had already built similar facilities at other points in the archipelago, but the speed of this new work has caught the attention of analysts and of neighbouring countries.\n\nThe South China Sea is one of the most disputed areas on the planet: Vietnam, the Philippines and other countries claim part of its waters, which are rich in fish and energy resources. In addition, a huge share of world trade passes through it. Experts fear that these constructions will raise tension in the region and further complicate any negotiation. For now, Beijing maintains that they are civilian and defensive works.",
+        "resumen_es": "En pocos meses, China ha transformado dos bancos de arena de las islas Paracel, en el mar de China Meridional, en islas artificiales que tienen todo el aspecto de bases militares. Las imágenes por satélite muestran muelles, pistas y edificios donde antes solo había arena y coral. Pekín ya había construido instalaciones parecidas en otros puntos del archipiélago, pero la rapidez de estas nuevas obras ha llamado la atención de los analistas y de los países vecinos.\n\nEl mar de China Meridional es una de las zonas más disputadas del planeta: Vietnam, Filipinas y otros países reclaman parte de sus aguas, ricas en pesca y en recursos energéticos. Además, por allí pasa una parte enorme del comercio mundial. Los expertos temen que estas construcciones aumenten la tensión en la región y compliquen aún más cualquier negociación. Por ahora, Pekín sostiene que se trata de obras civiles y defensivas.",
+        "vocab": [
+          {
+            "front": "el banco de arena",
+            "pos": "noun",
+            "back": "sandbank",
+            "example": "El barco encalló en un banco de arena.",
+            "tier": "B2"
+          },
+          {
+            "front": "la isla artificial",
+            "pos": "noun",
+            "back": "artificial island",
+            "example": "Construyeron una isla artificial frente a la costa.",
+            "tier": "B1"
+          },
+          {
+            "front": "el muelle",
+            "pos": "noun",
+            "back": "pier, dock",
+            "example": "Los pescadores esperaban en el muelle.",
+            "tier": "B1"
+          },
+          {
+            "front": "la pista",
+            "pos": "noun",
+            "back": "runway (also track, court)",
+            "example": "El avión aterrizó en una pista muy corta.",
+            "tier": "B1"
+          },
+          {
+            "front": "llamar la atención",
+            "pos": "phrase",
+            "back": "to attract attention",
+            "example": "Su discurso llamó la atención de la prensa.",
+            "tier": "B1"
+          },
+          {
+            "front": "disputado",
+            "pos": "adj",
+            "back": "disputed, contested",
+            "example": "Es un territorio disputado por tres países.",
+            "tier": "B2"
+          },
+          {
+            "front": "reclamar",
+            "pos": "verb",
+            "back": "to claim, to demand",
+            "example": "Varios países reclaman esas aguas.",
+            "tier": "B1"
+          },
+          {
+            "front": "el recurso",
+            "pos": "noun",
+            "back": "resource",
+            "example": "La región es rica en recursos naturales.",
+            "tier": "B1"
+          },
+          {
+            "front": "la tensión",
+            "pos": "noun",
+            "back": "tension",
+            "example": "La tensión entre los dos gobiernos ha aumentado.",
+            "tier": "B1"
+          },
+          {
+            "front": "sostener",
+            "pos": "verb",
+            "back": "to maintain, to claim (an opinion)",
+            "example": "El ministro sostiene que no hubo errores.",
+            "tier": "B2"
+          },
+          {
+            "front": "las obras",
+            "pos": "noun",
+            "back": "construction works",
+            "example": "Las obras del puerto durarán dos años.",
+            "tier": "B1"
+          },
+          {
+            "front": "el país vecino",
+            "pos": "noun",
+            "back": "neighbouring country",
+            "example": "Los países vecinos protestaron por la decisión.",
+            "tier": "B1"
+          },
+          {
+            "front": "complicar",
+            "pos": "verb",
+            "back": "to complicate",
+            "example": "La lluvia complicó el rescate.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Pekín ya había construido instalaciones parecidas en otros puntos del archipiélago, pero la rapidez de estas nuevas obras ha llamado la atención de los analistas y de los países vecinos.",
+            "point": "Pluscuamperfecto vs pretérito perfecto",
+            "explanation": "'Había construido' (pluscuamperfecto) sitúa una acción antes de otra acción pasada; 'ha llamado' (pretérito perfecto) describe algo reciente con efecto en el presente.",
+            "why_tricky": "English uses 'had built' and 'has caught' in the same way, but Spanish speakers in Latin America often replace 'ha llamado' with 'llamó'. Both are correct; the perfect is more common in Spain."
+          },
+          {
+            "sentence": "Los expertos temen que estas construcciones aumenten la tensión en la región y compliquen aún más cualquier negociación.",
+            "point": "Subjuntivo tras verbos de temor",
+            "explanation": "'Temer que' expresses fear about something uncertain, so the following verbs go in the present subjunctive: 'aumenten', 'compliquen'.",
+            "why_tricky": "Learners often write 'temen que aumentan'. Any verb of emotion or fear (temer, tener miedo de que, preocupar) triggers the subjunctive."
+          },
+          {
+            "sentence": "Por ahora, Pekín sostiene que se trata de obras civiles y defensivas.",
+            "point": "'Se trata de' impersonal",
+            "explanation": "'Se trata de' means 'it is a matter of / they are'. It is always impersonal and singular, never 'se tratan de'.",
+            "why_tricky": "It looks like a reflexive verb with a plural subject, but it has no subject at all; 'obras' is the object of 'de'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "tener todo el aspecto de",
+            "meaning": "to look exactly like, to have every appearance of",
+            "example": "El edificio tiene todo el aspecto de un hotel abandonado."
+          },
+          {
+            "phrase": "aún más",
+            "meaning": "even more",
+            "example": "La noticia complicó aún más la situación."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué ha construido China en las islas Paracel y qué muestran las imágenes por satélite?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué el mar de China Meridional es una zona tan disputada?",
+            "type": "open"
+          },
+          {
+            "q": "¿Cómo explica Pekín estas construcciones y qué temen los expertos?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que la comunidad internacional puede hacer algo frente a la construcción de islas artificiales en aguas disputadas? Escribe unas 120 palabras con tu opinión."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-05-libros-prohibidos",
+      "title": "\"Nunca se había privado a tantos niños del acceso a tantas historias\": el crecimiento imparable de la prohibición de libros en escuelas públicas de EE.UU.",
+      "source": "BBC Mundo",
+      "date": "2026-09-04",
+      "level": "B1-B2",
+      "topics": [
+        "educación",
+        "censura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-05-libros-prohibidos",
+        "revision": 1,
+        "meta": {
+          "title": "\"Nunca se había privado a tantos niños del acceso a tantas historias\": el crecimiento imparable de la prohibición de libros en escuelas públicas de EE.UU.",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cm2g66y4npro",
+          "date_published": "2026-09-04",
+          "date_processed": "2026-09-05",
+          "tags": [
+            "educación",
+            "censura"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Public school libraries in the United States have become the stage for an intense ideological battle. Every year the number of books removed from the shelves grows, by decision of school boards or of parent groups. The works affected frequently deal with topics such as race, gender identity or sexuality, although classics have also fallen. Librarians' associations say that never before have so many children been deprived of access to so many stories.\n\nThe phenomenon is not new, but its scale is. Supporters of the bans maintain that they protect minors from inappropriate content. Their critics reply that it is censorship and that it impoverishes education. Meanwhile, authors, teachers and students have begun to organise in the courts. At heart, the debate reflects a society deeply divided over which values should be passed on at school.",
+        "resumen_es": "Las bibliotecas de las escuelas públicas de Estados Unidos se han convertido en el escenario de una intensa batalla ideológica. Cada año crece el número de libros retirados de las estanterías por decisión de juntas escolares o de grupos de padres. Las obras afectadas tratan con frecuencia temas como la raza, la identidad de género o la sexualidad, aunque también han caído clásicos. Las asociaciones de bibliotecarios afirman que nunca se había privado a tantos niños del acceso a tantas historias.\n\nEl fenómeno no es nuevo, pero su escala sí lo es. Los defensores de las prohibiciones sostienen que protegen a los menores de contenidos inapropiados. Sus críticos responden que es censura y que empobrece la educación. Mientras tanto, autores, docentes y estudiantes han empezado a organizarse en los tribunales. El debate refleja, en el fondo, una sociedad profundamente dividida sobre qué valores deben transmitirse en la escuela.",
+        "vocab": [
+          {
+            "front": "la estantería",
+            "pos": "noun",
+            "back": "shelf, bookcase",
+            "example": "Colocó los libros nuevos en la estantería.",
+            "tier": "B1"
+          },
+          {
+            "front": "retirar",
+            "pos": "verb",
+            "back": "to remove, to withdraw",
+            "example": "Retiraron el libro de la biblioteca.",
+            "tier": "B1"
+          },
+          {
+            "front": "la junta escolar",
+            "pos": "noun",
+            "back": "school board",
+            "example": "La junta escolar votó en contra de la propuesta.",
+            "tier": "B2"
+          },
+          {
+            "front": "privar a alguien de",
+            "pos": "phrase",
+            "back": "to deprive someone of",
+            "example": "No se puede privar a los niños de la lectura.",
+            "tier": "B2"
+          },
+          {
+            "front": "la prohibición",
+            "pos": "noun",
+            "back": "ban, prohibition",
+            "example": "La prohibición entró en vigor en enero.",
+            "tier": "B1"
+          },
+          {
+            "front": "el escenario",
+            "pos": "noun",
+            "back": "stage, scene, setting",
+            "example": "La ciudad fue el escenario de grandes protestas.",
+            "tier": "B1"
+          },
+          {
+            "front": "empobrecer",
+            "pos": "verb",
+            "back": "to impoverish",
+            "example": "La falta de lectura empobrece el vocabulario.",
+            "tier": "B2"
+          },
+          {
+            "front": "el docente",
+            "pos": "noun",
+            "back": "teacher (formal)",
+            "example": "Los docentes pidieron más recursos.",
+            "tier": "B1"
+          },
+          {
+            "front": "los tribunales",
+            "pos": "noun",
+            "back": "the courts",
+            "example": "El caso llegará a los tribunales.",
+            "tier": "B1"
+          },
+          {
+            "front": "en el fondo",
+            "pos": "phrase",
+            "back": "deep down, at heart",
+            "example": "En el fondo, todos queremos lo mismo.",
+            "tier": "B1"
+          },
+          {
+            "front": "transmitir",
+            "pos": "verb",
+            "back": "to pass on, to transmit",
+            "example": "La escuela transmite valores además de conocimientos.",
+            "tier": "B1"
+          },
+          {
+            "front": "inapropiado",
+            "pos": "adj",
+            "back": "inappropriate",
+            "example": "El contenido es inapropiado para menores.",
+            "tier": "B1"
+          },
+          {
+            "front": "la censura",
+            "pos": "noun",
+            "back": "censorship",
+            "example": "Los periodistas denunciaron la censura.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Las asociaciones de bibliotecarios afirman que nunca se había privado a tantos niños del acceso a tantas historias.",
+            "point": "'Se' impersonal con pluscuamperfecto",
+            "explanation": "'Se había privado' has no specific subject: 'nobody had ever deprived'. The verb stays singular and 'a tantos niños' is the object, marked with the personal 'a'.",
+            "why_tricky": "English needs a passive ('had been deprived'); Spanish prefers the impersonal 'se' and keeps the verb in the third person singular."
+          },
+          {
+            "sentence": "El fenómeno no es nuevo, pero su escala sí lo es.",
+            "point": "'Lo' como pronombre predicativo",
+            "explanation": "'Lo' replaces the adjective 'nuevo' to avoid repeating it: 'but its scale is (new)'. 'Sí' adds emphasis and contrast.",
+            "why_tricky": "This 'lo' is invariable: 'su escala sí lo es', never 'la es'. English simply drops the adjective ('but its scale is')."
+          },
+          {
+            "sentence": "El debate refleja, en el fondo, una sociedad profundamente dividida sobre qué valores deben transmitirse en la escuela.",
+            "point": "Interrogativa indirecta con 'qué' y pasiva refleja",
+            "explanation": "'Qué' keeps its accent in indirect questions ('sobre qué valores'). 'Deben transmitirse' is a reflexive passive: 'should be passed on'.",
+            "why_tricky": "Learners drop the accent on 'qué' when there is no question mark, and often write 'deben ser transmitidos', which is correct but heavier."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "mientras tanto",
+            "meaning": "meanwhile, in the meantime",
+            "example": "Mientras tanto, los alumnos siguen sin biblioteca."
+          },
+          {
+            "phrase": "caer (un libro, una obra)",
+            "meaning": "to fall, to be removed or cut (figurative)",
+            "example": "También han caído varias novelas premiadas."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Quiénes deciden retirar los libros de las bibliotecas escolares y qué temas suelen tratar esas obras?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué argumentos dan los defensores de las prohibiciones y qué responden sus críticos?",
+            "type": "open"
+          },
+          {
+            "q": "Según el texto, ¿qué revela este debate sobre la sociedad estadounidense?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Deben los padres tener derecho a decidir qué libros están disponibles en la biblioteca de una escuela pública? Escribe unas 120 palabras defendiendo tu postura."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-05-bachelet-onu",
+      "title": "ONU: \"No seré secretaria general\", ironiza expresidenta de Chile sobre su candidatura",
+      "source": "RFI en español",
+      "date": "2026-09-04",
+      "level": "B1-B2",
+      "topics": [
+        "ONU",
+        "Chile"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-05-bachelet-onu",
+        "revision": 1,
+        "meta": {
+          "title": "ONU: \"No seré secretaria general\", ironiza expresidenta de Chile sobre su candidatura",
+          "source": "RFI en español",
+          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260904-onu-no-ser%C3%A9-secretaria-general-ironiza-expresidenta-de-chile-sobre-su-candidatura",
+          "date_published": "2026-09-04",
+          "date_processed": "2026-09-05",
+          "tags": [
+            "ONU",
+            "Chile"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Former Chilean president Michelle Bachelet joked this week about her slim chances of becoming secretary general of the United Nations. \"I will not be secretary general,\" she said with humour, in front of a surprised audience. Bachelet, who governed Chile twice and was UN High Commissioner for Human Rights, is one of the names being floated to succeed António Guterres, whose mandate ends at the close of the year.\n\nThe choice depends above all on the Security Council, where five permanent members have the right of veto. Many countries insist that, for the first time in the organisation's history, the post should go to a woman, and many consider that it is Latin America's turn. However, the process is long and not very transparent, and the interests of the great powers weigh more than merit. That is why Bachelet prefers to take her candidacy with humour.",
+        "resumen_es": "La expresidenta de Chile Michelle Bachelet ironizó esta semana sobre sus escasas posibilidades de convertirse en secretaria general de las Naciones Unidas. \"No seré secretaria general\", dijo con humor ante un público sorprendido. Bachelet, que gobernó Chile dos veces y fue Alta Comisionada de la ONU para los Derechos Humanos, es uno de los nombres que suenan para suceder a António Guterres, cuyo mandato termina a finales de año.\n\nLa elección depende sobre todo del Consejo de Seguridad, donde cinco miembros permanentes tienen derecho de veto. Muchos países insisten en que, por primera vez en la historia de la organización, el cargo debería recaer en una mujer, y muchos consideran que es el turno de América Latina. Sin embargo, el proceso es largo y poco transparente, y los intereses de las grandes potencias pesan más que los méritos. Por eso Bachelet prefiere tomarse su candidatura con humor.",
+        "vocab": [
+          {
+            "front": "ironizar sobre",
+            "pos": "verb",
+            "back": "to joke ironically about",
+            "example": "El ministro ironizó sobre las críticas de la oposición.",
+            "tier": "B2"
+          },
+          {
+            "front": "escaso",
+            "pos": "adj",
+            "back": "scarce, slim, few",
+            "example": "Tiene escasas posibilidades de ganar.",
+            "tier": "B1"
+          },
+          {
+            "front": "el cargo",
+            "pos": "noun",
+            "back": "post, position (job)",
+            "example": "Ocupó el cargo durante cuatro años.",
+            "tier": "B1"
+          },
+          {
+            "front": "suceder a alguien",
+            "pos": "verb",
+            "back": "to succeed someone (in a post)",
+            "example": "Nadie sabe quién sucederá al presidente.",
+            "tier": "B2"
+          },
+          {
+            "front": "el mandato",
+            "pos": "noun",
+            "back": "term of office, mandate",
+            "example": "Su mandato termina en diciembre.",
+            "tier": "B1"
+          },
+          {
+            "front": "el derecho de veto",
+            "pos": "noun",
+            "back": "right of veto",
+            "example": "Rusia usó su derecho de veto en el Consejo.",
+            "tier": "B2"
+          },
+          {
+            "front": "recaer en",
+            "pos": "verb",
+            "back": "to fall to, to go to (a post, a responsibility)",
+            "example": "La responsabilidad recayó en el ministro.",
+            "tier": "B2"
+          },
+          {
+            "front": "el turno",
+            "pos": "noun",
+            "back": "turn",
+            "example": "Ahora es el turno de Europa.",
+            "tier": "B1"
+          },
+          {
+            "front": "la potencia",
+            "pos": "noun",
+            "back": "power (country)",
+            "example": "Las grandes potencias no se ponen de acuerdo.",
+            "tier": "B2"
+          },
+          {
+            "front": "pesar más que",
+            "pos": "phrase",
+            "back": "to weigh more than, to count for more",
+            "example": "La experiencia pesa más que el título.",
+            "tier": "B2"
+          },
+          {
+            "front": "el mérito",
+            "pos": "noun",
+            "back": "merit",
+            "example": "Consiguió el puesto por sus propios méritos.",
+            "tier": "B1"
+          },
+          {
+            "front": "tomarse algo con humor",
+            "pos": "phrase",
+            "back": "to take something with humour",
+            "example": "Se tomó la derrota con humor.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Bachelet, que gobernó Chile dos veces y fue Alta Comisionada de la ONU para los Derechos Humanos, es uno de los nombres que suenan para suceder a António Guterres, cuyo mandato termina a finales de año.",
+            "point": "Oraciones de relativo explicativas y 'cuyo'",
+            "explanation": "The clause between commas adds extra information about Bachelet. 'Cuyo' means 'whose' and agrees with the noun that follows it ('cuyo mandato'), not with the owner.",
+            "why_tricky": "'Cuyo' is formal and mostly written; learners avoid it or make it agree with 'Guterres'. It must match 'mandato' (masculine singular)."
+          },
+          {
+            "sentence": "Muchos países insisten en que, por primera vez en la historia de la organización, el cargo debería recaer en una mujer, y muchos consideran que es el turno de América Latina.",
+            "point": "'Insistir en que' + indicativo y condicional de opinión",
+            "explanation": "'Insistir en que' states a claim, so it takes the indicative. 'Debería recaer' (conditional) softens the demand: 'should go to'.",
+            "why_tricky": "The preposition 'en' cannot be dropped ('insisten que' is a common error). Also, 'insistir en que' takes the subjunctive only when it means asking someone to do something."
+          },
+          {
+            "sentence": "Por eso Bachelet prefiere tomarse su candidatura con humor.",
+            "point": "Verbos pronominales de matiz: 'tomarse'",
+            "explanation": "'Tomarse algo con humor' uses the reflexive pronoun to show personal involvement or attitude, like 'tomarse en serio', 'comerse', 'leerse'.",
+            "why_tricky": "The pronoun does not change the basic meaning of 'tomar' but makes it colloquial and complete; dropping it sounds unnatural."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "sobre todo",
+            "meaning": "above all, especially",
+            "example": "Depende sobre todo de los grandes países."
+          },
+          {
+            "phrase": "poco transparente",
+            "meaning": "opaque, not very transparent",
+            "example": "El proceso de selección es poco transparente."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué dijo Michelle Bachelet sobre su candidatura y en qué tono lo dijo?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué experiencia tiene Bachelet que la convierte en una candidata posible?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué el proceso para elegir al secretario general es tan complicado, según el texto?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Te parece importante que la próxima persona al frente de la ONU sea una mujer o alguien de América Latina, o solo deberían contar los méritos? Escribe unas 120 palabras."
+      }
+    },
     {
       "pack_id": "feed-2026-09-05-mapamundi-africa",
       "title": "La ONU aprueba un nuevo mapamundi que refleja el tamaño real de África",
@@ -6189,520 +6689,6 @@
           }
         ],
         "opinion_prompt": "¿Qué importancia tiene para un artista volver a actuar en directo después de una enfermedad grave? Escribe unas 120 palabras."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-29-francia-recesion",
-      "title": "Francia evita la recesión, pero la economía acumula señales de deterioro",
-      "source": "RFI Español",
-      "date": "2026-08-28",
-      "level": "B1-B2",
-      "topics": [
-        "economía",
-        "Francia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-29-francia-recesion",
-        "revision": 1,
-        "meta": {
-          "title": "Francia evita la recesión, pero la economía acumula señales de deterioro",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/francia/20260828-francia-evita-la-recesi%C3%B3n-pero-la-econom%C3%ADa-acumula-se%C3%B1ales-de-deterioro",
-          "date_published": "2026-08-28",
-          "date_processed": "2026-08-29",
-          "tags": [
-            "economía",
-            "Francia"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "France has narrowly avoided recession, but the latest economic figures are fuelling concern. The revision of the growth figures turned out to be less favourable than expected and confirms that activity is cooling down. Household consumption is moving forward with difficulty and companies are being cautious when it comes to investing, in an international context that is far from stable.\n\nOn top of this comes the debate about the public finances. The government has to reduce the deficit without slowing the economy down even further, a delicate balance that divides the parties and the economists themselves. If growth stalls, tax revenue will fall and the adjustment will be more painful; if spending is cut too quickly, domestic demand may suffer. The coming months will be decisive in showing which of the two scenarios ends up prevailing.",
-        "resumen_es": "Francia ha esquivado por poco la recesión, pero los últimos datos económicos alimentan la preocupación. La revisión de las cifras de crecimiento ha resultado menos favorable de lo esperado y confirma que la actividad se está enfriando. El consumo de los hogares avanza con dificultad y las empresas se muestran prudentes a la hora de invertir, en un contexto internacional poco estable.\n\nA esto se suma el debate sobre las cuentas públicas. El Gobierno debe reducir el déficit sin frenar todavía más la economía, un equilibrio delicado que divide a los partidos y a los propios economistas. Si el crecimiento se estanca, los ingresos fiscales bajarán y el ajuste será más doloroso; si se recorta demasiado deprisa, la demanda interna puede resentirse. Los próximos meses serán decisivos para saber cuál de los dos escenarios acaba imponiéndose.",
-        "vocab": [
-          {
-            "front": "esquivar",
-            "pos": "verb",
-            "back": "to dodge, to narrowly avoid",
-            "example": "La empresa esquivó la quiebra en el último momento.",
-            "tier": "B2"
-          },
-          {
-            "front": "la recesión",
-            "pos": "noun",
-            "back": "recession",
-            "example": "El país entró en recesión el año pasado.",
-            "tier": "B2"
-          },
-          {
-            "front": "alimentar la preocupación",
-            "pos": "phrase",
-            "back": "to fuel concern",
-            "example": "Los datos alimentan la preocupación de los mercados.",
-            "tier": "B2"
-          },
-          {
-            "front": "la cifra",
-            "pos": "noun",
-            "back": "figure, number",
-            "example": "Las cifras del paro han mejorado.",
-            "tier": "B1"
-          },
-          {
-            "front": "enfriarse",
-            "pos": "verb",
-            "back": "to cool down, to slow",
-            "example": "El mercado inmobiliario se está enfriando.",
-            "tier": "B2"
-          },
-          {
-            "front": "el hogar",
-            "pos": "noun",
-            "back": "household, home",
-            "example": "El gasto de los hogares ha caído.",
-            "tier": "B1"
-          },
-          {
-            "front": "prudente",
-            "pos": "adj",
-            "back": "cautious",
-            "example": "Los inversores se muestran prudentes.",
-            "tier": "B1"
-          },
-          {
-            "front": "las cuentas públicas",
-            "pos": "noun",
-            "back": "public finances",
-            "example": "Las cuentas públicas siguen en números rojos.",
-            "tier": "C1"
-          },
-          {
-            "front": "el déficit",
-            "pos": "noun",
-            "back": "deficit",
-            "example": "Quieren reducir el déficit en dos años.",
-            "tier": "B2"
-          },
-          {
-            "front": "estancarse",
-            "pos": "verb",
-            "back": "to stagnate, to stall",
-            "example": "Las negociaciones se han estancado.",
-            "tier": "B2"
-          },
-          {
-            "front": "el ingreso fiscal",
-            "pos": "noun",
-            "back": "tax revenue",
-            "example": "Los ingresos fiscales cayeron un tres por ciento.",
-            "tier": "C1"
-          },
-          {
-            "front": "recortar",
-            "pos": "verb",
-            "back": "to cut (spending)",
-            "example": "Han recortado el presupuesto de cultura.",
-            "tier": "B2"
-          },
-          {
-            "front": "resentirse",
-            "pos": "verb",
-            "back": "to suffer, to be adversely affected",
-            "example": "Si duermes poco, tu salud se resiente.",
-            "tier": "C1"
-          },
-          {
-            "front": "imponerse",
-            "pos": "verb",
-            "back": "to prevail, to win out",
-            "example": "Al final se impuso la opción más prudente.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La revisión de las cifras de crecimiento ha resultado menos favorable de lo esperado y confirma que la actividad se está enfriando.",
-            "point": "Comparison with de lo esperado",
-            "explanation": "Before a clause or a participle used as a noun, Spanish comparatives take de lo rather than que: menos favorable de lo esperado. Que is reserved for comparing two nouns directly.",
-            "why_tricky": "Learners transfer 'than expected' as que esperado, which is ungrammatical in Spanish."
-          },
-          {
-            "sentence": "El Gobierno debe reducir el déficit sin frenar todavía más la economía, un equilibrio delicado que divide a los partidos y a los propios economistas.",
-            "point": "sin + infinitive, and the personal a with groups of people",
-            "explanation": "Sin plus the infinitive replaces the English 'without' plus gerund. Dividir takes the personal a because its object is human, and the a is repeated before each element of the list.",
-            "why_tricky": "The gerund transfer (sin frenando) is common, and learners drop the second a in coordinated objects."
-          },
-          {
-            "sentence": "Si el crecimiento se estanca, los ingresos fiscales bajarán y el ajuste será más doloroso; si se recorta demasiado deprisa, la demanda interna puede resentirse.",
-            "point": "Real conditional with si plus present",
-            "explanation": "In an open condition the si clause stays in the present indicative and the consequence takes the future or the present. The impersonal si se recorta hides the agent, a very frequent device in economic writing.",
-            "why_tricky": "Learners put the future in the si clause, and the impersonal se is easily mistaken for a reflexive."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "por poco",
-            "meaning": "only just, narrowly",
-            "example": "Por poco pierdo el tren."
-          },
-          {
-            "phrase": "a la hora de",
-            "meaning": "when it comes to",
-            "example": "A la hora de decidir, siempre duda."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué preocupan los últimos datos económicos franceses si el país ha evitado la recesión?",
-            "type": "open"
-          },
-          {
-            "q": "¿Cuál es el equilibrio delicado al que se enfrenta el Gobierno?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué dos escenarios plantea el texto para los próximos meses?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Cuando la economía se enfría, ¿es mejor recortar el gasto público o mantenerlo para sostener la demanda? Escribe unas 120 palabras."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-29-kurdos-siria",
-      "title": "La integración kurda en la nueva Siria y el fin de sus sueños de autonomía",
-      "source": "RFI Español",
-      "date": "2026-08-28",
-      "level": "B1-B2",
-      "topics": [
-        "geopolítica",
-        "Siria"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-29-kurdos-siria",
-        "revision": 1,
-        "meta": {
-          "title": "La integración kurda en la nueva Siria y el fin de sus sueños de autonomía",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/programas/enfoque-internacional/20260828-la-integraci%C3%B3n-kurda-en-la-nueva-siria-y-el-fin-de-sus-sue%C3%B1os-de-autonom%C3%ADa",
-          "date_published": "2026-08-28",
-          "date_processed": "2026-08-29",
-          "tags": [
-            "geopolítica",
-            "Siria"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The Syrian president, Ahmed al Sharaa, has dissolved the Syrian Democratic Forces and brought their commanders into the structures of the new state. The move closes a period of self-administration in the north-east of the country and transforms a force that for years operated in an almost independent way. For the authorities in Damascus, this is a necessary step towards national unity after a long period of fragmentation.\n\nAmong the Kurdish population, by contrast, the decision is read as the end of a long-defended project of autonomy. Many fear losing the cultural and linguistic rights won during those years, and doubt that the promises of integration will really be kept. The outcome will depend on whether the new state offers concrete guarantees or confines itself to declarations. For the moment, distrust remains the dominant feeling in the region.",
-        "resumen_es": "El presidente sirio, Ahmed al Sharaa, ha disuelto las Fuerzas Democráticas Sirias e integrado a sus mandos en las estructuras del nuevo Estado. La medida cierra una etapa de administración propia en el noreste del país y transforma a una fuerza que durante años funcionó de manera casi independiente. Para las autoridades de Damasco, se trata de un paso necesario hacia la unidad nacional tras un largo periodo de fragmentación.\n\nEntre la población kurda, en cambio, la decisión se lee como el final de un proyecto de autonomía largamente defendido. Muchos temen perder los derechos culturales y lingüísticos conquistados en esos años, y dudan de que las promesas de integración se cumplan realmente. El resultado dependerá de si el nuevo Estado ofrece garantías concretas o se limita a declaraciones. De momento, la desconfianza sigue siendo el sentimiento dominante en la región.",
-        "vocab": [
-          {
-            "front": "disolver",
-            "pos": "verb",
-            "back": "to dissolve, to disband",
-            "example": "Disolvieron el comité tras el escándalo.",
-            "tier": "B2"
-          },
-          {
-            "front": "el mando",
-            "pos": "noun",
-            "back": "commander, senior officer",
-            "example": "Los mandos militares se reunieron ayer.",
-            "tier": "C1"
-          },
-          {
-            "front": "integrar",
-            "pos": "verb",
-            "back": "to integrate, to incorporate",
-            "example": "Quieren integrar a los jóvenes en el mercado laboral.",
-            "tier": "B1"
-          },
-          {
-            "front": "la etapa",
-            "pos": "noun",
-            "back": "stage, period",
-            "example": "Se abre una nueva etapa para el país.",
-            "tier": "B1"
-          },
-          {
-            "front": "la fragmentación",
-            "pos": "noun",
-            "back": "fragmentation",
-            "example": "La fragmentación política dificulta los acuerdos.",
-            "tier": "C1"
-          },
-          {
-            "front": "en cambio",
-            "pos": "phrase",
-            "back": "on the other hand, by contrast",
-            "example": "Él aceptó; ella, en cambio, se negó.",
-            "tier": "B1"
-          },
-          {
-            "front": "la autonomía",
-            "pos": "noun",
-            "back": "autonomy, self-government",
-            "example": "La región reclama más autonomía fiscal.",
-            "tier": "B2"
-          },
-          {
-            "front": "conquistar un derecho",
-            "pos": "phrase",
-            "back": "to win a right",
-            "example": "Son derechos conquistados tras años de lucha.",
-            "tier": "B2"
-          },
-          {
-            "front": "cumplirse",
-            "pos": "verb",
-            "back": "to be fulfilled, to come true",
-            "example": "Ojalá se cumplan tus deseos.",
-            "tier": "B1"
-          },
-          {
-            "front": "la garantía",
-            "pos": "noun",
-            "back": "guarantee, safeguard",
-            "example": "Exigen garantías por escrito.",
-            "tier": "B1"
-          },
-          {
-            "front": "limitarse a",
-            "pos": "verb",
-            "back": "to confine oneself to, to do no more than",
-            "example": "Se limitó a escuchar sin decir nada.",
-            "tier": "B2"
-          },
-          {
-            "front": "la desconfianza",
-            "pos": "noun",
-            "back": "distrust",
-            "example": "La desconfianza entre las partes es enorme.",
-            "tier": "B1"
-          },
-          {
-            "front": "dominante",
-            "pos": "adj",
-            "back": "dominant, prevailing",
-            "example": "Esa es la opinión dominante entre los expertos.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Muchos temen perder los derechos culturales y lingüísticos conquistados en esos años, y dudan de que las promesas de integración se cumplan realmente.",
-            "point": "dudar de que + subjunctive versus temer + infinitive",
-            "explanation": "Dudar de que expresses doubt and requires the subjunctive: se cumplan. Temer takes a bare infinitive when the subject of both verbs is the same, so no que and no subjunctive are needed there.",
-            "why_tricky": "Two verbs of emotion sit side by side but behave differently, and the de after dudar is often dropped."
-          },
-          {
-            "sentence": "El resultado dependerá de si el nuevo Estado ofrece garantías concretas o se limita a declaraciones.",
-            "point": "depender de si + indicative",
-            "explanation": "Depender always requires de. When the following clause is an indirect yes-or-no question introduced by si, Spanish keeps the indicative, unlike the subjunctive found after many other expressions of uncertainty.",
-            "why_tricky": "Si is never followed by the present subjunctive in Spanish, a rule learners break when the sentence feels hypothetical."
-          },
-          {
-            "sentence": "La medida cierra una etapa de administración propia en el noreste del país y transforma a una fuerza que durante años funcionó de manera casi independiente.",
-            "point": "Preterite for a closed period plus durante",
-            "explanation": "Funcionó is the preterite because durante años frames the action as a completed block of time. The imperfect funcionaba would describe the habit from the inside, without closing it.",
-            "why_tricky": "Learners assume that a long duration automatically calls for the imperfect, but it is the closed frame that decides."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "de momento",
-            "meaning": "for the time being, so far",
-            "example": "De momento no hay novedades."
-          },
-          {
-            "phrase": "poner fin a una etapa",
-            "meaning": "to close a chapter",
-            "example": "Su marcha pone fin a una etapa del club."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué decisión ha tomado el presidente sirio y qué consecuencias tiene?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué la población kurda recibe la medida de forma distinta a Damasco?",
-            "type": "open"
-          },
-          {
-            "q": "Según el texto, ¿de qué dependerá el resultado de esta integración?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Puede un Estado garantizar la unidad nacional sin reconocer la autonomía de sus minorías? Escribe unas 120 palabras con argumentos a favor y en contra."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-28-japon-ciudades-habitables",
-      "title": "Las 4 reglas de oro de Japón para hacer más habitables sus ciudades",
-      "source": "BBC Mundo",
-      "date": "2026-08-28",
-      "level": "B1-B2",
-      "topics": [
-        "urbanismo",
-        "sociedad"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-28-japon-ciudades-habitables",
-        "revision": 1,
-        "meta": {
-          "title": "Las 4 reglas de oro de Japón para hacer más habitables sus ciudades",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c5yrz9g0e3xo",
-          "date_published": "2026-08-28",
-          "date_processed": "2026-08-28",
-          "tags": [
-            "urbanismo",
-            "sociedad"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "A report looks at why Japanese cities rank among the most liveable in the world and highlights four golden rules. The first is neighbourhood life: local shopping streets let people do their shopping on foot and keep small businesses alive. The second is public transport that is accessible and punctual. The third is the mixing of uses, which combines homes, shops and offices. The fourth is attention to everyday details, from the pavements to cleanliness.\n\nThese ideas are not exclusive to Japan, but there they are applied with unusual consistency. For many urban planners, the result shows day to day: less time lost commuting and more encounters between neighbours. The debate is now reaching other cities that face traffic and an ageing population. The question is to what extent these principles can be transferred to very different cultural contexts.",
-        "resumen_es": "Un reportaje analiza por qué las ciudades japonesas figuran entre las más habitables del mundo y destaca cuatro reglas de oro. La primera es la vida de barrio: las calles comerciales de proximidad permiten hacer la compra a pie y sostienen el comercio pequeño. La segunda es un transporte público accesible y puntual. La tercera es la mezcla de usos, que combina viviendas, tiendas y oficinas. La cuarta es el cuidado de los detalles cotidianos, desde las aceras hasta la limpieza.\n\nEstas ideas no son exclusivas de Japón, pero allí se aplican con una constancia poco habitual. Para muchos urbanistas, el resultado se nota a diario: menos tiempo perdido en desplazamientos y más encuentros entre vecinos. El debate llega ahora a otras ciudades que se enfrentan al tráfico y al envejecimiento de la población. La pregunta es hasta qué punto estos principios pueden trasladarse a contextos culturales muy distintos.",
-        "vocab": [
-          {
-            "front": "habitable",
-            "pos": "adj",
-            "back": "liveable, fit to live in",
-            "example": "Buscan hacer la ciudad más habitable para las familias.",
-            "tier": "B2"
-          },
-          {
-            "front": "el diseño urbano",
-            "pos": "noun",
-            "back": "urban design",
-            "example": "El diseño urbano influye en nuestra salud.",
-            "tier": "B2"
-          },
-          {
-            "front": "la calle comercial",
-            "pos": "noun",
-            "back": "shopping street",
-            "example": "La calle comercial del barrio está siempre llena.",
-            "tier": "B1"
-          },
-          {
-            "front": "de proximidad",
-            "pos": "phrase",
-            "back": "local, nearby (of shops and services)",
-            "example": "Prefiere el comercio de proximidad al centro comercial.",
-            "tier": "B2"
-          },
-          {
-            "front": "hacer la compra",
-            "pos": "phrase",
-            "back": "to do the (grocery) shopping",
-            "example": "Hago la compra los sábados por la mañana.",
-            "tier": "B1"
-          },
-          {
-            "front": "sostener",
-            "pos": "verb",
-            "back": "to sustain, to keep going",
-            "example": "El turismo sostiene la economía de la isla.",
-            "tier": "B2"
-          },
-          {
-            "front": "la mezcla de usos",
-            "pos": "noun",
-            "back": "mixed use (of urban space)",
-            "example": "La mezcla de usos evita barrios vacíos de noche.",
-            "tier": "C1"
-          },
-          {
-            "front": "la acera",
-            "pos": "noun",
-            "back": "pavement, sidewalk",
-            "example": "Las aceras son anchas y están bien cuidadas.",
-            "tier": "B1"
-          },
-          {
-            "front": "el desplazamiento",
-            "pos": "noun",
-            "back": "commute, journey, movement",
-            "example": "El desplazamiento al trabajo le lleva una hora.",
-            "tier": "B2"
-          },
-          {
-            "front": "el envejecimiento",
-            "pos": "noun",
-            "back": "ageing",
-            "example": "El envejecimiento de la población preocupa al Gobierno.",
-            "tier": "B2"
-          },
-          {
-            "front": "trasladarse",
-            "pos": "verb",
-            "back": "to be transferred, to move",
-            "example": "El modelo no siempre puede trasladarse a otro país.",
-            "tier": "B2"
-          },
-          {
-            "front": "hasta qué punto",
-            "pos": "phrase",
-            "back": "to what extent",
-            "example": "No sabemos hasta qué punto funcionará la medida.",
-            "tier": "B2"
-          },
-          {
-            "front": "poco habitual",
-            "pos": "phrase",
-            "back": "unusual, uncommon",
-            "example": "Es una decisión poco habitual en este sector.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La primera es la vida de barrio: las calles comerciales de proximidad permiten hacer la compra a pie y sostienen el comercio pequeño.",
-            "point": "permitir + infinitivo",
-            "explanation": "After permitir, Spanish uses a bare infinitive when there is no explicit person doing the action. If you name the person, you add an indirect object: les permiten hacer la compra.",
-            "why_tricky": "English often uses a gerund or a that-clause here, so learners write permiten haciendo or permiten que hacer."
-          },
-          {
-            "sentence": "Estas ideas no son exclusivas de Japón, pero allí se aplican con una constancia poco habitual.",
-            "point": "se pasiva refleja",
-            "explanation": "Se aplican means they are applied. The verb agrees with the thing affected (ideas, plural), and the agent is left unmentioned.",
-            "why_tricky": "It looks reflexive, as if the ideas applied themselves, and the plural agreement is easy to forget."
-          },
-          {
-            "sentence": "La pregunta es hasta qué punto estos principios pueden trasladarse a contextos culturales muy distintos.",
-            "point": "indirect question with hasta qué punto and pronoun placement",
-            "explanation": "Hasta qué punto keeps its accent inside an indirect question. With poder plus infinitive, the pronoun se can go before poder or attached to the infinitive: se pueden trasladar or pueden trasladarse.",
-            "why_tricky": "Learners drop the accent because there is no question mark, and they often think only one pronoun position is correct."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "a pie",
-            "meaning": "on foot",
-            "example": "Vamos al mercado a pie, está a cinco minutos."
-          },
-          {
-            "phrase": "reglas de oro",
-            "meaning": "golden rules, basic principles that always work",
-            "example": "Estas son las reglas de oro para dormir bien."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Cuáles son las cuatro reglas de oro que menciona el reportaje?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué dice el texto que estas ideas no son exclusivas de Japón?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué problemas urbanos se mencionan en otras ciudades?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Qué tres cambios harían más habitable la ciudad o el pueblo donde vives? Explica cada uno en dos o tres frases."
       }
     }
   ]
