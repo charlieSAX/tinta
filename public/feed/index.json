@@ -1,7 +1,521 @@
 {
-  "generated_at": "2026-09-04T19:09:23Z",
+  "generated_at": "2026-09-05T07:12:45Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-09-05-mapamundi-africa",
+      "title": "La ONU aprueba un nuevo mapamundi que refleja el tamaño real de África",
+      "source": "BBC Mundo",
+      "date": "2026-09-04",
+      "level": "B1-B2",
+      "topics": [
+        "geografía",
+        "ONU"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-05-mapamundi-africa",
+        "revision": 1,
+        "meta": {
+          "title": "La ONU aprueba un nuevo mapamundi que refleja el tamaño real de África",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cn8evenx6epo",
+          "date_published": "2026-09-04",
+          "date_processed": "2026-09-05",
+          "tags": [
+            "geografía",
+            "ONU"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The United Nations General Assembly has approved a resolution that promotes a new world map in which Africa appears with its real size. The proposal, sponsored by Togo, received the support of 164 nations; the United States was the only country to vote against it. For its promoters, what is at stake is the way the world looks at Africa.\n\nThe most widespread map in classrooms and offices is based on the sixteenth-century Mercator projection, which distorts the regions near the poles, so Europe looks much larger and Africa smaller. Several African organisations have been campaigning for years to correct this image, which, in their view, has fed prejudices about the continent. The resolution does not oblige anyone to change their maps, but it sends a strong political signal about the way in which the world is represented.",
+        "resumen_es": "La Asamblea General de la ONU ha aprobado una resolución que promueve un nuevo mapamundi en el que África aparece con su tamaño real. La propuesta, patrocinada por Togo, contó con el apoyo de 164 naciones; Estados Unidos fue el único país que votó en contra. Para sus promotores, está en juego la manera en que el mundo mira a África.\n\nEl mapa más extendido en aulas y oficinas se basa en la proyección de Mercator, del siglo XVI, que deforma las regiones cercanas a los polos, de modo que Europa parece mucho más grande y África más pequeña. Varias organizaciones africanas llevan años haciendo campaña para corregir esta imagen, que, a su juicio, ha alimentado prejuicios sobre el continente. La resolución no obliga a nadie a cambiar sus mapas, pero envía una fuerte señal política sobre la forma en que se representa el mundo.",
+        "vocab": [
+          {
+            "front": "el mapamundi",
+            "pos": "noun",
+            "back": "world map",
+            "example": "En la pared del aula había un mapamundi enorme.",
+            "tier": "B1"
+          },
+          {
+            "front": "patrocinar",
+            "pos": "verb",
+            "back": "to sponsor, to back (a proposal)",
+            "example": "Togo patrocinó la resolución ante la ONU.",
+            "tier": "B2"
+          },
+          {
+            "front": "contar con el apoyo de",
+            "pos": "phrase",
+            "back": "to have the support of",
+            "example": "La propuesta contó con el apoyo de casi todos los países.",
+            "tier": "B1"
+          },
+          {
+            "front": "votar en contra",
+            "pos": "phrase",
+            "back": "to vote against",
+            "example": "Solo un país votó en contra de la medida.",
+            "tier": "B1"
+          },
+          {
+            "front": "estar en juego",
+            "pos": "phrase",
+            "back": "to be at stake",
+            "example": "Está en juego la imagen de todo un continente.",
+            "tier": "B2"
+          },
+          {
+            "front": "extendido",
+            "pos": "adj",
+            "back": "widespread",
+            "example": "Es una creencia muy extendida entre los estudiantes.",
+            "tier": "B2"
+          },
+          {
+            "front": "el aula",
+            "pos": "noun",
+            "back": "classroom (feminine noun, takes el in singular)",
+            "example": "Las aulas del colegio tienen mapas nuevos.",
+            "tier": "B1"
+          },
+          {
+            "front": "deformar",
+            "pos": "verb",
+            "back": "to distort",
+            "example": "La proyección deforma el tamaño de los países del norte.",
+            "tier": "B2"
+          },
+          {
+            "front": "de modo que",
+            "pos": "phrase",
+            "back": "so that, with the result that",
+            "example": "Llovió toda la noche, de modo que el partido se suspendió.",
+            "tier": "B2"
+          },
+          {
+            "front": "hacer campaña",
+            "pos": "phrase",
+            "back": "to campaign",
+            "example": "Llevan años haciendo campaña por un mapa más justo.",
+            "tier": "B1"
+          },
+          {
+            "front": "a su juicio",
+            "pos": "phrase",
+            "back": "in their opinion, in their judgement",
+            "example": "A su juicio, el mapa antiguo alimenta prejuicios.",
+            "tier": "B2"
+          },
+          {
+            "front": "el prejuicio",
+            "pos": "noun",
+            "back": "prejudice",
+            "example": "Los prejuicios sobre África siguen siendo frecuentes.",
+            "tier": "B1"
+          },
+          {
+            "front": "obligar a alguien a",
+            "pos": "verb",
+            "back": "to force someone to",
+            "example": "La resolución no obliga a los países a cambiar nada.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La Asamblea General de la ONU ha aprobado una resolución que promueve un nuevo mapamundi en el que África aparece con su tamaño real.",
+            "point": "Relative clause with preposition: en el que",
+            "explanation": "When the relative pronoun follows a preposition, Spanish uses el que / la que / los que / las que (or el cual) agreeing with the noun: un mapamundi en el que. Que alone is not enough after a preposition.",
+            "why_tricky": "English drops the pronoun or uses where (a map where Africa appears), so learners write en que or omit the article."
+          },
+          {
+            "sentence": "Varias organizaciones africanas llevan años haciendo campaña para corregir esta imagen, que, a su juicio, ha alimentado prejuicios sobre el continente.",
+            "point": "llevar + time + gerund for duration",
+            "explanation": "Llevan años haciendo campaña means they have been campaigning for years. Llevar in the present plus a period of time plus a gerund expresses an action that started in the past and continues now.",
+            "why_tricky": "English uses the present perfect continuous (have been campaigning), so learners reach for han estado haciendo, which is correct but far less natural than llevar."
+          },
+          {
+            "sentence": "La resolución no obliga a nadie a cambiar sus mapas, pero envía una fuerte señal política sobre la forma en que se representa el mundo.",
+            "point": "Double negation: no ... nadie",
+            "explanation": "Spanish requires no before the verb when a negative word like nadie, nada or nunca comes after it. No obliga a nadie is standard, not a double negative in the English sense.",
+            "why_tricky": "English speakers feel that no ... nadie cancels out and tend to write obliga a nadie, which is ungrammatical."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "estar en juego",
+            "meaning": "to be at stake",
+            "example": "En estas elecciones está en juego el futuro del país."
+          },
+          {
+            "phrase": "a su juicio",
+            "meaning": "in his/her/their opinion",
+            "example": "A su juicio, la decisión llega demasiado tarde."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué país patrocinó la resolución y cuál fue el único que votó en contra?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué la proyección de Mercator hace que África parezca más pequeña?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué efecto práctico tiene la resolución sobre los mapas que ya existen?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que la forma en que dibujamos los mapas influye en cómo vemos a otros países? Escribe unas 120 palabras con un ejemplo concreto."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-05-meloni-record",
+      "title": "Giorgia Meloni bate el récord de longevidad al frente de un gobierno italiano",
+      "source": "RFI",
+      "date": "2026-09-04",
+      "level": "B1-B2",
+      "topics": [
+        "política",
+        "Italia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-05-meloni-record",
+        "revision": 1,
+        "meta": {
+          "title": "Giorgia Meloni bate el récord de longevidad al frente de un gobierno italiano",
+          "source": "RFI",
+          "url": "https://www.rfi.fr/es/europa/20260904-giorgia-meloni-bate-el-r%C3%A9cord-de-longevidad-al-frente-de-un-gobierno-italiano",
+          "date_published": "2026-09-04",
+          "date_processed": "2026-09-05",
+          "tags": [
+            "política",
+            "Italia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Since this Friday, Giorgia Meloni's government has been the longest-lasting in the eighty years of the Italian Republic. Her cabinet has completed 1,413 days in office, almost four years, and has beaten the record held by Silvio Berlusconi. In a country accustomed to fragile coalitions, the figure is a milestone, and Meloni celebrated it with a rally in which she promised not to give up.\n\nMeloni's coalition has a comfortable majority in parliament, which has spared her the tensions that have brought down other governments. The opposition also remains divided. The record does not mean the way ahead is clear: the economy is growing slowly, migration remains a delicate issue and the next general election is getting closer. Even so, for now Meloni has achieved something that seemed almost impossible in Italian politics: lasting.",
+        "resumen_es": "Desde este viernes, el gobierno de Giorgia Meloni es el más longevo de los ochenta años de historia de la República italiana. Su gabinete ha cumplido 1.413 días en el poder, casi cuatro años, y ha superado el récord que estaba en manos de Silvio Berlusconi. En un país acostumbrado a coaliciones frágiles, la cifra es un hito, y Meloni la celebró con un acto en el que prometió no rendirse.\n\nLa coalición de Meloni cuenta con una mayoría cómoda en el Parlamento, lo que le ha ahorrado las tensiones que han derribado a otros gobiernos. Además, la oposición sigue dividida. El récord no significa que el camino esté despejado: la economía crece despacio, la inmigración sigue siendo un tema delicado y las próximas elecciones generales se acercan. Aun así, por ahora Meloni ha logrado algo que parecía casi imposible en la política italiana: durar.",
+        "vocab": [
+          {
+            "front": "longevo",
+            "pos": "adj",
+            "back": "long-lived, long-lasting",
+            "example": "Es el gobierno más longevo de la República.",
+            "tier": "B2"
+          },
+          {
+            "front": "batir un récord",
+            "pos": "phrase",
+            "back": "to break a record",
+            "example": "Su gobierno acaba de batir el récord de duración.",
+            "tier": "B1"
+          },
+          {
+            "front": "el gabinete",
+            "pos": "noun",
+            "back": "cabinet (of ministers)",
+            "example": "El gabinete se reunió de urgencia el lunes.",
+            "tier": "B2"
+          },
+          {
+            "front": "estar en manos de",
+            "pos": "phrase",
+            "back": "to be held by, to be in the hands of",
+            "example": "El récord estaba en manos de Berlusconi.",
+            "tier": "B1"
+          },
+          {
+            "front": "frágil",
+            "pos": "adj",
+            "back": "fragile",
+            "example": "Las coaliciones italianas suelen ser frágiles.",
+            "tier": "B1"
+          },
+          {
+            "front": "el hito",
+            "pos": "noun",
+            "back": "milestone",
+            "example": "Cuatro años en el poder es un hito en Italia.",
+            "tier": "B2"
+          },
+          {
+            "front": "rendirse",
+            "pos": "verb",
+            "back": "to give up, to surrender",
+            "example": "Prometió que no iba a rendirse.",
+            "tier": "B1"
+          },
+          {
+            "front": "ahorrar a alguien algo",
+            "pos": "verb",
+            "back": "to spare someone something",
+            "example": "La mayoría le ahorró muchas tensiones.",
+            "tier": "B2"
+          },
+          {
+            "front": "derribar",
+            "pos": "verb",
+            "back": "to bring down, to topple",
+            "example": "Una votación derribó al gobierno anterior.",
+            "tier": "B2"
+          },
+          {
+            "front": "despejado",
+            "pos": "adj",
+            "back": "clear (of obstacles, also of sky)",
+            "example": "El camino hacia las elecciones no está despejado.",
+            "tier": "B2"
+          },
+          {
+            "front": "delicado",
+            "pos": "adj",
+            "back": "delicate, sensitive",
+            "example": "La inmigración es un tema delicado.",
+            "tier": "B1"
+          },
+          {
+            "front": "aun así",
+            "pos": "phrase",
+            "back": "even so",
+            "example": "Hay problemas; aun así, el gobierno sigue en pie.",
+            "tier": "B1"
+          },
+          {
+            "front": "durar",
+            "pos": "verb",
+            "back": "to last",
+            "example": "Pocos gobiernos italianos han durado tanto.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La coalición de Meloni cuenta con una mayoría cómoda en el Parlamento, lo que le ha ahorrado las tensiones que han derribado a otros gobiernos.",
+            "point": "lo que referring to a whole clause",
+            "explanation": "Lo que picks up the entire previous idea (having a comfortable majority) as the subject of the next clause. It is the neuter relative used when there is no specific noun to refer to.",
+            "why_tricky": "English uses which for this (which has spared her), and learners often write que or el que, which would need a concrete masculine noun as antecedent."
+          },
+          {
+            "sentence": "El récord no significa que el camino esté despejado: la economía crece despacio, la inmigración sigue siendo un tema delicado y las próximas elecciones generales se acercan.",
+            "point": "Subjunctive after no significa que",
+            "explanation": "Negated verbs of meaning, thinking or saying (no significa que, no creo que) trigger the subjunctive in the following clause: esté, not está. The speaker is denying the reality of the content.",
+            "why_tricky": "The affirmative significa que takes the indicative, so learners must notice that the negation flips the mood."
+          },
+          {
+            "sentence": "Aun así, por ahora Meloni ha logrado algo que parecía casi imposible en la política italiana: durar.",
+            "point": "aun (no accent) versus aún (accent)",
+            "explanation": "Aun without an accent means even (aun así = even so). Aún with an accent means still or yet (aún no ha terminado). The accent changes the meaning, not just the stress.",
+            "why_tricky": "The two words look almost identical and both are common; autocorrect often adds or removes the accent wrongly."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "estar en manos de",
+            "meaning": "to be held by, to be in someone's hands",
+            "example": "La decisión final está en manos del presidente."
+          },
+          {
+            "phrase": "tener el camino despejado",
+            "meaning": "to have a clear road ahead, no obstacles",
+            "example": "Con esta victoria, el equipo tiene el camino despejado hacia la final."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Cuántos días lleva el gobierno de Meloni en el poder y de quién era el récord anterior?",
+            "type": "open"
+          },
+          {
+            "q": "Según los analistas, ¿qué factores explican la estabilidad de su gobierno?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué problemas siguen pendientes a pesar del récord?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Es la estabilidad de un gobierno una virtud en sí misma, o depende de lo que haga con ese tiempo? Argumenta tu opinión en unas 120 palabras."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-05-cuadro-nazis-argentina",
+      "title": "Una pareja argentina tiene que devolver a su legítima dueña un cuadro robado por los nazis e identificado en su casa por casualidad",
+      "source": "BBC Mundo",
+      "date": "2026-09-04",
+      "level": "B1-B2",
+      "topics": [
+        "arte",
+        "historia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-05-cuadro-nazis-argentina",
+        "revision": 1,
+        "meta": {
+          "title": "Una pareja argentina tiene que devolver a su legítima dueña un cuadro robado por los nazis e identificado en su casa por casualidad",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/ckg72elwd5yo",
+          "date_published": "2026-09-04",
+          "date_processed": "2026-09-05",
+          "tags": [
+            "arte",
+            "historia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "An Argentine couple will have to return a painting stolen by the Nazis to its rightful owner. The work, Portrait of a Lady, in the late baroque style, had been lost for eighty years. It was identified almost by chance: it appeared in the photographs of a house for sale near Buenos Aires, hanging on a wall as if it were just another decoration. Someone recognised it, and what began as a property listing ended up in court.\n\nThousands of works looted during the Second World War are still missing. Many ended up in South America, where senior Nazi officials took refuge after 1945, and passed between generations. Families and institutions have spent decades trying to recover them with the help of researchers who compare old photographs with objects that reappear on the market. The Argentine ruling shows that time does not erase these claims: even eight decades later, a stolen painting can be traced and returned.",
+        "resumen_es": "Una pareja argentina tendrá que devolver a su legítima dueña un cuadro robado por los nazis. La obra, Retrato de una dama, de estilo barroco tardío, estuvo perdida ochenta años. Fue identificada casi por casualidad: apareció en las fotografías de una casa en venta cerca de Buenos Aires, colgada en una pared como si fuera un adorno más. Alguien la reconoció, y lo que empezó como un anuncio inmobiliario terminó en los tribunales.\n\nMiles de obras saqueadas durante la Segunda Guerra Mundial siguen desaparecidas. Muchas acabaron en Sudamérica, donde altos cargos nazis se refugiaron después de 1945, y pasaron entre generaciones. Familias e instituciones llevan décadas intentando recuperarlas con la ayuda de investigadores que comparan fotografías antiguas con objetos que reaparecen en el mercado. La sentencia argentina demuestra que el tiempo no borra estas reclamaciones: incluso ocho décadas después, un cuadro robado puede rastrearse y devolverse.",
+        "vocab": [
+          {
+            "front": "legítimo",
+            "pos": "adj",
+            "back": "rightful, legitimate",
+            "example": "El cuadro vuelve a su legítima dueña.",
+            "tier": "B2"
+          },
+          {
+            "front": "el cuadro",
+            "pos": "noun",
+            "back": "painting, picture",
+            "example": "El cuadro colgaba en el salón desde hacía años.",
+            "tier": "B1"
+          },
+          {
+            "front": "tardío",
+            "pos": "adj",
+            "back": "late (in a period or style)",
+            "example": "Es una obra del barroco tardío.",
+            "tier": "B2"
+          },
+          {
+            "front": "por casualidad",
+            "pos": "phrase",
+            "back": "by chance",
+            "example": "Encontraron el cuadro por casualidad en unas fotos.",
+            "tier": "B1"
+          },
+          {
+            "front": "en venta",
+            "pos": "phrase",
+            "back": "for sale",
+            "example": "La casa lleva meses en venta.",
+            "tier": "B1"
+          },
+          {
+            "front": "colgado",
+            "pos": "adj",
+            "back": "hanging, hung",
+            "example": "El retrato estaba colgado sobre el sofá.",
+            "tier": "B1"
+          },
+          {
+            "front": "el adorno",
+            "pos": "noun",
+            "back": "ornament, decoration",
+            "example": "Para ellos era solo un adorno más.",
+            "tier": "B1"
+          },
+          {
+            "front": "inmobiliario",
+            "pos": "adj",
+            "back": "real estate, property (adjective)",
+            "example": "El anuncio inmobiliario incluía fotos del interior.",
+            "tier": "B2"
+          },
+          {
+            "front": "los tribunales",
+            "pos": "noun",
+            "back": "the courts",
+            "example": "El asunto terminó en los tribunales.",
+            "tier": "B1"
+          },
+          {
+            "front": "saquear",
+            "pos": "verb",
+            "back": "to loot, to plunder",
+            "example": "Los nazis saquearon miles de obras de arte.",
+            "tier": "B2"
+          },
+          {
+            "front": "el alto cargo",
+            "pos": "noun",
+            "back": "senior official",
+            "example": "Varios altos cargos huyeron a Sudamérica.",
+            "tier": "B2"
+          },
+          {
+            "front": "refugiarse",
+            "pos": "verb",
+            "back": "to take refuge",
+            "example": "Se refugiaron en el extranjero tras la guerra.",
+            "tier": "B1"
+          },
+          {
+            "front": "rastrear",
+            "pos": "verb",
+            "back": "to trace, to track down",
+            "example": "Los expertos lograron rastrear el origen del cuadro.",
+            "tier": "B2"
+          },
+          {
+            "front": "la reclamación",
+            "pos": "noun",
+            "back": "claim",
+            "example": "La familia presentó una reclamación formal.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Fue identificada casi por casualidad: apareció en las fotografías de una casa en venta cerca de Buenos Aires, colgada en una pared como si fuera un adorno más.",
+            "point": "como si + imperfect subjunctive",
+            "explanation": "Como si (as if) is always followed by the imperfect or pluperfect subjunctive, never the indicative: como si fuera, not como si es or como si era. It presents a hypothetical comparison.",
+            "why_tricky": "English uses a plain past tense (as if it were / was), so learners expect the indicative era."
+          },
+          {
+            "sentence": "Alguien la reconoció, y lo que empezó como un anuncio inmobiliario terminó en los tribunales.",
+            "point": "Direct object pronoun la before a conjugated verb",
+            "explanation": "La stands for la obra (the painting) and goes before the conjugated verb reconoció. Object pronouns precede finite verbs in Spanish.",
+            "why_tricky": "English puts the object after the verb (recognised it), and the gender of the pronoun must match the noun being replaced, not the English it."
+          },
+          {
+            "sentence": "La sentencia argentina demuestra que el tiempo no borra estas reclamaciones: incluso ocho décadas después, un cuadro robado puede rastrearse y devolverse.",
+            "point": "Passive se with infinitives: rastrearse y devolverse",
+            "explanation": "Attaching se to an infinitive after a modal (puede rastrearse) gives a passive meaning: can be traced. The alternative puede ser rastreado is correct but heavier.",
+            "why_tricky": "Learners translate the English passive literally (ser + participle) and rarely reach for the lighter se construction."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "un adorno más",
+            "meaning": "just another decoration, nothing special",
+            "example": "Para los dueños, la pintura era un adorno más del salón."
+          },
+          {
+            "phrase": "terminar en los tribunales",
+            "meaning": "to end up in court",
+            "example": "La disputa entre los vecinos terminó en los tribunales."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Cómo fue identificado el cuadro después de ochenta años perdido?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué acabaron muchas obras saqueadas en Sudamérica?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué herramientas usan hoy los investigadores para recuperar obras robadas?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Imagina que descubres que un objeto heredado en tu familia fue robado hace ochenta años. ¿Qué harías y por qué? Escribe unas 120 palabras."
+      }
+    },
     {
       "pack_id": "feed-2026-09-04-rinon-cerdo",
       "title": "El hombre que ha vivido 271 días con un riñón de cerdo, un récord para una persona con un órgano de otra especie",
@@ -6189,506 +6703,6 @@
           }
         ],
         "opinion_prompt": "¿Qué tres cambios harían más habitable la ciudad o el pueblo donde vives? Explica cada uno en dos o tres frases."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-28-farmear-aura",
-      "title": "Qué es \"farmear aura\", la nueva tendencia de los jóvenes en redes (y por qué es algo que en realidad sucede desde hace siglos)",
-      "source": "BBC Mundo",
-      "date": "2026-08-28",
-      "level": "B1-B2",
-      "topics": [
-        "lenguaje",
-        "juventud"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-28-farmear-aura",
-        "revision": 1,
-        "meta": {
-          "title": "Qué es \"farmear aura\", la nueva tendencia de los jóvenes en redes (y por qué es algo que en realidad sucede desde hace siglos)",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c8e3l43w89eo",
-          "date_published": "2026-08-28",
-          "date_processed": "2026-08-28",
-          "tags": [
-            "lenguaje",
-            "juventud"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "On Spanish-speaking networks the expression farmear aura has become fashionable, borrowed from video game vocabulary. Farmear means to build up points little by little, and aura would be the prestige a person projects. Gaining aura consists of seeming interesting without trying too hard: answering calmly, dressing soberly or staying quiet at exactly the right moment. Losing it, on the other hand, turns out to be very easy: one clumsy gesture in front of the camera is enough.\n\nAlthough the term seems new, the idea is centuries old. Renaissance courtiers spoke of sprezzatura, the art of making something difficult look easy. Experts point out that social media has only sped up an old game, one in which reputation is built out of tiny details. What is striking is that this game is now measured in likes, and that teenagers discuss it using a vocabulary of their own that adults barely understand.",
-        "resumen_es": "En las redes de habla hispana se ha puesto de moda la expresión \"farmear aura\", tomada del vocabulario de los videojuegos. \"Farmear\" significa acumular puntos poco a poco, y el \"aura\" sería el prestigio que alguien proyecta. Ganar aura consiste en parecer interesante sin esforzarse demasiado: responder con calma, vestir con sobriedad o guardar silencio en el momento justo. Perderla, en cambio, resulta muy fácil: basta con un gesto torpe delante de la cámara.\n\nAunque el término parece nuevo, la idea tiene siglos. Los cortesanos del Renacimiento hablaban de la \"sprezzatura\", ese arte de hacer que lo difícil parezca fácil. Los expertos señalan que las redes solo han acelerado un juego antiguo, en el que la reputación se construye con detalles mínimos. Lo llamativo es que ahora ese juego se mide en likes, y que los adolescentes lo comentan con un vocabulario propio que los adultos apenas entienden.",
-        "vocab": [
-          {
-            "front": "ponerse de moda",
-            "pos": "phrase",
-            "back": "to become fashionable",
-            "example": "Esa palabra se puso de moda el año pasado.",
-            "tier": "B1"
-          },
-          {
-            "front": "acumular",
-            "pos": "verb",
-            "back": "to build up, to accumulate",
-            "example": "Acumula seguidores publicando cada día.",
-            "tier": "B1"
-          },
-          {
-            "front": "poco a poco",
-            "pos": "phrase",
-            "back": "little by little",
-            "example": "Poco a poco fue ganando confianza.",
-            "tier": "B1"
-          },
-          {
-            "front": "proyectar (una imagen)",
-            "pos": "verb",
-            "back": "to project, to give off (an image)",
-            "example": "Proyecta una imagen de seguridad que no siente.",
-            "tier": "B2"
-          },
-          {
-            "front": "esforzarse",
-            "pos": "verb",
-            "back": "to make an effort, to try hard",
-            "example": "Se esfuerza mucho, aunque no lo parezca.",
-            "tier": "B1"
-          },
-          {
-            "front": "con sobriedad",
-            "pos": "phrase",
-            "back": "soberly, plainly",
-            "example": "Viste siempre con sobriedad y sin marcas visibles.",
-            "tier": "B2"
-          },
-          {
-            "front": "guardar silencio",
-            "pos": "phrase",
-            "back": "to keep quiet, to stay silent",
-            "example": "Prefirió guardar silencio durante la discusión.",
-            "tier": "B1"
-          },
-          {
-            "front": "torpe",
-            "pos": "adj",
-            "back": "clumsy, awkward",
-            "example": "Hizo un comentario torpe y todos se rieron.",
-            "tier": "B2"
-          },
-          {
-            "front": "bastar con",
-            "pos": "verb",
-            "back": "to be enough (to)",
-            "example": "Basta con una llamada para arreglarlo.",
-            "tier": "B2"
-          },
-          {
-            "front": "el cortesano",
-            "pos": "noun",
-            "back": "courtier",
-            "example": "Los cortesanos competían por el favor del rey.",
-            "tier": "C1"
-          },
-          {
-            "front": "señalar",
-            "pos": "verb",
-            "back": "to point out",
-            "example": "Los expertos señalan que el problema es antiguo.",
-            "tier": "B1"
-          },
-          {
-            "front": "llamativo",
-            "pos": "adj",
-            "back": "striking, eye-catching",
-            "example": "Lo más llamativo fue la reacción del público.",
-            "tier": "B2"
-          },
-          {
-            "front": "apenas",
-            "pos": "adv",
-            "back": "barely, hardly",
-            "example": "Apenas entiendo lo que dicen mis sobrinos.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Ganar aura consiste en parecer interesante sin esforzarse demasiado: responder con calma, vestir con sobriedad o guardar silencio en el momento justo.",
-            "point": "consistir en + infinitivo and infinitives as nouns",
-            "explanation": "Consistir always takes the preposition en, and after a preposition Spanish uses the infinitive, never the gerund. The same happens after sin.",
-            "why_tricky": "English uses -ing after in and without, so learners write consiste en pareciendo or sin esforzándose."
-          },
-          {
-            "sentence": "Perderla, en cambio, resulta muy fácil: basta con un gesto torpe delante de la cámara.",
-            "point": "pronoun attached to the infinitive, and impersonal bastar con",
-            "explanation": "Perderla joins the object pronoun la to the infinitive, referring back to aura. Bastar con is impersonal and agrees with what follows: basta con un gesto, bastan dos gestos.",
-            "why_tricky": "Learners separate the pronoun (la perder) and forget that bastar agrees with the thing that is enough, not with a subject like it."
-          },
-          {
-            "sentence": "Aunque el término parece nuevo, la idea tiene siglos.",
-            "point": "aunque + indicative for a real fact",
-            "explanation": "With the indicative, aunque presents the concession as a fact the speaker accepts: it really does look new. With the subjunctive (aunque parezca) it would be presented as a possibility or something downplayed.",
-            "why_tricky": "Many learners default to the subjunctive after aunque, which changes the meaning."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "en el momento justo",
-            "meaning": "at exactly the right moment",
-            "example": "Llegó en el momento justo, cuando ya nos íbamos."
-          },
-          {
-            "phrase": "en cambio",
-            "meaning": "on the other hand, whereas",
-            "example": "Él es muy hablador; ella, en cambio, casi no habla."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿De dónde vienen las palabras \"farmear\" y \"aura\" según el texto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué relación establece el artículo entre las redes y la \"sprezzatura\" del Renacimiento?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué dice el texto que perder aura es muy fácil?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que las redes sociales han cambiado de verdad la forma de construir una reputación, o solo le han puesto un nombre nuevo a algo antiguo? Argumenta tu respuesta."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-28-adenot-caminata-espacial",
-      "title": "Entrevista con Sophie Adenot, primera astronauta francesa en hacer una caminata espacial",
-      "source": "RFI Español",
-      "date": "2026-08-28",
-      "level": "B1-B2",
-      "topics": [
-        "ciencia",
-        "espacio"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-28-adenot-caminata-espacial",
-        "revision": 1,
-        "meta": {
-          "title": "Entrevista con Sophie Adenot, primera astronauta francesa en hacer una caminata espacial",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/francia/20260827-entrevista-con-sophie-adenot-primera-astronauta-francesa-en-hacer-una-caminata-espacial",
-          "date_published": "2026-08-27",
-          "date_processed": "2026-08-28",
-          "tags": [
-            "ciencia",
-            "espacio"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "French astronaut Sophie Adenot has become the first woman from her country to carry out a spacewalk. In an interview given to French international radio, she says she completed two walks to repair an antenna on the International Space Station. She describes the preparation, very long and painstaking, and the feeling of floating held only by a safety cable. She admits that the first step outside the module felt unreal to her.\n\nAdenot also talks about what can be seen from orbit. From up there, she says, climate change leaves a visible mark: fires, melting ice and rivers that change colour. That point of view, she adds, transforms the way you think about the planet. Her mission comes at a time when European agencies want to strengthen their presence in space and encourage more young people, and above all more girls, to study scientific subjects.",
-        "resumen_es": "La astronauta francesa Sophie Adenot se ha convertido en la primera mujer de su país en realizar una salida al espacio. En una entrevista concedida a la radio internacional francesa, cuenta que completó dos caminatas para reparar una antena de la Estación Espacial Internacional. Describe la preparación, muy larga y minuciosa, y la sensación de flotar sujeta solo por un cable de seguridad. Reconoce que el primer paso fuera del módulo le pareció irreal.\n\nAdenot también habla de lo que se ve desde la órbita. Desde allí, dice, el cambio climático deja una huella visible: incendios, deshielo y ríos que cambian de color. Ese punto de vista, añade, transforma la manera de pensar en el planeta. Su misión llega en un momento en el que las agencias europeas quieren reforzar su presencia en el espacio y animar a más jóvenes, y sobre todo a más chicas, a estudiar carreras científicas.",
-        "vocab": [
-          {
-            "front": "convertirse en",
-            "pos": "verb",
-            "back": "to become (a change of state or role)",
-            "example": "Se convirtió en la primera mujer del equipo.",
-            "tier": "B1"
-          },
-          {
-            "front": "la salida al espacio",
-            "pos": "noun",
-            "back": "spacewalk, EVA",
-            "example": "La salida al espacio duró seis horas.",
-            "tier": "B2"
-          },
-          {
-            "front": "conceder (una entrevista)",
-            "pos": "verb",
-            "back": "to give, to grant (an interview)",
-            "example": "Concedió una entrevista antes del despegue.",
-            "tier": "B2"
-          },
-          {
-            "front": "minucioso",
-            "pos": "adj",
-            "back": "meticulous, painstaking",
-            "example": "Hicieron un trabajo minucioso durante meses.",
-            "tier": "B2"
-          },
-          {
-            "front": "sujeto por",
-            "pos": "phrase",
-            "back": "held by, attached by",
-            "example": "El casco iba sujeto por dos correas.",
-            "tier": "B2"
-          },
-          {
-            "front": "el cable de seguridad",
-            "pos": "noun",
-            "back": "safety cable, tether",
-            "example": "Nunca suelta el cable de seguridad.",
-            "tier": "B2"
-          },
-          {
-            "front": "reconocer",
-            "pos": "verb",
-            "back": "to admit, to acknowledge",
-            "example": "Reconoce que sintió miedo al principio.",
-            "tier": "B1"
-          },
-          {
-            "front": "irreal",
-            "pos": "adj",
-            "back": "unreal",
-            "example": "Todo aquel momento le pareció irreal.",
-            "tier": "B2"
-          },
-          {
-            "front": "la huella",
-            "pos": "noun",
-            "back": "mark, trace, footprint",
-            "example": "La sequía ha dejado huella en el paisaje.",
-            "tier": "B2"
-          },
-          {
-            "front": "el deshielo",
-            "pos": "noun",
-            "back": "thaw, melting ice",
-            "example": "El deshielo adelanta la llegada de la primavera.",
-            "tier": "B2"
-          },
-          {
-            "front": "reforzar",
-            "pos": "verb",
-            "back": "to strengthen, to reinforce",
-            "example": "Quieren reforzar la seguridad del edificio.",
-            "tier": "B2"
-          },
-          {
-            "front": "animar a alguien a",
-            "pos": "phrase",
-            "back": "to encourage someone to",
-            "example": "La profesora nos animó a presentarnos al concurso.",
-            "tier": "B1"
-          },
-          {
-            "front": "la carrera (universitaria)",
-            "pos": "noun",
-            "back": "degree course, university studies",
-            "example": "Empezó una carrera científica a los treinta años.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Reconoce que el primer paso fuera del módulo le pareció irreal.",
-            "point": "parecer with an indirect object pronoun",
-            "explanation": "Parecer works like gustar: the thing perceived is the subject and the person is an indirect object. Le pareció irreal means it seemed unreal to her.",
-            "why_tricky": "Learners copy the English subject and write ella pareció irreal, which would mean she looked unreal."
-          },
-          {
-            "sentence": "Desde allí, dice, el cambio climático deja una huella visible: incendios, deshielo y ríos que cambian de color.",
-            "point": "reporting incise (dice) inside the sentence",
-            "explanation": "Spanish can drop a reporting verb into the middle of a sentence between commas, with the verb before its subject when one is expressed. No que is needed here.",
-            "why_tricky": "Learners add que (dice que) even when the incise is parenthetical, which breaks the sentence."
-          },
-          {
-            "sentence": "Su misión llega en un momento en el que las agencias europeas quieren reforzar su presencia en el espacio y animar a más jóvenes, y sobre todo a más chicas, a estudiar carreras científicas.",
-            "point": "relative en el que, and animar a alguien a + infinitivo",
-            "explanation": "After a preposition Spanish uses el que or el cual, agreeing with momento. Animar needs the personal a before the person and a second a before the infinitive.",
-            "why_tricky": "Learners write en que or en cual, and they usually drop one of the two a's with animar."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "dejar huella",
-            "meaning": "to leave a lasting mark",
-            "example": "Aquel viaje dejó huella en toda la familia."
-          },
-          {
-            "phrase": "sobre todo",
-            "meaning": "above all, especially",
-            "example": "Le gusta la ciencia, sobre todo la astronomía."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué trabajo realizó Sophie Adenot durante sus caminatas espaciales?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué dice la astronauta sobre el cambio climático visto desde la órbita?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué es importante su misión para las agencias espaciales europeas?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Merece la pena invertir dinero público en la exploración espacial cuando hay problemas urgentes en la Tierra? Da al menos dos argumentos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-28-rey-harald-noruega",
-      "title": "Muere a los 89 años el rey Harald de Noruega",
-      "source": "BBC Mundo",
-      "date": "2026-08-28",
-      "level": "B1-B2",
-      "topics": [
-        "monarquía",
-        "Europa"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-28-rey-harald-noruega",
-        "revision": 1,
-        "meta": {
-          "title": "Muere a los 89 años el rey Harald de Noruega",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c3eq87gd2v7o",
-          "date_published": "2026-08-28",
-          "date_processed": "2026-08-28",
-          "tags": [
-            "monarquía",
-            "Europa"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "King Harald of Norway has died at the age of 89, after more than three decades on the throne. He came to the throne in 1991 and, over the course of his reign, he won the affection of a large part of the Norwegian population. The media remember him as an approachable and reforming figure, who helped to modernise the monarchy and bring it closer to the everyday life of ordinary citizens.\n\nHis death opens a period of official mourning and raises questions about the future of the institution. In the Nordic countries, monarchies survive thanks to a delicate balance: they keep a symbolic role but give up real political power. For that reason, many analysts believe that the next reign will have to go on adapting to an increasingly equal society. For now, the country is preparing for the official ceremonies and for a succession that, by tradition, will fall to the heir.",
-        "resumen_es": "El rey Harald de Noruega ha muerto a los 89 años, después de más de tres décadas en el trono. Subió al trono en 1991 y, a lo largo de su reinado, se ganó la simpatía de buena parte de la población noruega. Los medios lo recuerdan como una figura cercana y reformista, que contribuyó a modernizar la monarquía y a acercarla a la vida cotidiana de los ciudadanos.\n\nSu muerte abre un periodo de luto oficial y plantea preguntas sobre el futuro de la institución. En los países nórdicos, las monarquías se mantienen gracias a un equilibrio delicado: conservan un papel simbólico, pero renuncian al poder político real. Por eso, muchos analistas creen que el próximo reinado tendrá que seguir adaptándose a una sociedad cada vez más igualitaria. De momento, el país se prepara para las ceremonias oficiales y para una sucesión que, por tradición, recaerá en el heredero.",
-        "vocab": [
-          {
-            "front": "el trono",
-            "pos": "noun",
-            "back": "the throne",
-            "example": "Subió al trono siendo muy joven.",
-            "tier": "B1"
-          },
-          {
-            "front": "el reinado",
-            "pos": "noun",
-            "back": "reign, period of rule",
-            "example": "Su reinado duró más de treinta años.",
-            "tier": "B1"
-          },
-          {
-            "front": "ganarse la simpatía de",
-            "pos": "phrase",
-            "back": "to win the affection of",
-            "example": "El alcalde se ganó la simpatía del barrio.",
-            "tier": "B2"
-          },
-          {
-            "front": "cercano",
-            "pos": "adj",
-            "back": "approachable, close to people",
-            "example": "Era un rey cercano a la gente.",
-            "tier": "B1"
-          },
-          {
-            "front": "el luto",
-            "pos": "noun",
-            "back": "mourning",
-            "example": "El país declaró tres días de luto oficial.",
-            "tier": "B2"
-          },
-          {
-            "front": "plantear",
-            "pos": "verb",
-            "back": "to raise (a question or issue)",
-            "example": "El caso plantea muchas dudas jurídicas.",
-            "tier": "B2"
-          },
-          {
-            "front": "el heredero",
-            "pos": "noun",
-            "back": "heir",
-            "example": "El heredero asumirá el trono en unos días.",
-            "tier": "B1"
-          },
-          {
-            "front": "la sucesión",
-            "pos": "noun",
-            "back": "succession",
-            "example": "La sucesión está regulada por la constitución.",
-            "tier": "B2"
-          },
-          {
-            "front": "renunciar a",
-            "pos": "verb",
-            "back": "to give up, to renounce",
-            "example": "Renunció a su cargo el año pasado.",
-            "tier": "B1"
-          },
-          {
-            "front": "el equilibrio",
-            "pos": "noun",
-            "back": "balance",
-            "example": "Buscan un equilibrio entre tradición y cambio.",
-            "tier": "B1"
-          },
-          {
-            "front": "igualitario",
-            "pos": "adj",
-            "back": "egalitarian",
-            "example": "Vivimos en una sociedad más igualitaria que antes.",
-            "tier": "C1"
-          },
-          {
-            "front": "de momento",
-            "pos": "phrase",
-            "back": "for now, for the time being",
-            "example": "De momento no hay más información oficial.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Subió al trono en 1991 y, a lo largo de su reinado, se ganó la simpatía de buena parte de la población noruega.",
-            "point": "Pretérito indefinido y el uso pronominal de ganarse",
-            "explanation": "Los dos verbos van en indefinido porque son acciones acabadas en un momento concreto del pasado. Ganarse no es lo mismo que ganar: el pronombre añade la idea de conseguir algo para uno mismo, con esfuerzo.",
-            "why_tricky": "En inglés se dice he won affection sin ningún pronombre, así que es fácil escribir ganó la simpatía, que suena a premio y no a mérito personal."
-          },
-          {
-            "sentence": "Por eso, muchos analistas creen que el próximo reinado tendrá que seguir adaptándose a una sociedad cada vez más igualitaria.",
-            "point": "Perífrasis tener que + infinitivo y seguir + gerundio",
-            "explanation": "Tendrá que expresa obligación futura. Seguir adaptándose indica que la acción continúa en el tiempo, y el pronombre va pegado al gerundio.",
-            "why_tricky": "Se juntan dos perífrasis seguidas y el pronombre puede ir en dos sitios: tendrá que seguir adaptándose o se tendrá que seguir adaptando."
-          },
-          {
-            "sentence": "Su muerte abre un periodo de luto oficial y plantea preguntas sobre el futuro de la institución.",
-            "point": "Presente de indicativo con sujeto abstracto",
-            "explanation": "En prensa se usa el presente para hechos muy recientes y para sus consecuencias. El sujeto no es una persona sino un hecho, su muerte, que rige los dos verbos.",
-            "why_tricky": "El aprendiz espera un sujeto humano y tiende a traducir con una pasiva inglesa del tipo questions are raised."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "a lo largo de",
-            "meaning": "over the course of, throughout a period of time",
-            "example": "A lo largo de la semana iremos publicando más datos."
-          },
-          {
-            "phrase": "de momento",
-            "meaning": "for now, until something changes",
-            "example": "De momento seguimos con el plan original."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué los medios noruegos recuerdan a Harald como una figura cercana?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué equilibrio mantienen las monarquías nórdicas, según el texto?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué retos podría afrontar el próximo reinado?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Crees que las monarquías tienen todavía un papel útil en las sociedades modernas? Escribe unas 120 palabras con tu opinión y dos argumentos."
       }
     }
   ]
