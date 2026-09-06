@@ -1,7 +1,523 @@
 {
-  "generated_at": "2026-09-06T07:22:31Z",
+  "generated_at": "2026-09-06T20:08:05Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-09-06-fujimori-carceles",
+      "title": "Por qué Keiko Fujimori ha declarado el estado de emergencia en 5 cárceles peruanas y qué busca con esta medida",
+      "source": "BBC Mundo",
+      "date": "2026-09-06",
+      "level": "B1-B2",
+      "topics": [
+        "Perú",
+        "seguridad"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-06-fujimori-carceles",
+        "revision": 1,
+        "meta": {
+          "title": "Por qué Keiko Fujimori ha declarado el estado de emergencia en 5 cárceles peruanas y qué busca con esta medida",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cvgy90jpg97o",
+          "date_published": "2026-09-06",
+          "date_processed": "2026-09-06",
+          "tags": [
+            "Perú",
+            "seguridad"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The government of Keiko Fujimori has declared a state of emergency in five Peruvian prisons. The prisons chosen by the authorities hold numerous ringleaders and members of criminal organisations who, from behind bars, keep coordinating illegal activities on the outside. With this measure, the executive seeks to tighten control inside those facilities and to cut the communication between the inmates and their networks on the street.\n\nThe decision comes at a time of great concern about insecurity in Peru, where extortion and hired killings have become an everyday worry for many families and small businesses. Critics recall that previous states of emergency did not always produce lasting results and warn about the risk of abuses. The government, for its part, argues that it is a necessary first step, and everything indicates that further measures will follow in the coming weeks.",
+        "resumen_es": "El gobierno de Keiko Fujimori ha declarado el estado de emergencia en cinco cárceles peruanas. Las prisiones seleccionadas por las autoridades albergan a numerosos cabecillas y miembros de organizaciones criminales que, desde detrás de las rejas, siguen coordinando actividades delictivas en el exterior. Con esta medida, el Ejecutivo busca endurecer el control dentro de esos centros y cortar la comunicación entre los reclusos y sus redes en la calle.\n\nLa decisión llega en un momento de gran preocupación por la inseguridad en Perú, donde la extorsión y el sicariato se han convertido en una inquietud cotidiana para muchas familias y pequeños negocios. Los críticos recuerdan que anteriores estados de emergencia no siempre dieron resultados duraderos y advierten del riesgo de abusos. El gobierno, por su parte, sostiene que se trata de un primer paso necesario, y todo apunta a que en las próximas semanas llegarán nuevas medidas.",
+        "vocab": [
+          {
+            "front": "el estado de emergencia",
+            "pos": "noun",
+            "back": "state of emergency",
+            "example": "El presidente declaró el estado de emergencia en la región.",
+            "tier": "B1"
+          },
+          {
+            "front": "la cárcel",
+            "pos": "noun",
+            "back": "prison, jail",
+            "example": "Pasó tres años en la cárcel por robo.",
+            "tier": "B1"
+          },
+          {
+            "front": "albergar",
+            "pos": "verb",
+            "back": "to house, to hold (people)",
+            "example": "El centro alberga a más de mil reclusos.",
+            "tier": "B2"
+          },
+          {
+            "front": "el cabecilla",
+            "pos": "noun",
+            "back": "ringleader, gang boss",
+            "example": "La policía detuvo al cabecilla de la banda.",
+            "tier": "B2"
+          },
+          {
+            "front": "delictivo",
+            "pos": "adj",
+            "back": "criminal (activity)",
+            "example": "Coordinaban actividades delictivas desde la prisión.",
+            "tier": "B2"
+          },
+          {
+            "front": "detrás de las rejas",
+            "pos": "phrase",
+            "back": "behind bars",
+            "example": "Sigue dando órdenes desde detrás de las rejas.",
+            "tier": "B2"
+          },
+          {
+            "front": "endurecer",
+            "pos": "verb",
+            "back": "to tighten, to toughen",
+            "example": "El gobierno quiere endurecer las penas por extorsión.",
+            "tier": "B2"
+          },
+          {
+            "front": "el recluso",
+            "pos": "noun",
+            "back": "inmate, prisoner",
+            "example": "Los reclusos no podrán usar teléfonos móviles.",
+            "tier": "B2"
+          },
+          {
+            "front": "la extorsión",
+            "pos": "noun",
+            "back": "extortion",
+            "example": "Muchos comerciantes sufren extorsión a diario.",
+            "tier": "B2"
+          },
+          {
+            "front": "el sicariato",
+            "pos": "noun",
+            "back": "contract killing (as a phenomenon)",
+            "example": "El sicariato ha aumentado en varias ciudades.",
+            "tier": "C1"
+          },
+          {
+            "front": "cotidiano",
+            "pos": "adj",
+            "back": "everyday, daily",
+            "example": "La inseguridad es una preocupación cotidiana.",
+            "tier": "B1"
+          },
+          {
+            "front": "duradero",
+            "pos": "adj",
+            "back": "lasting, long-lasting",
+            "example": "Buscan una solución duradera al problema.",
+            "tier": "B2"
+          },
+          {
+            "front": "advertir de",
+            "pos": "verb",
+            "back": "to warn about",
+            "example": "Los expertos advierten del riesgo de abusos.",
+            "tier": "B1"
+          },
+          {
+            "front": "todo apunta a que",
+            "pos": "phrase",
+            "back": "everything suggests that",
+            "example": "Todo apunta a que habrá nuevas medidas pronto.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Con esta medida, el Ejecutivo busca endurecer el control dentro de esos centros y cortar la comunicación entre los reclusos y sus redes en la calle.",
+            "point": "buscar + infinitive to express purpose",
+            "explanation": "Buscar followed directly by an infinitive (busca endurecer, busca cortar) means to seek to do something, without any preposition.",
+            "why_tricky": "English needs to seek TO do; Spanish drops the preposition, and learners often insert an unnecessary a or de."
+          },
+          {
+            "sentence": "Los críticos recuerdan que anteriores estados de emergencia no siempre dieron resultados duraderos y advierten del riesgo de abusos.",
+            "point": "Preterite for completed past events (dieron)",
+            "explanation": "Dieron (pretérito indefinido of dar) presents earlier emergencies as finished episodes whose outcome is known, not as an ongoing situation.",
+            "why_tricky": "Learners tend to reach for the imperfect (daban) for anything in the past; here the preterite is needed because the results are seen as closed facts."
+          },
+          {
+            "sentence": "El gobierno, por su parte, sostiene que se trata de un primer paso necesario, y todo apunta a que en las próximas semanas llegarán nuevas medidas.",
+            "point": "se trata de + noun",
+            "explanation": "Se trata de is an impersonal expression meaning it is a question of, it is. It never takes a personal subject: not el paso se trata de.",
+            "why_tricky": "It looks like a reflexive verb with a subject, but the subject is always implicit; a very common error is to write el problema se trata de."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "un primer paso",
+            "meaning": "a first step (towards a bigger goal)",
+            "example": "La ley es solo un primer paso; falta mucho por hacer."
+          },
+          {
+            "phrase": "por su parte",
+            "meaning": "for its part, meanwhile (introducing another actor's position)",
+            "example": "La oposición, por su parte, pide más transparencia."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué tipo de personas albergan las cárceles seleccionadas por las autoridades?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué busca el gobierno con el estado de emergencia?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué recuerdan y de qué advierten los críticos de la medida?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que los estados de emergencia son una herramienta eficaz contra el crimen organizado, o solo una respuesta temporal? Escribe unas 120 palabras con ejemplos de tu país o de otro que conozcas."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-06-enigma-erdos-aficionado",
+      "title": "El matemático que llevaba 7 años trabajando en descifrar un enigma que fue resuelto por un aficionado",
+      "source": "BBC Mundo",
+      "date": "2026-09-06",
+      "level": "B1-B2",
+      "topics": [
+        "matemáticas",
+        "ciencia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-06-enigma-erdos-aficionado",
+        "revision": 1,
+        "meta": {
+          "title": "El matemático que llevaba 7 años trabajando en descifrar un enigma que fue resuelto por un aficionado",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cpw9lgvenkgo",
+          "date_published": "2026-09-06",
+          "date_processed": "2026-09-06",
+          "tags": [
+            "matemáticas",
+            "ciencia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "Jared Duker Lichtman, a mathematician at Stanford University, had spent seven years working on problem 1196 of Erdős, a puzzle several decades old. One day he received an unexpected email: someone from outside the academic world had found the answer. It was not a fellow professor but an amateur, and their reasoning turned out to be correct.\n\nPaul Erdős, the famous Hungarian mathematician, left hundreds of open questions during his life, and many of them still resist the efforts of professionals. Cases like this one show that, in mathematics, the origin of an idea matters less than its solidity: a proof is valid whether it comes from a lecture hall or from a kitchen table. For Lichtman, the news was a mixture of surprise and relief; the enigma that had occupied him for so long finally had a solution.",
+        "resumen_es": "Jared Duker Lichtman, matemático de la Universidad de Stanford, llevaba siete años trabajando en el problema 1196 de Erdős, un enigma con varias décadas de antigüedad. Un día recibió un correo inesperado: alguien ajeno al mundo académico había encontrado la respuesta. No se trataba de un colega profesor, sino de un aficionado, y su razonamiento resultó ser correcto.\n\nPaul Erdős, el célebre matemático húngaro, dejó en vida cientos de preguntas abiertas, y muchas de ellas todavía se resisten a los esfuerzos de los profesionales. Casos como este demuestran que, en matemáticas, el origen de una idea importa menos que su solidez: una demostración es válida tanto si viene de un aula universitaria como de la mesa de una cocina. Para Lichtman, la noticia fue una mezcla de sorpresa y alivio; el enigma que lo había ocupado durante tanto tiempo por fin tenía solución.",
+        "vocab": [
+          {
+            "front": "llevar + tiempo + gerundio",
+            "pos": "phrase",
+            "back": "to have been doing something for (a period)",
+            "example": "Llevaba siete años trabajando en el mismo problema.",
+            "tier": "B1"
+          },
+          {
+            "front": "descifrar",
+            "pos": "verb",
+            "back": "to decipher, to crack (a puzzle)",
+            "example": "Nadie había logrado descifrar el enigma.",
+            "tier": "B2"
+          },
+          {
+            "front": "el enigma",
+            "pos": "noun",
+            "back": "enigma, puzzle",
+            "example": "Es un enigma que lleva décadas sin resolverse.",
+            "tier": "B2"
+          },
+          {
+            "front": "el aficionado",
+            "pos": "noun",
+            "back": "amateur, enthusiast",
+            "example": "Un aficionado resolvió lo que los expertos no pudieron.",
+            "tier": "B1"
+          },
+          {
+            "front": "inesperado",
+            "pos": "adj",
+            "back": "unexpected",
+            "example": "Recibió una llamada inesperada de un desconocido.",
+            "tier": "B1"
+          },
+          {
+            "front": "ajeno a",
+            "pos": "adj",
+            "back": "outside of, unconnected with",
+            "example": "Era una persona ajena al mundo universitario.",
+            "tier": "B2"
+          },
+          {
+            "front": "resultar ser",
+            "pos": "phrase",
+            "back": "to turn out to be",
+            "example": "La solución resultó ser muy sencilla.",
+            "tier": "B2"
+          },
+          {
+            "front": "célebre",
+            "pos": "adj",
+            "back": "famous, celebrated",
+            "example": "Erdős fue un célebre matemático húngaro.",
+            "tier": "B2"
+          },
+          {
+            "front": "resistirse a",
+            "pos": "verb",
+            "back": "to resist, to hold out against",
+            "example": "Muchos problemas se resisten a los expertos.",
+            "tier": "B2"
+          },
+          {
+            "front": "la solidez",
+            "pos": "noun",
+            "back": "solidity, soundness",
+            "example": "Lo que cuenta es la solidez del argumento.",
+            "tier": "C1"
+          },
+          {
+            "front": "la demostración",
+            "pos": "noun",
+            "back": "proof (mathematical)",
+            "example": "Su demostración ocupa apenas dos páginas.",
+            "tier": "B2"
+          },
+          {
+            "front": "el alivio",
+            "pos": "noun",
+            "back": "relief",
+            "example": "Sintió un gran alivio al ver la respuesta.",
+            "tier": "B1"
+          },
+          {
+            "front": "por fin",
+            "pos": "adv",
+            "back": "at last, finally",
+            "example": "Por fin el problema tenía solución.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "No se trataba de un colega profesor, sino de un aficionado, y su razonamiento resultó ser correcto.",
+            "point": "no ... sino for contrast after a negative",
+            "explanation": "Sino replaces pero when the first clause is negative and the second corrects it: not X but Y. Here it also repeats the preposition de.",
+            "why_tricky": "English uses but in both cases; learners write pero un aficionado, which sounds wrong to native ears."
+          },
+          {
+            "sentence": "Un día recibió un correo inesperado: alguien ajeno al mundo académico había encontrado la respuesta.",
+            "point": "Pluperfect (había encontrado) for a past before another past",
+            "explanation": "The email arrived (recibió, preterite) after the discovery had already happened, so the earlier action takes the pluscuamperfecto.",
+            "why_tricky": "The sequence of two past events needs two different tenses; using encontró for both flattens the timeline."
+          },
+          {
+            "sentence": "Casos como este demuestran que, en matemáticas, el origen de una idea importa menos que su solidez: una demostración es válida tanto si viene de un aula universitaria como de la mesa de una cocina.",
+            "point": "tanto si ... como (si) for whether ... or",
+            "explanation": "Tanto si A como B expresses that something holds in either case. The second si is often omitted when the verb is not repeated.",
+            "why_tricky": "Learners try to translate whether with si alone, which does not work for this either/or structure."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "una mezcla de sorpresa y alivio",
+            "meaning": "mixed feelings, a blend of surprise and relief",
+            "example": "Terminar el proyecto fue una mezcla de sorpresa y alivio."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Cuánto tiempo llevaba Lichtman trabajando en el problema y cómo se enteró de la solución?",
+            "type": "open"
+          },
+          {
+            "q": "¿Quién encontró la respuesta y qué se dice de su razonamiento?",
+            "type": "open"
+          },
+          {
+            "q": "Según el texto, ¿qué importa más en matemáticas: el origen de una idea o su solidez? ¿Por qué?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Puede un aficionado aportar tanto como un profesional en campos como la ciencia, la música o el deporte? Escribe unas 120 palabras defendiendo tu postura con un ejemplo concreto."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-06-indonesia-volcan-aeropuertos",
+      "title": "Indonesia: erupción volcánica obliga a cerrar ocho aeropuertos y dejar a 150.000 pasajeros varados",
+      "source": "RFI en español",
+      "date": "2026-09-06",
+      "level": "B1-B2",
+      "topics": [
+        "Indonesia",
+        "volcanes"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-06-indonesia-volcan-aeropuertos",
+        "revision": 1,
+        "meta": {
+          "title": "Indonesia: erupción volcánica obliga a cerrar ocho aeropuertos y dejar a 150.000 pasajeros varados",
+          "source": "RFI en español",
+          "url": "https://www.rfi.fr/es/asia-pacifico/20260906-indonesia-erupci%C3%B3n-volc%C3%A1nica-obliga-a-cerrar-ocho-aeropuertos-y-dejar-a-150-000-pasajeros-varados",
+          "date_published": "2026-09-06",
+          "date_processed": "2026-09-06",
+          "tags": [
+            "Indonesia",
+            "volcanes"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The Indonesian authorities closed eight airports on Sunday, including the main one in Jakarta, after the eruption of the Anak Krakatoa volcano. The cloud of ash forced the cancellation of hundreds of flights and left more than 150,000 passengers stranded. Many travellers spent hours in the terminals waiting for news, while the airlines tried to rebook them on later flights.\n\nIndonesia sits on the so-called Pacific Ring of Fire and has more than a hundred active volcanoes, so eruptions are relatively frequent. Volcanic ash is particularly dangerous for aviation because it can damage aircraft engines, which is why the airports stay closed until the air is clear again. Anak Krakatoa, the son of the famous Krakatoa that exploded in 1883, has had several recent episodes of activity, and the authorities are monitoring it closely to decide when the flights can resume.",
+        "resumen_es": "Las autoridades indonesias cerraron el domingo ocho aeropuertos, entre ellos el principal de Yakarta, tras la erupción del volcán Anak Krakatoa. La nube de ceniza obligó a cancelar cientos de vuelos y dejó varados a más de 150.000 pasajeros. Muchos viajeros pasaron horas en las terminales a la espera de noticias, mientras las aerolíneas intentaban reubicarlos en vuelos posteriores.\n\nIndonesia se sitúa en el llamado Cinturón de Fuego del Pacífico y cuenta con más de un centenar de volcanes activos, por lo que las erupciones son relativamente frecuentes. La ceniza volcánica resulta especialmente peligrosa para la aviación porque puede dañar los motores de los aviones, de ahí que los aeropuertos permanezcan cerrados hasta que el aire vuelva a estar limpio. Anak Krakatoa, hijo del famoso Krakatoa que estalló en 1883, ha tenido varios episodios de actividad recientes, y las autoridades lo vigilan de cerca para decidir cuándo pueden reanudarse los vuelos.",
+        "vocab": [
+          {
+            "front": "la erupción",
+            "pos": "noun",
+            "back": "eruption",
+            "example": "La erupción cubrió de ceniza varias ciudades.",
+            "tier": "B1"
+          },
+          {
+            "front": "la ceniza",
+            "pos": "noun",
+            "back": "ash",
+            "example": "La ceniza volcánica cubrió los coches aparcados.",
+            "tier": "B1"
+          },
+          {
+            "front": "obligar a",
+            "pos": "verb",
+            "back": "to force to",
+            "example": "El mal tiempo obligó a cerrar el aeropuerto.",
+            "tier": "B1"
+          },
+          {
+            "front": "varado",
+            "pos": "adj",
+            "back": "stranded",
+            "example": "Miles de pasajeros quedaron varados en la terminal.",
+            "tier": "B2"
+          },
+          {
+            "front": "a la espera de",
+            "pos": "phrase",
+            "back": "waiting for, pending",
+            "example": "Seguimos a la espera de una respuesta oficial.",
+            "tier": "B2"
+          },
+          {
+            "front": "reubicar",
+            "pos": "verb",
+            "back": "to relocate, to rebook (passengers)",
+            "example": "La aerolínea reubicó a los pasajeros en otro vuelo.",
+            "tier": "B2"
+          },
+          {
+            "front": "situarse",
+            "pos": "verb",
+            "back": "to be located, to lie",
+            "example": "El país se sitúa en una zona de gran actividad sísmica.",
+            "tier": "B2"
+          },
+          {
+            "front": "contar con",
+            "pos": "phrase",
+            "back": "to have, to be equipped with",
+            "example": "La isla cuenta con tres volcanes activos.",
+            "tier": "B1"
+          },
+          {
+            "front": "un centenar de",
+            "pos": "phrase",
+            "back": "about a hundred",
+            "example": "Un centenar de vuelos fueron cancelados.",
+            "tier": "B2"
+          },
+          {
+            "front": "dañar",
+            "pos": "verb",
+            "back": "to damage",
+            "example": "La ceniza puede dañar los motores.",
+            "tier": "B1"
+          },
+          {
+            "front": "de ahí que",
+            "pos": "phrase",
+            "back": "hence, which is why (takes subjunctive)",
+            "example": "Llovía mucho, de ahí que suspendieran el partido.",
+            "tier": "C1"
+          },
+          {
+            "front": "permanecer",
+            "pos": "verb",
+            "back": "to remain, to stay",
+            "example": "Los aeropuertos permanecerán cerrados todo el día.",
+            "tier": "B2"
+          },
+          {
+            "front": "vigilar de cerca",
+            "pos": "phrase",
+            "back": "to monitor closely",
+            "example": "Los científicos vigilan de cerca el volcán.",
+            "tier": "B2"
+          },
+          {
+            "front": "reanudarse",
+            "pos": "verb",
+            "back": "to resume (intransitive)",
+            "example": "Los vuelos se reanudarán cuando el aire esté limpio.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La ceniza volcánica resulta especialmente peligrosa para la aviación porque puede dañar los motores de los aviones, de ahí que los aeropuertos permanezcan cerrados hasta que el aire vuelva a estar limpio.",
+            "point": "Subjunctive after de ahí que and after hasta que (future reference)",
+            "explanation": "De ahí que always takes the subjunctive (permanezcan). Hasta que takes the subjunctive when the event is still in the future (vuelva a estar limpio).",
+            "why_tricky": "Both connectors look like they should introduce plain facts; the subjunctive here signals consequence and pending time rather than doubt."
+          },
+          {
+            "sentence": "Muchos viajeros pasaron horas en las terminales a la espera de noticias, mientras las aerolíneas intentaban reubicarlos en vuelos posteriores.",
+            "point": "Preterite versus imperfect in the same sentence",
+            "explanation": "Pasaron (preterite) frames a completed stretch of time; intentaban (imperfect) describes the ongoing background activity happening at the same time.",
+            "why_tricky": "Choosing between the two past tenses for simultaneous actions is one of the classic difficulties of Spanish; mientras is a strong clue for the imperfect."
+          },
+          {
+            "sentence": "Indonesia se sitúa en el llamado Cinturón de Fuego del Pacífico y cuenta con más de un centenar de volcanes activos, por lo que las erupciones son relativamente frecuentes.",
+            "point": "por lo que to express consequence",
+            "explanation": "Por lo que means and therefore, which is why, and links a cause to its result in the indicative.",
+            "why_tricky": "Easily confused with por qué (why) and porque (because); por lo que points forward to the result, not back to the cause."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "el Cinturón de Fuego",
+            "meaning": "the Ring of Fire, the belt of volcanoes around the Pacific",
+            "example": "Japón y Chile también forman parte del Cinturón de Fuego."
+          },
+          {
+            "phrase": "volver a + infinitivo",
+            "meaning": "to do something again",
+            "example": "Los vuelos volverán a despegar mañana."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Cuántos aeropuertos se cerraron y cuál fue la causa?",
+            "type": "open"
+          },
+          {
+            "q": "¿Por qué es tan peligrosa la ceniza volcánica para los aviones?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué relación hay entre Anak Krakatoa y el volcán que estalló en 1883?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Imagina que estás varado en un aeropuerto durante muchas horas por una erupción. Escribe un mensaje de unas 120 palabras a un amigo contando qué pasó, cómo te sientes y qué piensas hacer."
+      }
+    },
     {
       "pack_id": "feed-2026-09-06-ilegales-rusia",
       "title": "\"Los ilegales\": cuáles son los vínculos con América Latina del programa de espionaje más secreto de Rusia",
@@ -6182,513 +6698,6 @@
           }
         ],
         "opinion_prompt": "¿Debería un país seguir reclamando explicaciones por hechos ocurridos hace más de cuarenta años, aunque eso dificulte las relaciones diplomáticas? Escribe entre 120 y 150 palabras argumentando tu postura."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-30-venezuela-petroleo",
-      "title": "Donald Trump y Delcy Rodríguez anuncian un acuerdo que otorga a EE.UU. el control de más del 20% de las reservas de petróleo de Venezuela",
-      "source": "RFI Español",
-      "date": "2026-08-30",
-      "level": "B1-B2",
-      "topics": [
-        "Venezuela",
-        "energía"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-30-venezuela-petroleo",
-        "revision": 1,
-        "meta": {
-          "title": "Donald Trump y Delcy Rodríguez anuncian un acuerdo que otorga a EE.UU. el control de más del 20% de las reservas de petróleo de Venezuela",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260829-ee-uu-anuncia-un-acuerdo-con-delcy-rodr%C3%ADguez-para-controlar-parte-del-petr%C3%B3leo-venezolano",
-          "date_published": "2026-08-29",
-          "date_processed": "2026-08-30",
-          "tags": [
-            "Venezuela",
-            "energía"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The United States and Venezuela have announced an oil agreement that Donald Trump has described as historic. According to Venezuela's acting president, Delcy Rodriguez, private American operators will develop seventeen oilfields containing some 65 billion barrels of reserves. The deal would give US companies control of more than twenty per cent of Venezuelan reserves, a turnaround that was hard to imagine only a few years ago.\n\nVenezuela has the largest proven reserves on the planet, but its output has been sunk for years by a lack of investment and by sanctions. Hence the government is seeking foreign capital at any cost. It remains to be seen how the profits will be shared out and what the opposition will say, since it tends to denounce this kind of deal as a surrender of sovereignty. Analysts warn that reviving the industry will take years.",
-        "resumen_es": "Estados Unidos y Venezuela han anunciado un acuerdo petrolero que Donald Trump ha calificado de histórico. Según la presidenta encargada de Venezuela, Delcy Rodríguez, operadores privados estadounidenses desarrollarán diecisiete yacimientos que contienen unos 65.000 millones de barriles de reservas. El pacto otorgaría a las empresas de Estados Unidos el control de más del veinte por ciento de las reservas venezolanas, un giro difícil de imaginar hace apenas unos años.\n\nVenezuela cuenta con las mayores reservas probadas del planeta, pero su producción lleva años hundida por la falta de inversión y por las sanciones. De ahí que el Gobierno busque capital extranjero a toda costa. Queda por ver cómo se repartirán los beneficios y qué dirá la oposición, que suele denunciar este tipo de pactos como una entrega de la soberanía. Los analistas advierten de que levantar la industria llevará años.",
-        "vocab": [
-          {
-            "front": "el acuerdo petrolero",
-            "pos": "noun",
-            "back": "oil deal, oil agreement",
-            "example": "El acuerdo petrolero se firmó tras meses de negociación.",
-            "tier": "B1"
-          },
-          {
-            "front": "calificar de",
-            "pos": "verb",
-            "back": "to describe (something) as",
-            "example": "El alcalde calificó la protesta de pacífica.",
-            "tier": "B2"
-          },
-          {
-            "front": "el yacimiento",
-            "pos": "noun",
-            "back": "deposit, field (of oil, gas or minerals)",
-            "example": "Descubrieron un yacimiento de gas en el norte del país.",
-            "tier": "B2"
-          },
-          {
-            "front": "las reservas probadas",
-            "pos": "phrase",
-            "back": "proven reserves",
-            "example": "El informe revisó al alza las reservas probadas de crudo.",
-            "tier": "C1"
-          },
-          {
-            "front": "otorgar",
-            "pos": "verb",
-            "back": "to grant, to award",
-            "example": "El juez otorgó la custodia a la madre.",
-            "tier": "B2"
-          },
-          {
-            "front": "el giro",
-            "pos": "noun",
-            "back": "turn, turnaround, shift",
-            "example": "La campaña dio un giro inesperado en la última semana.",
-            "tier": "B2"
-          },
-          {
-            "front": "hundido",
-            "pos": "adj",
-            "back": "sunk, collapsed (of prices, output, morale)",
-            "example": "El sector turístico sigue hundido tras la crisis.",
-            "tier": "B2"
-          },
-          {
-            "front": "a toda costa",
-            "pos": "phrase",
-            "back": "at all costs, whatever it takes",
-            "example": "Quiere ganar a toda costa, aunque pierda amigos.",
-            "tier": "B2"
-          },
-          {
-            "front": "repartirse",
-            "pos": "verb",
-            "back": "to share out, to divide among themselves",
-            "example": "Los socios se repartieron los beneficios a partes iguales.",
-            "tier": "B1"
-          },
-          {
-            "front": "la soberanía",
-            "pos": "noun",
-            "back": "sovereignty",
-            "example": "El debate gira en torno a la soberanía sobre el territorio.",
-            "tier": "B2"
-          },
-          {
-            "front": "denunciar",
-            "pos": "verb",
-            "back": "to denounce, to report publicly",
-            "example": "Varias ONG denunciaron el abandono de los refugiados.",
-            "tier": "B1"
-          },
-          {
-            "front": "advertir de que",
-            "pos": "verb",
-            "back": "to warn that",
-            "example": "Los médicos advierten de que el virus puede volver en otoño.",
-            "tier": "B2"
-          },
-          {
-            "front": "quedar por ver",
-            "pos": "phrase",
-            "back": "to remain to be seen",
-            "example": "Queda por ver si el plan funciona en la práctica.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "El pacto otorgaría a las empresas de Estados Unidos el control de más del veinte por ciento de las reservas venezolanas, un giro difícil de imaginar hace apenas unos años.",
-            "point": "Condicional de información no confirmada",
-            "explanation": "Otorgaría no expresa aquí una condición, sino una información que el periodista no da por confirmada del todo. Es el llamado condicional de rumor o de distancia, muy frecuente en la prensa.",
-            "why_tricky": "El estudiante lo traduce como would grant en sentido hipotético, cuando en realidad marca cautela sobre un hecho presentado por terceros."
-          },
-          {
-            "sentence": "De ahí que el Gobierno busque capital extranjero a toda costa.",
-            "point": "De ahí que + subjuntivo",
-            "explanation": "De ahí que introduce una consecuencia de lo dicho antes y exige siempre subjuntivo, aquí busque. Equivale a hence o that is why en un registro formal.",
-            "why_tricky": "Al ser una consecuencia real y no una duda, el estudiante espera indicativo, pero la construcción fija el subjuntivo sin excepciones."
-          },
-          {
-            "sentence": "Queda por ver cómo se repartirán los beneficios y qué dirá la oposición, que suele denunciar este tipo de pactos como una entrega de la soberanía.",
-            "point": "quedar por + infinitivo y soler + infinitivo",
-            "explanation": "Quedar por + infinitivo indica algo pendiente de hacerse o de saberse. Soler + infinitivo expresa costumbre o tendencia habitual y no tiene un equivalente de una sola palabra en inglés.",
-            "why_tricky": "Soler solo se usa en presente e imperfecto, y quedar por se confunde con quedar en, que significa acordar una cita."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "a toda costa",
-            "meaning": "at any price, no matter what it takes",
-            "example": "Intentaron salvar la empresa a toda costa, incluso hipotecando la casa."
-          },
-          {
-            "phrase": "quedar por ver",
-            "meaning": "it remains to be seen, the outcome is still uncertain",
-            "example": "Queda por ver si las promesas se cumplen después de las elecciones."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué obtendrían las empresas estadounidenses con este acuerdo?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué la producción venezolana lleva años hundida?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué reacción se espera por parte de la oposición venezolana y por qué?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Es razonable que un país abra sus recursos naturales al capital extranjero para reactivar su economía, o supone una pérdida de soberanía inaceptable? Escribe entre 120 y 150 palabras."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-30-groenlandia-indemnizacion",
-      "title": "Groenlandia: Dinamarca indemnizará a mujeres víctimas de la colocación forzada de dispositivos intrauterinos",
-      "source": "RFI Español",
-      "date": "2026-08-30",
-      "level": "B1-B2",
-      "topics": [
-        "Dinamarca",
-        "derechos"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-30-groenlandia-indemnizacion",
-        "revision": 1,
-        "meta": {
-          "title": "Groenlandia: Dinamarca indemnizará a mujeres víctimas de la colocación forzada de dispositivos intrauterinos",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/europa/20260828-groenlandia-dinamarca-indemnizar%C3%A1-a-mujeres-v%C3%ADctimas-de-la-colocaci%C3%B3n-forzada-de-dispositivos-intrauterinos",
-          "date_published": "2026-08-28",
-          "date_processed": "2026-08-30",
-          "tags": [
-            "Dinamarca",
-            "derechos"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The Danish Parliament has approved compensation of 40,000 euros for the Greenlandic women who had intrauterine devices fitted without their consent. The campaign, driven by the Danish health authorities, affected thousands of women and girls, many of them teenagers who were not even told what was being done to them. The decision brings to an end a scandal that has marked several generations.\n\nFor the victims, the money does not undo the harm, but it amounts to an official acknowledgement they had been waiting decades for. The case has revived the debate about Denmark's colonial past in Greenland, a self-governing territory whose population is mostly Inuit. Relations between Nuuk and Copenhagen are going through a delicate moment, and many Greenlanders see in this gesture a first step towards a broader form of redress.",
-        "resumen_es": "El Parlamento danés ha aprobado indemnizar con 40.000 euros a las mujeres groenlandesas a las que se colocaron dispositivos intrauterinos sin su consentimiento. La campaña, impulsada por las autoridades sanitarias danesas, afectó a miles de mujeres y niñas, muchas de ellas adolescentes que ni siquiera fueron informadas de lo que les estaban haciendo. La decisión pone fin a un escándalo que ha marcado a varias generaciones.\n\nPara las víctimas, el dinero no borra el daño, pero supone un reconocimiento oficial que llevaban décadas esperando. El caso ha reavivado el debate sobre el pasado colonial de Dinamarca en Groenlandia, un territorio autónomo cuya población es mayoritariamente inuit. Las relaciones entre Nuuk y Copenhague pasan por un momento delicado, y muchos groenlandeses ven en este gesto un primer paso hacia una reparación más amplia.",
-        "vocab": [
-          {
-            "front": "indemnizar",
-            "pos": "verb",
-            "back": "to compensate (financially)",
-            "example": "La aerolínea tuvo que indemnizar a los pasajeros por el retraso.",
-            "tier": "B2"
-          },
-          {
-            "front": "el consentimiento",
-            "pos": "noun",
-            "back": "consent",
-            "example": "Nadie puede publicar tus datos sin tu consentimiento.",
-            "tier": "B1"
-          },
-          {
-            "front": "impulsar",
-            "pos": "verb",
-            "back": "to drive, to promote, to push forward",
-            "example": "El ayuntamiento impulsa un plan para peatonalizar el centro.",
-            "tier": "B2"
-          },
-          {
-            "front": "ni siquiera",
-            "pos": "phrase",
-            "back": "not even",
-            "example": "Ni siquiera se despidió antes de marcharse.",
-            "tier": "B1"
-          },
-          {
-            "front": "poner fin a",
-            "pos": "phrase",
-            "back": "to put an end to",
-            "example": "El acuerdo puso fin a tres meses de huelga.",
-            "tier": "B1"
-          },
-          {
-            "front": "marcar (a alguien)",
-            "pos": "verb",
-            "back": "to leave a lasting mark on someone",
-            "example": "Aquel viaje me marcó para siempre.",
-            "tier": "B2"
-          },
-          {
-            "front": "borrar el daño",
-            "pos": "phrase",
-            "back": "to undo the harm",
-            "example": "Una disculpa no borra el daño, pero ayuda.",
-            "tier": "B2"
-          },
-          {
-            "front": "suponer",
-            "pos": "verb",
-            "back": "to amount to, to represent",
-            "example": "La subida supone un esfuerzo enorme para las familias.",
-            "tier": "B2"
-          },
-          {
-            "front": "el reconocimiento",
-            "pos": "noun",
-            "back": "acknowledgement, recognition",
-            "example": "Pidieron el reconocimiento público de los errores cometidos.",
-            "tier": "B1"
-          },
-          {
-            "front": "reavivar",
-            "pos": "verb",
-            "back": "to revive, to rekindle (a debate, a fire)",
-            "example": "El documental reavivó el interés por el caso.",
-            "tier": "C1"
-          },
-          {
-            "front": "el territorio autónomo",
-            "pos": "phrase",
-            "back": "self-governing territory",
-            "example": "Es un territorio autónomo con su propio parlamento.",
-            "tier": "B2"
-          },
-          {
-            "front": "pasar por un momento delicado",
-            "pos": "phrase",
-            "back": "to be going through a difficult patch",
-            "example": "La empresa pasa por un momento delicado y ha congelado los sueldos.",
-            "tier": "B2"
-          },
-          {
-            "front": "la reparación",
-            "pos": "noun",
-            "back": "redress, reparation",
-            "example": "Las víctimas exigen una reparación justa.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "El Parlamento danés ha aprobado indemnizar con 40.000 euros a las mujeres groenlandesas a las que se colocaron dispositivos intrauterinos sin su consentimiento.",
-            "point": "Relativo con preposición y se impersonal",
-            "explanation": "A las que combina la preposición exigida por el verbo con el relativo, algo obligatorio en español culto. Se colocaron es un se impersonal o pasivo refleja que evita nombrar al responsable.",
-            "why_tricky": "En inglés la preposición se deja al final (that they were fitted to); en español debe ir delante del relativo, y el se pasivo se confunde con un reflexivo."
-          },
-          {
-            "sentence": "La campaña, impulsada por las autoridades sanitarias danesas, afectó a miles de mujeres y niñas, muchas de ellas adolescentes que ni siquiera fueron informadas de lo que les estaban haciendo.",
-            "point": "Pasiva perifrástica y lo que",
-            "explanation": "Fueron informadas es una pasiva con ser, reservada en español a contextos formales y a acciones concretas. Lo que introduce una relativa sin antecedente expreso, equivalente a what en inglés.",
-            "why_tricky": "Los estudiantes abusan de la pasiva con ser donde el español prefiere el se, y traducen lo que por que a secas."
-          },
-          {
-            "sentence": "Para las víctimas, el dinero no borra el daño, pero supone un reconocimiento oficial que llevaban décadas esperando.",
-            "point": "llevar + tiempo + gerundio",
-            "explanation": "Llevar seguido de una expresión temporal y un gerundio indica una acción prolongada hasta el momento de referencia: llevaban décadas esperando equivale a they had been waiting for decades.",
-            "why_tricky": "El inglés usa un tiempo perfecto continuo; el español usa el imperfecto de llevar, sin ninguna preposición delante del periodo."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "poner fin a algo",
-            "meaning": "to bring something to an end, to close a chapter",
-            "example": "La sentencia puso fin a veinte años de litigio."
-          },
-          {
-            "phrase": "pasar por un momento delicado",
-            "meaning": "to be going through a rough or sensitive patch",
-            "example": "Su matrimonio pasa por un momento delicado desde la mudanza."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué ha decidido el Parlamento danés y a quién afecta esa decisión?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué el dinero no resulta suficiente para muchas de las víctimas?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué relación tiene este caso con el pasado colonial de Dinamarca?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Sirven las indemnizaciones económicas para reparar injusticias históricas, o hacen falta otras medidas? Escribe entre 120 y 150 palabras con ejemplos concretos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-29-ceuta-disturbios",
-      "title": "España: El Gobierno llama a la calma tras una noche de protestas y disturbios en Ceuta",
-      "source": "RFI Español",
-      "date": "2026-08-28",
-      "level": "B1-B2",
-      "topics": [
-        "España",
-        "migración"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-29-ceuta-disturbios",
-        "revision": 1,
-        "meta": {
-          "title": "España: El Gobierno llama a la calma tras una noche de protestas y disturbios en Ceuta",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/europa/20260828-espa%C3%B1a-el-gobierno-llama-a-la-calma-tras-una-noche-de-protestas-y-disturbios-en-ceuta",
-          "date_published": "2026-08-28",
-          "date_processed": "2026-08-29",
-          "tags": [
-            "España",
-            "migración"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The Spanish government has called for calm after a night of protests and disturbances in Ceuta, the autonomous city on the North African coast. According to RFI, tension over security flared up on Thursday: part of the population took to the streets, tried to block the Red Cross from getting in and ended up clashing with the police. All of this comes barely a month after a mass entry of migrants from Morocco.\n\nCeuta has been at the centre of the migration debate for years because it shares a land border with Morocco and works as a gateway into the European Union. When many people arrive at once, local services are overwhelmed and anger among residents grows. The government insists that the tension has to be brought down and that the disturbances must not be repeated, while humanitarian organisations are asking for their work on the ground to be guaranteed.",
-        "resumen_es": "El Gobierno español ha pedido calma tras una noche de protestas y disturbios en Ceuta, la ciudad autónoma situada en el norte de África. Según RFI, la tensión por la seguridad se disparó el jueves: parte de la población salió a la calle, intentó impedir la entrada de la Cruz Roja y acabó enfrentándose a la policía. Todo ocurre apenas un mes después de una entrada masiva de migrantes desde Marruecos.\n\nCeuta lleva años en el centro del debate migratorio porque comparte frontera terrestre con Marruecos y funciona como puerta de entrada a la Unión Europea. Cuando llegan muchas personas a la vez, los servicios locales se ven desbordados y el malestar vecinal crece. El Ejecutivo insiste en que hay que rebajar la tensión y evitar que los disturbios se repitan, mientras las organizaciones humanitarias piden que se garantice su trabajo sobre el terreno.",
-        "vocab": [
-          {
-            "front": "llamar a la calma",
-            "pos": "phrase",
-            "back": "to call for calm",
-            "example": "El alcalde llamó a la calma después de los incidentes.",
-            "tier": "B1"
-          },
-          {
-            "front": "los disturbios",
-            "pos": "noun",
-            "back": "riots, disturbances, unrest",
-            "example": "Los disturbios se prolongaron hasta la madrugada.",
-            "tier": "B2"
-          },
-          {
-            "front": "dispararse",
-            "pos": "verb",
-            "back": "to shoot up, to soar (of prices, tension, numbers)",
-            "example": "El precio del alquiler se disparó en pocos meses.",
-            "tier": "B2"
-          },
-          {
-            "front": "enfrentarse a alguien",
-            "pos": "verb",
-            "back": "to clash with, to confront someone",
-            "example": "Los manifestantes se enfrentaron a la policía en el centro.",
-            "tier": "B1"
-          },
-          {
-            "front": "la ciudad autónoma",
-            "pos": "noun",
-            "back": "autonomous city (the legal status of Ceuta and Melilla)",
-            "example": "Ceuta y Melilla son ciudades autónomas españolas.",
-            "tier": "B2"
-          },
-          {
-            "front": "la frontera terrestre",
-            "pos": "noun",
-            "back": "land border",
-            "example": "España tiene una frontera terrestre con Marruecos.",
-            "tier": "B1"
-          },
-          {
-            "front": "la puerta de entrada",
-            "pos": "noun",
-            "back": "gateway, point of entry",
-            "example": "El puerto es la puerta de entrada de la mercancía.",
-            "tier": "B1"
-          },
-          {
-            "front": "verse desbordado",
-            "pos": "phrase",
-            "back": "to be overwhelmed, to be swamped",
-            "example": "Los hospitales se vieron desbordados en pleno agosto.",
-            "tier": "B2"
-          },
-          {
-            "front": "el malestar",
-            "pos": "noun",
-            "back": "discontent, unease",
-            "example": "El malestar entre los vecinos crece cada semana.",
-            "tier": "B2"
-          },
-          {
-            "front": "rebajar la tensión",
-            "pos": "phrase",
-            "back": "to lower the tension, to de-escalate",
-            "example": "Ambas partes buscan rebajar la tensión antes de la reunión.",
-            "tier": "B2"
-          },
-          {
-            "front": "sobre el terreno",
-            "pos": "phrase",
-            "back": "on the ground, in the field",
-            "example": "Los cooperantes trabajan sobre el terreno desde marzo.",
-            "tier": "B2"
-          },
-          {
-            "front": "apenas",
-            "pos": "adv",
-            "back": "barely, only just",
-            "example": "Llegó apenas un minuto antes de que cerraran.",
-            "tier": "B1"
-          },
-          {
-            "front": "el Ejecutivo",
-            "pos": "noun",
-            "back": "the government, the executive branch",
-            "example": "El Ejecutivo aprobó el decreto el martes por la tarde.",
-            "tier": "C1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Todo ocurre apenas un mes después de una entrada masiva de migrantes desde Marruecos.",
-            "point": "Presente para hechos recientes y el adverbio apenas con valor temporal",
-            "explanation": "El presente ocurre sitúa el hecho en el momento actual del relato periodístico, aunque en inglés se diría comes o is happening. Apenas aquí no significa hardly sino only just: apenas un mes después equivale a barely a month later.",
-            "why_tricky": "Los estudiantes traducen apenas siempre por hardly, y entonces la frase pierde el sentido temporal de only just."
-          },
-          {
-            "sentence": "Cuando llegan muchas personas a la vez, los servicios locales se ven desbordados y el malestar vecinal crece.",
-            "point": "La construcción verse + participio como pasiva de estado",
-            "explanation": "Verse + participio funciona como una pasiva: se ven desbordados significa they are overwhelmed, no they see themselves. Es muy frecuente en prensa con obligado, afectado, forzado y superado.",
-            "why_tricky": "El pronombre se hace pensar en un verbo reflexivo, pero aquí el sujeto sufre la acción, no la hace sobre sí mismo."
-          },
-          {
-            "sentence": "El Ejecutivo insiste en que hay que rebajar la tensión y evitar que los disturbios se repitan, mientras las organizaciones humanitarias piden que se garantice su trabajo sobre el terreno.",
-            "point": "Indicativo tras insistir en que frente a subjuntivo tras evitar que y pedir que",
-            "explanation": "Insistir en que + indicativo cuando se afirma un hecho. En cambio, evitar que y pedir que expresan influencia sobre otro sujeto y exigen subjuntivo: se repitan, se garantice.",
-            "why_tricky": "Los tres verbos parecen del mismo tipo, pero solo los que expresan voluntad o influencia cambian el modo del verbo siguiente."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "salir a la calle",
-            "meaning": "to take to the streets, to protest publicly",
-            "example": "Miles de personas salieron a la calle contra la reforma."
-          },
-          {
-            "phrase": "estar en el centro del debate",
-            "meaning": "to be at the heart of the debate",
-            "example": "La vivienda está en el centro del debate político español."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué pidió el Gobierno español después de la noche de disturbios en Ceuta?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué Ceuta ocupa un lugar central en el debate migratorio europeo?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué piden las organizaciones humanitarias y por qué crees que lo piden?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Escribe unas 120 palabras: ¿cómo debería repartirse entre los países de la Unión Europea la responsabilidad de acoger a quienes llegan a fronteras como la de Ceuta? Defiende tu postura con dos argumentos concretos."
       }
     }
   ]
