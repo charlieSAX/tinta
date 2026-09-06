@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-09-05T19:11:58Z",
+  "generated_at": "2026-09-06T07:22:31Z",
   "note": "Tinta article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real BBC Mundo headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-09-06-ilegales-rusia",
+      "title": "\"Los ilegales\": cuáles son los vínculos con América Latina del programa de espionaje más secreto de Rusia",
+      "source": "BBC Mundo",
+      "date": "2026-09-06",
+      "level": "B1-B2",
+      "topics": [
+        "espionaje",
+        "historia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-06-ilegales-rusia",
+        "revision": 1,
+        "meta": {
+          "title": "\"Los ilegales\": cuáles son los vínculos con América Latina del programa de espionaje más secreto de Rusia",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/ce8kl8yd76yo",
+          "date_published": "2026-09-06",
+          "date_processed": "2026-09-06",
+          "tags": [
+            "espionaje",
+            "historia"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "\"The illegals\" is the name of Russia's most secret espionage programme: a network of agents who live for years in other countries under false identities, without diplomatic cover. According to the BBC, the programme was born before the Russian Revolution and is still active today, with Vladimir Putin as its great champion. The world discovered its true scale in 2010, when the United States arrested a group of \"sleeper\" spies who had been leading apparently normal lives in American suburbs.\n\nLatin America has played an important role in this story. Some of those agents passed themselves off as Latin American citizens, and the region served them to build identities, obtain documents and perfect their Spanish before settling at their final destination. The investigation traces those links and explains why the continent has been so useful for Moscow. The programme, the BBC concludes, adapts to each era, but it has never disappeared.",
+        "resumen_es": "\"Los ilegales\" es el nombre del programa de espionaje más secreto de Rusia: una red de agentes que viven durante años en otros países con identidades falsas, sin cobertura diplomática. Según la BBC, el programa nació antes de la Revolución Rusa y sigue activo hoy, con Vladimir Putin como su gran valedor. El mundo descubrió su verdadera dimensión en 2010, cuando Estados Unidos arrestó a un grupo de espías \"durmientes\" que llevaban una vida aparentemente normal en suburbios estadounidenses.\n\nAmérica Latina ha tenido un papel importante en esta historia. Algunos de aquellos agentes se hicieron pasar por ciudadanos latinoamericanos, y la región les sirvió para construir identidades, conseguir documentos y perfeccionar el español antes de instalarse en su destino final. La investigación repasa esos vínculos y explica por qué el continente ha resultado tan útil para Moscú. El programa, concluye la BBC, se adapta a cada época, pero nunca ha desaparecido.",
+        "vocab": [
+          {
+            "front": "el espionaje",
+            "pos": "noun",
+            "back": "espionage, spying",
+            "example": "El espionaje entre potencias nunca ha cesado del todo.",
+            "tier": "B2"
+          },
+          {
+            "front": "la red",
+            "pos": "noun",
+            "back": "network",
+            "example": "La policía desarticuló una red de agentes extranjeros.",
+            "tier": "B1"
+          },
+          {
+            "front": "la cobertura",
+            "pos": "noun",
+            "back": "cover (also: coverage)",
+            "example": "Trabajaban sin cobertura diplomática, con enorme riesgo.",
+            "tier": "B2"
+          },
+          {
+            "front": "el valedor",
+            "pos": "noun",
+            "back": "champion, backer, protector",
+            "example": "El ministro fue el gran valedor del proyecto.",
+            "tier": "C1"
+          },
+          {
+            "front": "durmiente",
+            "pos": "adj",
+            "back": "sleeper, dormant (agent)",
+            "example": "Un agente durmiente puede esperar años antes de actuar.",
+            "tier": "C1"
+          },
+          {
+            "front": "hacerse pasar por",
+            "pos": "phrase",
+            "back": "to pass oneself off as",
+            "example": "Se hizo pasar por un empresario uruguayo.",
+            "tier": "B2"
+          },
+          {
+            "front": "el vínculo",
+            "pos": "noun",
+            "back": "link, tie, bond",
+            "example": "Los vínculos entre ambos países son antiguos.",
+            "tier": "B2"
+          },
+          {
+            "front": "repasar",
+            "pos": "verb",
+            "back": "to go over, to review",
+            "example": "El reportaje repasa medio siglo de operaciones secretas.",
+            "tier": "B1"
+          },
+          {
+            "front": "perfeccionar",
+            "pos": "verb",
+            "back": "to perfect, to polish",
+            "example": "Vivió en Lima para perfeccionar su español.",
+            "tier": "B1"
+          },
+          {
+            "front": "instalarse",
+            "pos": "verb",
+            "back": "to settle, to set up home",
+            "example": "La pareja se instaló en un barrio tranquilo de Nueva Jersey.",
+            "tier": "B1"
+          },
+          {
+            "front": "resultar útil",
+            "pos": "phrase",
+            "back": "to prove useful",
+            "example": "La región resultó muy útil para fabricar identidades.",
+            "tier": "B2"
+          },
+          {
+            "front": "la dimensión",
+            "pos": "noun",
+            "back": "scale, extent, dimension",
+            "example": "Nadie conocía la verdadera dimensión del programa.",
+            "tier": "B2"
+          },
+          {
+            "front": "adaptarse a",
+            "pos": "verb",
+            "back": "to adapt to",
+            "example": "El sistema se adapta a cada época sin desaparecer.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "El mundo descubrió su verdadera dimensión en 2010, cuando Estados Unidos arrestó a un grupo de espías \"durmientes\" que llevaban una vida aparentemente normal en suburbios estadounidenses.",
+            "point": "Pretérito indefinido vs. imperfecto in one sentence",
+            "explanation": "Descubrió and arrestó are completed events in the past (indefinido); llevaban describes an ongoing background situation (imperfecto). The contrast is the classic narrative pattern: punctual action against a continuing state.",
+            "why_tricky": "English uses the same simple past for all three verbs, so learners must decide on aspect themselves."
+          },
+          {
+            "sentence": "Algunos de aquellos agentes se hicieron pasar por ciudadanos latinoamericanos, y la región les sirvió para construir identidades, conseguir documentos y perfeccionar el español antes de instalarse en su destino final.",
+            "point": "Infinitives after prepositions (para, antes de)",
+            "explanation": "After para and antes de, Spanish uses the bare infinitive: para construir, antes de instalarse. A pronominal verb keeps its pronoun attached: instalarse, not instalar.",
+            "why_tricky": "English uses the gerund after prepositions (before settling), which learners often transfer as antes de instalando."
+          },
+          {
+            "sentence": "El programa, concluye la BBC, se adapta a cada época, pero nunca ha desaparecido.",
+            "point": "Reporting clause inserted mid-sentence and pretérito perfecto with nunca",
+            "explanation": "Concluye la BBC is a parenthetical reporting clause, with the verb before the subject, typical of journalistic Spanish. Nunca ha desaparecido uses the perfect because the time frame extends up to now.",
+            "why_tricky": "The inverted verb-subject order in the reporting clause and the choice of perfect over indefinido after nunca both differ from English habits."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "llevar una vida normal",
+            "meaning": "to lead a normal life",
+            "example": "Los vecinos creían que la pareja llevaba una vida totalmente normal."
+          },
+          {
+            "phrase": "salir a la luz",
+            "meaning": "to come to light, to be revealed",
+            "example": "El programa salió a la luz con los arrestos de 2010."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Qué caracteriza a los agentes del programa \"Los ilegales\"?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué ocurrió en 2010 y por qué fue importante para conocer el programa?",
+            "type": "open"
+          },
+          {
+            "q": "¿Para qué les sirvió América Latina a algunos de estos espías?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Crees que el espionaje entre países es inevitable en el mundo actual? Escribe un párrafo con tu opinión y da al menos dos razones."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-06-alfabeto-turquesa",
+      "title": "La mina de turquesa donde nació nuestro alfabeto (y cuáles fueron las primeras palabras que encontraron)",
+      "source": "BBC Mundo",
+      "date": "2026-09-05",
+      "level": "B1-B2",
+      "topics": [
+        "historia",
+        "lengua"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-06-alfabeto-turquesa",
+        "revision": 1,
+        "meta": {
+          "title": "La mina de turquesa donde nació nuestro alfabeto (y cuáles fueron las primeras palabras que encontraron)",
+          "source": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cr4kxkp7ke6o",
+          "date_published": "2026-09-05",
+          "date_processed": "2026-09-06",
+          "tags": [
+            "historia",
+            "lengua"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "On a remote plateau in the Sinai Peninsula stands an ancient turquoise mine where, according to archaeologists, the first alphabet was born. Around four thousand years ago, the workers who extracted the precious stone for the pharaohs left inscriptions on the rocks and on small statues. Instead of copying the complex Egyptian hieroglyphs, those miners adapted a few signs to represent sounds, an idea as simple as it was revolutionary.\n\nThe first words that researchers managed to decipher are linked to the everyday and to the sacred: names of gods, dedications and references to the mining work itself. That system, known as Proto-Sinaitic script, later travelled with merchants towards the Mediterranean, gave rise to the Phoenician alphabet and, through Greek and Latin, reached the letters we use today. So every time we write a word, we are in a way repeating a gesture invented in the desert.",
+        "resumen_es": "En una meseta remota de la península del Sinaí se encuentra una antigua mina de turquesa donde, según los arqueólogos, nació el primer alfabeto. Hace unos cuatro mil años, los trabajadores que extraían la piedra preciosa para los faraones dejaron inscripciones en las rocas y en pequeñas estatuas. En lugar de copiar los complejos jeroglíficos egipcios, aquellos mineros adaptaron algunos signos para representar sonidos, una idea tan simple como revolucionaria.\n\nLas primeras palabras que los investigadores lograron descifrar están relacionadas con lo cotidiano y con lo sagrado: nombres de dioses, dedicatorias y referencias al propio trabajo minero. Ese sistema, conocido como escritura protosinaítica, viajó después con comerciantes hacia el Mediterráneo, dio origen al alfabeto fenicio y, a través del griego y del latín, llegó hasta las letras que usamos hoy. Por eso, cada vez que escribimos una palabra, repetimos en cierto modo un gesto inventado en el desierto.",
+        "vocab": [
+          {
+            "front": "la meseta",
+            "pos": "noun",
+            "back": "plateau",
+            "example": "La mina está en una meseta a más de mil metros de altura.",
+            "tier": "B2"
+          },
+          {
+            "front": "la turquesa",
+            "pos": "noun",
+            "back": "turquoise (stone)",
+            "example": "Los egipcios usaban la turquesa en joyas y amuletos.",
+            "tier": "B2"
+          },
+          {
+            "front": "extraer",
+            "pos": "verb",
+            "back": "to extract, to mine",
+            "example": "Los mineros extraían la piedra con herramientas de cobre.",
+            "tier": "B1"
+          },
+          {
+            "front": "la inscripción",
+            "pos": "noun",
+            "back": "inscription",
+            "example": "Encontraron inscripciones en la pared de la mina.",
+            "tier": "B2"
+          },
+          {
+            "front": "el jeroglífico",
+            "pos": "noun",
+            "back": "hieroglyph",
+            "example": "Los jeroglíficos egipcios son signos muy complejos.",
+            "tier": "B2"
+          },
+          {
+            "front": "en lugar de",
+            "pos": "phrase",
+            "back": "instead of",
+            "example": "En lugar de copiar el sistema, lo simplificaron.",
+            "tier": "B1"
+          },
+          {
+            "front": "descifrar",
+            "pos": "verb",
+            "back": "to decipher, to decode",
+            "example": "Tardaron décadas en descifrar las primeras palabras.",
+            "tier": "B2"
+          },
+          {
+            "front": "lo cotidiano",
+            "pos": "noun",
+            "back": "everyday life, the everyday",
+            "example": "Las inscripciones hablan de lo cotidiano y de lo sagrado.",
+            "tier": "B2"
+          },
+          {
+            "front": "sagrado",
+            "pos": "adj",
+            "back": "sacred",
+            "example": "Para los mineros, la montaña era un lugar sagrado.",
+            "tier": "B1"
+          },
+          {
+            "front": "dar origen a",
+            "pos": "phrase",
+            "back": "to give rise to, to originate",
+            "example": "Ese sistema dio origen al alfabeto fenicio.",
+            "tier": "B2"
+          },
+          {
+            "front": "a través de",
+            "pos": "phrase",
+            "back": "through, via",
+            "example": "Las letras llegaron a Europa a través del griego.",
+            "tier": "B1"
+          },
+          {
+            "front": "en cierto modo",
+            "pos": "phrase",
+            "back": "in a way, to some extent",
+            "example": "En cierto modo, todos somos herederos de aquellos mineros.",
+            "tier": "B2"
+          },
+          {
+            "front": "el gesto",
+            "pos": "noun",
+            "back": "gesture, act",
+            "example": "Escribir es un gesto que repetimos sin pensar.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Hace unos cuatro mil años, los trabajadores que extraían la piedra preciosa para los faraones dejaron inscripciones en las rocas y en pequeñas estatuas.",
+            "point": "Hace + time expression, and imperfecto in a relative clause",
+            "explanation": "Hace unos cuatro mil años means about four thousand years ago; hace followed by a period places an event in the past. Inside the relative clause, extraían (imperfecto) describes habitual activity, while dejaron (indefinido) is the completed main action.",
+            "why_tricky": "Hace also means it makes or it does, and unos before a number means about, not some."
+          },
+          {
+            "sentence": "Las primeras palabras que los investigadores lograron descifrar están relacionadas con lo cotidiano y con lo sagrado: nombres de dioses, dedicatorias y referencias al propio trabajo minero.",
+            "point": "Neuter article lo + adjective",
+            "explanation": "Lo cotidiano and lo sagrado turn adjectives into abstract nouns: the everyday, the sacred. Lo never refers to a specific masculine noun; it names a quality or category.",
+            "why_tricky": "English has no neuter article, so learners often write el cotidiano, which would need a noun to follow."
+          },
+          {
+            "sentence": "Por eso, cada vez que escribimos una palabra, repetimos en cierto modo un gesto inventado en el desierto.",
+            "point": "Cada vez que + indicative for habitual actions",
+            "explanation": "Cada vez que with the present indicative expresses a repeated, real action: every time we write. The subjunctive would appear only for a future or hypothetical reference (cada vez que escribas).",
+            "why_tricky": "Learners who have just studied cuando + subjunctive tend to over-apply it to all time clauses."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "tan simple como revolucionario",
+            "meaning": "as simple as it is revolutionary (tan... como for equal comparison)",
+            "example": "Fue una idea tan simple como revolucionaria: un signo por cada sonido."
+          },
+          {
+            "phrase": "dejar huella",
+            "meaning": "to leave a mark, to leave a trace",
+            "example": "Aquellos mineros dejaron huella en todas las lenguas que escribimos hoy."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Dónde se encuentra la mina y quiénes trabajaban en ella?",
+            "type": "open"
+          },
+          {
+            "q": "¿En qué consistió la idea revolucionaria de los mineros frente a los jeroglíficos?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué camino siguió ese primer alfabeto hasta llegar a nuestras letras?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Qué invento de la historia te parece más importante para la humanidad: el alfabeto, la imprenta o internet? Justifica tu respuesta en un párrafo."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-06-reform-uk-congreso",
+      "title": "Reino Unido: el partido antiinmigración Reform UK quiere aprovechar su congreso para volver a movilizarse",
+      "source": "RFI en español",
+      "date": "2026-09-05",
+      "level": "B1-B2",
+      "topics": [
+        "política",
+        "Reino Unido"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-06-reform-uk-congreso",
+        "revision": 1,
+        "meta": {
+          "title": "Reino Unido: el partido antiinmigración Reform UK quiere aprovechar su congreso para volver a movilizarse",
+          "source": "RFI en español",
+          "url": "https://www.rfi.fr/es/europa/20260905-reino-unido-el-partido-antiinmigraci%C3%B3n-reform-uk-quiere-aprovechar-su-congreso-para-volver-a-movilizarse",
+          "date_published": "2026-09-05",
+          "date_processed": "2026-09-06",
+          "tags": [
+            "política",
+            "Reino Unido"
+          ],
+          "level": "B1-B2"
+        },
+        "summary_en": "The anti-immigration party Reform UK is holding its annual conference this weekend in Birmingham with a clear objective: to mobilise its supporters again after a disastrous summer. The far-right party and its leader, Nigel Farage, are accused of having received donations that were not very transparent. In fact, Farage has imposed a total silence on himself towards the media for a month now, something unusual in a politician who lives on public exposure.\n\nThe polls are no help either: Reform UK, which a few months ago seemed capable of challenging the traditional parties for power, is falling behind them. The conference will serve to relaunch its message against irregular immigration and to change the subject. Analysts point out that the party depends to a large extent on Farage's charisma, so his silence and the funding scandals pose a real risk to its electoral future.",
+        "resumen_es": "El partido antiinmigración Reform UK celebra este fin de semana su congreso anual en Birmingham con un objetivo claro: volver a movilizar a sus seguidores tras un verano desastroso. La formación de extrema derecha y su líder, Nigel Farage, están acusados de haber recibido donaciones poco transparentes. De hecho, Farage se ha impuesto un silencio total ante los medios desde hace un mes, algo poco habitual en un político que vive de la exposición pública.\n\nLas encuestas tampoco ayudan: Reform UK, que hace unos meses parecía capaz de disputar el poder a los partidos tradicionales, está quedando rezagado frente a ellos. El congreso servirá para relanzar su discurso contra la inmigración irregular y para cambiar de tema. Los analistas señalan que la formación depende en gran medida del carisma de Farage, por lo que su silencio y los escándalos de financiación suponen un riesgo real para su futuro electoral.",
+        "vocab": [
+          {
+            "front": "el congreso (de un partido)",
+            "pos": "noun",
+            "back": "party conference",
+            "example": "El congreso anual reúne a miles de militantes.",
+            "tier": "B1"
+          },
+          {
+            "front": "movilizar",
+            "pos": "verb",
+            "back": "to mobilise",
+            "example": "El partido quiere movilizar a sus votantes antes de las elecciones.",
+            "tier": "B2"
+          },
+          {
+            "front": "la formación",
+            "pos": "noun",
+            "back": "party, political grouping (journalistic)",
+            "example": "La formación ha perdido apoyo en los últimos meses.",
+            "tier": "B2"
+          },
+          {
+            "front": "estar acusado de",
+            "pos": "phrase",
+            "back": "to be accused of",
+            "example": "El líder está acusado de recibir dinero de forma irregular.",
+            "tier": "B1"
+          },
+          {
+            "front": "la donación",
+            "pos": "noun",
+            "back": "donation",
+            "example": "Las donaciones a los partidos deben ser públicas.",
+            "tier": "B1"
+          },
+          {
+            "front": "poco transparente",
+            "pos": "phrase",
+            "back": "not very transparent, opaque",
+            "example": "Las cuentas del partido son poco transparentes.",
+            "tier": "B2"
+          },
+          {
+            "front": "imponerse un silencio",
+            "pos": "phrase",
+            "back": "to impose a silence on oneself",
+            "example": "Se impuso un silencio total durante la investigación.",
+            "tier": "C1"
+          },
+          {
+            "front": "la encuesta",
+            "pos": "noun",
+            "back": "poll, survey",
+            "example": "Las encuestas dan ventaja a los laboristas.",
+            "tier": "B1"
+          },
+          {
+            "front": "quedar rezagado",
+            "pos": "phrase",
+            "back": "to fall behind, to lag",
+            "example": "Su partido está quedando rezagado en los sondeos.",
+            "tier": "C1"
+          },
+          {
+            "front": "disputar el poder",
+            "pos": "phrase",
+            "back": "to compete for power",
+            "example": "Por primera vez, un partido nuevo disputaba el poder.",
+            "tier": "B2"
+          },
+          {
+            "front": "cambiar de tema",
+            "pos": "phrase",
+            "back": "to change the subject",
+            "example": "Cuando le preguntaron por el dinero, cambió de tema.",
+            "tier": "B1"
+          },
+          {
+            "front": "en gran medida",
+            "pos": "phrase",
+            "back": "to a large extent",
+            "example": "El éxito depende en gran medida de su líder.",
+            "tier": "B2"
+          },
+          {
+            "front": "suponer un riesgo",
+            "pos": "phrase",
+            "back": "to pose a risk",
+            "example": "Los escándalos suponen un riesgo para el partido.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "De hecho, Farage se ha impuesto un silencio total ante los medios desde hace un mes, algo poco habitual en un político que vive de la exposición pública.",
+            "point": "Desde hace + period with the present or perfect",
+            "explanation": "Desde hace un mes marks the duration of a state that continues now: for a month. It combines with the present or the pretérito perfecto (se ha impuesto), not with the indefinido.",
+            "why_tricky": "English for a month with the present perfect tempts learners to use hace un mes alone, which would mean a month ago."
+          },
+          {
+            "sentence": "Las encuestas tampoco ayudan: Reform UK, que hace unos meses parecía capaz de disputar el poder a los partidos tradicionales, está quedando rezagado frente a ellos.",
+            "point": "Estar + gerundio for a developing process",
+            "explanation": "Está quedando rezagado presents falling behind as something in progress right now. Tampoco reinforces a previous negative idea (the scandals) with another negative: the polls do not help either.",
+            "why_tricky": "Tampoco has no single English equivalent; learners write también no instead."
+          },
+          {
+            "sentence": "Los analistas señalan que la formación depende en gran medida del carisma de Farage, por lo que su silencio y los escándalos de financiación suponen un riesgo real para su futuro electoral.",
+            "point": "Por lo que as a consequence connector",
+            "explanation": "Por lo que introduces a consequence: so, which is why. It links two clauses inside one sentence and is very common in written journalistic Spanish.",
+            "why_tricky": "Learners confuse por lo que with porque (because), which introduces a cause, not a result."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "vivir de algo",
+            "meaning": "to live on or off something, to depend on it",
+            "example": "Un político mediático vive de la exposición pública."
+          },
+          {
+            "phrase": "cambiar de tema",
+            "meaning": "to change the subject",
+            "example": "El congreso es una oportunidad para cambiar de tema."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "¿Por qué el verano ha sido difícil para Reform UK y su líder?",
+            "type": "open"
+          },
+          {
+            "q": "¿Qué situación muestran las encuestas respecto a los partidos tradicionales?",
+            "type": "open"
+          },
+          {
+            "q": "Según los analistas, ¿de qué depende en gran medida el partido y qué riesgo supone eso?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "¿Deberían los partidos políticos publicar todas sus donaciones y sus donantes? Escribe un párrafo explicando tu postura."
+      }
+    },
     {
       "pack_id": "feed-2026-09-05-islas-paracel",
       "title": "Mar de China Meridional: ¿Qué está construyendo Pekín en las islas Paracel?",
@@ -6182,513 +6689,6 @@
           }
         ],
         "opinion_prompt": "Escribe unas 120 palabras: ¿cómo debería repartirse entre los países de la Unión Europea la responsabilidad de acoger a quienes llegan a fronteras como la de Ceuta? Defiende tu postura con dos argumentos concretos."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-29-ecuador-narcotrafico",
-      "title": "\"Es un ciclo sin fin. Si acaban con nosotros, otra pandilla ocupará nuestro lugar\": la BBC en territorio controlado por el crimen organizado en Ecuador",
-      "source": "BBC Mundo",
-      "date": "2026-08-27",
-      "level": "B1-B2",
-      "topics": [
-        "Ecuador",
-        "seguridad"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-29-ecuador-narcotrafico",
-        "revision": 1,
-        "meta": {
-          "title": "\"Es un ciclo sin fin. Si acaban con nosotros, otra pandilla ocupará nuestro lugar\": la BBC en territorio controlado por el crimen organizado en Ecuador",
-          "source": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cj4kjj8jw99o?at_medium=RSS&at_campaign=rss",
-          "date_published": "2026-08-27",
-          "date_processed": "2026-08-29",
-          "tags": [
-            "Ecuador",
-            "seguridad"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "The BBC has gone out with a patrol of the Ecuadorian police in an area controlled by organised crime. Ecuador is facing a huge rise in violent crime linked to drug trafficking, and the officers go to work knowing that the risk never stops. One of the lines quoted in the report sums the problem up: it is an endless cycle, because if they wipe out one gang, another will take its place.\n\nFor years Ecuador was seen as a quiet country sitting between two big cocaine producers, but it has become a key exit point towards Europe and the United States. The gangs fight over the ports and the routes, and the violence has moved into the neighbourhoods and the prisons. The authorities have militarised their response, although many experts warn that without jobs or opportunities for young people the cycle will simply start again.",
-        "resumen_es": "La BBC ha acompañado a una patrulla de la policía ecuatoriana en una zona controlada por el crimen organizado. Ecuador se enfrenta a un enorme aumento de los delitos violentos relacionados con el narcotráfico, y los agentes salen a trabajar sabiendo que el riesgo es constante. Una de las frases que recoge el reportaje resume el problema: es un ciclo sin fin, porque si acaban con una banda, otra ocupará su lugar.\n\nDurante años Ecuador se consideró un país tranquilo entre dos grandes productores de cocaína, pero se ha convertido en un punto clave de salida hacia Europa y Estados Unidos. Las bandas se disputan los puertos y las rutas, y la violencia se ha trasladado a los barrios y a las cárceles. Las autoridades han militarizado la respuesta, aunque muchos expertos advierten de que sin empleo ni oportunidades para los jóvenes el ciclo volverá a empezar.",
-        "vocab": [
-          {
-            "front": "la patrulla",
-            "pos": "noun",
-            "back": "patrol",
-            "example": "La patrulla recorre el barrio todas las noches.",
-            "tier": "B1"
-          },
-          {
-            "front": "el crimen organizado",
-            "pos": "noun",
-            "back": "organised crime",
-            "example": "El crimen organizado controla varias rutas del país.",
-            "tier": "B1"
-          },
-          {
-            "front": "el narcotráfico",
-            "pos": "noun",
-            "back": "drug trafficking",
-            "example": "El narcotráfico mueve miles de millones cada año.",
-            "tier": "B1"
-          },
-          {
-            "front": "la banda",
-            "pos": "noun",
-            "back": "gang, criminal group",
-            "example": "La policía detuvo a los líderes de la banda.",
-            "tier": "B1"
-          },
-          {
-            "front": "acabar con alguien",
-            "pos": "phrase",
-            "back": "to wipe someone out, to finish someone off",
-            "example": "El Gobierno promete acabar con las bandas más violentas.",
-            "tier": "B2"
-          },
-          {
-            "front": "disputarse algo",
-            "pos": "verb",
-            "back": "to fight over something, to compete for something",
-            "example": "Dos grupos se disputan el control del puerto.",
-            "tier": "B2"
-          },
-          {
-            "front": "trasladarse",
-            "pos": "verb",
-            "back": "to move, to shift (to another place)",
-            "example": "El conflicto se ha trasladado al centro de la ciudad.",
-            "tier": "B2"
-          },
-          {
-            "front": "la cárcel",
-            "pos": "noun",
-            "back": "prison, jail",
-            "example": "Pasó tres años en la cárcel antes del juicio.",
-            "tier": "B1"
-          },
-          {
-            "front": "advertir de algo",
-            "pos": "verb",
-            "back": "to warn about something",
-            "example": "Los expertos advierten de un nuevo aumento de la violencia.",
-            "tier": "B2"
-          },
-          {
-            "front": "un ciclo sin fin",
-            "pos": "phrase",
-            "back": "an endless cycle",
-            "example": "Sin educación, la pobreza es un ciclo sin fin.",
-            "tier": "B1"
-          },
-          {
-            "front": "ocupar el lugar de alguien",
-            "pos": "phrase",
-            "back": "to take someone's place",
-            "example": "Otro dirigente ocupará su lugar en pocos días.",
-            "tier": "B2"
-          },
-          {
-            "front": "militarizar",
-            "pos": "verb",
-            "back": "to militarise",
-            "example": "El presidente decidió militarizar las calles del puerto.",
-            "tier": "C1"
-          },
-          {
-            "front": "el punto de salida",
-            "pos": "noun",
-            "back": "exit point, departure point",
-            "example": "El puerto se convirtió en punto de salida de la droga.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Ecuador se enfrenta a un enorme aumento de los delitos violentos relacionados con el narcotráfico, y los agentes salen a trabajar sabiendo que el riesgo es constante.",
-            "point": "El gerundio con valor de circunstancia simultánea",
-            "explanation": "Sabiendo que expresa el modo o la circunstancia en que ocurre la acción principal salen a trabajar. El gerundio español funciona bien aquí porque las dos acciones son simultáneas y tienen el mismo sujeto.",
-            "why_tricky": "En inglés el gerundio también puede ser sujeto u objeto, pero en español eso es imposible: nunca se dice sabiendo es difícil, sino saber es difícil."
-          },
-          {
-            "sentence": "Durante años Ecuador se consideró un país tranquilo entre dos grandes productores de cocaína, pero se ha convertido en un punto clave de salida hacia Europa y Estados Unidos.",
-            "point": "Contraste entre indefinido y pretérito perfecto, con se impersonal",
-            "explanation": "Se consideró usa el indefinido para un periodo cerrado en el pasado, mientras que se ha convertido usa el perfecto porque el resultado sigue vigente hoy. El se de se consideró es impersonal: it was considered.",
-            "why_tricky": "El mismo pronombre se aparece dos veces con valores distintos, impersonal en el primero y parte del verbo convertirse en el segundo."
-          },
-          {
-            "sentence": "Las autoridades han militarizado la respuesta, aunque muchos expertos advierten de que sin empleo ni oportunidades para los jóvenes el ciclo volverá a empezar.",
-            "point": "La perífrasis volver a + infinitivo y la negación sin ... ni",
-            "explanation": "Volver a empezar significa to start again, no to return to start. Además, tras la preposición sin, la conjunción y se sustituye por ni: sin empleo ni oportunidades.",
-            "why_tricky": "Volver mantiene su significado literal de regresar en otros contextos, así que hay que reconocer la perífrasis por la estructura volver a + infinitivo."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "volver a empezar",
-            "meaning": "to start all over again, to be back to square one",
-            "example": "Si no cambia nada de fondo, todo volverá a empezar."
-          },
-          {
-            "phrase": "acabar con algo",
-            "meaning": "to put an end to something, to stamp something out",
-            "example": "Prometieron acabar con la corrupción en dos años."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Qué muestra el reportaje de la BBC sobre el trabajo diario de la policía ecuatoriana?",
-            "type": "open"
-          },
-          {
-            "q": "¿Por qué se ha convertido Ecuador en un punto clave del narcotráfico internacional?",
-            "type": "open"
-          },
-          {
-            "q": "Según los expertos, ¿por qué no basta con una respuesta militar?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Escribe unas 120 palabras: ¿crees que militarizar la seguridad es una respuesta eficaz al crimen organizado, o habría que empezar por el empleo y la educación? Da dos razones y un ejemplo."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-29-mariposas-clima",
-      "title": "El cambio climático obliga a las mariposas a desplazarse a otras regiones",
-      "source": "RFI Español",
-      "date": "2026-08-28",
-      "level": "B1-B2",
-      "topics": [
-        "naturaleza",
-        "ciencia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-29-mariposas-clima",
-        "revision": 1,
-        "meta": {
-          "title": "El cambio climático obliga a las mariposas a desplazarse a otras regiones",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/programas/mundo-ciencia/20260828-el-cambio-clim%C3%A1tico-obliga-a-las-mariposas-a-desplazarse-a-otras-regiones",
-          "date_published": "2026-08-28",
-          "date_processed": "2026-08-29",
-          "tags": [
-            "naturaleza",
-            "ciencia"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Perhaps you have spotted a butterfly in your garden that you had never seen before. It looks like a lovely find, but it may in fact be a warning sign. A large-scale study published in Nature Ecology and Evolution, coordinated by Professor Shawan Choudry in Australia, concludes that climate change is forcing butterflies to move, sometimes over very long distances.\n\nButterflies are extremely sensitive to temperature and humidity, so they work as a thermometer for the whole ecosystem. When they shift towards colder or higher areas, they bring changes with them in pollination and in the species that depend on them. Scientists warn that not all of them will manage to adapt in time, especially those that need a single plant to feed on, which is why they are calling for green corridors to be preserved so that these insects can travel.",
-        "resumen_es": "Quizá usted haya visto en su jardín una mariposa que nunca había observado antes. Parece un hallazgo bonito, pero en realidad puede ser una señal de alarma. Una investigación a gran escala publicada en Nature Ecology and Evolution, coordinada por el profesor Shawan Choudry en Australia, concluye que el cambio climático está obligando a las mariposas a desplazarse, en ocasiones a grandes distancias.\n\nLas mariposas son muy sensibles a la temperatura y a la humedad, así que funcionan como termómetro de todo el ecosistema. Cuando se mueven hacia zonas más frías o más altas, arrastran consigo cambios en la polinización y en las especies que dependen de ellas. Los científicos avisan de que no todas lograrán adaptarse a tiempo, sobre todo las que necesitan una sola planta para alimentarse, y por eso piden conservar corredores verdes que les permitan viajar.",
-        "vocab": [
-          {
-            "front": "el hallazgo",
-            "pos": "noun",
-            "back": "find, discovery",
-            "example": "El hallazgo sorprendió a todo el equipo de biólogos.",
-            "tier": "B2"
-          },
-          {
-            "front": "la señal de alarma",
-            "pos": "noun",
-            "back": "warning sign, red flag",
-            "example": "La subida de la temperatura es una señal de alarma clara.",
-            "tier": "B1"
-          },
-          {
-            "front": "desplazarse",
-            "pos": "verb",
-            "back": "to move, to travel from one place to another",
-            "example": "Muchas especies se desplazan hacia el norte cada década.",
-            "tier": "B2"
-          },
-          {
-            "front": "a gran escala",
-            "pos": "phrase",
-            "back": "large-scale",
-            "example": "Es un estudio a gran escala con datos de veinte países.",
-            "tier": "B2"
-          },
-          {
-            "front": "sensible a",
-            "pos": "adj",
-            "back": "sensitive to (careful: not sensible, which means sensato)",
-            "example": "Esta planta es muy sensible a los cambios de humedad.",
-            "tier": "B2"
-          },
-          {
-            "front": "la humedad",
-            "pos": "noun",
-            "back": "humidity, damp",
-            "example": "La humedad del bosque baja cada verano.",
-            "tier": "B1"
-          },
-          {
-            "front": "la polinización",
-            "pos": "noun",
-            "back": "pollination",
-            "example": "Sin polinización no habría fruta en los árboles.",
-            "tier": "C1"
-          },
-          {
-            "front": "arrastrar consigo",
-            "pos": "verb",
-            "back": "to bring along with it, to drag along",
-            "example": "La sequía arrastra consigo problemas económicos.",
-            "tier": "C1"
-          },
-          {
-            "front": "adaptarse a tiempo",
-            "pos": "phrase",
-            "back": "to adapt in time",
-            "example": "Pocas especies logran adaptarse a tiempo a un clima nuevo.",
-            "tier": "B2"
-          },
-          {
-            "front": "alimentarse de",
-            "pos": "verb",
-            "back": "to feed on",
-            "example": "Estas orugas se alimentan de una sola planta.",
-            "tier": "B1"
-          },
-          {
-            "front": "el corredor verde",
-            "pos": "noun",
-            "back": "green corridor (a connected strip of habitat)",
-            "example": "La ciudad quiere crear un corredor verde hasta el río.",
-            "tier": "C1"
-          },
-          {
-            "front": "avisar de algo",
-            "pos": "verb",
-            "back": "to warn of something",
-            "example": "Los biólogos avisan de la pérdida de insectos.",
-            "tier": "B1"
-          },
-          {
-            "front": "quizá",
-            "pos": "adv",
-            "back": "perhaps, maybe",
-            "example": "Quizá llueva esta tarde en la sierra.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Quizá usted haya visto en su jardín una mariposa que nunca había observado antes.",
-            "point": "Quizá con subjuntivo y contraste entre perfecto de subjuntivo y pluscuamperfecto",
-            "explanation": "Quizá admite indicativo o subjuntivo; con subjuntivo, haya visto, la duda es mayor. Había observado es pluscuamperfecto porque señala una acción anterior a ese momento pasado de referencia.",
-            "why_tricky": "El estudiante suele poner indicativo por defecto tras quizá y pierde el matiz de duda que el hablante quiere transmitir."
-          },
-          {
-            "sentence": "Cuando se mueven hacia zonas más frías o más altas, arrastran consigo cambios en la polinización y en las especies que dependen de ellas.",
-            "point": "El pronombre preposicional reflexivo consigo",
-            "explanation": "Consigo es la forma de con + sí para la tercera persona: llevan los cambios con ellas mismas. No se dice con sí ni con ellas cuando el referente es el mismo sujeto.",
-            "why_tricky": "Existen tres formas irregulares, conmigo, contigo y consigo, y solo consigo es reflexiva, lo que confunde a quien las aprende juntas."
-          },
-          {
-            "sentence": "Los científicos avisan de que no todas lograrán adaptarse a tiempo, sobre todo las que necesitan una sola planta para alimentarse, y por eso piden conservar corredores verdes que les permitan viajar.",
-            "point": "Subjuntivo en la oración de relativo con antecedente inespecífico",
-            "explanation": "Corredores verdes que les permitan viajar usa subjuntivo porque esos corredores todavía no existen: se describen como deseados, no como reales. Si existieran ya, sería que les permiten viajar.",
-            "why_tricky": "La diferencia entre permitan y permiten no cambia la traducción inglesa, así que el matiz de existencia real o hipotética pasa desapercibido."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "dar la voz de alarma",
-            "meaning": "to raise the alarm, to sound the alarm",
-            "example": "Los biólogos dieron la voz de alarma hace más de una década."
-          },
-          {
-            "phrase": "en ocasiones",
-            "meaning": "sometimes, on occasion (more formal than a veces)",
-            "example": "En ocasiones los datos tardan años en confirmarse."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué una mariposa nueva en el jardín puede ser una mala noticia?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué papel juegan las mariposas dentro del ecosistema?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué proponen los científicos para ayudar a las especies que se desplazan?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Escribe unas 120 palabras: ¿qué medidas concretas podría tomar tu ciudad para proteger a los insectos polinizadores? Explica cuál te parece más urgente y por qué."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-29-celine-dion-paris",
-      "title": "Francia: Céline Dion ya está en París para sus dos semanas de conciertos",
-      "source": "RFI Español",
-      "date": "2026-08-28",
-      "level": "B1-B2",
-      "topics": [
-        "música",
-        "cultura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-29-celine-dion-paris",
-        "revision": 1,
-        "meta": {
-          "title": "Francia: Céline Dion ya está en París para sus dos semanas de conciertos",
-          "source": "RFI Español",
-          "url": "https://www.rfi.fr/es/francia/20260828-francia-c%C3%A9line-dion-ya-est%C3%A1-en-par%C3%ADs-para-sus-dos-semanas-de-conciertos",
-          "date_published": "2026-08-28",
-          "date_processed": "2026-08-29",
-          "tags": [
-            "música",
-            "cultura"
-          ],
-          "level": "B1-B2"
-        },
-        "summary_en": "Celine Dion is already in Paris, where in about two weeks she will give a series of concerts in the French capital. The Canadian singer arrived on Friday and her presence has stirred up enormous anticipation among the public and the press. This is one of the most eagerly awaited events of the season, after a long period away from the big stages for health reasons.\n\nHer return has a value that goes beyond the music. Dion suffers from a rare neurological illness that affects muscle control and that forced her to cancel entire tours, so every public appearance is followed with particular attention. For her fans, seeing her sing live again amounts to something like a shared victory. Tickets sold out within hours and the city is getting ready to welcome thousands of visitors.",
-        "resumen_es": "Céline Dion ya se encuentra en París, donde dentro de unas dos semanas ofrecerá una serie de conciertos en la capital francesa. La cantante canadiense llegó este viernes y su presencia ha despertado una enorme expectación entre el público y la prensa. Se trata de una de las citas más esperadas de la temporada, después de un largo periodo alejada de los grandes escenarios por motivos de salud.\n\nSu regreso tiene un valor que va más allá de la música. Dion padece una enfermedad neurológica poco frecuente que afecta al control muscular y que la obligó a suspender giras enteras, de modo que cada aparición pública se sigue con especial atención. Para sus seguidores, verla cantar de nuevo en directo supone algo parecido a una victoria compartida. Las entradas se agotaron en cuestión de horas y la ciudad se prepara para recibir a miles de visitantes.",
-        "vocab": [
-          {
-            "front": "encontrarse (en un lugar)",
-            "pos": "verb",
-            "back": "to be (located) somewhere",
-            "example": "El museo se encuentra en el centro histórico.",
-            "tier": "B1"
-          },
-          {
-            "front": "ofrecer un concierto",
-            "pos": "phrase",
-            "back": "to give a concert",
-            "example": "El grupo ofrecerá tres conciertos en Madrid.",
-            "tier": "B1"
-          },
-          {
-            "front": "despertar expectación",
-            "pos": "phrase",
-            "back": "to arouse anticipation",
-            "example": "El anuncio despertó una gran expectación.",
-            "tier": "B2"
-          },
-          {
-            "front": "la cita",
-            "pos": "noun",
-            "back": "event, appointment, date",
-            "example": "Es la cita cultural más importante del año.",
-            "tier": "B2"
-          },
-          {
-            "front": "la temporada",
-            "pos": "noun",
-            "back": "season",
-            "example": "La temporada de teatro empieza en octubre.",
-            "tier": "B1"
-          },
-          {
-            "front": "el escenario",
-            "pos": "noun",
-            "back": "stage",
-            "example": "Salió al escenario entre aplausos.",
-            "tier": "B1"
-          },
-          {
-            "front": "padecer",
-            "pos": "verb",
-            "back": "to suffer from (an illness)",
-            "example": "Padece una enfermedad crónica desde niño.",
-            "tier": "B2"
-          },
-          {
-            "front": "poco frecuente",
-            "pos": "adj",
-            "back": "rare, uncommon",
-            "example": "Es un trastorno poco frecuente.",
-            "tier": "B1"
-          },
-          {
-            "front": "la gira",
-            "pos": "noun",
-            "back": "tour",
-            "example": "Cancelaron la gira por Europa.",
-            "tier": "B1"
-          },
-          {
-            "front": "suspender",
-            "pos": "verb",
-            "back": "to call off, to postpone",
-            "example": "Han suspendido el partido por la lluvia.",
-            "tier": "B1"
-          },
-          {
-            "front": "en directo",
-            "pos": "phrase",
-            "back": "live",
-            "example": "Prefiero escuchar música en directo.",
-            "tier": "B1"
-          },
-          {
-            "front": "agotarse",
-            "pos": "verb",
-            "back": "to sell out, to run out",
-            "example": "Las entradas se agotaron enseguida.",
-            "tier": "B2"
-          },
-          {
-            "front": "el seguidor",
-            "pos": "noun",
-            "back": "fan, follower",
-            "example": "Sus seguidores la esperaban en el aeropuerto.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Céline Dion ya se encuentra en París, donde dentro de unas dos semanas ofrecerá una serie de conciertos en la capital francesa.",
-            "point": "dentro de + time for future reference",
-            "explanation": "Dentro de dos semanas means 'in two weeks from now' and points forward. To say 'within' a completed period Spanish uses en, as in lo hizo en dos semanas.",
-            "why_tricky": "English uses 'in' for both meanings, so learners write en dos semanas when they mean a future moment."
-          },
-          {
-            "sentence": "Dion padece una enfermedad neurológica poco frecuente que afecta al control muscular y que la obligó a suspender giras enteras, de modo que cada aparición pública se sigue con especial atención.",
-            "point": "afectar a and obligar a + infinitive",
-            "explanation": "Afectar takes the preposition a before its object in careful Spanish: afecta al control muscular. Obligar also needs a before the infinitive: la obligó a suspender.",
-            "why_tricky": "Both verbs look transitive to an English speaker, so the a is regularly dropped in learner writing."
-          },
-          {
-            "sentence": "Para sus seguidores, verla cantar de nuevo en directo supone algo parecido a una victoria compartida.",
-            "point": "Infinitive as subject with an attached pronoun",
-            "explanation": "Verla cantar works as the subject of supone. The object pronoun la attaches to the end of the infinitive, and a second infinitive follows directly with no preposition after verbs of perception.",
-            "why_tricky": "Learners separate the pronoun (la ver) or insert que, and English needs a gerund here rather than an infinitive."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "en cuestión de horas",
-            "meaning": "within a matter of hours",
-            "example": "El vídeo se hizo viral en cuestión de horas."
-          },
-          {
-            "phrase": "ir más allá de",
-            "meaning": "to go beyond",
-            "example": "El problema va más allá del dinero."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "¿Por qué se considera especial el regreso de Céline Dion a los escenarios?",
-            "type": "open"
-          },
-          {
-            "q": "¿Cómo ha reaccionado el público ante el anuncio de los conciertos?",
-            "type": "open"
-          },
-          {
-            "q": "¿Qué quiere decir el texto cuando habla de una victoria compartida?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "¿Qué importancia tiene para un artista volver a actuar en directo después de una enfermedad grave? Escribe unas 120 palabras."
       }
     }
   ]
